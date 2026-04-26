@@ -4,8 +4,8 @@ Date: 2026-04-26
 
 ## Immediate Priority
 
-Build a clinician-readable baseline before proposing any cure hypothesis. The
-next research cycle should answer:
+Build a clinician-readable baseline while pursuing cure-oriented discovery. The
+current research cycle should answer:
 
 - What exact thalassemia subtype and genotype are we dealing with?
 - Does current care match modern TDT monitoring standards?
@@ -13,6 +13,8 @@ next research cycle should answer:
   transfusion burden?
 - Which paths are blocked mainly by price, infrastructure, or missing access in
   Indonesia?
+- Which affordable candidates can plausibly mimic HbF reactivation or improve
+  erythroid/red-cell biology?
 
 ## Workstreams
 

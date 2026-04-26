@@ -21,6 +21,9 @@ Nakafa Lab should deepen hydroxyurea first because it is the most realistic
 affordable comparator. Any bee-derived candidate must beat the minimum bar:
 identity, safety, hemolysis screen, and HbF/erythroid endpoint.
 
+The first deep-dive file is now
+`research/thalassemia/findings/2026-04-26-hydroxyurea-deep-dive.md`.
+
 ## Not A Recommendation
 
 This is a research ranking. It is not a patient treatment ranking.

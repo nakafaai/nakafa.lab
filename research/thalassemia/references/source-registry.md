@@ -40,6 +40,9 @@ Checked on 2026-04-26 unless noted.
 | Safety assay | [Compound cytotoxicity profiling, PubMed PMID 18335092](https://pubmed.ncbi.nlm.nih.gov/18335092/) | General cytotoxicity profiling reference for compound screening. |
 | HbF drugs | [Hydroxyurea in TDT meta-analysis, PubMed PMID 37252463](https://pubmed.ncbi.nlm.nih.gov/37252463/) | Evidence review for hydroxyurea in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Hydroxyurea in NTDT meta-analysis, PubMed PMID 28408107](https://pubmed.ncbi.nlm.nih.gov/28408107/) | Evidence review for hydroxyurea in non-transfusion-dependent beta-thalassemia. |
+| HbF drugs | [HbE/beta-thalassemia and XmnI response, PubMed PMID 34406845](https://pubmed.ncbi.nlm.nih.gov/34406845/) | Genotype-linked hydroxyurea response context in HbE/beta-thalassemia. |
+| HbF drugs | [Hydroxyurea response in beta-thalassemia/HbE erythroid culture, PubMed PMID 16389564](https://pubmed.ncbi.nlm.nih.gov/16389564/) | In vitro response measurement context. |
+| HbF drugs | [Cochrane hydroxyurea for NTDT](https://www.cochrane.org/evidence/CD011579_hydroxyurea-reducing-blood-transfusion-non-transfusion-dependent-beta-thalassaemias) | Evidence quality and adverse-event context for NTDT. |
 | HbF drugs | [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/) | Randomized phase 2 evidence for thalidomide in TDT, with safety caveats. |
 | HbF drugs | [Hydroxyurea versus thalidomide RCT, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9809516/) | Direct comparison trial in adult TDT patients. |
 | HbF drugs | [Thalidomide non-randomized TDT trial, PubMed PMID 40446669](https://pubmed.ncbi.nlm.nih.gov/40446669/) | Longer follow-up thalidomide signal and gene-expression context. |

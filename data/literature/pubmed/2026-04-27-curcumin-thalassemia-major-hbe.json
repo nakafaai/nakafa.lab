@@ -1,0 +1,208 @@
+{
+  "count": 9,
+  "query": "(curcumin OR curcuminoids) AND (\"beta-thalassemia major\" OR \"beta thalassemia major\" OR \"thalassemia major\" OR \"Hb E\")",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38164474"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10757948"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10757948;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fphar.2023.1284326"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1284326"
+        }
+      ],
+      "journal": "Front Pharmacol",
+      "pmid": "38164474",
+      "pubdate": "2023",
+      "title": "The effects of curcumin on hepatic T2*MRI and liver enzymes in patients with \u03b2-thalassemia major: a double-blind randomized controlled clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33388858"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-020-04379-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-020-04379-7"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "33388858",
+      "pubdate": "2021 Apr",
+      "title": "Curcuminoids supplementation ameliorates iron overload, oxidative stress, hypercoagulability, and inflammation in non-transfusion-dependent \u03b2-thalassemia/Hb E patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22818714"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jnutbio.2012.02.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0955-2863(12)00074-5"
+        }
+      ],
+      "journal": "J Nutr Biochem",
+      "pmid": "22818714",
+      "pubdate": "2013 Mar",
+      "title": "Role of curcuminoids in ameliorating oxidative modification in \u03b2-thalassemia/Hb E plasma proteome."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19900435"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.clinbiochem.2009.10.057"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-9120(09)00507-4"
+        }
+      ],
+      "journal": "Clin Biochem",
+      "pmid": "19900435",
+      "pubdate": "2010 Mar",
+      "title": "Improvement in oxidative stress and antioxidant parameters in beta-thalassemia/Hb E patients treated with curcuminoids."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29806132"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ptr.6118"
+        }
+      ],
+      "journal": "Phytother Res",
+      "pmid": "29806132",
+      "pubdate": "2018 Sep",
+      "title": "An investigation of the effects of curcumin on iron overload, hepcidin level, and liver function in \u03b2-thalassemia major patients: A double-blind randomized controlled clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30661467"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/16078454.2019.1568354"
+        }
+      ],
+      "journal": "Hematology",
+      "pmid": "30661467",
+      "pubdate": "2019 Dec",
+      "title": "Differentially expressed plasma proteins of \u03b2-thalassemia/hemoglobin E patients in response to curcuminoids/vitamin E antioxidant cocktails."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28881347"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000479634"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "000479634"
+        }
+      ],
+      "journal": "Ann Nutr Metab",
+      "pmid": "28881347",
+      "pubdate": "2017",
+      "title": "Benefits of Curcumin Supplementation on Antioxidant Status in \u03b2-Thalassemia Major Patients: A Double-Blind Randomized Controlled Clinical Trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21235521"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/157340611794072724"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "MC-2011-7-1-9"
+        }
+      ],
+      "journal": "Med Chem",
+      "pmid": "21235521",
+      "pubdate": "2011 Jan",
+      "title": "Reversal of cardiac iron loading and dysfunction in thalassemic mice by curcuminoids."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31950948"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1039/c9fo02424g"
+        }
+      ],
+      "journal": "Food Funct",
+      "pmid": "31950948",
+      "pubdate": "2020 Jan 29",
+      "title": "Consumption of a green tea extract-curcumin drink decreases blood urea nitrogen and redox iron in \u03b2-thalassemia patients."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "count": 6,
+  "query": "(curcuminoid OR curcumin OR trienone) AND (\"fetal hemoglobin\" OR gamma-globin OR HBG1 OR HBG2 OR \"beta-thalassemia/HbE\" OR \"beta thalassemia HbE\")",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23079892"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-012-1604-1"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "23079892",
+      "pubdate": "2013 Mar",
+      "title": "A reduced curcuminoid analog as a novel inducer of fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33879818"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8058333"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8058333;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-021-87738-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-021-87738-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "33879818",
+      "pubdate": "2021 Apr 20",
+      "title": "Trienone analogs of curcuminoids induce fetal hemoglobin synthesis via demethylation at (G)\u03b3-globin gene promoter."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40997022"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12463213"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12463213;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0333127"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-25-27353"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "40997022",
+      "pubdate": "2025",
+      "title": "Inhibition of XPO1 by selinexor enhances terminal erythroid maturation through modulation of HSP70 trafficking in severe \u03b20-thalassemia/HbE."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36978988"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10045360"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10045360;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox12030740"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox12030740"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "36978988",
+      "pubdate": "2023 Mar 17",
+      "title": "Keap1-Nrf2 Heterodimer: A Therapeutic Target to Ameliorate Sickle Cell Disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26078808"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4452506"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4452506;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2015/537954"
+        }
+      ],
+      "journal": "Oxid Med Cell Longev",
+      "pmid": "26078808",
+      "pubdate": "2015",
+      "title": "Treatment of \u03b2-Thalassemia/Hemoglobin E with Antioxidant Cocktails Results in Decreased Oxidative Stress, Increased Hemoglobin Concentration, and Improvement of the Hypercoagulable State."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31048070"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.gene.2019.04.077"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0378-1119(19)30435-4"
+        }
+      ],
+      "journal": "Gene",
+      "pmid": "31048070",
+      "pubdate": "2019 Jul 20",
+      "title": "Integrative microRNA and gene expression analysis identifies new drug repurposing candidates for fetal hemoglobin induction in \u03b2-hemoglobinopathies."
+    }
+  ]
+}

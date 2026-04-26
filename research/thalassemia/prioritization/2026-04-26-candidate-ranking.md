@@ -11,10 +11,11 @@ Scope: affordable cure-oriented research, not treatment advice
 | 2 | Sirolimus evidence map | repurposing signal for gamma-globin induction | immune risk and monitoring |
 | 3 | Thalidomide-class evidence map | transfusion-burden signal and active trials | teratogenicity, neuropathy, thrombosis |
 | 4 | Epigenetic HbF target discovery | `MBD2-NuRD`, `LSD1`, `DNMT1`, and `NRF2/BACH1` make the assay screen mechanistic | toxicity and selectivity |
-| 5 | Assay-ready HbF screen | directly tests cure-like endpoint | needs lab partner and assay access |
-| 6 | Propolis red-cell oxidative-stress lane | red-cell oxidative-stress evidence exists | no direct HbF or thalassemia evidence yet |
-| 7 | Royal jelly oxidative-stress lane | general oxidative/inflammation evidence exists | no direct HbF or thalassemia evidence yet |
-| 8 | Melittin/bee venom lane | biologically active venom molecule | hemolysis and anaphylaxis risk; hazard-first only |
+| 5 | Curcuminoid analog HbF bridge | natural-product-adjacent analogs have direct HbF literature | not the same as ordinary curcumin; needs defined analog and safety |
+| 6 | Assay-ready HbF screen | directly tests cure-like endpoint | needs lab partner and assay access |
+| 7 | Propolis red-cell oxidative-stress lane | red-cell oxidative-stress evidence exists | no direct HbF or thalassemia evidence yet |
+| 8 | Royal jelly oxidative-stress lane | general oxidative/inflammation evidence exists | no direct HbF or thalassemia evidence yet |
+| 9 | Melittin/bee venom lane | biologically active venom molecule | hemolysis and anaphylaxis risk; hazard-first only |
 
 ## Active Decision
 
@@ -43,6 +44,10 @@ human beta-thalassemia major literature around iron and liver/inflammation
 markers, but no current evidence that it reactivates HbF or replaces transfusion
 and chelation.
 
+Curcuminoid analogs are separated from ordinary curcumin. The analog lane is
+closer to HbF/cure-oriented research; curcumin supplementation remains a
+supportive biology lane.
+
 ## Not A Recommendation
 
 This is a research ranking. It is not a patient treatment ranking.
@@ -55,5 +60,6 @@ This is a research ranking. It is not a patient treatment ranking.
 - [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/)
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Quercetin adjunct biology deep dive](../findings/2026-04-27-quercetin-adjunct-biology-deep-dive.md)
+- [Curcuminoid HbF bridge deep dive](../findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
 - [Propolis cytoprotective activity in human erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/)
 - [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/)

@@ -22,6 +22,9 @@ The strongest new target families are:
 - selected curcuminoid/trienone analogs, as a natural-product-adjacent HbF
   signal in beta-thalassemia/HbE erythroid progenitors.
 
+The curcuminoid branch is now tracked separately in
+[Curcuminoid HbF bridge deep dive](2026-04-27-curcuminoid-hbf-bridge-deep-dive.md).
+
 ## Target Ranking
 
 | Rank | Target lane | Why it matters | Main blocker |
@@ -80,6 +83,7 @@ red-cell, and safety gates as synthetic small molecules.
 - [Decitabine plus RN-1 in beta-thalassemia/HbE erythroid progenitors, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12903249/)
 - [NRF2 and gamma-globin regulation, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5541881/)
 - [Curcuminoid trienone analogs in beta-thalassemia/HbE progenitors, Scientific Reports](https://www.nature.com/articles/s41598-021-87738-2)
+- [Curcuminoid HbF bridge deep dive](2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
 - [HbF regulator PubMed snapshot](../../../data/literature/pubmed/2026-04-27-hbf-regulator-targets.json)
 - [LSD1 PubMed snapshot](../../../data/literature/pubmed/2026-04-27-lsd1-hbf-induction.json)
 - [HDAC PubMed snapshot](../../../data/literature/pubmed/2026-04-27-hdac-hbf-induction.json)

@@ -28,6 +28,10 @@ BEE_CONSTITUENT_PATHS = [
     "data/literature/pubmed/2026-04-27-quercetin-beta-thalassemia-major.json",
     "data/literature/pubmed/2026-04-27-quercetin-thalassemia-selected-abstracts.xml",
     "data/registries/clinicaltrials/2026-04-27-quercetin-thalassemia-trials.json",
+    "data/literature/pubmed/2026-04-27-curcuminoid-hbf-beta-thalassemia-hbe.json",
+    "data/literature/pubmed/2026-04-27-curcumin-thalassemia-major-hbe.json",
+    "data/literature/pubmed/2026-04-27-curcuminoid-thalassemia-selected-abstracts.xml",
+    "data/registries/clinicaltrials/2026-04-27-curcumin-thalassemia-trials.json",
 ]
 
 REQUIRED_PATHS = [
@@ -110,6 +114,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-gene-therapy-access-frontier.md",
     "research/thalassemia/findings/2026-04-27-epigenetic-hbf-target-drilldown.md",
     "research/thalassemia/findings/2026-04-27-chemistry-identity-benchmark-map.md",
+    "research/thalassemia/findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

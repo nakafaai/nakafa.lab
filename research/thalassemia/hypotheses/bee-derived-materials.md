@@ -14,7 +14,8 @@ thalassemia.
 | Track | Candidate | Initial status |
 | --- | --- | --- |
 | Non-venom extract | propolis | red-cell oxidative-stress lane, no HbF evidence yet |
-| Non-venom extract | royal jelly, pollen, bee bread | safety and standardization first |
+| Non-venom extract | royal jelly | systemic oxidative-stress lane, no HbF evidence yet |
+| Non-venom extract | pollen, bee bread | safety and standardization first |
 | Venom molecule | melittin, apamin, PLA2 | hazard-first; whole venom not prioritized |
 | Biomaterial | chitin/chitosan from exoskeleton or wings | delivery/materials lane |
 | Nutrition | larvae, pupae, drone brood | food composition lane |
@@ -32,6 +33,7 @@ thalassemia.
 ## Current Deep Dive
 
 - `research/thalassemia/findings/2026-04-26-propolis-red-cell-deep-dive.md`
+- `research/thalassemia/findings/2026-04-27-royal-jelly-oxidative-stress-deep-dive.md`
 
 ## Rejection Rule
 

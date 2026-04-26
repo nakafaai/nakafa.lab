@@ -1,0 +1,67 @@
+{
+  "count": 2,
+  "query": "royal jelly oxidative stress inflammation meta-analysis",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40656618"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12244952"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12244952;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.22038/ajp.2024.25139"
+        }
+      ],
+      "journal": "Avicenna J Phytomed",
+      "pmid": "40656618",
+      "pubdate": "2025 Jul-Aug",
+      "title": "Effects of royal jelly consumption on inflammation and oxidative stress: A systematic review and meta-analysis of randomized controlled trials."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41261111"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12630772"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12630772;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41387-025-00403-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41387-025-00403-9"
+        }
+      ],
+      "journal": "Nutr Diabetes",
+      "pmid": "41261111",
+      "pubdate": "2025 Nov 19",
+      "title": "Dosage exploration of the effects of honey and its derivatives on cardiometabolic outcomes: an overview of systematic reviews and GRADE-assessed updated meta-analysis."
+    }
+  ]
+}

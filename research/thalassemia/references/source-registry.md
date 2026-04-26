@@ -73,6 +73,8 @@ Checked on 2026-04-26 unless noted.
 | Bee products | [Propolis cytoprotective activity in erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/) | Propolis red-cell oxidative-stress signal; not HbF evidence. |
 | Bee products | [Propolis and hereditary spherocytosis membranes, PubMed PMID 21130830](https://pubmed.ncbi.nlm.nih.gov/21130830/) | Erythrocyte membrane context outside thalassemia. |
 | Bee products | [Royal jelly oxidative stress meta-analysis, PubMed PMID 40656618](https://pubmed.ncbi.nlm.nih.gov/40656618/) | General inflammation/oxidative-stress evidence, not thalassemia-specific. |
+| Bee products | [Royal jelly oxidative-stress PubMed snapshot](../../../data/literature/pubmed/2026-04-27-royal-jelly-oxidative-stress.json) | Reproducible PubMed query snapshot for royal jelly oxidative-stress evidence. |
+| Bee products | [Royal jelly HbF evidence-gap snapshot](../../../data/literature/pubmed/2026-04-27-royal-jelly-hbf-gap.json) | Reproducible PubMed query snapshot showing no first-pass HbF/thalassemia results. |
 | Bee venom | [Risk associated with bee venom therapy, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4440710/) | Systematic review and meta-analysis for bee venom adverse events. |
 | Bee venom | [Bee venom bioactive molecules review, PubMed PMID 33142794](https://pubmed.ncbi.nlm.nih.gov/33142794/) | Venom molecules such as melittin and PLA2; pharmacology and safety context. |
 | Bee venom | [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/) | Direct red-cell lysis hazard for melittin. |

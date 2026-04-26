@@ -27,6 +27,11 @@ Checked on 2026-04-26 unless noted.
 | HbF drugs | [Pharmacological induction of HbF, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9227505/) | Review of pharmacologic HbF inducers in beta-thalassemia and sickle cell disease. |
 | HbF drugs | [Small molecule therapeutics for beta-globinopathies, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10916415/) | Review of small-molecule beta-globinopathy therapeutic strategies. |
 | HbF screen | [Small molecule HbF screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/) | Chemogenomic screening workflow for HbF-inducing compounds. |
+| Assay | [Endogenous fetal hemoglobin reporter system, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11302795/) | HUDEP2 reporter system for HbF induction and therapeutic compound screening. |
+| Assay | [Synthetic beta-thalassemia erythropoiesis model, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3704632/) | CD34+ erythroid model for beta-thalassemia-like erythropoiesis. |
+| Assay | [Flow cytometric HbF analysis in beta-thalassemia, PubMed PMID 15163316](https://pubmed.ncbi.nlm.nih.gov/15163316/) | HbF and F-cell measurement context in beta-thalassemia cells. |
+| Safety assay | [Hemolysis assay optimization, PubMed PMID 36769243](https://pubmed.ncbi.nlm.nih.gov/36769243/) | Red-cell hemolysis safety screen reference. |
+| Safety assay | [Compound cytotoxicity profiling, PubMed PMID 18335092](https://pubmed.ncbi.nlm.nih.gov/18335092/) | General cytotoxicity profiling reference for compound screening. |
 | HbF drugs | [Hydroxyurea in TDT meta-analysis, PubMed PMID 37252463](https://pubmed.ncbi.nlm.nih.gov/37252463/) | Evidence review for hydroxyurea in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Hydroxyurea in NTDT meta-analysis, PubMed PMID 28408107](https://pubmed.ncbi.nlm.nih.gov/28408107/) | Evidence review for hydroxyurea in non-transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/) | Randomized phase 2 evidence for thalidomide in TDT, with safety caveats. |

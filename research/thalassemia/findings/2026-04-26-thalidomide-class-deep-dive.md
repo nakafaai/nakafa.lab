@@ -38,6 +38,14 @@ selection, not copied directly into patient care.
 - Hematopoietic lane: reported changes in hemoglobin and transfusion burden.
 - Combination lane: some active studies test thalidomide with hydroxyurea.
 
+## Avadomide Boundary
+
+Avadomide belongs in this class-adjacent mechanism map because Yang 2024 linked
+it to HbF induction and downregulation of `BCL11A`/`IKZF1` in the HUDEP2
+workflow. It should not be treated like thalidomide clinical evidence in
+beta-thalassemia. First-pass snapshots found no direct avadomide thalassemia
+PubMed evidence and no avadomide thalassemia intervention trials.
+
 ## Safety Barrier
 
 Thalidomide is a hard-caution compound.
@@ -69,6 +77,7 @@ hematologist leads the risk review and a regulator-grade safety process exists.
 - [Hydroxyurea versus thalidomide trial, PubMed PMID 36620489](https://pubmed.ncbi.nlm.nih.gov/36620489/)
 - [Thalidomide non-randomized TDT trial, PubMed PMID 40446669](https://pubmed.ncbi.nlm.nih.gov/40446669/)
 - [Clinical efficacy across genotypes, PubMed PMID 39026312](https://pubmed.ncbi.nlm.nih.gov/39026312/)
+- [Avadomide CRBN-HbF evidence boundary](2026-04-27-avadomide-crbn-hbf-evidence-boundary.md)
 - [DailyMed thalidomide label](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2eda833b-1357-4ed4-a093-194524fcb061&type=display)
 - [PubMed snapshot](../../../data/literature/pubmed/2026-04-26-thalidomide-beta-thalassemia.json)
 - [ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-26-thalidomide-beta-thalassemia.json)

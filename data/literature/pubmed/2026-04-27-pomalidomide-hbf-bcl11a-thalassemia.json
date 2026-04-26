@@ -1,0 +1,72 @@
+{
+  "count": 2,
+  "query": "pomalidomide fetal hemoglobin BCL11A beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41822826"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12978192"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12978192;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.64898/2026.02.06.704516"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2026.02.06.704516"
+        }
+      ],
+      "journal": "bioRxiv",
+      "pmid": "41822826",
+      "pubdate": "2026 Feb 8",
+      "title": "Regulation of BCL11A DNA binding and expression in human erythrocyte precursor HUDEP-2 cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32268371"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7256358"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7256358;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2020005058"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)61994-2"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "32268371",
+      "pubdate": "2020 May 28",
+      "title": "Understanding heterogeneity of fetal hemoglobin induction through comparative analysis of F and A erythroblasts."
+    }
+  ]
+}

@@ -118,6 +118,23 @@ HBF_REPORTER_GUARDRAIL_PATHS = [
     "data/literature/supplementary/plos/2026-04-27-yang-2024-fig6-western-s005.xlsx",
 ]
 
+CRBN_HBF_BOUNDARY_PATHS = [
+    "data/literature/pubmed/2026-04-27-avadomide-fetal-hemoglobin.json",
+    "data/literature/pubmed/2026-04-27-avadomide-hbf-abstract.xml",
+    "data/literature/pubmed/2026-04-27-avadomide-thalassemia-hbf.json",
+    "data/literature/pubmed/2026-04-27-cc122-fetal-hemoglobin.json",
+    "data/literature/pubmed/2026-04-27-imid-bcl11a-hbf-thalassemia.json",
+    "data/literature/pubmed/2026-04-27-pomalidomide-hbf-bcl11a-thalassemia.json",
+    "data/literature/pubmed/2026-04-27-pomalidomide-hbf-selected-abstracts.xml",
+    "data/literature/pubmed/2026-04-27-pomalidomide-scd-hbf.json",
+    "data/registries/clinicaltrials/2026-04-27-avadomide-scd-intervention-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-avadomide-thalassemia-intervention-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-avadomide-thalassemia-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-pomalidomide-scd-intervention-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-pomalidomide-thalassemia-intervention-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-pomalidomide-thalassemia-trials.json",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -168,6 +185,7 @@ REQUIRED_PATHS = [
     *NATURAL_PRODUCT_HBF_PATHS,
     *QUERCETIN_ANALOG_PATHS,
     *HBF_REPORTER_GUARDRAIL_PATHS,
+    *CRBN_HBF_BOUNDARY_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -195,6 +213,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-hydroxyurea-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-sirolimus-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-thalidomide-class-deep-dive.md",
+    "research/thalassemia/findings/2026-04-27-avadomide-crbn-hbf-evidence-boundary.md",
     "research/thalassemia/findings/2026-04-26-propolis-red-cell-deep-dive.md",
     "research/thalassemia/findings/2026-04-27-melittin-bee-venom-hazard-deep-dive.md",
     "research/thalassemia/findings/2026-04-27-royal-jelly-oxidative-stress-deep-dive.md",

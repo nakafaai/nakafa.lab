@@ -27,6 +27,9 @@ patients, but their safety profile makes them high-caution candidates.
   its design is weaker than randomized evidence.
 - ClinicalTrials.gov shows multiple recent Pakistan-based thalidomide or
   hydroxyurea-plus-thalidomide studies.
+- Avadomide has HUDEP2 and selected primary `CD34+` HbF evidence from Yang
+  2024, but no first-pass direct thalassemia evidence; keep it as a mechanism
+  comparator, not a therapy lead.
 
 ## Safety Questions
 
@@ -42,6 +45,9 @@ patients, but their safety profile makes them high-caution candidates.
 
 Deep dive:
 `research/thalassemia/findings/2026-04-26-thalidomide-class-deep-dive.md`.
+
+Avadomide boundary:
+`research/thalassemia/findings/2026-04-27-avadomide-crbn-hbf-evidence-boundary.md`.
 
 ## Falsification Criteria
 

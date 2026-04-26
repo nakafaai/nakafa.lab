@@ -83,6 +83,9 @@ Checked on 2026-04-26 unless noted.
 | HbF drugs | [Thalidomide PubMed snapshot](../../../data/literature/pubmed/2026-04-26-thalidomide-beta-thalassemia.json) | Reproducible PubMed query snapshot for thalidomide and beta-thalassemia. |
 | Trials | [Thalidomide ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-26-thalidomide-beta-thalassemia.json) | Reproducible registry snapshot for thalidomide-related thalassemia trials. |
 | Drug safety | [DailyMed thalidomide label](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2eda833b-1357-4ed4-a093-194524fcb061&type=display) | Boxed-warning and safety source for teratogenicity, thrombosis, and neuropathy caution. |
+| HbF drugs | [Avadomide CRBN-HbF evidence boundary](../findings/2026-04-27-avadomide-crbn-hbf-evidence-boundary.md) | Keeps avadomide as a CRBN/BCL11A comparator, not a thalassemia treatment lead. |
+| HbF drugs | [Avadomide and pomalidomide PubMed snapshots](../../../data/literature/pubmed/) | First-pass PubMed snapshots for avadomide, CC-122, pomalidomide, HbF, and thalassemia terms. |
+| Trials | [Avadomide and pomalidomide ClinicalTrials.gov snapshots](../../../data/registries/clinicaltrials/) | Intervention snapshots for avadomide and pomalidomide in thalassemia and SCD contexts. |
 | HbF drugs | [Sirthalaclin sirolimus pilot trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218916/) | Pilot sirolimus trial for gamma-globin expression in beta-thalassemia. |
 | HbF drugs | [ClinicalTrials.gov NCT03877809](https://clinicaltrials.gov/study/NCT03877809) | Trial registry record for sirolimus in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Sirolimus PubMed snapshot](../../../data/literature/pubmed/2026-04-26-sirolimus-beta-thalassemia.json) | Reproducible PubMed query snapshot for sirolimus, HbF, and beta-thalassemia. |

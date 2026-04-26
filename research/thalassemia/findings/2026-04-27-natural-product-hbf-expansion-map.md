@@ -65,8 +65,8 @@ Current priority order inside the natural-product HbF lane:
 
 | Priority | Candidate | Reason | Gate before promotion |
 | --- | --- | --- | --- |
-| 1 | `T-BDMC` trienone analog | K562 plus beta-thalassemia/HbE primary-cell bridge | clean structure/supplier/synthesis record |
-| 2 | `isocoronarin D` / `Curcuma comosa` labdane diterpenes | direct K562 `G gamma-globin` reporter signal | compound identity, hemolysis, and disease-cell validation |
+| 1 | `T-BDMC` trienone analog | chemistry-resolved as PubChem `CID 10447050` / ChEMBL `CHEMBL469419`; K562 plus beta-thalassemia/HbE primary-cell bridge | supplier or synthesis batch, hemolysis, and disease-cell replication |
+| 2 | `isocoronarin D` / `Curcuma comosa` labdane diterpenes | direct K562 `G gamma-globin` reporter signal | hemolysis, endogenous HbF, and disease-cell validation |
 | 3 | quercetin analogs | DOI-confirmed HbF-inducing title | full extraction of compounds, assays, effect size, and safety |
 
 Do not rank K562-only seeds by fold-change alone. `T-BDMC` remains higher
@@ -100,3 +100,4 @@ Do not promote either new lead to therapy hypothesis without:
 - [Quercetin analog HbF extraction](2026-04-27-quercetin-analog-hbf-extraction.md)
 - [K562 to HUDEP2 validation guardrail](2026-04-27-k562-to-hudep2-validation-guardrail.md)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
+- [T-BDMC identity resolution](2026-04-27-t-bdmc-identity-resolution.md)

@@ -54,6 +54,13 @@ BEE_CONSTITUENT_PATHS = [
     "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-cur-search.json",
     "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-dmc-search.json",
     "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-search.json",
+    "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-t-bdmc-name-properties.json",
+    "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-t-bdmc-iupac-properties.json",
+    "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-t-bdmc-inchikey-properties.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-iupac-search.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-chembl469419.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-chembl-activities.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-hhbdmc-search.json",
 ]
 
 NATURAL_PRODUCT_HBF_PATHS = [
@@ -222,6 +229,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-chemistry-identity-benchmark-map.md",
     "research/thalassemia/findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md",
     "research/thalassemia/findings/2026-04-27-curcuminoid-analog-assay-map.md",
+    "research/thalassemia/findings/2026-04-27-t-bdmc-identity-resolution.md",
     "research/thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",

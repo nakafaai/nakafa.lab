@@ -50,8 +50,10 @@ supportive biology lane.
 
 The natural-product HbF expansion now includes `Curcuma comosa` labdane
 diterpenes and quercetin analogs as lower-priority seed records. They do not
-move above `T-BDMC` until compound identity, hemolysis, and disease-cell
-validation are documented.
+move above `T-BDMC` until hemolysis and disease-cell validation are documented.
+`T-BDMC` itself now has a database identity trail to PubChem `CID 10447050` and
+ChEMBL `CHEMBL469419`, but still needs a supplier or synthesis batch before
+wet-lab testing.
 
 ## Not A Recommendation
 
@@ -66,6 +68,7 @@ This is a research ranking. It is not a patient treatment ranking.
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Quercetin adjunct biology deep dive](../findings/2026-04-27-quercetin-adjunct-biology-deep-dive.md)
 - [Curcuminoid HbF bridge deep dive](../findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
+- [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Propolis cytoprotective activity in human erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/)
 - [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/)

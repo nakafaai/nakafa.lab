@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10447050,
+        "MolecularFormula": "C19H16O3",
+        "MolecularWeight": "292.3",
+        "SMILES": "C1=CC(=CC=C1/C=C/C=C/C(=O)/C=C/C2=CC=C(C=C2)O)O",
+        "ConnectivitySMILES": "C1=CC(=CC=C1C=CC=CC(=O)C=CC2=CC=C(C=C2)O)O",
+        "InChIKey": "PALMCMYYFAHUGA-BPTNNVFMSA-N",
+        "XLogP": 4,
+        "TPSA": 57.5,
+        "HBondDonorCount": 2,
+        "HBondAcceptorCount": 3,
+        "RotatableBondCount": 5
+      }
+    ]
+  }
+}

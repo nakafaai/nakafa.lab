@@ -85,15 +85,15 @@ Reject or hold a candidate if any of these occur:
 | curcuminoid/trienone analogs | require defined chemistry, HbF endpoint, and beta-thalassemia/HbE endpoint replication |
 | bee-derived materials | require batch identity, allergy screen plan, and hemolysis-first triage |
 
-For curcuminoid analog work, `T-BDMC` is the first high-priority seed, but it
-must be treated as a publication-defined compound until a clean structure file,
-supplier record, or database identifier is obtained.
+For curcuminoid analog work, `T-BDMC` is the first high-priority seed. Its
+structure now resolves to PubChem `CID 10447050` and ChEMBL `CHEMBL469419`, but
+it still needs a supplier or synthesis batch before testing.
 
 ## Natural-Product HbF Seed Queue
 
 | Seed | Current status | First assay decision |
 | --- | --- | --- |
-| `T-BDMC` | strongest current biology bridge; K562 plus beta-thalassemia/HbE primary-cell evidence | resolve exact structure or synthesis source before new testing |
+| `T-BDMC` | chemistry-resolved as PubChem `CID 10447050` / ChEMBL `CHEMBL469419`; strongest current biology bridge; K562 plus beta-thalassemia/HbE primary-cell evidence | obtain supplier/synthesis batch, confirm purity, and run hemolysis before disease-cell escalation |
 | `isocoronarin D` | chemistry-resolved as `CHEMBL1099267` / PubChem `CID 46871816`; K562 reporter `FC 1.6` at `20 uM` | hemolysis and K562 repeat before disease-cell escalation |
 | `3,4'-Di-O-methylquercetin` | chemistry-resolved as PubChem `CID 5380905` / `CHEMBL309263`; Springer abstract reports K562 reporter `2.6-fold` at `8 uM` | treat as quercetin analog, not quercetin supplement; repeat reporter and add endogenous HbF |
 
@@ -137,6 +137,7 @@ Every completed run should produce:
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Curcuminoid HbF bridge deep dive](../findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
 - [Curcuminoid analog assay map](../findings/2026-04-27-curcuminoid-analog-assay-map.md)
+- [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
 - [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)

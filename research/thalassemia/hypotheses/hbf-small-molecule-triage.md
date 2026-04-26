@@ -20,7 +20,7 @@ manufacturing, or ex vivo gene editing.
 | Decitabine/azacitidine | Strong HbF epigenetic biology | Cytotoxicity and dosing complexity | Medium, high caution |
 | `NRF2/BACH1` modulators | Links HbF, oxidative stress, and heme biology | Broad pathway and viability risks | Medium for assay design |
 | Pomalidomide/lenalidomide | HbF induction signal | Thrombosis, teratogenicity, immune effects, cost | Medium-low |
-| Curcuminoid/trienone analogs | Beta-thalassemia/HbE progenitor HbF signal | Not clinical evidence; potency and bioavailability unknown | Low-medium for screening |
+| Curcuminoid/trienone analogs | `T-BDMC` now has PubChem/ChEMBL identity plus beta-thalassemia/HbE progenitor HbF signal | Not clinical evidence; supplier/synthesis batch, hemolysis, potency, and bioavailability unknown | Low-medium for screening |
 | Generic antioxidants | Broad oxidative-stress claims | Weak cure endpoint connection | Low |
 | Bee-derived extracts | Possible antioxidant/immunomodulatory signals | Allergy, variability, no HbF proof yet | Low until target-linked |
 

@@ -1,6 +1,6 @@
 # Quran Root Map: Shifa
 
-Date checked: 2026-04-26
+Date checked: 2026-04-27
 Evidence label: Quran-wide concept map
 
 ## Working Conclusion
@@ -32,6 +32,10 @@ The Quran-wide pattern gives three separate lanes:
 3. Theology of means: 26:80 supports seeking treatment while knowing cure comes
    from Allah.
 
+The 10:57 and 17:82 notes strengthen the first lane: the Quran heals and guides
+the heart, which in this project means resisting exaggeration, despair, and
+reckless claims.
+
 ## Research Guardrail
 
 If a verse is about the Quran healing hearts, do not convert it into a molecule
@@ -42,8 +46,10 @@ require mechanism, toxicity, dose, and reproducibility.
 
 - [Quran 9:14](https://quran.com/9/14)
 - [Quran 10:57](https://quran.com/10/57)
+- [Quran 10:57 structured note](010-yunus/057.md)
 - [Quran 16:69](https://quran.com/16/69)
 - [Quran 17:82](https://quran.com/17/82)
+- [Quran 17:82 structured note](017-al-isra/082.md)
 - [Quran 26:80](https://quran.com/26/80)
 - [Quran 41:44](https://quran.com/41/44)
 - [QuranX tafsir collection for 16:69](https://quranx.com/tafsirs/16.69)

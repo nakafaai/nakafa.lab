@@ -18,8 +18,11 @@ Checked on 2026-04-26 unless noted.
 | Drug label | [Aqvesme FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf) | Safety, liver monitoring, REMS, and drug-interaction constraints for mitapivat. |
 | Drug | [Mitapivat ENERGIZE trial, PubMed PMID 40544857](https://pubmed.ncbi.nlm.nih.gov/40544857/) | Phase 3 evidence in non-transfusion-dependent alpha- or beta-thalassemia. |
 | Gene therapy | [Zynteglo FDA product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo) | FDA-regulated gene therapy reference. |
+| Gene therapy | [Betibeglogene autotemcel value summary, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10372978/) | Evidence and cost-effectiveness uncertainty for lentiviral beta-globin gene addition. |
 | Gene editing | [Casgevy FDA product page](https://www.fda.gov/vaccines-blood-biologics/casgevy) | FDA-regulated CRISPR cell therapy reference. |
 | Gene editing | [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/) | Clinical evidence for CRISPR-edited autologous cells in TDT. |
+| Cure strategy | [Gene therapy and gene editing for beta-thalassemia, PubMed PMID 36907613](https://pubmed.ncbi.nlm.nih.gov/36907613/) | Review of lentiviral gene addition and genome editing cure strategies. |
+| Cure strategy | [TIF 2025 HSCT chapter](https://www.ncbi.nlm.nih.gov/books/NBK614242/) | Curative transplant baseline and risk context. |
 | Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |

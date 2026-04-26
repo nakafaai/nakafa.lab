@@ -25,9 +25,11 @@ next research cycle should answer:
    Casgevy, and active trials.
 4. Affordability: map which therapies are limited by drug price, hospital
    capability, manufacturing, or regulatory access.
-5. Islamic lane: continue Quran, hadith, tafsir, and ethics review without
+5. Cure strategy: use HSCT/gene therapy/gene editing as proof-of-concept, then
+   search for lower-cost ways to reach durable transfusion independence.
+6. Islamic lane: continue Quran, hadith, tafsir, and ethics review without
    turning any verse into a medical claim.
-6. Hypothesis cards: only promote ideas with mechanism, safety, falsification,
+7. Hypothesis cards: only promote ideas with mechanism, safety, falsification,
    and clinician review path.
 
 ## Current Honest Assessment

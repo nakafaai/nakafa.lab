@@ -31,6 +31,12 @@ Checked on 2026-04-26 unless noted.
 | Islamic tafsir | [Quran.com Tafsir Ibn Kathir for 16:68](https://quran.com/en/16:68/tafsirs/ar-tafsir-ibn-kathir) | First tafsir intake for the bee/healing anchor. |
 | Bee products | [Honey in wound healing, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496555/) | Evidence boundary: honey evidence is strongest outside thalassemia, especially wound care. |
 | Bee products | [Honey antimicrobial and wound biomaterial review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414000/) | Mechanism review for antimicrobial/wound applications, not direct thalassemia treatment. |
+| Bee products | [Ensuring the safe use of bee products, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12732908/) | Safety review across hive products, including allergy and anaphylaxis risks. |
+| Bee venom | [Risk associated with bee venom therapy, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4440710/) | Systematic review and meta-analysis for bee venom adverse events. |
+| Bee venom | [Bee venom bioactive molecules review, PubMed PMID 33142794](https://pubmed.ncbi.nlm.nih.gov/33142794/) | Venom molecules such as melittin and PLA2; pharmacology and safety context. |
+| Bee brood | [Honey bee broods composition review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9497570/) | Larvae and pupae nutritional composition; food/nutrition lane, not cure evidence. |
+| Biomaterial | [Chitin and chitosan for wound management, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7949833/) | Exoskeleton-derived material lane for biomaterials and wound care. |
+| Safety | [Bee products, LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK580275/) | Liver safety and adverse-event reference for bee products. |
 | Evolution | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | Notes thalassemia distribution, carrier state, malaria selection, and globin biology. |
 | Evolution | [Alpha-thalassemia and malaria in children, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030158) | Primary study supporting the carrier-advantage research lane for malaria and red-cell variants. |
 | Indonesia | [BPJS Kesehatan thalassemia press release](https://bpjsantangkalang.org/wp-content/uploads/2025/11/Benarkah-Hemofilia-dan-Thalassemia-Tidak-Dijamin-BPJS-Kesehatan.pdf) | JKN coverage and financing context for thalassemia care. |

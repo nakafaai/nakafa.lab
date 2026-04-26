@@ -101,6 +101,7 @@ Checked on 2026-04-26 unless noted.
 | Chemistry | [ChEMBL curcumin snapshot](../../../data/chemistry/chembl/2026-04-27-curcumin-search.json) | ChEMBL molecule search snapshot for curcumin as a natural-product-adjacent comparator. |
 | Hypothesis process | [Hypothesis card template](../../../templates/hypothesis-card-template.md) | Internal gate for keeping therapy ideas auditable. |
 | Islamic | [Quran 16:68-69, Quran.com](https://quran.com/16/68-69) | Initial Quranic anchor for bee and healing research. |
+| Islamic | [Quranic natural material candidate map](../../islamic/quran/quranic-natural-material-candidate-map.md) | First-pass map from Quranic natural-world anchors to cautious hypothesis generation. |
 | Islamic tafsir | [Quran.com Tafsir Ibn Kathir for 16:68](https://quran.com/en/16:68/tafsirs/ar-tafsir-ibn-kathir) | First tafsir intake for the bee/healing anchor. |
 | Bee products | [Honey in wound healing, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496555/) | Evidence boundary: honey evidence is strongest outside thalassemia, especially wound care. |
 | Bee products | [Honey antimicrobial and wound biomaterial review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414000/) | Mechanism review for antimicrobial/wound applications, not direct thalassemia treatment. |

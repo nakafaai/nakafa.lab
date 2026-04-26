@@ -144,6 +144,7 @@ REQUIRED_PATHS = [
     "research/islamic/quran/041-fussilat/044.md",
     "research/islamic/quran/shifa-root-map.md",
     "research/islamic/quran/quran-wide-healing-search-plan.md",
+    "research/islamic/quran/quranic-natural-material-candidate-map.md",
     "paper/main.tex",
     "paper/notes/carrier-malaria.tex",
     "paper/references.bib",

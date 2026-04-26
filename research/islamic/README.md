@@ -33,3 +33,9 @@ biomedical evidence.
 ## Current Guardrail Findings
 
 - [Illness is not a blame claim](findings/2026-04-27-illness-not-blame-guardrail.md)
+
+## Current Maps
+
+- [Quran-wide healing search plan](quran/quran-wide-healing-search-plan.md)
+- [Shifa root map](quran/shifa-root-map.md)
+- [Quranic natural material candidate map](quran/quranic-natural-material-candidate-map.md)

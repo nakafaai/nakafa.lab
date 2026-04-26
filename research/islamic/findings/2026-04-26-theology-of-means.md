@@ -16,6 +16,8 @@ The Islamic lane should hold two ideas together:
 - Quran 26:80 attributes healing to Allah when Ibrahim is ill.
 - Quran 16:69 points to a created substance with healing for people.
 - Hadith about every disease having a cure supports searching for remedies.
+- The 26:80 tafsir lane supports seeking created means while keeping healing
+  attributed to Allah.
 
 ## Research Implication
 
@@ -30,6 +32,7 @@ an excuse to deny that cure is from Allah.
 ## Sources
 
 - [Quran 26:80](https://quran.com/26/80)
+- [Quran 26:80 structured note](../quran/026-ash-shuara/080.md)
 - [Quran 16:69](https://quran.com/16/69)
 - [Sahih al-Bukhari 5678](https://sunnah.com/bukhari:5678)
 - [Sahih Muslim 2204](https://sunnah.com/muslim:2204)

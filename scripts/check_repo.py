@@ -60,6 +60,7 @@ REQUIRED_PATHS = [
     "research/islamic/findings/2026-04-26-healing-and-caution.md",
     "research/islamic/findings/2026-04-26-theology-of-means.md",
     "research/islamic/quran/016-an-nahl/068-069.md",
+    "research/islamic/quran/026-ash-shuara/080.md",
     "research/islamic/quran/shifa-root-map.md",
     "research/islamic/quran/quran-wide-healing-search-plan.md",
     "paper/main.tex",

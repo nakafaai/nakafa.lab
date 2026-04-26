@@ -34,6 +34,8 @@ stay outside patient-facing claims.
 - Quercetin is the strongest bee-adjacent/polyphenol lead in this panel for
   thalassemia context, but the signal is oxidative stress, iron burden, and
   liver/inflammation support, not a curative fetal-hemoglobin mechanism.
+- Quercetin now has a separate deep dive as an adjunct biology lane, not a
+  core cure lane.
 - Chrysin and pinocembrin should not be promoted unless future evidence links
   them to erythroid maturation, HbF, globin balance, or red-cell safety.
 
@@ -62,5 +64,6 @@ translation discussion.
 - [Chrysin thalassemia/HbF PubMed snapshot](../../../data/literature/pubmed/2026-04-27-chrysin-thalassemia-hbf-gap.json)
 - [Pinocembrin thalassemia/HbF PubMed gap snapshot](../../../data/literature/pubmed/2026-04-27-pinocembrin-thalassemia-hbf-gap.json)
 - [Quercetin thalassemia/HbF PubMed snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-thalassemia-hbf-gap.json)
+- [Quercetin adjunct biology deep dive](2026-04-27-quercetin-adjunct-biology-deep-dive.md)
 - [Bee-derived materials beyond honey](2026-04-26-bee-derived-materials-beyond-honey.md)
 - [Chemistry identity benchmark map](2026-04-27-chemistry-identity-benchmark-map.md)

@@ -1,0 +1,62 @@
+{
+  "count": 2,
+  "query": "quercetin[Title/Abstract] AND (\"beta-thalassemia major\"[Title/Abstract] OR \"beta thalassemia major\"[Title/Abstract] OR \"thalassemia major\"[Title/Abstract])",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31741663"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6856539"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6856539;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/jrms.JRMS_911_18"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JRMS-24-91"
+        }
+      ],
+      "journal": "J Res Med Sci",
+      "pmid": "31741663",
+      "pubdate": "2019",
+      "title": "Effect of quercetin on oxidative stress and liver function in beta-thalassemia major patients receiving desferrioxamine: A double-blind randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31519283"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ctim.2019.02.017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0965-2299(19)30049-4"
+        }
+      ],
+      "journal": "Complement Ther Med",
+      "pmid": "31519283",
+      "pubdate": "2019 Oct",
+      "title": "The effect of quercetin on iron overload and inflammation in \u03b2-thalassemia major patients: A double-blind randomized clinical trial."
+    }
+  ]
+}

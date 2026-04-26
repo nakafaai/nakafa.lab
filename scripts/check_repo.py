@@ -25,6 +25,9 @@ BEE_CONSTITUENT_PATHS = [
     "data/literature/pubmed/2026-04-27-chrysin-thalassemia-hbf-gap.json",
     "data/literature/pubmed/2026-04-27-pinocembrin-thalassemia-hbf-gap.json",
     "data/literature/pubmed/2026-04-27-quercetin-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-quercetin-beta-thalassemia-major.json",
+    "data/literature/pubmed/2026-04-27-quercetin-thalassemia-selected-abstracts.xml",
+    "data/registries/clinicaltrials/2026-04-27-quercetin-thalassemia-trials.json",
 ]
 
 REQUIRED_PATHS = [
@@ -90,6 +93,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-bee-derived-materials-beyond-honey.md",
     "research/thalassemia/findings/2026-04-26-bee-derived-hbf-evidence-gap.md",
     "research/thalassemia/findings/2026-04-27-bee-constituent-identity-seed-panel.md",
+    "research/thalassemia/findings/2026-04-27-quercetin-adjunct-biology-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-clinical-baseline-checklist.md",
     "research/thalassemia/findings/2026-04-27-immune-transfusion-complication-lane.md",
     "research/thalassemia/findings/2026-04-26-clinical-trials-snapshot.md",

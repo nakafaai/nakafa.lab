@@ -38,6 +38,11 @@ bee-derived or botanical material, needs a compound identifier, fraction
 standardization marker, supplier/batch record, or equivalent identity trail
 before it can be compared against assay controls.
 
+Quercetin is now separated as an adjunct biology lead, not a cure lead. It has
+human beta-thalassemia major literature around iron and liver/inflammation
+markers, but no current evidence that it reactivates HbF or replaces transfusion
+and chelation.
+
 ## Not A Recommendation
 
 This is a research ranking. It is not a patient treatment ranking.
@@ -49,5 +54,6 @@ This is a research ranking. It is not a patient treatment ranking.
 - [Sirthalaclin sirolimus pilot trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218916/)
 - [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/)
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
+- [Quercetin adjunct biology deep dive](../findings/2026-04-27-quercetin-adjunct-biology-deep-dive.md)
 - [Propolis cytoprotective activity in human erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/)
 - [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/)

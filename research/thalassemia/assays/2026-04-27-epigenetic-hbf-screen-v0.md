@@ -114,6 +114,12 @@ cells?"
 These hits help validate the assay ladder. They should not displace affordable
 candidate discovery unless they show a realistic safety and access path.
 
+In Yang 2024, the primary `CD34+` validation lane was restricted to
+`pomalidomide`, `avadomide`, and `idoxuridine`. Among the four novel hit names,
+only `avadomide` clearly crossed that published primary-cell validation boundary.
+Treat the other novel hits as pathway probes until independent primary-cell or
+beta-thalassemia/HbE validation is found.
+
 ## Output Per Run
 
 Every completed run should produce:

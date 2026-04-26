@@ -186,6 +186,7 @@ Checked on 2026-04-26 unless noted.
 | HbF screen | [Verheul 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-verheul-2024-endogenous-hbf-reporter.dom.txt) | PubMed page snapshot for the endogenous HUDEP2 `HBG1` reporter source. |
 | HbF screen | [Yang 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-small-molecule-hbf-agonists.dom.txt) | PubMed page snapshot for the HUDEP2 `HBG1` HiBiT screen and primary `CD34+` confirmation workflow. |
 | HbF screen | [HUDEP2 small-molecule hit map](../findings/2026-04-27-hudep2-small-molecule-hit-map.md) | Maps avadomide, autophinib, triciribine, and `R574` / probable `R547` as benchmark hits, not treatment advice. |
+| HbF screen | [HUDEP2 primary validation boundary](../findings/2026-04-27-hudep2-primary-validation-boundary.md) | Separates primary-cell-supported avadomide from reporter-hit pathway probes. |
 | HbF screen | [Yang 2024 PLOS snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-yang-2024-hudep2-hbf-agonists-plos.dom.txt) | Publisher page snapshot for the HUDEP2 chemogenomic screen and primary-cell validation details. |
 | HbF screen | [Yang 2024 PLOS supporting data snapshots](../../../data/literature/supplementary/plos/) | Raw XLSX supporting data for lead-hit, CD34+, and western-blot validation figures. |
 | Chemistry | [R574 / R547 label resolution](../findings/2026-04-27-r574-r547-label-resolution.md) | Resolves the likely `R574` label discrepancy against the cited `R547` CDK inhibitor source and chemistry databases. |

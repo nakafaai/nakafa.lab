@@ -15,6 +15,11 @@ small molecules: `avadomide`, `autophinib`, `triciribine`, and `R574`.
 This does not make any of them patient-ready. It does create a useful comparator
 lane for mechanism discovery and assay validation.
 
+The primary-cell validation boundary matters: the source selected
+`pomalidomide`, `avadomide`, and `idoxuridine` for human `CD34+` validation.
+Among the four novel hit names, only `avadomide` clearly crosses into that
+primary-cell lane in the published text.
+
 ## Retrieved Hit Identity
 
 | Hit | Identity status | Mechanism lane from source context | Current research interpretation |
@@ -34,8 +39,8 @@ The PLOS/PubMed source reports:
 - known HbF inducers in the hit set, including pomalidomide, lenalidomide,
   decitabine, idoxuridine, and azacytidine;
 - four novel hit names: `avadomide`, `autophinib`, `triciribine`, and `R574`;
-- orthogonal confirmation of top hits in parental HUDEP2 cells and human
-  primary `CD34+` hematopoietic stem/progenitor cells;
+- orthogonal confirmation of selected top hits in parental HUDEP2 cells and
+  human primary `CD34+` hematopoietic stem/progenitor cells;
 - mechanistic follow-up showing pomalidomide and avadomide, but not
   idoxuridine, downregulated fetal-globin repressors including `BCL11A`,
   `ZBTB7A`, and `IKZF1`.
@@ -70,4 +75,5 @@ Priority use:
 - [Triciribine phosphate ChEMBL molecule snapshot](../../../data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-chembl462018.json)
 - [R574 ChEMBL unresolved search snapshot](../../../data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r574-search.json)
 - [R574 / R547 label resolution](2026-04-27-r574-r547-label-resolution.md)
+- [HUDEP2 primary validation boundary](2026-04-27-hudep2-primary-validation-boundary.md)
 - [K562 to HUDEP2 validation guardrail](2026-04-27-k562-to-hudep2-validation-guardrail.md)

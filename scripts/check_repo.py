@@ -209,6 +209,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",
     "research/thalassemia/findings/2026-04-27-hudep2-small-molecule-hit-map.md",
     "research/thalassemia/findings/2026-04-27-r574-r547-label-resolution.md",
+    "research/thalassemia/findings/2026-04-27-hudep2-primary-validation-boundary.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

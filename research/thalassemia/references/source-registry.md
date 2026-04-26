@@ -30,6 +30,7 @@ Checked on 2026-04-26 unless noted.
 | Evolution | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | Notes thalassemia distribution, carrier state, malaria selection, and globin biology. |
 | Evolution | [Alpha-thalassemia and malaria in children, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030158) | Primary study supporting the carrier-advantage research lane for malaria and red-cell variants. |
 | Indonesia | [BPJS Kesehatan thalassemia press release](https://bpjsantangkalang.org/wp-content/uploads/2025/11/Benarkah-Hemofilia-dan-Thalassemia-Tidak-Dijamin-BPJS-Kesehatan.pdf) | JKN coverage and financing context for thalassemia care. |
+| Indonesia | [RSAB Harapan Kita RSB 2025-2029](https://rsabhk.co.id/wp-content/uploads/2025/07/RSB-2025-2029.pdf) | Indonesia thalassemia roadmap: variant detection, GenoArray, and gene therapy coordination. |
 | Indonesia | [East Java beta-thalassemia mutations, PubMed PMID 35911837](https://pubmed.ncbi.nlm.nih.gov/35911837/) | Indonesia-specific genotype heterogeneity, including HbE/beta-thalassemia. |
 | Islamic | [Quran 2:155, Quran.com](https://quran.com/2/155) | Anchor for illness and hardship as tests, not proof of punishment for a specific patient. |
 | Islamic | [Quran 21:83-84, Quran.com](https://quran.com/21/83-84) | Anchor for Ayyub, distress, patience, and mercy. |

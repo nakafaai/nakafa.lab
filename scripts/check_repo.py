@@ -15,6 +15,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-clinical-baseline-checklist.md",
     "research/thalassemia/findings/2026-04-26-clinical-trials-snapshot.md",
     "research/thalassemia/findings/2026-04-26-indonesia-access-context.md",
+    "research/thalassemia/findings/2026-04-26-indonesia-regulatory-access-gap.md",
     "research/thalassemia/findings/2026-04-26-mechanism-priority-map.md",
     "research/thalassemia/findings/2026-04-26-treatment-landscape.md",
     "research/thalassemia/hypotheses/README.md",

@@ -24,6 +24,9 @@ Checked on 2026-04-26 unless noted.
 | Chemistry | [ChEMBL hydroxyurea CHEMBL467](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL467) | Small-molecule reference for a known fetal hemoglobin inducer. |
 | Hypothesis process | [Hypothesis card template](../../../templates/hypothesis-card-template.md) | Internal gate for keeping therapy ideas auditable. |
 | Islamic | [Quran 16:68-69, Quran.com](https://quran.com/16/68-69) | Initial Quranic anchor for bee and healing research. |
+| Islamic tafsir | [Quran.com Tafsir Ibn Kathir for 16:68](https://quran.com/en/16:68/tafsirs/ar-tafsir-ibn-kathir) | First tafsir intake for the bee/healing anchor. |
+| Bee products | [Honey in wound healing, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496555/) | Evidence boundary: honey evidence is strongest outside thalassemia, especially wound care. |
+| Bee products | [Honey antimicrobial and wound biomaterial review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414000/) | Mechanism review for antimicrobial/wound applications, not direct thalassemia treatment. |
 | Evolution | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | Notes thalassemia distribution, carrier state, malaria selection, and globin biology. |
 | Evolution | [Alpha-thalassemia and malaria in children, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030158) | Primary study supporting the carrier-advantage research lane for malaria and red-cell variants. |
 | Indonesia | [BPJS Kesehatan thalassemia press release](https://bpjsantangkalang.org/wp-content/uploads/2025/11/Benarkah-Hemofilia-dan-Thalassemia-Tidak-Dijamin-BPJS-Kesehatan.pdf) | JKN coverage and financing context for thalassemia care. |

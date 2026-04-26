@@ -36,6 +36,7 @@ forward.
 - `research/thalassemia/case-context/` - de-identified patient context.
 - `research/thalassemia/references/source-registry.md` - seed source list.
 - `research/islamic/README.md` - Islamic research lane.
+- `research/islamic/quran/` - structured Quran anchor notes.
 - `research/islamic/findings/` - Quran, hadith, tafsir, and ethics notes.
 - `paper/main.tex` - working LaTeX paper skeleton.
 - `paper/notes/` - focused LaTeX notes that may later feed the main paper.

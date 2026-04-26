@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 68071,
+        "MolecularFormula": "C15H12O4",
+        "MolecularWeight": "256.25",
+        "ConnectivitySMILES": "C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3",
+        "InChIKey": "URFCJEUYXNAHFI-ZDUSSCGKSA-N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 16133648,
+        "MolecularFormula": "C131H229N39O31",
+        "MolecularWeight": "2846.5",
+        "ConnectivitySMILES": "CCC(C)C(C(=O)NCC(=O)NC(C)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(C(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(C)O)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)NC(C)C(=O)NC(CC(C)C)C(=O)NC(C(C)CC)C(=O)NC(CO)C(=O)NC(CC2=CNC3=CC=CC=C32)C(=O)NC(C(C)CC)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCCCN)C(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)N)NC(=O)CN",
+        "InChIKey": "VDXZNPDIRNWWCW-JFTDCZMZSA-N"
+      }
+    ]
+  }
+}

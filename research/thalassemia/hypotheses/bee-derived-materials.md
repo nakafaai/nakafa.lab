@@ -35,6 +35,7 @@ thalassemia.
 - `research/thalassemia/findings/2026-04-26-propolis-red-cell-deep-dive.md`
 - `research/thalassemia/findings/2026-04-27-royal-jelly-oxidative-stress-deep-dive.md`
 - `research/thalassemia/findings/2026-04-27-melittin-bee-venom-hazard-deep-dive.md`
+- `research/thalassemia/findings/2026-04-27-bee-constituent-identity-seed-panel.md`
 
 ## Rejection Rule
 

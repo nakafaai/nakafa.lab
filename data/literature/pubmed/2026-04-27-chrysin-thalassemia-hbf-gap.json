@@ -1,0 +1,52 @@
+{
+  "count": 2,
+  "query": "chrysin[Title/Abstract] AND (thalassemia[Title/Abstract] OR \"fetal hemoglobin\"[Title/Abstract] OR \"gamma globin\"[Title/Abstract] OR \"gamma-globin\"[Title/Abstract] OR HBG1[Title/Abstract] OR HBG2[Title/Abstract])",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38432408"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tox.2024.153766"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0300-483X(24)00047-7"
+        }
+      ],
+      "journal": "Toxicology",
+      "pmid": "38432408",
+      "pubdate": "2024 May",
+      "title": "Targeting SIRT1, NLRP3 inflammasome, and Nrf2 signaling with chrysin alleviates the iron-triggered hepatotoxicity in rats."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25058688"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cbi.2014.07.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0009-2797(14)00221-X"
+        }
+      ],
+      "journal": "Chem Biol Interact",
+      "pmid": "25058688",
+      "pubdate": "2014 Sep 5",
+      "title": "Analysis of the erythroid differentiation effect of flavonoid apigenin on K562 human chronic leukemia cells."
+    }
+  ]
+}

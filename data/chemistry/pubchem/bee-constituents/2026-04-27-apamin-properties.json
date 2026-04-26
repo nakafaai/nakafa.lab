@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 16133797,
+        "MolecularFormula": "C79H131N31O24S4",
+        "MolecularWeight": "2027.4",
+        "ConnectivitySMILES": "CC1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC2C(=O)NC(C(=O)NC(C(=O)N3CCCC3C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N2)CC(=O)N)N)C(=O)N1)CC(C)C)C)C(C)O)CCC(=O)O)C)CCCCN)C(=O)NC(CCC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CC4=CNC=N4)C(=O)N)CCCNC(=N)N)CCCNC(=N)N",
+        "InChIKey": "YVIIHEKJCKCXOB-STYWVVQQSA-N"
+      }
+    ]
+  }
+}

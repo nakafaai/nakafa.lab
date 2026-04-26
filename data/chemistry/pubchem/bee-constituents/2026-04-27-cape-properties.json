@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5281787,
+        "MolecularFormula": "C17H16O4",
+        "MolecularWeight": "284.31",
+        "ConnectivitySMILES": "C1=CC=C(C=C1)CCOC(=O)C=CC2=CC(=C(C=C2)O)O",
+        "InChIKey": "SWUARLUWKZWEBQ-VQHVLOKHSA-N"
+      }
+    ]
+  }
+}

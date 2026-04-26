@@ -20,6 +20,9 @@ stricter proof.
 | Bee body materials | adult bee biomass, wings, exoskeleton | chitin/chitosan and biomaterial lane |
 | Purified molecules | melittin, apamin, PLA2, 10-HDA, MRJPs, CAPE | mechanism-first pharmacology lane |
 
+The first auditable constituent seed panel is tracked in
+[Bee constituent identity seed panel](2026-04-27-bee-constituent-identity-seed-panel.md).
+
 ## Thalassemia Relevance Screen
 
 Any candidate must connect to at least one thalassemia endpoint:
@@ -70,3 +73,4 @@ no endpoint connected to thalassemia.
 - [Honey bee broods composition review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9497570/)
 - [Chitin and chitosan for wound management, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7949833/)
 - [Bee products, LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK580275/)
+- [Bee constituent identity seed panel](2026-04-27-bee-constituent-identity-seed-panel.md)

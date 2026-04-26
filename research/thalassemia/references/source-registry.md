@@ -110,6 +110,10 @@ Checked on 2026-04-26 unless noted.
 | Bee products | [Royal jelly oxidative stress meta-analysis, PubMed PMID 40656618](https://pubmed.ncbi.nlm.nih.gov/40656618/) | General inflammation/oxidative-stress evidence, not thalassemia-specific. |
 | Bee products | [Royal jelly oxidative-stress PubMed snapshot](../../../data/literature/pubmed/2026-04-27-royal-jelly-oxidative-stress.json) | Reproducible PubMed query snapshot for royal jelly oxidative-stress evidence. |
 | Bee products | [Royal jelly HbF evidence-gap snapshot](../../../data/literature/pubmed/2026-04-27-royal-jelly-hbf-gap.json) | Reproducible PubMed query snapshot showing no first-pass HbF/thalassemia results. |
+| Bee products | [Bee constituent identity seed panel](../findings/2026-04-27-bee-constituent-identity-seed-panel.md) | Molecule-level seed panel for melittin, apamin, 10-HDA, CAPE, chrysin, pinocembrin, and quercetin. |
+| Bee products | [Bee constituent PubMed gap snapshots](../../../data/literature/pubmed/) | Reproducible Title/Abstract checks for thalassemia, HbF, and gamma-globin evidence in the seed panel. |
+| Bee products | [Bee constituent PubChem snapshots](../../../data/chemistry/pubchem/bee-constituents/) | Reproducible compound-property snapshots for the seed panel. |
+| Bee products | [Bee constituent ChEMBL snapshots](../../../data/chemistry/chembl/bee-constituents/) | Reproducible ChEMBL molecule search snapshots for the seed panel. |
 | Bee venom | [Risk associated with bee venom therapy, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4440710/) | Systematic review and meta-analysis for bee venom adverse events. |
 | Bee venom | [Bee venom adverse-event PubMed snapshot](../../../data/literature/pubmed/2026-04-27-bee-venom-adverse-events.json) | Reproducible PubMed query snapshot for bee venom adverse-event evidence. |
 | Bee venom | [Bee venom bioactive molecules review, PubMed PMID 33142794](https://pubmed.ncbi.nlm.nih.gov/33142794/) | Venom molecules such as melittin and PLA2; pharmacology and safety context. |

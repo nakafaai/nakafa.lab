@@ -3,6 +3,30 @@
 import pathlib
 
 
+BEE_CONSTITUENT_PATHS = [
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-melittin-properties.json",
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-apamin-properties.json",
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-10-hda-properties.json",
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-cape-properties.json",
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-chrysin-properties.json",
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-pinocembrin-properties.json",
+    "data/chemistry/pubchem/bee-constituents/2026-04-27-quercetin-properties.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-melittin-search.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-apamin-search.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-10-hda-search.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-cape-search.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-chrysin-search.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-pinocembrin-search.json",
+    "data/chemistry/chembl/bee-constituents/2026-04-27-quercetin-search.json",
+    "data/literature/pubmed/2026-04-27-melittin-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-apamin-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-10-hda-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-cape-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-chrysin-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-pinocembrin-thalassemia-hbf-gap.json",
+    "data/literature/pubmed/2026-04-27-quercetin-thalassemia-hbf-gap.json",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -49,6 +73,7 @@ REQUIRED_PATHS = [
     "data/chemistry/chembl/2026-04-27-rapamycin-search.json",
     "data/chemistry/chembl/2026-04-27-sirolimus-rapamycin-search.json",
     "data/chemistry/chembl/2026-04-27-curcumin-search.json",
+    *BEE_CONSTITUENT_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -64,6 +89,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-bee-product-research-scope.md",
     "research/thalassemia/findings/2026-04-26-bee-derived-materials-beyond-honey.md",
     "research/thalassemia/findings/2026-04-26-bee-derived-hbf-evidence-gap.md",
+    "research/thalassemia/findings/2026-04-27-bee-constituent-identity-seed-panel.md",
     "research/thalassemia/findings/2026-04-26-clinical-baseline-checklist.md",
     "research/thalassemia/findings/2026-04-27-immune-transfusion-complication-lane.md",
     "research/thalassemia/findings/2026-04-26-clinical-trials-snapshot.md",

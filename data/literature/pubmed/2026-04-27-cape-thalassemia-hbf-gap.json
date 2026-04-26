@@ -1,0 +1,5 @@
+{
+  "count": 0,
+  "query": "\"caffeic acid phenethyl ester\"[Title/Abstract] AND (thalassemia[Title/Abstract] OR \"fetal hemoglobin\"[Title/Abstract] OR \"gamma globin\"[Title/Abstract] OR \"gamma-globin\"[Title/Abstract] OR HBG1[Title/Abstract] OR HBG2[Title/Abstract])",
+  "results": []
+}

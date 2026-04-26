@@ -1,0 +1,146 @@
+{
+  "count": 5,
+  "query": "quercetin[Title/Abstract] AND (thalassemia[Title/Abstract] OR \"fetal hemoglobin\"[Title/Abstract] OR \"gamma globin\"[Title/Abstract] OR \"gamma-globin\"[Title/Abstract] OR HBG1[Title/Abstract] OR HBG2[Title/Abstract])",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11909691"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0891-5849(02)00759-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0891584902007591"
+        }
+      ],
+      "journal": "Free Radic Biol Med",
+      "pmid": "11909691",
+      "pubdate": "2002 Apr 1",
+      "title": "Iron release, oxidative stress and erythrocyte ageing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41647457"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12872065"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12872065;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.22038/ajp.2025.26013"
+        }
+      ],
+      "journal": "Avicenna J Phytomed",
+      "pmid": "41647457",
+      "pubdate": "2026",
+      "title": "Therapeutic potential of polyphenols in managing thalassemia: A comprehensive review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31741663"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6856539"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6856539;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/jrms.JRMS_911_18"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JRMS-24-91"
+        }
+      ],
+      "journal": "J Res Med Sci",
+      "pmid": "31741663",
+      "pubdate": "2019",
+      "title": "Effect of quercetin on oxidative stress and liver function in beta-thalassemia major patients receiving desferrioxamine: A double-blind randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31519283"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ctim.2019.02.017"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0965-2299(19)30049-4"
+        }
+      ],
+      "journal": "Complement Ther Med",
+      "pmid": "31519283",
+      "pubdate": "2019 Oct",
+      "title": "The effect of quercetin on iron overload and inflammation in \u03b2-thalassemia major patients: A double-blind randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41281788"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12630495"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12630495;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18502/ijhoscr.v19i3.19289"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "IJHOSCR-19-261"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "41281788",
+      "pubdate": "2025 Jul 1",
+      "title": "Synergic Treatment of Plant-Based Antioxidants with Iron Chelators for Iron Overload in Transfusion-Dependent-Thalassemia Patients: A Systematic Review."
+    }
+  ]
+}

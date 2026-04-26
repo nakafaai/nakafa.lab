@@ -38,6 +38,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-hydroxyurea-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-sirolimus-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-thalidomide-class-deep-dive.md",
+    "research/thalassemia/findings/2026-04-26-propolis-red-cell-deep-dive.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

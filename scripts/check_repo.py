@@ -32,6 +32,20 @@ BEE_CONSTITUENT_PATHS = [
     "data/literature/pubmed/2026-04-27-curcumin-thalassemia-major-hbe.json",
     "data/literature/pubmed/2026-04-27-curcuminoid-thalassemia-selected-abstracts.xml",
     "data/registries/clinicaltrials/2026-04-27-curcumin-thalassemia-trials.json",
+    "data/literature/pubmed/2026-04-27-curcuminoid-hbf-esummary.json",
+    "data/literature/pubmed/2026-04-27-curcuminoid-trienone-pubmed-to-pmc.json",
+    "data/literature/pubmed/2026-04-27-curcuminoid-trienone-pmc-oa.xml",
+    "data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone.html",
+    "data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone-pmc.html",
+    "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-curcumin-properties.json",
+    "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-demethoxycurcumin-properties.json",
+    "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-bis-demethoxycurcumin-properties.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-curcumin-search.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-demethoxycurcumin-search.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-bis-demethoxycurcumin-search.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-cur-search.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-dmc-search.json",
+    "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-search.json",
 ]
 
 REQUIRED_PATHS = [
@@ -115,6 +129,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-epigenetic-hbf-target-drilldown.md",
     "research/thalassemia/findings/2026-04-27-chemistry-identity-benchmark-map.md",
     "research/thalassemia/findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md",
+    "research/thalassemia/findings/2026-04-27-curcuminoid-analog-assay-map.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

@@ -74,6 +74,10 @@ Reject or hold a candidate if any of these occur:
 | curcuminoid/trienone analogs | require defined chemistry, HbF endpoint, and beta-thalassemia/HbE endpoint replication |
 | bee-derived materials | require batch identity, allergy screen plan, and hemolysis-first triage |
 
+For curcuminoid analog work, `T-BDMC` is the first high-priority seed, but it
+must be treated as a publication-defined compound until a clean structure file,
+supplier record, or database identifier is obtained.
+
 ## Output Per Run
 
 Every completed run should produce:
@@ -90,6 +94,7 @@ Every completed run should produce:
 - [Epigenetic HbF target drilldown](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md)
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Curcuminoid HbF bridge deep dive](../findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
+- [Curcuminoid analog assay map](../findings/2026-04-27-curcuminoid-analog-assay-map.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)

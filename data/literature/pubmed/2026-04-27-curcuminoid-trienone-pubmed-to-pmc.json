@@ -1,0 +1,1 @@
+{"header":{"type":"elink","version":"0.3"},"linksets":[{"dbfrom":"pubmed","ids":["33879818"],"linksetdbs":[{"dbto":"pmc","linkname":"pubmed_pmc","links":["8058333"]},{"dbto":"pmc","linkname":"pubmed_pmc_refs","links":["12071363","10525103","10387548","9601852","9218916"]}]}]}

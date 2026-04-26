@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5469424,
+        "MolecularFormula": "C20H18O5",
+        "MolecularWeight": "338.4",
+        "ConnectivitySMILES": "COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC=C(C=C2)O)O",
+        "InChIKey": "HJTVQHVGMGKONQ-LUZURFALSA-N"
+      }
+    ]
+  }
+}

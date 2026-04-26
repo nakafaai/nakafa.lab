@@ -38,6 +38,9 @@ The first track is closer to the original cure problem. The second track may
 matter for patient well-being but cannot replace transfusion, chelation, gene
 therapy, transplant, or clinician-managed care.
 
+The compound and assay details are tracked in
+[Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md).
+
 ## Assay Requirements
 
 Curcuminoid analogs should be advanced only if they pass:
@@ -58,5 +61,6 @@ Curcuminoid analogs should be advanced only if they pass:
 - [Curcumin ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-curcumin-thalassemia-trials.json)
 - [Curcumin PubChem snapshot](../../../data/chemistry/pubchem/2026-04-27-curcumin-properties.json)
 - [Curcumin ChEMBL snapshot](../../../data/chemistry/chembl/2026-04-27-curcumin-search.json)
+- [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
 - [Epigenetic HbF target drilldown](2026-04-27-epigenetic-hbf-target-drilldown.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)

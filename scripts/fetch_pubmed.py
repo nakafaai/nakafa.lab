@@ -2,6 +2,8 @@
 
 import argparse
 import json
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -41,9 +43,18 @@ def build_esummary_url(pubmed_ids: list[str]) -> str:
 
 
 def fetch_json(url: str) -> dict:
-    """Fetch JSON from a URL."""
-    with urllib.request.urlopen(url, timeout=30) as response:
-        return json.load(response)
+    """Fetch JSON from a URL with one retry for transient throttling."""
+    try:
+        with urllib.request.urlopen(url, timeout=30) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as error:
+        if error.code != 429:
+            raise
+
+        time.sleep(1)
+
+        with urllib.request.urlopen(url, timeout=30) as response:
+            return json.load(response)
 
 
 def summarize_record(record: dict) -> dict:
@@ -59,13 +70,26 @@ def summarize_record(record: dict) -> dict:
 
 def search_pubmed(query: str, limit: int) -> dict:
     """Search PubMed and return compact metadata for the top results."""
-    search_payload = fetch_json(build_esearch_url(query, limit))
+    try:
+        search_payload = fetch_json(build_esearch_url(query, limit))
+    except urllib.error.HTTPError as error:
+        return {"query": query, "count": 0, "error": f"HTTP {error.code}"}
+
     pubmed_ids = search_payload.get("esearchresult", {}).get("idlist", [])
 
     if not pubmed_ids:
         return {"query": query, "count": 0, "results": []}
 
-    summary_payload = fetch_json(build_esummary_url(pubmed_ids))
+    try:
+        summary_payload = fetch_json(build_esummary_url(pubmed_ids))
+    except urllib.error.HTTPError as error:
+        return {
+            "query": query,
+            "count": 0,
+            "error": f"HTTP {error.code}",
+            "pubmed_ids": pubmed_ids,
+        }
+
     result = summary_payload.get("result", {})
     records = [result[pubmed_id] for pubmed_id in pubmed_ids if pubmed_id in result]
 

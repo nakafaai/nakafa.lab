@@ -29,6 +29,11 @@ Checked on 2026-04-26 unless noted.
 | HbF screen | [Small molecule HbF screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/) | Chemogenomic screening workflow for HbF-inducing compounds. |
 | HbF drugs | [Hydroxyurea in TDT meta-analysis, PubMed PMID 37252463](https://pubmed.ncbi.nlm.nih.gov/37252463/) | Evidence review for hydroxyurea in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Hydroxyurea in NTDT meta-analysis, PubMed PMID 28408107](https://pubmed.ncbi.nlm.nih.gov/28408107/) | Evidence review for hydroxyurea in non-transfusion-dependent beta-thalassemia. |
+| HbF drugs | [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/) | Randomized phase 2 evidence for thalidomide in TDT, with safety caveats. |
+| HbF drugs | [Hydroxyurea versus thalidomide RCT, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9809516/) | Direct comparison trial in adult TDT patients. |
+| HbF drugs | [Thalidomide non-randomized TDT trial, PubMed PMID 40446669](https://pubmed.ncbi.nlm.nih.gov/40446669/) | Longer follow-up thalidomide signal and gene-expression context. |
+| HbF drugs | [Sirthalaclin sirolimus pilot trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218916/) | Pilot sirolimus trial for gamma-globin expression in beta-thalassemia. |
+| HbF drugs | [ClinicalTrials.gov NCT03877809](https://clinicaltrials.gov/study/NCT03877809) | Trial registry record for sirolimus in transfusion-dependent beta-thalassemia. |
 | Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |

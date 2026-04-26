@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 65399,
+        "MolecularFormula": "C13H16N6O4",
+        "MolecularWeight": "320.30",
+        "SMILES": "CN1C2=NC=NC3=C2C(=CN3[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N",
+        "ConnectivitySMILES": "CN1C2=NC=NC3=C2C(=CN3C4C(C(C(O4)CO)O)O)C(=N1)N",
+        "InChIKey": "HOGVTUZUJGHKPL-HTVVRFAVSA-N",
+        "IUPACName": "(2R,3R,4S,5R)-2-(5-amino-7-methyl-2,6,7,9,11-pentazatricyclo[6.3.1.04,12]dodeca-1(12),3,5,8,10-pentaen-2-yl)-5-(hydroxymethyl)oxolane-3,4-diol"
+      }
+    ]
+  }
+}

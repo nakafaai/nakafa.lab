@@ -1,0 +1,6 @@
+- generic: Checking your browser before accessing pmc.ncbi.nlm.nih.gov ...
+- text: Click
+- link "here":
+  - /url: "#"
+- text: if you are not automatically redirected after 5 seconds.
+- iframe

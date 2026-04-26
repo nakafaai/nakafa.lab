@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 24967599,
+        "MolecularFormula": "C14H14N4O3",
+        "MolecularWeight": "286.29",
+        "SMILES": "CC1=NC2=CC=CC(=C2C(=O)N1C3CCC(=O)NC3=O)N",
+        "ConnectivitySMILES": "CC1=NC2=CC=CC(=C2C(=O)N1C3CCC(=O)NC3=O)N",
+        "InChIKey": "RSNPAKAFCAAMBH-UHFFFAOYSA-N",
+        "IUPACName": "3-(5-amino-2-methyl-4-oxoquinazolin-3-yl)piperidine-2,6-dione"
+      }
+    ]
+  }
+}

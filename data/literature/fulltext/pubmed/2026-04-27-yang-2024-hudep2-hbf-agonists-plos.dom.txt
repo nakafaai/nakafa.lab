@@ -1,0 +1,1378 @@
+- banner:
+  - link "Skip to main content":
+    - /url: "#main-content"
+  - generic: Advertisement
+  - list:
+    - link "plos.org":
+      - /url: https://plos.org/
+    - link "Create account":
+      - /url: https://community.plos.org/registration/new
+    - link "Sign in":
+      - /url: /user/secure/login?page=%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0307049
+  - navigation:
+    - list:
+      - text:  
+      - button "Site Navigation Menu": 
+      - link "PLOS One":
+        - /url: /plosone/
+      - button "Search": 
+      - text: 
+      - link "Browse Topics":
+        - /url: /plosone/subjectAreaBrowse
+- generic:  
+- main:
+  - list:
+    - progressbar
+    - paragraph: Loading metrics
+  - paragraph: Open Access
+  - paragraph: Peer-reviewed
+  - paragraph: Research Article
+  - heading "Identification of small molecule agonists of fetal hemoglobin expression for the treatment of sickle cell disease" [level=1]
+  - list:
+    - generic: Jian-Ping Yang,
+    - text: ": :"
+    - generic: Rachel Toughiri,
+    - text: ": :"
+    - generic: Anshu P. Gounder,
+    - text: ": :"
+    - generic: Dan Scheibe,
+    - text: ": :"
+    - generic: Matt Petrus,
+    - text: ": :"
+    - generic: Sarah J. Fink,
+    - text: ": :"
+    - generic: Sebastien Vallee,
+    - text: ": :"
+    - generic: Jon Kenniston,
+    - text: ": :"
+    - generic: Nikolaos Papaioannou,
+    - text: ": :"
+    - generic: Steve Langston,
+    - text: ": :"
+    - generic: Narender R. Gavva,
+    - text: ": :"
+    - generic: Shane R. Horman
+    - text: ": :"
+  - list:
+    - listitem: "Published: November 6, 2024"
+    - link "https://doi.org/10.1371/journal.pone.0307049":
+      - /url: https://doi.org/10.1371/journal.pone.0307049
+  - list:
+    - link "Article ":
+      - /url: /plosone/article?id=10.1371/journal.pone.0307049
+    - link "Authors":
+      - /url: /plosone/article/authors?id=10.1371/journal.pone.0307049
+    - link "Metrics":
+      - /url: /plosone/article/metrics?id=10.1371/journal.pone.0307049
+    - link "Comments":
+      - /url: /plosone/article/comments?id=10.1371/journal.pone.0307049
+    - link "Media Coverage":
+      - /url: http://plos.altmetric.com/details/doi/10.1371/journal.pone.0307049
+    - link "Peer Review":
+      - /url: /plosone/article/peerReview?id=10.1371/journal.pone.0307049
+  - list:
+    - link "Abstract":
+      - /url: "#abstract0"
+    - link "Introduction":
+      - /url: "#sec001"
+    - link "Materials and methods":
+      - /url: "#sec002"
+    - link "Results":
+      - /url: "#sec012"
+    - link "Discussion":
+      - /url: "#sec019"
+    - link "Supporting information":
+      - /url: "#sec020"
+    - link "Acknowledgments":
+      - /url: "#ack"
+    - link "References":
+      - /url: "#references"
+  - list:
+    - link "Reader Comments":
+      - /url: article/comments?id=10.1371/journal.pone.0307049
+    - link "Figures":
+      - /url: "#"
+  - generic "Abstract"
+  - heading "Abstract" [level=2]
+  - paragraph:
+    - text: Induction of fetal hemoglobin (HbF) has been shown to be a viable therapeutic approach to treating sickle cell disease and potentially other β-hemoglobinopathies. To identify targets and target-modulating small molecules that enhance HbF expression, we engineered a human umbilical-derived erythroid progenitor reporter cell line (HUDEP2_HBG1_HiBiT) by genetically tagging a HiBiT peptide to the carboxyl (C)-terminus of the endogenous
+    - emphasis: HBG1
+    - text: gene locus, which codes for γ-globin protein, a component of HbF. Employing this reporter cell line, we performed a chemogenomic screen of approximately 5000 compounds annotated with known targets or mechanisms that have achieved clinical stage or approval by the US Food and Drug Administration (FDA). Among them, 10 compounds were confirmed for their ability to induce HbF in the HUDEP2 cell line. These include several known HbF inducers, such as pomalidomide, lenalidomide, decitabine, idoxuridine, and azacytidine, which validate the translational nature of this screening platform. We identified avadomide, autophinib, triciribine, and R574 as novel HbF inducers from these screens. We orthogonally confirmed HbF induction activities of the top hits in both parental HUDEP2 cells as well as in human primary CD34+ hematopoietic stem and progenitor cells (HSPCs). Further, we demonstrated that pomalidomide and avadomide, but not idoxuridine, induced HbF expression through downregulation of several transcriptional repressors such as BCL11A, ZBTB7A, and IKZF1. These studies demonstrate a robust phenotypic screening workflow that can be applied to large-scale small molecule profiling campaigns for the discovery of targets and pathways, as well as novel therapeutics for sickle cell disease and other β-hemoglobinopathies.
+  - heading "Figures" [level=2]
+  - img "Fig 4"
+  - img "Fig 5"
+  - img "Fig 6"
+  - img "Fig 1"
+  - img "Fig 2"
+  - img "Fig 3"
+  - img "Fig 4"
+  - img "Fig 5"
+  - img "Fig 6"
+  - img "Fig 1"
+  - img "Fig 2"
+  - img "Fig 3"
+  - generic:  
+  - generic: 
+  - generic: 
+  - paragraph:
+    - strong: "Citation:"
+    - text: "Yang J-P, Toughiri R, Gounder AP, Scheibe D, Petrus M, Fink SJ, et al. (2024) Identification of small molecule agonists of fetal hemoglobin expression for the treatment of sickle cell disease. PLoS ONE 19(11): e0307049. https://doi.org/10.1371/journal.pone.0307049"
+  - paragraph:
+    - strong: "Editor:"
+    - text: Santosh L. Saraf, University of Illinois at Chicago, UNITED STATES OF AMERICA
+  - paragraph:
+    - strong: "Received:"
+    - text: June 28, 2024;
+    - strong: "Accepted:"
+    - text: October 3, 2024;
+    - strong: "Published:"
+    - text: November 6, 2024
+  - paragraph:
+    - strong: "Copyright:"
+    - text: © 2024 Yang et al. This is an open access article distributed under the terms of the
+    - link "Creative Commons Attribution License":
+      - /url: http://creativecommons.org/licenses/by/4.0/
+    - text: ", which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  - paragraph:
+    - strong: "Data Availability:"
+    - text: All relevant data are within the manuscript and its
+    - link "Supporting information":
+      - /url: "#sec020"
+    - text: Data files.
+  - paragraph:
+    - strong: "Funding:"
+    - text: The funder provided support in the form of salaries for authors, but did not have any additional role in the study design, data collection and analysis, decision to publish, or preparation of the manuscript. The specific roles of these authors are articulated in the ‘author contributions’ section.
+  - paragraph:
+    - strong: "Competing interests:"
+    - text: Takeda Development Center Americas, Inc. provided sponsorship and financial support for this study. All the authors are employees of Takeda Pharmaceutical Industries, Ltd., and had equity ownership with Takeda Pharmaceutical Industries, Ltd. The Takeda commercial affiliation does not alter our adherence to PLOS ONE policies on sharing data and materials. There are no patents, products in development or marketed products associated with this research to declare.
+  - generic "Introduction"
+  - heading "Introduction" [level=2]
+  - paragraph:
+    - text: Sickle cell disease (SCD) is an inherited blood disorder caused by a single amino acid substitution in the human β-globin protein (HBB) from a hydrophilic glutamine to a hydrophobic valine (Glu6Val) [
+    - link "1":
+      - /url: "#pone.0307049.ref001"
+    - text: "]. It is estimated that 100,000 people are affected in the US, and millions worldwide ["
+    - link "2":
+      - /url: "#pone.0307049.ref002"
+    - text: ","
+    - link "3":
+      - /url: "#pone.0307049.ref003"
+    - text: "]. Fetal hemoglobin (HbF), expressed in the early gestational stage, is a form of hemoglobin comprised of 2 α chains and 2 γ chains ["
+    - link "4":
+      - /url: "#pone.0307049.ref004"
+    - text: "]. Soon after birth, γ-globin is replaced with β-globin through a process called globin-switching, yielding adult hemoglobin (HbA) ["
+    - link "5":
+      - /url: "#pone.0307049.ref005"
+    - text: ","
+    - link "6":
+      - /url: "#pone.0307049.ref006"
+    - text: "]. In SCD patients, the mutated β-globin protein causes hemoglobin polymerization in red blood cells, resulting in various complications such as hemolysis, vaso-occlusive crisis, vasculopathy, and subsequent inflammation and end-stage organ damage ["
+    - link "7":
+      - /url: "#pone.0307049.ref007"
+    - text: ","
+    - link "8":
+      - /url: "#pone.0307049.ref008"
+    - text: "]. Despite the severity of the disease and these symptoms, SCD patients have few treatment options to date ["
+    - link "9":
+      - /url: "#pone.0307049.ref009"
+    - text: "]."
+  - paragraph:
+    - text: Preclinical studies as well as patient-derived data indicate that restoring expression of HbF can ameliorate severity of the disease; this is considered to be an important therapeutic strategy for both β-thalassemia and SCD [
+    - link "10":
+      - /url: "#pone.0307049.ref010"
+    - text: –
+    - link "13":
+      - /url: "#pone.0307049.ref013"
+    - text: "]. Currently, hydroxyurea (HU) is the only FDA-approved therapeutic treatment for SCD capable of increasing HbF levels in SCD patients ["
+    - link "14":
+      - /url: "#pone.0307049.ref014"
+    - text: "]. Although HU treatment may reduce morbidity and mortality in adults and children suffering from SCD, its therapeutic effect is limited in many patients; HU often demonstrates adverse effects and potential toxicities, particularly for long-term treatment ["
+    - link "15":
+      - /url: "#pone.0307049.ref015"
+    - text: ","
+    - link "16":
+      - /url: "#pone.0307049.ref016"
+    - text: "]. Several anti-neoplastic drugs such as sodium butyrate ["
+    - link "12":
+      - /url: "#pone.0307049.ref012"
+    - text: "], 5-azacitidine ["
+    - link "17":
+      - /url: "#pone.0307049.ref017"
+    - text: "], and decitabine ["
+    - link "18":
+      - /url: "#pone.0307049.ref018"
+    - text: "] have been explored as HbF inducers. However, clinical usage of these pharmacological agents is limited due to unfavorable side effect profiles ["
+    - link "9":
+      - /url: "#pone.0307049.ref009"
+    - text: ","
+    - link "19":
+      - /url: "#pone.0307049.ref019"
+    - text: "]. Therefore, novel small molecule approaches to induce HbF therapeutically with limited toxicity and favorable economic accessibility are urgently needed ["
+    - link "20":
+      - /url: "#pone.0307049.ref020"
+    - text: "]."
+  - paragraph:
+    - text: The systematic profiling of chemical agents to identify those capable of reactivating γ-globin expression has been hampered by the lack of suitable erythroid cell lines and methods. Recent reports of small molecule screens for fetal hemoglobin inducers have mainly employed reporter cell lines engineered with a partial γ-globin promoter driving a reporter gene, such as green fluorescent protein (GFP) or luciferase [
+    - link "21":
+      - /url: "#pone.0307049.ref021"
+    - text: –
+    - link "24":
+      - /url: "#pone.0307049.ref024"
+    - text: "]. Although tractable for high-throughput compound screening, these synthetic gene constructs may not address essential endogenous DNA elements that tightly regulate and control γ-globin gene expression in erythroid cells. Further, until recently, many cell-based screens for HbF-inducers have been conducted in human immortalized myelogenous leukemia K562 cells ["
+    - link "25":
+      - /url: "#pone.0307049.ref025"
+    - text: ","
+    - link "26":
+      - /url: "#pone.0307049.ref026"
+    - text: "] or murine erythroleukemia MEL cells ["
+    - link "27":
+      - /url: "#pone.0307049.ref027"
+    - text: "], which are poor surrogates for normal erythroid cells and thus are not optimal systems for studying hemoglobin switching and regulation. In addition, the use of flow cytometry assays (FACS) or ELISA-based readouts for HbF quantitation have constrained their widespread application due to time-consuming and expensive assay protocols that are poorly adaptable to large-scale industrial drug discovery screening campaigns."
+  - paragraph:
+    - text: To address the limitations of conventional HbF screening platforms and to accelerate the pace of sickle cell disease therapeutic discovery, we employed the clustered regularly interspaced palindromic repeat (CRISPR)-Cas9 nuclease system to generate a human umbilical-derived erythroid progenitor (HUDEP2) γ-globin reporter cell line by inserting a HiBiT tag to the C-terminal portion of the endogenous
+    - emphasis: HBG1
+    - text: gene. HUDEP2 cells are an immortalized human CD34+ hematopoietic stem cell line and can differentiate into mature (α2β2 type) erythrocytes [
+    - link "28":
+      - /url: "#pone.0307049.ref028"
+    - text: "]. HUDEP2 cells normally express very low levels of γ-globin upon erythroid differentiation, providing an advantage when using this cell line for screening compounds that restore endogenous"
+    - emphasis: HBG1
+    - text: expression. This genetically engineered erythroid reporter cell line enables real time interrogation of endogenous expression levels of γ-globin via a simple luminescence readout. As a proof-of-concept study, we miniaturized the assay to accommodate a 384-well plate format and performed a high-throughput chemogenomic phenotypic screen using an annotated small molecule library. The hits from this screen can be used to explore potential targets and pathways for novel HbF inducers, as well as the potential for clinical repositioning of existing drugs for treatment of SCD. The screening platform was able to 1) identify internal positive control compounds and their derivatives and 2) reveal novel molecules/compounds with HbF-inducing properties. Moreover, induction of HbF by hit compounds in human primary CD34+ hematopoietic stem cells confirmed the validity of our screening assay.
+  - generic "Materials and methods"
+  - heading "Materials and methods" [level=2]
+  - generic "HUDEP2 cell culture"
+  - heading "HUDEP2 cell culture" [level=3]
+  - paragraph:
+    - text: A two-phase liquid culture system was used to culture HUDEP2 cells (obtained from the RIKEN Institute) at 37°C and 5% CO
+    - subscript: "2"
+    - text: in a humidified incubator. The Phase I expansion media contains 50 ng/mL human stem cell factor (R&D Systems), 10 μM dexamethasone (Sigma-Aldrich), and 1 μg/mL doxycycline (Sigma-Aldrich) in StemSpan SFEM media (Veritas USA). The Phase II differentiation medium comprises Iscove’s Modified Dulbecco’s Medium (StemCell Technologies), 2% fetal bovine serum (Thermo Fisher Scientific), 3 U/mL erythropoietin (R&D Systems USA), 10 μg/mL insulin (StemCell Technologies), 500 μg/mL holo-transferrin (Sigma-Aldrich), and 3 U/mL heparin (StemCell Technologies) for differentiating progenitor cells into erythrocytes.
+  - generic "Gene knock-in using CRISPR/gRNA RNP electroporation"
+  - heading "Gene knock-in using CRISPR/gRNA RNP electroporation" [level=3]:
+    - emphasis: Gene knock-in
+    - text: using CRISPR/gRNA RNP electroporation
+  - paragraph:
+    - text: The 3’-phosphorothioate chemically modified single CRISPR gRNA and single strand nucleotide of knock in template were synthesized by Integrated DNA Technologies (IDT). The sequence of single-stranded nucleotide is ATCTCTCAGCAGAATAGATTTATTATTTGTATTGCTTGCAGAATAAAGCCTATCCTTGAAAGCTCTGAATCATGCCCAGTGAGCTCAGCTAATCTTCTTGAACAGCCGCCAGCCGCTCACGGAGACGTGGTATCTGGAGGACAGGGCACTGGCCACTGCAGTCACCATCTTCTGCCAGGAAGCCTGCACCTCAGGG. The SpCas9 NGG protospacer adjacent motif (PAM) sequence was mutated from “GGG” to “GCC”” in the single-stranded oligodeoxynucleotide (ssODN) donor template to avoid repeated cutting after the tag insertion. The gRNA1 sequence targeting the
+    - emphasis: HBG1
+    - text: "gene is: CCTTGAAAGCTCTGAATCAT. TE buffer was used to resuspend lyophilized sgRNA from Integrated DNA Technologies. The sgRNA was mixed with TrueCut Cas9 v2 protein (Thermo Fisher Scientific) and incubated for 10 minutes to generate RNP complex. After cell counting, 100,000 HUDEP2 cells were transfected using Neon transfection system (Thermo Fisher Scientific) and then transferred to a 96-well plate with 100 μl of prewarmed expansion media for 48 hours. The single cell cloning was done by limited dilution and seeding cells at a density 0.5 cells/well in 100 μl of expansion media in the 96-well plates. The single cell clones were then screened for insertion by PCR using PCR primers covering the insert fragment."
+  - generic "Single cell cloning and confirmation"
+  - heading "Single cell cloning and confirmation" [level=3]
+  - paragraph:
+    - text: Bulk transfected HUDEP2 cells were incubated in expansion media for 48 h and were then plated clonally at limiting dilution in 96-well plates. After approximately 20 days of clonal expansion, the cells in each well were split into two. The cells in one set were harvested to extract the genomic DNA with 50 μL of QuickExtract DNA Extraction Solution per well (Epicentre), which were subsequently used for PCR screening using Phusion High-Fidelity PCR Master Mix (Thermo Fisher Scientific). PCR positive clones were then expanded and tested for their response to pomalidomide treatment (positive control compound) by Nano-Glo
+    - superscript: ®
+    - text: HiBiT Lytic Detection assay (Promega). The PCR products of 4 positive clones that responded to pomalidomide treatment were subjected to next generation sequencing to confirm the insertion of the HiBiT tag at the appropriate position of the
+    - emphasis: HBG1
+    - text: gene.
+  - generic "Chemical library"
+  - heading "Chemical library" [level=3]
+  - paragraph: "The SelleckChem compound library (catalog numbers: L3800 and L1100) contains approximately 5000 compounds annotated with known/predicted targets or mechanisms of action (MoA) that have either entered clinical studies or been approved by the FDA. Each compound was dissolved in dimethylsulfoxide (DMSO) at a concentration of 10 mM."
+  - generic "High-throughput screening using HUDEP2_HBG1_HiBiT"
+  - heading "High-throughput screening using HUDEP2_HBG1_HiBiT" [level=3]
+  - paragraph:
+    - text: Compounds at a stock concentration of 10 mM in DMSO were spotted into the wells of 384-well plates by automated acoustic liquid dispensing. HUDEP2_HBG1_HiBiT cells were harvested from HUDEP2 expansion media and suspended in differentiation media at a concentration of 2x10
+    - superscript: "5"
+    - text: cells/ml. 50 μl of cells was added to each well of the 384-well plates using Multidrop
+    - superscript: ™
+    - text: Combi Reagent Dispenser (Thermo Fisher Scientific) to yield final concentrations of either 10 μM or 1 μM. After 5-days of incubation, 20 μl of Nano-Glo
+    - superscript: ®
+    - text: HiBiT Lytic Detection reagent (Promega) was added to wells. Luminescence signals were measured according to the manufacturer’s protocol using an EnVision Microplate Reader (PerkimElmer). Screening data were analyzed using TIBCO Spotfire software (PerkimElmer).
+  - generic "Validation of hits in HUDEP2_HBG1_HiBiT cells"
+  - heading "Validation of hits in HUDEP2_HBG1_HiBiT cells" [level=3]
+  - paragraph:
+    - text: HUDEP2_HBG1_HiBiT cells (2x10
+    - superscript: "5"
+    - text: cells/well/50 μl) in 384-well plates were incubated with serially diluted compounds in differentiation medium at 37°C for 5 days. For HiBiT luminescence assays, 20 μl of Nano-Glo HiBiT Lytic Detection reagent (Promega) was added. For cell viability assays, 20 μl of CellTiter-Glo 2 reagent was added to each well according to the manufacturer’s protocol (Promega).
+  - generic "Human primary CD34+ cell culture"
+  - heading "Human primary CD34+ cell culture" [level=3]
+  - paragraph:
+    - text: Human primary CD34+ HSPCs from G-CSF-mobilized healthy adult donors were obtained from StemCell Technologies. CD34+ HSPCs were expanded, then subjected to two phase liquid culture for erythroid differentiation. Briefly, HSPCs were thawed on day 0 into CD34+ expansion media consisting of Stem Span SFEMII supplemented with 1x StemSpan
+    - superscript: ™
+    - text: CD34+ expansion supplement and 1 μM of U729 (StemCell Technologies). On day 7, the cells were switched into Phase I erythroid expansion media consisting of Stem Span SFEMII supplemented with 1x erythroid expansion supplement (StemCell Technologies), 1 pM of dexamethasone (Sigma-Aldrich) and 1% penicillin/streptomycin (Thermo Fisher Scientific) for 7 days. Subsequently, the media were switched into Phase II erythroid differentiation media consisting of Stem Span SFEMII supplemented with 3% normal human serum (Sigma-Aldrich), 3 IU/ml erythropoietin (R&D Systems) and 1% penicillin/streptomycin. Cells were maintained at a density of 0.1-1x10
+    - superscript: "6"
+    - text: cells/ml with media changes every other or every third day as necessary.
+  - paragraph:
+    - text: For compound treatment, CD34+ cells were first cultured in phase I expansion media in a flask for 4 days, then seeded in 24-well plates at a density of 1.5x10
+    - superscript: "5"
+    - text: cells in 300 μl of phase I expansion media supplemented with various concentrations of test compounds for 3 days at 37°C and 5% CO
+    - subscript: "2"
+    - text: . Phase II differentiation media and compounds were replenished after 3 days of culture. After 7 days of incubation at 37°C and 5% CO
+    - subscript: "2"
+    - text: ", cells were harvested for either HbF analysis by FACS or protein analysis by western blot."
+  - generic "Flow cytometry analysis"
+  - heading "Flow cytometry analysis" [level=3]
+  - paragraph:
+    - text: For HbF analysis, cells were washed with 1xDPBS and stained with fixable violet dead cell stain dye (Thermo Fisher Scientific), then fixed in 0.05% glutaraldehyde (Sigma-Aldrich) for 10 min at room temperature. Following that, cells were washed with stain buffer (BD Pharmingen) 2 times, and permeabilized with 0.1% Triton X-100 in DPBS (Thermo Fisher Scientific) for 5 min at room temperature. Following one wash with stain buffer, cells were stained with a HbF-APC conjugate antibody (Thermo Fisher Scientific) for 30 minutes in the dark. Cells were then washed twice with stain buffer. Flow cytometry was carried out on an Attune
+    - superscript: ™
+    - text: Flow Cytometer (Thermo Fisher Scientific).
+  - generic "Western blot analysis"
+  - heading "Western blot analysis" [level=3]
+  - paragraph: HUDEP2 cells treated with compounds in differentiation media for 5 days were collected by centrifugation, media aspirated, then washed with DPBS prior to lysis. Cell pellets were lysed using RIPA Lysis and Extraction Buffer (Thermo Fisher Scientific) supplemented with complete Protease Inhibitor Cocktail (Millipore Sigma). Protein concentrations in cleared lysate were quantified by BCA Assay (Pierce). Automated western blotting was performed using the 12–230 kDa Separation Module for PeggySue (Bio-Techne) according to the manufacturer’s protocols. 5ul of 0.1–0.2mg/ml of cell lysate was used for analysis of indicated protein targets. The following antibodies were used for immunodetection. Mouse anti-Ctip1/BCL-11A antibody (Abcam), rabbit anti-alpha globin (Abcam), rabbit anti-hemoglobin beta/ba1 (Abcam), rabbit anti-hemoglobin gamma (Cell Signaling Technology), rabbit anti-ZBTB7A/LRF/Pokemon (Cell Signaling Technology), rabbit anti-CRBN (Abcam), rabbit anti-Ikaros/IKZF1(Cell Signaling Technology), rabbit anti-GAPDH (Cell Signaling Technology).
+  - generic "Results"
+  - heading "Results" [level=2]
+  - generic "Generation of HUDEP2_HBG1_HiBiT reporter cell line"
+  - heading "Generation of HUDEP2_HBG1_HiBiT reporter cell line" [level=3]
+  - paragraph:
+    - text: The HiBiT system is a protein complementation assay consisting of a split NanoLuc luciferase enzyme. HiBiT, a short 11 amino acid peptide, binds with high affinity to another larger subunit called LgBiT. The two protein subunits are reconstituted to form a complex of NanoLuc enzyme, which yields a dynamic luciferase signal in the presence of added furimazine substrate [
+    - link "29":
+      - /url: "#pone.0307049.ref029"
+    - text: "] ("
+    - link "Fig 1A":
+      - /url: "#pone-0307049-g001"
+    - text: ). Since HiBiT is a relatively small tag, developed as a non-invasive way to tag endogenous proteins, the possibility of it affecting normal protein function is unlikely.
+  - link "thumbnail":
+    - /url: article/figure/image?size=medium&id=10.1371/journal.pone.0307049.g001
+    - img "thumbnail"
+  - text: "Download:"
+  - list:
+    - link "PNG larger image":
+      - /url: article/figure/image?download&size=large&id=10.1371/journal.pone.0307049.g001
+      - generic: PNG
+      - generic: larger image
+    - link "TIFF original image":
+      - /url: article/figure/image?download&size=original&id=10.1371/journal.pone.0307049.g001
+      - generic: TIFF
+      - generic: original image
+  - generic: Fig 1. Engineering of HUDEP2_HBG1_HiBiT reporter cell line.
+  - paragraph
+  - paragraph:
+    - text: (A) Schematic representation of HiBiT protein complementation assay. Cells expressing a fusion protein of target and small HiBiT reconstituted with large subunit LgBiT to form a NanoLuc complex, which generates a luminescent signal in the presence of added furimazine substrate. (B) Schematic representation of insertion of HiBiT tag to the C-terminus of the
+    - emphasis: HBG1
+    - text: gene within the γ-globin locus. The stop codon of
+    - emphasis: HBG1
+    - text: gene is in red. The gRNA sequence and corresponding PAM sequence are indicated. (C) The sequence of gRNA that is designed to selectively target the
+    - emphasis: HBG1
+    - text: gene. Alignment of C-terminal portions of
+    - emphasis: HBG1
+    - text: and
+    - emphasis: HBG2
+    - text: genes. The sequence fragment with a single nucleotide difference between
+    - emphasis: HBG1
+    - text: and
+    - emphasis: HBG2
+    - text: genes is indicted by the asterisk, which overlap with the gRNA target sequence.
+  - paragraph
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.g001":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.g001
+  - paragraph:
+    - text: To monitor endogenous γ-globin expression, we generated a reporter cell line by knocking in the HiBiT tag to the C-terminus of
+    - emphasis: HBG1
+    - text: gene via CRISPR/Cas9-mediated homologous recombination (
+    - link "Fig 1B":
+      - /url: "#pone-0307049-g001"
+    - text: ). The tandem
+    - emphasis: HBG1
+    - text: and
+    - emphasis: HBG2
+    - text: genes, which code
+    - superscript: A
+    - text: γ-globin and
+    - superscript: G
+    - text: γ-globin respectively, harbor nearly identical nucleotide sequences, making it challenging to specifically tag only one gene. In order to avoid large sequence deletions and to insert the HiBiT tag selectively in the C-terminus of the
+    - emphasis: HBG1
+    - text: gene, we designed a gRNA sequence fragment containing a single nucleotide difference in the non-coding regions of the C-termini between the two genes. This gRNA enabled the Cas9 enzyme to selectively cut the
+    - emphasis: HBG1
+    - text: gene 17 base pairs from the stop codon (
+    - link "Fig 1C":
+      - /url: "#pone-0307049-g001"
+    - text: ). From 250 single cell clones, we obtained 4 single cell clones that showed a significant positive response to treatment with pomalidomide, an orally active thalidomide analog that has demonstrated the ability to upregulate HbF production
+    - emphasis: in vitro
+    - text: ", in sickle mice, and in Phase I clinical trials ["
+    - link "30":
+      - /url: "#pone.0307049.ref030"
+    - text: –
+    - link "32":
+      - /url: "#pone.0307049.ref032"
+    - text: "]. Among these clones, two single cell clones had a heterozygous gene knock-in of the HiBiT fragment at the C-terminus of"
+    - emphasis: HBG1
+    - text: gene in one allele based on sequence analysis. We chose the one single cell clone (renamed as HUDEP2_HBG1_HiBiT reporter cell line) that had the lowest background and highest signal:noise (S:B) ratio upon treatment with pomalidomide to move forward into high-throughput screening.
+  - generic "Validation of HUDEP2_HBG1_HiBiT HbF expression"
+  - heading "Validation of HUDEP2_HBG1_HiBiT HbF expression" [level=3]
+  - paragraph:
+    - text: "To further validate and confirm that the induced HiBiT signals correlate to the induction of HbF expression in HUDEP2_HBG1_HiBiT cells upon pomalidomide treatment, we employed three methods: 1) HbF positive cells (F-cells) analyzed by flow cytometric analysis, 2)"
+    - emphasis: HBG1
+    - text: "-HiBiT luminescence signals measured by HiBiT protein complementation assay, and 3) protein expression levels of α-, β-, and γ-globin and HiBiT fusion proteins detected by western blot analysis. Three sets of cells were treated equally with pomalidomide at diluting concentrations in differentiation media for 6 days. Pomalidomide increased the percentages of HbF positive cells detected by flow cytometric analysis (FACS) using anti-HbF antibody staining ("
+    - link "Fig 2A and 2B":
+      - /url: "#pone-0307049-g002"
+    - text: and
+    - link "S1 File":
+      - /url: "#pone.0307049.s002"
+    - text: ), as well as increased HiBiT luminescence signals detected by HiBiT luminescence assay (
+    - link "Fig 2C":
+      - /url: "#pone-0307049-g002"
+    - text: and
+    - link "S1 File":
+      - /url: "#pone.0307049.s002"
+    - text: ), both in a dose-dependent manner. The fold changes of HbF-positive cell percentages by FACS and the fold changes of HiBiT luminescence signals were highly correlated (R
+    - superscript: "2"
+    - text: = 0.82), indicating the
+    - emphasis: HBG1
+    - text: "-HiBiT protein complementation assay is a robust surrogate readout for HbF positive percentage quantitated by FACS ("
+    - link "Fig 2D":
+      - /url: "#pone-0307049-g002"
+    - text: ).
+  - link "thumbnail":
+    - /url: article/figure/image?size=medium&id=10.1371/journal.pone.0307049.g002
+    - img "thumbnail"
+  - text: "Download:"
+  - list:
+    - link "PNG larger image":
+      - /url: article/figure/image?download&size=large&id=10.1371/journal.pone.0307049.g002
+      - generic: PNG
+      - generic: larger image
+    - link "TIFF original image":
+      - /url: article/figure/image?download&size=original&id=10.1371/journal.pone.0307049.g002
+      - generic: TIFF
+      - generic: original image
+  - generic: Fig 2. Validation of HUDEP2_HBG1_HiBiT reporter cell line.
+  - paragraph
+  - paragraph:
+    - text: (A) Representative FACS results of HUDEP2_HBG1_HiBiT reporter cells treated with increasing concentrations of pomalidomide in differentiation media for 6 days. Gated populations of HbF positive cells and dead cells are indicated. (B) FACS data from (A) plotted as fold changes of percentage of HbF positive cells compared to DMSO as the negative control (n = 2). (C) Fold changes in HiBiT luminescence signals of HUDEP2_HBG1_HiBiT reporter cells treated with increasing concentrations of pomalidomide compared to DMSO as the negative control (n = 3). (D) Correlation of fold changes of HiBiT luminescence signals detected by Nano-Glo HiBiT lytic detection reagent and percentages of HbF positive cells detected by flow cytometric analysis. (E) Quantification of α, β, γ-globin proteins and HiBiT-tagged protein expression levels by western blot from
+    - link "S1 Fig":
+      - /url: "#pone.0307049.s001"
+    - text: . Fold changes of protein expression levels were calculated following normalization to GAPDH and then relative to DMSO treated samples. (F) Correlation of fold changes of HiBiT luminescence signals detected by Nano-Glo HiBiT Lytic Detection reagent and γ-globin protein expression levels detected by western blot analysis.
+  - paragraph
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.g002":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.g002
+  - paragraph:
+    - text: We further validated the HUDEP2_HBG1_HiBiT reporter cell line by quantitating protein expression levels of α-, β-, and γ-globin and
+    - emphasis: HBG1
+    - text: _HiBiT fusion protein by western blot analysis. The molecular glue pomalidomide was chosen as a positive control drug due to its unique ability to reverse γ-globin transcriptional silencing [
+    - link "40":
+      - /url: "#pone.0307049.ref040"
+    - text: "]. Pomalidomide treatment significantly increased the protein expression levels of γ-globin and"
+    - emphasis: HBG1
+    - text: _HiBiT fusion proteins in a dose-dependent manner but had no measurable effect on the protein expression levels of α- and β-globin (
+    - link "Fig 2E":
+      - /url: "#pone-0307049-g002"
+    - text: and
+    - link "S1 Fig":
+      - /url: "#pone.0307049.s001"
+    - text: ). The fold induction changes of protein expression levels of γ-globin and
+    - emphasis: HBG1
+    - text: _HiBiT fusion proteins were highly correlated (
+    - link "Fig 2F":
+      - /url: "#pone-0307049-g002"
+    - text: ), with a co-efficiency factor of 0.78, confirming that the HiBiT tag was successfully inserted into the C-terminus of the
+    - emphasis: HBG1
+    - text: gene, and that HiBiT luminescence signals accurately reflect the expression levels of endogenous γ-globin protein.
+  - generic "Optimization of a high-throughput-screen (HTS) erythroid HbF induction platform"
+  - heading "Optimization of a high-throughput-screen (HTS) erythroid HbF induction platform" [level=3]
+  - paragraph:
+    - text: To accommodate dense compound libraries for screening campaigns, we miniaturized the HiBiT protein complementation assay into 384-well format. Pomalidomide was employed as a positive control to optimize screening conditions (e.g., concentration of compound, cell seeding density, incubation time). First, pomalidomide at 10 mM in DMSO was spotted into 384-well plates using an acoustic dispensing system, then 50 μl of HUDEP2_HBG1_HiBiT cells at a concentration of either 2x10
+    - superscript: "5"
+    - text: /ml or 1x10
+    - superscript: "5"
+    - text: /ml in differentiation media were added to each well, yielding final drug concentrations of 10 μM and 1 μM, respectively. Cells were harvested for HiBiT luminescence detection after 4, 5 or 6 days of incubation with compound. Consistently, we observed induced HiBiT luminescence signals as early as 4 days incubation with pomalidomide at either concentration (
+    - link "Fig 3A":
+      - /url: "#pone-0307049-g003"
+    - text: ). Luminescence signals improved with increased incubation time (
+    - link "Fig 3A–3C":
+      - /url: "#pone-0307049-g003"
+    - text: ) for both drug treated and untreated samples. This resulted in modest fold change increases of HiBiT luminescence signals from both 1 μM and 10μM pomalidomide-treated samples over DMSO controls from day 4 to day 6. Although there were no significant differences in S:B ratios between the different seeding densities, the variability of HiBiT luminescence signals from replicates was larger when half the number of cells were used (
+    - link "Fig 3B and 3D":
+      - /url: "#pone-0307049-g003"
+    - text: ). The screening assay demonstrated an adequate dynamic range between positive (pomalidomide) and negative (DMSO) controls yielding a Z’ factor of 0.5 with 5 days’ incubation. We determined that 1x10
+    - superscript: "4"
+    - text: cells/well cell seeding density and a 5-day assay time in differentiation media were optimal conditions to move forward into high-throughput screening.
+  - link "thumbnail":
+    - /url: article/figure/image?size=medium&id=10.1371/journal.pone.0307049.g003
+    - img "thumbnail"
+  - text: "Download:"
+  - list:
+    - link "PNG larger image":
+      - /url: article/figure/image?download&size=large&id=10.1371/journal.pone.0307049.g003
+      - generic: PNG
+      - generic: larger image
+    - link "TIFF original image":
+      - /url: article/figure/image?download&size=original&id=10.1371/journal.pone.0307049.g003
+      - generic: TIFF
+      - generic: original image
+  - generic: Fig 3. Assay optimization for high-throughput screening.
+  - paragraph
+  - paragraph: Pomalidomide-treated HUDEP2_HBG1_HiBiT cells were harvested for HiBiT luminescence signal detection after 4 (A), 5 (B, D) or 6 (C) days of incubation. Fold changes of HiBiT luminescence signals compared to DMSO treatment samples are graphed. Average values of thirty-two samples for each treatment are presented. Z’ factors were calculated using GraphPad Prism 8 software.
+  - paragraph
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.g003":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.g003
+  - generic "Chemogenomic screen for HbF inducing compounds and targets"
+  - heading "Chemogenomic screen for HbF inducing compounds and targets" [level=3]
+  - paragraph:
+    - text: To pressure test the HUDEP2_HBG1_HiBiT reporter cell line and HbF induction conditions, we initiated a chemogenomic screening campaign to identify compounds capable of inducing fetal hemoglobin expression. Using annotated compound libraries (approximately 5000 clinical and FDA-approved compounds) from SelleckChem with known targets and/or mechanisms of action, we performed proof-of-concept screening with the optimized HTS workflow (
+    - link "Fig 4A":
+      - /url: "#pone-0307049-g004"
+    - text: ). Briefly, compounds at 10 mM stocks were pre-spotted into 384-well assay plates, then HUDEP2_HBG1_HiBiT cells in differentiation media were added to each well to achieve final compound concentrations of either 1 μM or 10 μM. By screening at two concentrations, we aimed to increase the screen reproducibility. HiBiT luminescence signals were measured by adding Nano-Glo lytic detection reagent and read on an EnVison microplate reader after 5 days of compound exposure. Screening results of HiBiT luminescence signals from 1 μM and 10 μM compound screens are shown in
+    - link "Fig 4B":
+      - /url: "#pone-0307049-g004"
+    - text: and reveal good separation of HiBiT luminescence signals between negative (blue) and positive (red) controls. Hit compounds were defined as those inducing HiBiT luminescence signals above 3 standard deviations of the average values of DMSO negative controls (
+    - link "Fig 4B":
+      - /url: "#pone-0307049-g004"
+    - text: ", dotted lines). Using this hit cutoff, we identified 50 compounds from the primary chemogenomic screens and subsequently confirmed 10 hits that showed a 4-point dose response phenotype upon reconfirmation ("
+    - link "Fig 4C":
+      - /url: "#pone-0307049-g004"
+    - text: ", HiBiT assay and"
+    - link "S2 File":
+      - /url: "#pone.0307049.s003"
+    - text: ). Additionally, we included a CellTiter-Glo viability assessment during reconfirmation to determine if loss of HbF induction was due to cell toxicity (
+    - link "Fig 4C":
+      - /url: "#pone-0307049-g004"
+    - text: ", CellTiter assay and"
+    - link "S2 File":
+      - /url: "#pone.0307049.s003"
+    - text: ).
+  - link "thumbnail":
+    - /url: article/figure/image?size=medium&id=10.1371/journal.pone.0307049.g004
+    - img "thumbnail"
+  - text: "Download:"
+  - list:
+    - link "PNG larger image":
+      - /url: article/figure/image?download&size=large&id=10.1371/journal.pone.0307049.g004
+      - generic: PNG
+      - generic: larger image
+    - link "TIFF original image":
+      - /url: article/figure/image?download&size=original&id=10.1371/journal.pone.0307049.g004
+      - generic: TIFF
+      - generic: original image
+  - generic: Fig 4. High throughput chemogenomic screen for HbF inducers.
+  - paragraph
+  - paragraph: (A) Schematic diagram of HUDEP2_HBG1_HiBiT chemogenomic screen for identification of compounds and targets that up-regulate fetal hemoglobin gene expression. (B) Compound activity distribution and hit calling strategy. Primary hits were selected based on HiBiT luminescence signal +3xSTDEV above the average HiBiT luminescence signals of DMSO treated samples (dotted line). (C) HUDEP2_HBG1_HiBiT cells were treated with the indicated compounds at final concentrations of 0, 0.37, 1.1, 3.3 μM, and 10 μM for 5 days. HiBiT luminescence signals and relative cell viability were detected by Nano-Glo HiBiT Lytic Detection reagent and CellTiter Glo reagent, respectively. The data were normalized to DMSO controls for fold changes of HiBiT luminescence signals, and as 100% for the relative cell viability.
+  - paragraph
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.g004":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.g004
+  - paragraph:
+    - text: As a side-by-side comparison with a clinical HbF inducer, we also tested FTX-6058 [
+    - link "30":
+      - /url: "#pone.0307049.ref030"
+    - text: "], an investigational EED-directed drug for SCD, in our high-throughput platform. We confirmed that FTX-6058 induced over 10-fold HiBiT luminescence signals at 1 μM treatment but demonstrated considerable toxicity at 3.3 μM and 10 μM treatments ("
+    - link "Fig 4C":
+      - /url: "#pone-0307049-g004"
+    - text: ).
+  - generic "Validation of lead compound efficacy in primary erythroid CD34+ hematopoietic stem cells"
+  - heading "Validation of lead compound efficacy in primary erythroid CD34+ hematopoietic stem cells" [level=3]
+  - paragraph:
+    - text: We selected three compounds that demonstrated the highest HbF induction properties, pomalidomide, avadomide and idoxuridine, for further validation in human primary erythroid progenitor CD34+ cells. Both pomalidomide and avadomide treatments resulted in increased percentages of HbF positive cells at similar levels in a dose-dependent manner in CD34+ cells (
+    - link "Fig 5A and 5B":
+      - /url: "#pone-0307049-g005"
+    - text: and
+    - link "S3 File":
+      - /url: "#pone.0307049.s004"
+    - text: ). Idoxuridine potently increased the percentage of HbF positive cells under 1 μM of drug treatment without noticeable toxicity.
+  - link "thumbnail":
+    - /url: article/figure/image?size=medium&id=10.1371/journal.pone.0307049.g005
+    - img "thumbnail"
+  - text: "Download:"
+  - list:
+    - link "PNG larger image":
+      - /url: article/figure/image?download&size=large&id=10.1371/journal.pone.0307049.g005
+      - generic: PNG
+      - generic: larger image
+    - link "TIFF original image":
+      - /url: article/figure/image?download&size=original&id=10.1371/journal.pone.0307049.g005
+      - generic: TIFF
+      - generic: original image
+  - generic: Fig 5. Validation of the HbF inducing drugs in human primary CD34+ cells.
+  - paragraph
+  - paragraph: Human peripheral blood CD34+ cells treated with lead hit compounds and profiled by FACS for HbF expression. (A) Representative images of FACS analyses are shown. The percentages of fetal globin positive cells are indicated. (B) Percentages of HbF positive cells for each treatment are graphed.
+  - paragraph
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.g005":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.g005
+  - generic "Investigation of mechanisms of action of hit compounds"
+  - heading "Investigation of mechanisms of action of hit compounds" [level=3]
+  - paragraph:
+    - text: Numerous studies have reported that several transcription factors including BCL11A, IKZF1 and LRF/ZBTB7A suppress the expression of the γ-globin genes [
+    - link "31":
+      - /url: "#pone.0307049.ref031"
+    - text: –
+    - link "33":
+      - /url: "#pone.0307049.ref033"
+    - text: "]. Extrapolating these data to our hit compounds, we next investigated whether pomalidomide, avadomide, and idoxuridine induce HbF expression via modulation of any of these transcriptional repressors. Parental HUDEP2 cells were treated with pomalidomide, avadomide or idoxuridine at various concentrations in differentiation media for 5 days, then cells were harvested to perform 1) FACS analysis of HbF positive cells using HbF antibody staining and 2) western blot analysis to detect protein expression levels in cell lysates. Consistent with the results from CD34+ cells that were treated with these compounds ("
+    - link "Fig 5A and 5B":
+      - /url: "#pone-0307049-g005"
+    - text: ), pomalidomide and avadomide increased the percentages of HbF positive cell populations in parental HUDEP2 cells in a dose-dependent manner, with idoxuridine again demonstrating the highest potency (
+    - link "Fig 6A":
+      - /url: "#pone-0307049-g006"
+    - text: ). Interestingly, both pomalidomide and avadomide, but not idoxuridine, significantly downregulated BCL11A and IKZF1 protein levels in a dose-dependent manner (
+    - link "Fig 6B and 6C":
+      - /url: "#pone-0307049-g006"
+    - text: and
+    - link "S4 File":
+      - /url: "#pone.0307049.s005"
+    - text: ). On the other hand, protein levels of LRF/ZBTB7A, and CRBN (a protein that forms an E3 ubiquitin ligase complex involved in protein degradation through binding with thalidomide and its derivatives) [
+    - link "34":
+      - /url: "#pone.0307049.ref034"
+    - text: "] in HUDEP2 cells were modestly decreased by both pomalidomide and avadomide treatments but not by idoxuridine treatment ("
+    - link "Fig 6B and 6C":
+      - /url: "#pone-0307049-g006"
+    - text: and
+    - link "S4 File":
+      - /url: "#pone.0307049.s005"
+    - text: ), suggesting that the induction of HbF by these small molecules are via different mechanisms.
+  - link "thumbnail":
+    - /url: article/figure/image?size=medium&id=10.1371/journal.pone.0307049.g006
+    - img "thumbnail"
+  - text: "Download:"
+  - list:
+    - link "PNG larger image":
+      - /url: article/figure/image?download&size=large&id=10.1371/journal.pone.0307049.g006
+      - generic: PNG
+      - generic: larger image
+    - link "TIFF original image":
+      - /url: article/figure/image?download&size=original&id=10.1371/journal.pone.0307049.g006
+      - generic: TIFF
+      - generic: original image
+  - generic: Fig 6. Investigation of molecular targets of lead hit compounds.
+  - paragraph
+  - paragraph: Parental HUDEP2 cells were treated with the indicated compounds for 6 days. (A) Induction of HbF positive cells detected by FACS analysis. The average values and standard deviation of percentages of HbF positive cells from three replicates are graphed. (B) Western blot images of BCL11A, IKZF1, LRF/ZBTB7A, CRBN, and GAPDH proteins expression in DMSO- and compound-treated HUDEP2 cells. GAPDH was used as the loading control. (C) Quantification of BCL11A, IKZF1, LRF/ZBTB7A, and CRBN proteins levels from (B). Fold changes of protein expression levels were normalized with GAPDH controls and then fold change values determined relative to DMSO treated samples.
+  - paragraph
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.g006":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.g006
+  - generic "Discussion"
+  - heading "Discussion" [level=2]
+  - paragraph:
+    - text: HbF induction has been proven to be an efficacious therapeutic approach in β-globin disorders such as β-thalassemia and SCD [
+    - link "35":
+      - /url: "#pone.0307049.ref035"
+    - text: "], as evidenced by recent encouraging reports from several clinical trials ["
+    - link "36":
+      - /url: "#pone.0307049.ref036"
+    - text: –
+    - link "39":
+      - /url: "#pone.0307049.ref039"
+    - text: "]. Although gene-based and cell-based therapies have shown potential to cure sickle cell disease, accessibility to such treatments is limited, particularly for patients in developing countries who make up the bulk of the SCD population. Pharmacological intervention to induce HbF remains challenging due to a dearth of therapeutic targets that can safely and efficaciously mediate the desired phenotype ["
+    - link "24":
+      - /url: "#pone.0307049.ref024"
+    - text: ","
+    - link "25":
+      - /url: "#pone.0307049.ref025"
+    - text: "]. Consequently, there are numerous efforts to find more effective and financially viable therapeutic classes of drugs with acceptable safety and tolerability profiles ["
+    - link "24":
+      - /url: "#pone.0307049.ref024"
+    - text: ","
+    - link "25":
+      - /url: "#pone.0307049.ref025"
+    - text: "]."
+  - paragraph: "To further the discovery of small molecule therapeutics to treat SCD, we developed an integrative workflow comprised of three components: 1) engineering of a robust human erythroid HbF reporter cell line; 2) high-throughput HbF phenotypic screening of dense small molecule libraries; and 3) orthogonal validation of lead HbF therapeutics in a preclinical primary human CD34+ HSC assay. The engineered HUDEP2_HBG1_HiBiT reporter cell line described here enables real time monitoring of endogenous γ-globin expression without modification of any regulatory elements that control hemoglobin expression. In comparison to conventional FACS-based compound screening assays, the HiBiT luminescence assay demonstrates higher sensitivity, considerably lower cost, and lower technical requirements."
+  - paragraph:
+    - text: By profiling compound libraries consisting of clinical candidates and FDA-approved drugs, we identified 10 compounds that had HbF inductive activities in HUDEP2 cells. Among them, several reported HbF inducers such as pomalidomide [
+    - link "40":
+      - /url: "#pone.0307049.ref040"
+    - text: –
+    - link "42":
+      - /url: "#pone.0307049.ref042"
+    - text: "], lenalidomide ["
+    - link "35":
+      - /url: "#pone.0307049.ref035"
+    - text: ","
+    - link "43":
+      - /url: "#pone.0307049.ref043"
+    - text: "], decitabine and 5-azacytidine ["
+    - link "44":
+      - /url: "#pone.0307049.ref044"
+    - text: "], idoxuridine ["
+    - link "45":
+      - /url: "#pone.0307049.ref045"
+    - text: "] and tazemetostat ["
+    - link "46":
+      - /url: "#pone.0307049.ref046"
+    - text: ","
+    - link "47":
+      - /url: "#pone.0307049.ref047"
+    - text: "] were identified, which added confidence and clinical relevance to our screening system. Importantly, we identified four novel HbF inducing small molecules, including avadomide, an analogue of thalidomide and pomalidomide ["
+    - link "48":
+      - /url: "#pone.0307049.ref048"
+    - text: "]; triciribine, a DNA synthesis inhibitor that acts as a specific inhibitor of the Akt signaling pathway ["
+    - link "49":
+      - /url: "#pone.0307049.ref049"
+    - text: "]; autophinib, a potent VPS34 inhibitor, selectively inhibiting starvation- and rapamycin-induced autophagy ["
+    - link "50":
+      - /url: "#pone.0307049.ref050"
+    - text: "]; and R574, a potent ATP-competitive inhibitor of CDK1/2/4 ["
+    - link "51":
+      - /url: "#pone.0307049.ref051"
+    - text: "]. None of these compounds have previously been reported to induce HbF expression, making this a first report of their therapeutic potential in SCD. Further extensive preclinical studies would be required to establish whether these drugs are suitable as potential treatments for SCD. Comprehensively, the integrative drug discovery strategy presented here enables novel target and pathway identifications as well as potential drug repositioning of clinically tested materials with new pharmacological mechanisms and therapeutic properties."
+  - paragraph:
+    - text: Thalidomide and its derivatives exert their therapeutic activity by targeting specific proteins to an E3 ubiquitin ligase for subsequent proteasomal degradation [
+    - link "52":
+      - /url: "#pone.0307049.ref052"
+    - text: ","
+    - link "53":
+      - /url: "#pone.0307049.ref053"
+    - text: "]. Many zinc finger transcription factors such as BCL11A ["
+    - link "40":
+      - /url: "#pone.0307049.ref040"
+    - text: ","
+    - link "54":
+      - /url: "#pone.0307049.ref054"
+    - text: "], LRF/ZBTB7A ["
+    - link "32":
+      - /url: "#pone.0307049.ref032"
+    - text: "], IKZF1 and IKZF3 ["
+    - link "31":
+      - /url: "#pone.0307049.ref031"
+    - text: ","
+    - link "55":
+      - /url: "#pone.0307049.ref055"
+    - text: ","
+    - link "56":
+      - /url: "#pone.0307049.ref056"
+    - text: "] are affected by thalidomide derivatives, either directly via degradation or indirectly via the affected signaling pathways. Therefore, we investigated how these compounds affect the expression of several key transcriptional repressors of fetal globin gene expression, including BCL11A, IKZF1/Ikaros and LRF/ZBTB7A. We demonstrated in HUDEP2 cells that avadomide, similar to pomalidomide ["
+    - link "40":
+      - /url: "#pone.0307049.ref040"
+    - text: "], but not idoxuridine, significantly downregulated the negative transcriptional regulators of HbF, such as BCL11A and IKZF1 in a dose-dependent manner, suggesting the HbF-activating properties of the degrader drugs are divergent from those of idoxuridine. Further studies to understand how these compounds affect transcriptional complexes and the mechanistic pathways in regulating HbF expression could lead to new therapeutic targets and modalities for selectively reactivating fetal hemoglobin in SCD patients."
+  - paragraph: In summary, we have developed an integrated cell-based phenotypic screening platform that enables dense high-throughput small molecule screening to identify HbF inducing compounds for hemoglobinopathy drug discovery. Application of the described screening platform to additional structurally diverse chemical libraries is the next phase in the discovery of HbF-inducing compounds, with the ultimate goal of developing novel therapeutics that outperform the clinical standard of care and offer improved health to SCD patients worldwide.
+  - generic "Supporting information"
+  - heading "Supporting information" [level=2]
+  - heading "S1 Fig. Western blot images of α, β, γ-globin proteins and HBG1_HiBiT-tagged protein expression induced by pomalidomide treatment of HUDEP2_HBG1_HiBiT cells for 6 days." [level=3]:
+    - link "S1 Fig.":
+      - /url: article/file?type=supplementary&id=10.1371/journal.pone.0307049.s001
+    - text: Western blot images of α, β, γ-globin proteins and HBG1_HiBiT-tagged protein expression induced by pomalidomide treatment of HUDEP2_HBG1_HiBiT cells for 6 days.
+  - paragraph: "GAPDH was used as the loading control. Lane 1 (P): parental HUDEP2 cells; Lane 2 (CM): HUDEP2_HBG1_HiBiT cells cultured in expansion media; Lane 3: HUDEP2_HBG1_HiBiT cells in differentiation media with 0.05% DMSO and without pomalidomide. Lane 4–7: HUDEP2_HBG1_HiBiT cells in differentiation media with various concentrations of pomalidomide."
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.s001":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.s001
+  - paragraph: (TIFF)
+  - heading "S1 File. Supporting data for Fig 2." [level=3]:
+    - link "S1 File.":
+      - /url: article/file?type=supplementary&id=10.1371/journal.pone.0307049.s002
+    - text: Supporting data for
+    - link "Fig 2":
+      - /url: "#pone-0307049-g002"
+    - text: .
+  - paragraph: Raw data from experiments assaying HUDEP_HBG1_HiBiT reporter cells for viability (CellTiter), HiBiT expression and %HbF (F+) expression by FACS in the presence of increasing concentrations of pomalidomide.
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.s002":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.s002
+  - paragraph: (XLSX)
+  - heading "S2 File. Supporting data for Fig 4." [level=3]:
+    - link "S2 File.":
+      - /url: article/file?type=supplementary&id=10.1371/journal.pone.0307049.s003
+    - text: Supporting data for
+    - link "Fig 4":
+      - /url: "#pone-0307049-g004"
+    - text: .
+  - paragraph: Raw data from experiments assaying HUDEP_HBG1_HiBiT reporter cells for viability (CellTiter) and HiBiT expression in the presence of increasing concentrations of lead hit drugs.
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.s003":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.s003
+  - paragraph: (XLSX)
+  - heading "S3 File. Supporting data for Fig 5." [level=3]:
+    - link "S3 File.":
+      - /url: article/file?type=supplementary&id=10.1371/journal.pone.0307049.s004
+    - text: Supporting data for
+    - link "Fig 5":
+      - /url: "#pone-0307049-g005"
+    - text: .
+  - paragraph: Raw data from FACS experiments assaying human primary CD34+ cells for HbF expression in the presence of lead hit drugs.
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.s004":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.s004
+  - paragraph: (XLSX)
+  - heading "S4 File. Supporting data for Fig 6." [level=3]:
+    - link "S4 File.":
+      - /url: article/file?type=supplementary&id=10.1371/journal.pone.0307049.s005
+    - text: Supporting data for
+    - link "Fig 6":
+      - /url: "#pone-0307049-g006"
+    - text: .
+  - paragraph: Raw data from western blot experiments assaying HUDEP_HBG1_HiBiT reporter cells for expression of key transcription factors and mechanistic proteins in the presence of lead hit drugs.
+  - paragraph:
+    - link "https://doi.org/10.1371/journal.pone.0307049.s005":
+      - /url: https://doi.org/10.1371/journal.pone.0307049.s005
+  - paragraph: (XLSX)
+  - generic "Acknowledgments"
+  - heading "Acknowledgments" [level=2]
+  - paragraph: We thank the members of Core Biology at Takeda Development Center Americas, Inc. for their meaningful discussions and technical support. Human umbilical cord blood-derived erythroid progenitor (HUDEP-2) cell line was obtained from RIKEN Institute, Japan.
+  - generic "References"
+  - heading "References" [level=2]
+  - list:
+    - generic: "1."
+    - text: "Longo D.L., et al., Sickle cell disease. N Engl J Med, 2017. 20(April (376 (16))): p. 1561–1573."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Sickle+cell+disease+Longo+2017
+    - generic: "2."
+    - text: "Payne A.B., et al., Trends in sickle cell disease—related mortality in the United States, 1979 to 2017. Annals of emergency medicine, 2020. 76(3): p. S28–S36. pmid:32928459"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1016/j.annemergmed.2020.08.009
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/32928459
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Trends+in+sickle+cell+disease%E2%80%94related+mortality+in+the+United+States%2C+1979+to+2017+Payne+2020
+    - generic: "3."
+    - text: "Piel F.B., et al., Global burden of sickle cell anaemia in children under five, 2010–2050: modelling based on demographics, excess mortality, and interventions. PLoS medicine, 2013. 10(7): p. e1001484. pmid:23874164"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1371/journal.pmed.1001484
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/23874164
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Global+burden+of+sickle+cell+anaemia+in+children+under+five%2C+2010%E2%80%932050%3A+modelling+based+on+demographics%2C+excess+mortality%2C+and+interventions+Piel+2013
+    - generic: "4."
+    - text: "Denomme G.A., Molecular basis of blood group expression. Transfusion and Apheresis Science, 2011. 44(1): p. 53–63. pmid:21277830"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1016/j.transci.2010.12.010
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/21277830
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Molecular+basis+of+blood+group+expression+Denomme+2011
+    - generic: "5."
+    - text: "Sankaran V.G. and Orkin S.H., The switch from fetal to adult hemoglobin. Cold Spring Harbor perspectives in medicine, 2013. 3(1): p. a011643. pmid:23209159"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1101/cshperspect.a011643
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/23209159
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=The+switch+from+fetal+to+adult+hemoglobin+Sankaran+2013
+    - generic: "6."
+    - text: "Vinjamur D.S., Bauer D.E., and Orkin S.H., Recent progress in understanding and manipulating haemoglobin switching for the haemoglobinopathies. British journal of haematology, 2018. 180(5): p. 630–643. pmid:29193029"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1111/bjh.15038
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/29193029
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Recent+progress+in+understanding+and+manipulating+haemoglobin+switching+for+the+haemoglobinopathies+Vinjamur+2018
+    - generic: "7."
+    - text: "Rees D.C., Williams T.N., and Gladwin M.T., Sickle-cell disease. The Lancet, 2010. 376(9757): p. 2018–2031."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Sickle-cell+disease+Rees+2010
+    - generic: "8."
+    - text: "Weatherall D.J., The inherited diseases of hemoglobin are an emerging global health burden. Blood, The Journal of the American Society of Hematology, 2010. 115(22): p. 4331–4336. pmid:20233970"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1182/blood-2010-01-251348
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/20233970
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=The+inherited+diseases+of+hemoglobin+are+an+emerging+global+health+burden+Weatherall+2010
+    - generic: "9."
+    - text: "Salinas Cisneros G. and Thein S.L., Recent Advances in the Treatment of Sickle Cell Disease. Front Physiol, 2020. 11: p. 435. pmid:32508672"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.3389/fphys.2020.00435
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/32508672
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Recent+Advances+in+the+Treatment+of+Sickle+Cell+Disease+Salinas+Cisneros+2020
+    - generic: "10."
+    - text: "Musallam K.M., et al., Fetal hemoglobin levels and morbidity in untransfused patients with β-thalassemia intermedia. Blood, The Journal of the American Society of Hematology, 2012. 119(2): p. 364–367."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Fetal+hemoglobin+levels+and+morbidity+in+untransfused+patients+with+%CE%B2-thalassemia+intermedia+Musallam+2012
+    - generic: "11."
+    - text: "Forget B.G., Molecular basis of hereditary persistence of fetal hemoglobin. Annals of the New York Academy of Sciences, 1998. 850(1): p. 38–44. pmid:9668525"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1111/j.1749-6632.1998.tb10460.x
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/9668525
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Molecular+basis+of+hereditary+persistence+of+fetal+hemoglobin+Forget+1998
+    - generic: "12."
+    - text: Perrine, S.P., et al.,
+    - emphasis: Sodium butyrate enhances fetal globin gene expression in erythroid progenitors of patients with Hb SS and beta thalassemia
+    - text: . 1989.
+    - list
+    - generic: "13."
+    - text: "Steinberg M.H. and Rodgers G.P., Pharmacologic modulation of fetal hemoglobin. Medicine, 2001. 80(5): p. 328–344. pmid:11552087"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1097/00005792-200109000-00007
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/11552087
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Pharmacologic+modulation+of+fetal+hemoglobin+Steinberg+2001
+    - generic: "14."
+    - text: "Lanzkron S., et al., Systematic review: Hydroxyurea for the treatment of adults with sickle cell disease. Annals of internal medicine, 2008. 148(12): p. 939–955. pmid:18458272"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.7326/0003-4819-148-12-200806170-00221
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/18458272
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Systematic+review%3A+Hydroxyurea+for+the+treatment+of+adults+with+sickle+cell+disease+Lanzkron+2008
+    - generic: "15."
+    - text: "Agrawal R.K., et al., Hydroxyurea in sickle cell disease: drug review. Indian Journal of Hematology and Blood Transfusion, 2014. 30: p. 91–96. pmid:24839362"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1007/s12288-013-0261-4
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/24839362
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Hydroxyurea+in+sickle+cell+disease%3A+drug+review+Agrawal+2014
+    - generic: "16."
+    - text: "Ataga K.I. and Stocker J., The trials and hopes for drug development in sickle cell disease. Br J Haematol, 2015. 170(6): p. 768–80. pmid:26123612"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1111/bjh.13548
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/26123612
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=The+trials+and+hopes+for+drug+development+in+sickle+cell+disease+Ataga+2015
+    - generic: "17."
+    - text: "DeSimone J., et al., 5-Azacytidine stimulates fetal hemoglobin synthesis in anemic baboons. Proceedings of the National Academy of Sciences, 1982. 79(14): p. 4428–4431. pmid:6181507"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1073/pnas.79.14.4428
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/6181507
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=5-Azacytidine+stimulates+fetal+hemoglobin+synthesis+in+anemic+baboons+DeSimone+1982
+    - generic: "18."
+    - text: "Olivieri N.F., et al., A pilot study of subcutaneous decitabine in β-thalassemia intermedia. Blood, The Journal of the American Society of Hematology, 2011. 118(10): p. 2708–2711."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=A+pilot+study+of+subcutaneous+decitabine+in+%CE%B2-thalassemia+intermedia+Olivieri+2011
+    - generic: "19."
+    - text: "Bartlett J.B., Dredge K., and Dalgleish A.G., The evolution of thalidomide and its IMiD derivatives as anticancer agents. Nature Reviews Cancer, 2004. 4(4): p. 314–322. pmid:15057291"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1038/nrc1323
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/15057291
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=The+evolution+of+thalidomide+and+its+IMiD+derivatives+as+anticancer+agents+Bartlett+2004
+    - generic: "20."
+    - text: Pavan A.R., et al., Perspectives and challenges to discovering hemoglobin-inducing agents in Sickle Cell Disease. Frontiers in Medicine, 2022. 9. pmid:36160143
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.3389/fmed.2022.1002063
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/36160143
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Perspectives+and+challenges+to+discovering+hemoglobin-inducing+agents+in+Sickle+Cell+Disease+Pavan+2022
+    - generic: "21."
+    - text: Breveglieri G., et al., Discovery of Novel Fetal Hemoglobin Inducers through Small Chemical Library Screening. Int J Mol Sci, 2020. 21(19). pmid:33050052
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.3390/ijms21197426
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/33050052
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Discovery+of+Novel+Fetal+Hemoglobin+Inducers+through+Small+Chemical+Library+Screening+Breveglieri+2020
+    - generic: "22."
+    - text: "Haley J.D., et al., Identification and characterization of mechanistically distinct inducers of gamma-globin transcription. Biochem Pharmacol, 2003. 66(9): p. 1755–68. pmid:14563486"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1016/s0006-2952(03)00542-2
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/14563486
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Identification+and+characterization+of+mechanistically+distinct+inducers+of+gamma-globin+transcription+Haley+2003
+    - generic: "23."
+    - text: "Xie W., et al., A Luciferase Reporter Gene System for High-Throughput Screening of gamma-Globin Gene Activators. Methods Mol Biol, 2016. 1439: p. 207–26."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=A+Luciferase+Reporter+Gene+System+for+High-Throughput+Screening+of+gamma-Globin+Gene+Activators+Xie+2016
+    - generic: "24."
+    - text: "Peterson K.R., et al., A cell-based high-throughput screen for novel chemical inducers of fetal hemoglobin for treatment of hemoglobinopathies. PLoS One, 2014. 9(9): p. e107006. pmid:25225870"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1371/journal.pone.0107006
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/25225870
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=A+cell-based+high-throughput+screen+for+novel+chemical+inducers+of+fetal+hemoglobin+for+treatment+of+hemoglobinopathies+Peterson+2014
+    - generic: "25."
+    - text: "Boosalis M.S., et al., Novel inducers of fetal globin identified through high throughput screening (HTS) are active in vivo in anemic baboons and transgenic mice. PLoS One, 2015. 10(12): p. e0144660. pmid:26713848"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1371/journal.pone.0144660
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/26713848
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Novel+inducers+of+fetal+globin+identified+through+high+throughput+screening+%28HTS%29+are+active+in+vivo+in+anemic+baboons+and+transgenic+mice+Boosalis+2015
+    - generic: "26."
+    - text: Cannon M., et al., Large-Scale Drug Screen Identifies FDA-Approved Drugs for Repurposing in Sickle-Cell Disease. J Clin Med, 2020. 9(7). pmid:32708954
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.3390/jcm9072276
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/32708954
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Large-Scale+Drug+Screen+Identifies+FDA-Approved+Drugs+for+Repurposing+in+Sickle-Cell+Disease+Cannon+2020
+    - generic: "27."
+    - text: "Chou Y.-C., et al., Pharmacological induction of human fetal globin gene in hydroxyurea-resistant primary adult erythroid cells. Molecular and cellular biology, 2015. 35(14): p. 2541–2553. pmid:25986606"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1128/MCB.00035-15
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/25986606
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Pharmacological+induction+of+human+fetal+globin+gene+in+hydroxyurea-resistant+primary+adult+erythroid+cells+Chou+2015
+    - generic: "28."
+    - text: "Kurita R., et al., Establishment of immortalized human erythroid progenitor cell lines able to produce enucleated red blood cells. PloS one, 2013. 8(3): p. e59890. pmid:23533656"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1371/journal.pone.0059890
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/23533656
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Establishment+of+immortalized+human+erythroid+progenitor+cell+lines+able+to+produce+enucleated+red+blood+cells+Kurita+2013
+    - generic: "29."
+    - text: "Schwinn M.K., et al., A simple and scalable strategy for analysis of endogenous protein dynamics. Scientific Reports, 2020. 10(1): p. 8953. pmid:32488146"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1038/s41598-020-65832-1
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/32488146
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=A+simple+and+scalable+strategy+for+analysis+of+endogenous+protein+dynamics+Schwinn+2020
+    - generic: "30."
+    - text: "Xie K., et al., In vivo characterization of Ftx-6058, a novel small molecular fetal hemoglobin inducer for sickle cell disease. Blood, 2020. 136: p. 26–27."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=In+vivo+characterization+of+Ftx-6058%2C+a+novel+small+molecular+fetal+hemoglobin+inducer+for+sickle+cell+disease+Xie+2020
+    - generic: "31."
+    - text: "Masuda T., et al., Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin. Science, 2016. 351(6270): p. 285–289. pmid:26816381"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1126/science.aad3312
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/26816381
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Transcription+factors+LRF+and+BCL11A+independently+repress+expression+of+fetal+hemoglobin+Masuda+2016
+    - generic: "32."
+    - text: "Abdulhay N., et al., Normal hematologic parameters and fetal hemoglobin silencing with heterozygous IKZF1 mutations. Blood, The Journal of the American Society of Hematology, 2016. 128(16): p. 2100–2103. pmid:27581358"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1182/blood-2016-08-731943
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/27581358
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Normal+hematologic+parameters+and+fetal+hemoglobin+silencing+with+heterozygous+IKZF1+mutations+Abdulhay+2016
+    - generic: "33."
+    - text: "Paikari A. and Sheehan V.A., Fetal haemoglobin induction in sickle cell disease. British journal of haematology, 2018. 180(2): p. 189–200. pmid:29143315"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1111/bjh.15021
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/29143315
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Fetal+haemoglobin+induction+in+sickle+cell+disease+Paikari+2018
+    - generic: "34."
+    - text: "Ito T., et al., Identification of a primary target of thalidomide teratogenicity. science, 2010. 327(5971): p. 1345–1350. pmid:20223979"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1126/science.1177319
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/20223979
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Identification+of+a+primary+target+of+thalidomide+teratogenicity+Ito+2010
+    - generic: "35."
+    - text: "Bou-Fakhredin R., et al., Pharmacological Induction of Fetal Hemoglobin in β-Thalassemia and Sickle Cell Disease: An Updated Perspective. Pharmaceuticals, 2022. 15(6): p. 753."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Pharmacological+Induction+of+Fetal+Hemoglobin+in+%CE%B2-Thalassemia+and+Sickle+Cell+Disease%3A+An+Updated+Perspective+Bou-Fakhredin+2022
+    - generic: "36."
+    - text: "Esrick E.B., et al., Post-transcriptional genetic silencing of BCL11A to treat sickle cell disease. New England Journal of Medicine, 2021. 384(3): p. 205–215. pmid:33283990"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1056/NEJMoa2029392
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/33283990
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Post-transcriptional+genetic+silencing+of+BCL11A+to+treat+sickle+cell+disease+Esrick+2021
+    - generic: "37."
+    - text: "Frangoul H., et al., CRISPR-Cas9 gene editing for sickle cell disease and β-thalassemia. New England Journal of Medicine, 2021. 384(3): p. 252–260."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=CRISPR-Cas9+gene+editing+for+sickle+cell+disease+and+%CE%B2-thalassemia+Frangoul+2021
+    - generic: "38."
+    - text: Kingwell K., First CRISPR therapy seeks landmark approval. Nature reviews. Drug discovery. pmid:37012339
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1038/d41573-023-00050-8
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/37012339
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=First+CRISPR+therapy+seeks+landmark+approval+Kingwell+
+    - generic: "39."
+    - text: "Sousa P., et al., Preclinical Development of EDIT301, an Autologous Cell Therapy Comprising AsCas12a-RNP Modified Mobilized Peripheral Blood-CD34+ Cells for the Potential Treatment of Transfusion Dependent Beta Thalassemia. Blood, 2021. 138: p. 1858."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Preclinical+Development+of+EDIT301%2C+an+Autologous+Cell+Therapy+Comprising+AsCas12a-RNP+Modified+Mobilized+Peripheral+Blood-CD34%2B+Cells+for+the+Potential+Treatment+of+Transfusion+Dependent+Beta+Thalassemia+Sousa+2021
+    - generic: "40."
+    - text: "Dulmovits B.M., et al., Pomalidomide reverses γ-globin silencing through the transcriptional reprogramming of adult hematopoietic progenitors. Blood, The Journal of the American Society of Hematology, 2016. 127(11): p. 1481–1492."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Pomalidomide+reverses+%CE%B3-globin+silencing+through+the+transcriptional+reprogramming+of+adult+hematopoietic+progenitors+Dulmovits+2016
+    - generic: "41."
+    - text: "Kutlar A., et al., Pomalidomide in sickle cell disease: phase I study of a novel anti-switching agent. Blood, 2013. 122(21): p. 777."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Pomalidomide+in+sickle+cell+disease%3A+phase+I+study+of+a+novel+anti-switching+agent+Kutlar+2013
+    - generic: "42."
+    - text: "Meiler S.E., et al., Pomalidomide augments fetal hemoglobin production without the myelosuppressive effects of hydroxyurea in transgenic sickle cell mice. Blood, The Journal of the American Society of Hematology, 2011. 118(4): p. 1109–1112. pmid:21536862"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1182/blood-2010-11-319137
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/21536862
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Pomalidomide+augments+fetal+hemoglobin+production+without+the+myelosuppressive+effects+of+hydroxyurea+in+transgenic+sickle+cell+mice+Meiler+2011
+    - generic: "43."
+    - text: "Aerbajinai W., et al., Thalidomide induces γ-globin gene expression through increased reactive oxygen species—mediated p38 MAPK signaling and histone H4 acetylation in adult erythropoiesis. Blood, The Journal of the American Society of Hematology, 2007. 110(8): p. 2864–2871."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Thalidomide+induces+%CE%B3-globin+gene+expression+through+increased+reactive+oxygen+species%E2%80%94mediated+p38+MAPK+signaling+and+histone+H4+acetylation+in+adult+erythropoiesis+Aerbajinai+2007
+    - generic: "44."
+    - text: Lavelle D., Engel J.D., and Saunthararajah Y.. Fetal hemoglobin induction by epigenetic drugs. in
+    - emphasis: Seminars in hematology
+    - text: . 2018. Elsevier.
+    - list
+    - generic: "45."
+    - text: "Makino T., et al., Phenotypic-screening generates active novel fetal globin-inducers that downregulate Bcl11a in a monkey model. Biochemical Pharmacology, 2020. 171: p. 113717. pmid:31751536"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1016/j.bcp.2019.113717
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/31751536
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Phenotypic-screening+generates+active+novel+fetal+globin-inducers+that+downregulate+Bcl11a+in+a+monkey+model+Makino+2020
+    - generic: "46."
+    - text: "Xu J., et al., Corepressor-dependent silencing of fetal hemoglobin expression by BCL11A. Proceedings of the National Academy of Sciences, 2013. 110(16): p. 6518–6523. pmid:23576758"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1073/pnas.1303976110
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/23576758
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Corepressor-dependent+silencing+of+fetal+hemoglobin+expression+by+BCL11A+Xu+2013
+    - generic: "47."
+    - text: "Yu L., et al., Identification of novel γ-globin inducers among all potential erythroid druggable targets. Blood Advances, 2022. 6(11): p. 3280–3285."
+    - list:
+      - link "View Article":
+        - /url: "#"
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Identification+of+novel+%CE%B3-globin+inducers+among+all+potential+erythroid+druggable+targets+Yu+2022
+    - generic: "48."
+    - text: "Hagner P.R., et al., CC-122, a pleiotropic pathway modifier, mimics an interferon response and has antitumor activity in DLBCL. Blood, The Journal of the American Society of Hematology, 2015. 126(6): p. 779–789. pmid:26002965"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1182/blood-2015-02-628669
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/26002965
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=CC-122%2C+a+pleiotropic+pathway+modifier%2C+mimics+an+interferon+response+and+has+antitumor+activity+in+DLBCL+Hagner+2015
+    - generic: "49."
+    - text: "Garrett C.R., et al., Phase I pharmacokinetic and pharmacodynamic study of triciribine phosphate monohydrate, a small-molecule inhibitor of AKT phosphorylation, in adult subjects with solid tumors containing activated AKT. Investigational new drugs, 2011. 29: p. 1381–1389. pmid:20644979"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1007/s10637-010-9479-2
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/20644979
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Phase+I+pharmacokinetic+and+pharmacodynamic+study+of+triciribine+phosphate+monohydrate%2C+a+small-molecule+inhibitor+of+AKT+phosphorylation%2C+in+adult+subjects+with+solid+tumors+containing+activated+AKT+Garrett+2011
+    - generic: "50."
+    - text: "Robke L., et al., Phenotypic identification of a novel autophagy inhibitor chemotype targeting lipid kinase VPS34. Angewandte Chemie International Edition, 2017. 56(28): p. 8153–8157. pmid:28544137"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1002/anie.201703738
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/28544137
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Phenotypic+identification+of+a+novel+autophagy+inhibitor+chemotype+targeting+lipid+kinase+VPS34+Robke+2017
+    - generic: "51."
+    - text: "Chu X.-J., et al., Discovery of [4-amino-2-(1-methanesulfonylpiperidin-4-ylamino) pyrimidin-5-yl](2, 3-difluoro-6-methoxyphenyl) methanone (R547), a potent and selective cyclin-dependent kinase inhibitor with significant in vivo antitumor activity. Journal of medicinal chemistry, 2006. 49(22): p. 6549–6560. pmid:17064073"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1021/jm0606138
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/17064073
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Discovery+of+%5B4-amino-2-%281-methanesulfonylpiperidin-4-ylamino%29+pyrimidin-5-yl%5D%282%2C+3-difluoro-6-methoxyphenyl%29+methanone+%28R547%29%2C+a+potent+and+selective+cyclin-dependent+kinase+inhibitor+with+significant+in+vivo+antitumor+activity+Chu+2006
+    - generic: "52."
+    - text: "Krönke J., et al., Lenalidomide causes selective degradation of IKZF1 and IKZF3 in multiple myeloma cells. Science, 2014. 343(6168): p. 301–305. pmid:24292625"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1126/science.1244851
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/24292625
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Lenalidomide+causes+selective+degradation+of+IKZF1+and+IKZF3+in+multiple+myeloma+cells+Kr%C3%B6nke+2014
+    - generic: "53."
+    - text: "Lu G., et al., The myeloma drug lenalidomide promotes the cereblon-dependent destruction of Ikaros proteins. Science, 2014. 343(6168): p. 305–309. pmid:24292623"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1126/science.1244917
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/24292623
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=The+myeloma+drug+lenalidomide+promotes+the+cereblon-dependent+destruction+of+Ikaros+proteins+Lu+2014
+    - generic: "54."
+    - text: "Liu N., et al., Direct Promoter Repression by BCL11A Controls the Fetal to Adult Hemoglobin Switch. Cell, 2018. 173(2): p. 430–442 e17. pmid:29606353"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1016/j.cell.2018.03.016
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/29606353
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Direct+Promoter+Repression+by+BCL11A+Controls+the+Fetal+to+Adult+Hemoglobin+Switch+Liu+2018
+    - generic: "55."
+    - text: "Sievers Q.L., et al., Defining the human C2H2 zinc finger degrome targeted by thalidomide analogs through CRBN. Science, 2018. 362(6414): p. eaat0572. pmid:30385546"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1126/science.aat0572
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/30385546
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=Defining+the+human+C2H2+zinc+finger+degrome+targeted+by+thalidomide+analogs+through+CRBN+Sievers+2018
+    - generic: "56."
+    - text: "Canver M.C., et al., BCL11A enhancer dissection by Cas9-mediated in situ saturating mutagenesis. Nature, 2015. 527(7577): p. 192–197. pmid:26375006"
+    - list:
+      - link "View Article":
+        - /url: https://doi.org/10.1038/nature15521
+      - link "PubMed/NCBI":
+        - /url: http://www.ncbi.nlm.nih.gov/pubmed/26375006
+      - link "Google Scholar":
+        - /url: http://scholar.google.com/scholar?q=BCL11A+enhancer+dissection+by+Cas9-mediated+in+situ+saturating+mutagenesis+Canver+2015
+  - complementary:
+    - link "Download PDF":
+      - /url: /plosone/article/file?id=10.1371/journal.pone.0307049&type=printable
+    - generic: 
+    - link "Print":
+      - /url: "#"
+    - generic: Share
+    - generic "Check for updates via CrossMark":
+      - img "Check for updates via CrossMark"
+    - generic: Advertisement
+    - heading "Subject Areas ?" [level=3]:
+      - text: Subject Areas
+      - generic: "?"
+    - list:
+      - link "Luminescence":
+        - /url: /plosone/search?filterSubjects=Luminescence&filterJournals=PLoSONE&q=
+      - link "Cell differentiation":
+        - /url: /plosone/search?filterSubjects=Cell+differentiation&filterJournals=PLoSONE&q=
+      - link "Drug screening":
+        - /url: /plosone/search?filterSubjects=Drug+screening&filterJournals=PLoSONE&q=
+      - link "Protein expression":
+        - /url: /plosone/search?filterSubjects=Protein+expression&filterJournals=PLoSONE&q=
+      - link "Hemoglobin":
+        - /url: /plosone/search?filterSubjects=Hemoglobin&filterJournals=PLoSONE&q=
+      - link "High throughput screening":
+        - /url: /plosone/search?filterSubjects=High+throughput+screening&filterJournals=PLoSONE&q=
+      - link "Library screening":
+        - /url: /plosone/search?filterSubjects=Library+screening&filterJournals=PLoSONE&q=
+      - link "Small molecules":
+        - /url: /plosone/search?filterSubjects=Small+molecules&filterJournals=PLoSONE&q=
+- contentinfo:
+  - list:
+    - link "Publications":
+      - /url: https://plos.org/our-journals/
+    - link "PLOS Aging and Health":
+      - /url: /agingandhealth/
+    - link "PLOS Biology":
+      - /url: /plosbiology/
+    - link "PLOS Climate":
+      - /url: /climate/
+    - link "PLOS Complex Systems":
+      - /url: /complexsystems/
+    - link "PLOS Computational Biology":
+      - /url: /ploscompbiol/
+    - link "PLOS Digital Health":
+      - /url: /digitalhealth/
+    - link "PLOS Ecosystems":
+      - /url: /ecosystems/
+    - link "PLOS Genetics":
+      - /url: /plosgenetics/
+  - list:
+    - link "PLOS Global Public Health":
+      - /url: /globalpublichealth/
+    - link "PLOS Medicine":
+      - /url: /plosmedicine/
+    - link "PLOS Mental Health":
+      - /url: /mentalhealth/
+    - link "PLOS Neglected Tropical Diseases":
+      - /url: /plosntds/
+    - link "PLOS One":
+      - /url: /plosone/
+    - link "PLOS Pathogens":
+      - /url: /plospathogens/
+    - link "PLOS Sustainability and Transformation":
+      - /url: /sustainabilitytransformation/
+    - link "PLOS Water":
+      - /url: /water/
+  - list:
+    - link "Home":
+      - /url: https://plos.org
+    - link "Blogs":
+      - /url: https://blogs.plos.org
+    - link "Collections":
+      - /url: https://collections.plos.org/
+    - link "Give feedback":
+      - /url: mailto:customercare@plos.org
+    - link "LOCKSS":
+      - /url: /plosone/lockss-manifest
+  - list:
+    - link "Privacy Policy":
+      - /url: https://plos.org/privacy-policy
+    - link "Terms of Use":
+      - /url: https://plos.org/terms-of-use
+    - link "Advertise":
+      - /url: https://plos.org/advertise/
+    - link "Media Inquiries":
+      - /url: https://plos.org/media-inquiries
+    - link "Contact":
+      - /url: https://plos.org/contact
+  - paragraph:
+    - img "PLOS"
+    - text: "PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in California, US"
+- img "PLOS Logo"
+- heading "Cookie Preference Center" [level=3]
+- paragraph: Our website uses different types of cookies. Optional cookies will only be set with your consent and you may withdraw this consent at any time. Below you can learn more about the types of cookies PLOS uses and register your cookie preferences.
+- button "Accept All Cookies"
+- heading "Customize Your Cookie Preference" [level=3]
+- button "Toggle explanation of Strictly Necessary Cookies.":
+  - generic: +
+  - strong: Strictly Necessary
+- generic: Always On
+- button "Toggle explanation of Functional Cookies.":
+  - generic: +
+  - strong: Functional
+- checkbox "Off"
+- generic: "Off"
+- button "Toggle explanation of Performance and Analytics Cookies.":
+  - generic: +
+  - strong: Performance and Analytics
+- checkbox "Off"
+- generic: "Off"
+- button "Toggle explanation of Marketing Cookies.":
+  - generic: +
+  - strong: Marketing
+- checkbox "Off"
+- generic: "Off"
+- button "Save Selected Preferences and Close"
+- link "For more information about the cookies and other technologies used by us, please read our Cookie Policy.":
+  - /url: https://plos.org/cookies-policy

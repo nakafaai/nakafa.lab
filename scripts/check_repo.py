@@ -89,6 +89,24 @@ QUERCETIN_ANALOG_PATHS = [
 HBF_REPORTER_GUARDRAIL_PATHS = [
     "data/literature/fulltext/pubmed/2026-04-27-verheul-2024-endogenous-hbf-reporter.dom.txt",
     "data/literature/fulltext/pubmed/2026-04-27-small-molecule-hbf-agonists.dom.txt",
+    "data/literature/fulltext/pubmed/2026-04-27-yang-2024-hudep2-hbf-agonists-plos.dom.txt",
+    "data/literature/fulltext/pubmed/2026-04-27-yang-2024-hudep2-hbf-agonists-pmc.dom.txt",
+    "data/chemistry/pubchem/hudep2-hbf-hits/2026-04-27-avadomide-properties.json",
+    "data/chemistry/pubchem/hudep2-hbf-hits/2026-04-27-autophinib-properties.json",
+    "data/chemistry/pubchem/hudep2-hbf-hits/2026-04-27-triciribine-properties.json",
+    "data/chemistry/pubchem/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-properties.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-avadomide-search.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-avadomide-chembl3989934.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-avadomide-chembl-activities.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-autophinib-search.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-autophinib-chembl4639853.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-autophinib-chembl-activities.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-search.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-chembl331237.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-chembl-activities.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-chembl462018.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-chembl-activities.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r574-search.json",
 ]
 
 REQUIRED_PATHS = [
@@ -180,6 +198,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",
+    "research/thalassemia/findings/2026-04-27-hudep2-small-molecule-hit-map.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

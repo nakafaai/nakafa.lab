@@ -185,3 +185,7 @@ Checked on 2026-04-26 unless noted.
 | HbF screen | [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md) | Assay interpretation rule: K562-only hits need endogenous HUDEP2 or primary erythroid validation. |
 | HbF screen | [Verheul 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-verheul-2024-endogenous-hbf-reporter.dom.txt) | PubMed page snapshot for the endogenous HUDEP2 `HBG1` reporter source. |
 | HbF screen | [Yang 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-small-molecule-hbf-agonists.dom.txt) | PubMed page snapshot for the HUDEP2 `HBG1` HiBiT screen and primary `CD34+` confirmation workflow. |
+| HbF screen | [HUDEP2 small-molecule hit map](../findings/2026-04-27-hudep2-small-molecule-hit-map.md) | Maps avadomide, autophinib, triciribine, and unresolved `R574` as benchmark hits, not treatment advice. |
+| HbF screen | [Yang 2024 PLOS snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-yang-2024-hudep2-hbf-agonists-plos.dom.txt) | Publisher page snapshot for the HUDEP2 chemogenomic screen and primary-cell validation details. |
+| Chemistry | [HUDEP2 HbF hit PubChem snapshots](../../../data/chemistry/pubchem/hudep2-hbf-hits/) | PubChem identity snapshots for avadomide, autophinib, triciribine, and triciribine phosphate. |
+| Chemistry | [HUDEP2 HbF hit ChEMBL snapshots](../../../data/chemistry/chembl/hudep2-hbf-hits/) | ChEMBL search, molecule, and activity snapshots for HUDEP2 benchmark hits. |

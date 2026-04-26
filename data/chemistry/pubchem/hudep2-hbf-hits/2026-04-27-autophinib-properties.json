@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 129626605,
+        "MolecularFormula": "C14H11ClN6O3",
+        "MolecularWeight": "346.73",
+        "SMILES": "CC1=CC(=NN1)NC2=CC(=NC(=N2)OC3=CC=C(C=C3)[N+](=O)[O-])Cl",
+        "ConnectivitySMILES": "CC1=CC(=NN1)NC2=CC(=NC(=N2)OC3=CC=C(C=C3)[N+](=O)[O-])Cl",
+        "InChIKey": "CEUMAXLRGBKFQP-UHFFFAOYSA-N",
+        "IUPACName": "6-chloro-N-(5-methyl-1H-pyrazol-3-yl)-2-(4-nitrophenoxy)pyrimidin-4-amine"
+      }
+    ]
+  }
+}

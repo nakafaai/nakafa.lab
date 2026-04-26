@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 43860,
+        "MolecularFormula": "C13H17N6O7P",
+        "MolecularWeight": "400.28",
+        "SMILES": "CN1C2=NC=NC3=C2C(=CN3[C@H]4[C@@H]([C@@H]([C@H](O4)COP(=O)(O)O)O)O)C(=N1)N",
+        "ConnectivitySMILES": "CN1C2=NC=NC3=C2C(=CN3C4C(C(C(O4)COP(=O)(O)O)O)O)C(=N1)N",
+        "InChIKey": "URLYINUFLXOMHP-HTVVRFAVSA-N",
+        "IUPACName": "[(2R,3S,4R,5R)-5-(5-amino-7-methyl-2,6,7,9,11-pentazatricyclo[6.3.1.04,12]dodeca-1(12),3,5,8,10-pentaen-2-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate"
+      }
+    ]
+  }
+}

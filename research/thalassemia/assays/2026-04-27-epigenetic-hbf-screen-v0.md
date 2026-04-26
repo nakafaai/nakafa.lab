@@ -102,6 +102,18 @@ separate anecdotes. The first meaningful decision is not "is this a cure?" but
 "does this reproducibly raise HbF without damaging erythroid or mature red
 cells?"
 
+## HUDEP2 Benchmark Hit Queue
+
+| Benchmark | Current use | Caution |
+| --- | --- | --- |
+| `avadomide` | mechanistic comparator for `BCL11A`/`IKZF`-adjacent HbF induction | thalidomide-class neighborhood; not an access shortcut |
+| `autophinib` | VPS34/autophagy pathway probe | pathway toxicity and erythroid maturation risk must be checked |
+| `triciribine` | AKT/DNA-synthesis inhibitor comparator | cytotoxicity and oncology-like mechanism caution |
+| `R574` | possible CDK1/2/4 inhibitor benchmark | hold until exact identity is resolved |
+
+These hits help validate the assay ladder. They should not displace affordable
+candidate discovery unless they show a realistic safety and access path.
+
 ## Output Per Run
 
 Every completed run should produce:
@@ -122,6 +134,7 @@ Every completed run should produce:
 - [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
 - [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)
+- [HUDEP2 small-molecule hit map](../findings/2026-04-27-hudep2-small-molecule-hit-map.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)

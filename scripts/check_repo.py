@@ -22,6 +22,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-cure-strategy-map.md",
     "research/thalassemia/findings/2026-04-26-hbf-target-map.md",
     "research/thalassemia/findings/2026-04-26-hbf-target-priority-ranking.md",
+    "research/thalassemia/findings/2026-04-26-hbf-reactivation-explainer.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",
     "research/thalassemia/findings/2026-04-26-indonesia-access-context.md",

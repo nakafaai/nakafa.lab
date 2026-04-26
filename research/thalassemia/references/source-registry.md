@@ -25,6 +25,8 @@ Checked on 2026-04-26 unless noted.
 | Cure strategy | [TIF 2025 HSCT chapter](https://www.ncbi.nlm.nih.gov/books/NBK614242/) | Curative transplant baseline and risk context. |
 | HbF target | [BCL11A tetramer and HbF silencing, PubMed PMID 39607926](https://pubmed.ncbi.nlm.nih.gov/39607926/) | Mechanistic update for BCL11A as a fetal hemoglobin silencer. |
 | HbF target | [Fetal hemoglobin regulation in beta-thalassemia, PubMed PMID 36907604](https://pubmed.ncbi.nlm.nih.gov/36907604/) | Target overview including BCL11A, ZBTB7A, and emerging HbF regulators. |
+| HbF target | [BCL11A GWAS and beta-thalassemia phenotype, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC2234194/) | Human genetic evidence that BCL11A variants modulate HbF and beta-thalassemia severity. |
+| HbF therapy | [Casgevy mechanism and HbF, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK610907/) | Explains exa-cel editing of BCL11A and transfusion independence endpoint. |
 | HbF target | [ZBTB7A/LRF structural basis, PubMed PMID 34592153](https://pubmed.ncbi.nlm.nih.gov/34592153/) | Structural evidence for ZBTB7A action at fetal globin promoter elements. |
 | HbF target | [ZBTB7A and HbF-modulating SNPs in TDT, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12713296/) | Recent TDT genetics context for LRF/ZBTB7A and HbF modifier variants. |
 | HbF target | [KLF1 activates ZBTB7A/LRF, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5727813/) | KLF1-ZBTB7A regulatory link in erythroid cells. |

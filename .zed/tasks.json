@@ -1,0 +1,27 @@
+[
+  {
+    "label": "paper: build latex",
+    "command": "mkdir -p paper/build && tectonic --synctex --keep-logs --outdir paper/build paper/main.tex",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "tags": ["latex-build"],
+    "reveal": "always",
+    "hide": "on_success",
+    "save": "all"
+  },
+  {
+    "label": "paper: open pdf",
+    "command": "open paper/build/main.pdf",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "reveal": "no_focus",
+    "hide": "on_success"
+  },
+  {
+    "label": "paper: build and open pdf",
+    "command": "mkdir -p paper/build && tectonic --synctex --keep-logs --outdir paper/build paper/main.tex && open paper/build/main.pdf",
+    "cwd": "$ZED_WORKTREE_ROOT",
+    "tags": ["latex-build"],
+    "reveal": "always",
+    "hide": "on_success",
+    "save": "all"
+  }
+]

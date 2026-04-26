@@ -34,6 +34,7 @@ forward.
 - `research/islamic/README.md` - Islamic research lane.
 - `paper/main.tex` - working LaTeX paper skeleton.
 - `paper/references.bib` - initial bibliography.
+- `docs/zed-latex.md` - how to build and preview the paper in Zed.
 
 ## Python Tooling
 

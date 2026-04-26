@@ -5,6 +5,8 @@ REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
     "docs/research-protocol.md",
+    "docs/zed-latex.md",
+    ".zed/tasks.json",
     "research/thalassemia/README.md",
     "research/thalassemia/references/source-registry.md",
     "research/islamic/README.md",

@@ -9,6 +9,7 @@
     "check:uv": "uv run python scripts/check_repo.py",
     "format:py": "uv run ruff format .",
     "lint:py": "uv run ruff check .",
-    "paper:build": "tectonic paper/main.tex"
+    "paper:build": "mkdir -p paper/build && tectonic --synctex --keep-logs --outdir paper/build paper/main.tex",
+    "paper:open": "open paper/build/main.pdf"
   }
 }

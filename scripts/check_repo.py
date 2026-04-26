@@ -73,6 +73,19 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-c-chembl-activities.json",
 ]
 
+QUERCETIN_ANALOG_PATHS = [
+    "data/literature/fulltext/springer/2026-04-27-pabuprapap-2019-quercetin-analogs.html",
+    "data/chemistry/pubchem/quercetin-analogs/2026-04-27-quercetin-properties.json",
+    "data/chemistry/pubchem/quercetin-analogs/2026-04-27-quercetin-3-4-dimethyl-ether-properties.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-quercetin-analogs-document.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-quercetin-search.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-3-4-di-o-methylquercetin-search.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-3-o-methyltamarixetin-search.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-3-4-di-o-methylquercetin-inchikey-search.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-3-4-di-o-methylquercetin-chembl309263.json",
+    "data/chemistry/chembl/quercetin-analogs/2026-04-27-3-4-di-o-methylquercetin-chembl-activities.json",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -121,6 +134,7 @@ REQUIRED_PATHS = [
     "data/chemistry/chembl/2026-04-27-curcumin-search.json",
     *BEE_CONSTITUENT_PATHS,
     *NATURAL_PRODUCT_HBF_PATHS,
+    *QUERCETIN_ANALOG_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -158,6 +172,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-curcuminoid-analog-assay-map.md",
     "research/thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
+    "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

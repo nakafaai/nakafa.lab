@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5380905,
+        "MolecularFormula": "C17H14O7",
+        "MolecularWeight": "330.29",
+        "SMILES": "COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC)O",
+        "ConnectivitySMILES": "COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC)O",
+        "InChIKey": "ZSPZNFOLWQEVQJ-UHFFFAOYSA-N",
+        "IUPACName": "5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)-3-methoxychromen-4-one"
+      }
+    ]
+  }
+}

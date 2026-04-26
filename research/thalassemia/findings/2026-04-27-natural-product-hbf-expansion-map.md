@@ -41,7 +41,10 @@ tracked as a chemistry-resolved low-priority HbF seed.
 ## Lead 2: Quercetin Analogs
 
 Crossref and the publisher DOI resolve the article:
-`Quercetin analogs with high fetal hemoglobin-inducing activity`.
+`Quercetin analogs with high fetal hemoglobin-inducing activity`. Follow-on
+publisher-abstract extraction identifies `3,4'-Di-O-methylquercetin`
+(`compound 7`) as the strongest described analog, with `2.6-fold`
+gamma-globin reporter induction at `8 uM` in K562 reporter cells.
 
 The first-pass PubMed exact-title query returned zero records. A broader PubMed
 query returned an unrelated `Hippophae rhamnoides` radiation-protection paper,
@@ -90,4 +93,5 @@ Do not promote either new lead to therapy hypothesis without:
 - [Quercetin analogs Crossref snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-crossref.json)
 - [Quercetin analogs exact-title PubMed snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json)
 - [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json)
+- [Quercetin analog HbF extraction](2026-04-27-quercetin-analog-hbf-extraction.md)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)

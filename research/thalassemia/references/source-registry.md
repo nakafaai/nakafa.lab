@@ -178,3 +178,7 @@ Checked on 2026-04-26 unless noted.
 | Natural-product HbF | [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md) | Chemistry identity and K562 activity map for the strongest retrieved `Curcuma comosa` seed. |
 | Chemistry | [Natural-product HbF PubChem snapshots](../../../data/chemistry/pubchem/natural-product-hbf/) | PubChem identity snapshots for `isocoronarin D` and `curcucomosins A-C`. |
 | Chemistry | [Natural-product HbF ChEMBL snapshots](../../../data/chemistry/chembl/natural-product-hbf/) | ChEMBL molecule and activity snapshots for `isocoronarin D` and `curcucomosins A-C`. |
+| Natural-product HbF | [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md) | Publisher-abstract extraction and chemistry identity map for `3,4'-Di-O-methylquercetin`. |
+| Natural-product HbF | [Quercetin analogs Springer snapshot](../../../data/literature/fulltext/springer/2026-04-27-pabuprapap-2019-quercetin-analogs.html) | Publisher page snapshot containing the abstract-level K562 reporter signal. |
+| Chemistry | [Quercetin analog PubChem snapshots](../../../data/chemistry/pubchem/quercetin-analogs/) | PubChem identity snapshots for quercetin and `3,4'-Di-O-methylquercetin`. |
+| Chemistry | [Quercetin analog ChEMBL snapshots](../../../data/chemistry/chembl/quercetin-analogs/) | ChEMBL document, molecule, and activity snapshots for the quercetin analog lane. |

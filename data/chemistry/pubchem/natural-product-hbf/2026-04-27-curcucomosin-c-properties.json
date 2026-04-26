@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 16081507,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2C[C@H](C3=CCOC3=O)O)(C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC(C3=CCOC3=O)O)C)C",
+        "InChIKey": "NNNUJNWMFLYQTF-PFRQMTDMSA-N",
+        "IUPACName": "4-[(1R)-2-[(1S,4aS,8aS)-5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]-1-hydroxyethyl]-2H-furan-5-one"
+      }
+    ]
+  }
+}

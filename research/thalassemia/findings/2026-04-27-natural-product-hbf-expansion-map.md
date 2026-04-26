@@ -34,6 +34,10 @@ Interpretation:
 - compound identity needs PubChem/ChEMBL/supplier or synthesis resolution before
   assay planning.
 
+Follow-on chemistry work resolved `isocoronarin D` as `CHEMBL1099267`, with a
+matching PubChem stereochemical record at `CID 46871816`. It should now be
+tracked as a chemistry-resolved low-priority HbF seed.
+
 ## Lead 2: Quercetin Analogs
 
 Crossref and the publisher DOI resolve the article:
@@ -82,6 +86,7 @@ Do not promote either new lead to therapy hypothesis without:
 - [Labdane diterpenes PubMed abstract XML](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-abstract.xml)
 - [Labdane diterpenes Crossref snapshot](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-crossref.json)
 - [Curcuma comosa thalassemia/HbF query snapshot](../../../data/literature/pubmed/2026-04-27-curcuma-comosa-hbf-thalassemia.json)
+- [Isocoronarin D identity map](2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analogs Crossref snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-crossref.json)
 - [Quercetin analogs exact-title PubMed snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json)
 - [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json)

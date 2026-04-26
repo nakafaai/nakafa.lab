@@ -1,0 +1,60 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 71550939,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2C/C=C/3\\C(COC3=O)O)(C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "InChIKey": "WCYYIFXENZTEHA-AIWPHDBSSA-N",
+        "IUPACName": "(3E)-3-[2-[(1S,4aS,8aS)-5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethylidene]-4-hydroxyoxolan-2-one"
+      },
+      {
+        "CID": 46871816,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2C/C=C/3\\[C@H](COC3=O)O)(C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "InChIKey": "WCYYIFXENZTEHA-HBSPNOSKSA-N",
+        "IUPACName": "(3E,4R)-3-[2-[(1S,4aS,8aS)-5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethylidene]-4-hydroxyoxolan-2-one"
+      },
+      {
+        "CID": 75238669,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "InChIKey": "WCYYIFXENZTEHA-UHFFFAOYSA-N",
+        "IUPACName": "3-[2-(5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl)ethylidene]-4-hydroxyoxolan-2-one"
+      },
+      {
+        "CID": 146157060,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "C[C@]12CCCC(C1CCC(=C)C2CC=C3C(COC3=O)O)(C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "InChIKey": "WCYYIFXENZTEHA-VLPJLJSLSA-N",
+        "IUPACName": "3-[2-[(8aS)-5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethylidene]-4-hydroxyoxolan-2-one"
+      },
+      {
+        "CID": 171702745,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "CC1(CCCC2(C1CCC(=C)C2C/C=C\\3/C(COC3=O)O)C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "InChIKey": "WCYYIFXENZTEHA-AUWJEWJLSA-N",
+        "IUPACName": "(3Z)-3-[2-(5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl)ethylidene]-4-hydroxyoxolan-2-one"
+      },
+      {
+        "CID": 177696268,
+        "MolecularFormula": "C20H30O3",
+        "MolecularWeight": "318.4",
+        "SMILES": "C[C@]12CCCC([C@@H]1CCC(=C)[C@@H]2CC=C3C(COC3=O)O)(C)C",
+        "ConnectivitySMILES": "CC1(CCCC2(C1CCC(=C)C2CC=C3C(COC3=O)O)C)C",
+        "InChIKey": "WCYYIFXENZTEHA-JJWZBERDSA-N",
+        "IUPACName": "3-[2-[(1S,4aS,8aS)-5,5,8a-trimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethylidene]-4-hydroxyoxolan-2-one"
+      }
+    ]
+  }
+}

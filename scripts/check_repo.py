@@ -56,6 +56,23 @@ BEE_CONSTITUENT_PATHS = [
     "data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-search.json",
 ]
 
+NATURAL_PRODUCT_HBF_PATHS = [
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-isocoronarin-d-properties.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-curcucomosin-a-properties.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-curcucomosin-b-properties.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-curcucomosin-c-properties.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-isocoronarin-d-search.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-isocoronarin-d-chembl1099267.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-isocoronarin-d-chembl-activities.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-a-search.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-a-chembl1095928.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-a-chembl-activities.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-b-chembl1098930.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-b-chembl-activities.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-c-chembl1095927.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-c-chembl-activities.json",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -103,6 +120,7 @@ REQUIRED_PATHS = [
     "data/chemistry/chembl/2026-04-27-sirolimus-rapamycin-search.json",
     "data/chemistry/chembl/2026-04-27-curcumin-search.json",
     *BEE_CONSTITUENT_PATHS,
+    *NATURAL_PRODUCT_HBF_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -139,6 +157,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md",
     "research/thalassemia/findings/2026-04-27-curcuminoid-analog-assay-map.md",
     "research/thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md",
+    "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

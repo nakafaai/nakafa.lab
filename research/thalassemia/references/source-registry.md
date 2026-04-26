@@ -175,3 +175,6 @@ Checked on 2026-04-26 unless noted.
 | Natural-product HbF | [Quercetin analogs Crossref snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-crossref.json) | Reproducible DOI metadata for the quercetin analog source. |
 | Natural-product HbF | [Quercetin analogs PubMed exact-title snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json) | First-pass exact-title PubMed query returning no record. |
 | Natural-product HbF | [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json) | Broad PubMed query kept as a negative/noisy-search record, not evidence for quercetin analog HbF activity. |
+| Natural-product HbF | [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md) | Chemistry identity and K562 activity map for the strongest retrieved `Curcuma comosa` seed. |
+| Chemistry | [Natural-product HbF PubChem snapshots](../../../data/chemistry/pubchem/natural-product-hbf/) | PubChem identity snapshots for `isocoronarin D` and `curcucomosins A-C`. |
+| Chemistry | [Natural-product HbF ChEMBL snapshots](../../../data/chemistry/chembl/natural-product-hbf/) | ChEMBL molecule and activity snapshots for `isocoronarin D` and `curcucomosins A-C`. |

@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "decitabine fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29740685"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-018-3357-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-018-3357-y"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "29740685",
+      "pubdate": "2018 Sep",
+      "title": "Efficacy of decitabine as hemoglobin F inducer in HbE/\u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14633775"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/asheducation-2003.1.14"
+        }
+      ],
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "14633775",
+      "pubdate": "2003",
+      "title": "Hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32567028"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-020-04136-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-020-04136-w"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "32567028",
+      "pubdate": "2020 Sep",
+      "title": "UNC0638 induces high levels of fetal hemoglobin expression in \u03b2-thalassemia/HbE erythroid progenitor cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15534853"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.seminhematol.2004.08.004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0037196304001386"
+        }
+      ],
+      "journal": "Semin Hematol",
+      "pmid": "15534853",
+      "pubdate": "2004 Oct",
+      "title": "The role of fetal hemoglobin-enhancing agents in thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23782080"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1586/ehm.13.24"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "23782080",
+      "pubdate": "2013 Jun",
+      "title": "Combining gene therapy and fetal hemoglobin induction for treatment of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24505535"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3913144"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3913144;"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "24505535",
+      "pubdate": "2013",
+      "title": "Evaluation of Novel Fetal Hemoglobin Inducer Drugs in Treatment of \u03b2-Hemoglobinopathy Disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41555220"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12903249"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12903249;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s10020-026-01421-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s10020-026-01421-8"
+        }
+      ],
+      "journal": "Mol Med",
+      "pmid": "41555220",
+      "pubdate": "2026 Jan 20",
+      "title": "Enhanced induction of fetal hemoglobin by the combination of decitabine with RN-1 in \u03b2-thalassemia/HbE erythroid progenitor cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34036918"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1389557521666210521221615"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "MRMC-EPUB-115730"
+        }
+      ],
+      "journal": "Mini Rev Med Chem",
+      "pmid": "34036918",
+      "pubdate": "2022",
+      "title": "Hemoglobin F (HbF) Inducers; History, Structure and Efficacies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33764430"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7995288"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7995288;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2020009961"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(21)00655-8"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "33764430",
+      "pubdate": "2021 Mar 25",
+      "title": "\u03b2-Hemoglobinopathies lead the way."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21700776"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3172790"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3172790;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2011-03-341909"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)40694-9"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "21700776",
+      "pubdate": "2011 Sep 8",
+      "title": "A pilot study of subcutaneous decitabine in \u03b2-thalassemia intermedia."
+    }
+  ]
+}

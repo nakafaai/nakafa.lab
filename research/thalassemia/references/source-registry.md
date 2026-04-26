@@ -35,6 +35,20 @@ Checked on 2026-04-26 unless noted.
 | HbF target | [ZBTB7A/LRF structural basis, PubMed PMID 34592153](https://pubmed.ncbi.nlm.nih.gov/34592153/) | Structural evidence for ZBTB7A action at fetal globin promoter elements. |
 | HbF target | [ZBTB7A and HbF-modulating SNPs in TDT, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12713296/) | Recent TDT genetics context for LRF/ZBTB7A and HbF modifier variants. |
 | HbF target | [KLF1 activates ZBTB7A/LRF, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5727813/) | KLF1-ZBTB7A regulatory link in erythroid cells. |
+| HbF target | [MBD2-NuRD fetal hemoglobin silencing, PubMed PMID 31004025](https://pubmed.ncbi.nlm.nih.gov/31004025/) | Human erythroid evidence for MBD2-NuRD as an HbF silencing target. |
+| HbF target | [LSD1 as fetal hemoglobin target, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5512162/) | Foundational LSD1/KDM1A target evidence for HbF induction. |
+| HbF target | [LSD1 inhibition in beta0-thalassemia/HbE erythroid cells, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8672213/) | Beta-thalassemia/HbE cell evidence for LSD1 inhibitor HbF induction. |
+| HbF target | [Oral LSD1 inhibitors and HbF, PubMed PMID 40332031](https://pubmed.ncbi.nlm.nih.gov/40332031/) | Newer oral-inhibitor evidence in a hemoglobinopathy model, relevant to affordability direction. |
+| HbF target | [NRF2 and gamma-globin regulation, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5541881/) | Stress-response and antioxidant pathway link to gamma-globin induction. |
+| HbF drugs | [Decitabine pilot in beta-thalassemia intermedia, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3172790/) | Human pilot evidence for DNMT1-depleting HbF induction in thalassemia intermedia. |
+| HbF drugs | [Decitabine plus RN-1 in beta-thalassemia/HbE erythroid progenitors, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12903249/) | Combined DNMT1 and LSD1 inhibition evidence in beta-thalassemia/HbE progenitor cells. |
+| Natural products | [Curcuminoid trienone analogs in beta-thalassemia/HbE progenitors, Scientific Reports](https://www.nature.com/articles/s41598-021-87738-2) | Natural-product-adjacent HbF signal in beta-thalassemia/HbE erythroid progenitors. |
+| HbF target | [HbF regulator target PubMed snapshot](../../../data/literature/pubmed/2026-04-27-hbf-regulator-targets.json) | Reproducible PubMed query snapshot for HbF regulator target discovery. |
+| HbF target | [LSD1 HbF PubMed snapshot](../../../data/literature/pubmed/2026-04-27-lsd1-hbf-induction.json) | Reproducible PubMed query snapshot for LSD1/KDM1A HbF induction. |
+| HbF target | [HDAC HbF PubMed snapshot](../../../data/literature/pubmed/2026-04-27-hdac-hbf-induction.json) | Reproducible PubMed query snapshot for HDAC-linked HbF induction. |
+| HbF drugs | [Decitabine HbF PubMed snapshot](../../../data/literature/pubmed/2026-04-27-decitabine-hbf-beta-thalassemia.json) | Reproducible PubMed query snapshot for decitabine and beta-thalassemia HbF induction. |
+| Trials | [LSD1 beta-thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json) | Reproducible registry snapshot showing no first-pass beta-thalassemia LSD1 trials. |
+| Trials | [Decitabine beta-thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-decitabine-beta-thalassemia.json) | Reproducible registry snapshot for decitabine thalassemia studies. |
 | HbF drugs | [Pharmacological induction of HbF, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9227505/) | Review of pharmacologic HbF inducers in beta-thalassemia and sickle cell disease. |
 | HbF drugs | [Small molecule therapeutics for beta-globinopathies, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10916415/) | Review of small-molecule beta-globinopathy therapeutic strategies. |
 | HbF screen | [Endogenous fetal hemoglobin reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/) | HUDEP2 reporter system for HbF induction and therapeutic compound screening. |

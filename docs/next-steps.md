@@ -30,9 +30,12 @@ current research cycle should answer:
    capability, manufacturing, or regulatory access.
 5. Cure strategy: use HSCT/gene therapy/gene editing as proof-of-concept, then
    search for lower-cost ways to reach durable transfusion independence.
-6. Islamic lane: continue Quran, hadith, tafsir, and ethics review without
+6. Epigenetic HbF discovery: rank `MBD2-NuRD`, `LSD1/KDM1A`, `DNMT1`,
+   `NRF2/BACH1`, and natural-product-adjacent candidates against HbF,
+   erythroid maturation, viability, and hemolysis endpoints.
+7. Islamic lane: continue Quran, hadith, tafsir, and ethics review without
    turning any verse into a medical claim.
-7. Hypothesis cards: only promote ideas with mechanism, safety, falsification,
+8. Hypothesis cards: only promote ideas with mechanism, safety, falsification,
    and clinician review path.
 
 ## Current Honest Assessment

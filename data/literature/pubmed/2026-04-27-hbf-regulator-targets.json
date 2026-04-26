@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "BCL11A ZBTB7A KLF1 HBS1L MYB fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39518961"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11546522"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11546522;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms252111408"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms252111408"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "39518961",
+      "pubdate": "2024 Oct 23",
+      "title": "Genetic Polymorphisms Associated with Fetal Hemoglobin (HbF) Levels and F-Cell Numbers: A Systematic Review of Genome-Wide Association Studies."
+    }
+  ]
+}

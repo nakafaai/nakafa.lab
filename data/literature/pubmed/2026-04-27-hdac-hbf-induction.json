@@ -1,0 +1,251 @@
+{
+  "count": 10,
+  "query": "HDAC inhibitor fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29127681"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/978-1-4939-7299-9_7"
+        }
+      ],
+      "journal": "Adv Exp Med Biol",
+      "pmid": "29127681",
+      "pubdate": "2017",
+      "title": "Reactivation of Fetal Hemoglobin for Treating \u03b2-Thalassemia and Sickle Cell Disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24505535"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3913144"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3913144;"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "24505535",
+      "pubdate": "2013",
+      "title": "Evaluation of Novel Fetal Hemoglobin Inducer Drugs in Treatment of \u03b2-Hemoglobinopathy Disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12393499"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2002-08-2617"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)50902-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "12393499",
+      "pubdate": "2003 Mar 1",
+      "title": "Induction of fetal hemoglobin expression by the histone deacetylase inhibitor apicidin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18617435"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS66944"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2581454"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2581454;manuscript-id: NIHMS66944;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biocel.2008.04.024"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1357-2725(08)00188-X"
+        }
+      ],
+      "journal": "Int J Biochem Cell Biol",
+      "pmid": "18617435",
+      "pubdate": "2008",
+      "title": "Histone deacetylase inhibitors and hemoglobin F induction in beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15204104"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10245330410001701512"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1859F0QLTQ9KMCLH"
+        }
+      ],
+      "journal": "Hematology",
+      "pmid": "15204104",
+      "pubdate": "2004 Jun",
+      "title": "Pharmacological induction of fetal hemoglobin synthesis using histone deacetylase inhibitors."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30124006"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6099151"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6099151;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.22074/cellj.2019.5589"
+        }
+      ],
+      "journal": "Cell J",
+      "pmid": "30124006",
+      "pubdate": "2019 Jan",
+      "title": "Synergistic Effect of Simvastatin and Romidepsin on Gamma-globin Gene Induction."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31280628"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630269.2019.1626740"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "31280628",
+      "pubdate": "2019 Mar",
+      "title": "MS-275 Chemical Analogues Promote Hemoglobin Production and Erythroid Differentiation of K562 Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31004025"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6959176"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6959176;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2018.210963"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.2018.210963"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "31004025",
+      "pubdate": "2019 Dec",
+      "title": "Disruption of the MBD2-NuRD complex but not MBD3-NuRD induces high level HbF expression in human adult erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18718415"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.exphem.2008.06.014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0301-472X(08)00332-9"
+        }
+      ],
+      "journal": "Exp Hematol",
+      "pmid": "18718415",
+      "pubdate": "2008 Sep",
+      "title": "A cell stress signaling model of fetal hemoglobin induction: what doesn't kill red blood cells may make them stronger."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27431020"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1142/S0219720016500268"
+        }
+      ],
+      "journal": "J Bioinform Comput Biol",
+      "pmid": "27431020",
+      "pubdate": "2016 Oct",
+      "title": "Target-based drug discovery for [Formula: see text]-globin disorders: drug target prediction using quantitative modeling with hybrid functional Petri nets."
+    }
+  ]
+}

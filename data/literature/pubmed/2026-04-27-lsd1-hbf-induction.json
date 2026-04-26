@@ -1,0 +1,166 @@
+{
+  "count": 5,
+  "query": "LSD1 inhibitor fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40332031"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12333231"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12333231;embargo-date: 2026/07/17;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2024028006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "537137"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "40332031",
+      "pubdate": "2025 Jul 17",
+      "title": "Novel, potent, and orally bioavailable LSD1 inhibitors induce fetal hemoglobin synthesis in a sickle cell disease mouse model."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35003571"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8672213"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8672213;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4081/hr.2021.9215"
+        }
+      ],
+      "journal": "Hematol Rep",
+      "pmid": "35003571",
+      "pubdate": "2021 Nov 26",
+      "title": "Lysine-specific histone demethylase 1 inhibition enhances robust fetal hemoglobin induction in human \u03b2(0)-thalassemia/hemoglobin E erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33002296"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7756256"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7756256;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/cmdc.202000574"
+        }
+      ],
+      "journal": "ChemMedChem",
+      "pmid": "33002296",
+      "pubdate": "2020 Dec 15",
+      "title": "Targeted Protein Degradation as a Promising Tool for Epigenetic Upregulation of Fetal Hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41555220"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12903249"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12903249;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s10020-026-01421-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s10020-026-01421-8"
+        }
+      ],
+      "journal": "Mol Med",
+      "pmid": "41555220",
+      "pubdate": "2026 Jan 20",
+      "title": "Enhanced induction of fetal hemoglobin by the combination of decitabine with RN-1 in \u03b2-thalassemia/HbE erythroid progenitor cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23416702"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS874719"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5512162"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5512162;manuscript-id: NIHMS874719;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/nm.3101"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nm.3101"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "23416702",
+      "pubdate": "2013 Mar",
+      "title": "Lysine-specific demethylase 1 is a therapeutic target for fetal hemoglobin induction."
+    }
+  ]
+}

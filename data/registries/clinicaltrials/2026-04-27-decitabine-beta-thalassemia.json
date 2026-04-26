@@ -1,0 +1,22 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia+decitabine&pageSize=20&countTotal=true",
+  "studies": [
+    {
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "interventions": [
+        "Decitabine (USAN, INN)"
+      ],
+      "last_update": "2014-04-25",
+      "nct_id": "NCT00661726",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "title": "Evaluating the Safety and Effectiveness of Decitabine in People With Thalassemia Intermedia"
+    }
+  ],
+  "total_count": 1
+}

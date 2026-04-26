@@ -97,7 +97,14 @@ Checked on 2026-04-26 unless noted.
 | Evolution | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | Notes thalassemia distribution, carrier state, malaria selection, and globin biology. |
 | Evolution | [Alpha-thalassemia and malaria in children, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030158) | Primary study supporting the carrier-advantage research lane for malaria and red-cell variants. |
 | Indonesia | [BPJS Kesehatan thalassemia press release](https://bpjsantangkalang.org/wp-content/uploads/2025/11/Benarkah-Hemofilia-dan-Thalassemia-Tidak-Dijamin-BPJS-Kesehatan.pdf) | JKN coverage and financing context for thalassemia care. |
+| Indonesia | [Kemenkes thalassemia guideline PDF](https://www.kemkes.go.id/app_asset/file_content_download/17012263016566a73d454443.28026525.pdf) | Indonesian diagnosis, transfusion, DNA testing, monitoring, and care-cost context. |
 | Indonesia | [RSAB Harapan Kita RSB 2025-2029](https://rsabhk.co.id/wp-content/uploads/2025/07/RSB-2025-2029.pdf) | Indonesia thalassemia roadmap: variant detection, GenoArray, and gene therapy coordination. |
+| Indonesia | [RSAB molecular services article](https://rsabhk.go.id/en/artikel-kesehatan/pengembangan-layanan-molekuler/) | Local DNA thalassemia testing and genetic counseling service context. |
+| Indonesia | [First Indonesian pediatric thalassemia gene-therapy case report](https://www.mdpi.com/2039-4365/16/1/1) | Case-report signal for gene-therapy referral/use and domestic access gap. |
+| Indonesia | [BPOM Cek BPOM information page](https://www.pom.go.id/berita/cek-bpom) | Starting point for verifying whether products have Indonesian pre-market authorization. |
+| Indonesia | [Indonesia thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json) | Reproducible registry snapshot for Indonesia-located thalassemia studies. |
+| Indonesia | [Indonesia thalassemia gene-therapy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-thalassemia-gene-therapy.json) | Reproducible PubMed query snapshot for Indonesia and thalassemia gene therapy. |
+| Indonesia | [Indonesia thalassemia access PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-thalassemia-access.json) | Reproducible PubMed query snapshot showing a first-pass access-literature gap. |
 | Indonesia | [East Java beta-thalassemia mutations, PubMed PMID 35911837](https://pubmed.ncbi.nlm.nih.gov/35911837/) | Indonesia-specific genotype heterogeneity, including HbE/beta-thalassemia. |
 | Islamic | [Quran 2:155, Quran.com](https://quran.com/2/155) | Anchor for illness and hardship as tests, not proof of punishment for a specific patient. |
 | Islamic | [Quran 21:83-84, Quran.com](https://quran.com/21/83-84) | Anchor for Ayyub, distress, patience, and mercy. |

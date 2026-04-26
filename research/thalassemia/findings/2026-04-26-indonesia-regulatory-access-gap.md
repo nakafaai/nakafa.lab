@@ -16,6 +16,9 @@ access question, not an assumption.
 - RSAB Harapan Kita's 2025-2029 business plan lists thalassemia variant
   detection, a GenoArray detection kit for the Indonesian population, and
   coordination with the Ministry of Health and P2PTM for gene therapy.
+- The 2026-04-27 Indonesia deep dive found a first-pass signal of national
+  genomic capacity building and gene-therapy coordination, but not routine
+  domestic gene-therapy access.
 - FDA and EMA sources confirm global regulatory approval for several therapies,
   but foreign approval does not prove Indonesia availability.
 
@@ -46,3 +49,4 @@ access question, not an assumption.
 - [FDA Reblozyl approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia)
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [Indonesia access deep dive](./2026-04-27-indonesia-access-deep-dive.md)

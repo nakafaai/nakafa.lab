@@ -36,6 +36,10 @@ Indonesia.
 - Deferiprone early-treatment study with an Indonesia site.
 - Immunomodulatory vitamin D in thalassemia.
 
+The refreshed 2026-04-27 Indonesia-location snapshot again found six all-status
+records. It did not show an active Indonesia gene-therapy trial in this
+ClinicalTrials.gov pass.
+
 ## Research Implication
 
 ClinicalTrials.gov alone is not enough for Indonesia access mapping. Next, check
@@ -47,3 +51,4 @@ regional trials not indexed under Indonesia.
 - [ClinicalTrials.gov API](https://clinicaltrials.gov/data-about-studies/learn-about-api)
 - [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia)
 - [NCT07506863 mitapivat pediatric TDT](https://clinicaltrials.gov/study/NCT07506863)
+- [Indonesia thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json)

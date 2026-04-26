@@ -34,8 +34,14 @@ The first affordable-impact path may be:
   Indonesia pathways;
 - identifying low-cost adjunct hypotheses only after safety review.
 
+The 2026-04-27 access deep dive adds a sharper constraint: even if global gene
+therapy biology is valid, Indonesia appears to need regulatory, reimbursement,
+referral, and local manufacturing or treatment-center work before it becomes
+routine care.
+
 ## Sources
 
 - [BPJS Kesehatan press release, 2025](https://bpjsantangkalang.org/wp-content/uploads/2025/11/Benarkah-Hemofilia-dan-Thalassemia-Tidak-Dijamin-BPJS-Kesehatan.pdf)
 - [ANTARA report on BPJS thalassemia financing, 2025](https://www.antaranews.com/berita/4845997/bpjs-kesehatan-kucurkan-rp165-m-per-maret-2025-tangani-talasemia)
 - [East Java beta-thalassemia mutation study, PubMed PMID 35911837](https://pubmed.ncbi.nlm.nih.gov/35911837/)
+- [Indonesia access deep dive](./2026-04-27-indonesia-access-deep-dive.md)

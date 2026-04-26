@@ -58,8 +58,12 @@ Checked on 2026-04-26 unless noted.
 | Bee products | [Honey in wound healing, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8496555/) | Evidence boundary: honey evidence is strongest outside thalassemia, especially wound care. |
 | Bee products | [Honey antimicrobial and wound biomaterial review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9414000/) | Mechanism review for antimicrobial/wound applications, not direct thalassemia treatment. |
 | Bee products | [Ensuring the safe use of bee products, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12732908/) | Safety review across hive products, including allergy and anaphylaxis risks. |
+| Bee products | [Propolis cytoprotective activity in erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/) | Propolis red-cell oxidative-stress signal; not HbF evidence. |
+| Bee products | [Propolis and hereditary spherocytosis membranes, PubMed PMID 21130830](https://pubmed.ncbi.nlm.nih.gov/21130830/) | Erythrocyte membrane context outside thalassemia. |
+| Bee products | [Royal jelly oxidative stress meta-analysis, PubMed PMID 40656618](https://pubmed.ncbi.nlm.nih.gov/40656618/) | General inflammation/oxidative-stress evidence, not thalassemia-specific. |
 | Bee venom | [Risk associated with bee venom therapy, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4440710/) | Systematic review and meta-analysis for bee venom adverse events. |
 | Bee venom | [Bee venom bioactive molecules review, PubMed PMID 33142794](https://pubmed.ncbi.nlm.nih.gov/33142794/) | Venom molecules such as melittin and PLA2; pharmacology and safety context. |
+| Bee venom | [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/) | Direct red-cell lysis hazard for melittin. |
 | Bee brood | [Honey bee broods composition review, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9497570/) | Larvae and pupae nutritional composition; food/nutrition lane, not cure evidence. |
 | Biomaterial | [Chitin and chitosan for wound management, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7949833/) | Exoskeleton-derived material lane for biomaterials and wound care. |
 | Safety | [Bee products, LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK580275/) | Liver safety and adverse-event reference for bee products. |

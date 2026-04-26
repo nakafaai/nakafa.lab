@@ -17,6 +17,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-carrier-malaria.md",
     "research/thalassemia/findings/2026-04-26-bee-product-research-scope.md",
     "research/thalassemia/findings/2026-04-26-bee-derived-materials-beyond-honey.md",
+    "research/thalassemia/findings/2026-04-26-bee-derived-hbf-evidence-gap.md",
     "research/thalassemia/findings/2026-04-26-clinical-baseline-checklist.md",
     "research/thalassemia/findings/2026-04-26-clinical-trials-snapshot.md",
     "research/thalassemia/findings/2026-04-26-cure-strategy-map.md",

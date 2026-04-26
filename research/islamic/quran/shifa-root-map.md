@@ -40,6 +40,11 @@ The 9:14 and 41:44 notes complete the first-pass `shifa` root map. They confirm
 that several healing verses are about hearts, guidance, and receptivity, not
 physical pharmacology.
 
+Quran 2:155 and 21:83-84 are not `shifa` root verses, but they are now part of
+the illness guardrail map. They protect the project from patient-blame language:
+hardship can be a test, and Ayyub's illness is framed through distress, prayer,
+patience, and mercy.
+
 ## Research Guardrail
 
 If a verse is about the Quran healing hearts, do not convert it into a molecule
@@ -50,12 +55,14 @@ require mechanism, toxicity, dose, and reproducibility.
 
 - [Quran 9:14](https://quran.com/9/14)
 - [Quran 9:14 structured note](009-at-tawbah/014.md)
+- [Quran 2:155 structured note](002-al-baqarah/155.md)
 - [Quran 10:57](https://quran.com/10/57)
 - [Quran 10:57 structured note](010-yunus/057.md)
 - [Quran 16:69](https://quran.com/16/69)
 - [Quran 17:82](https://quran.com/17/82)
 - [Quran 17:82 structured note](017-al-isra/082.md)
 - [Quran 26:80](https://quran.com/26/80)
+- [Quran 21:83-84 structured note](021-al-anbiya/083-084.md)
 - [Quran 41:44](https://quran.com/41/44)
 - [Quran 41:44 structured note](041-fussilat/044.md)
 - [QuranX tafsir collection for 16:69](https://quranx.com/tafsirs/16.69)

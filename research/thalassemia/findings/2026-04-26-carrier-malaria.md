@@ -32,6 +32,11 @@ safer framing is:
 - screening, genetic counseling, and better treatment access are practical
   ways to reduce suffering.
 
+The Islamic lane now records the same communication rule from another angle:
+do not call a specific patient's thalassemia an azab. Genetic inheritance and
+malaria-related carrier selection are biological explanations; Allah's hidden
+wisdom for a particular family is not something this lab can claim.
+
 ## Research Implication
 
 The malaria connection points back to red-cell biology. Useful research threads:

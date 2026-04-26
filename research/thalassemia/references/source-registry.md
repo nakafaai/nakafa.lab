@@ -126,7 +126,9 @@ Checked on 2026-04-26 unless noted.
 | HbF drugs | [HbE/beta-thalassemia hydroxyurea XmnI snapshot](../../../data/literature/pubmed/2026-04-27-hbe-beta-thalassemia-hydroxyurea-xmni.json) | Reproducible PubMed query snapshot for hydroxyurea response and XmnI in HbE/beta-thalassemia. |
 | HbF target | [HbE/beta-thalassemia HbF modifier snapshot](../../../data/literature/pubmed/2026-04-27-hbe-beta-thalassemia-hbf-modifiers.json) | Reproducible PubMed query snapshot for BCL11A/ZBTB7A/HBS1L HbF modifier biology. |
 | Islamic | [Quran 2:155, Quran.com](https://quran.com/2/155) | Anchor for illness and hardship as tests, not proof of punishment for a specific patient. |
+| Islamic | [Quran 2:155 structured note](../../islamic/quran/002-al-baqarah/155.md) | Internal guardrail note against patient-blame language. |
 | Islamic | [Quran 21:83-84, Quran.com](https://quran.com/21/83-84) | Anchor for Ayyub, distress, patience, and mercy. |
+| Islamic | [Quran 21:83-84 structured note](../../islamic/quran/021-al-anbiya/083-084.md) | Internal Ayyub illness-and-mercy note. |
 | Islamic | [Quran 9:14, Quran.com](https://quran.com/9/14) | Shifa root context: healing of hearts, not a molecule claim. |
 | Islamic | [Quran 10:57, Quran.com](https://quran.com/10/57) | Shifa root context: Quran as healing for what is in the breasts. |
 | Islamic | [Quran 17:82, Quran.com](https://quran.com/17/82) | Shifa root context: Quran as healing and mercy. |
@@ -135,3 +137,4 @@ Checked on 2026-04-26 unless noted.
 | Islamic tafsir | [QuranX tafsir collection for 26:80](https://quranx.com/tafsirs/26.80) | Tafsir intake for Ibrahim's statement about illness and healing. |
 | Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |
 | Islamic | [Sahih Muslim 2204, Sunnah.com](https://sunnah.com/muslim:2204) | Anchor hadith for treatment and remedy, with careful interpretation. |
+| Islamic | [Illness is not a blame claim](../../islamic/findings/2026-04-27-illness-not-blame-guardrail.md) | Synthesis guardrail for communicating about disease, genetics, tests, and cure-seeking. |

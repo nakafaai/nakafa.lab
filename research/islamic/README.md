@@ -29,3 +29,7 @@ biomedical evidence.
 - Do not present a natural product as a cure without clinical evidence.
 - Do not use faith language to bypass safety, dosage, toxicity, or trial design.
 - Invite scholars and clinicians to review sensitive interpretations.
+
+## Current Guardrail Findings
+
+- [Illness is not a blame claim](findings/2026-04-27-illness-not-blame-guardrail.md)

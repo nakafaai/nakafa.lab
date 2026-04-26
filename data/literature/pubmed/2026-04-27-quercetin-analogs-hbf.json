@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "(quercetin analogs) AND (\"fetal hemoglobin\" OR gamma-globin OR HbF)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16948057"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/em.20251"
+        }
+      ],
+      "journal": "Environ Mol Mutagen",
+      "pmid": "16948057",
+      "pubdate": "2006 Dec",
+      "title": "Protection from radiation-induced mitochondrial and genomic DNA damage by an extract of Hippophae rhamnoides."
+    }
+  ]
+}

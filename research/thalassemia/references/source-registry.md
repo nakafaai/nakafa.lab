@@ -166,3 +166,12 @@ Checked on 2026-04-26 unless noted.
 | Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |
 | Islamic | [Sahih Muslim 2204, Sunnah.com](https://sunnah.com/muslim:2204) | Anchor hadith for treatment and remedy, with careful interpretation. |
 | Islamic | [Illness is not a blame claim](../../islamic/findings/2026-04-27-illness-not-blame-guardrail.md) | Synthesis guardrail for communicating about disease, genetics, tests, and cure-seeking. |
+| Natural-product HbF | [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md) | Internal map for `Curcuma comosa` labdane diterpenes and quercetin analog HbF leads. |
+| Natural-product HbF | [Labdane diterpenes from Curcuma comosa, PubMed PMID 20196571](https://pubmed.ncbi.nlm.nih.gov/20196571/) | PubMed-indexed K562 reporter study; `isocoronarin D` reported as the strongest abstract-level HbF inducer. |
+| Natural-product HbF | [Labdane diterpenes PubMed snapshot](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf.json) | Reproducible PubMed search snapshot for labdane diterpenes and fetal hemoglobin. |
+| Natural-product HbF | [Labdane diterpenes PubMed abstract XML](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-abstract.xml) | Abstract-level method and effect-size extraction for the `Curcuma comosa` seed. |
+| Natural-product HbF | [Labdane diterpenes Crossref snapshot](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-crossref.json) | DOI and publication metadata for the labdane diterpene source. |
+| Natural-product HbF | [Quercetin analogs DOI](https://doi.org/10.1007/s00044-019-02412-7) | DOI-confirmed article title for quercetin analogs with fetal-hemoglobin-inducing activity. |
+| Natural-product HbF | [Quercetin analogs Crossref snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-crossref.json) | Reproducible DOI metadata for the quercetin analog source. |
+| Natural-product HbF | [Quercetin analogs PubMed exact-title snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json) | First-pass exact-title PubMed query returning no record. |
+| Natural-product HbF | [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json) | Broad PubMed query kept as a negative/noisy-search record, not evidence for quercetin analog HbF activity. |

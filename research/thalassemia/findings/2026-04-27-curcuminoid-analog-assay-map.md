@@ -17,6 +17,9 @@ The key compounds are:
 It produced the strongest K562 HbF signal in the Scientific Reports study and
 also entered beta-thalassemia/HbE primary erythroid validation.
 
+A follow-on natural-product HbF expansion map now tracks adjacent leads from
+the same citation neighborhood without promoting them above `T-BDMC`.
+
 ## Compound Identity Status
 
 | Compound | Identity status | Research note |
@@ -79,3 +82,4 @@ Keep `T-BDMC` as a high-priority assay seed, but with strict gates:
 - [Curcuminoid analog PubChem snapshots](../../../data/chemistry/pubchem/curcuminoid-analogs/)
 - [Curcuminoid analog ChEMBL search snapshots](../../../data/chemistry/chembl/curcuminoid-analogs/)
 - [Curcuminoid HbF bridge deep dive](2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
+- [Natural-product HbF expansion map](2026-04-27-natural-product-hbf-expansion-map.md)

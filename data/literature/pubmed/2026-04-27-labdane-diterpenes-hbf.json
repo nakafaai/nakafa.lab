@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "\"Labdane diterpenes\" AND \"fetal hemoglobin\"",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20196571"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/np900568k"
+        }
+      ],
+      "journal": "J Nat Prod",
+      "pmid": "20196571",
+      "pubdate": "2010 Apr 23",
+      "title": "Labdane diterpenes from the aerial parts of Curcuma comosa enhance fetal hemoglobin production in an erythroid cell line."
+    }
+  ]
+}

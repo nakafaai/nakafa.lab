@@ -1,0 +1,70 @@
+{
+  "count": 3,
+  "query": "HbE beta thalassemia hydroxyurea XmnI",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34406845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1089/gtmb.2021.0031"
+        }
+      ],
+      "journal": "Genet Test Mol Biomarkers",
+      "pmid": "34406845",
+      "pubdate": "2021 Aug",
+      "title": "Drug Repurposing: Hydroxyurea Therapy Improves the Transfusion-Free Interval in HbE/Beta-Thalassemia-Major Patients with the XmnI Polymorphism."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20154037"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/jcp.2009.070391"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "63/2/147"
+        }
+      ],
+      "journal": "J Clin Pathol",
+      "pmid": "20154037",
+      "pubdate": "2010 Feb",
+      "title": "Effect of hydroxyurea on the transfusion requirements in patients with severe HbE-beta-thalassaemia: a genotypic and phenotypic study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30413899"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-018-3536-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-018-3536-x"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "30413899",
+      "pubdate": "2019 Feb",
+      "title": "Genetic determinants related to pharmacological induction of foetal haemoglobin in transfusion-dependent HbE-\u03b2 thalassaemia."
+    }
+  ]
+}

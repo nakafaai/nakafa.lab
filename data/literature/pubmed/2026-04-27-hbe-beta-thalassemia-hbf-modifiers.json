@@ -1,0 +1,90 @@
+{
+  "count": 3,
+  "query": "beta0 thalassemia HbE BCL11A fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36888630"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9994754"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9994754;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0281059"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-21-35741"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "36888630",
+      "pubdate": "2023",
+      "title": "Induction of fetal hemoglobin: Lentiviral shRNA knockdown of HBS1L in \u03b20-thalassemia/HbE erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40665149"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12264176"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12264176;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-10791-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-10791-8"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "40665149",
+      "pubdate": "2025 Jul 15",
+      "title": "Disrupting ZBTB7A or BCL11A binding sites reactivates fetal hemoglobin in erythroblasts from healthy and \u03b2(0)-thalassemia/HbE individuals."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20183929"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00439-009-0770-2"
+        }
+      ],
+      "journal": "Hum Genet",
+      "pmid": "20183929",
+      "pubdate": "2010 Mar",
+      "title": "A genome-wide association identified the common genetic variants influence disease severity in beta0-thalassemia/hemoglobin E."
+    }
+  ]
+}

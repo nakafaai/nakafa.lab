@@ -51,3 +51,4 @@ The first fork in any case review is:
 - [Alpha-Thalassemia, GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1435/)
 - [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/)
 - [TIF NTDT guideline, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK190453/)
+- [Indonesia genotype-first rule](./2026-04-27-indonesia-genotype-first-rule.md)

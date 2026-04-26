@@ -47,6 +47,9 @@ evidence map that can help clinicians evaluate:
 ## Data To Collect Later
 
 - Exact diagnosis and subtype.
+- HPLC or electrophoresis fractions: HbA, HbA2, HbF, and HbE if reported.
+- HBB and HBA genetic testing results if available.
+- HbF modifier results if available, especially XmnI-HBG2 and BCL11A variants.
 - Hemoglobin values before transfusion.
 - Ferritin trend and liver/cardiac iron assessment if available.
 - Current chelation medicine, dose, adherence, and side effects.
@@ -64,3 +67,4 @@ Do not add identifying details to this file.
 ## Linked Notes
 
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
+- [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)

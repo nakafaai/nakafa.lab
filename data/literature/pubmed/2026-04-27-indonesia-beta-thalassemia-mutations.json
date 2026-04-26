@@ -1,0 +1,233 @@
+{
+  "count": 9,
+  "query": "Indonesia beta thalassemia mutation HbE",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27650096"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5421591"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5421591;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1089/ars.2016.6806"
+        }
+      ],
+      "journal": "Antioxid Redox Signal",
+      "pmid": "27650096",
+      "pubdate": "2017 May 10",
+      "title": "HbE/\u03b2-Thalassemia and Oxidative Stress: The Key to Pathophysiological Mechanisms and Novel Therapeutics."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29307336"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.14715/cmb/2017.63.12.6"
+        }
+      ],
+      "journal": "Cell Mol Biol (Noisy-le-grand)",
+      "pmid": "29307336",
+      "pubdate": "2017 Dec 30",
+      "title": "Mutation spectrum of \u03b2-globin gene in thalassemia patients at Hasan Sadikin Hospital - West Java Indonesia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31890591"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6933185"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6933185;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ymgmr.2019.100550"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2214-4269(19)30190-9"
+        }
+      ],
+      "journal": "Mol Genet Metab Rep",
+      "pmid": "31890591",
+      "pubdate": "2020 Mar",
+      "title": "Cd60 (GTG\u202f>\u202fGAG)/Hb Cagliari mutation was found in scanning of \u03b2-thalassemia alleles from patients of East Kalimantan, Indonesia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10096953"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.154/MODI00300011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1084-8592(98)80022-2"
+        }
+      ],
+      "journal": "Mol Diagn",
+      "pmid": "10096953",
+      "pubdate": "1998 Mar",
+      "title": "Molecular Basis of beta-Thalassemia in Indonesia: Application to Prenatal Diagnosis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10467270"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/(sici)1096-8652(199909)62:1<7::aid-ajh2>3.0.co;2-s"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1002/(SICI)1096-8652(199909)62:1<7::AID-AJH2>3.0.CO;2-S"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "10467270",
+      "pubdate": "1999 Sep",
+      "title": "Phenotypic variability of Filipino beta(o)-thalassemia/HbE patients in Indonesia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31399060"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6688316"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6688316;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12881-019-0868-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12881-019-0868-x"
+        }
+      ],
+      "journal": "BMC Med Genet",
+      "pmid": "31399060",
+      "pubdate": "2019 Aug 9",
+      "title": "Shine & Lal index as a predictor for early detection of \u03b2-thalassemia carriers in a limited resource area in Bandung, Indonesia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27009595"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hemonc.2016.02.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1658-3876(16)30003-6"
+        }
+      ],
+      "journal": "Hematol Oncol Stem Cell Ther",
+      "pmid": "27009595",
+      "pubdate": "2016 Jun",
+      "title": "Modifying effect of XmnI, BCL11A, and HBS1L-MYB on clinical appearances: A study on \u03b2-thalassemia and hemoglobin E/\u03b2-thalassemia patients in Indonesia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38716362"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11074909"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11074909;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2024/4215439"
+        }
+      ],
+      "journal": "Anemia",
+      "pmid": "38716362",
+      "pubdate": "2024",
+      "title": "Anemia among Medical Students from Jakarta: Indonesia-Iron Deficiency or Carrier Thalassemia?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32977730"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1089/hum.2020.145"
+        }
+      ],
+      "journal": "Hum Gene Ther",
+      "pmid": "32977730",
+      "pubdate": "2021 May",
+      "title": "Engineered U7 Small Nuclear RNA Restores Correct \u03b2-Globin Pre-mRNA Splicing in Mouse \u03b2(IVS2-654)-Thalassemic Erythroid Progenitor Cells."
+    }
+  ]
+}

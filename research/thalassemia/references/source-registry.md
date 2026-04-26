@@ -106,6 +106,11 @@ Checked on 2026-04-26 unless noted.
 | Indonesia | [Indonesia thalassemia gene-therapy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-thalassemia-gene-therapy.json) | Reproducible PubMed query snapshot for Indonesia and thalassemia gene therapy. |
 | Indonesia | [Indonesia thalassemia access PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-thalassemia-access.json) | Reproducible PubMed query snapshot showing a first-pass access-literature gap. |
 | Indonesia | [East Java beta-thalassemia mutations, PubMed PMID 35911837](https://pubmed.ncbi.nlm.nih.gov/35911837/) | Indonesia-specific genotype heterogeneity, including HbE/beta-thalassemia. |
+| Indonesia genetics | [Molecular basis of beta-thalassemia in Indonesia, PubMed PMID 10096953](https://pubmed.ncbi.nlm.nih.gov/10096953/) | Older national mutation-spectrum evidence, including HbE and IVS1-nt5. |
+| Indonesia genetics | [Modifier effect of XmnI, BCL11A, and HBS1L-MYB in Indonesia, PubMed PMID 27009595](https://pubmed.ncbi.nlm.nih.gov/27009595/) | Indonesia-specific HbF modifier evidence in beta-thalassemia and HbE/beta-thalassemia. |
+| Indonesia genetics | [Indonesia beta-thalassemia mutation PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-beta-thalassemia-mutations.json) | Reproducible PubMed query snapshot for Indonesian beta-thalassemia mutations. |
+| HbF drugs | [HbE/beta-thalassemia hydroxyurea XmnI snapshot](../../../data/literature/pubmed/2026-04-27-hbe-beta-thalassemia-hydroxyurea-xmni.json) | Reproducible PubMed query snapshot for hydroxyurea response and XmnI in HbE/beta-thalassemia. |
+| HbF target | [HbE/beta-thalassemia HbF modifier snapshot](../../../data/literature/pubmed/2026-04-27-hbe-beta-thalassemia-hbf-modifiers.json) | Reproducible PubMed query snapshot for BCL11A/ZBTB7A/HBS1L HbF modifier biology. |
 | Islamic | [Quran 2:155, Quran.com](https://quran.com/2/155) | Anchor for illness and hardship as tests, not proof of punishment for a specific patient. |
 | Islamic | [Quran 21:83-84, Quran.com](https://quran.com/21/83-84) | Anchor for Ayyub, distress, patience, and mercy. |
 | Islamic | [Quran 9:14, Quran.com](https://quran.com/9/14) | Shifa root context: healing of hearts, not a molecule claim. |

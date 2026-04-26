@@ -25,6 +25,27 @@ For each source, record:
 Primary sources are preferred: PubMed papers, guidelines, trial registries,
 regulatory labels, official databases, and classical Islamic sources.
 
+When a conversation produces a reusable finding, write it down as a dated note
+under the relevant `research/**/findings/` folder. Keep each note small enough
+that a clinician, scientist, or Islamic scholar can audit it quickly.
+
+## Patient-Specific Notes
+
+Patient context may be recorded only when it is de-identified and useful for
+research framing. Do not include names, exact addresses, hospital record
+numbers, phone numbers, ID numbers, face photos, or exact birth dates.
+
+Patient-specific notes should distinguish:
+
+- family-reported information;
+- medical-record information;
+- lab values;
+- interpretation by this repo;
+- questions for licensed clinicians.
+
+The repo must not recommend changing transfusion, chelation, immune treatment,
+or any medicine. It can prepare evidence maps and questions for clinicians.
+
 ## Hypothesis Gate
 
 A hypothesis should not be promoted unless it has:

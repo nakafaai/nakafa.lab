@@ -6,6 +6,7 @@ __pycache__/
 dist/
 build/
 coverage/
+private/
 
 paper/*.aux
 paper/*.bbl

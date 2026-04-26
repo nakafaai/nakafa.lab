@@ -30,10 +30,15 @@ forward.
 
 - `docs/research-protocol.md` - how evidence becomes a hypothesis.
 - `research/thalassemia/README.md` - first disease program.
+- `research/thalassemia/findings/` - small source-backed research notes.
+- `research/thalassemia/case-context/` - de-identified patient context.
 - `research/thalassemia/references/source-registry.md` - seed source list.
 - `research/islamic/README.md` - Islamic research lane.
+- `research/islamic/findings/` - Quran, hadith, tafsir, and ethics notes.
 - `paper/main.tex` - working LaTeX paper skeleton.
+- `paper/notes/` - focused LaTeX notes that may later feed the main paper.
 - `paper/references.bib` - initial bibliography.
+- `templates/` - reusable research and clinical-context templates.
 - `docs/zed-latex.md` - how to build and preview the paper in Zed.
 
 ## Python Tooling

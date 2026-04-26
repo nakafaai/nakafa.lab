@@ -25,6 +25,7 @@ biomedical evidence.
 ## Guardrails
 
 - Do not force a verse to say more than it says.
+- Do not label a specific patient's illness as punishment from Allah.
 - Do not present a natural product as a cure without clinical evidence.
 - Do not use faith language to bypass safety, dosage, toxicity, or trial design.
 - Invite scholars and clinicians to review sensitive interpretations.

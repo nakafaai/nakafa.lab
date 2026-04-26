@@ -16,3 +16,9 @@ Checked on 2026-04-26 unless noted.
 | Disease ontology | [Open Targets beta thalassemia MONDO_0019402](https://platform.opentargets.org/disease/MONDO_0019402) | Disease and target context, including HBB. |
 | Chemistry | [ChEMBL hydroxyurea CHEMBL467](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL467) | Small-molecule reference for a known fetal hemoglobin inducer. |
 | Islamic | [Quran 16:68-69, Quran.com](https://quran.com/16/68-69) | Initial Quranic anchor for bee and healing research. |
+| Evolution | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | Notes thalassemia distribution, carrier state, malaria selection, and globin biology. |
+| Evolution | [Alpha-thalassemia and malaria in children, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030158) | Primary study supporting the carrier-advantage research lane for malaria and red-cell variants. |
+| Islamic | [Quran 2:155, Quran.com](https://quran.com/2/155) | Anchor for illness and hardship as tests, not proof of punishment for a specific patient. |
+| Islamic | [Quran 21:83-84, Quran.com](https://quran.com/21/83-84) | Anchor for Ayyub, distress, patience, and mercy. |
+| Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |
+| Islamic | [Sahih Muslim 2204, Sunnah.com](https://sunnah.com/muslim:2204) | Anchor hadith for treatment and remedy, with careful interpretation. |

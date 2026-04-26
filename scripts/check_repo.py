@@ -8,11 +8,16 @@ REQUIRED_PATHS = [
     "docs/zed-latex.md",
     ".zed/tasks.json",
     "research/thalassemia/README.md",
+    "research/thalassemia/case-context/deidentified-case-001.md",
+    "research/thalassemia/findings/2026-04-26-carrier-malaria.md",
     "research/thalassemia/references/source-registry.md",
     "research/islamic/README.md",
+    "research/islamic/findings/2026-04-26-healing-and-caution.md",
     "paper/main.tex",
+    "paper/notes/carrier-malaria.tex",
     "paper/references.bib",
     "pyproject.toml",
+    "templates/patient-context-template.md",
 ]
 
 

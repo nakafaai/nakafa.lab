@@ -27,6 +27,7 @@ REQUIRED_PATHS = [
     "paper/notes/carrier-malaria.tex",
     "paper/references.bib",
     "pyproject.toml",
+    "templates/clinician-review-brief-template.md",
     "templates/hypothesis-card-template.md",
     "templates/patient-context-template.md",
 ]

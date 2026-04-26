@@ -1,3 +1,5 @@
+"""Fetch compact ClinicalTrials.gov snapshots for research notes."""
+
 import argparse
 import json
 from pathlib import Path
@@ -9,6 +11,7 @@ BASE_URL = "https://clinicaltrials.gov/api/v2/studies"
 
 
 def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments for the trial snapshot fetcher."""
     parser = argparse.ArgumentParser(
         description="Fetch a compact ClinicalTrials.gov snapshot."
     )
@@ -25,6 +28,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def build_url(args: argparse.Namespace) -> str:
+    """Build the ClinicalTrials.gov API URL from parsed arguments."""
     params = {
         "query.cond": args.condition,
         "pageSize": str(args.page_size),
@@ -41,6 +45,7 @@ def build_url(args: argparse.Namespace) -> str:
 
 
 def summarize_study(study: dict) -> dict:
+    """Return a compact summary for one ClinicalTrials.gov study payload."""
     protocol = study.get("protocolSection", {})
     identification = protocol.get("identificationModule", {})
     status = protocol.get("statusModule", {})
@@ -70,6 +75,7 @@ def summarize_study(study: dict) -> dict:
 
 
 def main() -> int:
+    """Fetch a trial snapshot and print or write it as JSON."""
     args = parse_args()
     url = build_url(args)
 

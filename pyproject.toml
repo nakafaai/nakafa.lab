@@ -22,9 +22,15 @@ extend-exclude = [
 [tool.ruff.lint]
 select = [
   "B",
+  "D",
   "E",
   "F",
   "I",
   "SIM",
   "UP",
+]
+
+ignore = [
+  "D203",
+  "D213",
 ]

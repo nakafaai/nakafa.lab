@@ -30,6 +30,7 @@ forward.
 
 - `docs/research-protocol.md` - how evidence becomes a hypothesis.
 - `docs/next-steps.md` - current operating roadmap.
+- `docs/parallel-research-tracks.md` - work that can continue without case data.
 - `research/thalassemia/README.md` - first disease program.
 - `research/thalassemia/findings/` - small source-backed research notes.
 - `research/thalassemia/hypotheses/` - structured hypothesis candidates.
@@ -54,6 +55,7 @@ Common commands:
 
 - `pnpm check`
 - `uv run python scripts/check_repo.py`
+- `uv run python scripts/fetch_clinical_trials.py --condition Thalassemia`
 - `uv run ruff check .`
 - `uv run ruff format .`
 

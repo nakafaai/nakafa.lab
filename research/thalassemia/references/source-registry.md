@@ -9,6 +9,9 @@ Checked on 2026-04-26 unless noted.
 | Guideline | [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/) | Ferritin, liver iron, cardiac T2*, and chelation monitoring baseline. |
 | Guideline | [TIF 2025 monitoring recommendations](https://www.ncbi.nlm.nih.gov/books/NBK614248/) | Routine monitoring framework for TDT morbidity screening. |
 | Guideline | [2021 TIF guideline, PubMed PMID 35928543](https://pubmed.ncbi.nlm.nih.gov/35928543/) | Peer-reviewed guideline summary. |
+| Clinical genetics | [Beta-Thalassemia, GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1426/) | Beta-thalassemia genotype, phenotype, HbE/beta-thalassemia, TDT, and NTDT distinctions. |
+| Clinical genetics | [Alpha-Thalassemia, GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1435/) | Alpha-thalassemia genetics, HbH disease, and differential diagnosis context. |
+| Guideline | [TIF NTDT guideline, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK190453/) | Non-transfusion-dependent thalassemia baseline. |
 | Drug | [Luspatercept BELIEVE trial, PubMed PMID 32212518](https://pubmed.ncbi.nlm.nih.gov/32212518/) | Phase 3 evidence for transfusion-dependent beta-thalassemia. |
 | Drug | [Reblozyl FDA approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia) | Regulator source for luspatercept indication in adult beta-thalassemia requiring regular transfusion. |
 | Drug | [Aqvesme mitapivat FDA approval](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder) | FDA approval of first oral treatment for anemia in alpha- or beta-thalassemia. |
@@ -20,6 +23,7 @@ Checked on 2026-04-26 unless noted.
 | Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |
+| Tooling | [Clinical trials snapshot script](../../../scripts/fetch_clinical_trials.py) | Internal script to repeat registry snapshots. |
 | Disease ontology | [Open Targets beta thalassemia MONDO_0019402](https://platform.opentargets.org/disease/MONDO_0019402) | Disease and target context, including HBB. |
 | Chemistry | [ChEMBL hydroxyurea CHEMBL467](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL467) | Small-molecule reference for a known fetal hemoglobin inducer. |
 | Hypothesis process | [Hypothesis card template](../../../templates/hypothesis-card-template.md) | Internal gate for keeping therapy ideas auditable. |

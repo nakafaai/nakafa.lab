@@ -10,6 +10,7 @@
     "format:py": "uv run ruff format .",
     "lint:py": "uv run ruff check .",
     "paper:build": "mkdir -p paper/build && tectonic --synctex --keep-logs --outdir paper/build paper/main.tex",
-    "paper:open": "open paper/build/main.pdf"
+    "paper:open": "open paper/build/main.pdf",
+    "trials:snapshot": "python3 scripts/fetch_clinical_trials.py --condition Thalassemia"
   }
 }

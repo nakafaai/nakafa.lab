@@ -78,6 +78,19 @@ For curcuminoid analog work, `T-BDMC` is the first high-priority seed, but it
 must be treated as a publication-defined compound until a clean structure file,
 supplier record, or database identifier is obtained.
 
+## Natural-Product HbF Seed Queue
+
+| Seed | Current status | First assay decision |
+| --- | --- | --- |
+| `T-BDMC` | strongest current biology bridge; K562 plus beta-thalassemia/HbE primary-cell evidence | resolve exact structure or synthesis source before new testing |
+| `isocoronarin D` | chemistry-resolved as `CHEMBL1099267` / PubChem `CID 46871816`; K562 reporter `FC 1.6` at `20 uM` | hemolysis and K562 repeat before disease-cell escalation |
+| `3,4'-Di-O-methylquercetin` | chemistry-resolved as PubChem `CID 5380905` / `CHEMBL309263`; Springer abstract reports K562 reporter `2.6-fold` at `8 uM` | treat as quercetin analog, not quercetin supplement; repeat reporter and add endogenous HbF |
+
+These seeds should be compared inside the same assay framework rather than as
+separate anecdotes. The first meaningful decision is not "is this a cure?" but
+"does this reproducibly raise HbF without damaging erythroid or mature red
+cells?"
+
 ## Output Per Run
 
 Every completed run should produce:
@@ -95,6 +108,8 @@ Every completed run should produce:
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Curcuminoid HbF bridge deep dive](../findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
 - [Curcuminoid analog assay map](../findings/2026-04-27-curcuminoid-analog-assay-map.md)
+- [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
+- [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)

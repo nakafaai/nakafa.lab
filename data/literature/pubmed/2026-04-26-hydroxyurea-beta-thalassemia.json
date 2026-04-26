@@ -1,0 +1,62 @@
+{
+  "count": 2,
+  "query": "hydroxyurea beta thalassemia fetal hemoglobin meta analysis",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36250099"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9556862"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9556862;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmed.2022.943631"
+        }
+      ],
+      "journal": "Front Med (Lausanne)",
+      "pmid": "36250099",
+      "pubdate": "2022",
+      "title": "Using Clustered Regularly Interspaced Short Palindromic Repeats gene editing to induce permanent expression of fetal hemoglobin in \u03b2-thalassemia and sickle cell disease: A comparative meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37252463"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10213992"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10213992;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7759/cureus.38135"
+        }
+      ],
+      "journal": "Cureus",
+      "pmid": "37252463",
+      "pubdate": "2023 Apr",
+      "title": "Efficacy of Hydroxyurea in Transfusion-Dependent Major \u03b2-Thalassemia Patients: A Meta-Analysis."
+    }
+  ]
+}

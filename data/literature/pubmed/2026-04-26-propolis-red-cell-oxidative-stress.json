@@ -1,0 +1,146 @@
+{
+  "count": 5,
+  "query": "propolis red blood cells oxidative stress",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37275937"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10236984"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10236984;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5306/wjco.v14.i5.203"
+        }
+      ],
+      "journal": "World J Clin Oncol",
+      "pmid": "37275937",
+      "pubdate": "2023 May 24",
+      "title": "Thymoquinone enhances the antioxidant and anticancer activity of Lebanese propolis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32957629"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7571116"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7571116;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules25184266"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules25184266"
+        }
+      ],
+      "journal": "Molecules",
+      "pmid": "32957629",
+      "pubdate": "2020 Sep 17",
+      "title": "Effect of the Solvent on Propolis Phenolic Profile and its Antifungal, Antioxidant, and In Vitro Cytoprotective Activity in Human Erythrocytes Under Oxidative Stress."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21130830"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2010.11.042"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(10)00700-3"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "21130830",
+      "pubdate": "2011 Feb",
+      "title": "Propolis influence on erythrocyte membrane disorder (hereditary spherocytosis): a first approach."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24412556"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2014.01.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(14)00011-8"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "24412556",
+      "pubdate": "2014 Mar",
+      "title": "Antimicrobial, antioxidant and cytotoxic activities of propolis from Melipona orbignyi (Hymenoptera, Apidae)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38626693"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11036096"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11036096;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.psj.2024.103695"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0032-5791(24)00276-1"
+        }
+      ],
+      "journal": "Poult Sci",
+      "pmid": "38626693",
+      "pubdate": "2024 Jun",
+      "title": "The beneficial impacts of nano-propolis liposomes as an anti-stressor agent on broiler chickens kept under cyclic heat stress."
+    }
+  ]
+}

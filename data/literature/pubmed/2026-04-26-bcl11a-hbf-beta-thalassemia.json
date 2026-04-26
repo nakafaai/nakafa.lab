@@ -1,0 +1,126 @@
+{
+  "count": 5,
+  "query": "BCL11A fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33283989"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2031054"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "33283989",
+      "pubdate": "2021 Jan 21",
+      "title": "CRISPR-Cas9 Gene Editing for Sickle Cell Disease and \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36907604"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2022.12.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(22)00143-5"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "36907604",
+      "pubdate": "2023 Apr",
+      "title": "Fetal Hemoglobin Regulation in Beta-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38657265"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2309673"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "38657265",
+      "pubdate": "2024 May 9",
+      "title": "Exagamglogene Autotemcel for Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19056937"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/science.1165409"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1165409"
+        }
+      ],
+      "journal": "Science",
+      "pmid": "19056937",
+      "pubdate": "2008 Dec 19",
+      "title": "Human fetal hemoglobin expression is regulated by the developmental stage-specific repressor BCL11A."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29606353"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS950568"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5889339"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5889339;manuscript-id: NIHMS950568;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cell.2018.03.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0092-8674(18)30296-4"
+        }
+      ],
+      "journal": "Cell",
+      "pmid": "29606353",
+      "pubdate": "2018 Apr 5",
+      "title": "Direct Promoter Repression by BCL11A Controls the Fetal to Adult Hemoglobin Switch."
+    }
+  ]
+}

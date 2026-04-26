@@ -5,9 +5,13 @@ Checked on 2026-04-26 unless noted.
 | Lane | Source | Why it matters |
 | --- | --- | --- |
 | Guideline | [TIF 2025 TDT guideline, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK614251/) | Current clinical baseline for transfusion-dependent beta-thalassemia. |
+| Guideline | [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/) | Transfusion targets, intervals, antigen matching, and patient blood management. |
+| Guideline | [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/) | Ferritin, liver iron, cardiac T2*, and chelation monitoring baseline. |
 | Guideline | [2021 TIF guideline, PubMed PMID 35928543](https://pubmed.ncbi.nlm.nih.gov/35928543/) | Peer-reviewed guideline summary. |
 | Drug | [Luspatercept BELIEVE trial, PubMed PMID 32212518](https://pubmed.ncbi.nlm.nih.gov/32212518/) | Phase 3 evidence for transfusion-dependent beta-thalassemia. |
+| Drug | [Reblozyl FDA approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia) | Regulator source for luspatercept indication in adult beta-thalassemia requiring regular transfusion. |
 | Drug | [Aqvesme mitapivat FDA approval](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder) | FDA approval of first oral treatment for anemia in alpha- or beta-thalassemia. |
+| Drug label | [Aqvesme FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf) | Safety, liver monitoring, REMS, and drug-interaction constraints for mitapivat. |
 | Drug | [Mitapivat ENERGIZE trial, PubMed PMID 40544857](https://pubmed.ncbi.nlm.nih.gov/40544857/) | Phase 3 evidence in non-transfusion-dependent alpha- or beta-thalassemia. |
 | Gene therapy | [Zynteglo FDA product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo) | FDA-regulated gene therapy reference. |
 | Gene editing | [Casgevy FDA product page](https://www.fda.gov/vaccines-blood-biologics/casgevy) | FDA-regulated CRISPR cell therapy reference. |

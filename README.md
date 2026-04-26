@@ -29,6 +29,7 @@ forward.
 ## Repo Map
 
 - `docs/research-protocol.md` - how evidence becomes a hypothesis.
+- `docs/next-steps.md` - current operating roadmap.
 - `research/thalassemia/README.md` - first disease program.
 - `research/thalassemia/findings/` - small source-backed research notes.
 - `research/thalassemia/case-context/` - de-identified patient context.

@@ -42,3 +42,7 @@ Every candidate must name its category:
 
 Natural product mixtures and bee-derived materials require stronger identity and
 safety controls before they can be compared with known drugs.
+
+## Active Assay Plans
+
+- [Epigenetic HbF screen V0](../research/thalassemia/assays/2026-04-27-epigenetic-hbf-screen-v0.md)

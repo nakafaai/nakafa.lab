@@ -60,6 +60,9 @@ The first screening panel should include:
 - mature red-cell hemolysis;
 - immune/allergy flags for bee-derived or botanical materials.
 
+The first concrete assay plan is tracked in
+[Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md).
+
 ## Interpretation For Bee And Quran Lanes
 
 This does not weaken the Quranic motivation to search for remedies. It makes

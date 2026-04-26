@@ -47,6 +47,7 @@ REQUIRED_PATHS = [
     "data/registries/clinicaltrials/2026-04-26-sirolimus-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-26-thalidomide-beta-thalassemia.json",
     "research/thalassemia/README.md",
+    "research/thalassemia/assays/2026-04-27-epigenetic-hbf-screen-v0.md",
     "research/thalassemia/case-context/deidentified-case-001.md",
     "research/thalassemia/findings/2026-04-26-carrier-malaria.md",
     "research/thalassemia/findings/2026-04-26-bee-product-research-scope.md",

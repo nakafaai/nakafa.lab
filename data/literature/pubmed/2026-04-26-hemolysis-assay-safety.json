@@ -1,0 +1,225 @@
+{
+  "count": 8,
+  "query": "hemolysis assay optimization cytotoxicity red blood cells",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36769243"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9917735"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9917735;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms24032914"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms24032914"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "36769243",
+      "pubdate": "2023 Feb 2",
+      "title": "Optimization of the Hemolysis Assay for the Assessment of Cytotoxicity."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34097399"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "EMS138674"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7612374"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7612374;manuscript-id: EMS138674;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.biomac.1c00599"
+        }
+      ],
+      "journal": "Biomacromolecules",
+      "pmid": "34097399",
+      "pubdate": "2022 Feb 14",
+      "title": "Red Blood Cell Cryopreservation with Minimal Post-Thaw Lysis Enabled by a Synergistic Combination of a Cryoprotecting Polyampholyte with DMSO/Trehalose."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31727246"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/bs.mie.2019.07.034"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0076-6879(19)30314-3"
+        }
+      ],
+      "journal": "Methods Enzymol",
+      "pmid": "31727246",
+      "pubdate": "2019",
+      "title": "Distinguishing perforin-mediated lysis and granzyme-dependent apoptosis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38644723"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/0113816128258852231204102044"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CPD-EPUB-139892"
+        }
+      ],
+      "journal": "Curr Pharm Des",
+      "pmid": "38644723",
+      "pubdate": "2024",
+      "title": "Construction of GPC3-modified Lipopolymer SiRNA Delivery System."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39540900"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.biomac.4c01203"
+        }
+      ],
+      "journal": "Biomacromolecules",
+      "pmid": "39540900",
+      "pubdate": "2024 Dec 9",
+      "title": "Antimicrobial Activity of Copolymer Structures from Bio-Based Monomers."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34361810"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8348142"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8348142;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules26154654"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules26154654"
+        }
+      ],
+      "journal": "Molecules",
+      "pmid": "34361810",
+      "pubdate": "2021 Jul 31",
+      "title": "Antimicrobial Peptide Modifications against Clinically Isolated Antibiotic-Resistant Salmonella."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30308255"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jconrel.2018.10.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0168-3659(18)30577-7"
+        }
+      ],
+      "journal": "J Control Release",
+      "pmid": "30308255",
+      "pubdate": "2018 Dec 10",
+      "title": "PAMAM dendrimers: blood-brain barrier transport and neuronal uptake after focal brain ischemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34784983"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8594108"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8594108;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s40360-021-00538-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s40360-021-00538-2"
+        }
+      ],
+      "journal": "BMC Pharmacol Toxicol",
+      "pmid": "34784983",
+      "pubdate": "2021 Nov 16",
+      "title": "In vitro growth inhibitory activity of Medicines for Malaria Venture pathogen box compounds against Leishmania aethiopica."
+    }
+  ]
+}

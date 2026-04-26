@@ -41,8 +41,8 @@ A candidate can move from exploratory to active hypothesis only if it shows:
 
 ## Sources
 
-- [HUDEP2 HBG1 reporter screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/)
-- [Endogenous fetal hemoglobin reporter system, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11302795/)
+- [Endogenous HUDEP2 HBG1 reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)
+- [Small molecule HbF screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/)
 - [Synthetic beta-thalassemia erythropoiesis model, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3704632/)
 - [Flow cytometric HbF analysis in beta-thalassemia, PubMed PMID 15163316](https://pubmed.ncbi.nlm.nih.gov/15163316/)
 - [Hemolysis assay optimization, PubMed PMID 36769243](https://pubmed.ncbi.nlm.nih.gov/36769243/)

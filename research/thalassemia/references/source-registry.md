@@ -23,10 +23,17 @@ Checked on 2026-04-26 unless noted.
 | Gene editing | [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/) | Clinical evidence for CRISPR-edited autologous cells in TDT. |
 | Cure strategy | [Gene therapy and gene editing for beta-thalassemia, PubMed PMID 36907613](https://pubmed.ncbi.nlm.nih.gov/36907613/) | Review of lentiviral gene addition and genome editing cure strategies. |
 | Cure strategy | [TIF 2025 HSCT chapter](https://www.ncbi.nlm.nih.gov/books/NBK614242/) | Curative transplant baseline and risk context. |
+| HbF target | [BCL11A tetramer and HbF silencing, PubMed PMID 39607926](https://pubmed.ncbi.nlm.nih.gov/39607926/) | Mechanistic update for BCL11A as a fetal hemoglobin silencer. |
+| HbF drugs | [Pharmacological induction of HbF, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9227505/) | Review of pharmacologic HbF inducers in beta-thalassemia and sickle cell disease. |
+| HbF drugs | [Small molecule therapeutics for beta-globinopathies, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10916415/) | Review of small-molecule beta-globinopathy therapeutic strategies. |
+| HbF screen | [Small molecule HbF screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/) | Chemogenomic screening workflow for HbF-inducing compounds. |
+| HbF drugs | [Hydroxyurea in TDT meta-analysis, PubMed PMID 37252463](https://pubmed.ncbi.nlm.nih.gov/37252463/) | Evidence review for hydroxyurea in transfusion-dependent beta-thalassemia. |
+| HbF drugs | [Hydroxyurea in NTDT meta-analysis, PubMed PMID 28408107](https://pubmed.ncbi.nlm.nih.gov/28408107/) | Evidence review for hydroxyurea in non-transfusion-dependent beta-thalassemia. |
 | Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |
 | Tooling | [Clinical trials snapshot script](../../../scripts/fetch_clinical_trials.py) | Internal script to repeat registry snapshots. |
+| Tooling | [PubMed snapshot script](../../../scripts/fetch_pubmed.py) | Internal script to repeat literature search snapshots. |
 | Disease ontology | [Open Targets beta thalassemia MONDO_0019402](https://platform.opentargets.org/disease/MONDO_0019402) | Disease and target context, including HBB. |
 | Chemistry | [ChEMBL hydroxyurea CHEMBL467](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL467) | Small-molecule reference for a known fetal hemoglobin inducer. |
 | Hypothesis process | [Hypothesis card template](../../../templates/hypothesis-card-template.md) | Internal gate for keeping therapy ideas auditable. |

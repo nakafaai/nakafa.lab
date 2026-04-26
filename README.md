@@ -56,6 +56,7 @@ Common commands:
 - `pnpm check`
 - `uv run python scripts/check_repo.py`
 - `uv run python scripts/fetch_clinical_trials.py --condition Thalassemia`
+- `uv run python scripts/fetch_pubmed.py "fetal hemoglobin beta thalassemia"`
 - `uv run ruff check .`
 - `uv run ruff format .`
 

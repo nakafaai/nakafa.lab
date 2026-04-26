@@ -25,6 +25,11 @@ compatibility, hemolysis risk, medication choices, and clinical-trial
 eligibility. The exact term should be confirmed from a doctor's note or lab
 report before we use it as evidence.
 
+The 2026-04-27 immune/transfusion complication lane turns this into a concrete
+data request: antibody screen, named alloantibodies, direct antiglobulin test
+(direct Coombs), crossmatch difficulty, transfusion reaction history, spleen
+status, hemolysis markers, and the exact autoimmune diagnosis if one exists.
+
 ## Research Relevance
 
 This case makes the first Nakafa Lab program practical, not abstract. The near
@@ -47,8 +52,15 @@ evidence map that can help clinicians evaluate:
 - Current chelation medicine, dose, adherence, and side effects.
 - Blood type, antibody history, transfusion reactions, and alloimmunization
   status if available.
+- Direct antiglobulin test / direct Coombs result if available.
+- Whether transfused red cells are matched for ABO, Rh C/c, Rh D, Rh E/e, and
+  Kell.
 - Autoimmune diagnosis, tests, symptoms, and treatment.
 - Spleen status plus liver, heart, endocrine, and bone monitoring.
 - Prior genetic testing for patient and parents if available.
 
 Do not add identifying details to this file.
+
+## Linked Notes
+
+- [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)

@@ -22,7 +22,8 @@ current research cycle should answer:
    chelation, ferritin trend, liver/cardiac MRI, antibody history, and the exact
    autoimmune diagnosis.
 2. Clinical baseline: summarize transfusion, chelation, organ monitoring, and
-   immune/transfusion complication standards.
+   immune/transfusion complication standards, including antibody screen,
+   direct antiglobulin test, crossmatch difficulty, and antigen matching.
 3. Therapeutic landscape: compare luspatercept, mitapivat, HSCT, Zynteglo,
    Casgevy, and active trials.
 4. Affordability: map which therapies are limited by drug price, hospital

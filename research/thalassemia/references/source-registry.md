@@ -45,6 +45,10 @@ Checked on 2026-04-26 unless noted.
 | Safety assay | [Hemolysis assay optimization, PubMed PMID 36769243](https://pubmed.ncbi.nlm.nih.gov/36769243/) | Red-cell hemolysis safety screen reference. |
 | Safety assay | [Hemolysis assay PubMed snapshot](../../../data/literature/pubmed/2026-04-26-hemolysis-assay-safety.json) | Reproducible PubMed query snapshot for hemolysis assay safety. |
 | Safety assay | [Compound cytotoxicity profiling, PubMed PMID 18335092](https://pubmed.ncbi.nlm.nih.gov/18335092/) | General cytotoxicity profiling reference for compound screening. |
+| Transfusion safety | [TDT alloimmunization and autoimmunization PubMed snapshot](../../../data/literature/pubmed/2026-04-27-tdt-alloimmunization-autoimmunization.json) | Reproducible PubMed query snapshot for immune transfusion complications in TDT. |
+| Transfusion safety | [TDT direct antiglobulin and autoantibody snapshot](../../../data/literature/pubmed/2026-04-27-tdt-direct-antiglobulin-autoantibodies.json) | Reproducible PubMed query snapshot for DAT and autoantibody context in TDT. |
+| Transfusion safety | [Thalassemia antigen-matching snapshot](../../../data/literature/pubmed/2026-04-27-thalassemia-antigen-matching.json) | Reproducible PubMed query snapshot for Rh/Kell/extended antigen matching. |
+| Transfusion safety | [Coombs test, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK547707/) | DAT/IAT interpretation context for hemolysis and transfusion compatibility. |
 | HbF drugs | [Hydroxyurea in TDT meta-analysis, PubMed PMID 37252463](https://pubmed.ncbi.nlm.nih.gov/37252463/) | Evidence review for hydroxyurea in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Hydroxyurea in NTDT meta-analysis, PubMed PMID 28408107](https://pubmed.ncbi.nlm.nih.gov/28408107/) | Evidence review for hydroxyurea in non-transfusion-dependent beta-thalassemia. |
 | HbF drugs | [HbE/beta-thalassemia and XmnI response, PubMed PMID 34406845](https://pubmed.ncbi.nlm.nih.gov/34406845/) | Genotype-linked hydroxyurea response context in HbE/beta-thalassemia. |

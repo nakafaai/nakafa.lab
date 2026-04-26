@@ -1,0 +1,177 @@
+{
+  "count": 7,
+  "query": "direct antiglobulin test transfusion dependent thalassemia autoantibodies",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38200206"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10782003"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10782003;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-024-51561-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-024-51561-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "38200206",
+      "pubdate": "2024 Jan 10",
+      "title": "Red blood cell alloimmunization in blood transfusion-dependent \u03b2 thalassemia major patients in Sana'a City-Yemen."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11071629"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)48272-2"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "11071629",
+      "pubdate": "2000 Nov 15",
+      "title": "Alloimmunization and erythrocyte autoimmunization in transfusion-dependent thalassemia patients of predominantly asian descent."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35604471"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-022-04870-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-022-04870-3"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "35604471",
+      "pubdate": "2022 Aug",
+      "title": "Prevalence and characteristics of inflammatory rheumatic diseases in patients with thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21889408"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2011.08.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(11)00141-8"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "21889408",
+      "pubdate": "2011 Oct",
+      "title": "High frequency of autoimmunization among transfusion-dependent Tunisian thalassaemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34362222"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8347040"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8347040;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm10153439"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm10153439"
+        }
+      ],
+      "journal": "J Clin Med",
+      "pmid": "34362222",
+      "pubdate": "2021 Aug 2",
+      "title": "Autoimmune Hemolytic Anemia as a Complication of Congenital Anemias. A Case Series and Review of the Literature."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24786127"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5858/arpa.2013-0016-OA"
+        }
+      ],
+      "journal": "Arch Pathol Lab Med",
+      "pmid": "24786127",
+      "pubdate": "2014 May",
+      "title": "Predictors of red cell alloimmunization in multitransfused Egyptian patients with \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25458987"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tracli.2014.10.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1246-7820(14)00218-3"
+        }
+      ],
+      "journal": "Transfus Clin Biol",
+      "pmid": "25458987",
+      "pubdate": "2014 Dec",
+      "title": "[Anti-erythrocyte and anti-HLA immunization in hemoglobinopathies]."
+    }
+  ]
+}

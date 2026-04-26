@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "thalassemia alloimmunization antigen matched red blood cells Rh Kell",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30443908"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/trf.15002"
+        }
+      ],
+      "journal": "Transfusion",
+      "pmid": "30443908",
+      "pubdate": "2019 Jan",
+      "title": "The prevalence, alloimmunization risk factors, antigenic exposure, and evaluation of antigen-matched red blood cells for thalassemia transfusions: a 10-year experience at a tertiary care hospital."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38200206"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10782003"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10782003;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-024-51561-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-024-51561-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "38200206",
+      "pubdate": "2024 Jan 10",
+      "title": "Red blood cell alloimmunization in blood transfusion-dependent \u03b2 thalassemia major patients in Sana'a City-Yemen."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34644379"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/labmed/lmab079"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "6396158"
+        }
+      ],
+      "journal": "Lab Med",
+      "pmid": "34644379",
+      "pubdate": "2022 Mar 7",
+      "title": "Red Blood Cell Alloimmunization Rates and Related Factors of Patients with Thalassemia in Shiraz, Iran."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30653458"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6343597"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6343597;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2450/2019.0229-18"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2019.0229-18"
+        }
+      ],
+      "journal": "Blood Transfus",
+      "pmid": "30653458",
+      "pubdate": "2019 Jan",
+      "title": "Red blood cell alloimmunisation in transfusion-dependent thalassaemia: a systematic review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33273689"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7713136"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7713136;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-020-78333-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-020-78333-y"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "33273689",
+      "pubdate": "2020 Dec 3",
+      "title": "A study of red blood cell alloimmunization and autoimmunization among 200 multitransfused Egyptian \u03b2 thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33107487"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7881817"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7881817;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/ijmr.IJMR_1199_18"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "IndianJMedRes_2020_152_3_273_298468"
+        }
+      ],
+      "journal": "Indian J Med Res",
+      "pmid": "33107487",
+      "pubdate": "2020 Sep",
+      "title": "Red cell antigen phenotypes in blood donors & thalassaemia patients for creation of red cell antigen-matched inventory."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31279519"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tracli.2019.06.004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1246-7820(19)30069-2"
+        }
+      ],
+      "journal": "Transfus Clin Biol",
+      "pmid": "31279519",
+      "pubdate": "2019 Nov",
+      "title": "Red blood cell alloimmunizations in beta-thalassemia patients in Casablanca/Morocco: Prevalence and risk factors."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24786127"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5858/arpa.2013-0016-OA"
+        }
+      ],
+      "journal": "Arch Pathol Lab Med",
+      "pmid": "24786127",
+      "pubdate": "2014 May",
+      "title": "Predictors of red cell alloimmunization in multitransfused Egyptian patients with \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25870030"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/tme.12196"
+        }
+      ],
+      "journal": "Transfus Med",
+      "pmid": "25870030",
+      "pubdate": "2015 Apr",
+      "title": "Red cell alloimmunisation in regularly transfused beta thalassemia patients in Pakistan."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21854216"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/08880018.2011.568595"
+        }
+      ],
+      "journal": "Pediatr Hematol Oncol",
+      "pmid": "21854216",
+      "pubdate": "2011 Sep",
+      "title": "Blood transfusion and alloimmunization in patients with thalassemia: multicenter study."
+    }
+  ]
+}

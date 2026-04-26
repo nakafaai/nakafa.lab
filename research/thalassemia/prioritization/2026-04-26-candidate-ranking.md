@@ -28,9 +28,15 @@ The active deep-dive files are now:
 - `research/thalassemia/findings/2026-04-26-sirolimus-deep-dive.md`
 - `research/thalassemia/findings/2026-04-26-thalidomide-class-deep-dive.md`
 - `research/thalassemia/findings/2026-04-27-epigenetic-hbf-target-drilldown.md`
+- `research/thalassemia/findings/2026-04-27-chemistry-identity-benchmark-map.md`
 - `research/thalassemia/findings/2026-04-26-propolis-red-cell-deep-dive.md`
 - `research/thalassemia/findings/2026-04-27-royal-jelly-oxidative-stress-deep-dive.md`
 - `research/thalassemia/findings/2026-04-27-melittin-bee-venom-hazard-deep-dive.md`
+
+Chemistry identity is now a required promotion gate. Any candidate, including
+bee-derived or botanical material, needs a compound identifier, fraction
+standardization marker, supplier/batch record, or equivalent identity trail
+before it can be compared against assay controls.
 
 ## Not A Recommendation
 
@@ -42,5 +48,6 @@ This is a research ranking. It is not a patient treatment ranking.
 - [Hydroxyurea in NTDT meta-analysis, PubMed PMID 28408107](https://pubmed.ncbi.nlm.nih.gov/28408107/)
 - [Sirthalaclin sirolimus pilot trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218916/)
 - [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/)
+- [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Propolis cytoprotective activity in human erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/)
 - [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/)

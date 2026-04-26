@@ -88,6 +88,17 @@ Checked on 2026-04-26 unless noted.
 | Tooling | [PubMed snapshot script](../../../scripts/fetch_pubmed.py) | Internal script to repeat literature search snapshots. |
 | Disease ontology | [Open Targets beta thalassemia MONDO_0019402](https://platform.opentargets.org/disease/MONDO_0019402) | Disease and target context, including HBB. |
 | Chemistry | [ChEMBL hydroxyurea CHEMBL467](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL467) | Small-molecule reference for a known fetal hemoglobin inducer. |
+| Chemistry | [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md) | Internal benchmark map requiring molecule or batch identity before HbF screening. |
+| Chemistry | [PubChem hydroxyurea snapshot](../../../data/chemistry/pubchem/2026-04-27-hydroxyurea-properties.json) | Reproducible compound-property snapshot for the positive HbF comparator. |
+| Chemistry | [PubChem decitabine snapshot](../../../data/chemistry/pubchem/2026-04-27-decitabine-properties.json) | Reproducible compound-property snapshot for the `DNMT1` proof-of-biology comparator. |
+| Chemistry | [PubChem sirolimus snapshot](../../../data/chemistry/pubchem/2026-04-27-sirolimus-properties.json) | Reproducible compound-property snapshot for the mTOR/autophagy comparator. |
+| Chemistry | [PubChem curcumin snapshot](../../../data/chemistry/pubchem/2026-04-27-curcumin-properties.json) | Reproducible compound-property snapshot for the natural-product-adjacent comparator. |
+| Chemistry | [ChEMBL hydroxyurea snapshot](../../../data/chemistry/chembl/2026-04-27-hydroxyurea-search.json) | ChEMBL molecule search snapshot for hydroxyurea, including approval and warning metadata. |
+| Chemistry | [ChEMBL decitabine snapshot](../../../data/chemistry/chembl/2026-04-27-decitabine-search.json) | ChEMBL molecule search snapshot for decitabine, including approval and route metadata. |
+| Chemistry | [ChEMBL rapamycin search snapshot for sirolimus](../../../data/chemistry/chembl/2026-04-27-rapamycin-search.json) | ChEMBL molecule search snapshot resolving sirolimus as `CHEMBL413` through the rapamycin synonym. |
+| Chemistry | [ChEMBL sirolimus search snapshot](../../../data/chemistry/chembl/2026-04-27-sirolimus-search.json) | ChEMBL molecule search snapshot kept as a noisy search record, not a clean identity assertion. |
+| Chemistry | [ChEMBL sirolimus rapamycin search snapshot](../../../data/chemistry/chembl/2026-04-27-sirolimus-rapamycin-search.json) | ChEMBL molecule search snapshot confirming the rapamycin synonym query resolves to sirolimus. |
+| Chemistry | [ChEMBL curcumin snapshot](../../../data/chemistry/chembl/2026-04-27-curcumin-search.json) | ChEMBL molecule search snapshot for curcumin as a natural-product-adjacent comparator. |
 | Hypothesis process | [Hypothesis card template](../../../templates/hypothesis-card-template.md) | Internal gate for keeping therapy ideas auditable. |
 | Islamic | [Quran 16:68-69, Quran.com](https://quran.com/16/68-69) | Initial Quranic anchor for bee and healing research. |
 | Islamic tafsir | [Quran.com Tafsir Ibn Kathir for 16:68](https://quran.com/en/16:68/tafsirs/ar-tafsir-ibn-kathir) | First tafsir intake for the bee/healing anchor. |

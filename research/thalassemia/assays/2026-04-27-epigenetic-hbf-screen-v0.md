@@ -16,6 +16,7 @@ This plan is for qualified lab partners. It is not a patient treatment plan.
 Each candidate must be identified before testing:
 
 - exact compound, fraction, or extract name;
+- `CID`, `ChEMBL ID`, or equivalent identity record when available;
 - source, supplier, and batch;
 - purity or standardization marker;
 - solvent and storage condition;
@@ -43,6 +44,10 @@ Use controls to prevent self-deception:
 - positive HbF comparator: hydroxyurea or another lab-accepted HbF inducer;
 - high-caution epigenetic comparator: decitabine or an approved reference only
   under qualified supervision;
+- repurposing comparator: sirolimus only when the assay question includes
+  mTOR/autophagy or gamma-globin pilot-trial context;
+- natural-product-adjacent comparator: curcumin or a defined curcuminoid
+  analog only when chemistry identity and dose-response are traceable;
 - negative control: vehicle;
 - safety reject comparator: known hemolytic or cytotoxic condition.
 
@@ -83,6 +88,7 @@ Every completed run should produce:
 ## Sources
 
 - [Epigenetic HbF target drilldown](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md)
+- [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)

@@ -43,6 +43,21 @@ The filter is whether it can be identified and tested against thalassemia
 endpoints: `HBG1/HBG2`, HbF protein, globin balance, red-cell hemolysis,
 erythroid maturation, iron burden, inflammation, and liver/cardiac safety.
 
+## Fit With Current Plant-Derived HbF Leads
+
+The current plant-derived HbF seeds, `T-BDMC`, `isocoronarin D`, and
+`3,4'-Di-O-methylquercetin`, did not enter the project because their exact
+plants are named in the Quran. They entered because scientific sources connect
+defined molecules to gamma-globin or HbF-adjacent endpoints.
+
+This distinction protects the Islamic lane:
+
+- Quranic natural-world verses can widen curiosity beyond honey and bees;
+- specific compound ranking must come from source-backed biomedical evidence;
+- a plant-derived molecule is not more truthful because it feels "natural";
+- a candidate becomes stronger only when identity, safety, mechanism, and
+  reproducibility improve.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -60,5 +75,6 @@ when safety is plausible.
 - [Quran 24:35](https://quran.com/24/35)
 - [Quran 36:33-35](https://quran.com/36/33-35)
 - [Quran 56:68-70](https://quran.com/56/68-70)
+- [Natural-product HbF expansion map](../../thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

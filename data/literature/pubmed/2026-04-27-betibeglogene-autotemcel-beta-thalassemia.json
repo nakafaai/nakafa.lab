@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "betibeglogene autotemcel transfusion-dependent beta-thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34891223"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2113206"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "34891223",
+      "pubdate": "2022 Feb 3",
+      "title": "Betibeglogene Autotemcel Gene Therapy for Non-\u03b2(0)/\u03b2(0) Genotype \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39527960"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(24)01884-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(24)01884-1"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "39527960",
+      "pubdate": "2024 Nov 30",
+      "title": "Betibeglogene autotemcel gene therapy in patients with transfusion-dependent, severe genotype \u03b2-thalassaemia (HGB-212): a non-randomised, multicentre, single-arm, open-label, single-dose, phase 3 trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37876093"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.47391/JPMA.9532"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "9532/2685"
+        }
+      ],
+      "journal": "J Pak Med Assoc",
+      "pmid": "37876093",
+      "pubdate": "2023 Oct",
+      "title": "Betibeglogene Autotemcel; A New Hope For Transfusion Dependent Beta-Thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34178295"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8205006"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8205006;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/20016689.2021.1922028"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1922028"
+        }
+      ],
+      "journal": "J Mark Access Health Policy",
+      "pmid": "34178295",
+      "pubdate": "2021 Jun 7",
+      "title": "Economic evaluation of betibeglogene autotemcel (Beti-cel) gene addition therapy in transfusion-dependent \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36282936"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10372978"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10372978;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18553/jmcp.2022.28.11.1316"
+        }
+      ],
+      "journal": "J Manag Care Spec Pharm",
+      "pmid": "36282936",
+      "pubdate": "2022 Nov",
+      "title": "The effectiveness and value of betibeglogene autotemcel for the management of transfusion-dependent beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41525466"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2025029196"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "565977"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "41525466",
+      "pubdate": "2026 Jan 12",
+      "title": "Long-term efficacy and safety results of betibeglogene autotemcel gene therapy for transfusion-dependent \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34957544"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/bjh.17965"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "34957544",
+      "pubdate": "2022 Mar",
+      "title": "Case study of betibeglogene autotemcel gene therapy in an adult Greek patient with transfusion-dependent \u03b2-thalassaemia of a severe genotype."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38074412"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10709156"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10709156;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.omtm.2023.101155"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2329-0501(23)00194-8"
+        }
+      ],
+      "journal": "Mol Ther Methods Clin Dev",
+      "pmid": "38074412",
+      "pubdate": "2023 Dec 14",
+      "title": "Drug product attributes predict clinical efficacy in betibeglogene autotemcel gene therapy for \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39418614"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11732601"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11732601;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2024014104"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "518216"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "39418614",
+      "pubdate": "2025 Jan 14",
+      "title": "Gene therapy in transfusion-dependent non-\u03b20/\u03b20 genotype \u03b2-thalassemia: first real-world experience of beti-cel."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34493145"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/17474086.2021.1977116"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "34493145",
+      "pubdate": "2021 Oct",
+      "title": "Improving outcomes and quality of life for patients with transfusion-dependent \u03b2-thalassemia: recommendations for best clinical practice and the use of novel treatment strategies."
+    }
+  ]
+}

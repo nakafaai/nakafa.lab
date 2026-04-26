@@ -1,0 +1,236 @@
+{
+  "count": 10,
+  "query": "exagamglogene autotemcel transfusion-dependent beta-thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38657265"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2309673"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "38657265",
+      "pubdate": "2024 May 9",
+      "title": "Exagamglogene Autotemcel for Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38425279"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10913280"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10913280;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12659/MSM.944204"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "944204"
+        }
+      ],
+      "journal": "Med Sci Monit",
+      "pmid": "38425279",
+      "pubdate": "2024 Mar 1",
+      "title": "Editorial: First Regulatory Approvals for CRISPR-Cas9 Therapeutic Gene Editing for Sickle Cell Disease and Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39222044"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/14712598.2024.2399134"
+        }
+      ],
+      "journal": "Expert Opin Biol Ther",
+      "pmid": "39222044",
+      "pubdate": "2024 Sep",
+      "title": "An evaluation of exagamglogene autotemcel for the treatment of sickle cell disease and transfusion-dependent beta-thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK610907"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39812567"
+        }
+      ],
+      "journal": "",
+      "pmid": "39812567",
+      "pubdate": "2024 Sep 11",
+      "title": ""
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40862696"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12757516"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12757516;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2025016702"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "546757"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "40862696",
+      "pubdate": "2025 Dec 23",
+      "title": "Improvements in health-related quality of life in patients with transfusion-dependent \u03b2-thalassemia after exagamglogene autotemcel."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK616628"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40758800"
+        }
+      ],
+      "journal": "",
+      "pmid": "40758800",
+      "pubdate": "2025 Jun",
+      "title": ""
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38228954"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s40291-024-00696-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s40291-024-00696-z"
+        }
+      ],
+      "journal": "Mol Diagn Ther",
+      "pmid": "38228954",
+      "pubdate": "2024 Mar",
+      "title": "Exagamglogene Autotemcel: First Approval."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK612160"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39977564"
+        }
+      ],
+      "journal": "",
+      "pmid": "39977564",
+      "pubdate": "2025 Jan",
+      "title": ""
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41955126"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/13696998.2026.2649528"
+        }
+      ],
+      "journal": "J Med Econ",
+      "pmid": "41955126",
+      "pubdate": "2026 Dec",
+      "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in patients with transfusion-dependent \u03b2-thalassemia in the United States."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39194702"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11352399"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11352399;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cimb46080485"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cimb46080485"
+        }
+      ],
+      "journal": "Curr Issues Mol Biol",
+      "pmid": "39194702",
+      "pubdate": "2024 Jul 30",
+      "title": "Regulatory Assessment of Casgevy for the Treatment of Transfusion-Dependent \u03b2-Thalassemia and Sickle Cell Disease with Recurrent Vaso-Occlusive Crises."
+    }
+  ]
+}

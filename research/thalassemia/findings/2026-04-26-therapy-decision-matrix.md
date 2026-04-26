@@ -18,8 +18,8 @@ organ status, immune status, access, and cost.
 | Luspatercept | Reduce transfusion burden | Adult beta-thalassemia requiring regular transfusion | Cost, access, response variability, not cure |
 | Mitapivat | Improve anemia via red-cell metabolism | Adults with alpha- or beta-thalassemia anemia | Liver monitoring, REMS, drug interactions, access |
 | HSCT | Potential cure | Suitable donor and acceptable transplant risk | Donor, conditioning toxicity, infection, GVHD, cost |
-| Zynteglo | Autologous gene addition | Beta-thalassemia requiring regular transfusion | Infrastructure, price, conditioning, eligibility |
-| Casgevy | CRISPR HbF reactivation | TDT beta-thalassemia age 12+ in approved settings | Infrastructure, price, conditioning, long-term follow-up |
+| Zynteglo | Autologous gene addition | Beta-thalassemia requiring regular transfusion | Infrastructure, conditioning, individualized manufacturing, eligibility |
+| Casgevy | CRISPR HbF reactivation | TDT beta-thalassemia age 12+ in approved settings | Infrastructure, conditioning, individualized manufacturing, long-term follow-up |
 
 ## Data Needed Before Applying Matrix To A Patient
 
@@ -40,6 +40,11 @@ Nakafa Lab should prioritize two parallel paths:
 2. Discovery path: search for cheaper interventions only where mechanism and
    endpoints are clear.
 
+The gene-therapy access frontier deep dive makes the discovery benchmark more
+specific: a low-cost candidate must be judged against the biology that current
+cell therapies already validate, especially HbF reactivation and durable
+erythroid correction.
+
 ## Sources
 
 - [TIF 2025 TDT guideline](https://www.ncbi.nlm.nih.gov/books/NBK614251/)
@@ -49,3 +54,4 @@ Nakafa Lab should prioritize two parallel paths:
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [Gene therapy access frontier note](./2026-04-27-gene-therapy-access-frontier.md)

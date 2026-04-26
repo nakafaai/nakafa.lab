@@ -44,6 +44,19 @@ therapies have been fully reviewed.
   12 years and older. It requires autologous stem-cell collection, genome
   editing, myeloablative conditioning, and specialist infrastructure.
 
+## Gene Therapy Access Frontier
+
+The 2026-04-27 deep dive reframes gene therapy as proof of cure biology, not as
+the affordable endpoint. Casgevy and Zynteglo validate hematopoietic stem-cell
+modification as a route to durable transfusion independence, but the practical
+barriers remain large: specialist centers, conditioning chemotherapy,
+individualized manufacturing, payer support, and long-term monitoring.
+
+For Nakafa Lab, this means affordable discovery should benchmark against the
+same biology rather than drift into vague antioxidant claims. A lower-cost
+candidate must show credible movement on HbF, globin balance, erythroid
+maturation, red-cell survival, or transfusion burden.
+
 ## Practical Research Gaps
 
 - Indonesia access: which therapies are approved, reimbursed, imported, or
@@ -73,3 +86,4 @@ therapies have been fully reviewed.
 - [FDA Reblozyl approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia)
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [Gene therapy access frontier note](./2026-04-27-gene-therapy-access-frontier.md)

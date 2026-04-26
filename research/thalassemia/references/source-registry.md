@@ -18,9 +18,14 @@ Checked on 2026-04-26 unless noted.
 | Drug label | [Aqvesme FDA label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf) | Safety, liver monitoring, REMS, and drug-interaction constraints for mitapivat. |
 | Drug | [Mitapivat ENERGIZE trial, PubMed PMID 40544857](https://pubmed.ncbi.nlm.nih.gov/40544857/) | Phase 3 evidence in non-transfusion-dependent alpha- or beta-thalassemia. |
 | Gene therapy | [Zynteglo FDA product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo) | FDA-regulated gene therapy reference. |
+| Gene therapy | [Betibeglogene autotemcel, PubMed PMID 34891223](https://pubmed.ncbi.nlm.nih.gov/34891223/) | Clinical evidence for lentiviral beta-globin gene addition in beta-thalassemia. |
 | Gene therapy | [Betibeglogene autotemcel value summary, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10372978/) | Evidence and cost-effectiveness uncertainty for lentiviral beta-globin gene addition. |
 | Gene editing | [Casgevy FDA product page](https://www.fda.gov/vaccines-blood-biologics/casgevy) | FDA-regulated CRISPR cell therapy reference. |
 | Gene editing | [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/) | Clinical evidence for CRISPR-edited autologous cells in TDT. |
+| Gene editing | [NICE exagamglogene autotemcel appraisal](https://www.ncbi.nlm.nih.gov/books/NBK610907/) | Managed-access recommendation, access limitations, and cost-effectiveness uncertainty. |
+| Gene therapy | [Gene-therapy PubMed exa-cel snapshot](../../../data/literature/pubmed/2026-04-27-exagamglogene-autotemcel-beta-thalassemia.json) | Reproducible PubMed query snapshot for exa-cel in beta-thalassemia. |
+| Gene therapy | [Gene-therapy PubMed beti-cel snapshot](../../../data/literature/pubmed/2026-04-27-betibeglogene-autotemcel-beta-thalassemia.json) | Reproducible PubMed query snapshot for beti-cel in beta-thalassemia. |
+| Trials | [Gene therapy ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json) | Reproducible registry snapshot for beta-thalassemia gene-therapy studies. |
 | Cure strategy | [Gene therapy and gene editing for beta-thalassemia, PubMed PMID 36907613](https://pubmed.ncbi.nlm.nih.gov/36907613/) | Review of lentiviral gene addition and genome editing cure strategies. |
 | Cure strategy | [TIF 2025 HSCT chapter](https://www.ncbi.nlm.nih.gov/books/NBK614242/) | Curative transplant baseline and risk context. |
 | HbF target | [BCL11A tetramer and HbF silencing, PubMed PMID 39607926](https://pubmed.ncbi.nlm.nih.gov/39607926/) | Mechanistic update for BCL11A as a fetal hemoglobin silencer. |

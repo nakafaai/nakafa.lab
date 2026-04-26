@@ -1,0 +1,231 @@
+{
+  "count": 10,
+  "query": "melittin erythrocyte hemolysis red blood cell membrane",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4057243"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF01870697"
+        }
+      ],
+      "journal": "J Membr Biol",
+      "pmid": "4057243",
+      "pubdate": "1985",
+      "title": "Melittin lysis of red cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40977356"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12591385"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12591385;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.jpcb.5c04289"
+        }
+      ],
+      "journal": "J Phys Chem B",
+      "pmid": "40977356",
+      "pubdate": "2025 Oct 2",
+      "title": "Elucidating the Impact of Red Blood Cell Membrane Components on Melittin-Induced Pore Formation with Molecular Dynamics Simulations."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2450585"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0005-2736(88)90047-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0005-2736(88)90047-8"
+        }
+      ],
+      "journal": "Biochim Biophys Acta",
+      "pmid": "2450585",
+      "pubdate": "1988 Mar 22",
+      "title": "Action mechanism of amphipathic peptides gramicidin S and melittin on erythrocyte membrane."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2844157"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1149216"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1149216;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1042/bj2520791"
+        }
+      ],
+      "journal": "Biochem J",
+      "pmid": "2844157",
+      "pubdate": "1988 Jun 15",
+      "title": "Comparison of p25 presequence peptide and melittin. Red blood cell haemolysis and band 3 aggregation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32203634"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/anie.202002782"
+        }
+      ],
+      "journal": "Angew Chem Int Ed Engl",
+      "pmid": "32203634",
+      "pubdate": "2020 Jun 22",
+      "title": "A Biomimetic Nanoparticle to \"Lure and Kill\" Phospholipase\u2005A2."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20695504"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/bi100729m"
+        }
+      ],
+      "journal": "Biochemistry",
+      "pmid": "20695504",
+      "pubdate": "2010 Sep 14",
+      "title": "Cell-selective lysis by novel analogues of melittin against human red blood cells and Escherichia coli."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6468341"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF00253854"
+        }
+      ],
+      "journal": "Eur Biophys J",
+      "pmid": "6468341",
+      "pubdate": "1984",
+      "title": "The influence of melittin on the rotation of band 3 protein in the human erythrocyte membrane."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7681691"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/bi00064a039"
+        }
+      ],
+      "journal": "Biochemistry",
+      "pmid": "7681691",
+      "pubdate": "1993 Apr 6",
+      "title": "Structure-immunogenicity relationship of melittin and its N-terminal truncated analogs."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2334727"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0005-2736(90)90124-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0005-2736(90)90124-7"
+        }
+      ],
+      "journal": "Biochim Biophys Acta",
+      "pmid": "2334727",
+      "pubdate": "1990 Apr 30",
+      "title": "Electron microscopic observation of the aggregation of membrane proteins in human erythrocyte by melittin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36984668"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10056742"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10056742;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/membranes13030281"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "membranes13030281"
+        }
+      ],
+      "journal": "Membranes (Basel)",
+      "pmid": "36984668",
+      "pubdate": "2023 Feb 27",
+      "title": "Erythrocyte Membrane Biophysical Changes Mediated by Pooled Immunoglobulin G and Hematin: Electrokinetic and Lipid Peroxidation Studies."
+    }
+  ]
+}

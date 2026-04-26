@@ -1,0 +1,291 @@
+{
+  "count": 10,
+  "query": "bee venom therapy adverse events systematic review",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32872552"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7551670"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7551670;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/toxins12090558"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "toxins12090558"
+        }
+      ],
+      "journal": "Toxins (Basel)",
+      "pmid": "32872552",
+      "pubdate": "2020 Aug 29",
+      "title": "Clinical Effectiveness and Adverse Events of Bee Venom Therapy: A Systematic Review of Randomized Controlled Trials."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28748641"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/all.13262"
+        }
+      ],
+      "journal": "Allergy",
+      "pmid": "28748641",
+      "pubdate": "2018 Apr",
+      "title": "EAACI guidelines on allergen immunotherapy: Hymenoptera venom allergy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25996493"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4440710"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4440710;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0126971"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-14-41579"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "25996493",
+      "pubdate": "2015",
+      "title": "Risk associated with bee venom therapy: a systematic review and meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35288390"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8921846"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8921846;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmjopen-2021-056545"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmjopen-2021-056545"
+        }
+      ],
+      "journal": "BMJ Open",
+      "pmid": "35288390",
+      "pubdate": "2022 Mar 14",
+      "title": "Effectiveness and safety of bee venom pharmacopuncture for rheumatoid arthritis: a systematic review protocol."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30046336"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6036809"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6036809;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2018/3671542"
+        }
+      ],
+      "journal": "Evid Based Complement Alternat Med",
+      "pmid": "30046336",
+      "pubdate": "2018",
+      "title": "Pharmacoacupuncture for Idiopathic Parkinson's Disease: A Systematic Review of Randomized Controlled Trials."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25597924"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS693862"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4486007"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4486007;manuscript-id: NIHMS693862;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/14651858.CD009436.pub2"
+        }
+      ],
+      "journal": "Cochrane Database Syst Rev",
+      "pmid": "25597924",
+      "pubdate": "2015 Jan 19",
+      "title": "Complementary therapies for acne vulgaris."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23076950"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8734599"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8734599;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/14651858.CD008838.pub2"
+        }
+      ],
+      "journal": "Cochrane Database Syst Rev",
+      "pmid": "23076950",
+      "pubdate": "2012 Oct 17",
+      "title": "Venom immunotherapy for preventing allergic reactions to insect stings."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32891270"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ctcp.2020.101179"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1744-3881(19)30769-8"
+        }
+      ],
+      "journal": "Complement Ther Clin Pract",
+      "pmid": "32891270",
+      "pubdate": "2020 Aug",
+      "title": "Pharmacopuncture for stroke survivors: A systematic review of randomized controlled trials in South Korea."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33080696"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7572005"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7572005;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MD.0000000000022611"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00005792-202010160-00029"
+        }
+      ],
+      "journal": "Medicine (Baltimore)",
+      "pmid": "33080696",
+      "pubdate": "2020 Oct 16",
+      "title": "Nonpharmacological therapies for central poststroke pain: A systematic review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41071287"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00204-025-04218-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00204-025-04218-6"
+        }
+      ],
+      "journal": "Arch Toxicol",
+      "pmid": "41071287",
+      "pubdate": "2026 Feb",
+      "title": "Pharmacovigilance and toxicological risks associated with apitherapeutic products: a systematic overview."
+    }
+  ]
+}

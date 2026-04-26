@@ -21,13 +21,14 @@ Nakafa Lab should deepen hydroxyurea first because it is the most realistic
 affordable comparator. Any bee-derived candidate must beat the minimum bar:
 identity, safety, hemolysis screen, and HbF/erythroid endpoint.
 
-The first five deep-dive files are now:
+The first six deep-dive files are now:
 
 - `research/thalassemia/findings/2026-04-26-hydroxyurea-deep-dive.md`
 - `research/thalassemia/findings/2026-04-26-sirolimus-deep-dive.md`
 - `research/thalassemia/findings/2026-04-26-thalidomide-class-deep-dive.md`
 - `research/thalassemia/findings/2026-04-26-propolis-red-cell-deep-dive.md`
 - `research/thalassemia/findings/2026-04-27-royal-jelly-oxidative-stress-deep-dive.md`
+- `research/thalassemia/findings/2026-04-27-melittin-bee-venom-hazard-deep-dive.md`
 
 ## Not A Recommendation
 

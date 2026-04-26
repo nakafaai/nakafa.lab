@@ -22,7 +22,7 @@ lane for mechanism discovery and assay validation.
 | `avadomide` | PubChem `CID 24967599`; ChEMBL `CHEMBL3989934`; ChEMBL max phase `2` | thalidomide/pomalidomide analog; cereblon/IKZF/BCL11A-adjacent repression biology | strongest mechanistic comparator, but high caution because it sits near thalidomide-class pharmacology |
 | `autophinib` | PubChem `CID 129626605`; ChEMBL `CHEMBL4639853` | VPS34/autophagy inhibition | target-discovery lead, not an access-ready therapy idea |
 | `triciribine` | PubChem `CID 65399`; ChEMBL `CHEMBL331237`; phosphate form PubChem `CID 43860`, ChEMBL `CHEMBL462018` | AKT/DNA-synthesis inhibitor context | high-caution oncology-like signaling/cytotoxicity lane |
-| `R574` | ChEMBL text search returned no clean molecule hit | CDK1/2/4 ATP-competitive inhibitor in source context | unresolved identity; hold until exact structure or supplier identity is found |
+| `R574` / probable `R547` | `R574` text search returned no clean ChEMBL hit; source citation and CDK1/2/4 mechanism resolve to `R547` / ChEMBL `CHEMBL384304` / PubChem `CID 6918852` | CDK1/2/4 ATP-competitive inhibitor in source context | label discrepancy; use `R547` for chemistry lookup, keep high-caution benchmark status |
 
 ## Assay Evidence From The Source
 
@@ -52,7 +52,8 @@ Priority use:
    biology, with thalidomide-class caution;
 3. keep autophinib and triciribine as pathway probes until erythroid toxicity
    and disease-cell relevance are clearer;
-4. keep `R574` on hold until identity is resolved.
+4. track `R574` as probable `R547`, but do not treat the label discrepancy as
+   fully closed until the exact screening-library record is recovered.
 
 ## Sources
 
@@ -68,4 +69,5 @@ Priority use:
 - [Triciribine phosphate PubChem snapshot](../../../data/chemistry/pubchem/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-properties.json)
 - [Triciribine phosphate ChEMBL molecule snapshot](../../../data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-chembl462018.json)
 - [R574 ChEMBL unresolved search snapshot](../../../data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r574-search.json)
+- [R574 / R547 label resolution](2026-04-27-r574-r547-label-resolution.md)
 - [K562 to HUDEP2 validation guardrail](2026-04-27-k562-to-hudep2-validation-guardrail.md)

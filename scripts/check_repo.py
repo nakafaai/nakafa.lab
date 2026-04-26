@@ -107,6 +107,15 @@ HBF_REPORTER_GUARDRAIL_PATHS = [
     "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-chembl462018.json",
     "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-triciribine-phosphate-chembl-activities.json",
     "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r574-search.json",
+    "data/chemistry/pubchem/hudep2-hbf-hits/2026-04-27-r547-properties.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r547-search.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r547-chembl384304.json",
+    "data/chemistry/chembl/hudep2-hbf-hits/2026-04-27-r547-chembl-activities.json",
+    "data/literature/pubmed/2026-04-27-r547-cdk-inhibitor-esummary.json",
+    "data/literature/pubmed/2026-04-27-r547-cdk-inhibitor-abstract.xml",
+    "data/literature/supplementary/plos/2026-04-27-yang-2024-fig4-lead-hit-drugs-s003.xlsx",
+    "data/literature/supplementary/plos/2026-04-27-yang-2024-fig5-cd34-s004.xlsx",
+    "data/literature/supplementary/plos/2026-04-27-yang-2024-fig6-western-s005.xlsx",
 ]
 
 REQUIRED_PATHS = [
@@ -199,6 +208,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",
     "research/thalassemia/findings/2026-04-27-hudep2-small-molecule-hit-map.md",
+    "research/thalassemia/findings/2026-04-27-r574-r547-label-resolution.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

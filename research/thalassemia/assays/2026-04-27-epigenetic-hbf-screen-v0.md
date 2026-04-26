@@ -109,7 +109,7 @@ cells?"
 | `avadomide` | mechanistic comparator for `BCL11A`/`IKZF`-adjacent HbF induction | thalidomide-class neighborhood; not an access shortcut |
 | `autophinib` | VPS34/autophagy pathway probe | pathway toxicity and erythroid maturation risk must be checked |
 | `triciribine` | AKT/DNA-synthesis inhibitor comparator | cytotoxicity and oncology-like mechanism caution |
-| `R574` | possible CDK1/2/4 inhibitor benchmark | hold until exact identity is resolved |
+| `R574` / probable `R547` | CDK1/2/4 inhibitor benchmark | use `R547` for chemistry lookup, but keep the source-label discrepancy visible |
 
 These hits help validate the assay ladder. They should not displace affordable
 candidate discovery unless they show a realistic safety and access path.

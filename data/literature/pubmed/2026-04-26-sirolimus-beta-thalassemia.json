@@ -1,0 +1,265 @@
+{
+  "count": 8,
+  "query": "sirolimus beta thalassemia fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36110836"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12688/wellcomeopenres.17845.3"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9453112"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9453112;"
+        },
+        {
+          "idtype": "version",
+          "idtypen": 8,
+          "value": "3"
+        },
+        {
+          "idtype": "version-id",
+          "idtypen": 8,
+          "value": "3"
+        }
+      ],
+      "journal": "Wellcome Open Res",
+      "pmid": "36110836",
+      "pubdate": "2022",
+      "title": "A Rational Approach to Drug Repositioning in \u03b2-thalassemia: Induction of Fetal Hemoglobin by Established Drugs."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36292612"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9601852"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9601852;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/genes13101727"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "genes13101727"
+        }
+      ],
+      "journal": "Genes (Basel)",
+      "pmid": "36292612",
+      "pubdate": "2022 Sep 26",
+      "title": "Co-Treatment of Erythroid Cells from \u03b2-Thalassemia Patients with CRISPR-Cas9-Based \u03b2(0)39-Globin Gene Editing and Induction of Fetal Hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38731008"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11084795"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11084795;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm13092479"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm13092479"
+        }
+      ],
+      "journal": "J Clin Med",
+      "pmid": "38731008",
+      "pubdate": "2024 Apr 24",
+      "title": "Increased Expression of \u03b1-Hemoglobin Stabilizing Protein (AHSP) mRNA in Erythroid Precursor Cells Isolated from \u03b2-Thalassemia Patients Treated with Sirolimus (Rapamycin)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34948226"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8706579"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8706579;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms222413433"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms222413433"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "34948226",
+      "pubdate": "2021 Dec 14",
+      "title": "Treatment of Erythroid Precursor Cells from \u03b2-Thalassemia Patients with Cinchona Alkaloids: Induction of Fetal Hemoglobin Production."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35755297"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9218916"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9218916;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/20406207221100648"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1177_20406207221100648"
+        }
+      ],
+      "journal": "Ther Adv Hematol",
+      "pmid": "35755297",
+      "pubdate": "2022",
+      "title": "Expression of \u03b3-globin genes in \u03b2-thalassemia patients treated with sirolimus: results from a pilot clinical trial (Sirthalaclin)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37894732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10606773"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10606773;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms242015049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms242015049"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "37894732",
+      "pubdate": "2023 Oct 10",
+      "title": "Decrease in \u03b1-Globin and Increase in the Autophagy-Activating Kinase ULK1 mRNA in Erythroid Precursors from \u03b2-Thalassemia Patients Treated with Sirolimus."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37489374"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10366771"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10366771;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/hematolrep15030044"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "hematolrep15030044"
+        }
+      ],
+      "journal": "Hematol Rep",
+      "pmid": "37489374",
+      "pubdate": "2023 Jul 12",
+      "title": "Effects of Sirolimus Treatment on Fetal Hemoglobin Production and Response to SARS-CoV-2 Vaccination: A Case Report Study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35059731"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3892/ijmm.2022.5088"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "33"
+        }
+      ],
+      "journal": "Int J Mol Med",
+      "pmid": "35059731",
+      "pubdate": "2022 Mar",
+      "title": "Possible effects of sirolimus treatment on the long\u2011term efficacy of COVID\u201119 vaccination in patients with \u03b2\u2011thalassemia: A theoretical perspective."
+    }
+  ]
+}

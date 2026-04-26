@@ -1,0 +1,75 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia+sirolimus&pageSize=10&countTotal=true",
+  "studies": [
+    {
+      "countries": [
+        "Italy"
+      ],
+      "interventions": [
+        "Sirolimus 0.5 mg"
+      ],
+      "last_update": "2024-01-23",
+      "nct_id": "NCT03877809",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "title": "Testing SIROLIMUS in Beta-thalassemia Transfusion Dependent Patients"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Peripheral blood hematopoietic progenitor cell (PBPC) transplant",
+        "Alemtuzumab",
+        "Peripheral blood hematopoietic progenitor cell Apheresis",
+        "Sirolimus"
+      ],
+      "last_update": "2024-02-29",
+      "nct_id": "NCT00061568",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "UNKNOWN",
+      "title": "Improving the Results of Bone Marrow Transplantation for Patients With Severe Congenital Anemias"
+    },
+    {
+      "countries": [
+        "Italy"
+      ],
+      "interventions": [
+        "Sirolimus 0.5 mg"
+      ],
+      "last_update": "2021-11-12",
+      "nct_id": "NCT04247750",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "UNKNOWN",
+      "title": "Testing SIROLIMUS in Beta-thalassemia Transfusion Dependent Patients (THALA-RAP)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "PBSC Transplant",
+        "Alemtuzumab",
+        "Sirolimus",
+        "Cyclophosphamide",
+        "Low Dose Irradiation"
+      ],
+      "last_update": "2026-04-23",
+      "nct_id": "NCT00977691",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Haploidentical PBMC Transplant for Severe Congenital Anemias"
+    }
+  ],
+  "total_count": 4
+}

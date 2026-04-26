@@ -48,6 +48,10 @@ Checked on 2026-04-26 unless noted.
 | HbF drugs | [Thalidomide non-randomized TDT trial, PubMed PMID 40446669](https://pubmed.ncbi.nlm.nih.gov/40446669/) | Longer follow-up thalidomide signal and gene-expression context. |
 | HbF drugs | [Sirthalaclin sirolimus pilot trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218916/) | Pilot sirolimus trial for gamma-globin expression in beta-thalassemia. |
 | HbF drugs | [ClinicalTrials.gov NCT03877809](https://clinicaltrials.gov/study/NCT03877809) | Trial registry record for sirolimus in transfusion-dependent beta-thalassemia. |
+| HbF drugs | [Sirolimus PubMed snapshot](../../../data/literature/pubmed/2026-04-26-sirolimus-beta-thalassemia.json) | Reproducible PubMed query snapshot for sirolimus, HbF, and beta-thalassemia. |
+| Trials | [Sirolimus ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-26-sirolimus-beta-thalassemia.json) | Reproducible registry snapshot for sirolimus-related thalassemia trials. |
+| Mechanism | [AHSP sirolimus study, PubMed PMID 38731008](https://pubmed.ncbi.nlm.nih.gov/38731008/) | Mechanistic follow-up on alpha-hemoglobin stabilizing protein in sirolimus-treated erythroid precursors. |
+| Mechanism | [ULK1/autophagy sirolimus study, PubMed PMID 37894732](https://pubmed.ncbi.nlm.nih.gov/37894732/) | Mechanistic follow-up on alpha-globin reduction and autophagy endpoints. |
 | Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |

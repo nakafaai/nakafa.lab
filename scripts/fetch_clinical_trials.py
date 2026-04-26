@@ -2,9 +2,9 @@
 
 import argparse
 import json
-from pathlib import Path
-from urllib.parse import urlencode
-from urllib.request import urlopen
+import pathlib
+import urllib.parse
+import urllib.request
 
 
 BASE_URL = "https://clinicaltrials.gov/api/v2/studies"
@@ -41,7 +41,7 @@ def build_url(args: argparse.Namespace) -> str:
     if not args.all_statuses:
         params["filter.overallStatus"] = "RECRUITING,NOT_YET_RECRUITING"
 
-    return f"{BASE_URL}?{urlencode(params)}"
+    return f"{BASE_URL}?{urllib.parse.urlencode(params)}"
 
 
 def summarize_study(study: dict) -> dict:
@@ -79,7 +79,7 @@ def main() -> int:
     args = parse_args()
     url = build_url(args)
 
-    with urlopen(url, timeout=30) as response:
+    with urllib.request.urlopen(url, timeout=30) as response:
         payload = json.load(response)
 
     snapshot = {
@@ -91,7 +91,7 @@ def main() -> int:
     content = json.dumps(snapshot, indent=2, sort_keys=True)
 
     if args.output:
-        Path(args.output).write_text(f"{content}\n", encoding="utf-8")
+        pathlib.Path(args.output).write_text(f"{content}\n", encoding="utf-8")
         return 0
 
     print(content)

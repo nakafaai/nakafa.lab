@@ -1,6 +1,6 @@
 """Validate the required Nakafa Lab scaffold files."""
 
-from pathlib import Path
+import pathlib
 
 
 REQUIRED_PATHS = [
@@ -44,7 +44,7 @@ REQUIRED_PATHS = [
 
 def main() -> int:
     """Check that required repository files exist."""
-    missing = [path for path in REQUIRED_PATHS if not Path(path).exists()]
+    missing = [path for path in REQUIRED_PATHS if not pathlib.Path(path).exists()]
 
     if missing:
         print("Missing required repo files:")

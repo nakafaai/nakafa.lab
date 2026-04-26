@@ -70,5 +70,11 @@ Checked on 2026-04-26 unless noted.
 | Indonesia | [East Java beta-thalassemia mutations, PubMed PMID 35911837](https://pubmed.ncbi.nlm.nih.gov/35911837/) | Indonesia-specific genotype heterogeneity, including HbE/beta-thalassemia. |
 | Islamic | [Quran 2:155, Quran.com](https://quran.com/2/155) | Anchor for illness and hardship as tests, not proof of punishment for a specific patient. |
 | Islamic | [Quran 21:83-84, Quran.com](https://quran.com/21/83-84) | Anchor for Ayyub, distress, patience, and mercy. |
+| Islamic | [Quran 9:14, Quran.com](https://quran.com/9/14) | Shifa root context: healing of hearts, not a molecule claim. |
+| Islamic | [Quran 10:57, Quran.com](https://quran.com/10/57) | Shifa root context: Quran as healing for what is in the breasts. |
+| Islamic | [Quran 17:82, Quran.com](https://quran.com/17/82) | Shifa root context: Quran as healing and mercy. |
+| Islamic | [Quran 26:80, Quran.com](https://quran.com/26/80) | Theology of cure: Allah heals when illness occurs. |
+| Islamic | [Quran 41:44, Quran.com](https://quran.com/41/44) | Shifa root context: guidance and healing for believers. |
+| Islamic tafsir | [QuranX tafsir collection for 26:80](https://quranx.com/tafsirs/26.80) | Tafsir intake for Ibrahim's statement about illness and healing. |
 | Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |
 | Islamic | [Sahih Muslim 2204, Sunnah.com](https://sunnah.com/muslim:2204) | Anchor hadith for treatment and remedy, with careful interpretation. |

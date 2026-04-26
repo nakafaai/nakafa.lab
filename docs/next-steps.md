@@ -20,7 +20,8 @@ current research cycle should answer:
 
 1. De-identified case context: collect diagnosis, transfusion records,
    chelation, ferritin trend, liver/cardiac MRI, antibody history, and the exact
-   autoimmune diagnosis.
+   autoimmune diagnosis. A first clinician-facing de-identified brief now exists
+   at `research/thalassemia/case-context/clinician-brief-case-001.md`.
 2. Clinical baseline: summarize transfusion, chelation, organ monitoring, and
    immune/transfusion complication standards, including antibody screen,
    direct antiglobulin test, crossmatch difficulty, and antigen matching.

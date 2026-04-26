@@ -66,5 +66,6 @@ Do not add identifying details to this file.
 
 ## Linked Notes
 
+- [Clinician review brief](clinician-brief-case-001.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)

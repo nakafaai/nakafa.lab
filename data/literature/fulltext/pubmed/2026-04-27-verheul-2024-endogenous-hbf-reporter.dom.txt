@@ -1,0 +1,334 @@
+- link "Skip to main page content":
+  - /url: "#article-details"
+- img "U.S. flag"
+- paragraph: An official website of the United States government
+- button "Here's how you know"
+- banner:
+  - link "NCBI Logo":
+    - /url: https://www.ncbi.nlm.nih.gov/
+    - img "NIH NLM Logo"
+  - link "Log in":
+    - /url: https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F39108322%2F
+- navigation "access keys":
+  - link "Access keys":
+    - /url: https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys
+  - link "NCBI Homepage":
+    - /url: https://www.ncbi.nlm.nih.gov
+  - link "MyNCBI Homepage":
+    - /url: /myncbi/
+  - link "Main Content":
+    - /url: "#maincontent"
+  - link "Main Navigation":
+    - /url: "#"
+- navigation "Main page content below"
+- search:
+  - link "Pubmed Logo":
+    - /url: /
+    - img "pubmed logo"
+  - link "Show search bar":
+    - /url: "#"
+  - link "Advanced":
+    - /url: /advanced/
+  - navigation "User guide":
+    - link "User Guide":
+      - /url: /help/
+- generic: "* * * *"
+- option "Title & authors" [selected]
+- option "Abstract"
+- option "Conflict of interest statement"
+- option "Figures"
+- option "References"
+- option "LinkOut - more resources"
+- main:
+  - button "Toggle dropdown menu for journal HemaSphere": Hemasphere
+  - text: .
+  - generic: 2024 Aug 6;8(8):e139.
+  - generic: "doi: 10.1002/hem3.139."
+  - generic: eCollection 2024 Aug.
+  - heading "A cellular reporter system to evaluate endogenous fetal hemoglobin induction and screen for therapeutic compounds" [level=1]
+  - link "Thijs C J Verheul":
+    - /url: /?term=Verheul+TCJ&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Nynke Gillemans":
+    - /url: /?term=Gillemans+N&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Kerstin Putzker":
+    - /url: /?term=Putzker+K&cauthor_id=39108322
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Rezin Majied":
+    - /url: /?term=Majied+R&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Tingyue Li":
+    - /url: /?term=Li+T&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Memnia Vasiliou":
+    - /url: /?term=Vasiliou+M&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Bert Eussen":
+    - /url: /?term=Eussen+B&cauthor_id=39108322
+  - superscript:
+    - link "3":
+      - /url: "#full-view-affiliation-3"
+  - text: ","
+  - link "Annelies de Klein":
+    - /url: /?term=de+Klein+A&cauthor_id=39108322
+  - superscript:
+    - link "3":
+      - /url: "#full-view-affiliation-3"
+  - text: ","
+  - link "Wilfred F J van IJcken":
+    - /url: /?term=van+IJcken+WFJ&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+    - link "4":
+      - /url: "#full-view-affiliation-4"
+  - text: ","
+  - link "Emile van den Akker":
+    - /url: /?term=van+den+Akker+E&cauthor_id=39108322
+  - superscript:
+    - link "5":
+      - /url: "#full-view-affiliation-5"
+  - text: ","
+  - link "Marieke von Lindern":
+    - /url: /?term=von+Lindern+M&cauthor_id=39108322
+  - superscript:
+    - link "5":
+      - /url: "#full-view-affiliation-5"
+  - text: ","
+  - link "Joe Lewis":
+    - /url: /?term=Lewis+J&cauthor_id=39108322
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+    - link "6":
+      - /url: "#full-view-affiliation-6"
+  - text: ","
+  - link "Ulrike Uhrig":
+    - /url: /?term=Uhrig+U&cauthor_id=39108322
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Yukio Nakamura":
+    - /url: /?term=Nakamura+Y&cauthor_id=39108322
+  - superscript:
+    - link "7":
+      - /url: "#full-view-affiliation-7"
+  - text: ","
+  - link "Thamar van Dijk":
+    - /url: /?term=van+Dijk+T&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Sjaak Philipsen":
+    - /url: /?term=Philipsen+S&cauthor_id=39108322
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: Affiliations
+  - button "Expand"
+  - list:
+    - text: "PMID:"
+    - strong: "39108322"
+    - text: "PMCID:"
+    - link "PMC11302795":
+      - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11302795/
+    - text: "DOI:"
+    - link "external, opens in new tab. 10.1002/hem3.139":
+      - /url: https://doi.org/10.1002/hem3.139
+      - text: 10.1002/hem3.139
+  - button "Full text links"
+  - button "Open dialog with citation text in different styles": Cite
+  - button "…"
+  - region:
+    - button "Change format"
+    - option "Abstract" [selected]
+    - option "PubMed"
+    - option "PMID"
+  - heading "Abstract" [level=2]
+  - paragraph: Reactivation of fetal hemoglobin expression alleviates the symptoms associated with β-globinopathies, severe hereditary diseases with significant global health implications due to their high morbidity and mortality rates. The symptoms emerge following the postnatal transition from fetal-to-adult hemoglobin expression. Extensive research has focused on inducing the expression of the fetal γ-globin subunit to reverse this switch and ameliorate these symptoms. Despite decades of research, only one compound, hydroxyurea, found its way to the clinic as an inducer of fetal hemoglobin. Unfortunately, its efficacy varies among patients, highlighting the need for more effective treatments. Erythroid cell lines have been instrumental in the pursuit of both pharmacological and genetic ways to reverse the postnatal hemoglobin switch. Here, we describe the first endogenously tagged fetal hemoglobin reporter cell line based on the adult erythroid progenitor cell line HUDEP2. Utilizing CRISPR-Cas9-mediated knock-in, a bioluminescent tag was integrated at the HBG1 gene. Subsequent extensive characterization confirmed that the resulting reporter cell line closely mirrors the HUDEP2 characteristics and that the cells report fetal hemoglobin induction with high sensitivity and specificity. This novel reporter cell line is therefore highly suitable for evaluating genetic and pharmacologic strategies to induce fetal hemoglobin. Furthermore, it provides an assay compatible with high-throughput drug screening, exemplified by the identification of a cluster of known fetal hemoglobin inducers in a pilot study. This new tool is made available to the research community, with the aspiration that it will accelerate the search for safer and more effective strategies to reverse the hemoglobin switch.
+  - paragraph: © 2024 The Author(s). HemaSphere published by John Wiley & Sons Ltd on behalf of European Hematology Association.
+  - paragraph:
+    - link "PubMed Disclaimer":
+      - /url: /disclaimer/
+  - heading "Conflict of interest statement" [level=2]
+  - paragraph: The authors declare no conflict of interest.
+  - heading "Figures" [level=2]
+  - figure "Figure 1 Design of gRNAs specifically targeting the HBG1 3′‐UTR in HUDEP2 cells. (A) The human HBB locus on chromosome 11 contains 5 β‐like globin genes, arranged in developmental order of expression, and an upstream locus control region (LCR; red arrows indicate DNaseI hypersensitive sites). (B) Comparison of the HBG1/2 3′‐UTR sequences from the GRCh38 reference genome identified two HBG1‐specific nucleotides at positions +17 and +55 downstream of the TGA stop codon. (C) In HUDEP2 DNA, additional gene‐specific nucleotides were identified. The +55 adenosine is allele‐specific rather than gene‐specific. (D) Two gRNAs designed to specifically target the HBG1 3′‐UTR.":
+    - button "Figure 1":
+      - img "Figure 1"
+    - strong:
+      - paragraph: Figure 1
+    - paragraph: Design of gRNAs specifically targeting…
+  - figure:
+    - button "Figure 2":
+      - img "Figure 2"
+    - strong:
+      - paragraph: Figure 2
+    - paragraph: C‐terminal tagging of the HBG1 …
+  - figure:
+    - button "Figure 3":
+      - img "Figure 3"
+    - strong:
+      - paragraph: Figure 3
+    - paragraph: Characterization of the Aγ‐HiBiT reporter…
+  - figure:
+    - button "Figure 4":
+      - img "Figure 4"
+    - strong:
+      - paragraph: Figure 4
+    - paragraph: Use of Aγ‐HiBiT reporter cells…
+  - figure:
+    - button "Figure 5":
+      - img "Figure 5"
+    - strong:
+      - paragraph: Figure 5
+    - paragraph: Use of pomalidomide as a…
+  - figure:
+    - button "Figure 6":
+      - img "Figure 6"
+    - strong:
+      - paragraph: Figure 6
+    - paragraph: The Aγ‐HiBiT reporter cell line…
+  - heading "References" [level=2]
+  - list:
+    - list:
+      - text: "Weatherall D. The inherited disorders of haemoglobin: an increasingly neglected global health burden. Indian J Med Res. 2011;134:493‐497. -"
+      - link "PMC":
+        - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3237249/
+      - text: "-"
+      - link "PubMed":
+        - /url: /22089613/
+    - list:
+      - text: "Houwing ME, de Pagter PJ, van Beers EJ, et al. Sickle cell disease: Clinical presentation and management of a global health challenge. Blood Rev. 2019;37:100580. 10.1016/j.blre.2019.05.004 -"
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1016/j.blre.2019.05.004
+        - text: DOI
+      - text: "-"
+      - link "PubMed":
+        - /url: /31128863/
+    - list:
+      - text: Watson J., Starman A.W., Bilello F.P. The significance of the paucity of sickle cells in newborn Negro infants. Am J Med Sci. 1948;215(4):419‐423. 10.1097/00000441-194804000-00008 -
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1097/00000441-194804000-00008
+        - text: DOI
+      - text: "-"
+      - link "PubMed":
+        - /url: /18107723/
+    - list:
+      - text: Fessas P, Stamatoyannopoulos G. Hereditary persistence of fetal hemoglobin in Greece. A study and a comparison. Blood. 1964;24:223‐240. -
+      - link "PubMed":
+        - /url: /14214133/
+    - list:
+      - text: Musallam KM, Taher AT, Cappellini MD, Sankaran VG. Clinical experience with fetal hemoglobin induction therapy in patients with β‐thalassemia. Blood. 2013;121(12):2199‐2212. 10.1182/blood-2012-10-408021 -
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1182/blood-2012-10-408021
+        - text: DOI
+      - text: "-"
+      - link "PubMed":
+        - /url: /23315167/
+  - button "Show all 68 references"
+  - heading "LinkOut - more resources" [level=2]
+  - list:
+    - heading "Full Text Sources" [level=3]
+    - list:
+      - link "external, opens in new tab. Ovid Technologies, Inc.":
+        - /url: https://www.ovid.com/39108322.pmid
+        - text: Ovid Technologies, Inc.
+      - link "PubMed Central":
+        - /url: https://pmc.ncbi.nlm.nih.gov/articles/pmid/39108322/
+- option "AMA"
+- option "APA"
+- option "MLA"
+- option "NLM" [selected]
+- complementary "Links to NCBI Literature Resources":
+  - paragraph: NCBI Literature Resources
+  - paragraph:
+    - link "MeSH":
+      - /url: https://www.ncbi.nlm.nih.gov/mesh/
+    - link "PMC":
+      - /url: https://www.ncbi.nlm.nih.gov/pmc/
+    - link "Bookshelf":
+      - /url: https://www.ncbi.nlm.nih.gov/books
+    - link "Disclaimer":
+      - /url: /disclaimer/
+  - paragraph: The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+- contentinfo:
+  - generic: Follow NCBI
+  - link "Twitter":
+    - /url: https://twitter.com/ncbi
+    - img "Twitter"
+  - link "Facebook":
+    - /url: https://www.facebook.com/ncbi.nlm
+    - img "Facebook"
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/ncbinlm
+    - img "LinkedIn"
+  - link "GitHub":
+    - /url: https://github.com/ncbi
+    - img "GitHub"
+  - link "Blog":
+    - /url: https://ncbiinsights.ncbi.nlm.nih.gov/
+  - paragraph:
+    - link "Connect with NLM":
+      - /url: https://www.nlm.nih.gov/socialmedia/index.html
+  - list:
+    - link "Twitter":
+      - /url: https://twitter.com/NLM_NIH
+      - img "Twitter"
+    - link "Facebook":
+      - /url: https://www.facebook.com/nationallibraryofmedicine
+      - img "SM-Facebook"
+    - link "Youtube":
+      - /url: https://www.youtube.com/user/NLMNIH
+      - img "SM-Youtube"
+  - paragraph:
+    - text: National Library of Medicine
+    - link "8600 Rockville Pike Bethesda, MD 20894":
+      - /url: https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323
+      - text: 8600 Rockville Pike
+      - text: Bethesda, MD 20894
+  - paragraph:
+    - link "Web Policies":
+      - /url: https://www.nlm.nih.gov/web_policies.html
+    - link "FOIA":
+      - /url: https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+    - link "HHS Vulnerability Disclosure":
+      - /url: https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+  - paragraph:
+    - link "Help":
+      - /url: https://support.nlm.nih.gov/?pagename=pubmed%3Apubmed%3Aabstract%3ANONE
+    - link "Accessibility":
+      - /url: https://www.nlm.nih.gov/accessibility.html
+    - link "Careers":
+      - /url: https://www.nlm.nih.gov/careers/careers.html
+  - navigation:
+    - list:
+      - link "NLM":
+        - /url: //www.nlm.nih.gov/
+      - link "NIH":
+        - /url: https://www.nih.gov/
+      - link "HHS":
+        - /url: https://www.hhs.gov/
+      - link "USA.gov":
+        - /url: https://www.usa.gov/

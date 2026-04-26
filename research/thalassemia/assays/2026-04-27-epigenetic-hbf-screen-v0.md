@@ -37,6 +37,17 @@ Unstandardized mixtures should not be compared against purified drugs.
 | 6. General safety | Does it broadly hurt cells? | viability, apoptosis, stress markers |
 | 7. Translation review | Could it ever be affordable and monitorable? | dose, route, monitoring, access note |
 
+## K562 Guardrail
+
+K562 reporter data are an entry signal, not a promotion signal. A candidate
+should not move toward therapy hypothesis status until the HbF signal survives
+in an endogenous `HBG1/HBG2` or HbF protein readout, preferably in HUDEP2 or
+primary erythroid cells.
+
+For K562-only natural-product seeds, do not rank by fold-change alone across
+different papers. Prioritize validation order by identity quality, model
+relevance, viability, hemolysis risk, and disease-cell replication.
+
 ## Benchmark Controls
 
 Use controls to prevent self-deception:
@@ -110,6 +121,7 @@ Every completed run should produce:
 - [Curcuminoid analog assay map](../findings/2026-04-27-curcuminoid-analog-assay-map.md)
 - [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
+- [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)

@@ -1,0 +1,341 @@
+- link "Skip to main page content":
+  - /url: "#article-details"
+- img "U.S. flag"
+- paragraph: An official website of the United States government
+- button "Here's how you know"
+- banner:
+  - link "NCBI Logo":
+    - /url: https://www.ncbi.nlm.nih.gov/
+    - img "NIH NLM Logo"
+  - link "Log in":
+    - /url: https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F39504332%2F
+- navigation "access keys":
+  - link "Access keys":
+    - /url: https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys
+  - link "NCBI Homepage":
+    - /url: https://www.ncbi.nlm.nih.gov
+  - link "MyNCBI Homepage":
+    - /url: /myncbi/
+  - link "Main Content":
+    - /url: "#maincontent"
+  - link "Main Navigation":
+    - /url: "#"
+- navigation "Main page content below"
+- search:
+  - link "Pubmed Logo":
+    - /url: /
+    - img "pubmed logo"
+  - link "Show search bar":
+    - /url: "#"
+  - link "Advanced":
+    - /url: /advanced/
+  - navigation "User guide":
+    - link "User Guide":
+      - /url: /help/
+- generic: "* * * *"
+- option "Title & authors" [selected]
+- option "Abstract"
+- option "Conflict of interest statement"
+- option "Figures"
+- option "References"
+- option "MeSH terms"
+- option "Substances"
+- option "LinkOut - more resources"
+- main:
+  - button "Toggle dropdown menu for journal PloS one": PLoS One
+  - text: .
+  - generic: 2024 Nov 6;19(11):e0307049.
+  - generic: "doi: 10.1371/journal.pone.0307049."
+  - generic: eCollection 2024.
+  - heading "Identification of small molecule agonists of fetal hemoglobin expression for the treatment of sickle cell disease" [level=1]
+  - link "Jian-Ping Yang":
+    - /url: /?term=Yang+JP&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Rachel Toughiri":
+    - /url: /?term=Toughiri+R&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Anshu P Gounder":
+    - /url: /?term=Gounder+AP&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Dan Scheibe":
+    - /url: /?term=Scheibe+D&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Matt Petrus":
+    - /url: /?term=Petrus+M&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Sarah J Fink":
+    - /url: /?term=Fink+SJ&cauthor_id=39504332
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Sebastien Vallee":
+    - /url: /?term=Vallee+S&cauthor_id=39504332
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Jon Kenniston":
+    - /url: /?term=Kenniston+J&cauthor_id=39504332
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Nikolaos Papaioannou":
+    - /url: /?term=Papaioannou+N&cauthor_id=39504332
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Steve Langston":
+    - /url: /?term=Langston+S&cauthor_id=39504332
+  - superscript:
+    - link "2":
+      - /url: "#full-view-affiliation-2"
+  - text: ","
+  - link "Narender R Gavva":
+    - /url: /?term=Gavva+NR&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: ","
+  - link "Shane R Horman":
+    - /url: /?term=Horman+SR&cauthor_id=39504332
+  - superscript:
+    - link "1":
+      - /url: "#full-view-affiliation-1"
+  - text: Affiliations
+  - button "Expand"
+  - list:
+    - text: "PMID:"
+    - strong: "39504332"
+    - text: "PMCID:"
+    - link "PMC11540224":
+      - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11540224/
+    - text: "DOI:"
+    - link "external, opens in new tab. 10.1371/journal.pone.0307049":
+      - /url: https://doi.org/10.1371/journal.pone.0307049
+      - text: 10.1371/journal.pone.0307049
+  - button "Full text links"
+  - button "Open dialog with citation text in different styles": Cite
+  - button "…"
+  - region:
+    - button "Change format"
+    - option "Abstract" [selected]
+    - option "PubMed"
+    - option "PMID"
+  - heading "Abstract" [level=2]
+  - paragraph: Induction of fetal hemoglobin (HbF) has been shown to be a viable therapeutic approach to treating sickle cell disease and potentially other β-hemoglobinopathies. To identify targets and target-modulating small molecules that enhance HbF expression, we engineered a human umbilical-derived erythroid progenitor reporter cell line (HUDEP2_HBG1_HiBiT) by genetically tagging a HiBiT peptide to the carboxyl (C)-terminus of the endogenous HBG1 gene locus, which codes for γ-globin protein, a component of HbF. Employing this reporter cell line, we performed a chemogenomic screen of approximately 5000 compounds annotated with known targets or mechanisms that have achieved clinical stage or approval by the US Food and Drug Administration (FDA). Among them, 10 compounds were confirmed for their ability to induce HbF in the HUDEP2 cell line. These include several known HbF inducers, such as pomalidomide, lenalidomide, decitabine, idoxuridine, and azacytidine, which validate the translational nature of this screening platform. We identified avadomide, autophinib, triciribine, and R574 as novel HbF inducers from these screens. We orthogonally confirmed HbF induction activities of the top hits in both parental HUDEP2 cells as well as in human primary CD34+ hematopoietic stem and progenitor cells (HSPCs). Further, we demonstrated that pomalidomide and avadomide, but not idoxuridine, induced HbF expression through downregulation of several transcriptional repressors such as BCL11A, ZBTB7A, and IKZF1. These studies demonstrate a robust phenotypic screening workflow that can be applied to large-scale small molecule profiling campaigns for the discovery of targets and pathways, as well as novel therapeutics for sickle cell disease and other β-hemoglobinopathies.
+  - paragraph: "Copyright: © 2024 Yang et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+  - paragraph:
+    - link "PubMed Disclaimer":
+      - /url: /disclaimer/
+  - heading "Conflict of interest statement" [level=2]
+  - paragraph: Takeda Development Center Americas, Inc. provided sponsorship and financial support for this study. All the authors are employees of Takeda Pharmaceutical Industries, Ltd., and had equity ownership with Takeda Pharmaceutical Industries, Ltd. The Takeda commercial affiliation does not alter our adherence to PLOS ONE policies on sharing data and materials. There are no patents, products in development or marketed products associated with this research to declare.
+  - heading "Figures" [level=2]
+  - figure "Fig 1. Engineering of HUDEP2_HBG1_HiBiT reporter cell line. (A) Schematic representation of HiBiT protein complementation assay. Cells expressing a fusion protein of target and small HiBiT reconstituted with large subunit LgBiT to form a NanoLuc complex, which generates a luminescent signal in the presence of added furimazine substrate. (B) Schematic representation of insertion of HiBiT tag to the C-terminus of the HBG1 gene within the γ-globin locus. The stop codon of HBG1 gene is in red. The gRNA sequence and corresponding PAM sequence are indicated. (C) The sequence of gRNA that is designed to selectively target the HBG1 gene. Alignment of C-terminal portions of HBG1 and HBG2 genes. The sequence fragment with a single nucleotide difference between HBG1 and HBG2 genes is indicted by the asterisk, which overlap with the gRNA target sequence.":
+    - button "Fig 1":
+      - img "Fig 1"
+    - strong:
+      - paragraph: Fig 1. Engineering of HUDEP2_HBG1_HiBiT reporter cell…
+  - figure:
+    - button "Fig 2":
+      - img "Fig 2"
+    - strong:
+      - paragraph: Fig 2. Validation of HUDEP2_HBG1_HiBiT reporter cell…
+  - figure "Fig 3. Assay optimization for high-throughput screening. Pomalidomide-treated HUDEP2_HBG1_HiBiT cells were harvested for HiBiT luminescence signal detection after 4 (A), 5 (B, D) or 6 (C) days of incubation. Fold changes of HiBiT luminescence signals compared to DMSO treatment samples are graphed. Average values of thirty-two samples for each treatment are presented. Z’ factors were calculated using GraphPad Prism 8 software.":
+    - button "Fig 3":
+      - img "Fig 3"
+    - strong:
+      - paragraph: Fig 3. Assay optimization for high-throughput screening.
+  - figure "Fig 4. High throughput chemogenomic screen for HbF inducers. (A) Schematic diagram of HUDEP2_HBG1_HiBiT chemogenomic screen for identification of compounds and targets that up-regulate fetal hemoglobin gene expression. (B) Compound activity distribution and hit calling strategy. Primary hits were selected based on HiBiT luminescence signal +3xSTDEV above the average HiBiT luminescence signals of DMSO treated samples (dotted line). (C) HUDEP2_HBG1_HiBiT cells were treated with the indicated compounds at final concentrations of 0, 0.37, 1.1, 3.3 μM, and 10 μM for 5 days. HiBiT luminescence signals and relative cell viability were detected by Nano-Glo HiBiT Lytic Detection reagent and CellTiter Glo reagent, respectively. The data were normalized to DMSO controls for fold changes of HiBiT luminescence signals, and as 100% for the relative cell viability.":
+    - button "Fig 4":
+      - img "Fig 4"
+    - strong:
+      - paragraph: Fig 4. High throughput chemogenomic screen for…
+  - figure "Fig 5. Validation of the HbF inducing drugs in human primary CD34+ cells. Human peripheral blood CD34+ cells treated with lead hit compounds and profiled by FACS for HbF expression. (A) Representative images of FACS analyses are shown. The percentages of fetal globin positive cells are indicated. (B) Percentages of HbF positive cells for each treatment are graphed.":
+    - button "Fig 5":
+      - img "Fig 5"
+    - strong:
+      - paragraph: Fig 5. Validation of the HbF inducing…
+  - figure "Fig 6. Investigation of molecular targets of lead hit compounds. Parental HUDEP2 cells were treated with the indicated compounds for 6 days. (A) Induction of HbF positive cells detected by FACS analysis. The average values and standard deviation of percentages of HbF positive cells from three replicates are graphed. (B) Western blot images of BCL11A, IKZF1, LRF/ZBTB7A, CRBN, and GAPDH proteins expression in DMSO- and compound-treated HUDEP2 cells. GAPDH was used as the loading control. (C) Quantification of BCL11A, IKZF1, LRF/ZBTB7A, and CRBN proteins levels from (B). Fold changes of protein expression levels were normalized with GAPDH controls and then fold change values determined relative to DMSO treated samples.":
+    - button "Fig 6":
+      - img "Fig 6"
+    - strong:
+      - paragraph: Fig 6. Investigation of molecular targets of…
+  - heading "References" [level=2]
+  - list:
+    - list:
+      - text: "Longo D.L., et al., Sickle cell disease. N Engl J Med, 2017. 20(April (376 (16))): p. 1561–1573. -"
+      - link "PubMed":
+        - /url: /28423290/
+    - list:
+      - text: "Payne A.B., et al., Trends in sickle cell disease—related mortality in the United States, 1979 to 2017. Annals of emergency medicine, 2020. 76(3): p. S28–S36. doi: 10.1016/j.annemergmed.2020.08.009 -"
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1016/j.annemergmed.2020.08.009
+        - text: DOI
+      - text: "-"
+      - link "PMC":
+        - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7598427/
+      - text: "-"
+      - link "PubMed":
+        - /url: /32928459/
+    - list:
+      - text: "Piel F.B., et al., Global burden of sickle cell anaemia in children under five, 2010–2050: modelling based on demographics, excess mortality, and interventions. PLoS medicine, 2013. 10(7): p. e1001484. doi: 10.1371/journal.pmed.1001484 -"
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1371/journal.pmed.1001484
+        - text: DOI
+      - text: "-"
+      - link "PMC":
+        - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3712914/
+      - text: "-"
+      - link "PubMed":
+        - /url: /23874164/
+    - list:
+      - text: "Denomme G.A., Molecular basis of blood group expression. Transfusion and Apheresis Science, 2011. 44(1): p. 53–63. doi: 10.1016/j.transci.2010.12.010 -"
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1016/j.transci.2010.12.010
+        - text: DOI
+      - text: "-"
+      - link "PubMed":
+        - /url: /21277830/
+    - list:
+      - text: "Sankaran V.G. and Orkin S.H., The switch from fetal to adult hemoglobin. Cold Spring Harbor perspectives in medicine, 2013. 3(1): p. a011643. doi: 10.1101/cshperspect.a011643 -"
+      - link "external, opens in new tab. DOI":
+        - /url: https://doi.org/10.1101/cshperspect.a011643
+        - text: DOI
+      - text: "-"
+      - link "PMC":
+        - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3530042/
+      - text: "-"
+      - link "PubMed":
+        - /url: /23209159/
+  - button "Show all 56 references"
+  - heading "MeSH terms" [level=2]
+  - list:
+    - button "Toggle dropdown menu for keyword Anemia, Sickle Cell* / drug therapy": Anemia, Sickle Cell* / drug therapy
+    - button "Toggle dropdown menu for keyword Anemia, Sickle Cell* / genetics": Anemia, Sickle Cell* / genetics
+    - button "Toggle dropdown menu for keyword Anemia, Sickle Cell* / metabolism": Anemia, Sickle Cell* / metabolism
+    - button "Toggle dropdown menu for keyword Cell Line": Cell Line
+    - button "Toggle dropdown menu for keyword Erythroid Precursor Cells / drug effects": Erythroid Precursor Cells / drug effects
+    - button "Toggle dropdown menu for keyword Erythroid Precursor Cells / metabolism": Erythroid Precursor Cells / metabolism
+    - button "Toggle dropdown menu for keyword Fetal Hemoglobin* / genetics": Fetal Hemoglobin* / genetics
+    - button "Toggle dropdown menu for keyword Humans": Humans
+    - button "Toggle dropdown menu for keyword Repressor Proteins / genetics": Repressor Proteins / genetics
+    - button "Toggle dropdown menu for keyword Repressor Proteins / metabolism": Repressor Proteins / metabolism
+    - button "Toggle dropdown menu for keyword Small Molecule Libraries / pharmacology": Small Molecule Libraries / pharmacology
+    - button "Toggle dropdown menu for keyword gamma-Globins / genetics": gamma-Globins / genetics
+  - heading "Substances" [level=2]
+  - list:
+    - button "Toggle dropdown menu for keyword Fetal Hemoglobin": Fetal Hemoglobin
+    - button "Toggle dropdown menu for keyword Small Molecule Libraries": Small Molecule Libraries
+    - button "Toggle dropdown menu for keyword gamma-Globins": gamma-Globins
+    - button "Toggle dropdown menu for keyword Repressor Proteins": Repressor Proteins
+  - heading "LinkOut - more resources" [level=2]
+  - list:
+    - heading "Full Text Sources" [level=3]
+    - list:
+      - link "PubMed Central":
+        - /url: https://pmc.ncbi.nlm.nih.gov/articles/pmid/39504332/
+      - link "external, opens in new tab. Public Library of Science":
+        - /url: https://dx.plos.org/10.1371/journal.pone.0307049
+        - text: Public Library of Science
+    - heading "Medical" [level=3]
+    - list:
+      - link "MedlinePlus Health Information":
+        - /url: https://medlineplus.gov/sicklecelldisease.html
+    - heading "Research Materials" [level=3]
+    - list:
+      - link "external, opens in new tab. National BioResource Project":
+        - /url: https://rrc.nbrp.jp/references/list?pubmed=39504332
+        - text: National BioResource Project
+- option "AMA"
+- option "APA"
+- option "MLA"
+- option "NLM" [selected]
+- complementary "Links to NCBI Literature Resources":
+  - paragraph: NCBI Literature Resources
+  - paragraph:
+    - link "MeSH":
+      - /url: https://www.ncbi.nlm.nih.gov/mesh/
+    - link "PMC":
+      - /url: https://www.ncbi.nlm.nih.gov/pmc/
+    - link "Bookshelf":
+      - /url: https://www.ncbi.nlm.nih.gov/books
+    - link "Disclaimer":
+      - /url: /disclaimer/
+  - paragraph: The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+- contentinfo:
+  - generic: Follow NCBI
+  - link "Twitter":
+    - /url: https://twitter.com/ncbi
+    - img "Twitter"
+  - link "Facebook":
+    - /url: https://www.facebook.com/ncbi.nlm
+    - img "Facebook"
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/ncbinlm
+    - img "LinkedIn"
+  - link "GitHub":
+    - /url: https://github.com/ncbi
+    - img "GitHub"
+  - link "Blog":
+    - /url: https://ncbiinsights.ncbi.nlm.nih.gov/
+  - paragraph:
+    - link "Connect with NLM":
+      - /url: https://www.nlm.nih.gov/socialmedia/index.html
+  - list:
+    - link "Twitter":
+      - /url: https://twitter.com/NLM_NIH
+      - img "Twitter"
+    - link "Facebook":
+      - /url: https://www.facebook.com/nationallibraryofmedicine
+      - img "SM-Facebook"
+    - link "Youtube":
+      - /url: https://www.youtube.com/user/NLMNIH
+      - img "SM-Youtube"
+  - paragraph:
+    - text: National Library of Medicine
+    - link "8600 Rockville Pike Bethesda, MD 20894":
+      - /url: https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323
+      - text: 8600 Rockville Pike
+      - text: Bethesda, MD 20894
+  - paragraph:
+    - link "Web Policies":
+      - /url: https://www.nlm.nih.gov/web_policies.html
+    - link "FOIA":
+      - /url: https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office
+    - link "HHS Vulnerability Disclosure":
+      - /url: https://www.hhs.gov/vulnerability-disclosure-policy/index.html
+  - paragraph:
+    - link "Help":
+      - /url: https://support.nlm.nih.gov/?pagename=pubmed%3Apubmed%3Aabstract%3ANONE
+    - link "Accessibility":
+      - /url: https://www.nlm.nih.gov/accessibility.html
+    - link "Careers":
+      - /url: https://www.nlm.nih.gov/careers/careers.html
+  - navigation:
+    - list:
+      - link "NLM":
+        - /url: //www.nlm.nih.gov/
+      - link "NIH":
+        - /url: https://www.nih.gov/
+      - link "HHS":
+        - /url: https://www.hhs.gov/
+      - link "USA.gov":
+        - /url: https://www.usa.gov/

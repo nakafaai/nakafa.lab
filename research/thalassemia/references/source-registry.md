@@ -182,3 +182,6 @@ Checked on 2026-04-26 unless noted.
 | Natural-product HbF | [Quercetin analogs Springer snapshot](../../../data/literature/fulltext/springer/2026-04-27-pabuprapap-2019-quercetin-analogs.html) | Publisher page snapshot containing the abstract-level K562 reporter signal. |
 | Chemistry | [Quercetin analog PubChem snapshots](../../../data/chemistry/pubchem/quercetin-analogs/) | PubChem identity snapshots for quercetin and `3,4'-Di-O-methylquercetin`. |
 | Chemistry | [Quercetin analog ChEMBL snapshots](../../../data/chemistry/chembl/quercetin-analogs/) | ChEMBL document, molecule, and activity snapshots for the quercetin analog lane. |
+| HbF screen | [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md) | Assay interpretation rule: K562-only hits need endogenous HUDEP2 or primary erythroid validation. |
+| HbF screen | [Verheul 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-verheul-2024-endogenous-hbf-reporter.dom.txt) | PubMed page snapshot for the endogenous HUDEP2 `HBG1` reporter source. |
+| HbF screen | [Yang 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-small-molecule-hbf-agonists.dom.txt) | PubMed page snapshot for the HUDEP2 `HBG1` HiBiT screen and primary `CD34+` confirmation workflow. |

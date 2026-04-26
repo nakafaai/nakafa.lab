@@ -69,6 +69,10 @@ Current priority order inside the natural-product HbF lane:
 | 2 | `isocoronarin D` / `Curcuma comosa` labdane diterpenes | direct K562 `G gamma-globin` reporter signal | compound identity, hemolysis, and disease-cell validation |
 | 3 | quercetin analogs | DOI-confirmed HbF-inducing title | full extraction of compounds, assays, effect size, and safety |
 
+Do not rank K562-only seeds by fold-change alone. `T-BDMC` remains higher
+priority because it has a disease-cell bridge; `isocoronarin D` and
+`3,4'-Di-O-methylquercetin` need endogenous HbF and primary-cell validation.
+
 ## Assay Gate
 
 Do not promote either new lead to therapy hypothesis without:
@@ -94,4 +98,5 @@ Do not promote either new lead to therapy hypothesis without:
 - [Quercetin analogs exact-title PubMed snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json)
 - [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json)
 - [Quercetin analog HbF extraction](2026-04-27-quercetin-analog-hbf-extraction.md)
+- [K562 to HUDEP2 validation guardrail](2026-04-27-k562-to-hudep2-validation-guardrail.md)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)

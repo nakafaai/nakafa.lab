@@ -86,6 +86,11 @@ QUERCETIN_ANALOG_PATHS = [
     "data/chemistry/chembl/quercetin-analogs/2026-04-27-3-4-di-o-methylquercetin-chembl-activities.json",
 ]
 
+HBF_REPORTER_GUARDRAIL_PATHS = [
+    "data/literature/fulltext/pubmed/2026-04-27-verheul-2024-endogenous-hbf-reporter.dom.txt",
+    "data/literature/fulltext/pubmed/2026-04-27-small-molecule-hbf-agonists.dom.txt",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -135,6 +140,7 @@ REQUIRED_PATHS = [
     *BEE_CONSTITUENT_PATHS,
     *NATURAL_PRODUCT_HBF_PATHS,
     *QUERCETIN_ANALOG_PATHS,
+    *HBF_REPORTER_GUARDRAIL_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -173,6 +179,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
+    "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

@@ -1,0 +1,14 @@
+{
+  "name": "nakafa.lab",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "check": "python3 scripts/check_repo.py",
+    "check:uv": "uv run python scripts/check_repo.py",
+    "format:py": "uv run ruff format .",
+    "lint:py": "uv run ruff check .",
+    "paper:build": "tectonic paper/main.tex"
+  }
+}

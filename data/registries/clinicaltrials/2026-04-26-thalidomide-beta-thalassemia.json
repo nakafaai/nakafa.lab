@@ -1,0 +1,116 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia+thalidomide&pageSize=10&countTotal=true",
+  "studies": [
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Hydroxyurea and Thalidomide"
+      ],
+      "last_update": "2023-12-01",
+      "nct_id": "NCT06153784",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "title": "Thalidomide and Hydroxyurea Combination in \u03b2-Thalassemia Patients"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490627",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "title": "Unraveling the Impact of Thalidomide at Diverse Doses in Transfusion Dependent Beta Thalassemia"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "hydroxyurea and thalidomide"
+      ],
+      "last_update": "2021-11-24",
+      "nct_id": "NCT05132270",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "title": "Clinical Experience of Thalidomide in Thalassemic Patients"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "ADDITION OF THALIDOMIDE AND HYDROXYUREA"
+      ],
+      "last_update": "2025-12-18",
+      "nct_id": "NCT07292259",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "RECRUITING",
+      "title": "Combination of Thalidomide and Hydroxyuria in Transfusion Dependent Thalasemmia"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide 100mg",
+        "Hydroxyurea"
+      ],
+      "last_update": "2024-03-12",
+      "nct_id": "NCT06239389",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "COMPLETED",
+      "title": "Comparison Of Efficacy And Safety Of Thalidomide Vs Hydroxyurea In Thalassemia Patients: A Single-Centre Pilot Study."
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide"
+      ],
+      "last_update": "2023-11-24",
+      "nct_id": "NCT06146478",
+      "phases": [
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "title": "Deciphering Effects of Thalidomide on Red Blood Cells in Transfusion Dependents Beta Thalassemia Patients"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "thalidomide and hydroxyurea",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490601",
+      "phases": [
+        "PHASE2"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long Term Beta Thalassemia Treatment: Findings From The Extension Period"
+    }
+  ],
+  "total_count": 7
+}

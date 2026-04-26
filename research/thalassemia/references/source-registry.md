@@ -46,6 +46,9 @@ Checked on 2026-04-26 unless noted.
 | HbF drugs | [Thalidomide randomized TDT trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8602273/) | Randomized phase 2 evidence for thalidomide in TDT, with safety caveats. |
 | HbF drugs | [Hydroxyurea versus thalidomide RCT, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9809516/) | Direct comparison trial in adult TDT patients. |
 | HbF drugs | [Thalidomide non-randomized TDT trial, PubMed PMID 40446669](https://pubmed.ncbi.nlm.nih.gov/40446669/) | Longer follow-up thalidomide signal and gene-expression context. |
+| HbF drugs | [Thalidomide PubMed snapshot](../../../data/literature/pubmed/2026-04-26-thalidomide-beta-thalassemia.json) | Reproducible PubMed query snapshot for thalidomide and beta-thalassemia. |
+| Trials | [Thalidomide ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-26-thalidomide-beta-thalassemia.json) | Reproducible registry snapshot for thalidomide-related thalassemia trials. |
+| Drug safety | [DailyMed thalidomide label](https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=2eda833b-1357-4ed4-a093-194524fcb061&type=display) | Boxed-warning and safety source for teratogenicity, thrombosis, and neuropathy caution. |
 | HbF drugs | [Sirthalaclin sirolimus pilot trial, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9218916/) | Pilot sirolimus trial for gamma-globin expression in beta-thalassemia. |
 | HbF drugs | [ClinicalTrials.gov NCT03877809](https://clinicaltrials.gov/study/NCT03877809) | Trial registry record for sirolimus in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Sirolimus PubMed snapshot](../../../data/literature/pubmed/2026-04-26-sirolimus-beta-thalassemia.json) | Reproducible PubMed query snapshot for sirolimus, HbF, and beta-thalassemia. |

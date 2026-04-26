@@ -1,6 +1,6 @@
 # Hypothesis Card: Thalidomide-Class Evidence Map
 
-Status: draft high-caution evidence map
+Status: active high-caution evidence map
 Evidence label: not a treatment recommendation
 
 ## Claim
@@ -14,23 +14,34 @@ patients, but their safety profile makes them high-caution candidates.
 - Erythropoiesis and hematopoietic gene-expression effects.
 - Possible modulation of pathways including `BCL11A`, `HBS1L-MYB`, `KLF`, and
   erythroid transcription programs.
+- Response may vary by genotype and HbF modifier loci.
 
-## Evidence To Extract Next
+## Extracted Evidence
 
-- Randomized TDT trial outcomes.
-- Non-randomized long-follow-up TDT outcomes.
-- HbE/beta-thalassemia response reports.
-- Dose-response and discontinuation data.
-- Active trial status and exclusion criteria.
+- A 2021 multicenter randomized trial reported higher hemoglobin and lower
+  transfusion volume versus placebo.
+- A smaller adult randomized trial did not support single-agent hydroxyurea or
+  low-dose thalidomide as effective options to reduce adult TDT transfusion
+  burden.
+- A 2025 non-randomized trial reported longer-term hemoglobin improvement, but
+  its design is weaker than randomized evidence.
+- ClinicalTrials.gov shows multiple recent Pakistan-based thalidomide or
+  hydroxyurea-plus-thalidomide studies.
 
 ## Safety Questions
 
-- Teratogenicity.
-- Peripheral neuropathy.
-- Thrombosis.
+- Severe teratogenicity.
+- Peripheral neuropathy that may be irreversible.
+- Venous thromboembolism.
 - Sedation and functional impairment.
 - Pregnancy prevention requirements.
 - Suitability in patients with immune disease.
+- Blood count, thrombosis, and neurologic monitoring.
+
+## Current Artifact
+
+Deep dive:
+`research/thalassemia/findings/2026-04-26-thalidomide-class-deep-dive.md`.
 
 ## Falsification Criteria
 

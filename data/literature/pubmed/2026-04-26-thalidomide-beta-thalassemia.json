@@ -1,0 +1,301 @@
+{
+  "count": 10,
+  "query": "thalidomide beta thalassemia transfusion dependent fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39026312"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11264728"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11264728;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12920-024-01963-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12920-024-01963-y"
+        }
+      ],
+      "journal": "BMC Med Genomics",
+      "pmid": "39026312",
+      "pubdate": "2024 Jul 18",
+      "title": "Clinical efficacy of thalidomide for various genotypes of beta thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40446669"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2025.102936"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(25)00028-2"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "40446669",
+      "pubdate": "2025 Jul-Sep",
+      "title": "Thalidomide confers therapeutic benefit in beta thalassemia patients by enhancing hemoglobin and hematopoietic gene expression: A non-randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38223482"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10786143"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10786143;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4084/MJHID.2024.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "mjhid-16-1-e2024001"
+        }
+      ],
+      "journal": "Mediterr J Hematol Infect Dis",
+      "pmid": "38223482",
+      "pubdate": "2024",
+      "title": "Effects of Thalidomide on Erythropoiesis and Iron Homeostasis in Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32395210"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7202343"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7202343;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4084/MJHID.2020.021"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "mjhid-12-1-e2020021"
+        }
+      ],
+      "journal": "Mediterr J Hematol Infect Dis",
+      "pmid": "32395210",
+      "pubdate": "2020",
+      "title": "Thalidomide for Patients with \u03b2-Thalassemia: A Multicenter Experience."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34456732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8397440"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8397440;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fphar.2021.722502"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "722502"
+        }
+      ],
+      "journal": "Front Pharmacol",
+      "pmid": "34456732",
+      "pubdate": "2021",
+      "title": "Efficacy of Thalidomide Treatment in Children With Transfusion Dependent \u03b2-Thalassemia: A Retrospective Clinical Study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41081085"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12513377"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12513377;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7717/peerj.20038"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "20038"
+        }
+      ],
+      "journal": "PeerJ",
+      "pmid": "41081085",
+      "pubdate": "2025",
+      "title": "Genetic modifiers of response to thalidomide in transfusion-dependent beta-thalassemia patients: a whole-exome sequence analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38711824"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11070558"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11070558;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2147/IJGM.S462991"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "462991"
+        }
+      ],
+      "journal": "Int J Gen Med",
+      "pmid": "38711824",
+      "pubdate": "2024",
+      "title": "Long-Term Follow-Up of Patients Undergoing Thalidomide Therapy for Transfusion-Dependent \u03b2-Thalassaemia: A Single-Center Experience."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36208259"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.19746/j.cnki.issn.1009-2137.2022.05.033"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1009-2137(2022)05-1519-08"
+        }
+      ],
+      "journal": "Zhongguo Shi Yan Xue Ye Xue Za Zhi",
+      "pmid": "36208259",
+      "pubdate": "2022 Oct",
+      "title": "[Predictors of Hematologic Responses in Patients with Non-Transfusion-Dependent \u03b2-Thalassemia Receiving Thalidomide Therapy]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36637054"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9837847"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9837847;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/14651858.CD013767.pub2"
+        }
+      ],
+      "journal": "Cochrane Database Syst Rev",
+      "pmid": "36637054",
+      "pubdate": "2023 Jan 13",
+      "title": "Foetal haemoglobin inducers for reducing blood transfusion in non-transfusion-dependent beta-thalassaemias."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32798438"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.19746/j.cnki.issn.1009-2137.2020.04.059"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1009-2137(2020)04-1424-05"
+        }
+      ],
+      "journal": "Zhongguo Shi Yan Xue Ye Xue Za Zhi",
+      "pmid": "32798438",
+      "pubdate": "2020 Aug",
+      "title": "[Reaserch Advances on Induction of Fetal Hemoglobin (HbF) by Drugs in the Treatment of \u03b2-Thalassemia--Review]."
+    }
+  ]
+}

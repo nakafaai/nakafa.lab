@@ -32,6 +32,7 @@ forward.
 - `docs/next-steps.md` - current operating roadmap.
 - `research/thalassemia/README.md` - first disease program.
 - `research/thalassemia/findings/` - small source-backed research notes.
+- `research/thalassemia/hypotheses/` - structured hypothesis candidates.
 - `research/thalassemia/case-context/` - de-identified patient context.
 - `research/thalassemia/references/source-registry.md` - seed source list.
 - `research/islamic/README.md` - Islamic research lane.

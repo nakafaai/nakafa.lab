@@ -14,7 +14,9 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-26-clinical-baseline-checklist.md",
     "research/thalassemia/findings/2026-04-26-clinical-trials-snapshot.md",
     "research/thalassemia/findings/2026-04-26-indonesia-access-context.md",
+    "research/thalassemia/findings/2026-04-26-mechanism-priority-map.md",
     "research/thalassemia/findings/2026-04-26-treatment-landscape.md",
+    "research/thalassemia/hypotheses/README.md",
     "research/thalassemia/references/source-registry.md",
     "research/islamic/README.md",
     "research/islamic/findings/2026-04-26-healing-and-caution.md",
@@ -22,6 +24,7 @@ REQUIRED_PATHS = [
     "paper/notes/carrier-malaria.tex",
     "paper/references.bib",
     "pyproject.toml",
+    "templates/hypothesis-card-template.md",
     "templates/patient-context-template.md",
 ]
 

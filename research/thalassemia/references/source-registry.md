@@ -17,10 +17,12 @@ Checked on 2026-04-26 unless noted.
 | Gene therapy | [Zynteglo FDA product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo) | FDA-regulated gene therapy reference. |
 | Gene editing | [Casgevy FDA product page](https://www.fda.gov/vaccines-blood-biologics/casgevy) | FDA-regulated CRISPR cell therapy reference. |
 | Gene editing | [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/) | Clinical evidence for CRISPR-edited autologous cells in TDT. |
+| Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |
 | Disease ontology | [Open Targets beta thalassemia MONDO_0019402](https://platform.opentargets.org/disease/MONDO_0019402) | Disease and target context, including HBB. |
 | Chemistry | [ChEMBL hydroxyurea CHEMBL467](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL467) | Small-molecule reference for a known fetal hemoglobin inducer. |
+| Hypothesis process | [Hypothesis card template](../../../templates/hypothesis-card-template.md) | Internal gate for keeping therapy ideas auditable. |
 | Islamic | [Quran 16:68-69, Quran.com](https://quran.com/16/68-69) | Initial Quranic anchor for bee and healing research. |
 | Evolution | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | Notes thalassemia distribution, carrier state, malaria selection, and globin biology. |
 | Evolution | [Alpha-thalassemia and malaria in children, PLOS Medicine](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030158) | Primary study supporting the carrier-advantage research lane for malaria and red-cell variants. |

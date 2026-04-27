@@ -1,0 +1,68 @@
+{
+  "brief_summary": "This is a single-arm, open, single-injection exploratory clinical study with two transfusion-dependent \u03b2 thalassemia (\u03b2-TDT) participants planned to enroll.",
+  "brief_title": "Safety and Efficacy Evaluation of Autologous CRISPR-Cas12b Edited Hematopoietic Stem Cells",
+  "conditions": [
+    "Thalassemia, Beta",
+    "Thalassemia Major"
+  ],
+  "countries": [
+    "China"
+  ],
+  "detailed_description": "Through CRISPR-Cas 12b editing tool with independent intellectual property rights of Chinese Academy of Sciences, HBG1/2 promoter was edited to reactivate gamma-globin and induce fetal hemoglobin (HbF) expression. This leads to a subsequent reduction in ineffective red blood cell production (due to a reduction in the uncompounded alpha-globin chain) and improved red blood cell survival (due to reduced hemolysis), ultimately improving the sequelae of anemia and reducing the need for transfusion. Safety and efficacy will be evaluated continuously throughout the study, follow-up was up to 24 months. After the end of this trial, participants who received the infusion of autologous CRISPR-Cas12b edited hematopoietic stem cells (VGB-Ex01) will be invited to participate in the long-term follow-up study to complete the 15-year follow-up plan.",
+  "eligibility_excerpt": "Inclusion Criteria:\n\n* Age 3-35 years old (inclusive), male or female;\n* The subject and/or his/her legally recognized representative/parent/guardian fully understands the study and all information related to the study and has signed the informed consent form;\n* Clinical diagnosis of transfusion-dependent \u03b2-thalassemia (TDT) with a blood transfusion record within 2 years (inclusive) prior to screening showing a history of \u2265 10 units (U)/kg/year (or \u2265 100 mL/kg/year) or \u2265 8 times/year of suspended RBC transfusions in at least 1 consecutive 12-month period;\n* Karnofsky score (for subjects aged \u2265 16 years) or Lansky score (for subjects aged \\< 16 years) of \u2265 80;\n* Subjects in stable disease state who are eligible for hematopoietic stem cell transplantation as per investigator's judgment;\n* Access to diagnosis and treatment records issued by medical professional institutions within 2 years prior to screening, including the records of blood transfusions, hematology, serum chemistry, and other examinations;\n* Willing and able to comply with study procedures, with good compliance, and willing to receive and complete the follow-up study with a duration of at least 2 years;\n* Subjects of childbearing potential (including female subjects of childbearing potential and male subjects whose partners are of childbearing potential) must use effective contraception within 12 months of treatment.\n\nExclusion Criteria:\n\n* Diagnosis of associated \u03b1-thalassemia: \\> 1 alpha chain deletion or alpha gene functional defect;\n* Have available HLA-fully matched donors and acceptable for allogeneic hematopoietic stem cell transplantation;\n* Irregular antibody or platelet antibody positive;\n* Prior allogeneic bone marrow transplantation or gene therapy;\n* Subjects with clinically significant and acti",
+  "enrollment": 2,
+  "interventions": [
+    "VGB-Ex01"
+  ],
+  "last_update": "2023-10-17",
+  "nct_id": "NCT06041620",
+  "official_title": "A Study to Evaluate the Efficacy and Safety of Autologous CRISPR-Cas12b Edited Hematopoietic Stem Cells in Transfusion-dependent \u03b2 Thalassemia Patients",
+  "ok": true,
+  "organization": "Institute of Hematology & Blood Diseases Hospital, China",
+  "other_outcomes": [],
+  "phases": [
+    "NA"
+  ],
+  "primary_outcomes": [
+    {
+      "description": "An adverse event is any untoward medical occurrence in a clinical investigation/participant administered a product; the event will not need to have a causal relationship with the treatment. A serious adverse event is any untoward medical occurrence at any dose that resulted in death; life threatening;require inpatient hospitalization or prolongation of existing hospitalization; result in persistent or significant disability/incapacity; result in congenital anomaly/birth defect.",
+      "measure": "Incidence of adverse events and serious adverse events",
+      "time_frame": "Baseline up to 24 months"
+    },
+    {
+      "description": "Neutrophil implantation was defined as 3 consecutive days with 3 tests for ANC\u2265500/\u03bcL.",
+      "measure": "Number of subjects with neutrophil implantation \u2264 42 days",
+      "time_frame": "Baseline up to 42 days"
+    }
+  ],
+  "query_url": "https://clinicaltrials.gov/api/v2/studies/NCT06041620",
+  "redaction_note": "Compact public-repo snapshot. Contact names, phone numbers, emails, facility-level coordinates, and full location contacts were intentionally excluded.",
+  "secondary_outcomes": [
+    {
+      "description": "TI defined as Hb\u22659g/dL without red blood cell infusion",
+      "measure": "Number of subjects transfusion independence (TI) for at least 6 months after transfusion",
+      "time_frame": "Baseline up to 6 months"
+    },
+    {
+      "description": "TI defined as Hb\u22659g/dL without red blood cell infusion",
+      "measure": "Number of subjects transfusion independence (TI) for at least 12 months after transfusion",
+      "time_frame": "Baseline up to 12 months"
+    },
+    {
+      "description": "Changes in HbF concentration from baseline after transfusion",
+      "measure": "Fetal hemoglobin (HbF) concentration",
+      "time_frame": "Baseline up to 24 months"
+    },
+    {
+      "description": "Changes in Hb concentration compared with baseline after transfusion",
+      "measure": "Total hemoglobin (Hb) concentration",
+      "time_frame": "Baseline up to 24 months"
+    },
+    {
+      "description": "Changes in the proportion of circulating red blood cells expressing fetal hemoglobin compared to baseline",
+      "measure": "The proportion of circulating red blood cells",
+      "time_frame": "Baseline up to 24 months"
+    }
+  ],
+  "status": "RECRUITING"
+}

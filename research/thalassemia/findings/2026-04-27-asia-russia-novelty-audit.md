@@ -150,6 +150,23 @@ The accessible evidence strongly supports Asia as a critical research map, while
 the exact Nakafa integrated affordable validation package still looks
 underanswered and worth testing.
 
+## 2026-04-27 China Proximity Refinement
+
+Follow-up inspection of China records found `NCT06041620` / `VGB-Ex01`, an
+autologous CRISPR-Cas12b edited HSC trial for TDT that explicitly connects
+`HBG1/2` promoter editing, HbF induction, reduced uncompounded alpha-globin
+chain burden, improved red-cell survival, reduced hemolysis, and reduced
+transfusion need.
+
+This narrows the novelty claim. The broad integrated gene-editing concept is
+already represented in China. Nakafa Lab's distinct practical opportunity is
+now framed as an affordability-first, non-editing validation program that tests
+whether any candidate can pass similar multi-endpoint gates without cell-therapy
+infrastructure.
+
+Source note: see
+[`2026-04-27-china-hbf-editing-proximity-gate.md`](2026-04-27-china-hbf-editing-proximity-gate.md).
+
 ## Sources
 
 - [Disrupting ZBTB7A or BCL11A binding sites reactivates fetal hemoglobin in beta0-thalassemia/HbE erythroblasts, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12264176/)

@@ -665,6 +665,7 @@ research/thalassemia/findings/2026-04-27-hbf-alpha-autophagy-integration-boundar
 research/thalassemia/findings/2026-04-27-pf-06409577-probe-material-gate.md
 research/thalassemia/findings/2026-04-27-prkab1-target-nomenclature-gate.md
 research/thalassemia/findings/2026-04-27-asia-russia-novelty-audit.md
+research/thalassemia/findings/2026-04-27-china-hbf-editing-proximity-gate.md
 data/registries/clinicaltrials/2026-04-27-active-referral-transfusion-dependent-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-asia-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-indonesia-thalassemia.json
@@ -679,6 +680,9 @@ data/registries/clinicaltrials/2026-04-27-active-referral-india-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-iran-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-russia-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-turkey-thalassemia.json
+data/registries/clinicaltrials/2026-04-27-nct06041620-vgb-ex01-detail.json
+data/registries/clinicaltrials/2026-04-27-nct07190001-yolt204-detail.json
+data/registries/clinicaltrials/2026-04-27-nct07338344-luspatercept-thalidomide-detail.json
 data/registries/clinicaltrials/2026-04-27-active-referral-hsct-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-gene-therapy-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-crispr-beta-thalassemia.json

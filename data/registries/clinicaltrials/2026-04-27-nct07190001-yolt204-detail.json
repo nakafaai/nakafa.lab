@@ -1,0 +1,102 @@
+{
+  "brief_summary": "This is a single-arm, open-label, single-dose, dose-escalation trial that plans to enrol 3-18 patients with transfusion-dependent \u03b2-thalassaemia (TDT) or sickle-cell disease (SCD). Its primary aims are to evaluate the safety and tolerability of a single administration of YOLT-204 and to obtain preliminary data on its effect on plasma fetal-haemoglobin levels. The main-study screening period may last up to 60 days; the treatment day is Day 0 (D0). Safety follow-up continues through Week 52 post-dose. After completion of the main study, participants will enter long-term follow-up extending to 15 years post-dose.",
+  "brief_title": "YOLT-204 in Patients With Hemoglobinopathies",
+  "conditions": [
+    "Hemoglobinopathies (Transfusion-dependent \u03b2-thalassemia and Sickle Cell Disease)"
+  ],
+  "countries": [
+    "China"
+  ],
+  "detailed_description": null,
+  "eligibility_excerpt": "Inclusion Criteria:\n\n* Aged 3-17 years (inclusive); any sex.\n* The subject and/or his/her legally authorized guardian/representative must fully understand the study and voluntarily sign a written informed-consent form.\n* Karnofsky Performance Status (KPS) \u2265 70 (if \u2265 16 years old) or Lansky Performance Scale (LPS) \u2265 70 (if \\< 16 years old).\n* Detailed medical records of red-cell transfusions during the 2 years before informed-consent signature must be available, including volume or units transfused and pre-/post-transfusion red-cell and hemoglobin levels.\n* No severe hematopoietic dysfunction; cardiac, pulmonary, hepatic, and renal function essentially normal.\n* Coagulation: international normalized ratio (INR) and activated partial thromboplastin time (APTT) \u2264 1.5 \u00d7 upper limit of normal (ULN).\n* Renal function: serum creatinine \u2264 1.5 \u00d7 ULN; if creatinine \\> 1.5 \u00d7 ULN, calculated creatinine clearance \\> 50 mL/min by the Schwartz formula.\n* Hepatic function: alanine aminotransferase (ALT) \u2264 3 \u00d7 ULN and aspartate aminotransferase (AST) \u2264 3 \u00d7 ULN.\n* Cardiac function: left-ventricular ejection fraction (LVEF) \u2265 50 %.\n* Good compliance; willing to adhere to visit schedules, study procedures, laboratory tests, and other protocol requirements.\n* Agrees to use at least one highly effective contraceptive method from informed-consent signature through the end of the main study (Week 52 visit).\n* Willing to participate in long-term follow-up.\n* Screening genotype shows HbSS or HbS\u03b20; prior reports acceptable if assessed as adequate by the investigator.\n* If on L-glutamine, regimen must have been stable for \u2265 3 months before study-drug administration; if on hydroxyurea, must have discontinued \u2265 8 weeks before study-drug administration.\n* Meets severe SCD criteria: despite optimal s",
+  "enrollment": 18,
+  "interventions": [
+    "YOLT-204"
+  ],
+  "last_update": "2025-09-24",
+  "nct_id": "NCT07190001",
+  "official_title": "An Exploratory Clinical Study to Evaluate the Safety and Efficacy of YOLT-204 in Patients With Hemoglobinopathies (\u03b2-thalassemia and Sickle-cell Disease)",
+  "ok": true,
+  "organization": "Guangzhou Women and Children's Medical Center",
+  "other_outcomes": [],
+  "phases": [
+    "EARLY_PHASE1"
+  ],
+  "primary_outcomes": [
+    {
+      "description": "Calculate the rate of various adverse events",
+      "measure": "Adverse event rate",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the proportion of patients who achieve at least 3 months of sustained transfusion reduction (sustained TR3) is obtained.",
+      "measure": "3 months of sustained transfusion reduction",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Proportion of patients who, starting one month after YOLT-204 treatment and without concomitant hydroxyurea, maintain HbF \u2265 20 % for at least three consecutive months.",
+      "measure": "3 months of sustained HbF level \u226520%",
+      "time_frame": "From baseline to 52 weeks after dose"
+    }
+  ],
+  "query_url": "https://clinicaltrials.gov/api/v2/studies/NCT07190001",
+  "redaction_note": "Compact public-repo snapshot. Contact names, phone numbers, emails, facility-level coordinates, and full location contacts were intentionally excluded.",
+  "secondary_outcomes": [
+    {
+      "description": "The proportion of alleles with intended modifications in peripheral blood leukocytes and bone marrow cells",
+      "measure": "The proportion of alleles with intended modifications",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "The concentration of Hemoglobin was measured by laboratory",
+      "measure": "Concentration of Hemoglobin",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "The concentration of Fetal hemoglobin was measured by laboratory",
+      "measure": "Concentration of Fetal hemoglobin",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "The proportion of F cell was measured by laboratory",
+      "measure": "Concentration of proportion of F cell",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the proportion of patients who achieve at least 3 months of transfusion independence (sustained TI3) is obtained.",
+      "measure": "3 months of transfusion independence",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the proportion of patients who achieve at least 6 months of sustained transfusion reduction (sustained TR6) is obtained.",
+      "measure": "6 months of sustained transfusion reduction",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the proportion of patients who achieve at least 6 months of transfusion independence (sustained TI6) is obtained.",
+      "measure": "6 months of transfusion independence",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the proportion of patients who remained free of hospitalization due to vaso-occlusive crisis.",
+      "measure": "Free of hospitalization due to vaso-occlusive crisis",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the proportion of patients who remained free of any vaso-occlusive crisis",
+      "measure": "Free of any vaso-occlusive crisis",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Analysis begins one month after treatment with YOLT-204, and the Change from baseline in volume of red-blood-cell transfusions given for SCD-related indications",
+      "measure": "Change of red-blood-cell transfusions given",
+      "time_frame": "From baseline to 52 weeks after dose"
+    },
+    {
+      "description": "Change from baseline in the number of vaso-occlusive crises within 1 year after YOLT-204 treatment.",
+      "measure": "The number of vaso-occlusive crises",
+      "time_frame": "From baseline to 52 weeks after dose"
+    }
+  ],
+  "status": "NOT_YET_RECRUITING"
+}

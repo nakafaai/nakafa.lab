@@ -45,6 +45,6 @@ be reviewed by qualified clinicians.
   changes.
 - Run `uv run ruff check .` for Python changes.
 - Run `uv run ruff format --check .` for Python changes.
-- Run `uv run --with pyright pyright scripts` for Python changes.
+- Run `uv run pyright scripts` for Python changes.
 - Run a small behavior smoke test for the script or function you changed.
 - Build the paper when the LaTeX toolchain is available.

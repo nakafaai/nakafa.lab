@@ -1,0 +1,105 @@
+{
+  "count": 3,
+  "query": "mitapivat thalassemia pyruvate kinase",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34987744"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8721383"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8721383;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/20406207211066070"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1177_20406207211066070"
+        }
+      ],
+      "journal": "Ther Adv Hematol",
+      "pmid": "34987744",
+      "pubdate": "2021",
+      "title": "Mitapivat, a novel pyruvate kinase activator, for the treatment of hereditary hemolytic anemias."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33822774"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8121526"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8121526;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1172/JCI144206"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "144206"
+        }
+      ],
+      "journal": "J Clin Invest",
+      "pmid": "33822774",
+      "pubdate": "2021 May 17",
+      "title": "The pyruvate kinase activator mitapivat reduces hemolysis and improves anemia in a \u03b2-thalassemia mouse model."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38066911"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10727068"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10727068;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/hematology.2023000468"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "506459"
+        }
+      ],
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "38066911",
+      "pubdate": "2023 Dec 8",
+      "title": "Pyruvate kinase activators: targeting red cell metabolism in thalassemia."
+    }
+  ]
+}

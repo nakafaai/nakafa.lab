@@ -10,7 +10,7 @@ noise.
 | --- | --- |
 | `README.md` | public project overview and repo map |
 | `docs/` | operating protocol, status journals, setup notes, and repo hygiene |
-| `research/thalassemia/` | thalassemia findings, hypotheses, assay plans, prioritization, and de-identified case context |
+| `research/thalassemia/` | thalassemia findings, hypotheses, assay plans, prioritization, notebooks, and de-identified case context |
 | `research/islamic/` | Quran, hadith, tafsir, and Islamic reasoning lane kept separate from biomedical claims |
 | `data/` | small reproducible source snapshots, not patient data |
 | `paper/` | LaTeX paper source and bibliography |
@@ -22,6 +22,7 @@ noise.
 Generated or local-only files should not enter Git:
 
 - `.ruff_cache/`;
+- `.ipynb_checkpoints/`;
 - `.venv/`;
 - `__pycache__/` and `*.pyc`;
 - `paper/build/` and other LaTeX outputs;
@@ -54,7 +55,7 @@ Before committing hygiene-sensitive changes, run:
 git status --short
 uv run ruff check .
 uv run ruff format --check .
-uv run --with pyright pyright scripts
+uv run pyright scripts
 uv run python scripts/check_repo.py
 git diff --check
 ```

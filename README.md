@@ -36,6 +36,8 @@ forward.
 - `research/thalassemia/findings/` - small source-backed research notes.
 - `research/thalassemia/hypotheses/` - structured hypothesis candidates.
 - `research/thalassemia/prioritization/` - ranked research decisions.
+- `research/thalassemia/notebooks/` - small reproducible scoring or analysis
+  notebooks.
 - `research/thalassemia/case-context/` - de-identified patient context.
 - `research/thalassemia/references/source-registry.md` - seed source list.
 - `research/islamic/README.md` - Islamic research lane.
@@ -61,7 +63,7 @@ Common commands:
 - `uv run python scripts/fetch_pubmed.py "fetal hemoglobin beta thalassemia"`
 - `uv run ruff check .`
 - `uv run ruff format .`
-- `uv run --with pyright pyright scripts`
+- `uv run pyright scripts`
 
 This repo does not use Node dependencies right now. Do not add `package.json`
 or `pnpm` just to wrap Python or LaTeX commands.

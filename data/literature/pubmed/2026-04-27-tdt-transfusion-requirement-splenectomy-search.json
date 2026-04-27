@@ -1,0 +1,37 @@
+{
+  "count": 2,
+  "query": "thalassemia major annual transfusion requirement splenectomy hypersplenism",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2929586"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.2830300412"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "2929586",
+      "pubdate": "1989 Apr",
+      "title": "Long-term effect of splenectomy on transfusion requirements in thalassemia major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3808940"
+        }
+      ],
+      "journal": "Nouv Rev Fr Hematol (1978)",
+      "pmid": "3808940",
+      "pubdate": "1986",
+      "title": "[Transfusion requirements and mean annual hemoglobin level in thalassemia major]."
+    }
+  ]
+}

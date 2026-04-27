@@ -1,0 +1,75 @@
+{
+  "count": 3,
+  "query": "thalassemia hypersplenism transfusion requirement splenectomy red cell survival",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6373080"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS423661"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3534979"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3534979;manuscript-id: NIHMS423661;"
+        }
+      ],
+      "journal": "Clin Haematol",
+      "pmid": "6373080",
+      "pubdate": "1984 Feb",
+      "title": "Transfusion support for haemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19695352"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijsu.2009.08.004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1743-9191(09)00112-5"
+        }
+      ],
+      "journal": "Int J Surg",
+      "pmid": "19695352",
+      "pubdate": "2009 Oct",
+      "title": "Splenectomy for haematological disorders: a single center study in 150 patients from Oman."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12721729"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00383-002-0804-5"
+        }
+      ],
+      "journal": "Pediatr Surg Int",
+      "pmid": "12721729",
+      "pubdate": "2003 Apr",
+      "title": "Should cholecystectomy be performed concomitantly with splenectomy in children with sickle-cell disease?"
+    }
+  ]
+}

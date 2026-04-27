@@ -1,0 +1,180 @@
+{
+  "count": 8,
+  "query": "transfusion dependent thalassemia pretransfusion hemoglobin transfusion interval",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41263205"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/aam.aam_308_25"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01244624-990000000-00382"
+        }
+      ],
+      "journal": "Ann Afr Med",
+      "pmid": "41263205",
+      "pubdate": "2025 Nov 20",
+      "title": "Prevalence of Alloantibodies in Transfusion-dependent Thalassemia Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37005945"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/trf.17305"
+        }
+      ],
+      "journal": "Transfusion",
+      "pmid": "37005945",
+      "pubdate": "2023 May",
+      "title": "Modeling hemoglobin levels of patients chronically transfused with red blood cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37488065"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/pbc.30599"
+        }
+      ],
+      "journal": "Pediatr Blood Cancer",
+      "pmid": "37488065",
+      "pubdate": "2023 Oct",
+      "title": "Thalassemia-related complications in pediatric, adolescent, and young adult patients with transfusion-dependent thalassemia: A multicenter study in Thailand."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22299450"
+        }
+      ],
+      "journal": "Southeast Asian J Trop Med Public Health",
+      "pmid": "22299450",
+      "pubdate": "2011 Sep",
+      "title": "Craniofacial deformities in transfusion-dependent thalassemia patients in Malaysia: prevalence and effect of treatment."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40904934"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12404126"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12404126;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.14740/jh2086"
+        }
+      ],
+      "journal": "J Hematol",
+      "pmid": "40904934",
+      "pubdate": "2025 Aug",
+      "title": "Novel Red Blood Cell Exchange Parameters for Treatment of Transfusion-Dependent Thalassemia Based on Experience of Five Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11563599"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s002770100317"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "11563599",
+      "pubdate": "2001 Aug",
+      "title": "Recombinant human erythropoietin therapy in a transfusion-dependent beta-thalassemia major patient."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39328659"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11426336"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11426336;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7759/cureus.67936"
+        }
+      ],
+      "journal": "Cureus",
+      "pmid": "39328659",
+      "pubdate": "2024 Aug",
+      "title": "Clinico-Laboratory Profile of Hypertriglyceridemia Thalassemia Syndrome: A Case Series in a Paediatric Tertiary Care Centre."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33948969"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8252500"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8252500;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/trf.16432"
+        }
+      ],
+      "journal": "Transfusion",
+      "pmid": "33948969",
+      "pubdate": "2021 Jun",
+      "title": "Impact of the preparation method of red cell concentrates on transfusion indices in thalassemia patients: A randomized crossover clinical trial."
+    }
+  ]
+}

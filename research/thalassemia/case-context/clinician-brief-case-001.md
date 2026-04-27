@@ -31,6 +31,8 @@ birth date
 - HBB and HBA genotype if available.
 - Pre-transfusion hemoglobin trend and target.
 - Transfusion records: interval, unit count, blood volume, and reactions.
+- Annual transfusion burden: ml/kg/year, pure red-cell volume if available, and
+  product Hb content where recorded.
 - Blood type and matching policy: ABO, Rh C/c, Rh D, Rh E/e, Kell, and extended
   antigen matching if used.
 - Antibody screen, named alloantibodies, direct antiglobulin test/direct
@@ -46,6 +48,9 @@ birth date
 ## Questions For Clinician
 
 - Is weekly transfusion expected for this subtype and phenotype?
+- Is the weekly interval due to high annual red-cell requirement, small-volume
+  scheduling, low Hb increment, poor donor RBC survival, or blood-product
+  characteristics?
 - Is there evidence of shortened red-cell survival from alloantibodies,
   autoantibodies, hypersplenism, hemolysis, or under-matching?
 - Is iron overload monitoring complete enough, including liver and cardiac MRI?
@@ -68,4 +73,5 @@ repo without a licensed hematologist.
 - [Clinical baseline checklist](../findings/2026-04-26-clinical-baseline-checklist.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
+- [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)

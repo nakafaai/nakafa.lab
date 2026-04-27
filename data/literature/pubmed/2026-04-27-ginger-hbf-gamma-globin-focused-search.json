@@ -1,0 +1,5 @@
+{
+  "count": 0,
+  "query": "(ginger[Title/Abstract] OR \"Zingiber officinale\"[Title/Abstract]) AND (\"fetal hemoglobin\"[Title/Abstract] OR \"gamma globin\"[Title/Abstract] OR HbF[Title/Abstract])",
+  "results": []
+}

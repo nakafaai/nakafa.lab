@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "Zingiber officinale thalassemia hemolysis",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40938906"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12431221"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12431221;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0332386"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-25-10265"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "40938906",
+      "pubdate": "2025",
+      "title": "Pulsed electric field (PEF)-processed 6-shogaol-rich ginger extract protects \u03b2-Thalassemic red blood cells from iron-induced oxidative stress and hemolysis."
+    }
+  ]
+}

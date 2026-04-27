@@ -27,6 +27,7 @@ clinician review.
 | 24:35 | blessed olive tree imagery | reflection and symbolic light context | not a direct pharmacology verse |
 | 36:33-35 | revived earth, grain, date-palms, grapes, springs | agriculture/provision reflection | hypothesis generation only |
 | 56:68-70 | water | basic life and care context | not a molecule candidate |
+| 76:17 | ginger | ginger/6-shogaol red-cell support hypothesis | Jannah reward description, not a treatment command |
 
 ## Implication For Thalassemia Research
 
@@ -83,6 +84,13 @@ from accidentally importing iron-deficiency anemia logic into
 transfusion-dependent thalassemia, where iron overload and chelation are central
 clinical constraints.
 
+Ginger is now a Quran-linked red-cell support lane from Quran 76:17. A 2025 PLOS
+One study tested PEF-processed, 6-shogaol-rich ginger extract on red blood cells
+from transfusion-dependent beta-thalassemia patients and reported lower
+oxidative hemolysis, lower membrane non-heme iron, and lower lipid
+peroxidation. Focused first-pass searches did not retrieve ginger HbF or
+gamma-globin evidence, so this lane is supportive rather than cure-oriented.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -103,10 +111,13 @@ when safety is plausible.
 - [Quran 24:35](https://quran.com/24/35)
 - [Quran 36:33-35](https://quran.com/36/33-35)
 - [Quran 56:68-70](https://quran.com/56/68-70)
+- [Quran 76:17](https://quran.com/76/17)
+- [Quran 76:17 structured note](076-al-insan/017.md)
 - [Natural-product HbF expansion map](../../thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Resveratrol HbF beta-thalassemia seed](../../thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Pomegranate and ellagic-acid evidence gap](../../thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md)
 - [Olive polyphenol red-cell support map](../../thalassemia/findings/2026-04-27-olive-polyphenol-red-cell-support-map.md)
 - [Date-palm anemia guardrail](../../thalassemia/findings/2026-04-27-date-palm-anemia-guardrail.md)
+- [Ginger shogaol red-cell support map](../../thalassemia/findings/2026-04-27-ginger-shogaol-red-cell-support-map.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

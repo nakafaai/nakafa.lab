@@ -1,0 +1,341 @@
+{
+  "count": 10,
+  "query": "ginger OR Zingiber officinale AND fetal hemoglobin OR gamma globin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32808012"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7685210"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7685210;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2020007645"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)81996-X"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "32808012",
+      "pubdate": "2020 Nov 19",
+      "title": "Fetal hemoglobin in sickle cell anemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37400614"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1927139"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10722557"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10722557;manuscript-id: NIHMS1927139;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-023-01434-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-023-01434-7"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "37400614",
+      "pubdate": "2023 Jul",
+      "title": "Potent and uniform fetal hemoglobin induction via base editing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30911135"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1521848"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6512986"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6512986;manuscript-id: NIHMS1521848;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-019-0401-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-019-0401-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "30911135",
+      "pubdate": "2019 May",
+      "title": "Highly efficient therapeutic gene editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36224385"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1846672"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9773321"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9773321;manuscript-id: NIHMS1846672;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41586-022-05312-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41586-022-05312-w"
+        }
+      ],
+      "journal": "Nature",
+      "pmid": "36224385",
+      "pubdate": "2022 Oct",
+      "title": "Activation of \u03b3-globin expression by hypoxia-inducible factor 1\u03b1."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39044427"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11638826"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11638826;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ymthe.2024.07.015"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-0016(24)00470-2"
+        }
+      ],
+      "journal": "Mol Ther",
+      "pmid": "39044427",
+      "pubdate": "2024 Dec 4",
+      "title": "Safety and efficacy studies of CRISPR-Cas9 treatment of sickle cell disease highlights disease-specific responses."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33283990"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1675638"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7962145"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7962145;manuscript-id: NIHMS1675638;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2029392"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "33283990",
+      "pubdate": "2021 Jan 21",
+      "title": "Post-Transcriptional Genetic Silencing of BCL11A to Treat Sickle Cell Disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19056937"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/science.1165409"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1165409"
+        }
+      ],
+      "journal": "Science",
+      "pmid": "19056937",
+      "pubdate": "2008 Dec 19",
+      "title": "Human fetal hemoglobin expression is regulated by the developmental stage-specific repressor BCL11A."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35922667"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-022-01906-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-022-01906-z"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "35922667",
+      "pubdate": "2022 Aug",
+      "title": "CRISPR-Cas9-mediated gene editing of the BCL11A enhancer for pediatric \u03b2(0)/\u03b2(0) transfusion-dependent \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29606353"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS950568"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5889339"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5889339;manuscript-id: NIHMS950568;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cell.2018.03.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0092-8674(18)30296-4"
+        }
+      ],
+      "journal": "Cell",
+      "pmid": "29606353",
+      "pubdate": "2018 Apr 5",
+      "title": "Direct Promoter Repression by BCL11A Controls the Fetal to Adult Hemoglobin Switch."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34341563"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1719166"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8610173"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8610173;manuscript-id: NIHMS1719166;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-021-00904-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-021-00904-0"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "34341563",
+      "pubdate": "2021 Aug",
+      "title": "Activation of \u03b3-globin gene expression by GATA1 and NF-Y in hereditary persistence of fetal hemoglobin."
+    }
+  ]
+}

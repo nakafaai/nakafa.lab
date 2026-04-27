@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 442793,
+        "MolecularFormula": "C17H26O4",
+        "MolecularWeight": "294.4",
+        "ConnectivitySMILES": "CCCCCC(CC(=O)CCC1=CC(=C(C=C1)O)OC)O",
+        "InChIKey": "NLDDIKRKFXEWBK-AWEZNQCLSA-N"
+      }
+    ]
+  }
+}

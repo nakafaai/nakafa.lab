@@ -15,3 +15,5 @@ Current notebooks:
 
 - `2026-04-27-candidate-score-sensitivity.ipynb` - stress test for the first
   candidate scoring table.
+- `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
+  that chooses a small first lab-panel candidate set by required assay coverage.

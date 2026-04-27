@@ -46,6 +46,21 @@ handling, and clinician oversight are already in place.
 Do not include broad honey, propolis, royal jelly, or unstandardized black-seed
 products in the first HbF panel unless identity and standardization are solved.
 
+## First Quote Panel
+
+The first computational panel optimizer selected a smaller five-item lab quote
+package:
+
+- hydroxyurea;
+- purified resveratrol;
+- sirolimus;
+- standardized 6-shogaol-rich ginger extract;
+- melittin hazard control.
+
+This is a quote package, not a final scientific panel. Add `T-BDMC`-like
+curcuminoid analog and a pyruvate kinase activator reference if the lab can
+resolve compound identity, legal access, and budget.
+
 ## Required Outputs
 
 Each run should return one table with:

@@ -1,0 +1,44 @@
+{
+  "count": 1,
+  "query": "Activation gamma-globin gene expression GATA1 NF-Y hereditary persistence fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34341563"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1719166"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8610173"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8610173;manuscript-id: NIHMS1719166;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-021-00904-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-021-00904-0"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "34341563",
+      "pubdate": "2021 Aug",
+      "title": "Activation of \u03b3-globin gene expression by GATA1 and NF-Y in hereditary persistence of fetal hemoglobin."
+    }
+  ]
+}

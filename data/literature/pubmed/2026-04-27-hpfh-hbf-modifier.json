@@ -1,0 +1,337 @@
+{
+  "count": 12,
+  "query": "hereditary persistence of fetal hemoglobin modifier thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33283989"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2031054"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "33283989",
+      "pubdate": "2021 Jan 21",
+      "title": "CRISPR-Cas9 Gene Editing for Sickle Cell Disease and \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38182489"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.blre.2023.101165"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0268-960X(23)00135-2"
+        }
+      ],
+      "journal": "Blood Rev",
+      "pmid": "38182489",
+      "pubdate": "2024 Mar",
+      "title": "\u0391lpha-thalassemia: A practical overview."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20098328"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/GIM.0b013e3181cd68ed"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1098-3600(21)02087-6"
+        }
+      ],
+      "journal": "Genet Med",
+      "pmid": "20098328",
+      "pubdate": "2010 Feb",
+      "title": "Beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36907603"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1891326"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10122828"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10122828;manuscript-id: NIHMS1891326;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2022.12.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(22)00142-3"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "36907603",
+      "pubdate": "2023 Apr",
+      "title": "Molecular Basis and Genetic Modifiers of Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34766559"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8589257"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8589257;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MD.0000000000027522"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00005792-202111120-00004"
+        }
+      ],
+      "journal": "Medicine (Baltimore)",
+      "pmid": "34766559",
+      "pubdate": "2021 Nov 12",
+      "title": "Molecular genetics of \u03b2-thalassemia: A narrative review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35681538"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9180595"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9180595;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cells11111843"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cells11111843"
+        }
+      ],
+      "journal": "Cells",
+      "pmid": "35681538",
+      "pubdate": "2022 Jun 4",
+      "title": "Hematopoietic Stem Cell Gene-Addition/Editing Therapy in Sickle Cell Disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29669226"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa1705342"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "29669226",
+      "pubdate": "2018 Apr 19",
+      "title": "Gene Therapy in Patients with Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29606353"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS950568"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5889339"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5889339;manuscript-id: NIHMS950568;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cell.2018.03.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0092-8674(18)30296-4"
+        }
+      ],
+      "journal": "Cell",
+      "pmid": "29606353",
+      "pubdate": "2018 Apr 5",
+      "title": "Direct Promoter Repression by BCL11A Controls the Fetal to Adult Hemoglobin Switch."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41348010"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12891362"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12891362;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/hematology.2025000716"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "556882"
+        }
+      ],
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "41348010",
+      "pubdate": "2025 Dec 5",
+      "title": "Thalassemia and hypercoagulability."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40160040"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12094669"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12094669;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1017/erm.2025.10"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1462399425000109"
+        }
+      ],
+      "journal": "Expert Rev Mol Med",
+      "pmid": "40160040",
+      "pubdate": "2025 Mar 31",
+      "title": "Advancing CRISPR genome editing into gene therapy clinical trials: progress and future prospects."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40544857"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(25)00635-X"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(25)00635-X"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "40544857",
+      "pubdate": "2025 Jul 5",
+      "title": "Mitapivat in adults with non-transfusion-dependent \u03b1-thalassaemia or \u03b2-thalassaemia (ENERGIZE): a phase 3, international, randomised, double-blind, placebo-controlled trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27801605"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/17474086.2016.1255142"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "27801605",
+      "pubdate": "2016 Dec",
+      "title": "Fetal hemoglobin regulation in \u03b2-thalassemia: heterogeneity, modifiers and therapeutic approaches."
+    }
+  ]
+}

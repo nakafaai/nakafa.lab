@@ -18,6 +18,8 @@ the need to avoid generic "works for thalassemia" claims.
 | `HBB` genotype | defines beta-globin production defect | unknown |
 | `HBA` genotype | rules in or out alpha-thalassemia contribution | unknown |
 | Hb fractions: HbA, HbA2, HbF, HbE | baseline phenotype and HbF reserve | unknown |
+| F-cell distribution | separates broad HPFH-like HbF distribution from sparse-cell signal | unknown |
+| `HBG1/HBG2` promoter or HPFH-like variants | natural HbF-persistence biology can change phenotype and candidate interpretation | unknown |
 | XmnI-HBG2 | hydroxyurea/HbF response modifier signal | unknown |
 | `BCL11A` modifier status | HbF silencing and response context | unknown |
 | `HBS1L-MYB` modifier status | HbF modifier context | unknown |
@@ -51,6 +53,7 @@ Use these labels:
 | Curcuminoid analog HbF | unmatched | direct HbF biology exists, but mostly assay-stage and chemistry-gated |
 | Exa-cel | matched biologically, blocked by access | validates HbF reactivation but requires cell-therapy infrastructure |
 | Beti-cel | matched biologically, blocked by access | validates stem-cell gene addition but depends on genotype and access |
+| HPFH-like HBG promoter editing | matched biologically, blocked by access | defines the desired HbF-rescue phenotype but remains a gene-editing benchmark |
 
 ## Data Capture Form
 
@@ -66,6 +69,8 @@ HBA:
 HbA:
 HbA2:
 HbF:
+F_cell_distribution:
+HBG1_HBG2_promoter_or_HPFH_like_variant:
 HbE:
 XmnI_HBG2:
 BCL11A_modifier:
@@ -89,4 +94,5 @@ current_interpretation:
 - [Hydroxyurea response predictor map](../findings/2026-04-27-hydroxyurea-response-predictor-map.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
 - [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
+- [HPFH natural HbF blueprint](../findings/2026-04-27-hpfh-natural-hbf-blueprint.md)
 - [Hematologist question sheet](../case-context/hematologist-question-sheet-case-001.md)

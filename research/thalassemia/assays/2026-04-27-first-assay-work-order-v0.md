@@ -77,6 +77,21 @@ treatment proposal. CRBN/IMiD comparators such as pomalidomide or avadomide are
 high-caution mechanism comparators and should not be promoted as affordable
 leads without disease-specific safety review.
 
+## HPFH-Like Signature Add-On
+
+For candidates that pass the HbF and safety gates, compare the signal against an
+`HPFH-like` reference state when the lab can support it:
+
+- `HBG1/HBG2` promoter-linked gamma-globin activation;
+- F-cell percentage or HbF distribution, not only total HbF;
+- `BCL11A`, `ZBTB7A`, `KLF1`, `GATA1`, and `NF-Y` pathway context where
+  feasible;
+- erythroid maturation markers such as `CD71` and `CD235a`;
+- viability, apoptosis, and mature red-cell hemolysis.
+
+This keeps HPFH biology as a positive-control target phenotype. It does not
+turn HBG promoter editing into a patient-facing recommendation.
+
 ## Promotion Rules
 
 Promote only if:
@@ -118,3 +133,4 @@ the few candidates that deserve deeper testing.
 - [Melittin bee-venom hazard deep dive](../findings/2026-04-27-melittin-bee-venom-hazard-deep-dive.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [BCL11A HbF switch mimic boundary](../findings/2026-04-27-bcl11a-hbf-switch-mimic-boundary.md)
+- [HPFH natural HbF blueprint](../findings/2026-04-27-hpfh-natural-hbf-blueprint.md)

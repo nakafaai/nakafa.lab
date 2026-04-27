@@ -76,7 +76,6 @@ a patient's care.
 
 ## Sources
 
-- [Full-text HTML snapshot](../../../data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.html)
 - [Full-text text extraction](../../../data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.txt)
 - [PubMed single-record snapshot](../../../data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-esummary.json)
 - [PMC Open Access metadata](../../../data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-pmc-oa.xml)

@@ -69,7 +69,7 @@ gates are:
 
 ## Sources
 
-- [Springer publisher snapshot](../../../data/literature/fulltext/springer/2026-04-27-pabuprapap-2019-quercetin-analogs.html)
+- [Quercetin analogs DOI](https://doi.org/10.1007/s00044-019-02412-7)
 - [Quercetin analogs Crossref snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-crossref.json)
 - [Quercetin analogs exact-title PubMed snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json)
 - [Quercetin analogs ChEMBL DOI document snapshot](../../../data/chemistry/chembl/quercetin-analogs/2026-04-27-quercetin-analogs-document.json)

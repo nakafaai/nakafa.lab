@@ -80,7 +80,6 @@ not treated as a replacement for disease-specific evidence.
 - [Nigella thalassemia selected abstracts](../../../data/literature/pubmed/2026-04-27-nigella-thalassemia-selected-abstracts.xml)
 - [Mogharbel/Gamaleldin 2024 PubMed single-record snapshot](../../../data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-esummary.json)
 - [Mogharbel/Gamaleldin 2024 PMC Open Access metadata](../../../data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-pmc-oa.xml)
-- [Mogharbel/Gamaleldin 2024 full-text HTML snapshot](../../../data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.html)
 - [Mogharbel/Gamaleldin 2024 full-text text extraction](../../../data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.txt)
 - [Nigella sativa thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-nigella-sativa-thalassemia-trials.json)
 - [Thymoquinone thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-thymoquinone-thalassemia-trials.json)

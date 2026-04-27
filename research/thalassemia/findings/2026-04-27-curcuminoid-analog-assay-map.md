@@ -85,8 +85,7 @@ Keep `T-BDMC` as a high-priority assay seed, but with strict gates:
 
 ## Sources
 
-- [Nuamsee 2021 Nature snapshot](../../../data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone.html)
-- [Nuamsee 2021 PMC snapshot](../../../data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone-pmc.html)
+- [Nuamsee 2021 Scientific Reports article](https://www.nature.com/articles/s41598-021-87738-2)
 - [PMC Open Access metadata](../../../data/literature/pubmed/2026-04-27-curcuminoid-trienone-pmc-oa.xml)
 - [PubMed-to-PMC link snapshot](../../../data/literature/pubmed/2026-04-27-curcuminoid-trienone-pubmed-to-pmc.json)
 - [Curcuminoid HbF PubMed ESummary](../../../data/literature/pubmed/2026-04-27-curcuminoid-hbf-esummary.json)

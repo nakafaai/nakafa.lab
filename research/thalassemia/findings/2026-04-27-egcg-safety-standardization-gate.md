@@ -82,13 +82,9 @@ also harm the liver in susceptible people.
 
 ## Sources
 
-- [LiverTox Green Tea HTML snapshot](../../../data/literature/fulltext/ncbi_books/2026-04-27-livertox-green-tea.html)
 - [LiverTox Green Tea text extraction](../../../data/literature/fulltext/ncbi_books/2026-04-27-livertox-green-tea.txt)
-- [EFSA green-tea catechins safety PMC snapshot](../../../data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.html)
 - [EFSA green-tea catechins safety text extraction](../../../data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.txt)
-- [USP GTE hepatotoxicity review HTML snapshot](../../../data/literature/fulltext/pmc/2026-04-27-usp-green-tea-extract-hepatotoxicity-review.html)
 - [USP GTE hepatotoxicity review text extraction](../../../data/literature/fulltext/pmc/2026-04-27-usp-green-tea-extract-hepatotoxicity-review.txt)
-- [RCT liver-safety review HTML snapshot](../../../data/literature/fulltext/pmc/2026-04-27-green-tea-extract-liver-safety-rct-review.html)
 - [RCT liver-safety review text extraction](../../../data/literature/fulltext/pmc/2026-04-27-green-tea-extract-liver-safety-rct-review.txt)
 - [Selected safety PubMed abstracts](../../../data/literature/pubmed/2026-04-27-egcg-safety-selected-abstracts.xml)
 - [Green-tea extract liver-injury PubMed search](../../../data/literature/pubmed/2026-04-27-green-tea-extract-liver-injury-search.json)

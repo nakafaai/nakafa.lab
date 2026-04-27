@@ -63,7 +63,6 @@ finding supports laboratory research only.
 
 - [Quran 76:17 structured note](../../islamic/quran/076-al-insan/017.md)
 - [Quran 76:17](https://quran.com/76/17)
-- [Chuljerm 2025 PLOS full-text snapshot](../../../data/literature/fulltext/plos/2026-04-27-chuljerm-2025-ginger-shogaol-thalassemia.html)
 - [Chuljerm 2025 PLOS text extraction](../../../data/literature/fulltext/plos/2026-04-27-chuljerm-2025-ginger-shogaol-thalassemia.txt)
 - [Chuljerm 2025 PubMed DOI snapshot](../../../data/literature/pubmed/2026-04-27-ginger-shogaol-thalassemia-pubmed-search.json)
 - [Zingiber thalassemia PubMed snapshot](../../../data/literature/pubmed/2026-04-27-zingiber-officinale-thalassemia-hemolysis-search.json)

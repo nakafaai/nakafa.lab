@@ -94,6 +94,6 @@ The next gates are:
 - [T-BDMC ChEMBL molecule snapshot](../../../data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-chembl469419.json)
 - [T-BDMC ChEMBL activity snapshot](../../../data/chemistry/chembl/curcuminoid-analogs/2026-04-27-t-bdmc-chembl-activities.json)
 - [HHBDMC ChEMBL negative search snapshot](../../../data/chemistry/chembl/curcuminoid-analogs/2026-04-27-hhbdmc-search.json)
-- [Nuamsee 2021 PMC snapshot](../../../data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone-pmc.html)
+- [Nuamsee 2021 Scientific Reports article](https://www.nature.com/articles/s41598-021-87738-2)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
 - [T-BDMC cytotoxicity boundary](2026-04-27-t-bdmc-cytotoxicity-boundary.md)

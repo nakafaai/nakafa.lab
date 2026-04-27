@@ -52,8 +52,6 @@ BEE_CONSTITUENT_PATHS = [
     "data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-crossref.json",
     "data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json",
     "data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json",
-    "data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone.html",
-    "data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone-pmc.html",
     "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-curcumin-properties.json",
     "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-demethoxycurcumin-properties.json",
     "data/chemistry/pubchem/curcuminoid-analogs/2026-04-27-bis-demethoxycurcumin-properties.json",
@@ -209,7 +207,6 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/literature/pubmed/2026-04-27-ginger-hbf-gamma-globin-search.json",
     "data/literature/pubmed/2026-04-27-ginger-hbf-gamma-globin-focused-search.json",
     "data/literature/pubmed/2026-04-27-gingerol-shogaol-hbf-search.json",
-    "data/literature/fulltext/plos/2026-04-27-chuljerm-2025-ginger-shogaol-thalassemia.html",
     "data/literature/fulltext/plos/2026-04-27-chuljerm-2025-ginger-shogaol-thalassemia.txt",
     "data/chemistry/pubchem/natural-product-hbf/2026-04-27-6-shogaol-properties.json",
     "data/chemistry/pubchem/natural-product-hbf/2026-04-27-6-gingerol-properties.json",
@@ -225,9 +222,7 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/literature/pubmed/2026-04-27-green-tea-egcg-platelet-tdt-abstract.xml",
     "data/literature/pubmed/2026-04-27-green-tea-egcg-platelet-tdt-pmc-oa.xml",
     "data/literature/pubmed/2026-04-27-green-tea-platelet-thalassemia-search.json",
-    "data/literature/fulltext/pmc/2026-04-27-settakorn-2024-egcg-tdt.html",
     "data/literature/fulltext/pmc/2026-04-27-settakorn-2024-egcg-tdt.txt",
-    "data/literature/fulltext/pmc/2026-04-27-green-tea-egcg-platelet-tdt.html",
     "data/literature/fulltext/pmc/2026-04-27-green-tea-egcg-platelet-tdt.txt",
     "data/chemistry/pubchem/natural-product-hbf/2026-04-27-egcg-properties.json",
     "data/registries/clinicaltrials/2026-04-27-egcg-thalassemia-trials.json",
@@ -257,16 +252,13 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/literature/pubmed/2026-04-27-nigella-thalassemia-selected-abstracts.xml",
     "data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-esummary.json",
     "data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-pmc-oa.xml",
-    "data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.html",
     "data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.txt",
     "data/literature/pubmed/2026-04-27-khaikin-2022-nigella-standardization-esummary.json",
     "data/literature/pubmed/2026-04-27-nigella-product-standardization-search.json",
     "data/literature/pubmed/2026-04-27-khaikin-2022-nigella-standardization-pmc-oa.xml",
-    "data/literature/fulltext/pmc/2026-04-27-khaikin-2022-nigella-standardization.html",
     "data/literature/fulltext/pmc/2026-04-27-khaikin-2022-nigella-standardization.txt",
     "data/literature/pubmed/2026-04-27-alkhatib-2020-black-seed-oil-tq-content-esummary.json",
     "data/literature/pubmed/2026-04-27-alkhatib-2020-black-seed-oil-tq-content-pmc-oa.xml",
-    "data/literature/fulltext/pmc/2026-04-27-alkhatib-2020-black-seed-oil-tq-content.html",
     "data/literature/fulltext/pmc/2026-04-27-alkhatib-2020-black-seed-oil-tq-content.txt",
     "data/registries/clinicaltrials/2026-04-27-nigella-sativa-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-thymoquinone-thalassemia-trials.json",
@@ -275,7 +267,6 @@ NATURAL_PRODUCT_HBF_PATHS = [
 ]
 
 QUERCETIN_ANALOG_PATHS = [
-    "data/literature/fulltext/springer/2026-04-27-pabuprapap-2019-quercetin-analogs.html",
     "data/chemistry/pubchem/quercetin-analogs/2026-04-27-quercetin-properties.json",
     "data/chemistry/pubchem/quercetin-analogs/2026-04-27-quercetin-3-4-dimethyl-ether-properties.json",
     "data/chemistry/chembl/quercetin-analogs/2026-04-27-quercetin-analogs-document.json",
@@ -337,11 +328,8 @@ CRBN_HBF_BOUNDARY_PATHS = [
 ]
 
 EGCG_SAFETY_STANDARDIZATION_PATHS = [
-    "data/literature/fulltext/ncbi_books/2026-04-27-livertox-green-tea.html",
     "data/literature/fulltext/ncbi_books/2026-04-27-livertox-green-tea.txt",
-    "data/literature/fulltext/pmc/2026-04-27-usp-green-tea-extract-hepatotoxicity-review.html",
     "data/literature/fulltext/pmc/2026-04-27-usp-green-tea-extract-hepatotoxicity-review.txt",
-    "data/literature/fulltext/pmc/2026-04-27-green-tea-extract-liver-safety-rct-review.html",
     "data/literature/fulltext/pmc/2026-04-27-green-tea-extract-liver-safety-rct-review.txt",
     "data/literature/pubmed/2026-04-27-green-tea-extract-hepatotoxicity-search.json",
     "data/literature/pubmed/2026-04-27-egcg-liver-injury-search.json",
@@ -350,7 +338,6 @@ EGCG_SAFETY_STANDARDIZATION_PATHS = [
     "data/literature/pubmed/2026-04-27-green-tea-catechins-hepatotoxicity-search.json",
     "data/literature/pubmed/2026-04-27-green-tea-anticoagulant-interaction-search.json",
     "data/literature/pubmed/2026-04-27-egcg-safety-selected-abstracts.xml",
-    "data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.html",
     "data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.txt",
 ]
 

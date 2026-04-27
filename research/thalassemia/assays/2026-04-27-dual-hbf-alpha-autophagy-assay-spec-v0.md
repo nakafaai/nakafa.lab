@@ -103,7 +103,7 @@ Reject if:
 | --- | --- |
 | hydroxyurea | positive HbF comparator; not expected to solve every alpha-globin/autophagy endpoint |
 | sirolimus | monitored autophagy/HbF/`AHSP` comparator; requires strict immune and drug-monitoring boundary |
-| `AMPKB1` / `NRF2` lane | target-discovery bridge; `AHSP` is an optional buffer readout, not proof of rescue |
+| `PRKAB1` / AMPK beta1 / `NRF2` lane | target-discovery bridge; `AHSP` is an optional buffer readout, not proof of rescue |
 | PF-06409577 | exact-material `PRKAB1` / AMPK beta1 assay probe; requires CoA, purity, lot, vehicle, dose range, and full HbF plus alpha-globin/autophagy safety readouts |
 | alpha-globin rebalancing / `HBA` reduction | advanced chain-balance benchmark; useful for assay design, not a first affordable lab-panel candidate |
 | delta-globin / HbA2 induction | advanced non-beta-globin compensation benchmark; keep `HBD` and HbA2 separate from HbF claims |
@@ -150,7 +150,7 @@ Use this spec when a candidate claims any of the following:
 
 - HPFH-like HbF rescue;
 - alpha-globin cleanup;
-- `ULK1`, `AMBRA1`, p62/`SQSTM1`, `AMPKB1`, `NRF2`, or autophagy biology;
+- `ULK1`, `AMBRA1`, p62/`SQSTM1`, `PRKAB1` / AMPK beta1, `NRF2`, or autophagy biology;
 - reduced globin-chain imbalance;
 - red-cell survival support with a cure-like framing.
 
@@ -164,6 +164,7 @@ research gate.
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [PF-06409577 probe material gate](../findings/2026-04-27-pf-06409577-probe-material-gate.md)
 - [PRKAB1 target nomenclature gate](../findings/2026-04-27-prkab1-target-nomenclature-gate.md)
+- [PF-06409577 PRKAB1 quote addendum](2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)

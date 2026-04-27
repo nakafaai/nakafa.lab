@@ -36,20 +36,22 @@ Expansion items if the lab can support them:
 
 - PF-06409577 as a `PRKAB1` / AMPK beta1 / `NRF2` / `ULK1` assay probe, only
   with exact identity, certificate of analysis, purity, lot, vehicle, and
-  dose-range documentation;
+  dose-range documentation, using the dedicated
+  [PF-06409577 PRKAB1 quote addendum](2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md);
 - `T-BDMC`-like curcuminoid analog, only with exact compound identity and batch
   documentation;
 - mitapivat or a lab-approved pyruvate kinase activator reference, only if
   legally and practically obtainable.
 
 The later dual-readout prioritizer keeps this first quote panel unchanged. It
-adds `AMPKB1` / `NRF2`, pyruvate kinase activation, and `T-BDMC`-like chemistry
-as expansion-only lanes when the lab can support the identity, alpha-globin,
-autophagy, maturation, viability, and hemolysis gates.
+adds `PRKAB1` / AMPK beta1 / `NRF2`, pyruvate kinase activation, and
+`T-BDMC`-like chemistry as expansion-only lanes when the lab can support the
+identity, alpha-globin, autophagy, maturation, viability, and hemolysis gates.
 
-The `AMPKB1` / `NRF2` expansion gate keeps selective probes as assay-only and
-keeps metformin as a low-priority warning comparator, not a lead, because the
-retrieved NTDT human study did not show extra benefit over stable hydroxyurea.
+The `PRKAB1` / AMPK beta1 / `NRF2` expansion gate keeps selective probes as
+assay-only and keeps metformin as a low-priority warning comparator, not a lead,
+because the retrieved NTDT human study did not show extra benefit over stable
+hydroxyurea.
 The PF-06409577 material gate now makes this expansion lane stricter: use exact
 PF-06409577 or an explicitly agreed `PRKAB1` / AMPK beta1-selective analog only
 when the lab can document identity and run HbF, alpha-globin/autophagy,
@@ -135,6 +137,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [PF-06409577 probe material gate](../findings/2026-04-27-pf-06409577-probe-material-gate.md)
 - [PRKAB1 target nomenclature gate](../findings/2026-04-27-prkab1-target-nomenclature-gate.md)
+- [PF-06409577 PRKAB1 quote addendum](2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)

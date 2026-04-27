@@ -88,7 +88,19 @@ reactivation.
 Use the
 [dual HbF and alpha-globin autophagy assay spec V0](2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
 when a candidate claims both HbF rescue and alpha-globin cleanup, `ULK1`,
-`AMBRA1`, p62/`SQSTM1`, `AMPKB1`, `NRF2`, or autophagy biology.
+`AMBRA1`, p62/`SQSTM1`, `PRKAB1` / AMPK beta1, `NRF2`, or autophagy biology.
+
+## PF-06409577 Expansion Add-On
+
+PF-06409577 is not part of the fixed first quote panel. Add it only if the lab
+can support the
+[PF-06409577 PRKAB1 quote addendum](2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md)
+with exact material identity, certificate of analysis, purity, lot, storage,
+solvent, vehicle, dose range, and the full dual HbF plus
+alpha-globin/autophagy safety readout set.
+
+Treat this add-on as assay-probe biology only. It is not a patient candidate,
+supplement candidate, or treatment recommendation.
 
 ## BCL11A/HbF Signature Add-On
 
@@ -159,6 +171,7 @@ the few candidates that deserve deeper testing.
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Dual HbF and alpha-globin autophagy assay spec V0](2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
+- [PF-06409577 PRKAB1 quote addendum](2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Pyruvate kinase red-cell metabolism benchmark](../findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)

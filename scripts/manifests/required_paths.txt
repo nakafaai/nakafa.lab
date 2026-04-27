@@ -676,6 +676,7 @@ data/registries/clinicaltrials/2026-04-27-active-referral-luspatercept-beta-thal
 data/registries/clinicaltrials/2026-04-27-active-referral-mitapivat-beta-thalassemia.json
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
+research/thalassemia/assays/2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md
 research/thalassemia/notebooks/2026-04-27-ahsp-buffer-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-alpha-globin-rebalancing-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-delta-globin-hba2-gate.ipynb

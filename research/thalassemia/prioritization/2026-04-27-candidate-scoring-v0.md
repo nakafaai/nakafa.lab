@@ -105,11 +105,18 @@ For HbF candidates, add the
 promotion. `hpfh_like` can move a candidate upward; `stress_hbf`,
 `reporter_only`, or `blocked` overrides the weighted score.
 
+The first applied label map is
+[HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md).
+The key result is that current small-molecule and natural-product candidates
+are still `partial_hbf`, `reporter_only`, `not_hbf_lane`, or `blocked`; only
+gene-editing and natural HPFH biology count as true `hpfh_like` benchmarks.
+
 ## Linked Evidence
 
 - [Candidate ranking](2026-04-26-candidate-ranking.md)
 - [HbF responder signature V0](2026-04-27-hbf-responder-signature-v0.md)
 - [HPFH-like signature V0](2026-04-27-hpfh-like-signature-v0.md)
+- [HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md)
 - [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
 - [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)

@@ -554,6 +554,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/prioritization/2026-04-26-candidate-ranking.md",
     "research/thalassemia/prioritization/2026-04-27-candidate-scoring-v0.md",
     "research/thalassemia/prioritization/2026-04-27-hbf-responder-signature-v0.md",
+    "research/thalassemia/prioritization/2026-04-27-hpfh-like-candidate-labels-v0.md",
     "research/thalassemia/prioritization/2026-04-27-hpfh-like-signature-v0.md",
     "research/thalassemia/references/source-registry.md",
     "research/islamic/README.md",

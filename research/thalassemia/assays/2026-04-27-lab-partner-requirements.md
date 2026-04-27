@@ -57,6 +57,9 @@ Ask a potential lab partner:
 - What sample type, ethics approval, and biosafety review would be required?
 - Which assays are realistic in Indonesia or through remote collaboration?
 
+Indonesian candidate settings are mapped in
+[Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md).
+
 ## Stop Conditions
 
 Stop a candidate before escalation if:

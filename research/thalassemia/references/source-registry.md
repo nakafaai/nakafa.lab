@@ -260,3 +260,4 @@ Checked on 2026-04-26 unless noted.
 | Hydroxyurea | [Hydroxyurea response predictor PubMed XML](../../../data/literature/pubmed/2026-04-27-hydroxyurea-response-predictors.xml) | Reproducible PubMed XML snapshot for hydroxyurea responder-biology abstracts. |
 | Prioritization | [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md) | Defines the minimum genotype, phenotype, transfusion, immune, and assay variables needed to interpret HbF-inducing candidates. |
 | Assay planning | [Lab partner requirements](../assays/2026-04-27-lab-partner-requirements.md) | Defines the minimum qualified-lab capabilities needed before candidate testing can begin. |
+| Assay planning | [Indonesia lab partner candidate map](../assays/2026-04-27-indonesia-lab-partner-candidate-map.md) | Maps first Indonesian clinical, genotype, and potential assay partner settings from public thalassemia literature. |

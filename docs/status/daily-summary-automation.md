@@ -1,8 +1,24 @@
-# Daily Research Summary Automation
+# Daily Research Summary Automation Runbook
 
 Date created: 2026-04-27
 Automation id: `nakafa-lab-daily-research-summary`
 Status: active
+
+## Why This File Exists
+
+This is not a leftover note. It is the repository-side runbook for the active
+Codex automation with id `nakafa-lab-daily-research-summary`.
+
+The automation itself lives outside the repository in Codex app automation
+state. This file exists so the repo still explains:
+
+- why dated status journals exist;
+- what each daily summary should contain;
+- what boundaries the automation must respect;
+- what verification should run before a summary batch is committed.
+
+Without this runbook, the repo would contain dated summaries but no local
+explanation of the process that creates them.
 
 ## Purpose
 
@@ -44,3 +60,9 @@ Before committing, the automation should run:
 - LaTeX build when the paper changes.
 
 Verified scoped batches should be committed and pushed to `main`.
+
+## Cohesion Check
+
+Keep this file only while the `nakafa-lab-daily-research-summary` automation is
+active. If that automation is deleted or renamed, update this runbook and
+[README.md](README.md) in the same commit.

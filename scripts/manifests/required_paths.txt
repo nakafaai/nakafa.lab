@@ -552,6 +552,7 @@ research/thalassemia/prioritization/2026-04-27-hpfh-like-signature-v0.md
 research/thalassemia/notebooks/README.md
 research/thalassemia/notebooks/2026-04-27-candidate-score-sensitivity.ipynb
 research/thalassemia/notebooks/2026-04-27-first-wet-lab-panel-optimizer.ipynb
+research/thalassemia/notebooks/2026-04-27-mechanism-gap-matrix.ipynb
 research/thalassemia/references/source-registry.md
 research/islamic/README.md
 research/islamic/findings/2026-04-26-healing-and-caution.md
@@ -597,10 +598,16 @@ research/thalassemia/findings/2026-04-27-bpom-sirolimus-product-search.md
 research/thalassemia/findings/2026-04-27-experiment-status-boundary.md
 research/thalassemia/findings/2026-04-27-first-wet-lab-panel-optimizer-result.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
+research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json
+data/literature/pubmed/2026-04-27-gap-matrix-broad-small-molecule-hbf.json
+data/literature/pubmed/2026-04-27-gap-matrix-integrated-assay-gates.json
+data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json
+data/literature/pubmed/2026-04-27-gap-matrix-positive-hbf-induction.json
+data/literature/pubmed/2026-04-27-gap-matrix-positive-hpfh-hbg-promoter.json
 templates/lab-quote-request-template.md
 templates/clinician-review-brief-template.md
 templates/assay-run-template.md

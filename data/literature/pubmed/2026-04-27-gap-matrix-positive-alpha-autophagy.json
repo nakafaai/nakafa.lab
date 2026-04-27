@@ -1,0 +1,331 @@
+{
+  "count": 10,
+  "query": "beta thalassemia alpha globin autophagy",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39693613"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2023022688"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "534662"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "39693613",
+      "pubdate": "2025 Mar 6",
+      "title": "Mutations in AMBRA1 aggravate \u03b2-thalassemia by\u00a0impairing autophagy-mediated clearance of\u00a0free\u00a0\u03b1-globin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37339583"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10517214"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10517214;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2022017265"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(23)01465-9"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "37339583",
+      "pubdate": "2023 Sep 7",
+      "title": "Loss of miR-144/451 alleviates \u03b2-thalassemia by stimulating ULK1-mediated autophagy of free \u03b1-globin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31434755"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1618428"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7441525"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7441525;manuscript-id: NIHMS1618428;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/scitranslmed.aav4881"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "11/506/eaav4881"
+        }
+      ],
+      "journal": "Sci Transl Med",
+      "pmid": "31434755",
+      "pubdate": "2019 Aug 21",
+      "title": "The autophagy-activating kinase ULK1 mediates clearance of free \u03b1-globin in \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38542374"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10969871"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10969871;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms25063400"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms25063400"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "38542374",
+      "pubdate": "2024 Mar 17",
+      "title": "Impact of \u03b1-Globin Gene Expression and \u03b1-Globin Modifiers on the Phenotype of \u03b2-Thalassemia and Other Hemoglobinopathies: Implications for Patient Management."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38891049"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11171814"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11171814;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cells13110918"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cells13110918"
+        }
+      ],
+      "journal": "Cells",
+      "pmid": "38891049",
+      "pubdate": "2024 May 25",
+      "title": "Therapeutic Relevance of Inducing Autophagy in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37894732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10606773"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10606773;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms242015049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms242015049"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "37894732",
+      "pubdate": "2023 Oct 10",
+      "title": "Decrease in \u03b1-Globin and Increase in the Autophagy-Activating Kinase ULK1 mRNA in Erythroid Precursors from \u03b2-Thalassemia Patients Treated with Sirolimus."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36142738"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9502731"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9502731;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms231810811"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms231810811"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "36142738",
+      "pubdate": "2022 Sep 16",
+      "title": "The Roles of Mitophagy and Autophagy in Ineffective Erythropoiesis in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22427201"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3369615"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3369615;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2011-12-397729"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)47779-1"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "22427201",
+      "pubdate": "2012 May 31",
+      "title": "Integrated protein quality-control pathways regulate free \u03b1-globin in murine \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38270940"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10862359"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10862359;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2023023251"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(23)14312-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "38270940",
+      "pubdate": "2024 Jan 25",
+      "title": "Keith J, Christakopoulos GE, Fernandez AG, et\u00a0al. Loss of miR-144/451 alleviates \u03b2-thalassemia by stimulating ULK1-mediated autophagy of free \u03b1-globin. Blood. 2023;142(10):918-932."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36980829"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10048432"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10048432;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/genes14030556"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "genes14030556"
+        }
+      ],
+      "journal": "Genes (Basel)",
+      "pmid": "36980829",
+      "pubdate": "2023 Feb 23",
+      "title": "Production and Characterization of K562 Cellular Clones Hyper-Expressing the Gene Encoding \u03b1-Globin: Preliminary Analysis of Biomarkers Associated with Autophagy."
+    }
+  ]
+}

@@ -17,3 +17,6 @@ Current notebooks:
   candidate scoring table.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
+- `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping
+  experiment comparing broad component evidence with the fully integrated
+  Nakafa Lab research gap.

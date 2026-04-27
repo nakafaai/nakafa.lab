@@ -1,0 +1,286 @@
+{
+  "count": 10,
+  "query": "beta thalassemia fetal hemoglobin induction therapy",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20098328"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/GIM.0b013e3181cd68ed"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1098-3600(21)02087-6"
+        }
+      ],
+      "journal": "Genet Med",
+      "pmid": "20098328",
+      "pubdate": "2010 Feb",
+      "title": "Beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37400614"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1927139"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10722557"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10722557;manuscript-id: NIHMS1927139;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-023-01434-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-023-01434-7"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "37400614",
+      "pubdate": "2023 Jul",
+      "title": "Potent and uniform fetal hemoglobin induction via base editing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30911135"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1521848"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6512986"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6512986;manuscript-id: NIHMS1521848;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-019-0401-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-019-0401-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "30911135",
+      "pubdate": "2019 May",
+      "title": "Highly efficient therapeutic gene editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33471981"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMe2034338"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "33471981",
+      "pubdate": "2021 Jan 21",
+      "title": "Induction of Fetal Hemoglobin by Gene Therapy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23315167"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2012-10-408021"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)47286-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "23315167",
+      "pubdate": "2013 Mar 21",
+      "title": "Clinical experience with fetal hemoglobin induction therapy in patients with \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK1426"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20301599"
+        }
+      ],
+      "journal": "",
+      "pmid": "20301599",
+      "pubdate": "1993",
+      "title": "Beta-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38357584"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10864806"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10864806;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jtumed.2024.01.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1658-3612(24)00003-9"
+        }
+      ],
+      "journal": "J Taibah Univ Med Sci",
+      "pmid": "38357584",
+      "pubdate": "2024 Apr",
+      "title": "Cephalometric analysis of patients with beta thalassemia receiving fetal hemoglobin induction therapy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36292612"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9601852"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9601852;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/genes13101727"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "genes13101727"
+        }
+      ],
+      "journal": "Genes (Basel)",
+      "pmid": "36292612",
+      "pubdate": "2022 Sep 26",
+      "title": "Co-Treatment of Erythroid Cells from \u03b2-Thalassemia Patients with CRISPR-Cas9-Based \u03b2(0)39-Globin Gene Editing and Induction of Fetal Hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20001626"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/03630260903351882"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "20001626",
+      "pubdate": "2009",
+      "title": "Fetal globin induction in beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39729054"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2044842"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12198424"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12198424;manuscript-id: NIHMS2044842;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jcyt.2024.11.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1465-3249(24)00925-3"
+        }
+      ],
+      "journal": "Cytotherapy",
+      "pmid": "39729054",
+      "pubdate": "2025 Jul",
+      "title": "Gene therapy for sickle cell disease: recent advances, clinical trials and future directions."
+    }
+  ]
+}

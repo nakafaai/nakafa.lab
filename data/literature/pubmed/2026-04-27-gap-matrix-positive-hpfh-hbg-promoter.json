@@ -1,0 +1,179 @@
+{
+  "count": 6,
+  "query": "beta thalassemia HPFH HBG promoter",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35147495"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8865852"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8865852;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7554/eLife.65421"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "65421"
+        }
+      ],
+      "journal": "Elife",
+      "pmid": "35147495",
+      "pubdate": "2022 Feb 11",
+      "title": "Identification of novel HPFH-like mutations by CRISPR base editing that elevate the expression of fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37529398"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10387548"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10387548;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fgeed.2023.1204536"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1204536"
+        }
+      ],
+      "journal": "Front Genome Ed",
+      "pmid": "37529398",
+      "pubdate": "2023",
+      "title": "Combined approaches for increasing fetal hemoglobin (HbF) and de novo production of adult hemoglobin (HbA) in erythroid cells from \u03b2-thalassemia patients: treatment with HbF inducers and CRISPR-Cas9 based genome editing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30705922"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6348980"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6348980;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.omtm.2018.12.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2329-0501(18)30132-3"
+        }
+      ],
+      "journal": "Mol Ther Methods Clin Dev",
+      "pmid": "30705922",
+      "pubdate": "2019 Mar 15",
+      "title": "TALEN-Mediated Gene Editing of HBG in Human Hematopoietic Stem Cells Leads to Therapeutic Fetal Hemoglobin Induction."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20636440"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1365-2141.2010.08303.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "BJH8303"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "20636440",
+      "pubdate": "2010 Sep",
+      "title": "Role of the cold shock domain protein A in the transcriptional regulation of HBG expression."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32917636"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7015694"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7015694;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/sciadv.aay9392"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "6/7/eaay9392"
+        }
+      ],
+      "journal": "Sci Adv",
+      "pmid": "32917636",
+      "pubdate": "2020 Feb",
+      "title": "Editing a \u03b3-globin repressor binding site restores fetal hemoglobin synthesis and corrects the sickle cell disease phenotype."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33216968"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/bjh.17167"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "33216968",
+      "pubdate": "2021 Jan",
+      "title": "Induction of therapeutic levels of HbF in genome-edited primary \u03b2(0) 39-thalassaemia haematopoietic stem and progenitor cells."
+    }
+  ]
+}

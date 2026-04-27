@@ -1,0 +1,281 @@
+{
+  "count": 10,
+  "query": "beta thalassemia small molecule fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35418266"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/14728222.2022.2066519"
+        }
+      ],
+      "journal": "Expert Opin Ther Targets",
+      "pmid": "35418266",
+      "pubdate": "2022 Apr",
+      "title": "Targeting fetal hemoglobin expression to treat \u03b2 hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32167945"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1957530"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10916415"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10916415;manuscript-id: NIHMS1957530;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MOH.0000000000000579"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00062752-202005000-00002"
+        }
+      ],
+      "journal": "Curr Opin Hematol",
+      "pmid": "32167945",
+      "pubdate": "2020 May",
+      "title": "Small molecule therapeutics to treat the \u03b2-globinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39017845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/978-3-031-62731-6_9"
+        }
+      ],
+      "journal": "Adv Exp Med Biol",
+      "pmid": "39017845",
+      "pubdate": "2024",
+      "title": "Transcriptional Repressor BCL11A in Erythroid Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39736768"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11687217"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11687217;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13287-024-04117-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13287-024-04117-0"
+        }
+      ],
+      "journal": "Stem Cell Res Ther",
+      "pmid": "39736768",
+      "pubdate": "2024 Dec 31",
+      "title": "Enhanced fetal hemoglobin production via dual-beneficial mutation editing of the HBG promoter in hematopoietic stem and progenitor cells for \u03b2-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32567028"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-020-04136-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-020-04136-w"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "32567028",
+      "pubdate": "2020 Sep",
+      "title": "UNC0638 induces high levels of fetal hemoglobin expression in \u03b2-thalassemia/HbE erythroid progenitor cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37924864"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1993620"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11185177"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11185177;manuscript-id: NIHMS1993620;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmb.2023.168343"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-2836(23)00454-0"
+        }
+      ],
+      "journal": "J Mol Biol",
+      "pmid": "37924864",
+      "pubdate": "2024 Apr 1",
+      "title": "C2H2 Zinc Finger Transcription Factors Associated with Hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33050052"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7582302"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7582302;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms21197426"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms21197426"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "33050052",
+      "pubdate": "2020 Oct 8",
+      "title": "Discovery of Novel Fetal Hemoglobin Inducers through Small Chemical Library Screening."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33109398"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejmech.2020.112938"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0223-5234(20)30910-7"
+        }
+      ],
+      "journal": "Eur J Med Chem",
+      "pmid": "33109398",
+      "pubdate": "2021 Jan 1",
+      "title": "Potent and orally active purine-based fetal hemoglobin inducers for treating \u03b2-thalassemia and sickle cell disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29159826"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcp.26292"
+        }
+      ],
+      "journal": "J Cell Physiol",
+      "pmid": "29159826",
+      "pubdate": "2018 Jun",
+      "title": "Pharmacological and molecular approaches for the treatment of \u03b2-hemoglobin disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40332031"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12333231"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12333231;embargo-date: 2026/07/17;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2024028006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "537137"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "40332031",
+      "pubdate": "2025 Jul 17",
+      "title": "Novel, potent, and orally bioavailable LSD1 inhibitors induce fetal hemoglobin synthesis in a sickle cell disease mouse model."
+    }
+  ]
+}

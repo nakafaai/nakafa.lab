@@ -486,6 +486,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/hypotheses/README.md",
     "research/thalassemia/hypotheses/bee-derived-materials.md",
     "research/thalassemia/hypotheses/cure-oriented-hbf-mimicry.md",
+    "research/thalassemia/hypotheses/hepcidin-ferroportin-iron-restriction.md",
     "research/thalassemia/hypotheses/hbf-small-molecule-triage.md",
     "research/thalassemia/hypotheses/hydroxyurea-evidence-map.md",
     "research/thalassemia/hypotheses/sirolimus-evidence-map.md",

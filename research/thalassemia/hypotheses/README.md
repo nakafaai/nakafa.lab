@@ -22,8 +22,10 @@ A hypothesis can move forward only if it has:
 1. Confirm and optimize existing care baseline.
 2. Evaluate approved disease-modifying options and access barriers.
 3. Map genotype-specific mechanisms.
-4. Compare low-cost adjunct ideas only after safety screening.
-5. Explore Quran/bee-product hypotheses only as testable biology, not as cure
+4. Compare iron-axis disease-modification hypotheses against standard care,
+   MRI iron burden, chelation, and transfusion endpoints.
+5. Compare low-cost adjunct ideas only after safety screening.
+6. Explore Quran/bee-product hypotheses only as testable biology, not as cure
    claims.
 
 ## First Endpoints
@@ -33,3 +35,7 @@ A hypothesis can move forward only if it has:
 - Better ferritin, liver iron, or cardiac T2* trend.
 - Fewer transfusion reactions or compatibility problems.
 - Better fatigue/function, when measured by validated tools.
+
+## Active Cards
+
+- [Hepcidin-ferroportin iron restriction](hepcidin-ferroportin-iron-restriction.md)

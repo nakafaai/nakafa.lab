@@ -1,0 +1,72 @@
+{
+  "count": 2,
+  "query": "metformin fetal hemoglobin thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38312174"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10831011"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10831011;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12288-023-01662-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1662"
+        }
+      ],
+      "journal": "Indian J Hematol Blood Transfus",
+      "pmid": "38312174",
+      "pubdate": "2024 Jan",
+      "title": "Metformin as a Fetal Hemoglobin Inducer in Non-transfusion Dependent Thalassemia Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40200166"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11978054"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11978054;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s10020-025-01184-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s10020-025-01184-8"
+        }
+      ],
+      "journal": "Mol Med",
+      "pmid": "40200166",
+      "pubdate": "2025 Apr 8",
+      "title": "The induction effect of hydroxyurea and metformin on fetal globin in the K562 cell line."
+    }
+  ]
+}

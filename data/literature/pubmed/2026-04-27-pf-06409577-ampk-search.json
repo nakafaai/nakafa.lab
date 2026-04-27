@@ -1,0 +1,261 @@
+{
+  "count": 10,
+  "query": "PF-06409577 AMPK",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34336655"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8316637"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8316637;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fonc.2021.659181"
+        }
+      ],
+      "journal": "Front Oncol",
+      "pmid": "34336655",
+      "pubdate": "2021",
+      "title": "PF-06409577 Activates AMPK Signaling and Inhibits Osteosarcoma Cell Growth."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38026185"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10654588"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10654588;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.isci.2023.108269"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2589-0042(23)02346-5"
+        }
+      ],
+      "journal": "iScience",
+      "pmid": "38026185",
+      "pubdate": "2023 Nov 17",
+      "title": "Macrophage AMPK \u03b21 activation by PF-06409577 reduces the inflammatory response, cholesterol synthesis, and atherosclerosis in mice."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29733844"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2018.05.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(18)31042-8"
+        }
+      ],
+      "journal": "Biochem Biophys Res Commun",
+      "pmid": "29733844",
+      "pubdate": "2018 Jun 18",
+      "title": "PF-06409577 activates AMPK signaling to protect retinal pigment epithelium cells from UV radiation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29673898"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6014578"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6014578;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ebiom.2018.04.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2352-3964(18)30137-3"
+        }
+      ],
+      "journal": "EBioMedicine",
+      "pmid": "29673898",
+      "pubdate": "2018 May",
+      "title": "Activation of Liver AMPK with PF-06409577 Corrects NAFLD and Lowers Cholesterol in Rodent and Primate Preclinical Models."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35748097"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9527591"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9527591;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/2211-5463.13459"
+        }
+      ],
+      "journal": "FEBS Open Bio",
+      "pmid": "35748097",
+      "pubdate": "2022 Oct",
+      "title": "PF-06409577 inhibits renal cyst progression by concurrently inhibiting the mTOR pathway and CFTR channel activity."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30036059"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.jmedchem.8b00807"
+        }
+      ],
+      "journal": "J Med Chem",
+      "pmid": "30036059",
+      "pubdate": "2018 Aug 23",
+      "title": "Acyl Glucuronide Metabolites of 6-Chloro-5-[4-(1-hydroxycyclobutyl)phenyl]-1 H-indole-3-carboxylic Acid (PF-06409577) and Related Indole-3-carboxylic Acid Derivatives are Direct Activators of Adenosine Monophosphate-Activated Protein Kinase (AMPK)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39855028"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envint.2025.109285"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0160-4120(25)00036-4"
+        }
+      ],
+      "journal": "Environ Int",
+      "pmid": "39855028",
+      "pubdate": "2025 Feb",
+      "title": "Activation of autophagy with PF-06409577 alleviates heatstroke-induced organ injury."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27490827"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.jmedchem.6b00866"
+        }
+      ],
+      "journal": "J Med Chem",
+      "pmid": "27490827",
+      "pubdate": "2016 Sep 8",
+      "title": "Discovery and Preclinical Characterization of 6-Chloro-5-[4-(1-hydroxycyclobutyl)phenyl]-1H-indole-3-carboxylic Acid (PF-06409577), a Direct Activator of Adenosine Monophosphate-activated Protein Kinase (AMPK), for the Potential Treatment of Diabetic Nephropathy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29712653"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6021616"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6021616;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1128/AAC.00360-18"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AAC.00360-18"
+        }
+      ],
+      "journal": "Antimicrob Agents Chemother",
+      "pmid": "29712653",
+      "pubdate": "2018 Jul",
+      "title": "Direct Activation of Adenosine Monophosphate-Activated Protein Kinase (AMPK) by PF-06409577 Inhibits Flavivirus Infection through Modification of Host Cell Lipid Metabolism."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36977628"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/jnc.15815"
+        }
+      ],
+      "journal": "J Neurochem",
+      "pmid": "36977628",
+      "pubdate": "2024 May",
+      "title": "AMP-activated protein kinase activators have compound and concentration-specific effects on brain metabolism."
+    }
+  ]
+}

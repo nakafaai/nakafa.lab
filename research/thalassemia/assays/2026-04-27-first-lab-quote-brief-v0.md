@@ -44,6 +44,10 @@ adds `AMPKB1` / `NRF2`, pyruvate kinase activation, and `T-BDMC`-like chemistry
 as expansion-only lanes when the lab can support the identity, alpha-globin,
 autophagy, maturation, viability, and hemolysis gates.
 
+The `AMPKB1` / `NRF2` expansion gate keeps selective probes as assay-only and
+keeps metformin as a low-priority warning comparator, not a lead, because the
+retrieved NTDT human study did not show extra benefit over stable hydroxyurea.
+
 ## Required Feasibility Questions
 
 Ask the lab to answer:
@@ -97,6 +101,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 
 - [First wet-lab panel optimizer result](../findings/2026-04-27-first-wet-lab-panel-optimizer-result.md)
 - [Dual-readout panel prioritizer result](../findings/2026-04-27-dual-readout-panel-prioritizer-result.md)
+- [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md)

@@ -552,6 +552,7 @@ research/thalassemia/prioritization/2026-04-27-hpfh-like-candidate-labels-v0.md
 research/thalassemia/prioritization/2026-04-27-hpfh-like-signature-v0.md
 research/thalassemia/notebooks/README.md
 research/thalassemia/notebooks/2026-04-27-candidate-score-sensitivity.ipynb
+research/thalassemia/notebooks/2026-04-27-ampk-nrf2-expansion-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-dual-readout-panel-prioritizer.ipynb
 research/thalassemia/notebooks/2026-04-27-first-wet-lab-panel-optimizer.ipynb
 research/thalassemia/notebooks/2026-04-27-mechanism-gap-matrix.ipynb
@@ -584,6 +585,10 @@ paper/main.tex
 paper/notes/carrier-malaria.tex
 paper/references.bib
 data/literature/pubmed/2026-04-27-mitapivat-pyruvate-kinase-thalassemia.json
+data/literature/pubmed/2026-04-27-metformin-hbf-thalassemia-search.json
+data/literature/pubmed/2026-04-27-ampkb1-nrf2-ulk1-hbf-refresh.json
+data/literature/pubmed/2026-04-27-nrf2-hbf-beta-thalassemia-search.json
+data/literature/pubmed/2026-04-27-pf-06409577-ampk-search.json
 data/regulatory/bpom/2026-04-27-thalassemia-advanced-therapy-product-search.json
 data/regulatory/bpom/2026-04-27-sirolimus-product-search.json
 pyproject.toml
@@ -597,6 +602,7 @@ docs/security/threat-model-assumption-gate.md
 research/thalassemia/findings/2026-04-27-bpom-advanced-therapy-product-search.md
 research/thalassemia/findings/2026-04-27-hydroxyurea-local-access-comparator.md
 research/thalassemia/findings/2026-04-27-bpom-sirolimus-product-search.md
+research/thalassemia/findings/2026-04-27-ampk-nrf2-expansion-gate.md
 research/thalassemia/findings/2026-04-27-experiment-status-boundary.md
 research/thalassemia/findings/2026-04-27-first-wet-lab-panel-optimizer-result.md
 research/thalassemia/findings/2026-04-27-dual-readout-panel-prioritizer-result.md

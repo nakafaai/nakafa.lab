@@ -1,0 +1,166 @@
+{
+  "count": 5,
+  "query": "NRF2 fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35092867"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8801382"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8801382;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2022.102239"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(22)00011-8"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "35092867",
+      "pubdate": "2022 Apr",
+      "title": "Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21464371"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3112042"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3112042;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2010-10-314096"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)45012-8"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "21464371",
+      "pubdate": "2011 Jun 2",
+      "title": "Induction of human fetal hemoglobin via the NRF2 antioxidant response signaling pathway."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26283707"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4935285"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4935285;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/1535370215596859"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "240/8/1050"
+        }
+      ],
+      "journal": "Exp Biol Med (Maywood)",
+      "pmid": "26283707",
+      "pubdate": "2015 Aug",
+      "title": "Cell signaling pathways involved in drug-mediated fetal hemoglobin induction: Strategies to treat sickle cell disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34070036"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8158146"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8158146;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/biom11050755"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "biom11050755"
+        }
+      ],
+      "journal": "Biomolecules",
+      "pmid": "34070036",
+      "pubdate": "2021 May 18",
+      "title": "Epigenetic Insights and Potential Modifiers as Therapeutic Targets in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31475864"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6802153"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6802153;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/1535370219872995"
+        }
+      ],
+      "journal": "Exp Biol Med (Maywood)",
+      "pmid": "31475864",
+      "pubdate": "2019 Oct",
+      "title": "\u03b4-Aminolevulinate induces fetal hemoglobin expression by enhancing cellular heme biosynthesis."
+    }
+  ]
+}

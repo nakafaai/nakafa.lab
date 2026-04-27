@@ -76,6 +76,7 @@ Reject if:
 | hydroxyurea | positive HbF comparator; not expected to solve every alpha-globin/autophagy endpoint |
 | sirolimus | monitored autophagy/HbF comparator; requires strict immune and drug-monitoring boundary |
 | `AMPKB1` / `NRF2` lane | target-discovery bridge; requires beta-thalassemia validation before promotion |
+| metformin | translational warning comparator; not promoted because retrieved NTDT evidence did not show extra benefit over stable hydroxyurea |
 | curcuminoid or resveratrol seeds | must show HbF plus safety before autophagy language is used |
 | ginger/6-shogaol support lane | red-cell support comparator unless HbF and alpha-globin endpoints are proven |
 | bee venom or melittin | hazard control only; hemolysis boundary comes before efficacy |
@@ -126,6 +127,7 @@ research gate.
 
 - [Mechanism gap matrix](../findings/2026-04-27-mechanism-gap-matrix.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
+- [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Alpha-globin/autophagy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json)

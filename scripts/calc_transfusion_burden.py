@@ -6,7 +6,6 @@ import argparse
 import csv
 import datetime as dt
 import json
-from collections.abc import Sequence
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -68,7 +67,7 @@ def require_float(row: dict[str, str], column: str, row_number: int) -> float:
     return float(value)
 
 
-def validate_columns(fieldnames: Sequence[str] | None) -> None:
+def validate_columns(fieldnames: list[str] | None) -> None:
     """Ensure the CSV contains the required columns."""
     if fieldnames is None:
         raise ValueError("CSV is missing a header row.")
@@ -86,7 +85,8 @@ def load_rows(input_csv: str) -> list[TransfusionRow]:
     rows: list[TransfusionRow] = []
     with Path(input_csv).open(newline="", encoding="utf-8") as csv_file:
         reader = csv.DictReader(csv_file)
-        validate_columns(reader.fieldnames)
+        fieldnames = list(reader.fieldnames) if reader.fieldnames is not None else None
+        validate_columns(fieldnames)
 
         for row_number, row in enumerate(reader, start=2):
             if not any((value or "").strip() for value in row.values()):
@@ -117,7 +117,7 @@ def load_rows(input_csv: str) -> list[TransfusionRow]:
     raise ValueError("CSV has no transfusion rows.")
 
 
-def mean(values: Sequence[float]) -> float | None:
+def mean(values: list[float]) -> float | None:
     """Return the arithmetic mean for non-empty numeric values."""
     if not values:
         return None

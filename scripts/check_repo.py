@@ -341,6 +341,24 @@ EGCG_SAFETY_STANDARDIZATION_PATHS = [
     "data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.txt",
 ]
 
+HEPCIDIN_IRON_AXIS_PATHS = [
+    "data/literature/pubmed/2026-04-27-hepcidin-ferroportin-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-vamifeport-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-sln124-tmprss6-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-minihepcidin-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-minihepcidin-tdt-major-search.json",
+    "data/literature/pubmed/2026-04-27-erythroferrone-beta-thalassemia-hepcidin-search.json",
+    "data/literature/pubmed/2026-04-27-regn7999-tmprss6-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-hepcidin-axis-selected-abstracts.xml",
+    "data/registries/clinicaltrials/2026-04-27-hepcidin-axis-thalassemia-trials.json",
+    "data/chemistry/chembl/iron-axis/2026-04-27-vamifeport-search.json",
+    "data/chemistry/chembl/iron-axis/2026-04-27-sln124-search.json",
+    "data/chemistry/chembl/iron-axis/2026-04-27-rusfertide-search.json",
+    "data/chemistry/chembl/iron-axis/2026-04-27-regn7999-search.json",
+    "data/chemistry/pubchem/iron-axis/2026-04-27-vamifeport-properties.json",
+    "data/chemistry/pubchem/iron-axis/2026-04-27-rusfertide-properties.json",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -393,6 +411,7 @@ REQUIRED_PATHS = [
     *HBF_REPORTER_GUARDRAIL_PATHS,
     *CRBN_HBF_BOUNDARY_PATHS,
     *EGCG_SAFETY_STANDARDIZATION_PATHS,
+    *HEPCIDIN_IRON_AXIS_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -446,6 +465,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-ginger-shogaol-red-cell-support-map.md",
     "research/thalassemia/findings/2026-04-27-egcg-tdt-clinical-adjunct-boundary.md",
     "research/thalassemia/findings/2026-04-27-egcg-safety-standardization-gate.md",
+    "research/thalassemia/findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",
@@ -488,6 +508,7 @@ REQUIRED_PATHS = [
     "research/islamic/quran/021-al-anbiya/083-084.md",
     "research/islamic/quran/026-ash-shuara/080.md",
     "research/islamic/quran/041-fussilat/044.md",
+    "research/islamic/quran/057-al-hadid/025.md",
     "research/islamic/quran/076-al-insan/017.md",
     "research/islamic/quran/shifa-root-map.md",
     "research/islamic/quran/quran-wide-healing-search-plan.md",

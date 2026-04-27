@@ -1,0 +1,118 @@
+{
+  "count": 4,
+  "query": "vamifeport beta-thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34324404"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/17474086.2021.1935854"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "34324404",
+      "pubdate": "2021 Jul",
+      "title": "Oral ferroportin inhibitor vamifeport for improving iron homeostasis and erythropoiesis in \u03b2-thalassemia: current evidence and future clinical development."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37165842"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10543196"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10543196;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2022.282328"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "37165842",
+      "pubdate": "2023 Oct 1",
+      "title": "Ferroportin inhibitor vamifeport ameliorates ineffective erythropoiesis in a mouse model of \u03b2-thalassemia with blood transfusions."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41291806"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12648932"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12648932;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13023-025-04119-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13023-025-04119-y"
+        }
+      ],
+      "journal": "Orphanet J Rare Dis",
+      "pmid": "41291806",
+      "pubdate": "2025 Nov 25",
+      "title": "Safety and pharmacodynamics of the ferroportin inhibitor vamifeport in patients with non-transfusion-dependent \u03b2-thalassemia: results from a randomized phase 2a study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36943194"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10030120"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10030120;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7554/eLife.83053"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "83053"
+        }
+      ],
+      "journal": "Elife",
+      "pmid": "36943194",
+      "pubdate": "2023 Mar 21",
+      "title": "Structures of ferroportin in complex with its specific inhibitor vamifeport."
+    }
+  ]
+}

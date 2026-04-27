@@ -1,0 +1,14 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 129052159,
+        "ConnectivitySMILES": "C1=CC=C2C(=C1)NC(=N2)CCNCCC3=NC(=CO3)C(=O)NCC4=C(C=CC=N4)F",
+        "InChIKey": "KNYVRFXIVWUGBZ-UHFFFAOYSA-N",
+        "MolecularFormula": "C21H21FN6O2",
+        "MolecularWeight": "408.4",
+        "SMILES": "C1=CC=C2C(=C1)NC(=N2)CCNCCC3=NC(=CO3)C(=O)NCC4=C(C=CC=N4)F"
+      }
+    ]
+  }
+}

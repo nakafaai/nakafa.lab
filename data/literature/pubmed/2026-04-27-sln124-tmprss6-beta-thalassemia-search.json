@@ -1,0 +1,52 @@
+{
+  "count": 2,
+  "query": "SLN124 TMPRSS6 beta-thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37497888"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.27015"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "37497888",
+      "pubdate": "2023 Sep",
+      "title": "SLN124, a GalNAc conjugated 19-mer siRNA targeting tmprss6, reduces plasma iron and increases hepcidin levels of healthy volunteers."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33942901"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8359948"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8359948;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/bjh.17428"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "33942901",
+      "pubdate": "2021 Jul",
+      "title": "SLN124, a GalNac-siRNA targeting transmembrane serine protease 6, in combination with deferiprone therapy reduces ineffective erythropoiesis and hepatic iron-overload in a mouse model of \u03b2-thalassaemia."
+    }
+  ]
+}

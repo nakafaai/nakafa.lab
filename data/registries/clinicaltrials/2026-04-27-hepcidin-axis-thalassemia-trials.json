@@ -1,0 +1,536 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&query.term=Vamifeport+OR+VIT-2763+OR+SLN124+OR+TMPRSS6+OR+rusfertide+OR+LJPC-401&pageSize=10&countTotal=true",
+  "totalCount": 8,
+  "snapshot_note": "Compacted from ClinicalTrials.gov API v2 response for source-controlled research use.",
+  "studies": [
+    {
+      "nctId": "NCT03165864",
+      "briefTitle": "Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of ISIS 702843 Administered Subcutaneously to Healthy Volunteers",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2017-05-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-09-25",
+        "type": "ACTUAL"
+      },
+      "phases": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Thalassemia"
+      ],
+      "interventions": [
+        "IONIS TMPRSS6-Lrx",
+        "Placebo"
+      ],
+      "leadSponsor": "Ionis Pharmaceuticals, Inc.",
+      "primaryOutcomes": [
+        {
+          "measure": "Incidence and severity of adverse events that are related to treatment with IONIS TMPRSS6-Lrx",
+          "timeFrame": "Up to 148 Days"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Pharmacokinetics after single and multiple doses of IONIS TMPRSS6-Lrx (maximum observed drug concentration or Cmax)",
+          "timeFrame": "Up to 148 Days"
+        },
+        {
+          "measure": "Pharmacokinetics after single and multiple doses of IONIS TMPRSS6-Lrx (time taken to reach maximal concentration or Tmax)",
+          "timeFrame": "Up to 148 Days"
+        },
+        {
+          "measure": "Pharmacokinetics after single and multiple doses of IONIS TMPRSS6-Lrx (Plasma terminal elimination half-life (t1/2λz)",
+          "timeFrame": "Up to 148 Days"
+        },
+        {
+          "measure": "Pharmacokinetics after single and multiple doses of IONIS TMPRSS6-Lrx (Partial areas under the plasma concentration-time curve from zero time (predose) to selected times (t) after the subcutaneous administration (AUCt)",
+          "timeFrame": "Up to 148 Days"
+        },
+        {
+          "measure": "Pharmacokinetics after single and multiple doses of IONIS TMPRSS6-Lrx (Percentage of the administered dose excreted in urine (% Dose Excreted)",
+          "timeFrame": "Up to 148 Days"
+        }
+      ],
+      "countries": [
+        "Australia"
+      ]
+    },
+    {
+      "nctId": "NCT04938635",
+      "briefTitle": "Efficacy and Safety Study of Multiple Doses of VIT-2763 in Adults With Transfusion-dependent Beta-thalassemia",
+      "overallStatus": "WITHDRAWN",
+      "startDateStruct": {
+        "date": "2021-09-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-07",
+        "type": "ESTIMATED"
+      },
+      "phases": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Beta-Thalassemia"
+      ],
+      "interventions": [
+        "VIT-2763 60 mg QD",
+        "VIT-2763 60 mg BID",
+        "VIT-2763 120 mg BID",
+        "Placebo"
+      ],
+      "leadSponsor": "Vifor (International) Inc.",
+      "primaryOutcomes": [
+        {
+          "measure": "Proportion of patients achieving ≥33% reduction of RBC transfusions from baseline and a reduction of ≥2 units assessed consecutively from Week 13 to Week 24 compared to the baseline transfusion",
+          "timeFrame": "Week 13 to Week 24 comparing to Baseline (Day -83 to Day 1)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change from baseline in RBC transfusions over Weeks 13 to 24 compared to the baseline RBC transfusion burden derived using the last 12 weeks prior to randomization.",
+          "timeFrame": "Week 13 to Week 24 comparing to Baseline (Day -83 to Day 1)"
+        },
+        {
+          "measure": "Proportion of patients achieving ≥50% reduction of RBC transfusions and ≥2 units assessed over any consecutive 12-week interval from Week 1 to 24.",
+          "timeFrame": "Any consecutive 12-week interval from Week 1 to Week 24 comparing to Baseline (Day -83 to Day 1)"
+        },
+        {
+          "measure": "Proportion of patients achieving ≥33% reduction of RBC transfusions and ≥2 units assessed over any consecutive 12-week interval from Week 1 to 24.",
+          "timeFrame": "Any consecutive 12-week interval from Week 1 to Week 24 comparing to Baseline (Day -83 to Day 1)"
+        },
+        {
+          "measure": "Mean change from baseline in Quality of Life (QoL) total score",
+          "timeFrame": "Week 15 and Week 24 comparing to Baseline (Day 1)"
+        }
+      ],
+      "countries": [
+        "Bulgaria",
+        "Israel",
+        "United States"
+      ]
+    },
+    {
+      "nctId": "NCT04176653",
+      "briefTitle": "Study in Beta-thalassaemia or Myelodysplastic Syndrome Patients to Investigate the Safety and Tolerability of SLN124",
+      "overallStatus": "WITHDRAWN",
+      "startDateStruct": {
+        "date": "2019-08-20",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-10-14",
+        "type": "ESTIMATED"
+      },
+      "phases": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Non-transfusion-dependent Thalassemia",
+        "Low Risk Myelodysplastic Syndrome"
+      ],
+      "interventions": [
+        "SLN124 is a GalNAc conjugated double stranded fully modified siRNA. Sodium chloride 0.9% w/v is used as Placebo"
+      ],
+      "leadSponsor": "Silence Therapeutics plc",
+      "primaryOutcomes": [
+        {
+          "measure": "# of participants with all AEs as assessed by CTCAE V4.0 included injection site reaction, will be measured from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        },
+        {
+          "measure": "12 lead electrocardiogram parameters included PR, QTcF and QTcB will be measured from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        },
+        {
+          "measure": "clinical chemistry, haematology, urinalysis, liver function tests (included ALT, AST, GGT) will be measured from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        },
+        {
+          "measure": "height, weight, blood pressure, heart rate, respiration rate and temperature will be measured from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Biomarkers will be measured from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        },
+        {
+          "measure": "Pharmacokinetic of SLN124 in plasma from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        },
+        {
+          "measure": "Pharmacokinetic of SLN124 in plasma from baseline to post dose follow up",
+          "timeFrame": "Up to two months"
+        }
+      ],
+      "countries": [
+        "Bulgaria",
+        "United Kingdom"
+      ]
+    },
+    {
+      "nctId": "NCT06421636",
+      "briefTitle": "A Study to Test the Safety, Tolerability, and Efficacy of an Antibody, REGN7999, Injected Under the Skin for the Treatment of Iron Overload in Adult Participants With Non-Transfusion Dependent β-thalassemia, Using MRI Scans to Measure Iron Levels in the Body",
+      "overallStatus": "RECRUITING",
+      "startDateStruct": {
+        "date": "2024-09-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2028-01-24",
+        "type": "ESTIMATED"
+      },
+      "phases": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Non-Transfusion Dependent Beta-Thalassemia (NTDT)"
+      ],
+      "interventions": [
+        "REGN7999",
+        "Placebo"
+      ],
+      "leadSponsor": "Regeneron Pharmaceuticals",
+      "primaryOutcomes": [
+        {
+          "measure": "Change from baseline in Liver Iron Concentration (LIC) by R2* Magnetic Resonance Imaging (MRI)",
+          "timeFrame": "At week 24"
+        },
+        {
+          "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+          "timeFrame": "Up to week 72"
+        },
+        {
+          "measure": "Severity of TEAEs",
+          "timeFrame": "Up to week 72"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Achievement of ≥20% reduction from baseline in LIC by R2* MRI",
+          "timeFrame": "Through week 52"
+        },
+        {
+          "measure": "Change from baseline in hemoglobin",
+          "timeFrame": "To week 24"
+        },
+        {
+          "measure": "Change from baseline in LIC by R2* MRI",
+          "timeFrame": "At week 52"
+        },
+        {
+          "measure": "Percent change from baseline in LIC by R2* MRI",
+          "timeFrame": "To week 24 and week 52"
+        },
+        {
+          "measure": "Achievement of ≥20% reduction from baseline in LIC by R2* MRI",
+          "timeFrame": "Through week 24"
+        },
+        {
+          "measure": "Change in hemoglobin over time",
+          "timeFrame": "Up to week 56"
+        },
+        {
+          "measure": "Achievement of ≥1.5 g/dL increase in hemoglobin for two consecutive assessments in the absence of Red Blood Cell (RBC) transfusions",
+          "timeFrame": "Baseline to week 56"
+        },
+        {
+          "measure": "Number of RBC transfusions required",
+          "timeFrame": "Baseline to week 72"
+        }
+      ],
+      "countries": [
+        "Georgia",
+        "Greece",
+        "India",
+        "Italy",
+        "Malaysia",
+        "Thailand",
+        "Turkey (Türkiye)",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "nctId": "NCT04059406",
+      "briefTitle": "Study to Evaluate the Efficacy, Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Sapablursen (Formerly ISIS 702843, IONIS-TMPRSS6-LRx)",
+      "overallStatus": "TERMINATED",
+      "startDateStruct": {
+        "date": "2020-09-24",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-03-28",
+        "type": "ACTUAL"
+      },
+      "phases": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Beta Thalassemia Intermedia"
+      ],
+      "interventions": [
+        "sapablursen"
+      ],
+      "leadSponsor": "Ionis Pharmaceuticals, Inc.",
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With a ≥1.0 Grams Per Deciliter (g/dL) Increase From Baseline in Hemoglobin (Hb) at Week 27",
+          "timeFrame": "Baseline and Week 27"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With a ≥1.5 g/dL Increase From Baseline in Hb at Week 53",
+          "timeFrame": "Week 53"
+        },
+        {
+          "measure": "Percentage of Participants With a ≥1.0 Milligrams of Iron Per Grams of Dry Weight of Liver (mg Fe/g) Decrease From Baseline in Liver Iron Concentration (LIC) at Week 53",
+          "timeFrame": "Week 53"
+        }
+      ],
+      "countries": [
+        "Australia",
+        "Greece",
+        "Lebanon",
+        "Thailand",
+        "Turkey (Türkiye)"
+      ]
+    },
+    {
+      "nctId": "NCT04718844",
+      "briefTitle": "A Study Investigate the Safety, Tolerability, Pharmacokinetic, and Pharmacodynamic Response of SLN124 in Adults With Alpha/Beta-thalassaemia and Very Low- and Low-risk Myelodysplastic Syndrome",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2021-04-14",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-05-23",
+        "type": "ACTUAL"
+      },
+      "phases": [
+        "PHASE1"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Non-transfusion-dependent Thalassemia",
+        "Low Risk Myelodysplastic Syndrome",
+        "Very-Low Risk Myelodysplastic Syndrome"
+      ],
+      "interventions": [
+        "SLN124",
+        "Placebo"
+      ],
+      "leadSponsor": "Silence Therapeutics plc",
+      "primaryOutcomes": [
+        {
+          "measure": "Incidence of treatment-emergent adverse events",
+          "timeFrame": "Day 84"
+        },
+        {
+          "measure": "Incidence of treatment-emergent adverse events",
+          "timeFrame": "Day 140"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Pharmacokinetic: peak plasma concentration (Cmax)",
+          "timeFrame": "Day 84 and Day 140"
+        },
+        {
+          "measure": "Pharmacokinetic: area under the plasma concentration (AUC)",
+          "timeFrame": "Day 84 and Day 140"
+        },
+        {
+          "measure": "Pharmacokinetic: apparent total clearance from plasma after s.c injection (CL/F)",
+          "timeFrame": "Day 84 and Day 140"
+        },
+        {
+          "measure": "Pharmacodynamic biomarkers: Change in TSAT after s.c injection.",
+          "timeFrame": "Day 84 and Day 140"
+        },
+        {
+          "measure": "Pharmacodynamic biomarkers: Change in hepcidin after s.c injection.",
+          "timeFrame": "Day 84 and Day 140"
+        },
+        {
+          "measure": "Pharmacodynamic biomarkers: Change in serum iron after s.c injection.",
+          "timeFrame": "Day 84 and Day 140"
+        },
+        {
+          "measure": "Pharmacodynamic biomarkers: Change in haemoglobin after s.c injection.",
+          "timeFrame": "Day 84 and Day 140"
+        }
+      ],
+      "countries": [
+        "Germany",
+        "Israel",
+        "Italy",
+        "Jordan",
+        "Malaysia",
+        "Thailand",
+        "United Kingdom"
+      ]
+    },
+    {
+      "nctId": "NCT03381833",
+      "briefTitle": "A Study With LJPC-401 for the Treatment of Myocardial Iron Overload in Patients With Transfusion-Dependent Beta Thalassemia",
+      "overallStatus": "TERMINATED",
+      "startDateStruct": {
+        "date": "2017-11-30",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2020-01-14",
+        "type": "ACTUAL"
+      },
+      "phases": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Beta-Thalassemia"
+      ],
+      "interventions": [
+        "LJPC-401",
+        "LJPC-401"
+      ],
+      "leadSponsor": "La Jolla Pharmaceutical Company",
+      "primaryOutcomes": [
+        {
+          "measure": "Effect of LJPC-401 on cardiac iron",
+          "timeFrame": "26 Weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Effect of LJPC-401 on cardiac iron",
+          "timeFrame": "52 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on hepatic iron",
+          "timeFrame": "52 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on serum iron",
+          "timeFrame": "56 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on hemoglobin",
+          "timeFrame": "52 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on volume of blood transfused",
+          "timeFrame": "56 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on its potential to elicit an immune response",
+          "timeFrame": "56 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on the incidence of treatment-emergent adverse events",
+          "timeFrame": "56 Weeks"
+        },
+        {
+          "measure": "Effect of LJPC-401 on vital signs-heart rate",
+          "timeFrame": "56 Weeks"
+        }
+      ],
+      "countries": [
+        "Australia",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Thailand",
+        "Turkey (Türkiye)",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "nctId": "NCT04364269",
+      "briefTitle": "Safety, Tolerability, Pharmacokinetics (PK), Pharmacodynamics (PD) and Preliminary Efficacy of VIT-2763 in β-thalassaemia",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2020-06-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2021-11-03",
+        "type": "ACTUAL"
+      },
+      "phases": [
+        "PHASE2"
+      ],
+      "studyType": "INTERVENTIONAL",
+      "conditions": [
+        "Beta-Thalassemia",
+        "Non-transfusion-dependent Thalassemia"
+      ],
+      "interventions": [
+        "VIT-2763 once a day (QD)",
+        "VIT-2763 twice a day (BID)",
+        "Placebo"
+      ],
+      "leadSponsor": "Vifor (International) Inc.",
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Treatment-Emergent Adverse Events (TEAEs)",
+          "timeFrame": "From baseline to Week 16"
+        },
+        {
+          "measure": "Changes in the Systolic Blood Pressure (SBP) and Diastolic Blood Pressure (DBP)",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Changes in the Heart Rate",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Changes in 12-lead Electrocardiogram (ECG) Parameters",
+          "timeFrame": "From baseline to Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Total Serum Iron",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Change From Baseline in Serum Ferritin",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Change From Baseline in Serum Transferrin",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Change From Baseline in Calculated Transferrin Saturation (TSAT) )",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Pharmacokinetics Parameters - VIT-2763 Plasma Concentration Over Time",
+          "timeFrame": "Baseline, Week 4, Week 8 and Week 12"
+        }
+      ],
+      "countries": [
+        "Greece",
+        "Israel",
+        "Italy",
+        "Lebanon",
+        "Thailand"
+      ]
+    }
+  ]
+}

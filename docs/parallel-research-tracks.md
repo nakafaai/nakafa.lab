@@ -9,6 +9,8 @@ These tracks can continue while patient-specific details are still pending.
 - Disease taxonomy: alpha, beta, HbE/beta, TDT, NTDT, carrier state.
 - Mechanism map: HbF induction, ineffective erythropoiesis, red-cell
   metabolism, iron toxicity, immune/transfusion complications.
+- Iron-axis comparator: hepcidin, ferroportin, `TMPRSS6`, erythroferrone,
+  chelation, MRI iron burden, and iron-restriction trial surveillance.
 - Trial surveillance: ClinicalTrials.gov and regional trial registries.
 - Indonesia access map: BPOM, BPJS, referral centers, MRI T2*, genetic testing.
 - Hypothesis cards: structured but not patient-specific.

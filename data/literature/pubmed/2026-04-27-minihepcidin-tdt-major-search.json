@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "Minihepcidins improve ineffective erythropoiesis and splenomegaly adult beta-thalassemia major",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31582543"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7327634"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7327634;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2018.212589"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.2018.212589"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "31582543",
+      "pubdate": "2020 Jul",
+      "title": "Minihepcidins improve ineffective erythropoiesis and splenomegaly in a new mouse model of adult \u03b2-thalassemia major."
+    }
+  ]
+}

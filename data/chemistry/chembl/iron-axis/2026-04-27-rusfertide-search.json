@@ -1,0 +1,154 @@
+{
+  "molecules": [
+    {
+      "atc_classifications": [],
+      "availability_type": null,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 1,
+      "cross_references": [
+        {
+          "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/RUSFERTIDE/relevant/1/",
+          "xref_name": "RUSFERTIDE",
+          "xref_src": "USAN"
+        }
+      ],
+      "dosed_ingredient": false,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "3.0",
+      "molecule_chembl_id": "CHEMBL4650507",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL4650507",
+        "molecule_chembl_id": "CHEMBL4650507",
+        "parent_chembl_id": "CHEMBL4650507"
+      },
+      "molecule_properties": null,
+      "molecule_structures": null,
+      "molecule_synonyms": [
+        {
+          "molecule_synonym": "Ptg-300",
+          "syn_type": "OTHER",
+          "synonyms": "PTG-300"
+        },
+        {
+          "molecule_synonym": "PTG-300",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "PTG-300"
+        },
+        {
+          "molecule_synonym": "PTG-300FB",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "PTG-300FB"
+        },
+        {
+          "molecule_synonym": "Rusfertide",
+          "syn_type": "INN",
+          "synonyms": "RUSFERTIDE"
+        },
+        {
+          "molecule_synonym": "Rusfertide",
+          "syn_type": "OTHER",
+          "synonyms": "RUSFERTIDE"
+        },
+        {
+          "molecule_synonym": "Rusfertide",
+          "syn_type": "USAN",
+          "synonyms": "RUSFERTIDE"
+        }
+      ],
+      "molecule_type": "Protein",
+      "natural_product": 0,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "RUSFERTIDE",
+      "prodrug": 0,
+      "score": 37.0,
+      "structure_type": "NONE",
+      "therapeutic_flag": false,
+      "topical": false,
+      "usan_stem": "-tide",
+      "usan_stem_definition": "peptides",
+      "usan_substem": "-tide",
+      "usan_year": 2021,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    },
+    {
+      "atc_classifications": [],
+      "availability_type": null,
+      "biotherapeutic": null,
+      "black_box_warning": 0,
+      "chemical_probe": 0,
+      "chirality": 1,
+      "cross_references": [
+        {
+          "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/RUSFERTIDE%20ACETATE/relevant/1/",
+          "xref_name": "RUSFERTIDE ACETATE",
+          "xref_src": "USAN"
+        }
+      ],
+      "dosed_ingredient": false,
+      "first_approval": null,
+      "first_in_class": 0,
+      "helm_notation": null,
+      "inorganic_flag": 0,
+      "max_phase": "1.0",
+      "molecule_chembl_id": "CHEMBL4650270",
+      "molecule_hierarchy": {
+        "active_chembl_id": "CHEMBL4650270",
+        "molecule_chembl_id": "CHEMBL4650270",
+        "parent_chembl_id": "CHEMBL4650270"
+      },
+      "molecule_properties": null,
+      "molecule_structures": null,
+      "molecule_synonyms": [
+        {
+          "molecule_synonym": "PTG-300 ACETATE",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "PTG-300 ACETATE"
+        },
+        {
+          "molecule_synonym": "PTG300 ACETATE",
+          "syn_type": "RESEARCH_CODE",
+          "synonyms": "PTG300 ACETATE"
+        },
+        {
+          "molecule_synonym": "Rusfertide acetate",
+          "syn_type": "USAN",
+          "synonyms": "RUSFERTIDE ACETATE"
+        }
+      ],
+      "molecule_type": "Protein",
+      "natural_product": 0,
+      "oral": false,
+      "orphan": 0,
+      "parenteral": false,
+      "polymer_flag": 0,
+      "pref_name": "RUSFERTIDE ACETATE",
+      "prodrug": 0,
+      "score": 32.0,
+      "structure_type": "NONE",
+      "therapeutic_flag": false,
+      "topical": false,
+      "usan_stem": "-tide",
+      "usan_stem_definition": "peptides",
+      "usan_substem": "-tide",
+      "usan_year": 2021,
+      "veterinary": 0,
+      "withdrawn_flag": false
+    }
+  ],
+  "page_meta": {
+    "limit": 10,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  }
+}

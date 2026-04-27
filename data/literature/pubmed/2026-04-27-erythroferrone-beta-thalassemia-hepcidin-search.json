@@ -1,0 +1,205 @@
+{
+  "count": 8,
+  "query": "erythroferrone beta-thalassemia hepcidin iron overload",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36995275"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10345853"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10345853;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2022009307"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "495164"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "36995275",
+      "pubdate": "2023 Jul 25",
+      "title": "Erythroferrone exacerbates iron overload and ineffective extramedullary erythropoiesis in a mouse model of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31949017"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7012465"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7012465;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2019.232124"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.2019.232124"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "31949017",
+      "pubdate": "2020",
+      "title": "Iron metabolism and iron disorders revisited in the hepcidin era."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32718192"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630269.2020.1794888"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "32718192",
+      "pubdate": "2020 Jul",
+      "title": "Evaluation of Erythroferrone, Hepcidin, and Iron Overload Status in Iraqi Transfusion-Dependent \u03b2-Thalassemia Major Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26276665"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4616236"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4616236;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2015-07-658419"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)30802-8"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "26276665",
+      "pubdate": "2015 Oct 22",
+      "title": "Erythroferrone contributes to hepcidin suppression and iron overload in a mouse model of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36907608"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2022.12.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(22)00147-2"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "36907608",
+      "pubdate": "2023 Apr",
+      "title": "Pathogenic Mechanisms in Thalassemia II: Iron Overload."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27725588"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.11406/rinketsu.57.1913"
+        }
+      ],
+      "journal": "Rinsho Ketsueki",
+      "pmid": "27725588",
+      "pubdate": "2016",
+      "title": "Hepcidin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26494918"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2015-09-665596"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)30792-8"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "26494918",
+      "pubdate": "2015 Oct 22",
+      "title": "Erythroferrone: the missing link in \u03b2-thalassemia?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41808296"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630269.2026.2637574"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "41808296",
+      "pubdate": "2026 Mar",
+      "title": "Comparative Analysis of Erythroferrone and Hepcidin as Emerging Biomarkers of Iron Homeostasis in Patients with \u03b2-Thalassemia Major: A Case-Control Study from Pakistan."
+    }
+  ]
+}

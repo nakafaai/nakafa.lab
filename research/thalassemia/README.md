@@ -18,6 +18,8 @@ in Indonesia and beyond.
 - Gene and cell therapy: betibeglogene autotemcel and exagamglogene autotemcel.
 - Oral therapy: mitapivat was approved by the FDA in December 2025 for anemia in
   adults with alpha- or beta-thalassemia.
+- Disease-modifying iron-axis comparators: hepcidin, ferroportin, `TMPRSS6`,
+  erythroferrone, vamifeport, minihepcidin, and iron-restriction biology.
 
 ## First Questions
 
@@ -26,6 +28,8 @@ in Indonesia and beyond.
   infrastructure?
 - Which lower-cost compounds have credible fetal hemoglobin or erythropoiesis
   evidence?
+- Which interventions can reduce iron toxicity or ineffective erythropoiesis
+  without worsening anemia?
 - What Indonesia-specific constraints change the research priority?
 - Can any bee-product hypothesis be made testable without unsafe claims?
 

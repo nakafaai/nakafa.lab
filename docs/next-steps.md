@@ -44,6 +44,11 @@ current research cycle should answer:
    addressed. The EGCG lane now has a safety and standardization gate covering
    liver injury, fasting bolus exposure, product variability, and interaction
    review.
+10. Iron-axis disease modification: keep hepcidin, ferroportin, `TMPRSS6`,
+    erythroferrone, vamifeport, minihepcidin, and REGN7999 in a separate
+    iron-restriction comparator lane. This is not an iron-supplement path; it
+    is an iron-balance and ineffective-erythropoiesis path that needs MRI,
+    hepcidin/ERFE, transfusion, chelation, and safety endpoints.
 
 ## Current Honest Assessment
 

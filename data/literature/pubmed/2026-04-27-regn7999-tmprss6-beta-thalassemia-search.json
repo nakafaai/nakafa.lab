@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "REGN7999 TMPRSS6 beta-thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40548380"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12220967"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12220967;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1172/jci.insight.191813"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "191813"
+        }
+      ],
+      "journal": "JCI Insight",
+      "pmid": "40548380",
+      "pubdate": "2025 Jun 23",
+      "title": "A TMPRSS6-inhibiting mAb improves disease in a \u03b2-thalassemia mouse model and reduces iron in healthy humans."
+    }
+  ]
+}

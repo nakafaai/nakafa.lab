@@ -26,6 +26,8 @@ This is the Nakafa Lab path from idea to credible research candidate.
 - Improved erythroid maturation.
 - Better red-cell survival without hemolysis.
 - Reduced iron toxicity risk.
+- Better iron handling through hepcidin, ferroportin, `TMPRSS6`, chelation, or
+  related iron-restriction biology.
 
 ## Candidate Intake Rule
 
@@ -46,3 +48,4 @@ safety controls before they can be compared with known drugs.
 ## Active Assay Plans
 
 - [Epigenetic HbF screen V0](../research/thalassemia/assays/2026-04-27-epigenetic-hbf-screen-v0.md)
+- [Hepcidin-ferroportin iron-restriction axis](../research/thalassemia/findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)

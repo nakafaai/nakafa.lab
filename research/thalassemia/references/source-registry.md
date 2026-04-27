@@ -99,6 +99,17 @@ Checked on 2026-04-26 unless noted.
 | Mechanism | [AHSP sirolimus study, PubMed PMID 38731008](https://pubmed.ncbi.nlm.nih.gov/38731008/) | Mechanistic follow-up on alpha-hemoglobin stabilizing protein in sirolimus-treated erythroid precursors. |
 | Mechanism | [ULK1/autophagy sirolimus study, PubMed PMID 37894732](https://pubmed.ncbi.nlm.nih.gov/37894732/) | Mechanistic follow-up on alpha-globin reduction and autophagy endpoints. |
 | Mechanism | [TIF 2025 genetic basis chapter](https://www.ncbi.nlm.nih.gov/books/NBK614253/) | HBB, HbE, HbF modifiers, ineffective erythropoiesis, and iron biology. |
+| Iron axis | [Hepcidin-ferroportin iron-restriction finding](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md) | Active disease-modifying comparator lane for hepcidin, ferroportin, `TMPRSS6`, erythroferrone, and iron overload. |
+| Iron axis | [Hepcidin/ferroportin PubMed snapshot](../../../data/literature/pubmed/2026-04-27-hepcidin-ferroportin-beta-thalassemia-search.json) | Reproducible PubMed search for hepcidin, ferroportin, ineffective erythropoiesis, and beta-thalassemia. |
+| Iron axis | [Hepcidin-axis selected abstracts](../../../data/literature/pubmed/2026-04-27-hepcidin-axis-selected-abstracts.xml) | Abstract-level source bundle for vamifeport, SLN124, REGN7999, minihepcidin, erythroferrone, and hepcidin-era reviews. |
+| Iron axis | [Vamifeport PubMed snapshot](../../../data/literature/pubmed/2026-04-27-vamifeport-beta-thalassemia-search.json) | Ferroportin-inhibitor literature search including preclinical and phase 2a `NTDT` evidence. |
+| Iron axis | [SLN124/TMPRSS6 PubMed snapshot](../../../data/literature/pubmed/2026-04-27-sln124-tmprss6-beta-thalassemia-search.json) | TMPRSS6-siRNA evidence in healthy volunteers and beta-thalassemia mouse-model context. |
+| Iron axis | [REGN7999/TMPRSS6 PubMed snapshot](../../../data/literature/pubmed/2026-04-27-regn7999-tmprss6-beta-thalassemia-search.json) | TMPRSS6-antibody evidence in beta-thalassemia mouse model and healthy-human iron reduction. |
+| Iron axis | [Erythroferrone-hepcidin PubMed snapshot](../../../data/literature/pubmed/2026-04-27-erythroferrone-beta-thalassemia-hepcidin-search.json) | ERFE/hepcidin suppression and iron-overload mechanism evidence. |
+| Iron axis | [Minihepcidin PubMed snapshots](../../../data/literature/pubmed/2026-04-27-minihepcidin-tdt-major-search.json) | Hepcidin-agonist mouse-model evidence and negative first-pass search record. |
+| Trials | [Hepcidin-axis ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-hepcidin-axis-thalassemia-trials.json) | Registry snapshot for VIT-2763/vamifeport, SLN124, sapablursen, REGN7999, and LJPC-401. |
+| Chemistry | [Vamifeport ChEMBL/PubChem snapshots](../../../data/chemistry/chembl/iron-axis/2026-04-27-vamifeport-search.json) | Compound identity source for ferroportin-inhibitor comparator; PubChem properties are stored beside other iron-axis chemistry snapshots. |
+| Chemistry | [Rusfertide ChEMBL/PubChem snapshots](../../../data/chemistry/chembl/iron-axis/2026-04-27-rusfertide-search.json) | Hepcidin-mimetic comparator identity source; not a thalassemia treatment claim. |
 | Trials | [ClinicalTrials.gov thalassemia search](https://clinicaltrials.gov/search?cond=Thalassemia) | Registry for active and completed studies. |
 | Trials | [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-about-studies/learn-about-api) | Queryable registry source for trial snapshots. |
 | Tooling | [Clinical trials snapshot script](../../../scripts/fetch_clinical_trials.py) | Internal script to repeat registry snapshots. |
@@ -170,6 +181,8 @@ Checked on 2026-04-26 unless noted.
 | Islamic | [Quran 10:57, Quran.com](https://quran.com/10/57) | Shifa root context: Quran as healing for what is in the breasts. |
 | Islamic | [Quran 17:82, Quran.com](https://quran.com/17/82) | Shifa root context: Quran as healing and mercy. |
 | Islamic | [Quran 26:80, Quran.com](https://quran.com/26/80) | Theology of cure: Allah heals when illness occurs. |
+| Islamic | [Quran 57:25, Quran.com](https://quran.com/57/25) | Al-Hadid anchor for iron, balance, benefits, and careful iron-homeostasis framing. |
+| Islamic | [Quran 57:25 structured note](../../islamic/quran/057-al-hadid/025.md) | Internal guardrail against converting Quranic iron reflection into iron-supplement claims. |
 | Islamic | [Quran 41:44, Quran.com](https://quran.com/41/44) | Shifa root context: guidance and healing for believers. |
 | Islamic tafsir | [QuranX tafsir collection for 26:80](https://quranx.com/tafsirs/26.80) | Tafsir intake for Ibrahim's statement about illness and healing. |
 | Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |

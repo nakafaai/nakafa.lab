@@ -26,6 +26,7 @@ clinician review.
 | 23:18-20 | water and an olive tree associated with oil/food | olive/polyphenol and nutrition lane | supportive biology only unless endpoints prove more |
 | 24:35 | blessed olive tree imagery | reflection and symbolic light context | not a direct pharmacology verse |
 | 36:33-35 | revived earth, grain, date-palms, grapes, springs | agriculture/provision reflection | hypothesis generation only |
+| 57:25 | iron, strength, benefits, balance, and justice | iron-homeostasis and overload guardrail | not an iron-supplement claim |
 | 56:68-70 | water | basic life and care context | not a molecule candidate |
 | 76:17 | ginger | ginger/6-shogaol red-cell support hypothesis | Jannah reward description, not a treatment command |
 
@@ -91,6 +92,11 @@ oxidative hemolysis, lower membrane non-heme iron, and lower lipid
 peroxidation. Focused first-pass searches did not retrieve ginger HbF or
 gamma-globin evidence, so this lane is supportive rather than cure-oriented.
 
+Al-Hadid 57:25 is now an iron-homeostasis guardrail. It strengthens the mandate
+to study iron carefully, but it cuts against careless iron-supplement claims.
+For thalassemia, the active scientific lane is hepcidin, ferroportin, `TMPRSS6`,
+erythroferrone, chelation, MRI iron burden, and safety monitoring.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -110,6 +116,8 @@ when safety is plausible.
 - [Quran 23:18-20](https://quran.com/23/18-20)
 - [Quran 24:35](https://quran.com/24/35)
 - [Quran 36:33-35](https://quran.com/36/33-35)
+- [Quran 57:25](https://quran.com/57/25)
+- [Quran 57:25 structured note](057-al-hadid/025.md)
 - [Quran 56:68-70](https://quran.com/56/68-70)
 - [Quran 76:17](https://quran.com/76/17)
 - [Quran 76:17 structured note](076-al-insan/017.md)
@@ -119,5 +127,6 @@ when safety is plausible.
 - [Olive polyphenol red-cell support map](../../thalassemia/findings/2026-04-27-olive-polyphenol-red-cell-support-map.md)
 - [Date-palm anemia guardrail](../../thalassemia/findings/2026-04-27-date-palm-anemia-guardrail.md)
 - [Ginger shogaol red-cell support map](../../thalassemia/findings/2026-04-27-ginger-shogaol-red-cell-support-map.md)
+- [Hepcidin-ferroportin iron-restriction axis](../../thalassemia/findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

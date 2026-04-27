@@ -54,6 +54,7 @@ Before committing hygiene-sensitive changes, run:
 git status --short
 uv run ruff check .
 uv run ruff format --check .
+uv run --with pyright pyright scripts
 uv run python scripts/check_repo.py
 git diff --check
 ```

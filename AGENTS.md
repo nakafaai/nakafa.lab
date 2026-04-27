@@ -25,6 +25,8 @@ be reviewed by qualified clinicians.
 - For Islamic research, separate Quran text, translation, tafsir, hadith,
   scholarly interpretation, and scientific hypothesis.
 - For Python tooling, prefer `uv` for environments and `ruff` for lint/format.
+- For Python code changes, also run Pyright-compatible type checking. Do not
+  assume Ruff catches editor/Pylance errors.
 - Do not overstate causality from observational or preclinical evidence.
 - Commit meaningful completed changes when the user asks for repo work.
 
@@ -42,4 +44,7 @@ be reviewed by qualified clinicians.
 - Run `uv run python scripts/check_repo.py` after scaffold or documentation
   changes.
 - Run `uv run ruff check .` for Python changes.
+- Run `uv run ruff format --check .` for Python changes.
+- Run `uv run --with pyright pyright scripts` for Python changes.
+- Run a small behavior smoke test for the script or function you changed.
 - Build the paper when the LaTeX toolchain is available.

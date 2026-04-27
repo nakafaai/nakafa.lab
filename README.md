@@ -50,9 +50,9 @@ forward.
 
 ## Python Tooling
 
-Python research utilities should use `uv` for environment management and `ruff`
-for linting/formatting. This repo keeps the Python setup minimal until real
-analysis code exists.
+Python research utilities should use `uv` for environment management, `ruff`
+for linting/formatting, and Pyright for editor-compatible type checks. This
+repo keeps the Python setup minimal until real analysis code exists.
 
 Common commands:
 
@@ -61,6 +61,7 @@ Common commands:
 - `uv run python scripts/fetch_pubmed.py "fetal hemoglobin beta thalassemia"`
 - `uv run ruff check .`
 - `uv run ruff format .`
+- `uv run --with pyright pyright scripts`
 
 This repo does not use Node dependencies right now. Do not add `package.json`
 or `pnpm` just to wrap Python or LaTeX commands.

@@ -62,6 +62,7 @@ repo without a licensed hematologist.
 ## Linked Notes
 
 - [De-identified case context](deidentified-case-001.md)
+- [Hematologist question sheet](hematologist-question-sheet-case-001.md)
 - [Clinical baseline checklist](../findings/2026-04-26-clinical-baseline-checklist.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)

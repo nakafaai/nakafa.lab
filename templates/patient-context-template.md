@@ -22,6 +22,8 @@ birth date.
 - Ferritin trend, liver iron, and cardiac iron:
 - Heart, liver, endocrine, and bone monitoring:
 - Alloantibodies, autoantibodies, or autoimmune diagnosis:
+- Linked clinical timeline CSV:
+- Linked clinical record index CSV:
 
 ## Research Questions
 
@@ -34,3 +36,9 @@ birth date.
 - No direct identifier included:
 - Details are broad enough to avoid re-identification:
 - Patient or family permission status:
+
+## Timeline Workflow
+
+- Record index copied from `templates/clinical-record-index-template.csv`:
+- Timeline copied from `templates/case-clinical-timeline-template.csv`:
+- Timeline summary command run:

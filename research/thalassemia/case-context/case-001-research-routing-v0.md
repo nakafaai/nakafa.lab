@@ -87,6 +87,8 @@ Ask these in order:
 Every new case detail should update one of these files:
 
 - [de-identified case context](deidentified-case-001.md);
+- [clinical record index template](../../../templates/clinical-record-index-template.csv);
+- [case clinical timeline template](../../../templates/case-clinical-timeline-template.csv);
 - [genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md);
 - [clinician review brief](clinician-brief-case-001.md);
 - [hematologist question sheet](hematologist-question-sheet-case-001.md);
@@ -109,6 +111,7 @@ material into a thalassemia treatment claim.
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
+- [Clinical timeline data packet](../findings/2026-04-27-clinical-timeline-data-packet.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
 - [Case-001 genotype-first intake gate V0](case-001-genotype-first-intake-gate-v0.md)
 - [HPFH-like assay readout spec V0](../assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md)

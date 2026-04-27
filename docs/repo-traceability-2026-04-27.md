@@ -11,15 +11,15 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `674`.
+Tracked files after this audit batch: `679`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
 | `data/` | 486 | source snapshots and extracted evidence records |
-| `research/` | 147 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
+| `research/` | 149 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
 | `docs/` | 12 | operating docs, status journals, security, setup, and hygiene |
-| `scripts/` | 10 | small Python utilities and manifests |
-| `templates/` | 6 | reusable research, assay, and de-identified clinical templates |
+| `scripts/` | 11 | small Python utilities and manifests |
+| `templates/` | 8 | reusable research, assay, and de-identified clinical templates |
 | `paper/` | 4 | LaTeX paper source, bibliography, notes, and editor root |
 | `.zed/` | 1 | editor task integration for local research workflow |
 | root config/docs | 8 | repo config, README, agent guide, Python project files |
@@ -29,15 +29,16 @@ Tracked files after this audit batch: `674`.
 | Type | Files | Meaning |
 | --- | ---: | --- |
 | `.json` | 427 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
-| `.md` | 159 | docs, findings, assays, hypotheses, Quran notes, templates |
+| `.md` | 161 | docs, findings, assays, hypotheses, Quran notes, templates |
 | `.xml` | 42 | PubMed or PMC abstract/full-text source snapshots |
 | `.txt` | 15 | source-linked full-text extracts, not raw browser HTML |
-| `.py` | 9 | small Python utilities |
+| `.py` | 10 | small Python utilities |
 | `.ipynb` | 8 | small reproducible notebooks |
 | no extension | 5 | root/editor configuration files such as `.gitattributes` and `.gitignore` |
 | `.xlsx` | 3 | PLOS supplementary assay tables used for reproducible extraction |
 | `.tex` | 2 | LaTeX paper source |
-| `.bib`, `.toml`, `.csv`, `.lock` | 1 each | bibliography, Python config, template CSV, uv lockfile |
+| `.bib`, `.toml`, `.lock` | 1 each | bibliography, Python config, uv lockfile |
+| `.csv` | 3 | reusable de-identified record, timeline, and transfusion templates |
 
 ## Data Directory Trace
 
@@ -53,7 +54,7 @@ Tracked files after this audit batch: `674`.
 
 | Research area | Files | Reason kept |
 | --- | ---: | --- |
-| `research/thalassemia/findings/` | 86 | small source-backed findings and decision notes |
+| `research/thalassemia/findings/` | 88 | small source-backed findings and decision notes |
 | `research/thalassemia/assays/` | 8 | assay specs, lab partner requirements, and quote/work-order docs |
 | `research/thalassemia/hypotheses/` | 8 | structured candidate hypotheses |
 | `research/thalassemia/case-context/` | 5 | de-identified case routing and clinician questions |

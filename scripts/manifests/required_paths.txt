@@ -628,6 +628,7 @@ scripts/fetch_clinical_trials.py
 scripts/fetch_pubmed.py
 scripts/fetch_bpom_products.py
 scripts/check_public_repo.py
+scripts/summarize_case_timeline.py
 docs/security/threat-model-assumption-gate.md
 research/thalassemia/findings/2026-04-27-bpom-advanced-therapy-product-search.md
 research/thalassemia/findings/2026-04-27-hydroxyurea-local-access-comparator.md
@@ -642,6 +643,7 @@ research/thalassemia/findings/2026-04-27-delta-globin-hba2-induction-gate.md
 research/thalassemia/findings/2026-04-27-curative-options-eligibility-gate.md
 research/thalassemia/findings/2026-04-27-iron-overload-organ-risk-gate.md
 research/thalassemia/findings/2026-04-27-no-lab-research-lane.md
+research/thalassemia/findings/2026-04-27-clinical-timeline-data-packet.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
 research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
@@ -663,6 +665,8 @@ templates/assay-run-template.md
 templates/hypothesis-card-template.md
 templates/patient-context-template.md
 templates/transfusion-log-template.csv
+templates/clinical-record-index-template.csv
+templates/case-clinical-timeline-template.csv
 scripts/helpers/__init__.py
 scripts/helpers/manifest.py
 scripts/manifests/required_paths.txt

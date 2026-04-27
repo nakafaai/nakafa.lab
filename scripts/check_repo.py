@@ -369,6 +369,7 @@ REQUIRED_PATHS = [
     "docs/status/2026-04-27.md",
     "docs/status/daily-summary-automation.md",
     "docs/discovery-pipeline.md",
+    "docs/transfusion-burden-calculator.md",
     "docs/zed-latex.md",
     ".zed/tasks.json",
     "data/README.md",
@@ -546,12 +547,14 @@ REQUIRED_PATHS = [
     "paper/notes/carrier-malaria.tex",
     "paper/references.bib",
     "pyproject.toml",
+    "scripts/calc_transfusion_burden.py",
     "scripts/fetch_clinical_trials.py",
     "scripts/fetch_pubmed.py",
     "templates/clinician-review-brief-template.md",
     "templates/assay-run-template.md",
     "templates/hypothesis-card-template.md",
     "templates/patient-context-template.md",
+    "templates/transfusion-log-template.csv",
 ]
 
 

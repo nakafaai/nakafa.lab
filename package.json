@@ -12,6 +12,7 @@
     "paper:build": "mkdir -p paper/build && tectonic --synctex --keep-logs --outdir paper/build paper/main.tex",
     "paper:open": "open paper/build/main.pdf",
     "pubmed:search": "python3 scripts/fetch_pubmed.py",
+    "transfusion:burden": "python3 scripts/calc_transfusion_burden.py",
     "trials:snapshot": "python3 scripts/fetch_clinical_trials.py --condition Thalassemia"
   }
 }

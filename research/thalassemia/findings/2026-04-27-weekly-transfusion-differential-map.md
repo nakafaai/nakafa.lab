@@ -56,6 +56,9 @@ Interpretation needs clinician review, but the calculation prevents a common
 mistake: comparing "weekly" versus "monthly" without knowing volume, body
 weight, and blood-product content.
 
+Nakafa Lab now has a small de-identified helper for this calculation:
+[Transfusion burden calculator](../../../docs/transfusion-burden-calculator.md).
+
 ## Records To Request
 
 - last 6-12 months of transfusion dates;

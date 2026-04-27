@@ -30,6 +30,7 @@ A candidate can become its own hypothesis card only if it has:
 
 - target or endpoint connection to HbF, globin balance, erythroid maturation, or
   transfusion burden;
+- an HPFH-like signature label if the claim is HbF reactivation;
 - human evidence or strong erythroid-cell evidence;
 - safety review for anemia, transfusion, liver, chelation, and immune disease;
 - affordable access path;
@@ -41,6 +42,7 @@ A candidate can become its own hypothesis card only if it has:
 2. Sirolimus evidence map and trial status.
 3. Epigenetic HbF target drilldown: `MBD2-NuRD`, `LSD1/KDM1A`, `DNMT1`,
    `NRF2/BACH1`, and HDAC-linked regulation.
-4. Decitabine/azacitidine mechanism and safety boundary.
-5. Bee-derived material screen only after checking HbF or erythroid endpoint
+4. Apply HPFH-like signature labels to every existing HbF seed.
+5. Decitabine/azacitidine mechanism and safety boundary.
+6. Bee-derived material screen only after checking HbF or erythroid endpoint
    evidence.

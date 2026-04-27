@@ -48,6 +48,8 @@ safety gates work.
 
 The first executable version of this panel is tracked in
 [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md).
+The quote-ready version is tracked in
+[First lab quote brief V0](2026-04-27-first-lab-quote-brief-v0.md).
 
 ## Partner Questions
 
@@ -82,6 +84,7 @@ Stop a candidate before escalation if:
 
 - [Epigenetic HbF screen V0](2026-04-27-epigenetic-hbf-screen-v0.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
+- [First lab quote brief V0](2026-04-27-first-lab-quote-brief-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)

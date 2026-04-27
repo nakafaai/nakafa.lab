@@ -94,6 +94,10 @@ reason:
 raw_data_location:
 ```
 
+Use the [assay run template](../../../templates/assay-run-template.md) when a
+partner returns candidate data, so each run records identity, controls, missing
+readouts, and a `promote`, `hold`, or `reject` decision against the same gates.
+
 ## Query Boundaries
 
 Several first-pass searches for combined `HBG1/HBG2`, `CD71`, `CD235a`, and
@@ -113,3 +117,4 @@ F-cell-flow, globin-chain-ratio, endogenous-reporter, and HBG editing sources.
 - [Over-constrained HBG broad maturation snapshot](../../../data/literature/pubmed/2026-04-27-hpfh-like-erythroid-maturation-hbg-broad.json)
 - [Over-constrained HUDEP2 reporter readout snapshot](../../../data/literature/pubmed/2026-04-27-hpfh-like-hudep2-hbf-reporter-readouts.json)
 - [HPFH-like signature V0](../prioritization/2026-04-27-hpfh-like-signature-v0.md)
+- [Assay run template](../../../templates/assay-run-template.md)

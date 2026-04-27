@@ -18,6 +18,9 @@ noise.
 | `scripts/manifests/` | line-oriented manifests used by Python checks |
 | `templates/` | reusable research, assay, and de-identified clinical-context templates |
 
+The current tracked-file audit is documented in
+[repo-traceability-2026-04-27.md](repo-traceability-2026-04-27.md).
+
 ## Ignored Content
 
 Generated or local-only files should not enter Git:
@@ -32,6 +35,10 @@ Generated or local-only files should not enter Git:
 If a generated file is needed for evidence, save the smallest source-linked
 snapshot under `data/` and register it in
 `research/thalassemia/references/source-registry.md`.
+
+Do not commit raw `.html` files. If page-level context is unavoidable, commit a
+small source-linked text extraction under `data/literature/fulltext/` and cite
+it from a finding.
 
 ## Public Repo Privacy Rule
 

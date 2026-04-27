@@ -34,6 +34,8 @@ forward.
 - `docs/status/` - dated research status journal entries, not final summaries.
 - `docs/security/` - public-repo security assumptions and future threat-model
   gates.
+- `docs/repo-traceability-2026-04-27.md` - tracked-file audit and data-snapshot
+  justification.
 - `research/thalassemia/README.md` - first disease program.
 - `research/thalassemia/findings/` - small source-backed research notes.
 - `research/thalassemia/hypotheses/` - structured hypothesis candidates.

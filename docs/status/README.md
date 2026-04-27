@@ -1,16 +1,18 @@
-# Research Status Notes
+# Research Status Journal
 
-This folder is for readable research status updates.
+This folder is for readable dated research status updates.
 
 ## Files
 
-- `latest.md` is the current dashboard. It is allowed to change often.
-- Dated files can be added later when a status update should be preserved as a
-  milestone.
+- Use `YYYY-MM-DD.md` filenames, for example `2026-04-27.md`.
+- Each file is a journal-style snapshot for that date.
+- Do not make these sound like final conclusions.
+- When making a new summary, add a new dated file instead of overwriting older
+  entries.
 
 ## Rule
 
-Status notes are not final conclusions. They should answer:
+Status journal entries are not final conclusions. They should answer:
 
 - what changed;
 - what we know now;
@@ -18,5 +20,5 @@ Status notes are not final conclusions. They should answer:
 - what the next practical action is;
 - what a clinician, researcher, or engineer can do with it.
 
-Keep status notes short enough to read quickly. Detailed evidence belongs in
+Keep entries short enough to read quickly. Detailed evidence belongs in
 `research/**/findings/`, `research/**/hypotheses/`, `data/`, and the paper.

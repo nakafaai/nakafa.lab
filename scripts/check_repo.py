@@ -366,7 +366,7 @@ REQUIRED_PATHS = [
     "docs/next-steps.md",
     "docs/parallel-research-tracks.md",
     "docs/status/README.md",
-    "docs/status/latest.md",
+    "docs/status/2026-04-27.md",
     "docs/discovery-pipeline.md",
     "docs/zed-latex.md",
     ".zed/tasks.json",

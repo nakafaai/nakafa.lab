@@ -6,6 +6,7 @@ import argparse
 import csv
 import datetime as dt
 import json
+from collections.abc import Sequence
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -67,7 +68,7 @@ def require_float(row: dict[str, str], column: str, row_number: int) -> float:
     return float(value)
 
 
-def validate_columns(fieldnames: list[str] | None) -> None:
+def validate_columns(fieldnames: Sequence[str] | None) -> None:
     """Ensure the CSV contains the required columns."""
     if fieldnames is None:
         raise ValueError("CSV is missing a header row.")
@@ -82,7 +83,7 @@ def validate_columns(fieldnames: list[str] | None) -> None:
 
 def load_rows(input_csv: str) -> list[TransfusionRow]:
     """Load and normalize transfusion rows from a CSV file."""
-    rows = []
+    rows: list[TransfusionRow] = []
     with Path(input_csv).open(newline="", encoding="utf-8") as csv_file:
         reader = csv.DictReader(csv_file)
         validate_columns(reader.fieldnames)
@@ -116,7 +117,7 @@ def load_rows(input_csv: str) -> list[TransfusionRow]:
     raise ValueError("CSV has no transfusion rows.")
 
 
-def mean(values: list[float]) -> float | None:
+def mean(values: Sequence[float]) -> float | None:
     """Return the arithmetic mean for non-empty numeric values."""
     if not values:
         return None
@@ -138,7 +139,8 @@ def summarize_rows(rows: list[TransfusionRow]) -> dict:
     end_date = rows[-1].date
     period_days = (end_date - start_date).days + 1
     transfusion_intervals = [
-        (rows[index].date - rows[index - 1].date).days for index in range(1, len(rows))
+        float((rows[index].date - rows[index - 1].date).days)
+        for index in range(1, len(rows))
     ]
     volume_ml_per_kg = sum(
         row.transfused_volume_ml / row.body_weight_kg for row in rows

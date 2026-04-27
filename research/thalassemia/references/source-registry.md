@@ -256,3 +256,5 @@ Checked on 2026-04-26 unless noted.
 | Clinical benchmarks | [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md) | Extracts first numeric effect benchmarks across gene therapy, luspatercept, mitapivat, hydroxyurea, sirolimus, and thalidomide. |
 | Clinical benchmarks | [Top clinical lane PubMed XML](../../../data/literature/pubmed/2026-04-27-top-clinical-lanes-abstracts.xml) | Reproducible PubMed XML snapshot for top clinical benchmark abstracts. |
 | Clinical benchmarks | [Beti-cel PubMed XML](../../../data/literature/pubmed/2026-04-27-beti-cel-abstract.xml) | Reproducible PubMed XML snapshot for the betibeglogene autotemcel benchmark abstract. |
+| Hydroxyurea | [Hydroxyurea response predictor map](../findings/2026-04-27-hydroxyurea-response-predictor-map.md) | Extracts first responder signals for NTDT, HbE/beta-thalassemia, XmnI-HBG2, and erythroid culture response. |
+| Hydroxyurea | [Hydroxyurea response predictor PubMed XML](../../../data/literature/pubmed/2026-04-27-hydroxyurea-response-predictors.xml) | Reproducible PubMed XML snapshot for hydroxyurea responder-biology abstracts. |

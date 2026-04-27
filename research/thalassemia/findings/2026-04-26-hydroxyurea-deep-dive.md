@@ -32,6 +32,11 @@ beta-globin and may reduce alpha-globin chain damage.
 - `BCL11A`, `HBS1L-MYB`, and other HbF modifier status if available.
 - Age, spleen status, transfusion burden, and baseline marrow reserve.
 
+First-pass numeric extraction is now tracked in
+[Hydroxyurea response predictor map](2026-04-27-hydroxyurea-response-predictor-map.md).
+The current signal supports genotype-first and modifier-aware interpretation,
+especially for HbE/beta-thalassemia and XmnI-HBG2 context.
+
 ## Safety Boundary
 
 Hydroxyurea is a real drug with real risks. Review must track:

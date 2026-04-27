@@ -1,7 +1,7 @@
 {
-  "next_page_token": "ZVJj7o2Elu8o3lpqX9ahv-numpOQJJxtZfel2PcYkA",
+  "next_page_token": null,
   "ok": true,
-  "pages_fetched": 1,
+  "pages_fetched": 3,
   "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=fetal+hemoglobin+OR+HbF+OR+BCL11A&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
   "records": [
     {
@@ -198,6 +198,235 @@
       ],
       "status": "RECRUITING",
       "title": "Study of Panobinostat (LBH589) in Patients With Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101 injection"
+      ],
+      "last_update": "2025-02-10",
+      "nct_id": "NCT06065189",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of adverse events(AEs) as assessed by CTCAE v5.0",
+        "Occurrence of engraftment",
+        "Time to neutrophil and platelet engraftment",
+        "Occurrence of transplant-related death",
+        "Occurrence of all-cause death",
+        "Occurrence of achieving transfusion reduction for at least 3 consecutive months"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Base-edited Autologous Hematopoietic Stem Cell Transplantation in Treating Patients With \u03b2-thalassemia Major"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Fludarabine",
+        "Busulfan",
+        "Melphalan",
+        "Rituximab",
+        "Levetiracetam",
+        "Alpha/Beta T Cell-Depleted Hematopoietic Stem Cells",
+        "Thymoglobulin",
+        "Cyclophosphamide"
+      ],
+      "last_update": "2026-04-06",
+      "nct_id": "NCT05735717",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Determine the rate of GVHD after alpha beta TCR depletion"
+      ],
+      "status": "RECRUITING",
+      "title": "MT2021-08T Cell Receptor Alpha/Beta Depletion PBSC Transplantation for Heme Malignancies"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "YOLT-204"
+      ],
+      "last_update": "2024-11-07",
+      "nct_id": "NCT06678165",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Treatment-Emergent Adverse Events",
+        "Laboratory Test Findings",
+        "Safety Measurements",
+        "3 months of sustained transfusion reduction",
+        "3 months of transfusion independence"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Pilot Study on the Safety and Efficacy of YOLT-204 for Transfusion-Dependent Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "interventions": [
+        "EDIT-301"
+      ],
+      "last_update": "2025-04-02",
+      "nct_id": "NCT05444894",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Proportion of participants achieving engraftment defined as neutrophil engraftment (defined as demonstrating absolute neutrophil count (ANC) \u2265 0.5 x 10^9/L post EDIT-301 infusion for 3 consecutive measurements obtained on different days)",
+        "Frequency and severity of adverse events (AEs) (incidence of AEs and Grade 3 or higher serious adverse events, using National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] v.5.0)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "EDIT-301 for Autologous Hematopoietic Stem Cell Transplant (HSCT) in Participants With Transfusion-Dependent Beta Thalassemia (TDT)"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "multiplex PCR"
+      ],
+      "last_update": "2024-05-29",
+      "nct_id": "NCT06433570",
+      "phases": [],
+      "primary_outcomes": [
+        "Detection of KLF1 gene mutations in patients with beta thalassemia considering the beta molecular status of these patients"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Detection of Krupple Like Factor -1(KLF1/ EKLF) DNA Mutations in Beta Thalassemia Patients"
+    },
+    {
+      "countries": [
+        "Canada",
+        "Germany",
+        "Italy",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-03",
+      "nct_id": "NCT05356195",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Proportion of Participants who Achieve Transfusion Independence for at Least 12 Consecutive Months (TI12)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Evaluation of Safety and Efficacy of CTX001 in Pediatric Participants With Transfusion-Dependent \u03b2-Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Autologous CD34+ HSC cells transduced with the lentiviral vector containing a shRNA targeting BCL11a"
+      ],
+      "last_update": "2025-04-18",
+      "nct_id": "NCT05353647",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Occurrence of VOEs by Month 24 post-infusion"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Gene Transfer Study Inducing Fetal Hemoglobin in Sickle Cell Disease (GRASP, BMT CTN 2001)"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "thalidomide and hydroxyurea",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490601",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "hemoglobin levels",
+        "red blood cell count.",
+        "leukocyte count",
+        "reticulocyte count",
+        "Transfusion Frequency:"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long Term Beta Thalassemia Treatment: Findings From The Extension Period"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "single infusion of autologous bone marrow derived CD34+ HSC cells transduced with the lentiviral vector containing a short-hairpin RNA targeting BCL11a"
+      ],
+      "last_update": "2026-01-09",
+      "nct_id": "NCT03282656",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Rescue of hematopoiesis after conditioning"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Gene Transfer for Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101 injection"
+      ],
+      "last_update": "2026-03-24",
+      "nct_id": "NCT07489196",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "AEs(Adverse Events) and SAEs(Serious Adverse Events) after CS-101 infusion",
+        "Overall survival",
+        "Proportion of Subjects with engraftment",
+        "Time to neutrophil engraftment",
+        "Time to platelet engraftment",
+        "Incidence of transplant-related mortality",
+        "Proportion of subjects achieving transfusion independence for at least 12 consecutive months"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Phase 2 Safety and Efficacy Study Evaluating CS-101 in Participants With \u03b2-Thalassemia Major"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "autologous bone marrow derived CD34+ HSPCs electroporated with BCL11A enhancer targeting Cas9 ribonucleoprotein",
+        "Sequencing Assay for Variant rs114518452"
+      ],
+      "last_update": "2026-02-03",
+      "nct_id": "NCT06647979",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Primary engraftment"
+      ],
+      "status": "RECRUITING",
+      "title": "Hematopoietic Stem Cell BCL11A Enhancer Gene Editing for Severe \u03b2-Hemoglobinopathies"
     }
   ],
   "total_count": 21

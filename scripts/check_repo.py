@@ -510,6 +510,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-ai-assisted-cancer-vaccine-method.md",
     "research/thalassemia/findings/2026-04-27-top-clinical-lanes-numeric-extraction.md",
     "research/thalassemia/findings/2026-04-27-current-clinical-trial-landscape.md",
+    "research/thalassemia/findings/2026-04-27-gene-cell-therapy-registry-product-map.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

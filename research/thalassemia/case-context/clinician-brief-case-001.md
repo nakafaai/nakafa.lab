@@ -57,6 +57,9 @@ birth date
 - Is current chelation optimal and tolerated?
 - Should this case be evaluated for luspatercept, mitapivat, HSCT, gene therapy,
   or a clinical trial?
+- If advanced therapy is discussed, is the relevant route beta-globin
+  gene-addition, HbF-reactivation editing, HSCT, or only supportive
+  disease-modifying therapy?
 - Which options are medically unsuitable, and why?
 - What missing data must be collected before any advanced therapy discussion?
 
@@ -75,3 +78,4 @@ repo without a licensed hematologist.
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
+- [Gene and cell therapy registry product map](../findings/2026-04-27-gene-cell-therapy-registry-product-map.md)

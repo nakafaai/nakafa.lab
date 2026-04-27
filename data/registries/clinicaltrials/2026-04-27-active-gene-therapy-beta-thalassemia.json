@@ -1,7 +1,7 @@
 {
-  "next_page_token": "ZVJj7o2Elu8o3lpqX9ahv-numpOQJJxuYPGt3_AekA",
+  "next_page_token": null,
   "ok": true,
-  "pages_fetched": 1,
+  "pages_fetched": 4,
   "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=gene+therapy&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
   "records": [
     {
@@ -210,6 +210,383 @@
       ],
       "status": "RECRUITING",
       "title": "Growth and Development-related Outcomes in Children With Transfusion-dependent Beta-thalassemia After Gene Therapy"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-14",
+      "nct_id": "NCT05773729",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Percentage of treated participants with Transfusion-Dependent \u03b2-Thalassemia (TDT) who achieved transfusion independence (TI) for at least 6 months"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of Gene Modified Autologous Hematopoietic Stem Cells to Treat Transfusion-dependent Beta-thalassemia"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "RNA Binding Protein Pumilio1 (PUM1) Expression by reverse transcriptase quantatative PCR"
+      ],
+      "last_update": "2023-05-31",
+      "nct_id": "NCT05883254",
+      "phases": [],
+      "primary_outcomes": [
+        "Expression pattern of PUM1 gene in patients with sickle cell anemia and \u03b2-thalassemia intermedia."
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Pumilio1 (PUM1) Expression, Sickle Cell Anemia, \u03b2-thalassemia Intermedia"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "ADDITION OF THALIDOMIDE AND HYDROXYUREA"
+      ],
+      "last_update": "2025-12-18",
+      "nct_id": "NCT07292259",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of Red Blood Cell Transfusions after starting a combination of Thalidomide and hydroxyurea"
+      ],
+      "status": "RECRUITING",
+      "title": "Combination of Thalidomide and Hydroxyuria in Transfusion Dependent Thalasemmia"
+    },
+    {
+      "countries": [],
+      "interventions": [],
+      "last_update": "2026-04-06",
+      "nct_id": "NCT07480980",
+      "phases": [],
+      "primary_outcomes": [
+        "Relative expression level of microRNA-155"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Evaluation of Micro RNA-155 Expression in Relation to Alloantibody Formation in Transfusion-Dependent Patients"
+    },
+    {
+      "countries": [
+        "Italy"
+      ],
+      "interventions": [
+        "Autologous CD34+ cells transduced with TNS9.3.55"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT01639690",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "safety",
+        "tolerability"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "\u00df-Thalassemia Major With Autologous CD34+ Hematopoietic Progenitor Cells Transduced With TNS9.3.55 a Lentiviral Vector Encoding the Normal Human \u00df-Globin Gene"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "panobinostat"
+      ],
+      "last_update": "2026-01-09",
+      "nct_id": "NCT01245179",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Primary Outcome Measure"
+      ],
+      "status": "RECRUITING",
+      "title": "Study of Panobinostat (LBH589) in Patients With Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 Cell Injection Drug Product"
+      ],
+      "last_update": "2025-03-10",
+      "nct_id": "NCT06280378",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "KL003 engraftment",
+        "Engraftment time of neutrophil and platelet",
+        "Overall Survival",
+        "The number, frequency and severity of adverse events (AE) within 1 year after infusion of KL003 drug products",
+        "Clonal dominance or secondary tumors caused by lentiviral vector insertional-mutation",
+        "Numbers of Participants With Vector-Derived Replication-Competent Lentivirus (RCL)"
+      ],
+      "status": "RECRUITING",
+      "title": "\u0392-Thalassemia Treatment with KL003 Cell Injection"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-24",
+      "nct_id": "NCT06465550",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Mean time from BD211 treatment to successful neutrophil engraftment, as well as the number and percentage of participants with successful neutrophil engraftment.",
+        "Mean time from BD211 treatment to successful platelet engraftment, as well as the number and percentage of participants with successful platelet engraftment.",
+        "Proportion of participants achieving transfusion independence (TI)"
+      ],
+      "status": "RECRUITING",
+      "title": "A Phase 1 Study of Gene-modified Autologous Hematopoietic Stem Cell (BD211) Treating \u03b2-thalassemia Major"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Fludarabine",
+        "Busulfan",
+        "Melphalan",
+        "Rituximab",
+        "Levetiracetam",
+        "Alpha/Beta T Cell-Depleted Hematopoietic Stem Cells",
+        "Thymoglobulin",
+        "Cyclophosphamide"
+      ],
+      "last_update": "2026-04-06",
+      "nct_id": "NCT05735717",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Determine the rate of GVHD after alpha beta TCR depletion"
+      ],
+      "status": "RECRUITING",
+      "title": "MT2021-08T Cell Receptor Alpha/Beta Depletion PBSC Transplantation for Heme Malignancies"
+    },
+    {
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "interventions": [
+        "EDIT-301"
+      ],
+      "last_update": "2025-04-02",
+      "nct_id": "NCT05444894",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Proportion of participants achieving engraftment defined as neutrophil engraftment (defined as demonstrating absolute neutrophil count (ANC) \u2265 0.5 x 10^9/L post EDIT-301 infusion for 3 consecutive measurements obtained on different days)",
+        "Frequency and severity of adverse events (AEs) (incidence of AEs and Grade 3 or higher serious adverse events, using National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] v.5.0)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "EDIT-301 for Autologous Hematopoietic Stem Cell Transplant (HSCT) in Participants With Transfusion-Dependent Beta Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "No Intervention"
+      ],
+      "last_update": "2025-02-11",
+      "nct_id": "NCT06271512",
+      "phases": [],
+      "primary_outcomes": [
+        "Number of Participants who Experience Each Individual Adverse Events of Interest (AEIs)"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study of Participants with \u0392-Thalassemia Treated with Betibeglogene Autotemcel"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Autologous CD34+ HSC cells transduced with the lentiviral vector containing a shRNA targeting BCL11a"
+      ],
+      "last_update": "2025-04-18",
+      "nct_id": "NCT05353647",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Occurrence of VOEs by Month 24 post-infusion"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Gene Transfer Study Inducing Fetal Hemoglobin in Sickle Cell Disease (GRASP, BMT CTN 2001)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT05675436",
+      "phases": [],
+      "primary_outcomes": [
+        "The percentage change in the oxygen affinity measure p50 (defined as the partial pressure of oxygen at which Hb is 50% saturated with oxygen) between baseline."
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Investigating the Mechanistic Effects of Mitapivat in Subjects With Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "thalidomide and hydroxyurea",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490601",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "hemoglobin levels",
+        "red blood cell count.",
+        "leukocyte count",
+        "reticulocyte count",
+        "Transfusion Frequency:"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long Term Beta Thalassemia Treatment: Findings From The Extension Period"
+    },
+    {
+      "countries": [
+        "Australia",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Thailand",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Safety and efficacy assessments"
+      ],
+      "last_update": "2025-04-09",
+      "nct_id": "NCT02633943",
+      "phases": [],
+      "primary_outcomes": [
+        "The number of subjects with malignancies",
+        "The number of subjects with immune-related AEs",
+        "The number of subjects with new or worsening hematologic disorders",
+        "The number of subjects with new or worsening neurologic disorders"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long-term Follow-up of Subjects With Transfusion-Dependent \u03b2-Thalassemia (TDT) Treated With Ex Vivo Gene Therapy"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [],
+      "last_update": "2026-03-30",
+      "nct_id": "NCT04416178",
+      "phases": [],
+      "primary_outcomes": [
+        "Use of semi-structured interviews in parents of SCD patients to qualitatively describe parental attitudes of research involving genomic sequencing, including concerns about participation and expectations from researchers",
+        "Use of surveys to quantitatively measure genetic/genomic knowledge, trust in health care provider/researchers, and literacy/numeracy ability in parents of children with SCD and adolescents with SCD."
+      ],
+      "status": "RECRUITING",
+      "title": "Sickle Cell Disease and the Genomic and Gene Therapy Needs of Stakeholders"
+    },
+    {
+      "countries": [
+        "Italy"
+      ],
+      "interventions": [
+        "Safety and Efficacy assessments"
+      ],
+      "last_update": "2022-11-23",
+      "nct_id": "NCT03275051",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Number of subjects with absence of abnormal clonal proliferation (ACP)",
+        "Number of subjects with Polyclonal engraftment"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long-term Follow-up of Subjects Treated With OTL-300 for Transfusion Dependent Beta-thalassemia Study (TIGET-BTHAL)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "single infusion of autologous bone marrow derived CD34+ HSC cells transduced with the lentiviral vector containing a short-hairpin RNA targeting BCL11a"
+      ],
+      "last_update": "2026-01-09",
+      "nct_id": "NCT03282656",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Rescue of hematopoiesis after conditioning"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Gene Transfer for Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "GMCN-508B (LentiRed)"
+      ],
+      "last_update": "2023-05-09",
+      "nct_id": "NCT05762510",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Proportion of subjects who achieved transfusion independence, defined as an average Hb \u2265 9 g/dL without any pRBC transfusions for a continuous period of \u2265 6 months at any time during the study after LentiRed Drug Product infusion.",
+        "Number and proportion of subjects who maintained \u03b2A-T87Q-globin(HbAT87Q) at \u22652.0 g/dL for \u2265 6 months after LentiRed Drug Product infusion.",
+        "Proportion of subjects whose red blood cells (RBC) transfusion requirement was reduced for \u22656 months after LentiRed Drug Product infusion, compared to previous 2-year transfusion records."
+      ],
+      "status": "RECRUITING",
+      "title": "A Study Evaluating the Safety and Efficacy of LentiRed Drug Product in Transfusion-dependent \u03b2-Thalassemia [TDT]"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "autologous bone marrow derived CD34+ HSPCs electroporated with BCL11A enhancer targeting Cas9 ribonucleoprotein",
+        "Sequencing Assay for Variant rs114518452"
+      ],
+      "last_update": "2026-02-03",
+      "nct_id": "NCT06647979",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Primary engraftment"
+      ],
+      "status": "RECRUITING",
+      "title": "Hematopoietic Stem Cell BCL11A Enhancer Gene Editing for Severe \u03b2-Hemoglobinopathies"
     }
   ],
   "total_count": 30

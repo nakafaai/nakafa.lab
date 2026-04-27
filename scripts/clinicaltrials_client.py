@@ -114,12 +114,15 @@ def studies_response(request: dict[str, Any]) -> dict[str, Any]:
     records: list[dict[str, Any]] = []
     pages_fetched = 0
     next_page_token = None
+    total_count = None
     payload: dict[str, Any] = {}
 
     for _ in range(max_pages):
         url = build_url("studies", params)
         payload = fetch_json(url, timeout_sec)
         pages_fetched += 1
+        if total_count is None:
+            total_count = payload.get("totalCount")
         records.extend(compact_study(study) for study in payload.get("studies", []))
         next_page_token = payload.get("nextPageToken")
 
@@ -133,7 +136,7 @@ def studies_response(request: dict[str, Any]) -> dict[str, Any]:
         "query_url": build_url("studies", request.get("params", {})),
         "pages_fetched": pages_fetched,
         "next_page_token": next_page_token,
-        "total_count": payload.get("totalCount"),
+        "total_count": total_count,
         "records": records[:max_items],
     }
 

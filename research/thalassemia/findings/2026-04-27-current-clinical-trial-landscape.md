@@ -22,7 +22,7 @@ records and no active Indonesia-located cure trial in this snapshot.
 | `Thalassemia`, active/recruiting/not-yet-recruiting | 132 | broad active landscape, mixed relevance |
 | `Thalassemia`, all statuses | 561 | broad historical registry context |
 | `Thalassemia` + `Indonesia`, all statuses | 6 | completed/unknown supportive or observational studies |
-| `beta thalassemia` + `gene therapy`, active statuses | 30 | most direct cure-like lane |
+| `beta thalassemia` + `gene therapy`, active statuses | 30 | useful but noisy keyword set; curated gene/cell therapy subset needed |
 | `beta thalassemia` + `Luspatercept`, active statuses | 9 | transfusion-burden benchmark lane |
 | `beta thalassemia` + `Mitapivat`, active statuses | 5 | oral disease-modifying benchmark lane |
 | `beta thalassemia` + `Thalidomide`, active statuses | 3 | high-caution HbF / transfusion-reduction lane |
@@ -33,9 +33,10 @@ records and no active Indonesia-located cure trial in this snapshot.
 ## Active Lane Notes
 
 - Gene/cell therapy records include autologous gene-modified stem-cell
-  products, CRISPR/editing follow-up, and long-term safety endpoints. This
-  supports the existing project rule: gene therapy is the biological benchmark,
-  not the affordability solution yet.
+  products, CRISPR/editing follow-up, and long-term safety endpoints, but the
+  keyword query also pulls unrelated drug and observational records. This
+  supports a curated product map rather than treating all 30 hits as gene
+  therapy evidence.
 - Mitapivat has active/not-yet-recruiting pediatric phase 3 TDT and NTDT
   records plus active-not-recruiting adult phase 3 records. Its registry
   endpoints map cleanly to hemoglobin response and transfusion reduction.
@@ -74,6 +75,7 @@ changing transfusion, chelation, immune therapy, supplements, or medicines.
 - [All-status thalassemia landscape snapshot](../../../data/registries/clinicaltrials/2026-04-27-thalassemia-all-status-landscape.json)
 - [Indonesia thalassemia snapshot](../../../data/registries/clinicaltrials/2026-04-27-thalassemia-indonesia-all-status-landscape.json)
 - [Gene-therapy active snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-gene-therapy-beta-thalassemia.json)
+- [Gene/cell therapy registry product map](2026-04-27-gene-cell-therapy-registry-product-map.md)
 - [Mitapivat active snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-mitapivat-beta-thalassemia.json)
 - [Luspatercept active snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-luspatercept-beta-thalassemia.json)
 - [Thalidomide active snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-thalidomide-beta-thalassemia.json)

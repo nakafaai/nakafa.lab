@@ -15,6 +15,8 @@ signal can become a practical, safe, affordable reduction in transfusion burden.
 - Reported gamma-globin mRNA increase in the Sirthalaclin pilot trial.
 - Possible reduction of free alpha-globin burden.
 - Possible ULK1/autophagy and AHSP-linked erythroid effects.
+- Broader `AMPKB1` / `ULK1` / `NRF2` bridge now makes dual HbF plus
+  alpha-globin-cleanup assays more important than HbF-only screening.
 
 ## Extracted Evidence
 
@@ -40,6 +42,9 @@ signal can become a practical, safe, affordable reduction in transfusion burden.
 
 Deep dive:
 `research/thalassemia/findings/2026-04-26-sirolimus-deep-dive.md`.
+
+Bridge finding:
+`research/thalassemia/findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md`.
 
 ## Falsification Criteria
 

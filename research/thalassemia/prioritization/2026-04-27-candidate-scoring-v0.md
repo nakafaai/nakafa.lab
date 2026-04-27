@@ -46,6 +46,7 @@ high-cost therapies are tracked separately as benchmarks below.
 | Hydroxyurea | 4 | 4 | 3 | 5 | 4 | 3.95 | affordable clinical comparator |
 | Sirolimus | 4 | 3 | 2 | 3 | 4 | 3.20 | HbF repurposing hypothesis |
 | Epigenetic HbF targets | 5 | 2 | 1 | 2 | 5 | 3.00 | assay-discovery lane only |
+| `AMPKB1` / `ULK1` / `NRF2` / autophagy | 4 | 2 | 2 | 2 | 4 | 2.80 | dual HbF and alpha-globin-cleanup target-discovery bridge |
 | Hepcidin-ferroportin-`TMPRSS6` | 3 | 3 | 3 | 2 | 3 | 2.85 | iron-axis comparator |
 | Thalidomide class | 4 | 3 | 1 | 2 | 3 | 2.75 | high-caution evidence map |
 | Curcuminoid analog HbF | 3 | 2 | 2 | 3 | 3 | 2.55 | chemistry-gated screen seed |
@@ -71,8 +72,9 @@ becoming the main affordability strategy.
 
 1. Hydroxyurea remains the best affordable comparator because it has direct HbF
    biology, human thalassemia evidence, and realistic access.
-2. Sirolimus, thalidomide-class drugs, and epigenetic targets are useful for
-   mechanism discovery but have safety or translation blockers.
+2. Sirolimus, `AMPKB1` / `ULK1` / `NRF2` / autophagy, thalidomide-class drugs,
+   and epigenetic targets are useful for mechanism discovery but have safety or
+   translation blockers.
 3. Curcuminoid analogs are not ordinary turmeric/curcumin claims; they require
    exact compound identity and hemolysis gating.
 4. EGCG, ginger, propolis, and royal jelly are adjunct/support lanes unless
@@ -118,6 +120,7 @@ gene-editing and natural HPFH biology count as true `hpfh_like` benchmarks.
 - [HPFH-like signature V0](2026-04-27-hpfh-like-signature-v0.md)
 - [HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md)
 - [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
+- [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)

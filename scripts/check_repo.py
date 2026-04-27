@@ -314,6 +314,7 @@ CRBN_HBF_BOUNDARY_PATHS = [
     "data/literature/pubmed/2026-04-27-avadomide-hbf-abstract.xml",
     "data/literature/pubmed/2026-04-27-avadomide-thalassemia-hbf.json",
     "data/literature/pubmed/2026-04-27-cc122-fetal-hemoglobin.json",
+    "data/literature/pubmed/2026-04-27-crbn-ikzf-hbf-bcl11a-search.json",
     "data/literature/pubmed/2026-04-27-imid-bcl11a-hbf-thalassemia.json",
     "data/literature/pubmed/2026-04-27-pomalidomide-hbf-bcl11a-thalassemia.json",
     "data/literature/pubmed/2026-04-27-pomalidomide-hbf-selected-abstracts.xml",
@@ -324,6 +325,17 @@ CRBN_HBF_BOUNDARY_PATHS = [
     "data/registries/clinicaltrials/2026-04-27-pomalidomide-scd-intervention-trials.json",
     "data/registries/clinicaltrials/2026-04-27-pomalidomide-thalassemia-intervention-trials.json",
     "data/registries/clinicaltrials/2026-04-27-pomalidomide-thalassemia-trials.json",
+]
+
+AMPKB1_AUTOPHAGY_PATHS = [
+    "data/literature/pubmed/2026-04-27-ampkb1-hbf-nrf2-abstract.xml",
+    "data/literature/pubmed/2026-04-27-ampkb1-hbf-nrf2-search.json",
+    "data/literature/pubmed/2026-04-27-autophagy-beta-thalassemia-review-abstract.xml",
+    "data/literature/pubmed/2026-04-27-autophagy-fetal-hemoglobin-erythroid-search.json",
+    "data/literature/pubmed/2026-04-27-cdk-inhibitor-fetal-hemoglobin-search.json",
+    "data/literature/pubmed/2026-04-27-sirolimus-ulk1-alpha-globin-abstract.xml",
+    "data/literature/pubmed/2026-04-27-triciribine-fetal-hemoglobin-search.json",
+    "data/literature/pubmed/2026-04-27-vps34-autophinib-fetal-hemoglobin-search.json",
 ]
 
 EGCG_SAFETY_STANDARDIZATION_PATHS = [
@@ -451,6 +463,7 @@ REQUIRED_PATHS = [
     *QUERCETIN_ANALOG_PATHS,
     *HBF_REPORTER_GUARDRAIL_PATHS,
     *CRBN_HBF_BOUNDARY_PATHS,
+    *AMPKB1_AUTOPHAGY_PATHS,
     *EGCG_SAFETY_STANDARDIZATION_PATHS,
     *HEPCIDIN_IRON_AXIS_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
@@ -535,6 +548,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-hudep2-small-molecule-hit-map.md",
     "research/thalassemia/findings/2026-04-27-r574-r547-label-resolution.md",
     "research/thalassemia/findings/2026-04-27-hudep2-primary-validation-boundary.md",
+    "research/thalassemia/findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md",
     "research/thalassemia/findings/2026-04-27-ai-assisted-cancer-vaccine-method.md",
     "research/thalassemia/findings/2026-04-27-top-clinical-lanes-numeric-extraction.md",
     "research/thalassemia/findings/2026-04-27-current-clinical-trial-landscape.md",

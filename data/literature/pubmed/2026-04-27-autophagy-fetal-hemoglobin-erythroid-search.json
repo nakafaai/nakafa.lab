@@ -1,0 +1,141 @@
+{
+  "count": 5,
+  "query": "autophagy fetal hemoglobin erythroid cells",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41259521"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12629196"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12629196;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/sciadv.adx1144"
+        }
+      ],
+      "journal": "Sci Adv",
+      "pmid": "41259521",
+      "pubdate": "2025 Nov 21",
+      "title": "Selective AMPK\u03b21 activation induces fetal hemoglobin in human erythroid cells and sickle cell mice via the noncanonical NRF2 pathway."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38891049"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11171814"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11171814;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cells13110918"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cells13110918"
+        }
+      ],
+      "journal": "Cells",
+      "pmid": "38891049",
+      "pubdate": "2024 May 25",
+      "title": "Therapeutic Relevance of Inducing Autophagy in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37894732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10606773"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10606773;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms242015049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms242015049"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "37894732",
+      "pubdate": "2023 Oct 10",
+      "title": "Decrease in \u03b1-Globin and Increase in the Autophagy-Activating Kinase ULK1 mRNA in Erythroid Precursors from \u03b2-Thalassemia Patients Treated with Sirolimus."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35059731"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3892/ijmm.2022.5088"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "33"
+        }
+      ],
+      "journal": "Int J Mol Med",
+      "pmid": "35059731",
+      "pubdate": "2022 Mar",
+      "title": "Possible effects of sirolimus treatment on the long\u2011term efficacy of COVID\u201119 vaccination in patients with \u03b2\u2011thalassemia: A theoretical perspective."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30324804"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1089/hum.2018.022"
+        }
+      ],
+      "journal": "Hum Gene Ther",
+      "pmid": "30324804",
+      "pubdate": "2019 May",
+      "title": "A Novel BaEVRless-Pseudotyped \u03b3-Globin Lentiviral Vector Drives High and Stable Fetal Hemoglobin Expression and Improves Thalassemic Erythropoiesis In Vitro."
+    }
+  ]
+}

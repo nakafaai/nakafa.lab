@@ -17,6 +17,7 @@ each lane gets one current label and one reason.
 | HPFH-like `HBG` promoter editing | `hpfh_like` | natural and genome-editing positive-control biology |
 | Hydroxyurea | `partial_hbf` | best low-cost clinical HbF comparator; response is heterogeneous |
 | Sirolimus | `partial_hbf` | repurposing signal; immune and monitoring boundaries remain |
+| `AMPKB1` / `ULK1` / `NRF2` / autophagy bridge | `partial_hbf` | target-discovery lane linking HbF induction and alpha-globin cleanup; needs beta-thalassemia primary-cell validation |
 | Thalidomide / CRBN class | `blocked` | strong HbF/transfusion signal but safety boundary is too hard for promotion |
 | Decitabine / DNMT1 depletion | `blocked` | strong HbF biology but cytotoxic and marrow-safety boundary is high |
 | `MBD2-NuRD`, `LSD1`, HDAC target discovery | `partial_hbf` | assay-design lane, not direct treatment lead |
@@ -46,6 +47,8 @@ can be tested against the HPFH-like signature:
 
 - hydroxyurea as the low-cost clinical comparator;
 - sirolimus as a monitored repurposing comparator;
+- `AMPKB1` / `ULK1` / `NRF2` / autophagy as a dual HbF and alpha-globin
+  cleanup target-discovery bridge;
 - epigenetic target lanes as assay controls;
 - `T-BDMC`, resveratrol, and `HHBDMC` as natural-product-adjacent HbF seeds.
 
@@ -77,3 +80,4 @@ If the label is:
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [BCL11A HbF switch mimic boundary](../findings/2026-04-27-bcl11a-hbf-switch-mimic-boundary.md)
 - [HPFH natural HbF blueprint](../findings/2026-04-27-hpfh-natural-hbf-blueprint.md)
+- [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)

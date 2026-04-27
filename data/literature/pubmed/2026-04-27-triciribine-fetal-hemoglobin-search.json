@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "triciribine fetal hemoglobin erythroid",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39504332"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11540224"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11540224;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0307049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-24-26300"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "39504332",
+      "pubdate": "2024",
+      "title": "Identification of small molecule agonists of fetal hemoglobin expression for the treatment of sickle cell disease."
+    }
+  ]
+}

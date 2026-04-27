@@ -72,9 +72,12 @@ when safety is plausible.
 ## Sources
 
 - [Quran 6:99](https://quran.com/6/99)
+- [Quran 6:99 structured note](006-al-anam/099.md)
 - [Quran 6:141](https://quran.com/6/141)
 - [Quran 16:11](https://quran.com/16/11)
 - [Quran 16:67](https://quran.com/16/67)
+- [Quran 16:11 structured note](016-an-nahl/011.md)
+- [Quran 16:67 structured note](016-an-nahl/067.md)
 - [Quran 16:68-69](https://quran.com/16/68-69)
 - [Quran 23:18-20](https://quran.com/23/18-20)
 - [Quran 24:35](https://quran.com/24/35)

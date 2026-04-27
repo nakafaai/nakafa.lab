@@ -1,0 +1,57 @@
+{
+  "count": 2,
+  "query": "alpha non-alpha globin chain ratio thalassemia hydroxyurea",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25183077"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4025300"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4025300;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12980/APJTB.4.2014C1161"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "apjtb-04-s1-s177"
+        }
+      ],
+      "journal": "Asian Pac J Trop Biomed",
+      "pmid": "25183077",
+      "pubdate": "2014 May",
+      "title": "\u03b1:Non-\u03b1 and G\u03b3:A\u03b3 globin chain ratios in thalassemia intermedia patients treated with hydroxyurea."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8562958"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)65336-8"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "8562958",
+      "pubdate": "1996 Feb 1",
+      "title": "Hydroxyurea increases hemoglobin F levels and improves the effectiveness of erythropoiesis in beta-thalassemia/hemoglobin E disease."
+    }
+  ]
+}

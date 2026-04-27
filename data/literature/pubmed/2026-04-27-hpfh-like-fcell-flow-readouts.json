@@ -1,0 +1,47 @@
+{
+  "count": 2,
+  "query": "fetal hemoglobin F-cells flow cytometry beta-thalassemia erythroid precursors",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15163316"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1365-2257.2004.00606.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CLH606"
+        }
+      ],
+      "journal": "Clin Lab Haematol",
+      "pmid": "15163316",
+      "pubdate": "2004 Jun",
+      "title": "Flow cytometric analysis of fetal hemoglobin in erythroid precursors of beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12779269"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1081/hem-120021539"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "12779269",
+      "pubdate": "2003 May",
+      "title": "Flow cytometric analysis of hydroxyurea effects on fetal hemoglobin production in cultures of beta-thalassemia erythroid precursors."
+    }
+  ]
+}

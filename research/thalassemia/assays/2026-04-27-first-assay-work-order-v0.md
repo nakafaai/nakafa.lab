@@ -60,6 +60,9 @@ Each run should return one table with:
 - pass, hold, or reject call;
 - reason for the decision.
 
+Use the [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
+when a candidate claims HbF reactivation or HPFH-like biology.
+
 ## BCL11A/HbF Signature Add-On
 
 For candidates that raise HbF or `HBG1/HBG2`, add a mechanism table when the
@@ -126,6 +129,7 @@ the few candidates that deserve deeper testing.
 
 - [Epigenetic HbF screen V0](2026-04-27-epigenetic-hbf-screen-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
+- [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Resveratrol HbF beta-thalassemia seed](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)

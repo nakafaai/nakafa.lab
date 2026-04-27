@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "fetal hemoglobin induction erythroid differentiation CD71 glycophorin A",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16631597"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrc.2006.03.203"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-291X(06)00778-9"
+        }
+      ],
+      "journal": "Biochem Biophys Res Commun",
+      "pmid": "16631597",
+      "pubdate": "2006 Jun 9",
+      "title": "cAMP differentially regulates gamma-globin gene expression in erythroleukemic cells and primary erythroblasts through c-Myb expression."
+    }
+  ]
+}

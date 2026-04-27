@@ -1,0 +1,204 @@
+{
+  "count": 6,
+  "query": "Genome editing of HBG1 and HBG2 to induce fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31698466"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6855127"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6855127;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2019000820"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "422725"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "31698466",
+      "pubdate": "2019 Nov 12",
+      "title": "Genome editing of HBG1 and HBG2 to induce fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39086133"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11489559"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11489559;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ymthe.2024.07.022"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-0016(24)00477-5"
+        }
+      ],
+      "journal": "Mol Ther",
+      "pmid": "39086133",
+      "pubdate": "2024 Oct 2",
+      "title": "Development and IND-enabling studies of a novel Cas9 genome-edited autologous CD34(+) cell therapy to induce fetal hemoglobin for sickle cell disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32284586"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41587-020-0491-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41587-020-0491-6"
+        }
+      ],
+      "journal": "Nat Biotechnol",
+      "pmid": "32284586",
+      "pubdate": "2020 Jul",
+      "title": "Directed evolution of adenine base editors with increased activity and therapeutic application."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34341563"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1719166"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8610173"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8610173;manuscript-id: NIHMS1719166;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-021-00904-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-021-00904-0"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "34341563",
+      "pubdate": "2021 Aug",
+      "title": "Activation of \u03b3-globin gene expression by GATA1 and NF-Y in hereditary persistence of fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35793591"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9277148"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9277148;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1242/dmm.049463"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "275817"
+        }
+      ],
+      "journal": "Dis Model Mech",
+      "pmid": "35793591",
+      "pubdate": "2022 Jun 1",
+      "title": "Limitations of mouse models for sickle cell disease conferred by their human globin transgene configurations."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27525524"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS918350"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5706766"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5706766;manuscript-id: NIHMS918350;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/nm.4170"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nm.4170"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "27525524",
+      "pubdate": "2016 Sep",
+      "title": "A genome-editing strategy to treat \u03b2-hemoglobinopathies that recapitulates a mutation associated with a benign genetic condition."
+    }
+  ]
+}

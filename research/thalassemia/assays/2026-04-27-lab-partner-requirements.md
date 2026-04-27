@@ -44,6 +44,9 @@ safety gates work.
 | Natural-product support seed | ginger/6-shogaol-rich extract only if standardized | red-cell-support comparator, not HbF lead |
 | Hazard control | known hemolytic condition chosen by the lab | calibrates rejection threshold |
 
+The first executable version of this panel is tracked in
+[First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md).
+
 ## Partner Questions
 
 Ask a potential lab partner:
@@ -74,6 +77,7 @@ Stop a candidate before escalation if:
 ## Linked Evidence
 
 - [Epigenetic HbF screen V0](2026-04-27-epigenetic-hbf-screen-v0.md)
+- [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)

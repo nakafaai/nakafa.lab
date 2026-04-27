@@ -69,6 +69,7 @@ Checked on 2026-04-26 unless noted.
 | HbF screen | [Small molecule HbF screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/) | Chemogenomic screening workflow for HbF-inducing compounds. |
 | HbF screen | [HbF assay PubMed snapshot](../../../data/literature/pubmed/2026-04-26-hbf-assay-screening.json) | Reproducible PubMed query snapshot for HbF reporter and compound screening. |
 | Assay | [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md) | Internal assay plan connecting epigenetic target ranking to HbF, erythroid, and hemolysis gates. |
+| Assay | [First HbF and red-cell safety assay work order V0](../assays/2026-04-27-first-assay-work-order-v0.md) | First qualified-lab work order draft for hydroxyurea, butyrate, decitabine/reference control, sirolimus, `T-BDMC`, resveratrol, 6-shogaol-rich ginger, and a hemolysis hazard control. |
 | Assay | [Synthetic beta-thalassemia erythropoiesis model, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3704632/) | CD34+ erythroid model for beta-thalassemia-like erythropoiesis. |
 | Assay | [Flow cytometric HbF analysis in beta-thalassemia, PubMed PMID 15163316](https://pubmed.ncbi.nlm.nih.gov/15163316/) | HbF and F-cell measurement context in beta-thalassemia cells. |
 | Safety assay | [Hemolysis assay optimization, PubMed PMID 36769243](https://pubmed.ncbi.nlm.nih.gov/36769243/) | Red-cell hemolysis safety screen reference. |

@@ -432,6 +432,7 @@ REQUIRED_PATHS = [
     "data/registries/clinicaltrials/2026-04-26-thalidomide-beta-thalassemia.json",
     "research/thalassemia/README.md",
     "research/thalassemia/assays/2026-04-27-epigenetic-hbf-screen-v0.md",
+    "research/thalassemia/assays/2026-04-27-first-assay-work-order-v0.md",
     "research/thalassemia/assays/2026-04-27-lab-partner-requirements.md",
     "research/thalassemia/assays/2026-04-27-indonesia-lab-partner-candidate-map.md",
     "research/thalassemia/case-context/clinician-brief-case-001.md",

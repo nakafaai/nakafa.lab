@@ -1,0 +1,286 @@
+{
+  "count": 10,
+  "query": "allogeneic hematopoietic stem cell transplantation thalassemia matched sibling unrelated haploidentical donor",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27000737"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.seminhematol.2016.01.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0037-1963(16)00002-0"
+        }
+      ],
+      "journal": "Semin Hematol",
+      "pmid": "27000737",
+      "pubdate": "2016 Apr",
+      "title": "Alternative donor allogeneic hematopoietic cell transplantation for hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21190532"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/157488811795495413"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "BSP/CSCRT/E-Pub/00086"
+        }
+      ],
+      "journal": "Curr Stem Cell Res Ther",
+      "pmid": "21190532",
+      "pubdate": "2011 Jun",
+      "title": "Hematopoietic stem cell transplantation for thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41730859"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13039527"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13039527;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41467-026-69756-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41467-026-69756-8"
+        }
+      ],
+      "journal": "Nat Commun",
+      "pmid": "41730859",
+      "pubdate": "2026 Feb 23",
+      "title": "A multi-center clinical trial of allogeneic hematopoietic stem cell transplantation in transfusion-dependent thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35207178"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8876955"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8876955;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm11040907"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm11040907"
+        }
+      ],
+      "journal": "J Clin Med",
+      "pmid": "35207178",
+      "pubdate": "2022 Feb 9",
+      "title": "Conditioning Regimens in Patients with \u03b2-Thalassemia Who Underwent Hematopoietic Stem Cell Transplantation: A Scoping Review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29127679"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1000326"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6341487"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6341487;manuscript-id: NIHMS1000326;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/978-1-4939-7299-9_5"
+        }
+      ],
+      "journal": "Adv Exp Med Biol",
+      "pmid": "29127679",
+      "pubdate": "2017",
+      "title": "Alternative Donor/Unrelated Donor Transplants for the \u03b2-Thalassemia and Sickle Cell Disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21075285"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2010.08.004"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(10)00116-4"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "21075285",
+      "pubdate": "2010 Dec",
+      "title": "Allogeneic cellular gene therapy for hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41753067"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12941211"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12941211;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm15041379"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm15041379"
+        }
+      ],
+      "journal": "J Clin Med",
+      "pmid": "41753067",
+      "pubdate": "2026 Feb 10",
+      "title": "Curative Approach to the Treatment of Beta-Thalassemia and Sickle Cell Disease with Hematopoietic Stem Cell Transplantation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34003560"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/petr.14037"
+        }
+      ],
+      "journal": "Pediatr Transplant",
+      "pmid": "34003560",
+      "pubdate": "2021 Sep",
+      "title": "Outcomes of allogeneic transplantation for hemoglobin Bart's hydrops fetalis syndrome in Hong Kong."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34531544"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41409-021-01461-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41409-021-01461-0"
+        }
+      ],
+      "journal": "Bone Marrow Transplant",
+      "pmid": "34531544",
+      "pubdate": "2021 Dec",
+      "title": "HSCT remains the only cure for patients with transfusion-dependent thalassemia until gene therapy strategies are proven to be safe."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31495699"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1539939"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6813907"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6813907;manuscript-id: NIHMS1539939;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2352-3026(19)30154-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2352-3026(19)30154-1"
+        }
+      ],
+      "journal": "Lancet Haematol",
+      "pmid": "31495699",
+      "pubdate": "2019 Nov",
+      "title": "Effect of donor type and conditioning regimen intensity on allogeneic transplantation outcomes in patients with sickle cell disease: a retrospective multicentre, cohort study."
+    }
+  ]
+}

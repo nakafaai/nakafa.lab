@@ -1,0 +1,47 @@
+{
+  "count": 2,
+  "query": "beta thalassemia gene therapy eligibility transfusion dependent autologous hematopoietic stem cells",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39527960"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(24)01884-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(24)01884-1"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "39527960",
+      "pubdate": "2024 Nov 30",
+      "title": "Betibeglogene autotemcel gene therapy in patients with transfusion-dependent, severe genotype \u03b2-thalassaemia (HGB-212): a non-randomised, multicentre, single-arm, open-label, single-dose, phase 3 trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK612160"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39977564"
+        }
+      ],
+      "journal": "",
+      "pmid": "39977564",
+      "pubdate": "2025 Jan",
+      "title": ""
+    }
+  ]
+}

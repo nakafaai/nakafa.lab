@@ -83,6 +83,29 @@ Ask the doctor to separate "medically relevant" from "not suitable":
 - Which options are unsuitable because of genotype, organ status, autoimmune
   disease, antibodies, age, infection risk, fertility risk, or cost/access?
 
+## Curative Options Eligibility Packet
+
+Ask the doctor to mark each option as `not_yet_evaluated`, `data_missing`,
+`medically_unsuitable`, `access_blocked`, `trial_or_referral_candidate`, or
+`under_specialist_review`.
+
+Questions:
+
+- What records are missing before HSCT or gene-cell therapy eligibility can be
+  judged?
+- Should the patient and available family members be HLA typed, or is there a
+  medical reason not to start that evaluation?
+- Which donor routes would be considered or rejected: matched sibling, matched
+  unrelated, haploidentical related donor, or cord blood?
+- Do iron burden, cardiac `T2*`, liver status, endocrine status, infection
+  history, autoimmune disease, antibodies, or spleen status change transplant
+  or conditioning risk?
+- For gene therapy or CRISPR therapy, what genotype, transfusion-burden,
+  organ-function, immune, fertility, long-term follow-up, cost, and center
+  access gates matter?
+- If an option is unsuitable, what is the exact reason and what data would
+  change that conclusion?
+
 ## Iron-Axis Questions
 
 The repo now tracks hepcidin, ferroportin, `TMPRSS6`, erythroferrone, and iron
@@ -127,5 +150,6 @@ clinicians.
 - [BPOM sirolimus product search](../findings/2026-04-27-bpom-sirolimus-product-search.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
 - [Gene therapy access frontier](../findings/2026-04-27-gene-therapy-access-frontier.md)
+- [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Indonesia access deep dive](../findings/2026-04-27-indonesia-access-deep-dive.md)
 - [Quran 57:25 iron guardrail](../../islamic/quran/057-al-hadid/025.md)

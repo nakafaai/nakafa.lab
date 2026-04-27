@@ -1,0 +1,110 @@
+{
+  "count": 3,
+  "query": "hematopoietic stem cell transplantation beta thalassemia donor risk eligibility",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27909215"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5286930"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5286930;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2015.141200"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.2015.141200"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "27909215",
+      "pubdate": "2017 Feb",
+      "title": "Cure for thalassemia major - from allogeneic hematopoietic stem cell transplantation to gene therapy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31495699"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1539939"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6813907"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6813907;manuscript-id: NIHMS1539939;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2352-3026(19)30154-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2352-3026(19)30154-1"
+        }
+      ],
+      "journal": "Lancet Haematol",
+      "pmid": "31495699",
+      "pubdate": "2019 Nov",
+      "title": "Effect of donor type and conditioning regimen intensity on allogeneic transplantation outcomes in patients with sickle cell disease: a retrospective multicentre, cohort study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24633300"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS633189"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4196668"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4196668;manuscript-id: NIHMS633189;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPH.0000000000000147"
+        }
+      ],
+      "journal": "J Pediatr Hematol Oncol",
+      "pmid": "24633300",
+      "pubdate": "2014 Oct",
+      "title": "Pediatric hematology providers on referral for transplant evaluation for sickle cell disease: a regional perspective."
+    }
+  ]
+}

@@ -11,12 +11,12 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `663`.
+Tracked files after this audit batch: `668`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
-| `data/` | 477 | source snapshots and extracted evidence records |
-| `research/` | 145 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
+| `data/` | 481 | source snapshots and extracted evidence records |
+| `research/` | 146 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
 | `docs/` | 12 | operating docs, status journals, security, setup, and hygiene |
 | `scripts/` | 10 | small Python utilities and manifests |
 | `templates/` | 6 | reusable research, assay, and de-identified clinical templates |
@@ -28,9 +28,9 @@ Tracked files after this audit batch: `663`.
 
 | Type | Files | Meaning |
 | --- | ---: | --- |
-| `.json` | 420 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
-| `.md` | 157 | docs, findings, assays, hypotheses, Quran notes, templates |
-| `.xml` | 40 | PubMed or PMC abstract/full-text source snapshots |
+| `.json` | 423 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
+| `.md` | 158 | docs, findings, assays, hypotheses, Quran notes, templates |
+| `.xml` | 41 | PubMed or PMC abstract/full-text source snapshots |
 | `.txt` | 15 | source-linked full-text extracts, not raw browser HTML |
 | `.py` | 9 | small Python utilities |
 | `.ipynb` | 8 | small reproducible notebooks |
@@ -43,7 +43,7 @@ Tracked files after this audit batch: `663`.
 
 | Data area | Files | Reason kept |
 | --- | ---: | --- |
-| `data/literature/` | 261 | literature, full-text extracts, PubMed XML/JSON, and supplementary source tables |
+| `data/literature/` | 265 | literature, full-text extracts, PubMed XML/JSON, and supplementary source tables |
 | `data/chemistry/` | 157 | PubChem and ChEMBL identity snapshots for candidate molecules |
 | `data/registries/` | 55 | ClinicalTrials.gov snapshots |
 | `data/regulatory/` | 3 | BPOM and EFSA access/safety snapshots |
@@ -53,7 +53,7 @@ Tracked files after this audit batch: `663`.
 
 | Research area | Files | Reason kept |
 | --- | ---: | --- |
-| `research/thalassemia/findings/` | 84 | small source-backed findings and decision notes |
+| `research/thalassemia/findings/` | 85 | small source-backed findings and decision notes |
 | `research/thalassemia/assays/` | 8 | assay specs, lab partner requirements, and quote/work-order docs |
 | `research/thalassemia/hypotheses/` | 8 | structured candidate hypotheses |
 | `research/thalassemia/case-context/` | 5 | de-identified case routing and clinician questions |

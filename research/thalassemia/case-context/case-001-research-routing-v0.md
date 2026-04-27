@@ -47,6 +47,7 @@ marked unknown:
 | Enlarged spleen, low platelets/WBC, or suspected hypersplenism | spleen and red-cell survival lane | hypersplenism can increase blood requirement and confound candidate response | record spleen status before interpreting HbF or transfusion response |
 | Autoimmune diagnosis or immune medicines | safety/exclusion lane | immune context can change feasibility of sirolimus, thalidomide-class, transplant, or trial eligibility | do not promote immune-active candidates without clinician review |
 | Doctor says luspatercept, mitapivat, HSCT, gene therapy, or CRISPR therapy is relevant | access and benchmark lane | current therapies define the strongest real-world endpoint standard | capture why it is possible, inaccessible, unsuitable, or not indicated |
+| No formal HSCT or gene-cell therapy review | curative-options eligibility gate | existing curative paths should not be missed while the repo searches for cheaper future candidates | record missing data and assign one of the six decision labels |
 
 ## Cure-Search Implication
 
@@ -101,6 +102,7 @@ material into a thalassemia treatment claim.
 - [FDA mitapivat approval summary](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder)
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
+- [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
 - [Case-001 genotype-first intake gate V0](case-001-genotype-first-intake-gate-v0.md)
 - [HPFH-like assay readout spec V0](../assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md)

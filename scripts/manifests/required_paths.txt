@@ -610,6 +610,10 @@ data/literature/pubmed/2026-04-27-hbd-cis-regulatory-elements-delta-globin-searc
 data/literature/pubmed/2026-04-27-hbd-promoter-delta-globin-gene-editing-search.json
 data/literature/pubmed/2026-04-27-hbd-promoter-engineering-hba2-search.json
 data/literature/pubmed/2026-04-27-interferon-delta-globin-hba2-search.json
+data/literature/pubmed/2026-04-27-curative-options-eligibility-selected-abstracts.xml
+data/literature/pubmed/2026-04-27-gene-therapy-eligibility-beta-thalassemia-search.json
+data/literature/pubmed/2026-04-27-hsct-beta-thalassemia-eligibility-search.json
+data/literature/pubmed/2026-04-27-hsct-thalassemia-donor-risk-search.json
 data/regulatory/bpom/2026-04-27-thalassemia-advanced-therapy-product-search.json
 data/regulatory/bpom/2026-04-27-sirolimus-product-search.json
 pyproject.toml
@@ -630,6 +634,7 @@ research/thalassemia/findings/2026-04-27-dual-readout-panel-prioritizer-result.m
 research/thalassemia/findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md
 research/thalassemia/findings/2026-04-27-alpha-globin-rebalancing-gate.md
 research/thalassemia/findings/2026-04-27-delta-globin-hba2-induction-gate.md
+research/thalassemia/findings/2026-04-27-curative-options-eligibility-gate.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
 research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md

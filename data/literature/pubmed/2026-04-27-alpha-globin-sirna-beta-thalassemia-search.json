@@ -1,0 +1,291 @@
+{
+  "count": 10,
+  "query": "siRNA alpha globin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25869286"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4497969"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4497969;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2015-03-633594"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)31544-5"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "25869286",
+      "pubdate": "2015 Jun 11",
+      "title": "\u03b1-Globin as a molecular target in the treatment of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38458745"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/bs.pmbts.2023.12.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1877-1173(23)00188-6"
+        }
+      ],
+      "journal": "Prog Mol Biol Transl Sci",
+      "pmid": "38458745",
+      "pubdate": "2024",
+      "title": "RNA therapeutics for \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18556409"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.12555"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.12555"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "18556409",
+      "pubdate": "2008 Aug",
+      "title": "siRNA-mediated reduction of alpha-globin results in phenotypic improvements in beta-thalassemic cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33940155"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8417505"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8417505;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ymthe.2021.04.037"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-0016(21)00251-3"
+        }
+      ],
+      "journal": "Mol Ther",
+      "pmid": "33940155",
+      "pubdate": "2021 Sep 1",
+      "title": "Coordinated \u03b2-globin expression and \u03b12-globin reduction in a multiplex lentiviral gene therapy vector for \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17716993"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/hmg/ddm218"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ddm218"
+        }
+      ],
+      "journal": "Hum Mol Genet",
+      "pmid": "17716993",
+      "pubdate": "2007 Nov 1",
+      "title": "Restoration of the balanced alpha/beta-globin gene expression in beta654-thalassemia mice using combined RNAi and antisense RNA approach."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38241484"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11021894"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11021894;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2023012010"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "514677"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "38241484",
+      "pubdate": "2024 Apr 23",
+      "title": "A human anti-matriptase-2 antibody limits iron overload, \u03b1-globin aggregates, and splenomegaly in \u03b2-thalassemic mice."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35045673"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8770884"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8770884;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3760/cma.j.issn.0253-2727.2021.12.009"
+        }
+      ],
+      "journal": "Zhonghua Xue Ye Xue Za Zhi",
+      "pmid": "35045673",
+      "pubdate": "2021 Dec 14",
+      "title": "[Regulation effect of siRNA on \u03b2-globin in erythrocytes of hemoglobin H disease]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27810991"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5394973"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5394973;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2016.155655"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.2016.155655"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "27810991",
+      "pubdate": "2017 Mar",
+      "title": "Selective silencing of \u03b1-globin by the histone demethylase inhibitor IOX1: a potentially new pathway for treatment of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41455370"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.intimp.2025.116107"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1567-5769(25)02096-X"
+        }
+      ],
+      "journal": "Int Immunopharmacol",
+      "pmid": "41455370",
+      "pubdate": "2026 Feb 1",
+      "title": "Identification of RBM3 as a novel regulator of human fetal hemoglobin expression."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36888630"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9994754"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9994754;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0281059"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-21-35741"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "36888630",
+      "pubdate": "2023",
+      "title": "Induction of fetal hemoglobin: Lentiviral shRNA knockdown of HBS1L in \u03b20-thalassemia/HbE erythroid cells."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "CRISPR alpha globin locus beta thalassemia HBA2",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33635334"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7948300"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7948300;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2020001996"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2473-9529(21)00140-3"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "33635334",
+      "pubdate": "2021 Mar 9",
+      "title": "Correction of \u03b2-thalassemia by CRISPR/Cas9 editing of the \u03b1-globin locus in human hematopoietic stem cells."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "count": 10,
+  "query": "alpha globin gene triplication beta thalassemia severity",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35402459"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8985499"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8985499;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmed.2022.866396"
+        }
+      ],
+      "journal": "Front Med (Lausanne)",
+      "pmid": "35402459",
+      "pubdate": "2022",
+      "title": "\u03b2-Thalassemia Intermedia: Interaction of \u03b1-Globin Gene Triplication With \u03b2-thalassemia Heterozygous in Spain."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38895064"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11182400"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11182400;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jha2.923"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JHA2923"
+        }
+      ],
+      "journal": "EJHaem",
+      "pmid": "38895064",
+      "pubdate": "2024 Jun",
+      "title": "Alpha globin gene alterations modifying the phenotype of homozygous beta thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10872474"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s0950-3536(98)80071-1"
+        }
+      ],
+      "journal": "Baillieres Clin Haematol",
+      "pmid": "10872474",
+      "pubdate": "1998 Mar",
+      "title": "Beta-thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26084319"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/03630269.2015.1027914"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "26084319",
+      "pubdate": "2015",
+      "title": "Interaction of an \u03b1-Globin Gene Triplication with \u03b2-Globin Gene Mutations in Iranian Patients with \u03b2-Thalassemia Intermedia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18026953"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-007-0407-2"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "18026953",
+      "pubdate": "2008 May",
+      "title": "Coinheritance of the different copy numbers of alpha-globin gene modifies severity of beta-thalassemia/Hb E disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31352439"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000495453"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "000495453"
+        }
+      ],
+      "journal": "Acta Haematol",
+      "pmid": "31352439",
+      "pubdate": "2019",
+      "title": "Alpha Globin Gene Mutation: A Major Determinant of Hydroxyurea Response in Transfusion-Dependent HbE-\u03b2-Thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24395608"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6807439"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6807439;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcla.21652"
+        }
+      ],
+      "journal": "J Clin Lab Anal",
+      "pmid": "24395608",
+      "pubdate": "2014 Mar",
+      "title": "Phenotypic effect of \u03b1-globin gene numbers on Indian sickle \u03b2-thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "3012927"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000206230"
+        }
+      ],
+      "journal": "Acta Haematol",
+      "pmid": "3012927",
+      "pubdate": "1985",
+      "title": "Alpha globin gene triplication in severe heterozygous beta thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36598439"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ejh.13923"
+        }
+      ],
+      "journal": "Eur J Haematol",
+      "pmid": "36598439",
+      "pubdate": "2023 May",
+      "title": "Hematological and genetic profiles of persons with co-inherited heterozygous \u03b2-thalassemia and supernumerary \u03b1-globin genes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30451045"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630269.2018.1526192"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "30451045",
+      "pubdate": "2018 Jul",
+      "title": "Frequency of \u03b1-Globin Gene Triplications and Coinheritance with \u03b2-Globin Gene Mutations in the Iranian Population."
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "count": 10,
+  "query": "alpha globin reduction beta thalassemia therapeutic",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30911135"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1521848"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6512986"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6512986;manuscript-id: NIHMS1521848;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-019-0401-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-019-0401-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "30911135",
+      "pubdate": "2019 May",
+      "title": "Highly efficient therapeutic gene editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25869286"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4497969"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4497969;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2015-03-633594"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)31544-5"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "25869286",
+      "pubdate": "2015 Jun 11",
+      "title": "\u03b1-Globin as a molecular target in the treatment of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38891049"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11171814"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11171814;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cells13110918"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cells13110918"
+        }
+      ],
+      "journal": "Cells",
+      "pmid": "38891049",
+      "pubdate": "2024 May 25",
+      "title": "Therapeutic Relevance of Inducing Autophagy in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30484264"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s40291-018-0373-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s40291-018-0373-5"
+        }
+      ],
+      "journal": "Mol Diagn Ther",
+      "pmid": "30484264",
+      "pubdate": "2019 Apr",
+      "title": "Oxidative Stress in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37339583"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10517214"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10517214;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2022017265"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(23)01465-9"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "37339583",
+      "pubdate": "2023 Sep 7",
+      "title": "Loss of miR-144/451 alleviates \u03b2-thalassemia by stimulating ULK1-mediated autophagy of free \u03b1-globin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33940155"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8417505"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8417505;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ymthe.2021.04.037"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-0016(21)00251-3"
+        }
+      ],
+      "journal": "Mol Ther",
+      "pmid": "33940155",
+      "pubdate": "2021 Sep 1",
+      "title": "Coordinated \u03b2-globin expression and \u03b12-globin reduction in a multiplex lentiviral gene therapy vector for \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37894732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10606773"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10606773;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms242015049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms242015049"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "37894732",
+      "pubdate": "2023 Oct 10",
+      "title": "Decrease in \u03b1-Globin and Increase in the Autophagy-Activating Kinase ULK1 mRNA in Erythroid Precursors from \u03b2-Thalassemia Patients Treated with Sirolimus."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18556409"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.12555"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.12555"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "18556409",
+      "pubdate": "2008 Aug",
+      "title": "siRNA-mediated reduction of alpha-globin results in phenotypic improvements in beta-thalassemic cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38848504"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11830976"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11830976;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2023022192"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "516430"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "38848504",
+      "pubdate": "2024 Aug 22",
+      "title": "A moonlighting job for \u03b1-globin in blood vessels."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33997100"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8091488"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8091488;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.omtm.2021.03.025"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2329-0501(21)00065-6"
+        }
+      ],
+      "journal": "Mol Ther Methods Clin Dev",
+      "pmid": "33997100",
+      "pubdate": "2021 Jun 11",
+      "title": "Efficient CRISPR-Cas9-based genome editing of \u03b2-globin gene on erythroid cells from homozygous \u03b2(0)39-thalassemia patients."
+    }
+  ]
+}

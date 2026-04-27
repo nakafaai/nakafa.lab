@@ -53,6 +53,12 @@ required first-panel endpoint and not as a therapy lane. It is useful if the lab
 can measure alpha-globin buffering beside HbF, alpha-globin burden, autophagy,
 maturation, viability, and hemolysis.
 
+The alpha-globin rebalancing gate adds direct `HBA1` / `HBA2` reduction as an
+advanced chain-balance benchmark, not a first affordable treatment lead. Keep it
+out of the first quote panel unless a qualified lab already has HSC, RNA,
+gene-transfer, or genome-editing capability and can measure over-suppression
+and HbH-like safety risk.
+
 ## Required Feasibility Questions
 
 Ask the lab to answer:
@@ -69,6 +75,8 @@ Ask the lab to answer:
   flux-aware autophagy readout?
 - Can you measure `AHSP` mRNA or protein if it is kept as an optional expanded
   alpha-globin-buffer readout?
+- If you can test direct `HBA1` / `HBA2` reduction, can you also measure
+  alpha/non-alpha balance and over-suppression safety?
 - Can you document compound or extract identity, vehicle, concentration range,
   replicates, raw data, and methods?
 - What ethics, biosafety, material-transfer, or import constraints apply?
@@ -110,6 +118,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 - [Dual-readout panel prioritizer result](../findings/2026-04-27-dual-readout-panel-prioritizer-result.md)
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
+- [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md)

@@ -36,6 +36,7 @@ panel:
 | Readout | Preferred method | Why it matters |
 | --- | --- | --- |
 | `AHSP` mRNA or protein | qPCR, ddPCR, RNA-seq, immunoblot, flow-compatible antibody, or lab-equivalent method | tests whether a candidate changes alpha-globin buffering, not just alpha-globin clearance |
+| `HBA1` / `HBA2` output | qPCR, ddPCR, RNA-seq, globin-chain assay, or lab-equivalent method | needed for direct alpha-globin rebalancing claims and for avoiding over-suppression |
 
 ## Evidence Anchors
 
@@ -49,6 +50,10 @@ panel:
 | PMID `35092867` | `NRF2` can expand the `AHSP` pool in beta-thalassemia model context. |
 | PMID `38731008` | Sirolimus-treated beta-thalassemia erythroid precursors can show increased `AHSP` mRNA. |
 | PMID `20815047` | `AHSP` overexpression alone did not produce major hematologic rescue in a murine beta-thalassemia model. |
+| PMID `25869286` | Alpha-globin is a plausible molecular target in beta-thalassemia because alpha-globin excess drives chain imbalance. |
+| PMID `18556409` | siRNA-mediated alpha-globin reduction improved beta-thalassemic cell phenotypes. |
+| PMID `33635334` | CRISPR/Cas9 editing of the alpha-globin locus in human HSCs supports HBA-locus rebalancing as an ex-vivo benchmark. |
+| PMID `18026953` | Alpha-globin copy number modifies beta-thalassemia/HbE severity, with alpha triplication worsening phenotype. |
 
 ## Pass, Hold, Reject
 
@@ -67,6 +72,8 @@ Hold if:
 
 - HbF rises but alpha-globin burden is not measured;
 - alpha-globin changes but HbF/F-cell readouts are missing;
+- direct `HBA1` / `HBA2` reduction is claimed without a safe alpha/non-alpha
+  balance window;
 - autophagy is measured only by one static marker without flux context;
 - the model is K562-only, reporter-only, or missing maturation markers;
 - compound identity, extract standardization, or batch traceability is
@@ -76,6 +83,7 @@ Reject if:
 
 - HbF rises only with viability loss;
 - free or insoluble alpha-globin increases;
+- alpha-globin output is over-suppressed or suggests an HbH-like safety risk;
 - erythroid maturation collapses;
 - mature red-cell hemolysis increases;
 - the candidate is immune-active or hazard-first and lacks a qualified
@@ -88,6 +96,7 @@ Reject if:
 | hydroxyurea | positive HbF comparator; not expected to solve every alpha-globin/autophagy endpoint |
 | sirolimus | monitored autophagy/HbF/`AHSP` comparator; requires strict immune and drug-monitoring boundary |
 | `AMPKB1` / `NRF2` lane | target-discovery bridge; `AHSP` is an optional buffer readout, not proof of rescue |
+| alpha-globin rebalancing / `HBA` reduction | advanced chain-balance benchmark; useful for assay design, not a first affordable lab-panel candidate |
 | metformin | translational warning comparator; not promoted because retrieved NTDT evidence did not show extra benefit over stable hydroxyurea |
 | curcuminoid or resveratrol seeds | must show HbF plus safety before autophagy language is used |
 | ginger/6-shogaol support lane | red-cell support comparator unless HbF and alpha-globin endpoints are proven |
@@ -142,6 +151,7 @@ research gate.
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
+- [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Alpha-globin/autophagy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json)
@@ -152,3 +162,6 @@ research gate.
 - [Sirolimus ULK1 alpha-globin article, PMID 37894732](https://pubmed.ncbi.nlm.nih.gov/37894732/)
 - [NRF2 AHSP article, PMID 35092867](https://pubmed.ncbi.nlm.nih.gov/35092867/)
 - [Sirolimus AHSP article, PMID 38731008](https://pubmed.ncbi.nlm.nih.gov/38731008/)
+- [Alpha-globin target review, PMID 25869286](https://pubmed.ncbi.nlm.nih.gov/25869286/)
+- [siRNA alpha-globin reduction, PMID 18556409](https://pubmed.ncbi.nlm.nih.gov/18556409/)
+- [CRISPR alpha-globin locus editing, PMID 33635334](https://pubmed.ncbi.nlm.nih.gov/33635334/)

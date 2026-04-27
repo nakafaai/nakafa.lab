@@ -18,6 +18,7 @@ each lane gets one current label and one reason.
 | Hydroxyurea | `partial_hbf` | best low-cost clinical HbF comparator; response is heterogeneous |
 | Sirolimus | `partial_hbf` | repurposing signal; immune and monitoring boundaries remain |
 | `AMPKB1` / `ULK1` / `NRF2` / autophagy bridge | `partial_hbf` | target-discovery lane linking HbF induction and alpha-globin cleanup; needs beta-thalassemia primary-cell validation |
+| Alpha-globin rebalancing / `HBA` reduction | `not_hbf_lane` | root-cause-adjacent chain-balance benchmark; advanced RNA/vector/HSC/editing delivery, not a first affordable lead |
 | Thalidomide / CRBN class | `blocked` | strong HbF/transfusion signal but safety boundary is too hard for promotion |
 | Decitabine / DNMT1 depletion | `blocked` | strong HbF biology but cytotoxic and marrow-safety boundary is high |
 | `MBD2-NuRD`, `LSD1`, HDAC target discovery | `partial_hbf` | assay-design lane, not direct treatment lead |
@@ -54,7 +55,13 @@ can be tested against the HPFH-like signature:
 
 Everything labeled `not_hbf_lane` can still matter, but it should not be sold
 as a cure-mimic HbF route. It belongs in red-cell support, iron axis, platelet,
-oxidative-stress, or adjunct biology until stronger evidence appears.
+oxidative-stress, chain-balance, or adjunct biology until stronger evidence
+appears.
+
+Alpha-globin rebalancing is the exception that is not HbF but still directly
+disease-relevant. It belongs beside the dual-readout assay as a chain-balance
+benchmark because HBA copy-number and reduction evidence supports the biology,
+while delivery and over-suppression risk block a first affordable lead.
 
 ## Immediate Decision Rule
 
@@ -81,3 +88,4 @@ If the label is:
 - [BCL11A HbF switch mimic boundary](../findings/2026-04-27-bcl11a-hbf-switch-mimic-boundary.md)
 - [HPFH natural HbF blueprint](../findings/2026-04-27-hpfh-natural-hbf-blueprint.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
+- [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)

@@ -1,0 +1,231 @@
+{
+  "count": 10,
+  "query": "co-inheritance alpha thalassemia beta thalassemia ameliorates severity",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35273733"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8902522"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8902522;"
+        }
+      ],
+      "journal": "Am J Transl Res",
+      "pmid": "35273733",
+      "pubdate": "2022",
+      "title": "\u03b1(0)-thalassemia in affected fetuses with hemoglobin E-\u03b2(0)-thalassemia disease in a high-risk population in Thailand."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17493845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2007.01.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(07)00076-9"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "17493845",
+      "pubdate": "2007 Sep-Oct",
+      "title": "Co-inheritance of alpha- and beta-thalassaemia in mice ameliorates thalassaemic phenotype."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30289070"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1566524018666181004121604"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CMM-EPUB-93432"
+        }
+      ],
+      "journal": "Curr Mol Med",
+      "pmid": "30289070",
+      "pubdate": "2018",
+      "title": "Genetic Modifiers of Fetal Haemoglobin (HbF) and Phenotypic Severity in \u03b2-Thalassemia Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15182058"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1081/hem-120035917"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "15182058",
+      "pubdate": "2004 May",
+      "title": "Thalassemia intermedia due to co-inheritance of beta0/beta(+)-thalassemia and (- -SEA) alpha-thalassemia/Hb Westmead [alpha122(H5)His > Gln (alpha2)] in a Chinese family."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25361929"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "44/4/437"
+        }
+      ],
+      "journal": "Ann Clin Lab Sci",
+      "pmid": "25361929",
+      "pubdate": "2014 Fall",
+      "title": "Implication of globin gene expression, hemoglobin F and hemoglobin E levels on \u03b2-thalassemia/Hb E disease severity."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38895064"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11182400"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11182400;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jha2.923"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JHA2923"
+        }
+      ],
+      "journal": "EJHaem",
+      "pmid": "38895064",
+      "pubdate": "2024 Jun",
+      "title": "Alpha globin gene alterations modifying the phenotype of homozygous beta thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33726930"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.blre.2021.100823"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0268-960X(21)00029-1"
+        }
+      ],
+      "journal": "Blood Rev",
+      "pmid": "33726930",
+      "pubdate": "2021 Sep",
+      "title": "Insight of fetal to adult hemoglobin switch: Genetic modulators and therapeutic targets."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7509151"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC1029678"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC1029678;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/adc.70.1.30"
+        }
+      ],
+      "journal": "Arch Dis Child",
+      "pmid": "7509151",
+      "pubdate": "1994 Jan",
+      "title": "Effect of alpha thalassaemia trait and enhanced gamma chain production on disease severity in beta thalassaemia major and intermedia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21120615"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11033-010-0557-5"
+        }
+      ],
+      "journal": "Mol Biol Rep",
+      "pmid": "21120615",
+      "pubdate": "2011 Oct",
+      "title": "Molecular characterization of \u03b2-thalassemia intermedia: a report from Iran."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32412692"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ijlh.13232"
+        }
+      ],
+      "journal": "Int J Lab Hematol",
+      "pmid": "32412692",
+      "pubdate": "2020 Aug",
+      "title": "Prevalence of globin gene modifiers encountered in fetuses during antenatal diagnosis of hemoglobinopathies."
+    }
+  ]
+}

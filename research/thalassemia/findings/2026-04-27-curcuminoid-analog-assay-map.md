@@ -67,6 +67,8 @@ directly. It is still early:
 - The mechanism may include G gamma promoter demethylation, but the authors
   note that other mechanisms may explain primary-cell effects.
 - Bioavailability and pharmacokinetics of the trienone analogs remain open.
+- `T-BDMC` has low-micromolar KB and Vero cytotoxicity records in ChEMBL, so
+  the HbF-active concentration window must be separated from cytotoxicity.
 
 ## Research Decision
 
@@ -93,4 +95,5 @@ Keep `T-BDMC` as a high-priority assay seed, but with strict gates:
 - [Curcuminoid HbF bridge deep dive](2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
 - [HHBDMC identity conflict](2026-04-27-hhbdmc-identity-conflict.md)
 - [T-BDMC identity resolution](2026-04-27-t-bdmc-identity-resolution.md)
+- [T-BDMC cytotoxicity boundary](2026-04-27-t-bdmc-cytotoxicity-boundary.md)
 - [Natural-product HbF expansion map](2026-04-27-natural-product-hbf-expansion-map.md)

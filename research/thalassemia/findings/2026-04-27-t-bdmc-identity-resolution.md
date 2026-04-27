@@ -50,6 +50,11 @@ peroxidation, and cytotoxicity records. Therefore, the HbF evidence must remain
 attributed to the Nuamsee 2021 beta-thalassemia/HbE study, not to ChEMBL
 activity annotations.
 
+The same ChEMBL activity snapshot now also creates a safety boundary:
+`CHEMBL469419` has low-micromolar KB and Vero cytotoxicity records from the
+trienone synthesis paper. That does not replace erythroid or red-cell testing,
+but it makes dose-window and hemolysis gates mandatory.
+
 ## Biology Boundary
 
 Nuamsee 2021 remains the relevant biology source:
@@ -91,3 +96,4 @@ The next gates are:
 - [HHBDMC ChEMBL negative search snapshot](../../../data/chemistry/chembl/curcuminoid-analogs/2026-04-27-hhbdmc-search.json)
 - [Nuamsee 2021 PMC snapshot](../../../data/literature/fulltext/nature/2026-04-27-nuamsee-2021-curcuminoid-trienone-pmc.html)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
+- [T-BDMC cytotoxicity boundary](2026-04-27-t-bdmc-cytotoxicity-boundary.md)

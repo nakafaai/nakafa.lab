@@ -46,6 +46,7 @@ forward.
 - `paper/references.bib` - initial bibliography.
 - `templates/` - reusable research and clinical-context templates.
 - `docs/zed-latex.md` - how to build and preview the paper in Zed.
+- `docs/repo-hygiene.md` - public repo hygiene, privacy, and security checks.
 
 ## Python Tooling
 

@@ -1,17 +1,46 @@
+# OS files
 .DS_Store
-node_modules/
+Thumbs.db
+
+# Local environments and dependency folders
 .venv/
+node_modules/
+
+# Python caches and local tool state
 __pycache__/
+*.py[cod]
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.pyre/
+.pyright/
+.coverage
+coverage/
+htmlcov/
+
+# Build outputs and framework caches
 .turbo/
 dist/
 build/
-coverage/
-private/
 
+# Local secrets and private working material
+.env
+.env.*
+!.env.example
+private/
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# LaTeX generated outputs
 paper/*.aux
 paper/*.bbl
 paper/*.blg
 paper/*.log
 paper/*.out
 paper/*.pdf
+paper/*.synctex.gz
 paper/build/

@@ -379,6 +379,7 @@ REQUIRED_PATHS = [
     "docs/status/README.md",
     "docs/status/2026-04-27.md",
     "docs/status/daily-summary-automation.md",
+    "docs/repo-hygiene.md",
     "docs/discovery-pipeline.md",
     "docs/transfusion-burden-calculator.md",
     "docs/zed-latex.md",

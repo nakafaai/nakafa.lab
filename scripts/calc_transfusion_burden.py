@@ -6,6 +6,7 @@ import argparse
 import csv
 import datetime as dt
 import json
+from dataclasses import dataclass
 from pathlib import Path
 
 REQUIRED_COLUMNS = [
@@ -14,6 +15,18 @@ REQUIRED_COLUMNS = [
     "transfused_volume_ml",
     "red_cell_fraction",
 ]
+
+
+@dataclass(frozen=True)
+class TransfusionRow:
+    """Normalized de-identified transfusion row with explicit field types."""
+
+    date: dt.date
+    body_weight_kg: float
+    transfused_volume_ml: float
+    red_cell_fraction: float
+    pre_hb_g_dl: float | None
+    post_hb_g_dl: float | None
 
 
 def parse_args() -> argparse.Namespace:
@@ -67,7 +80,7 @@ def validate_columns(fieldnames: list[str] | None) -> None:
     raise ValueError(f"CSV is missing required columns: {joined}.")
 
 
-def load_rows(input_csv: str) -> list[dict[str, float | dt.date | None]]:
+def load_rows(input_csv: str) -> list[TransfusionRow]:
     """Load and normalize transfusion rows from a CSV file."""
     rows = []
     with Path(input_csv).open(newline="", encoding="utf-8") as csv_file:
@@ -85,20 +98,20 @@ def load_rows(input_csv: str) -> list[dict[str, float | dt.date | None]]:
                 )
 
             rows.append(
-                {
-                    "date": parse_date(row["date"]),
-                    "body_weight_kg": require_float(row, "body_weight_kg", row_number),
-                    "transfused_volume_ml": require_float(
+                TransfusionRow(
+                    date=parse_date(row["date"]),
+                    body_weight_kg=require_float(row, "body_weight_kg", row_number),
+                    transfused_volume_ml=require_float(
                         row, "transfused_volume_ml", row_number
                     ),
-                    "red_cell_fraction": red_cell_fraction,
-                    "pre_hb_g_dl": parse_optional_float(row.get("pre_hb_g_dl")),
-                    "post_hb_g_dl": parse_optional_float(row.get("post_hb_g_dl")),
-                }
+                    red_cell_fraction=red_cell_fraction,
+                    pre_hb_g_dl=parse_optional_float(row.get("pre_hb_g_dl")),
+                    post_hb_g_dl=parse_optional_float(row.get("post_hb_g_dl")),
+                )
             )
 
     if rows:
-        return sorted(rows, key=lambda row: row["date"])
+        return sorted(rows, key=lambda row: row.date)
 
     raise ValueError("CSV has no transfusion rows.")
 
@@ -119,32 +132,24 @@ def rounded(value: float | None, digits: int = 2) -> float | None:
     return round(value, digits)
 
 
-def summarize_rows(rows: list[dict[str, float | dt.date | None]]) -> dict:
+def summarize_rows(rows: list[TransfusionRow]) -> dict:
     """Summarize transfusion burden from normalized rows."""
-    start_date = rows[0]["date"]
-    end_date = rows[-1]["date"]
-    if not isinstance(start_date, dt.date) or not isinstance(end_date, dt.date):
-        raise TypeError("Rows must contain normalized date values.")
-
+    start_date = rows[0].date
+    end_date = rows[-1].date
     period_days = (end_date - start_date).days + 1
     transfusion_intervals = [
-        (rows[index]["date"] - rows[index - 1]["date"]).days
-        for index in range(1, len(rows))
+        (rows[index].date - rows[index - 1].date).days for index in range(1, len(rows))
     ]
     volume_ml_per_kg = sum(
-        row["transfused_volume_ml"] / row["body_weight_kg"] for row in rows
+        row.transfused_volume_ml / row.body_weight_kg for row in rows
     )
     pure_red_cell_ml_per_kg = sum(
-        row["transfused_volume_ml"] * row["red_cell_fraction"] / row["body_weight_kg"]
+        row.transfused_volume_ml * row.red_cell_fraction / row.body_weight_kg
         for row in rows
     )
     annual_factor = 365 / period_days
-    pre_hb_values = [
-        row["pre_hb_g_dl"] for row in rows if isinstance(row["pre_hb_g_dl"], float)
-    ]
-    post_hb_values = [
-        row["post_hb_g_dl"] for row in rows if isinstance(row["post_hb_g_dl"], float)
-    ]
+    pre_hb_values = [row.pre_hb_g_dl for row in rows if row.pre_hb_g_dl is not None]
+    post_hb_values = [row.post_hb_g_dl for row in rows if row.post_hb_g_dl is not None]
 
     annual_pure_red_cell_ml_per_kg = pure_red_cell_ml_per_kg * annual_factor
     warnings = []
@@ -162,7 +167,7 @@ def summarize_rows(rows: list[dict[str, float | dt.date | None]]) -> dict:
         "period_days": period_days,
         "mean_interval_days": rounded(mean(transfusion_intervals)),
         "total_transfused_volume_ml": rounded(
-            sum(row["transfused_volume_ml"] for row in rows)
+            sum(row.transfused_volume_ml for row in rows)
         ),
         "total_volume_ml_per_kg": rounded(volume_ml_per_kg),
         "annual_volume_ml_per_kg": rounded(volume_ml_per_kg * annual_factor),

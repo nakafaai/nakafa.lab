@@ -34,9 +34,9 @@ and clinician oversight are already in place.
 
 Expansion items if the lab can support them:
 
-- PF-06409577 as an `AMPKB1` / `NRF2` / `ULK1` assay probe, only with exact
-  identity, certificate of analysis, purity, lot, vehicle, and dose-range
-  documentation;
+- PF-06409577 as a `PRKAB1` / AMPK beta1 / `NRF2` / `ULK1` assay probe, only
+  with exact identity, certificate of analysis, purity, lot, vehicle, and
+  dose-range documentation;
 - `T-BDMC`-like curcuminoid analog, only with exact compound identity and batch
   documentation;
 - mitapivat or a lab-approved pyruvate kinase activator reference, only if
@@ -51,9 +51,11 @@ The `AMPKB1` / `NRF2` expansion gate keeps selective probes as assay-only and
 keeps metformin as a low-priority warning comparator, not a lead, because the
 retrieved NTDT human study did not show extra benefit over stable hydroxyurea.
 The PF-06409577 material gate now makes this expansion lane stricter: use exact
-PF-06409577 or an explicitly agreed `AMPKB1`-selective analog only when the lab
-can document identity and run HbF, alpha-globin/autophagy, maturation,
-viability, and hemolysis readouts.
+PF-06409577 or an explicitly agreed `PRKAB1` / AMPK beta1-selective analog only
+when the lab can document identity and run HbF, alpha-globin/autophagy,
+maturation, viability, and hemolysis readouts.
+The target nomenclature gate clarifies that `PRKAB1` is the lab-facing human
+gene symbol, while AMPK beta1 names the protein subunit.
 
 The `AHSP` buffer gate adds `AHSP` as an optional expanded readout, not as a
 required first-panel endpoint and not as a therapy lane. It is useful if the lab
@@ -132,6 +134,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 - [Dual-readout panel prioritizer result](../findings/2026-04-27-dual-readout-panel-prioritizer-result.md)
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [PF-06409577 probe material gate](../findings/2026-04-27-pf-06409577-probe-material-gate.md)
+- [PRKAB1 target nomenclature gate](../findings/2026-04-27-prkab1-target-nomenclature-gate.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)

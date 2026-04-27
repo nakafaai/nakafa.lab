@@ -11,12 +11,12 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `718`.
+Tracked files after this audit batch: `719`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
 | `data/` | 507 | source snapshots and extracted evidence records |
-| `research/` | 154 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
+| `research/` | 155 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
 | `docs/` | 13 | operating docs, status journals, publication readiness, security, setup, and hygiene |
 | `scripts/` | 11 | small Python utilities and manifests |
 | `templates/` | 8 | reusable research, assay, and de-identified clinical templates |
@@ -29,7 +29,7 @@ Tracked files after this audit batch: `718`.
 | Type | Files | Meaning |
 | --- | ---: | --- |
 | `.json` | 448 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
-| `.md` | 165 | docs, findings, assays, hypotheses, Quran notes, templates |
+| `.md` | 166 | docs, findings, assays, hypotheses, Quran notes, templates |
 | `.xml` | 42 | PubMed or PMC abstract/full-text source snapshots |
 | `.txt` | 15 | source-linked full-text extracts, not raw browser HTML |
 | `.py` | 10 | small Python utilities |
@@ -54,7 +54,7 @@ Tracked files after this audit batch: `718`.
 
 | Research area | Files | Reason kept |
 | --- | ---: | --- |
-| `research/thalassemia/findings/` | 91 | small source-backed findings and decision notes |
+| `research/thalassemia/findings/` | 92 | small source-backed findings and decision notes |
 | `research/thalassemia/assays/` | 8 | assay specs, lab partner requirements, and quote/work-order docs |
 | `research/thalassemia/hypotheses/` | 8 | structured candidate hypotheses |
 | `research/thalassemia/case-context/` | 5 | de-identified case routing and clinician questions |

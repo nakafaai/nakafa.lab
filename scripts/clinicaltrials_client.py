@@ -5,11 +5,10 @@ from __future__ import annotations
 import json
 import pathlib
 import sys
-from typing import Any
 import urllib.error
 import urllib.parse
 import urllib.request
-
+from typing import Any
 
 API_ROOT = "https://clinicaltrials.gov/api/v2"
 

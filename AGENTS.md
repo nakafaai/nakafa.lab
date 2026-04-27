@@ -39,6 +39,7 @@ be reviewed by qualified clinicians.
 
 ## Verification
 
-- Run `pnpm check` after scaffold or documentation changes.
-- When `uv` is installed, run `uv run ruff check .` for Python changes.
+- Run `uv run python scripts/check_repo.py` after scaffold or documentation
+  changes.
+- Run `uv run ruff check .` for Python changes.
 - Build the paper when the LaTeX toolchain is available.

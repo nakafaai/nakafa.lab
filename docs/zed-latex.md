@@ -38,8 +38,9 @@ paper/build/main.pdf
 ## Build In Terminal
 
 ```sh
-pnpm paper:build
-pnpm paper:open
+mkdir -p paper/build
+tectonic --synctex --keep-logs --outdir paper/build paper/main.tex
+open paper/build/main.pdf
 ```
 
 If `tectonic` is not found, install it first and restart Zed so the editor sees

@@ -55,7 +55,7 @@ Keep each daily summary easy for an engineer-founder to scan:
 
 Before committing, the automation should run:
 
-- `pnpm check`;
+- `uv run python scripts/check_repo.py`;
 - lightweight syntax or link checks relevant to changed files;
 - LaTeX build when the paper changes.
 

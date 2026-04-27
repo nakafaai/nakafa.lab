@@ -6,7 +6,6 @@ import pathlib
 import urllib.parse
 import urllib.request
 
-
 BASE_URL = "https://clinicaltrials.gov/api/v2/studies"
 
 

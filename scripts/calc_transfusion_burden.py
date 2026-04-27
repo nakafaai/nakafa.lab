@@ -8,7 +8,6 @@ import datetime as dt
 import json
 from pathlib import Path
 
-
 REQUIRED_COLUMNS = [
     "date",
     "body_weight_kg",
@@ -23,7 +22,9 @@ def parse_args() -> argparse.Namespace:
         description="Calculate transfusion burden from a de-identified CSV log."
     )
     parser.add_argument("input_csv")
-    parser.add_argument("--json", action="store_true", help="Print JSON instead of text.")
+    parser.add_argument(
+        "--json", action="store_true", help="Print JSON instead of text."
+    )
     return parser.parse_args()
 
 
@@ -134,9 +135,7 @@ def summarize_rows(rows: list[dict[str, float | dt.date | None]]) -> dict:
         row["transfused_volume_ml"] / row["body_weight_kg"] for row in rows
     )
     pure_red_cell_ml_per_kg = sum(
-        row["transfused_volume_ml"]
-        * row["red_cell_fraction"]
-        / row["body_weight_kg"]
+        row["transfused_volume_ml"] * row["red_cell_fraction"] / row["body_weight_kg"]
         for row in rows
     )
     annual_factor = 365 / period_days
@@ -152,7 +151,9 @@ def summarize_rows(rows: list[dict[str, float | dt.date | None]]) -> dict:
     if len(rows) < 2:
         warnings.append("Only one transfusion row; interval cannot be calculated.")
     if period_days < 28:
-        warnings.append("Observation window is under 28 days; annualized values are noisy.")
+        warnings.append(
+            "Observation window is under 28 days; annualized values are noisy."
+        )
 
     return {
         "row_count": len(rows),
@@ -189,7 +190,8 @@ def format_summary(summary: dict) -> str:
         f"- Annualized volume ml/kg/year: {summary['annual_volume_ml_per_kg']}",
         "- Annualized pure red-cell volume ml/kg/year: "
         f"{summary['annual_pure_red_cell_ml_per_kg']}",
-        f"- Estimated daily iron loading mg/kg/day: {summary['daily_iron_loading_mg_per_kg']}",
+        "- Estimated daily iron loading mg/kg/day: "
+        f"{summary['daily_iron_loading_mg_per_kg']}",
         f"- Mean pre-transfusion Hb g/dL: {summary['mean_pre_hb_g_dl']}",
         f"- Mean post-transfusion Hb g/dL: {summary['mean_post_hb_g_dl']}",
     ]

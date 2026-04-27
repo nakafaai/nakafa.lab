@@ -7,7 +7,6 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-
 BASE_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 

@@ -2,7 +2,6 @@
 
 import pathlib
 
-
 BEE_CONSTITUENT_PATHS = [
     "data/chemistry/pubchem/bee-constituents/2026-04-27-melittin-properties.json",
     "data/chemistry/pubchem/bee-constituents/2026-04-27-apamin-properties.json",

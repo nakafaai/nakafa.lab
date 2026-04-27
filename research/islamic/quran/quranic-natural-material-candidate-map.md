@@ -69,6 +69,13 @@ acid and punicalagin are chemistry-resolved, but first-pass PubMed and
 ClinicalTrials.gov snapshots did not find thalassemia or HbF evidence strong
 enough to rank them as active leads.
 
+Olive is the current supportive-biology example from Quran 6:99. Hydroxytyrosol,
+oleuropein, tyrosol, and oleocanthal are chemistry-resolved, and
+hydroxytyrosol/olive-oil polyphenol searches retrieved human erythrocyte
+oxidative-stress and hemolysis-protection literature. The first-pass search did
+not retrieve direct thalassemia, HbF, or gamma-globin evidence, so this lane
+stays below active HbF leads.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -92,5 +99,6 @@ when safety is plausible.
 - [Natural-product HbF expansion map](../../thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Resveratrol HbF beta-thalassemia seed](../../thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Pomegranate and ellagic-acid evidence gap](../../thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md)
+- [Olive polyphenol red-cell support map](../../thalassemia/findings/2026-04-27-olive-polyphenol-red-cell-support-map.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

@@ -1,0 +1,301 @@
+{
+  "count": 10,
+  "query": "oleocanthal AND (erythrocyte OR red blood cell OR hemolysis OR oxidative stress)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39153251"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11378258"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11378258;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2024.103311"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(24)00289-1"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "39153251",
+      "pubdate": "2024 Oct",
+      "title": "Cardioprotective potential of oleuropein, hydroxytyrosol, oleocanthal and their combination: Unravelling complementary effects on acute myocardial infarction and metabolic syndrome."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38139152"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10744258"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10744258;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms242417323"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms242417323"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "38139152",
+      "pubdate": "2023 Dec 10",
+      "title": "An Appraisal of the Oleocanthal-Rich Extra Virgin Olive Oil (EVOO) and Its Potential Anticancer and Neuroprotective Properties."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33922438"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8145376"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8145376;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox10050650"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox10050650"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "33922438",
+      "pubdate": "2021 Apr 23",
+      "title": "Dietary Oleocanthal Supplementation Prevents Inflammation and Oxidative Stress in Collagen-Induced Arthritis in Mice."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40516845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2025.177847"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(25)00601-6"
+        }
+      ],
+      "journal": "Eur J Pharmacol",
+      "pmid": "40516845",
+      "pubdate": "2025 Sep 5",
+      "title": "Oleocanthalic acid improves MASH features via a NOX1-dependent mechanism."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30875206"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.jafc.8b06723"
+        }
+      ],
+      "journal": "J Agric Food Chem",
+      "pmid": "30875206",
+      "pubdate": "2019 Apr 10",
+      "title": "Natural Molecules for Healthy Lifestyles: Oleocanthal from Extra Virgin Olive Oil."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39467472"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biopha.2024.117582"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0753-3322(24)01468-9"
+        }
+      ],
+      "journal": "Biomed Pharmacother",
+      "pmid": "39467472",
+      "pubdate": "2024 Nov",
+      "title": "Oleocanthal mitigates CoCl(2)-induced oxidative damage and apoptosis via regulating MAPK pathway in human retinal pigment epithelial cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29068387"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5713200"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5713200;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms18112230"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms18112230"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "29068387",
+      "pubdate": "2017 Oct 25",
+      "title": "Bioactivity of Olive Oil Phenols in Neuroprotection."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30096819"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6121693"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6121693;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms19082329"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms19082329"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "30096819",
+      "pubdate": "2018 Aug 8",
+      "title": "A Proteomic Approach to Uncover Neuroprotective Mechanisms of Oleocanthal against Oxidative Stress."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39691690"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11650448"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11650448;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.29219/fnr.v68.10882"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10882"
+        }
+      ],
+      "journal": "Food Nutr Res",
+      "pmid": "39691690",
+      "pubdate": "2024",
+      "title": "Effect of oleocanthal-rich olive oil on postprandial oxidative stress markers of patients with type 2 diabetes mellitus."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37446813"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10343523"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10343523;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules28135150"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules28135150"
+        }
+      ],
+      "journal": "Molecules",
+      "pmid": "37446813",
+      "pubdate": "2023 Jun 30",
+      "title": "Insights into the Antioxidant/Antiradical Effects and In Vitro Intestinal Permeation of Oleocanthal and Its Metabolites Tyrosol and Oleocanthalic Acid."
+    }
+  ]
+}

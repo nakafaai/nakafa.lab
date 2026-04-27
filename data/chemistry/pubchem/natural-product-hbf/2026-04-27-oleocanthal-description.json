@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 11652416,
+        "Title": "Oleocanthal"
+      },
+      {
+        "CID": 11652416,
+        "Description": "Oleocanthal is a carboxylic ester that is the 2-(p-hydroxyphenyl)ethyl ester of (3S)-4-formyl-3-(2-oxoethyl)hex-4-enoic acid. Oleocanthal is found in olive oil but it is not clear whether the natural product is a mixture of E/Z isomers or a single isomer as the two isomers readily interconvert in solution; most pharmacological studies will have been performed using a mixture. It has a role as an antioxidant, a non-steroidal anti-inflammatory drug, an antineoplastic agent, a cyclooxygenase 2 inhibitor, a cyclooxygenase 1 inhibitor, a nutraceutical, a neuroprotective agent, a Hsp90 inhibitor, an anti-inflammatory agent, an apoptosis inducer and a plant metabolite. It is a carboxylic ester, a member of phenols, a dialdehyde and an enal. It is functionally related to a 2-(4-hydroxyphenyl)ethanol.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:85673"
+      }
+    ]
+  }
+}

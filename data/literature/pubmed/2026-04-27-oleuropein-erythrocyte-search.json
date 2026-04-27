@@ -1,0 +1,231 @@
+{
+  "count": 10,
+  "query": "oleuropein AND (erythrocyte OR erythrocytes)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31922452"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/13813455.2019.1708119"
+        }
+      ],
+      "journal": "Arch Physiol Biochem",
+      "pmid": "31922452",
+      "pubdate": "2022 Jun",
+      "title": "Neuroprotective effects of oleuropein on retina photoreceptors cells primary culture and olive leaf extract and oleuropein inhibitory effects on aldose reductase in a diabetic model: Meriones shawi."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28347166"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10286020.2017.1307834"
+        }
+      ],
+      "journal": "J Asian Nat Prod Res",
+      "pmid": "28347166",
+      "pubdate": "2017 Oct",
+      "title": "Oleuropein improves glucose tolerance and lipid profile in rats with simultaneous renovascular hypertension and type 2 diabetes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25097277"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4118532"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4118532;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/0253-7613.135951"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "IJPharm-46-398"
+        }
+      ],
+      "journal": "Indian J Pharmacol",
+      "pmid": "25097277",
+      "pubdate": "2014 Jul-Aug",
+      "title": "Oleuropein offers cardioprotection in rats with simultaneous type 2 diabetes and renal hypertension."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16236331"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.lfs.2005.07.029"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0024-3205(05)00964-1"
+        }
+      ],
+      "journal": "Life Sci",
+      "pmid": "16236331",
+      "pubdate": "2006 Feb 16",
+      "title": "Hypoglycemic and antioxidant effect of oleuropein in alloxan-diabetic rabbits."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40893224"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12391958"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12391958;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acsomega.5c04798"
+        }
+      ],
+      "journal": "ACS Omega",
+      "pmid": "40893224",
+      "pubdate": "2025 Aug 26",
+      "title": "Targeting Diabetic Complications through Oleuropein-Mediated Enzyme Modulation: A Chemical Biology Study in the Human-Relevant Model Psammomys obesus."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19954214"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/jf9031052"
+        }
+      ],
+      "journal": "J Agric Food Chem",
+      "pmid": "19954214",
+      "pubdate": "2010 Jan 13",
+      "title": "Powerful protective role of 3,4-dihydroxyphenylethanol-elenolic acid dialdehyde against erythrocyte oxidative-induced hemolysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24954237"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10286020.2014.924510"
+        }
+      ],
+      "journal": "J Asian Nat Prod Res",
+      "pmid": "24954237",
+      "pubdate": "2014",
+      "title": "Effects of oleuropein in rats with simultaneous type 2 diabetes and renal hypertension: a study of antihypertensive mechanisms."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19340892"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mnfr.200800276"
+        }
+      ],
+      "journal": "Mol Nutr Food Res",
+      "pmid": "19340892",
+      "pubdate": "2009 May",
+      "title": "Effects of olive oil polyphenols on erythrocyte oxidative damage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14577686"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/1057563031000075476"
+        }
+      ],
+      "journal": "Nat Prod Res",
+      "pmid": "14577686",
+      "pubdate": "2003 Dec",
+      "title": "Anti-oxidative activity of glycosides from Ligustrum sinense."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30255162"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6148714"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6148714;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.heliyon.2018.e00805"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2405-8440(18)31888-7"
+        }
+      ],
+      "journal": "Heliyon",
+      "pmid": "30255162",
+      "pubdate": "2018 Sep",
+      "title": "In\u00a0vitro antioxidant activity of\u00a0olive leaf extract (Olea europaea L.) and its protective effect on oxidative damage in human erythrocytes."
+    }
+  ]
+}

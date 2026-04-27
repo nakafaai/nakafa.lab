@@ -1,0 +1,261 @@
+{
+  "count": 10,
+  "query": "hydroxytyrosol AND (erythrocyte OR erythrocytes)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40700934"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12304697"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12304697;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2025.103783"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(25)00296-4"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "40700934",
+      "pubdate": "2025 Sep",
+      "title": "Protective effect of hydroxytyrosol against hyperglycemia-induced phosphatidylserine exposure in human erythrocytes: focus on dysregulation of calcium homeostasis and redox balance."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31778305"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.33594/000000185"
+        }
+      ],
+      "journal": "Cell Physiol Biochem",
+      "pmid": "31778305",
+      "pubdate": "2019",
+      "title": "Hydroxytyrosol Decreases Phosphatidylserine Exposure and Inhibits Suicidal Death Induced by Lysophosphatidic Acid in Human Erythrocytes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26774912"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2016.01.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(16)30003-5"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "26774912",
+      "pubdate": "2016 Mar",
+      "title": "Hydroxytyrosol inhibits phosphatidylserine exposure and suicidal death induced by mercury in human erythrocytes: Possible involvement of the glutathione pathway."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29849921"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5924984"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5924984;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2018/9042192"
+        }
+      ],
+      "journal": "Oxid Med Cell Longev",
+      "pmid": "29849921",
+      "pubdate": "2018",
+      "title": "Comparative Analysis of the Effects of Olive Oil Hydroxytyrosol and Its 5-S-Lipoyl Conjugate in Protecting Human Erythrocytes from Mercury Toxicity."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16530907"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2006.01.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(06)00015-9"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "16530907",
+      "pubdate": "2006 Jul",
+      "title": "Safety assessment of aqueous olive pulp extract as an antioxidant or antimicrobial agent in foods."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41059423"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12497910"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12497910;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.14744/nci.2025.97415"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "NCI-12-453"
+        }
+      ],
+      "journal": "North Clin Istanb",
+      "pmid": "41059423",
+      "pubdate": "2025",
+      "title": "Hydroxytyrosol has a protective effect on the kidneys through dardarin and spexin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32939526"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1039/d0fo01690j"
+        }
+      ],
+      "journal": "Food Funct",
+      "pmid": "32939526",
+      "pubdate": "2020 Oct 21",
+      "title": "Protective effect of olive oil polyphenol phase II sulfate conjugates on erythrocyte oxidative-induced hemolysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39765902"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11673208"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11673208;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox13121576"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox13121576"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "39765902",
+      "pubdate": "2024 Dec 20",
+      "title": "Increased Adhesiveness of Blood Cells Induced by Mercury Chloride: Protective Effect of Hydroxytyrosol."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39697970"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11655049"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11655049;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7759/cureus.73889"
+        }
+      ],
+      "journal": "Cureus",
+      "pmid": "39697970",
+      "pubdate": "2024 Nov",
+      "title": "Hydroxytyrosol's Protective Effect Through Podocalyxin and Pentraxin-3 in Kidney Damage Resulting From Corn Syrup Administration."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23777263"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/jf4016202"
+        }
+      ],
+      "journal": "J Agric Food Chem",
+      "pmid": "23777263",
+      "pubdate": "2013 Jul 10",
+      "title": "Protective activity of hydroxytyrosol metabolites on erythrocyte oxidative-induced hemolysis."
+    }
+  ]
+}

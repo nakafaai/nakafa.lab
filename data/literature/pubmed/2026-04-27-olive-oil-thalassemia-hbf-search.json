@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "\"olive oil\" AND (thalassemia OR \"fetal hemoglobin\" OR HbF OR gamma-globin)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37736537"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10509466"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10509466;"
+        }
+      ],
+      "journal": "Am J Blood Res",
+      "pmid": "37736537",
+      "pubdate": "2023",
+      "title": "Therapeutic benefits of prophetic medicine remedies in treating hematological diseases (A review article)."
+    }
+  ]
+}

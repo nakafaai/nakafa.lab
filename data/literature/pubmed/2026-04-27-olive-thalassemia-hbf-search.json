@@ -1,0 +1,142 @@
+{
+  "count": 7,
+  "query": "olive AND (thalassemia OR \"fetal hemoglobin\" OR HbF OR gamma-globin)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1410732"
+        }
+      ],
+      "journal": "Rev Esp Anestesiol Reanim",
+      "pmid": "1410732",
+      "pubdate": "1992 May-Jun",
+      "title": "[Thalassemic syndromes and anesthesia]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37736537"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10509466"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10509466;"
+        }
+      ],
+      "journal": "Am J Blood Res",
+      "pmid": "37736537",
+      "pubdate": "2023",
+      "title": "Therapeutic benefits of prophetic medicine remedies in treating hematological diseases (A review article)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30092854"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6200035"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6200035;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.30802/AALAS-CM-17-000124"
+        }
+      ],
+      "journal": "Comp Med",
+      "pmid": "30092854",
+      "pubdate": "2018 Oct 1",
+      "title": "Development and Characterization of a Model for Inducing Fetal Hemoglobin Production in Cynomolgus Macaques (Macaca fasicularis)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16311664"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "20050305'"
+        }
+      ],
+      "journal": "Saudi Med J",
+      "pmid": "16311664",
+      "pubdate": "2005 Nov",
+      "title": "Prenatal diagnosis of beta-thalassemia in the West Bank and Gaza."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23402775"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.anpedi.2012.12.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1695-4033(12)00543-7"
+        }
+      ],
+      "journal": "An Pediatr (Barc)",
+      "pmid": "23402775",
+      "pubdate": "2013 Aug",
+      "title": "[Results of hematopoietic stem cell transplantation in hemoglobinopathies: thalassemia major and sickle cell disease]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1284476"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/humu.1380010110"
+        }
+      ],
+      "journal": "Hum Mutat",
+      "pmid": "1284476",
+      "pubdate": "1992",
+      "title": "Complete mutation detection using unlabeled chemical cleavage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8041200"
+        }
+      ],
+      "journal": "Med Clin (Barc)",
+      "pmid": "8041200",
+      "pubdate": "1994 May 21",
+      "title": "[Evaluation of the efficacy of chelation therapy with deferoxamine in patients with thalassemia major]."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 82755,
+        "MolecularFormula": "C8H10O3",
+        "MolecularWeight": "154.16",
+        "SMILES": "C1=CC(=C(C=C1CCO)O)O",
+        "ConnectivitySMILES": "C1=CC(=C(C=C1CCO)O)O",
+        "InChIKey": "JUUBCHWRXWPFFH-UHFFFAOYSA-N",
+        "IUPACName": "4-(2-hydroxyethyl)benzene-1,2-diol"
+      }
+    ]
+  }
+}

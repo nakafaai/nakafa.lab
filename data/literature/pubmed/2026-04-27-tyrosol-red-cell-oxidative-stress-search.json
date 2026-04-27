@@ -1,0 +1,286 @@
+{
+  "count": 10,
+  "query": "tyrosol AND (erythrocyte OR \"red blood cell\" OR hemolysis OR \"oxidative stress\")",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40887477"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12399750"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12399750;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-16505-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-16505-4"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "40887477",
+      "pubdate": "2025 Aug 31",
+      "title": "Bioactive compounds in the modulation of oxidative stress in monocytes and macrophages."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29068387"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5713200"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5713200;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms18112230"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms18112230"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "29068387",
+      "pubdate": "2017 Oct 25",
+      "title": "Bioactivity of Olive Oil Phenols in Neuroprotection."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28335507"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5372969"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5372969;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu9030306"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu9030306"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "28335507",
+      "pubdate": "2017 Mar 20",
+      "title": "Hydroxytyrosol in the Prevention of the Metabolic Syndrome and Related Disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34636053"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/jfbc.13965"
+        }
+      ],
+      "journal": "J Food Biochem",
+      "pmid": "34636053",
+      "pubdate": "2021 Nov",
+      "title": "Tyrosol retards induction of fibrosis in rats."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30469520"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6315336"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6315336;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox7120170"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox7120170"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "30469520",
+      "pubdate": "2018 Nov 22",
+      "title": "Biological Relevance of Extra Virgin Olive Oil Polyphenols Metabolites."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27059687"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ptr.5569"
+        }
+      ],
+      "journal": "Phytother Res",
+      "pmid": "27059687",
+      "pubdate": "2016 Apr",
+      "title": "Rhodiola rosea L. and Alzheimer's Disease: From Farm to Pharmacy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38929170"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11201095"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11201095;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox13060731"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox13060731"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "38929170",
+      "pubdate": "2024 Jun 16",
+      "title": "Oxidative Stress as a Target for Non-Pharmacological Intervention in MAFLD: Could There Be a Role for EVOO?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40383458"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.neulet.2025.138266"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0304-3940(25)00154-5"
+        }
+      ],
+      "journal": "Neurosci Lett",
+      "pmid": "40383458",
+      "pubdate": "2025 Jul 13",
+      "title": "Tyrosol ameliorates depressive-like behavior and hippocampal damage in perimenopausal depression rats by inhibiting oxidative stress and thyroid dysfunction."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32520682"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1389200221666200610172105"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CDM-EPUB-107244"
+        }
+      ],
+      "journal": "Curr Drug Metab",
+      "pmid": "32520682",
+      "pubdate": "2020",
+      "title": "Salidroside - Can it be a Multifunctional Drug?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41374074"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12694252"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12694252;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu17233784"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu17233784"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "41374074",
+      "pubdate": "2025 Dec 2",
+      "title": "Polyphenol-Microbiota Interactions in Atherosclerosis: The Role of Hydroxytyrosol and Tyrosol in Modulating Inflammation and Oxidative Stress."
+    }
+  ]
+}

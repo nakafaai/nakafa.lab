@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5281544,
+        "MolecularFormula": "C25H32O13",
+        "MolecularWeight": "540.5",
+        "SMILES": "C/C=C/1\\[C@@H](C(=CO[C@H]1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)C(=O)OC)CC(=O)OCCC3=CC(=C(C=C3)O)O",
+        "ConnectivitySMILES": "CC=C1C(C(=COC1OC2C(C(C(C(O2)CO)O)O)O)C(=O)OC)CC(=O)OCCC3=CC(=C(C=C3)O)O",
+        "InChIKey": "RFWGABANNQMHMZ-ZCHJGGQASA-N",
+        "IUPACName": "methyl (4S,5E,6S)-4-[2-[2-(3,4-dihydroxyphenyl)ethoxy]-2-oxoethyl]-5-ethylidene-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4H-pyran-3-carboxylate"
+      }
+    ]
+  }
+}

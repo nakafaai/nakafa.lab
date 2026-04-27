@@ -1,0 +1,17 @@
+{
+  "count": 0,
+  "error": "HTTP 429",
+  "pubmed_ids": [
+    "39247828",
+    "36834644",
+    "28407695",
+    "40885455",
+    "39153251",
+    "40425998",
+    "36613822",
+    "28335507",
+    "34042426",
+    "40887477"
+  ],
+  "query": "(hydroxytyrosol OR oleuropein OR tyrosol) AND (erythrocyte OR red blood cell OR hemolysis OR oxidative stress)"
+}

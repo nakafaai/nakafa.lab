@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10393,
+        "MolecularFormula": "C8H10O2",
+        "MolecularWeight": "138.16",
+        "SMILES": "C1=CC(=CC=C1CCO)O",
+        "ConnectivitySMILES": "C1=CC(=CC=C1CCO)O",
+        "InChIKey": "YCCILVSKPBXVIP-UHFFFAOYSA-N",
+        "IUPACName": "4-(2-hydroxyethyl)phenol"
+      }
+    ]
+  }
+}

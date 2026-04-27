@@ -1,0 +1,311 @@
+{
+  "count": 10,
+  "query": "oleuropein AND (erythrocyte OR \"red blood cell\" OR hemolysis OR \"oxidative stress\")",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40077646"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11902110"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11902110;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu17050776"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu17050776"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "40077646",
+      "pubdate": "2025 Feb 23",
+      "title": "Nutrition and Lifestyle Interventions in Managing Dyslipidemia and Cardiometabolic Risk."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33673390"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7918790"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7918790;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules26040985"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules26040985"
+        }
+      ],
+      "journal": "Molecules",
+      "pmid": "33673390",
+      "pubdate": "2021 Feb 12",
+      "title": "Antioxidant and Anti-Inflammatory Potential of Polyphenols Contained in Mediterranean Diet in Obesity: Molecular Mechanisms."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28407695"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5392257"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5392257;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18632/oncotarget.15538"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "15538"
+        }
+      ],
+      "journal": "Oncotarget",
+      "pmid": "28407695",
+      "pubdate": "2017 Mar 14",
+      "title": "Oleuropein, unexpected benefits!"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40885455"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.freeradbiomed.2025.08.036"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0891-5849(25)00923-2"
+        }
+      ],
+      "journal": "Free Radic Biol Med",
+      "pmid": "40885455",
+      "pubdate": "2025 Dec 1",
+      "title": "Targeting KEAP1/NRF2 interaction with oleuropein ameliorates atherosclerosis by inhibiting macrophage ferroptosis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36829932"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9952369"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9952369;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox12020373"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox12020373"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "36829932",
+      "pubdate": "2023 Feb 3",
+      "title": "Oxidative Stress and Natural Antioxidants in Osteoporosis: Novel Preventive and Therapeutic Approaches."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36671060"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9855078"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9855078;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox12010197"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox12010197"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "36671060",
+      "pubdate": "2023 Jan 14",
+      "title": "Oleuropein Attenuates Oxidative Stress in Human Trophoblast Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38999871"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11243068"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11243068;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu16132123"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu16132123"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "38999871",
+      "pubdate": "2024 Jul 3",
+      "title": "IL-17A Drives Oxidative Stress and Cell Growth in A549 Lung Epithelial Cells: Potential Protective Action of Oleuropein."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39153251"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11378258"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11378258;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2024.103311"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(24)00289-1"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "39153251",
+      "pubdate": "2024 Oct",
+      "title": "Cardioprotective potential of oleuropein, hydroxytyrosol, oleocanthal and their combination: Unravelling complementary effects on acute myocardial infarction and metabolic syndrome."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34042426"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acs.jafc.1c01404"
+        }
+      ],
+      "journal": "J Agric Food Chem",
+      "pmid": "34042426",
+      "pubdate": "2021 Jun 9",
+      "title": "Efficacy and Mechanisms of Oleuropein in Mitigating Diabetes and Diabetes Complications."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40887477"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12399750"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12399750;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-16505-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-16505-4"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "40887477",
+      "pubdate": "2025 Aug 31",
+      "title": "Bioactive compounds in the modulation of oxidative stress in monocytes and macrophages."
+    }
+  ]
+}

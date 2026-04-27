@@ -1,0 +1,236 @@
+{
+  "count": 10,
+  "query": "olive polyphenols AND erythrocyte",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37033930"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10073448"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10073448;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fimmu.2023.1024120"
+        }
+      ],
+      "journal": "Front Immunol",
+      "pmid": "37033930",
+      "pubdate": "2023",
+      "title": "Efficacy and safety of dietary polyphenols in rheumatoid arthritis: A systematic review and meta-analysis of 47 randomized controlled trials."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36766766"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9913727"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9913727;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cells12030424"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cells12030424"
+        }
+      ],
+      "journal": "Cells",
+      "pmid": "36766766",
+      "pubdate": "2023 Jan 27",
+      "title": "Mercury Chloride Affects Band 3 Protein-Mediated Anionic Transport in Red Blood Cells: Role of Oxidative Stress and Protective Effect of Olive Oil Polyphenols."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19340892"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mnfr.200800276"
+        }
+      ],
+      "journal": "Mol Nutr Food Res",
+      "pmid": "19340892",
+      "pubdate": "2009 May",
+      "title": "Effects of olive oil polyphenols on erythrocyte oxidative damage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31939715"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1089/jmf.2019.0136"
+        }
+      ],
+      "journal": "J Med Food",
+      "pmid": "31939715",
+      "pubdate": "2020 Jul",
+      "title": "Antiproliferative Activity of Olive Extract Rich in Polyphenols and Modified Pectin on Bladder Cancer Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27841405"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1039/c6fo00758a"
+        }
+      ],
+      "journal": "Food Funct",
+      "pmid": "27841405",
+      "pubdate": "2016 Dec 7",
+      "title": "Effects of dietary almond- and olive oil-based docosahexaenoic acid- and vitamin E-enriched beverage supplementation on athletic performance and oxidative stress markers."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27735833"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5084007"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5084007;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu8100619"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu8100619"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "27735833",
+      "pubdate": "2016 Oct 9",
+      "title": "Effects of Almond- and Olive Oil-Based Docosahexaenoic- and Vitamin E-Enriched Beverage Dietary Supplementation on Inflammation Associated to Exercise and Age."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22402836"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12010-012-9633-8"
+        }
+      ],
+      "journal": "Appl Biochem Biotechnol",
+      "pmid": "22402836",
+      "pubdate": "2012 Jul",
+      "title": "Antioxidant activities of polyphenols extracted from olive (Olea europaea) of chamlal variety."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16530907"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2006.01.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(06)00015-9"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "16530907",
+      "pubdate": "2006 Jul",
+      "title": "Safety assessment of aqueous olive pulp extract as an antioxidant or antimicrobial agent in foods."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30501915"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.clnu.2018.11.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0261-5614(18)32542-1"
+        }
+      ],
+      "journal": "Clin Nutr",
+      "pmid": "30501915",
+      "pubdate": "2019 Dec",
+      "title": "Olive leaf tea may have hematological health benefit over green tea."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32939526"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1039/d0fo01690j"
+        }
+      ],
+      "journal": "Food Funct",
+      "pmid": "32939526",
+      "pubdate": "2020 Oct 21",
+      "title": "Protective effect of olive oil polyphenol phase II sulfate conjugates on erythrocyte oxidative-induced hemolysis."
+    }
+  ]
+}

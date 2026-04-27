@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 10393,
+        "Title": "Tyrosol"
+      },
+      {
+        "CID": 10393,
+        "Description": "2-(4-hydroxyphenyl)ethanol is a phenol substituted at position 4 by a 2-hydroxyethyl group. It has a role as a geroprotector, an antioxidant, a cardiovascular drug, an anti-arrhythmia drug, a protective agent, a plant metabolite and a fungal metabolite. It is functionally related to a 2-phenylethanol.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:1879"
+      }
+    ]
+  }
+}

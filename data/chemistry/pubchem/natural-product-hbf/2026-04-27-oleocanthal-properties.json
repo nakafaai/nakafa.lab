@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11652416,
+        "MolecularFormula": "C17H20O5",
+        "MolecularWeight": "304.34",
+        "SMILES": "C/C=C(/C=O)\\[C@@H](CC=O)CC(=O)OCCC1=CC=C(C=C1)O",
+        "ConnectivitySMILES": "CC=C(C=O)C(CC=O)CC(=O)OCCC1=CC=C(C=C1)O",
+        "InChIKey": "VPOVFCBNUOUZGG-VAKDEWRISA-N",
+        "IUPACName": "2-(4-hydroxyphenyl)ethyl (E,3S)-4-formyl-3-(2-oxoethyl)hex-4-enoate"
+      }
+    ]
+  }
+}

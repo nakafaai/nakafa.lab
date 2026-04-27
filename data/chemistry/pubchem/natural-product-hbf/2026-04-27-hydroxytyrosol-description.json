@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 82755,
+        "Title": "Hydroxytyrosol"
+      },
+      {
+        "CID": 82755,
+        "Description": "Hydroxytyrosol is a member of the class of catechols that is benzene-1,2-diol substituted by a 2-hydroxyethyl group at position 4. Isolated from Olea europaea, it exhibits antioxidant and antineoplastic activities. It has a role as an antioxidant, a metabolite and an antineoplastic agent. It is a primary alcohol and a member of catechols. It is functionally related to a 2-(4-hydroxyphenyl)ethanol.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:68889"
+      }
+    ]
+  }
+}

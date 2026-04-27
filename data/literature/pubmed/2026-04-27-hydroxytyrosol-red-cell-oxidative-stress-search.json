@@ -1,0 +1,311 @@
+{
+  "count": 10,
+  "query": "hydroxytyrosol AND (erythrocyte OR \"red blood cell\" OR hemolysis OR \"oxidative stress\")",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33673390"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7918790"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7918790;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules26040985"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules26040985"
+        }
+      ],
+      "journal": "Molecules",
+      "pmid": "33673390",
+      "pubdate": "2021 Feb 12",
+      "title": "Antioxidant and Anti-Inflammatory Potential of Polyphenols Contained in Mediterranean Diet in Obesity: Molecular Mechanisms."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39247828"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11379072"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11379072;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7150/ijbs.97263"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijbsv20p4258"
+        }
+      ],
+      "journal": "Int J Biol Sci",
+      "pmid": "39247828",
+      "pubdate": "2024",
+      "title": "The PI3K/Akt-Nrf2 Signaling Pathway and Mitophagy Synergistically Mediate Hydroxytyrosol to Alleviate Intestinal Oxidative Damage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36479479"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9710411"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9710411;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.15167/2421-4248/jpmh2022.63.2S3.2761"
+        }
+      ],
+      "journal": "J Prev Med Hyg",
+      "pmid": "36479479",
+      "pubdate": "2022 Jun",
+      "title": "Dietary supplements in lymphedema."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28407695"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5392257"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5392257;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18632/oncotarget.15538"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "15538"
+        }
+      ],
+      "journal": "Oncotarget",
+      "pmid": "28407695",
+      "pubdate": "2017 Mar 14",
+      "title": "Oleuropein, unexpected benefits!"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39456822"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11507169"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11507169;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms252011040"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms252011040"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "39456822",
+      "pubdate": "2024 Oct 14",
+      "title": "Anti-Inflammatory and Neuroprotective Polyphenols Derived from the European Olive Tree, Olea europaea L., in Long COVID and Other Conditions Involving Cognitive Impairment."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35739984"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9220035"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9220035;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/antiox11061087"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "antiox11061087"
+        }
+      ],
+      "journal": "Antioxidants (Basel)",
+      "pmid": "35739984",
+      "pubdate": "2022 May 30",
+      "title": "Hydroxytyrosol Prevents Doxorubicin-Induced Oxidative Stress and Apoptosis in Cardiomyocytes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39153251"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11378258"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11378258;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2024.103311"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(24)00289-1"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "39153251",
+      "pubdate": "2024 Oct",
+      "title": "Cardioprotective potential of oleuropein, hydroxytyrosol, oleocanthal and their combination: Unravelling complementary effects on acute myocardial infarction and metabolic syndrome."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28335507"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5372969"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5372969;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu9030306"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu9030306"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "28335507",
+      "pubdate": "2017 Mar 20",
+      "title": "Hydroxytyrosol in the Prevention of the Metabolic Syndrome and Related Disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36572071"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jnutbio.2022.109256"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0955-2863(22)00324-2"
+        }
+      ],
+      "journal": "J Nutr Biochem",
+      "pmid": "36572071",
+      "pubdate": "2023 Mar",
+      "title": "Hydroxytyrosol attenuates diquat-induced oxidative stress by activating Nrf2 pathway and modulating colonic microbiota in mice."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33161248"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bioorg.2020.104427"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0045-2068(20)31725-9"
+        }
+      ],
+      "journal": "Bioorg Chem",
+      "pmid": "33161248",
+      "pubdate": "2020 Dec",
+      "title": "Synthesis and antioxidant activity of conjugates of hydroxytyrosol and coumarin."
+    }
+  ]
+}

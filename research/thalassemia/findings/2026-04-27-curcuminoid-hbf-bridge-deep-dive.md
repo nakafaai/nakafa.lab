@@ -18,7 +18,7 @@ remain separate from the HbF-analog discovery lane.
 
 | Lane | Evidence signal | Interpretation |
 | --- | --- | --- |
-| Curcuminoid analog HbF | PMID `23079892` reports a reduced curcuminoid analog as a fetal hemoglobin inducer. | Direct HbF discovery signal; needs potency, safety, and disease-cell replication. |
+| Curcuminoid analog HbF | PMID `23079892` reports `HHBDMC`, a reduced curcuminoid analog, as a fetal hemoglobin inducer in human primary erythroid precursor cells. | Direct HbF discovery signal, but chemistry identity remains unresolved. |
 | Trienone analog HbF | PMID `33879818` reports curcuminoid trienone analogs inducing fetal hemoglobin via gamma-globin promoter demethylation. | Stronger mechanistic bridge into the epigenetic HbF screen. |
 | Curcumin supportive biology | PubMed snapshots include trials and studies in beta-thalassemia major and beta-thalassemia/HbE around iron, oxidative stress, liver markers, and hypercoagulability. | Adjunct biology lane; not a cure claim. |
 | Registry status | First-pass ClinicalTrials.gov query for `curcumin thalassemia` returned no API results. | Recheck registry coverage before clinician-facing summaries. |
@@ -40,6 +40,8 @@ therapy, transplant, or clinician-managed care.
 
 The compound and assay details are tracked in
 [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md).
+The reduced analog identity conflict is tracked in
+[HHBDMC identity conflict](2026-04-27-hhbdmc-identity-conflict.md).
 
 ## Assay Requirements
 
@@ -61,6 +63,7 @@ Curcuminoid analogs should be advanced only if they pass:
 - [Curcumin ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-curcumin-thalassemia-trials.json)
 - [Curcumin PubChem snapshot](../../../data/chemistry/pubchem/2026-04-27-curcumin-properties.json)
 - [Curcumin ChEMBL snapshot](../../../data/chemistry/chembl/2026-04-27-curcumin-search.json)
+- [HHBDMC identity conflict](2026-04-27-hhbdmc-identity-conflict.md)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
 - [Epigenetic HbF target drilldown](2026-04-27-epigenetic-hbf-target-drilldown.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)

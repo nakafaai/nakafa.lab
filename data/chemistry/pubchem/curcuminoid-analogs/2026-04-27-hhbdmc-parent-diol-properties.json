@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 14427394,
+        "MolecularFormula": "C19H24O4",
+        "MolecularWeight": "316.4",
+        "SMILES": "C1=CC(=CC=C1CCC(CC(CCC2=CC=C(C=C2)O)O)O)O",
+        "ConnectivitySMILES": "C1=CC(=CC=C1CCC(CC(CCC2=CC=C(C=C2)O)O)O)O",
+        "InChIKey": "GZVIQGVWSNEONZ-UHFFFAOYSA-N",
+        "XLogP": 3.3,
+        "TPSA": 80.9,
+        "HBondDonorCount": 4,
+        "HBondAcceptorCount": 4,
+        "RotatableBondCount": 8
+      }
+    ]
+  }
+}

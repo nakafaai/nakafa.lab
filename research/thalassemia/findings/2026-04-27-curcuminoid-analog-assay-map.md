@@ -11,6 +11,7 @@ instead of generic turmeric or curcumin supplement claims.
 The key compounds are:
 
 - natural curcuminoids: `Cur`, `DMC`, and `BDMC`;
+- reduced analogs: especially `HHBDMC`;
 - trienone analogs: `T-Cur`, `T-DMC`, and especially `T-BDMC`.
 
 `T-BDMC` is the most important seed in the current paper-level evidence map.
@@ -27,6 +28,7 @@ the same citation neighborhood without promoting them above `T-BDMC`.
 | `Cur` | PubChem `CID 969516`, ChEMBL `CHEMBL140` | benchmark natural curcuminoid; supportive biology lane and comparator |
 | `DMC` | PubChem `CID 5469424`; ChEMBL search is not clean enough for exact assertion | natural curcuminoid comparator |
 | `BDMC` | PubChem `CID 5315472`; ChEMBL search overlaps with DMC-like results | strongest natural curcuminoid in the study's K562 screen |
+| `HHBDMC` | direct PubChem/ChEMBL exact-name searches failed; nearby reduced-curcuminoid records conflict | high-interest reduced analog seed, but identity-blocked |
 | `T-Cur` | no first-pass exact PubChem hit; ChEMBL search noisy | publication-defined trienone analog |
 | `T-DMC` | no first-pass exact PubChem hit; ChEMBL search noisy | publication-defined trienone analog |
 | `T-BDMC` | PubChem `CID 10447050`; ChEMBL `CHEMBL469419`; InChIKey `PALMCMYYFAHUGA-BPTNNVFMSA-N` | highest-priority trienone analog seed |
@@ -37,6 +39,11 @@ and `T-DMC`, the current clean identity trail remains the publication: chemical
 names, synthesis/chemical modification route, and reported purity greater than
 95% by TLC and NMR. The reduced analog `HHBDMC` remains unresolved in the
 current ChEMBL search snapshot.
+
+`HHBDMC` is a separate reduced-analog lane. Its PubMed abstract reports primary
+erythroid precursor HbF induction, but database searches do not yet prove the
+exact test compound. Keep it below `T-BDMC` until the paper structure or a
+matching InChIKey is recovered.
 
 ## Assay Map From The Trienone Study
 
@@ -84,5 +91,6 @@ Keep `T-BDMC` as a high-priority assay seed, but with strict gates:
 - [Curcuminoid analog PubChem snapshots](../../../data/chemistry/pubchem/curcuminoid-analogs/)
 - [Curcuminoid analog ChEMBL search snapshots](../../../data/chemistry/chembl/curcuminoid-analogs/)
 - [Curcuminoid HbF bridge deep dive](2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
+- [HHBDMC identity conflict](2026-04-27-hhbdmc-identity-conflict.md)
 - [T-BDMC identity resolution](2026-04-27-t-bdmc-identity-resolution.md)
 - [Natural-product HbF expansion map](2026-04-27-natural-product-hbf-expansion-map.md)

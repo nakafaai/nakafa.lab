@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 11068834,
+        "MolecularFormula": "C21H28O6",
+        "MolecularWeight": "376.4",
+        "SMILES": "COC1=C(C=CC(=C1)CCC(CC(CCC2=CC(=C(C=C2)O)OC)O)O)O",
+        "ConnectivitySMILES": "COC1=C(C=CC(=C1)CCC(CC(CCC2=CC(=C(C=C2)O)OC)O)O)O",
+        "InChIKey": "OELMAFBLFOKZJD-UHFFFAOYSA-N",
+        "XLogP": 3.2,
+        "TPSA": 99.4,
+        "HBondDonorCount": 4,
+        "HBondAcceptorCount": 6,
+        "RotatableBondCount": 10
+      }
+    ]
+  }
+}

@@ -94,6 +94,7 @@ it still needs a supplier or synthesis batch before testing.
 | Seed | Current status | First assay decision |
 | --- | --- | --- |
 | `T-BDMC` | chemistry-resolved as PubChem `CID 10447050` / ChEMBL `CHEMBL469419`; strongest current biology bridge; K562 plus beta-thalassemia/HbE primary-cell evidence | obtain supplier/synthesis batch, confirm purity, and run hemolysis before disease-cell escalation |
+| `HHBDMC` | PubMed PMID `23079892` reports human primary erythroid precursor gamma-globin mRNA and HbF induction, but exact chemistry identity is unresolved | hold procurement until paper structure, InChIKey, supplier certificate, or synthesis record is recovered |
 | `isocoronarin D` | chemistry-resolved as `CHEMBL1099267` / PubChem `CID 46871816`; K562 reporter `FC 1.6` at `20 uM` | hemolysis and K562 repeat before disease-cell escalation |
 | `3,4'-Di-O-methylquercetin` | chemistry-resolved as PubChem `CID 5380905` / `CHEMBL309263`; Springer abstract reports K562 reporter `2.6-fold` at `8 uM` | treat as quercetin analog, not quercetin supplement; repeat reporter and add endogenous HbF |
 
@@ -137,6 +138,7 @@ Every completed run should produce:
 - [Chemistry identity benchmark map](../findings/2026-04-27-chemistry-identity-benchmark-map.md)
 - [Curcuminoid HbF bridge deep dive](../findings/2026-04-27-curcuminoid-hbf-bridge-deep-dive.md)
 - [Curcuminoid analog assay map](../findings/2026-04-27-curcuminoid-analog-assay-map.md)
+- [HHBDMC identity conflict](../findings/2026-04-27-hhbdmc-identity-conflict.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)

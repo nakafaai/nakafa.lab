@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5318039,
+        "MolecularFormula": "C21H26O6",
+        "MolecularWeight": "374.4",
+        "SMILES": "COC1=C(C=CC(=C1)CCC(CC(=O)CCC2=CC(=C(C=C2)O)OC)O)O",
+        "ConnectivitySMILES": "COC1=C(C=CC(=C1)CCC(CC(=O)CCC2=CC(=C(C=C2)O)OC)O)O",
+        "InChIKey": "RSAHICAPUYTWHW-UHFFFAOYSA-N",
+        "XLogP": 2.7,
+        "TPSA": 96.2,
+        "HBondDonorCount": 3,
+        "HBondAcceptorCount": 6,
+        "RotatableBondCount": 10
+      }
+    ]
+  }
+}

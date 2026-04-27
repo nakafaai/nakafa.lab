@@ -46,9 +46,10 @@ erythroid maturation, iron burden, inflammation, and liver/cardiac safety.
 ## Fit With Current Plant-Derived HbF Leads
 
 The current plant-derived HbF seeds, `T-BDMC`, `resveratrol`, `isocoronarin D`,
-and `3,4'-Di-O-methylquercetin`, did not enter the project because their exact
-plants are named in the Quran. They entered because scientific sources connect
-defined molecules to gamma-globin or HbF-adjacent endpoints.
+`3,4'-Di-O-methylquercetin`, and hazard-first furanocoumarins such as
+angelicin and bergapten, did not enter the project because their exact plants
+are named in the Quran. They entered because scientific sources connect defined
+molecules to gamma-globin or HbF-adjacent endpoints.
 
 Resveratrol is useful as a guardrail example. Grapes are named in Quranic
 natural-world verses, and resveratrol is a grape-associated polyphenol, but the

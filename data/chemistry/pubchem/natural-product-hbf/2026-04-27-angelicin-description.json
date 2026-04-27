@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 10658,
+        "Title": "Isopsoralen"
+      },
+      {
+        "CID": 10658,
+        "Description": "Angelicin is a furanocoumarin.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28928"
+      }
+    ]
+  }
+}

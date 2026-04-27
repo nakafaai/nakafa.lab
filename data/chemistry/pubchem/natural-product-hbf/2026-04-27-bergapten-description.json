@@ -1,0 +1,22 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 2355,
+        "Title": "Bergapten"
+      },
+      {
+        "CID": 2355,
+        "Description": "5-Methoxypsoralen with ultraviolet A therapy can cause cancer according to an independent committee of scientific and health experts.",
+        "DescriptionSourceName": "California Office of Environmental Health Hazard Assessment (OEHHA)",
+        "DescriptionURL": "https://oehha.ca.gov/proposition-65/chemicals/5-methoxypsoralen-ultraviolet-therapy"
+      },
+      {
+        "CID": 2355,
+        "Description": "5-methoxypsoralen is a 5-methoxyfurocoumarin that is psoralen substituted by a methoxy group at position 5. It has a role as a hepatoprotective agent and a plant metabolite. It is a member of psoralens, an organic heterotricyclic compound and a 5-methoxyfurocoumarin. It is functionally related to a psoralen.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18293"
+      }
+    ]
+  }
+}

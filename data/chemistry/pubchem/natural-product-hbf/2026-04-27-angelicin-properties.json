@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10658,
+        "MolecularFormula": "C11H6O3",
+        "MolecularWeight": "186.16",
+        "SMILES": "C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3",
+        "ConnectivitySMILES": "C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3",
+        "InChIKey": "XDROKJSWHURZGO-UHFFFAOYSA-N",
+        "XLogP": 2,
+        "TPSA": 39.4,
+        "HBondDonorCount": 0,
+        "HBondAcceptorCount": 3,
+        "RotatableBondCount": 0
+      }
+    ]
+  }
+}

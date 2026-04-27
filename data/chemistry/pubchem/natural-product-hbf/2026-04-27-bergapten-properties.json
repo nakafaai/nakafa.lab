@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 2355,
+        "MolecularFormula": "C12H8O4",
+        "MolecularWeight": "216.19",
+        "SMILES": "COC1=C2C=CC(=O)OC2=CC3=C1C=CO3",
+        "ConnectivitySMILES": "COC1=C2C=CC(=O)OC2=CC3=C1C=CO3",
+        "InChIKey": "BGEBZHIAGXMEMV-UHFFFAOYSA-N",
+        "XLogP": 2.3,
+        "TPSA": 48.7,
+        "HBondDonorCount": 0,
+        "HBondAcceptorCount": 4,
+        "RotatableBondCount": 1
+      }
+    ]
+  }
+}

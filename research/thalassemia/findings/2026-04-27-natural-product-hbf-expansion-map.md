@@ -13,6 +13,8 @@ The curcuminoid trienone lane led to two adjacent natural-product HbF leads:
   the first-pass query.
 - resveratrol, with PubMed-indexed HbF evidence in erythroid precursors from
   beta-thalassemia patients.
+- furanocoumarins such as angelicin and bergapten, with PubMed-indexed
+  gamma-globin/HbF evidence but a phototoxicity and DNA-damage hazard boundary.
 
 These are not cure claims. They are seed records for the HbF discovery funnel.
 `T-BDMC` remains the stronger current natural-product-adjacent seed because it
@@ -72,6 +74,7 @@ Current priority order inside the natural-product HbF lane:
 | 3 | `HHBDMC` reduced analog | PubMed abstract reports primary erythroid precursor HbF induction | resolve exact compound identity before procurement |
 | 4 | `isocoronarin D` / `Curcuma comosa` labdane diterpenes | direct K562 `G gamma-globin` reporter signal | hemolysis, endogenous HbF, and disease-cell validation |
 | 5 | quercetin analogs | DOI-confirmed HbF-inducing title | full extraction of compounds, assays, effect size, and safety |
+| Hold | angelicin / bergapten furanocoumarins | K562 and erythroid precursor HbF/gamma-globin literature exists | hazard-first lane because of psoralen/furanocoumarin phototoxicity and DNA-damage concerns |
 
 Do not rank K562-only seeds by fold-change alone. `T-BDMC` remains higher
 priority because it has a disease-cell bridge; `isocoronarin D` and
@@ -103,6 +106,7 @@ Do not promote either new lead to therapy hypothesis without:
 - [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json)
 - [Quercetin analog HbF extraction](2026-04-27-quercetin-analog-hbf-extraction.md)
 - [Resveratrol HbF beta-thalassemia seed](2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
+- [Furanocoumarin HbF hazard map](2026-04-27-furanocoumarin-hbf-hazard-map.md)
 - [K562 to HUDEP2 validation guardrail](2026-04-27-k562-to-hudep2-validation-guardrail.md)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
 - [T-BDMC identity resolution](2026-04-27-t-bdmc-identity-resolution.md)

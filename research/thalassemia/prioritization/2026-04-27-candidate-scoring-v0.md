@@ -92,9 +92,15 @@ safety:
 - successful hemolysis and viability screens;
 - clinician or domain-expert review.
 
+HbF-related lanes also need responder context from
+[HbF responder signature V0](2026-04-27-hbf-responder-signature-v0.md), because
+the same candidate can look different across `TDT`, `NTDT`,
+HbE/beta-thalassemia, baseline HbF, and HbF modifier backgrounds.
+
 ## Linked Evidence
 
 - [Candidate ranking](2026-04-26-candidate-ranking.md)
+- [HbF responder signature V0](2026-04-27-hbf-responder-signature-v0.md)
 - [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
 - [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)

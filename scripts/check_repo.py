@@ -502,6 +502,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/hypotheses/thalidomide-class-evidence-map.md",
     "research/thalassemia/prioritization/2026-04-26-candidate-ranking.md",
     "research/thalassemia/prioritization/2026-04-27-candidate-scoring-v0.md",
+    "research/thalassemia/prioritization/2026-04-27-hbf-responder-signature-v0.md",
     "research/thalassemia/references/source-registry.md",
     "research/islamic/README.md",
     "research/islamic/findings/2026-04-26-healing-and-caution.md",

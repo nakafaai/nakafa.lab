@@ -258,3 +258,4 @@ Checked on 2026-04-26 unless noted.
 | Clinical benchmarks | [Beti-cel PubMed XML](../../../data/literature/pubmed/2026-04-27-beti-cel-abstract.xml) | Reproducible PubMed XML snapshot for the betibeglogene autotemcel benchmark abstract. |
 | Hydroxyurea | [Hydroxyurea response predictor map](../findings/2026-04-27-hydroxyurea-response-predictor-map.md) | Extracts first responder signals for NTDT, HbE/beta-thalassemia, XmnI-HBG2, and erythroid culture response. |
 | Hydroxyurea | [Hydroxyurea response predictor PubMed XML](../../../data/literature/pubmed/2026-04-27-hydroxyurea-response-predictors.xml) | Reproducible PubMed XML snapshot for hydroxyurea responder-biology abstracts. |
+| Prioritization | [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md) | Defines the minimum genotype, phenotype, transfusion, immune, and assay variables needed to interpret HbF-inducing candidates. |

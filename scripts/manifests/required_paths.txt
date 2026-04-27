@@ -661,6 +661,7 @@ research/thalassemia/findings/2026-04-27-trial-referral-no-lab-gate.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
 research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
 research/thalassemia/findings/2026-04-27-expansion-lane-decision-gate.md
+research/thalassemia/findings/2026-04-27-hbf-alpha-autophagy-integration-boundary.md
 research/thalassemia/findings/2026-04-27-pf-06409577-probe-material-gate.md
 research/thalassemia/findings/2026-04-27-prkab1-target-nomenclature-gate.md
 data/registries/clinicaltrials/2026-04-27-active-referral-transfusion-dependent-beta-thalassemia.json

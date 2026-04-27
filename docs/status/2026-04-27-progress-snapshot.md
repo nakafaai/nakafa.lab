@@ -114,6 +114,11 @@ The working cure hypothesis is: restore useful hemoglobin output by mimicking an
 `HPFH-like` fetal-hemoglobin rescue state while also reducing beta-thalassemia
 alpha-globin toxicity and preserving red-cell safety.
 
+This is not a brand-new component discovery. HbF/HPFH rescue, alpha-globin
+toxicity, and `ULK1`/autophagy cleanup each have literature support. The Nakafa
+Lab discovery task is proving whether a practical and affordable candidate can
+combine those signals safely in the same beta-thalassemia-relevant assay path.
+
 The most actionable research object today is the lab assay plan, especially the
 PF-06409577 / `PRKAB1` quote addendum and the dual HbF plus alpha-globin
 autophagy readout gate.
@@ -122,6 +127,7 @@ autophagy readout gate.
 
 - [Daily research journal](2026-04-27.md)
 - [Novelty boundary for the Nakafa question](../../research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md)
+- [HbF alpha-globin autophagy integration boundary](../../research/thalassemia/findings/2026-04-27-hbf-alpha-autophagy-integration-boundary.md)
 - [PF-06409577 PRKAB1 quote addendum](../../research/thalassemia/assays/2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md)
 - [PF-06409577 probe material gate](../../research/thalassemia/findings/2026-04-27-pf-06409577-probe-material-gate.md)
 - [PRKAB1 target nomenclature gate](../../research/thalassemia/findings/2026-04-27-prkab1-target-nomenclature-gate.md)

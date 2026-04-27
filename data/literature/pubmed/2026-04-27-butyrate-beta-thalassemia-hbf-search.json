@@ -1,0 +1,221 @@
+{
+  "count": 10,
+  "query": "butyrate beta thalassemia fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14633775"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/asheducation-2003.1.14"
+        }
+      ],
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "14633775",
+      "pubdate": "2003",
+      "title": "Hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24589264"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2013.11.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(13)00196-2"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "24589264",
+      "pubdate": "2014 Apr",
+      "title": "Targeted fetal hemoglobin induction for treatment of beta hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9371980"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00062752-199502020-00002"
+        }
+      ],
+      "journal": "Curr Opin Hematol",
+      "pmid": "9371980",
+      "pubdate": "1995 Mar",
+      "title": "Butyrate in the treatment of sickle cell disease and beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19346141"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS101779"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC2707824"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC2707824;manuscript-id: NIHMS101779;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2009.02.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(09)00056-4"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "19346141",
+      "pubdate": "2009 Jul-Aug",
+      "title": "Differences in response to fetal hemoglobin induction therapy in beta-thalassemia and sickle cell disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24505535"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3913144"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3913144;"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "24505535",
+      "pubdate": "2013",
+      "title": "Evaluation of Novel Fetal Hemoglobin Inducer Drugs in Treatment of \u03b2-Hemoglobinopathy Disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8714583"
+        }
+      ],
+      "journal": "Semin Hematol",
+      "pmid": "8714583",
+      "pubdate": "1996 Jan",
+      "title": "Reactivation of fetal hemoglobin in patients with beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24694782"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1532/LH96.12015"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "L5289638T8330416"
+        }
+      ],
+      "journal": "Lab Hematol",
+      "pmid": "24694782",
+      "pubdate": "2014 Mar 1",
+      "title": "Induction of fetal hemoglobin as a novel therapeutic strategy for \u03b2-hemoglobinopathy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16339672"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1196/annals.1345.031"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1054/1/250"
+        }
+      ],
+      "journal": "Ann N Y Acad Sci",
+      "pmid": "16339672",
+      "pubdate": "2005",
+      "title": "Single and combination drug therapy for fetal hemoglobin augmentation in hemoglobin E-beta 0-thalassemia: Considerations for treatment."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7680003"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF01989417"
+        }
+      ],
+      "journal": "Experientia",
+      "pmid": "7680003",
+      "pubdate": "1993 Feb 15",
+      "title": "Butyrate-induced reactivation of the fetal globin genes: a molecular treatment for the beta-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2473801"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)77376-3"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "2473801",
+      "pubdate": "1989 Jul",
+      "title": "Sodium butyrate enhances fetal globin gene expression in erythroid progenitors of patients with Hb SS and beta thalassemia."
+    }
+  ]
+}

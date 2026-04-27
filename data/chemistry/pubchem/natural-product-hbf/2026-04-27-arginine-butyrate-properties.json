@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 23622962,
+        "MolecularFormula": "C34H74N12O14",
+        "MolecularWeight": "875.0",
+        "ConnectivitySMILES": "CCCC(=O)O.CCCC(=O)O.CCCC(=O)O.CCCC(=O)O.C(CC(C(=O)O)N)CN=C(N)N.C(CC(C(=O)O)N)CN=C(N)N.C(CC(C(=O)O)N)CN=C(N)N",
+        "InChIKey": "ZVEMACCDKBQNGX-KALODSIISA-N",
+        "IUPACName": "tris((2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid);butanoic acid",
+        "TPSA": 532,
+        "HBondDonorCount": 16,
+        "HBondAcceptorCount": 20,
+        "Title": "Arginine Butyrate"
+      }
+    ]
+  }
+}

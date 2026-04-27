@@ -1,0 +1,181 @@
+{
+  "count": 10,
+  "query": "arginine butyrate thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7753139"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199506153322404"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "7753139",
+      "pubdate": "1995 Jun 15",
+      "title": "Extended therapy with intravenous arginine butyrate in patients with beta-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7677964"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199301143280210"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "7677964",
+      "pubdate": "1993 Jan 14",
+      "title": "Reversing ontogeny."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7919358"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)76530-4"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "7919358",
+      "pubdate": "1994 Oct 1",
+      "title": "Rapid healing of chronic leg ulcers during arginine butyrate therapy in patients with sickle cell disease and thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18543545"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3928/00904481-20080501-10"
+        }
+      ],
+      "journal": "Pediatr Ann",
+      "pmid": "18543545",
+      "pubdate": "2008 May",
+      "title": "Fetal globin stimulant therapies in the beta-hemoglobinopathies: principles and current potential."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21781749"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/s1382-6689(96)00078-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1382-6689(96)00078-6"
+        }
+      ],
+      "journal": "Environ Toxicol Pharmacol",
+      "pmid": "21781749",
+      "pubdate": "1996 Dec 20",
+      "title": "Pharmacokinetics of arginine butyrate in patients with hemoglobinopathy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20955402"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1365-2141.2010.08395.x"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "20955402",
+      "pubdate": "2010 Dec",
+      "title": "A randomized phase II trial of Arginine Butyrate with standard local therapy in refractory sickle cell leg ulcers."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7896360"
+        }
+      ],
+      "journal": "Indian Pediatr",
+      "pmid": "7896360",
+      "pubdate": "1994 Mar",
+      "title": "Present status of hemoglobinopathies in India."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7680003"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF01989417"
+        }
+      ],
+      "journal": "Experientia",
+      "pmid": "7680003",
+      "pubdate": "1993 Feb 15",
+      "title": "Butyrate-induced reactivation of the fetal globin genes: a molecular treatment for the beta-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7677966"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199301143280202"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "7677966",
+      "pubdate": "1993 Jan 14",
+      "title": "A short-term trial of butyrate to stimulate fetal-globin-gene expression in the beta-globin disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7508690"
+        }
+      ],
+      "journal": "Am J Pediatr Hematol Oncol",
+      "pmid": "7508690",
+      "pubdate": "1994 Feb",
+      "title": "Butyrate derivatives. New agents for stimulating fetal globin production in the beta-globin disorders."
+    }
+  ]
+}

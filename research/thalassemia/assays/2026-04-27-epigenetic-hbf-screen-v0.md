@@ -53,6 +53,8 @@ relevance, viability, hemolysis risk, and disease-cell replication.
 Use controls to prevent self-deception:
 
 - positive HbF comparator: hydroxyurea or another lab-accepted HbF inducer;
+- legacy HbF comparator: sodium butyrate or arginine butyrate only as a
+  literature and assay benchmark, not an unsupervised treatment route;
 - high-caution epigenetic comparator: decitabine or an approved reference only
   under qualified supervision;
 - repurposing comparator: sirolimus only when the assay question includes
@@ -150,6 +152,7 @@ Every completed run should produce:
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
 - [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)
 - [HUDEP2 small-molecule hit map](../findings/2026-04-27-hudep2-small-molecule-hit-map.md)
+- [Butyrate HbF-inducer legacy map](../findings/2026-04-27-butyrate-hbf-inducer-legacy-map.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)

@@ -1,0 +1,246 @@
+{
+  "count": 10,
+  "query": "short chain fatty acids fetal hemoglobin thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14633775"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/asheducation-2003.1.14"
+        }
+      ],
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "14633775",
+      "pubdate": "2003",
+      "title": "Hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20001626"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/03630260903351882"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "20001626",
+      "pubdate": "2009",
+      "title": "Fetal globin induction in beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23315167"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2012-10-408021"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)47286-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "23315167",
+      "pubdate": "2013 Mar 21",
+      "title": "Clinical experience with fetal hemoglobin induction therapy in patients with \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24589264"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2013.11.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(13)00196-2"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "24589264",
+      "pubdate": "2014 Apr",
+      "title": "Targeted fetal hemoglobin induction for treatment of beta hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7677964"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199301143280210"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "7677964",
+      "pubdate": "1993 Jan 14",
+      "title": "Reversing ontogeny."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12393583"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS535953"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4269367"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4269367;manuscript-id: NIHMS535953;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2002-02-0353"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)53675-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "12393583",
+      "pubdate": "2002 Dec 15",
+      "title": "Short-chain fatty acid derivatives induce fetal globin expression and erythropoiesis in vivo."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11342457"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS535947"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4263369"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4263369;manuscript-id: NIHMS535947;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.v97.10.3259"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)55651-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "11342457",
+      "pubdate": "2001 May 15",
+      "title": "Short-chain fatty acid derivatives stimulate cell proliferation and induce STAT-5 activation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9372064"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/00062752-199603020-00006"
+        }
+      ],
+      "journal": "Curr Opin Hematol",
+      "pmid": "9372064",
+      "pubdate": "1996 Mar",
+      "title": "Treatment of sickling disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9735388"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/hmg/7.10.1655"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ddb180"
+        }
+      ],
+      "journal": "Hum Mol Genet",
+      "pmid": "9735388",
+      "pubdate": "1998",
+      "title": "The therapeutic reactivation of fetal haemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16338486"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.exphem.2005.08.007"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0301-472X(05)00398-X"
+        }
+      ],
+      "journal": "Exp Hematol",
+      "pmid": "16338486",
+      "pubdate": "2005 Dec",
+      "title": "Hydroxamide derivatives of short-chain fatty acid have erythropoietic activity and induce gamma gene expression in vivo."
+    }
+  ]
+}

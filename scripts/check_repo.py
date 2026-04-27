@@ -168,6 +168,15 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/registries/clinicaltrials/2026-04-27-pomegranate-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-ellagic-acid-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-punicalagin-thalassemia-trials.json",
+    "data/literature/pubmed/2026-04-27-butyrate-beta-thalassemia-hbf-search.json",
+    "data/literature/pubmed/2026-04-27-sodium-butyrate-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-arginine-butyrate-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-short-chain-fatty-acid-hbf-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-butyrate-hbf-thalassemia-esummary.json",
+    "data/literature/pubmed/2026-04-27-butyrate-hbf-thalassemia-abstracts.xml",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-sodium-butyrate-properties.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-arginine-butyrate-properties.json",
+    "data/registries/clinicaltrials/2026-04-27-butyrate-thalassemia-trials.json",
 ]
 
 QUERCETIN_ANALOG_PATHS = [
@@ -327,6 +336,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-furanocoumarin-hbf-hazard-map.md",
     "research/thalassemia/findings/2026-04-27-trimethylangelicin-citropten-identity-map.md",
     "research/thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md",
+    "research/thalassemia/findings/2026-04-27-butyrate-hbf-inducer-legacy-map.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",

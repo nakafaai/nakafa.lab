@@ -251,3 +251,5 @@ Checked on 2026-04-26 unless noted.
 | Chemistry | [R574 / R547 label resolution](../findings/2026-04-27-r574-r547-label-resolution.md) | Resolves the likely `R574` label discrepancy against the cited `R547` CDK inhibitor source and chemistry databases. |
 | Chemistry | [HUDEP2 HbF hit PubChem snapshots](../../../data/chemistry/pubchem/hudep2-hbf-hits/) | PubChem identity snapshots for avadomide, autophinib, triciribine, and triciribine phosphate. |
 | Chemistry | [HUDEP2 HbF hit ChEMBL snapshots](../../../data/chemistry/chembl/hudep2-hbf-hits/) | ChEMBL search, molecule, and activity snapshots for HUDEP2 benchmark hits. |
+| Research method | [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md) | Adapts the public Rosie/Conyngham AI-assisted cancer-vaccine story into a guarded thalassemia discovery loop. |
+| Prioritization | [Candidate scoring V0](../prioritization/2026-04-27-candidate-scoring-v0.md) | First numeric scoring model for endpoint fit, human evidence, safety, access, and assay readiness. |

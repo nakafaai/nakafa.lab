@@ -71,6 +71,11 @@ erythropoiesis. It stays below HbF and curative lanes because it does not fix
 globin production and cannot be treated as transfusion replacement without
 clinical proof.
 
+The first numeric scoring model is now tracked in
+[Candidate scoring V0](2026-04-27-candidate-scoring-v0.md). It does not replace
+this ranking; it makes endpoint fit, human evidence, safety, access, and assay
+readiness easier to audit.
+
 ## Not A Recommendation
 
 This is a research ranking. It is not a patient treatment ranking.

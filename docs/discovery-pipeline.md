@@ -17,6 +17,18 @@ This is the Nakafa Lab path from idea to credible research candidate.
 7. Preclinical validation plan.
 8. Publication-ready evidence note.
 
+## AI-Assisted Translational Loop
+
+AI can accelerate the loop, but it cannot be the authority for clinical action.
+The reusable pattern is: primary data, source-backed reasoning, expert review,
+assay validation, and falsification.
+
+For thalassemia, the first data layer is genotype and phenotype, not a
+tumor-vaccine target. The active adaptation is tracked in
+[AI-assisted cancer vaccine method as research pattern](../research/thalassemia/findings/2026-04-27-ai-assisted-cancer-vaccine-method.md).
+Candidate lanes are compared in
+[candidate scoring V0](../research/thalassemia/prioritization/2026-04-27-candidate-scoring-v0.md).
+
 ## Cure-Oriented Endpoint Priority
 
 - Durable transfusion independence.

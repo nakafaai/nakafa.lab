@@ -39,6 +39,11 @@ Expansion items if the lab can support them:
 - mitapivat or a lab-approved pyruvate kinase activator reference, only if
   legally and practically obtainable.
 
+The later dual-readout prioritizer keeps this first quote panel unchanged. It
+adds `AMPKB1` / `NRF2`, pyruvate kinase activation, and `T-BDMC`-like chemistry
+as expansion-only lanes when the lab can support the identity, alpha-globin,
+autophagy, maturation, viability, and hemolysis gates.
+
 ## Required Feasibility Questions
 
 Ask the lab to answer:
@@ -91,6 +96,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 ## Sources
 
 - [First wet-lab panel optimizer result](../findings/2026-04-27-first-wet-lab-panel-optimizer-result.md)
+- [Dual-readout panel prioritizer result](../findings/2026-04-27-dual-readout-panel-prioritizer-result.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md)

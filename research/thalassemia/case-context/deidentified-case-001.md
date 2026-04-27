@@ -30,6 +30,11 @@ data request: antibody screen, named alloantibodies, direct antiglobulin test
 (direct Coombs), crossmatch difficulty, transfusion reaction history, spleen
 status, hemolysis markers, and the exact autoimmune diagnosis if one exists.
 
+The 2026-04-27 iron-overload organ-risk gate adds a second concrete packet:
+ferritin trend, liver iron concentration MRI, cardiac `T2*`, chelator name and
+dose, adherence, side effects, kidney/liver monitoring, and endocrine/organ
+screening. Until those are known, patient-fit claims should stay blocked.
+
 ## Research Relevance
 
 This case makes the first Nakafa Lab program practical, not abstract. The near
@@ -69,4 +74,5 @@ Do not add identifying details to this file.
 - [Clinician review brief](clinician-brief-case-001.md)
 - [Hematologist question sheet](hematologist-question-sheet-case-001.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
+- [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)

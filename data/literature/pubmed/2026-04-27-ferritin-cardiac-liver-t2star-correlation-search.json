@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "thalassemia ferritin cardiac T2* liver iron MRI correlation",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32210653"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7073435"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7073435;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2147/JBM.S227012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "227012"
+        }
+      ],
+      "journal": "J Blood Med",
+      "pmid": "32210653",
+      "pubdate": "2020",
+      "title": "Correlation of Cardiac and Liver Iron Level with T2*MRI and Vitamin D3 Serum Level in Patients with Thalassemia Major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33815703"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8007896"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8007896;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.34172/jcvtr.2021.18"
+        }
+      ],
+      "journal": "J Cardiovasc Thorac Res",
+      "pmid": "33815703",
+      "pubdate": "2021",
+      "title": "Evaluation of iron overload by cardiac and liver T2* in \u03b2-thalassemia: Correlation with serum ferritin, heart function and liver enzymes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22943064"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/15376516.2012.727198"
+        }
+      ],
+      "journal": "Toxicol Mech Methods",
+      "pmid": "22943064",
+      "pubdate": "2013 Jan",
+      "title": "Liver iron and serum ferritin levels are misleading for estimating cardiac, pancreatic, splenic and total body iron load in thalassemia patients: factors influencing the heterogenic distribution of excess storage iron in organs as identified by MRI T2*."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26154874"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jmri.24781"
+        }
+      ],
+      "journal": "J Magn Reson Imaging",
+      "pmid": "26154874",
+      "pubdate": "2015 Sep",
+      "title": "MRI assessment of excess cardiac iron in thalassemia major: When to initiate?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36087241"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11547-022-01554-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11547-022-01554-w"
+        }
+      ],
+      "journal": "Radiol Med",
+      "pmid": "36087241",
+      "pubdate": "2022 Nov",
+      "title": "Quantitative T2* MRI for bone marrow iron overload: normal reference values and assessment in thalassemia major patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28233255"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12098-017-2310-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12098-017-2310-8"
+        }
+      ],
+      "journal": "Indian J Pediatr",
+      "pmid": "28233255",
+      "pubdate": "2017 Apr",
+      "title": "MRI for Quantification of Liver and Cardiac Iron in Thalassemia Major Patients: Pilot Study in Indian Population."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37654812"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10466462"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10466462;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.34172/jcvtr.2023.31592"
+        }
+      ],
+      "journal": "J Cardiovasc Thorac Res",
+      "pmid": "37654812",
+      "pubdate": "2023",
+      "title": "The relationship of myocardial and liver T2* values with cardiac function and laboratory findings in transfusion-dependent thalassemia major patients: A retrospective cardiac MRI study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36060401"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9420837"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9420837;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7759/cureus.27467"
+        }
+      ],
+      "journal": "Cureus",
+      "pmid": "36060401",
+      "pubdate": "2022 Jul",
+      "title": "Correlation of Liver and Myocardium Iron Concentration Determined by Magnetic Resonance Imaging With Serum Ferritin in Non-Transfusion-Dependent Thalassemia Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25200112"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ejh.12444"
+        }
+      ],
+      "journal": "Eur J Haematol",
+      "pmid": "25200112",
+      "pubdate": "2015 May",
+      "title": "Endocrinopathies, metabolic disorders, and iron overload in major and intermedia thalassemia: serum ferritin as diagnostic and predictive marker associated with liver and cardiac T2* MRI assessment."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38076774"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10700100"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10700100;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18502/ijhoscr.v17i4.13912"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "IJHOSCR-17-224"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "38076774",
+      "pubdate": "2023 Oct 1",
+      "title": "Correlation of Magnesium Level with Cardiac and Hepatic Hemosiderosis Measured by T2*MRI Technique and Age in Patients with Thalassemia Major."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "count": 10,
+  "query": "thalassemia chelation therapy cardiac T2* survival iron overload monitoring",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK562146"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32965817"
+        }
+      ],
+      "journal": "",
+      "pmid": "32965817",
+      "pubdate": "2026 Jan",
+      "title": "Transfusion Iron Overload(Archived)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30729283"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-019-03618-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-019-03618-w"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "30729283",
+      "pubdate": "2019 Jun",
+      "title": "Cardiac complications and iron overload in beta thalassemia major patients-a systematic review and meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33919601"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8167609"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8167609;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/tomography7020012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "tomography7020012"
+        }
+      ],
+      "journal": "Tomography",
+      "pmid": "33919601",
+      "pubdate": "2021 Apr 18",
+      "title": "The Importance of Cardiac T2* Magnetic Resonance Imaging for Monitoring Cardiac Siderosis in Thalassemia Major Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12401311"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1521692602902148"
+        }
+      ],
+      "journal": "Best Pract Res Clin Haematol",
+      "pmid": "12401311",
+      "pubdate": "2002 Jun",
+      "title": "Monitoring chelation therapy to achieve optimal outcome in the treatment of thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16798647"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630260600642542"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "U177340494873U47"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "16798647",
+      "pubdate": "2006",
+      "title": "Low serum ferritin levels are misleading for detecting cardiac iron overload and increase the risk of cardiomyopathy in thalassemia patients. The importance of cardiac iron overload monitoring using magnetic resonance imaging T2 and T2*."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22919029"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2012-05-370098"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)46200-7"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "22919029",
+      "pubdate": "2012 Nov 1",
+      "title": "How I treat transfusional iron overload."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38069073"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10706143"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10706143;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms242316749"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms242316749"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "38069073",
+      "pubdate": "2023 Nov 25",
+      "title": "Drug Selection and Posology, Optimal Therapies and Risk/Benefit Assessment in Medicine: The Paradigm of Iron-Chelating Drugs."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31882227"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.clinthera.2019.12.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0149-2918(19)30586-7"
+        }
+      ],
+      "journal": "Clin Ther",
+      "pmid": "31882227",
+      "pubdate": "2020 Feb",
+      "title": "Systematic Literature Review of the Burden of Disease and Treatment for Transfusion-dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34907420"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/eurheartj/ehab851"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "6462022"
+        }
+      ],
+      "journal": "Eur Heart J",
+      "pmid": "34907420",
+      "pubdate": "2022 Jul 7",
+      "title": "National networking in rare diseases and reduction of cardiac burden in thalassemia major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40785179"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/011573403X376074250630065253"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CCR-EPUB-149938"
+        }
+      ],
+      "journal": "Curr Cardiol Rev",
+      "pmid": "40785179",
+      "pubdate": "2025 Aug 7",
+      "title": "The Association between \u03b2-Thalassemia Major (\u03b2-TM) and Cardiac Complications: Recent Insights."
+    }
+  ]
+}

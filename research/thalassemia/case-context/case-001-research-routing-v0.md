@@ -43,7 +43,7 @@ marked unknown:
 | High baseline HbF or HbF modifier signal | responder-signature lane | natural protection can explain phenotype and guide candidate interpretation | document `XmnI-HBG2`, `BCL11A`, `HBS1L-MYB`, and HPFH-like variants if available |
 | Positive antibody screen, named alloantibodies, positive `DAT`, AIHA, or crossmatch difficulty | immune-transfusion lane | immune red-cell loss can mimic treatment failure or increase transfusion need | require red-cell survival, hemolysis, antibody, and blood-bank review gates |
 | Jaundice, dark urine, malaise, fever, or unexpected Hb fall after transfusion | delayed hemolysis lane | delayed reactions can appear days after transfusion and change the interpretation of weekly need | ask for repeat blood-bank workup and reaction history |
-| High ferritin, high liver iron, abnormal cardiac `T2*`, or chelator toxicity | iron and chelation lane | iron risk can be the urgent harm even before a cure exists | keep iron-axis candidates separate from iron-supplement or diet claims |
+| High ferritin, ferritin-only monitoring, high liver iron, abnormal or missing cardiac `T2*`, incomplete endocrine/organ screen, or chelator toxicity | iron-overload organ-risk gate | iron risk can be the urgent harm even before a cure exists, and ferritin alone can miss organ-specific risk | assign `iron_packet_missing`, `ferritin_trend_only`, `lic_known`, `cardiac_t2star_known`, `organ_screen_incomplete`, `chelation_review_needed`, `toxicity_review_needed`, or `specialist_managed` |
 | Enlarged spleen, low platelets/WBC, or suspected hypersplenism | spleen and red-cell survival lane | hypersplenism can increase blood requirement and confound candidate response | record spleen status before interpreting HbF or transfusion response |
 | Autoimmune diagnosis or immune medicines | safety/exclusion lane | immune context can change feasibility of sirolimus, thalidomide-class, transplant, or trial eligibility | do not promote immune-active candidates without clinician review |
 | Doctor says luspatercept, mitapivat, HSCT, gene therapy, or CRISPR therapy is relevant | access and benchmark lane | current therapies define the strongest real-world endpoint standard | capture why it is possible, inaccessible, unsuitable, or not indicated |
@@ -61,6 +61,11 @@ red-cell hemolysis, viability, and immune/transfusion safety context.
 If the main driver is iron overload or chelation difficulty, the immediate
 research value may be risk reduction and access optimization rather than a new
 HbF drug.
+
+If iron status is only known through ferritin, the case should remain
+`ferritin_trend_only` until liver iron concentration, cardiac `T2*`, chelation
+adherence, chelator toxicity monitoring, and endocrine/organ screening are
+reviewed by a specialist.
 
 ## Doctor-Facing Questions
 
@@ -103,6 +108,7 @@ material into a thalassemia treatment claim.
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
+- [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
 - [Case-001 genotype-first intake gate V0](case-001-genotype-first-intake-gate-v0.md)
 - [HPFH-like assay readout spec V0](../assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md)

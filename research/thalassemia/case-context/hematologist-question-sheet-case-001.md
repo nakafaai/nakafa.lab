@@ -59,6 +59,27 @@ Use medical records where possible:
 | Organ monitoring | liver, heart, endocrine, bone, infection, vaccination, spleen status |
 | Autoimmune issue | exact diagnosis, tests, symptoms, medicines, specialist notes |
 
+## Iron Overload Organ-Risk Packet
+
+Ask the doctor to label the iron packet as `iron_packet_missing`,
+`ferritin_trend_only`, `lic_known`, `cardiac_t2star_known`,
+`organ_screen_incomplete`, `chelation_review_needed`,
+`toxicity_review_needed`, or `specialist_managed`.
+
+Questions:
+
+- Are ferritin values being interpreted as a trend, not as one isolated number?
+- Is liver iron concentration MRI available, and what date, method, and units
+  were used?
+- Is cardiac `T2*` MRI available, and was the center calibrated for this
+  measurement?
+- Does the cardiac, liver, endocrine, kidney, and bone monitoring packet show
+  current organ risk clearly enough?
+- Is the chelator name, dose, adherence, tolerability, kidney/liver monitoring,
+  and interaction risk fully documented?
+- Could autoimmune disease, immune medicines, infection, hepatitis, or
+  inflammation make ferritin harder to interpret?
+
 ## Therapy Discussion Questions
 
 Ask the doctor to separate "medically relevant" from "not suitable":
@@ -149,6 +170,7 @@ clinicians.
 - [Hydroxyurea local-access comparator](../findings/2026-04-27-hydroxyurea-local-access-comparator.md)
 - [BPOM sirolimus product search](../findings/2026-04-27-bpom-sirolimus-product-search.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
+- [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [Gene therapy access frontier](../findings/2026-04-27-gene-therapy-access-frontier.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Indonesia access deep dive](../findings/2026-04-27-indonesia-access-deep-dive.md)

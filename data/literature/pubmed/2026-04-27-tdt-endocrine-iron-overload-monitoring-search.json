@@ -1,0 +1,211 @@
+{
+  "count": 10,
+  "query": "transfusion dependent thalassemia endocrine complications iron overload monitoring",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38817060"
+        }
+      ],
+      "journal": "Med J Malaysia",
+      "pmid": "38817060",
+      "pubdate": "2024 May",
+      "title": "Iron burden and endocrine complications in transfusion-dependent thalassemia patients In Sarawak, Malaysia: a retrospective study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK562146"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32965817"
+        }
+      ],
+      "journal": "",
+      "pmid": "32965817",
+      "pubdate": "2026 Jan",
+      "title": "Transfusion Iron Overload(Archived)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39447423"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejrad.2024.111750"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0720-048X(24)00466-2"
+        }
+      ],
+      "journal": "Eur J Radiol",
+      "pmid": "39447423",
+      "pubdate": "2024 Dec",
+      "title": "Organ-Specific Iron Overload in Non-Transfusion-Dependent Thalassemia Patients: Insights from Quantitative MRI Evaluation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39293029"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2023022502"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "517878"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "39293029",
+      "pubdate": "2025 Jan 23",
+      "title": "Management of iron overload: lessons from transfusion-dependent hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32008017"
+        }
+      ],
+      "journal": "Med J Malaysia",
+      "pmid": "32008017",
+      "pubdate": "2020 Jan",
+      "title": "Prevalence of endocrine complications in transfusion dependent thalassemia in Hospital Pulau Pinang: A pilot study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39625161"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/17474086.2024.2435353"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "39625161",
+      "pubdate": "2024 Dec",
+      "title": "Quantitative MRI evaluation of iron deposition in patients with transfusion-dependent thalassemia: clinical management insights."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29340121"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5767285"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5767285;"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "29340121",
+      "pubdate": "2017 Oct 1",
+      "title": "Complications of Transfusion-Dependent \u03b2-Thalassemia Patients in Sistan and Baluchistan, South-East of Iran."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31416718"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.blre.2019.100594"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0268-960X(19)30039-6"
+        }
+      ],
+      "journal": "Blood Rev",
+      "pmid": "31416718",
+      "pubdate": "2019 Nov",
+      "title": "Management of the aging beta-thalassemia transfusion-dependent population - The Italian experience."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29458731"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2017.12.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(17)30217-4"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "29458731",
+      "pubdate": "2018 Apr",
+      "title": "Iron Chelation Therapy as a Modality of Management."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23458935"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6078582"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6078582;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5144/0256-4947.2013.18"
+        }
+      ],
+      "journal": "Ann Saudi Med",
+      "pmid": "23458935",
+      "pubdate": "2013 Jan-Feb",
+      "title": "Prevalence of iron overload complications among patients with b-thalassemia major treated at Dubai Thalassemia Centre."
+    }
+  ]
+}

@@ -22,6 +22,9 @@ birth date
 - Recent change or worsening: not yet recorded.
 - What the family wants to understand: diagnosis details, immune complication
   status, iron burden, treatment optimization, and advanced therapy options.
+- Current iron-status label: `iron_packet_missing` until ferritin trend, liver
+  iron concentration, cardiac `T2*`, chelation, and organ monitoring are
+  documented.
 
 ## Data Needed Before Specialist Review
 
@@ -55,6 +58,8 @@ birth date
   autoantibodies, hypersplenism, hemolysis, or under-matching?
 - Is iron overload monitoring complete enough, including liver and cardiac MRI?
 - Is current chelation optimal and tolerated?
+- Does the organ-risk packet require endocrine, cardiac, liver, kidney, or bone
+  follow-up before disease-modifying options are judged?
 - Should this case be evaluated for luspatercept, mitapivat, HSCT, gene therapy,
   or a clinical trial?
 - If advanced therapy is discussed, is the relevant route beta-globin
@@ -80,4 +85,5 @@ repo without a licensed hematologist.
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
+- [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [Gene and cell therapy registry product map](../findings/2026-04-27-gene-cell-therapy-registry-product-map.md)

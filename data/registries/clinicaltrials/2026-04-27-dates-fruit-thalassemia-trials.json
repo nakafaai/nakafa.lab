@@ -1,0 +1,5 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=thalassemia+dates+fruit&pageSize=10&countTotal=true",
+  "studies": [],
+  "total_count": 0
+}

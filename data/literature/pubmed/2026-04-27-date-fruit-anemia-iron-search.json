@@ -1,0 +1,291 @@
+{
+  "count": 10,
+  "query": "\"date fruit\" AND (anemia OR hemoglobin OR iron)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40322306"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12045585"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12045585;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5455/medarh.2025.79.56-60"
+        }
+      ],
+      "journal": "Med Arch",
+      "pmid": "40322306",
+      "pubdate": "2025",
+      "title": "The Effects of Date Consumption on Labor and Vaginal Birth."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38166785"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10759543"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10759543;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12884-023-06196-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12884-023-06196-y"
+        }
+      ],
+      "journal": "BMC Pregnancy Childbirth",
+      "pmid": "38166785",
+      "pubdate": "2024 Jan 2",
+      "title": "Is oral consumption of dates (Phoenix dactylifera L. fruit) in the peripartum period effective and safe integrative care to facilitate childbirth and improve perinatal outcomes: a comprehensive revised systematic review and dose-response meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37612639"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10463832"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10463832;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12905-023-02604-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12905-023-02604-9"
+        }
+      ],
+      "journal": "BMC Womens Health",
+      "pmid": "37612639",
+      "pubdate": "2023 Aug 23",
+      "title": "The effect of date fruit consumption on early postpartum hemorrhage: a randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31908568"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6927593"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6927593;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2147/PHMT.S225816"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "225816"
+        }
+      ],
+      "journal": "Pediatric Health Med Ther",
+      "pmid": "31908568",
+      "pubdate": "2019",
+      "title": "The Effect of a Date Consumption-Based Nutritional Program on Iron Deficiency Anemia in Primary School Girls Aged 8 to 10 Years Old in Zahedan (Iran)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36079749"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9458144"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9458144;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu14173491"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu14173491"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "36079749",
+      "pubdate": "2022 Aug 25",
+      "title": "Effect of Date Fruit Consumption on the Glycemic Control of Patients with Type 2 Diabetes: A Randomized Clinical Trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39221796"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.47391/JPMA.Ind-RInC-10"
+        }
+      ],
+      "journal": "J Pak Med Assoc",
+      "pmid": "39221796",
+      "pubdate": "2024 May",
+      "title": "The effect of dates and honey extracts (phoenix dactylifera and apis mellifera) for increasing pregnant women's haemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38928881"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11202635"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11202635;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/foods13121940"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "foods13121940"
+        }
+      ],
+      "journal": "Foods",
+      "pmid": "38928881",
+      "pubdate": "2024 Jun 19",
+      "title": "The Potential of Using Bisr Date Powder as a Novel Ingredient in Biscuits Made of Wheat Flour Only or Mixed with Barley."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40641695"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12244291"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12244291;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.18295/squmj.10.2024.064"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "squmj_v25_n01_squmj6724"
+        }
+      ],
+      "journal": "Sultan Qaboos Univ Med J",
+      "pmid": "40641695",
+      "pubdate": "2025 May 2",
+      "title": "Improving Female Health at Various Life Stages: A systematic review of the impact of date fruit products."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21495898"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/09637486.2011.558073"
+        }
+      ],
+      "journal": "Int J Food Sci Nutr",
+      "pmid": "21495898",
+      "pubdate": "2011 Aug",
+      "title": "Nutritional quality of 18 date fruit varieties."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39631353"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.foodchem.2024.142157"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0308-8146(24)03807-X"
+        }
+      ],
+      "journal": "Food Chem",
+      "pmid": "39631353",
+      "pubdate": "2025 Mar 1",
+      "title": "Post harvest hot water immersion treatment as sustainable approach for artificial curing of immature dates to reduce wastage."
+    }
+  ]
+}

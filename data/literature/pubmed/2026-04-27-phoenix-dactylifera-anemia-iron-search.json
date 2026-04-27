@@ -1,0 +1,296 @@
+{
+  "count": 10,
+  "query": "\"Phoenix dactylifera\" AND (anemia OR haemoglobin OR hemoglobin OR iron)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38166785"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10759543"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10759543;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12884-023-06196-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12884-023-06196-y"
+        }
+      ],
+      "journal": "BMC Pregnancy Childbirth",
+      "pmid": "38166785",
+      "pubdate": "2024 Jan 2",
+      "title": "Is oral consumption of dates (Phoenix dactylifera L. fruit) in the peripartum period effective and safe integrative care to facilitate childbirth and improve perinatal outcomes: a comprehensive revised systematic review and dose-response meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40322306"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12045585"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12045585;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5455/medarh.2025.79.56-60"
+        }
+      ],
+      "journal": "Med Arch",
+      "pmid": "40322306",
+      "pubdate": "2025",
+      "title": "The Effects of Date Consumption on Labor and Vaginal Birth."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34929829"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.gaceta.2021.10.032"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0213-9111(21)00221-1"
+        }
+      ],
+      "journal": "Gac Sanit",
+      "pmid": "34929829",
+      "pubdate": "2021",
+      "title": "Date palm (Phoenix dactylifera) consumption as a nutrition source for mild anemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39221796"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.47391/JPMA.Ind-RInC-10"
+        }
+      ],
+      "journal": "J Pak Med Assoc",
+      "pmid": "39221796",
+      "pubdate": "2024 May",
+      "title": "The effect of dates and honey extracts (phoenix dactylifera and apis mellifera) for increasing pregnant women's haemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36079792"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9460506"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9460506;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu14173536"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu14173536"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "36079792",
+      "pubdate": "2022 Aug 27",
+      "title": "Polyphenol-Rich Date Palm Fruit Seed (Phoenix Dactylifera L.) Extract Inhibits Labile Iron, Enzyme, and Cancer Cell Activities, and DNA and Protein Damage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27454254"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4959372"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4959372;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12864-016-2858-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12864-016-2858-0"
+        }
+      ],
+      "journal": "BMC Genomics",
+      "pmid": "27454254",
+      "pubdate": "2016 Jul 20",
+      "title": "Abstracts from the 3rd International Genomic Medicine Conference (3rd IGMC 2015) : Jeddah, Kingdom of Saudi Arabia. 30 November - 3 December 2015."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34764312"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8586337"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8586337;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-021-01374-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-021-01374-4"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "34764312",
+      "pubdate": "2021 Nov 11",
+      "title": "Biologically synthesized iron nanoparticles (FeNPs) from Phoenix dactylifera have anti-bacterial activities."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41286628"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12642337"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12642337;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12870-025-07682-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12870-025-07682-5"
+        }
+      ],
+      "journal": "BMC Plant Biol",
+      "pmid": "41286628",
+      "pubdate": "2025 Nov 24",
+      "title": "Yield and fruit quality responses of 'Kabkab' date palm (Phoenix dactylifera L.) to potassium and iron fertilization under calcareous soil conditions."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35889673"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9315626"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9315626;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nano12142449"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nano12142449"
+        }
+      ],
+      "journal": "Nanomaterials (Basel)",
+      "pmid": "35889673",
+      "pubdate": "2022 Jul 17",
+      "title": "Green Synthesis of Fe(x)O(y) Nanoparticles with Potential Antioxidant Properties."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12850886"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/09637480120091982"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AT0CQK2QKCBMQCB2"
+        }
+      ],
+      "journal": "Int J Food Sci Nutr",
+      "pmid": "12850886",
+      "pubdate": "2003 Jul",
+      "title": "The fruit of the date palm: its possible use as the best food for the future?"
+    }
+  ]
+}

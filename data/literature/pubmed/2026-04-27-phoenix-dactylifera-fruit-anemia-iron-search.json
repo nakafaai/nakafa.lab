@@ -1,0 +1,258 @@
+{
+  "count": 9,
+  "query": "\"Phoenix dactylifera L. fruit\" AND (anemia OR hemoglobin OR iron)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38166785"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10759543"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10759543;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12884-023-06196-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12884-023-06196-y"
+        }
+      ],
+      "journal": "BMC Pregnancy Childbirth",
+      "pmid": "38166785",
+      "pubdate": "2024 Jan 2",
+      "title": "Is oral consumption of dates (Phoenix dactylifera L. fruit) in the peripartum period effective and safe integrative care to facilitate childbirth and improve perinatal outcomes: a comprehensive revised systematic review and dose-response meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40322306"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12045585"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12045585;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5455/medarh.2025.79.56-60"
+        }
+      ],
+      "journal": "Med Arch",
+      "pmid": "40322306",
+      "pubdate": "2025",
+      "title": "The Effects of Date Consumption on Labor and Vaginal Birth."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36242846"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biopha.2022.113836"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0753-3322(22)01225-2"
+        }
+      ],
+      "journal": "Biomed Pharmacother",
+      "pmid": "36242846",
+      "pubdate": "2022 Dec",
+      "title": "Ajwa dates (Phoenix dactylifera L.) attenuate cisplatin-induced nephrotoxicity in rats via augmenting Nrf2, modulating NADPH oxidase-4 and mitigating inflammatory/apoptotic mediators."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36079792"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9460506"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9460506;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu14173536"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu14173536"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "36079792",
+      "pubdate": "2022 Aug 27",
+      "title": "Polyphenol-Rich Date Palm Fruit Seed (Phoenix Dactylifera L.) Extract Inhibits Labile Iron, Enzyme, and Cancer Cell Activities, and DNA and Protein Damage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41286628"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12642337"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12642337;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12870-025-07682-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12870-025-07682-5"
+        }
+      ],
+      "journal": "BMC Plant Biol",
+      "pmid": "41286628",
+      "pubdate": "2025 Nov 24",
+      "title": "Yield and fruit quality responses of 'Kabkab' date palm (Phoenix dactylifera L.) to potassium and iron fertilization under calcareous soil conditions."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31368543"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/jfbc.12933"
+        }
+      ],
+      "journal": "J Food Biochem",
+      "pmid": "31368543",
+      "pubdate": "2019 Aug",
+      "title": "Antioxidant and antihyperlipidemic effects of Ajwa date (Phoenix dactylifera L.) extracts in rats fed a cholesterol-rich diet."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12850886"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/09637480120091982"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AT0CQK2QKCBMQCB2"
+        }
+      ],
+      "journal": "Int J Food Sci Nutr",
+      "pmid": "12850886",
+      "pubdate": "2003 Jul",
+      "title": "The fruit of the date palm: its possible use as the best food for the future?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27134893"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4843279"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4843279;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7860/JCDR/2016/16879.7419"
+        }
+      ],
+      "journal": "J Clin Diagn Res",
+      "pmid": "27134893",
+      "pubdate": "2016 Mar",
+      "title": "In Vivo Evaluation of Anti Diabetic, Hypolipidemic, Antioxidative Activities of Saudi Date Seed Extract on Streptozotocin Induced Diabetic Rats."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31952131"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7019638"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7019638;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu12010217"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu12010217"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "31952131",
+      "pubdate": "2020 Jan 15",
+      "title": "Effects of Daily Low-Dose Date Consumption on Glycemic Control, Lipid Profile, and Quality of Life in Adults with Pre- and Type 2 Diabetes: A Randomized Controlled Trial."
+    }
+  ]
+}

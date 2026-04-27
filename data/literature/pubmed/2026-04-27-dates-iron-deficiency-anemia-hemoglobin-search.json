@@ -1,0 +1,271 @@
+{
+  "count": 10,
+  "query": "dates AND (\"iron deficiency anemia\" OR hemoglobin)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38786070"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11120250"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11120250;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/cells13100848"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cells13100848"
+        }
+      ],
+      "journal": "Cells",
+      "pmid": "38786070",
+      "pubdate": "2024 May 16",
+      "title": "Current and Future Therapeutics for Treating Patients with Sickle Cell Disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37164495"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ajog.2022.07.001"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0002-9378(22)00537-3"
+        }
+      ],
+      "journal": "Am J Obstet Gynecol",
+      "pmid": "37164495",
+      "pubdate": "2023 May",
+      "title": "Umbilical cord pH, blood gases, and lactate at\u00a0birth:\u00a0normal values, interpretation, and clinical\u00a0utility."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27732721"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/jama.2016.9185"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2569055"
+        }
+      ],
+      "journal": "JAMA",
+      "pmid": "27732721",
+      "pubdate": "2016 Nov 15",
+      "title": "Clinical Practice Guidelines From the AABB: Red Blood Cell Transfusion Thresholds and Storage."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38166785"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10759543"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10759543;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12884-023-06196-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12884-023-06196-y"
+        }
+      ],
+      "journal": "BMC Pregnancy Childbirth",
+      "pmid": "38166785",
+      "pubdate": "2024 Jan 2",
+      "title": "Is oral consumption of dates (Phoenix dactylifera L. fruit) in the peripartum period effective and safe integrative care to facilitate childbirth and improve perinatal outcomes: a comprehensive revised systematic review and dose-response meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37214237"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10198260"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10198260;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fendo.2023.1174545"
+        }
+      ],
+      "journal": "Front Endocrinol (Lausanne)",
+      "pmid": "37214237",
+      "pubdate": "2023",
+      "title": "Effect of fruit on glucose control in diabetes mellitus: a meta-analysis of nineteen randomized controlled trials."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1760993"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1210/edrv-12-4-356"
+        }
+      ],
+      "journal": "Endocr Rev",
+      "pmid": "1760993",
+      "pubdate": "1991 Nov",
+      "title": "Hypoglycemia unawareness."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39883922"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11826945"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11826945;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2196/67346"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "v27i1e67346"
+        }
+      ],
+      "journal": "J Med Internet Res",
+      "pmid": "39883922",
+      "pubdate": "2025 Jan 30",
+      "title": "Risk Factors for Gastrointestinal Bleeding in Patients With Acute Myocardial Infarction: Multicenter Retrospective Cohort Study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40054593"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2063583"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12182995"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12182995;manuscript-id: NIHMS2063583;embargo-date: 2026/07/01;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1053/j.ajkd.2025.01.012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0272-6386(25)00715-2"
+        }
+      ],
+      "journal": "Am J Kidney Dis",
+      "pmid": "40054593",
+      "pubdate": "2025 Jul",
+      "title": "Cardiovascular Disease Risk Estimates in the US CKD Population Using the PREVENT Equation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22876803"
+        }
+      ],
+      "journal": "MSMR",
+      "pmid": "22876803",
+      "pubdate": "2012 Jul",
+      "title": "Iron deficiency anemia, active component, U.S. Armed Forces, 2002-2011."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38936371"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2213-8587(24)00151-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-8587(24)00151-7"
+        }
+      ],
+      "journal": "Lancet Diabetes Endocrinol",
+      "pmid": "38936371",
+      "pubdate": "2024 Aug",
+      "title": "Early pregnancy HbA(1c) as the first screening test for gestational diabetes: results from three prospective cohorts."
+    }
+  ]
+}

@@ -206,6 +206,18 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/registries/clinicaltrials/2026-04-27-olive-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-tyrosol-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-oleocanthal-thalassemia-trials.json",
+    "data/literature/pubmed/2026-04-27-phoenix-dactylifera-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-date-palm-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-phoenix-dactylifera-hbf-search.json",
+    "data/literature/pubmed/2026-04-27-dates-iron-deficiency-anemia-hemoglobin-search.json",
+    "data/literature/pubmed/2026-04-27-thalassemia-iron-overload-diet-search.json",
+    "data/literature/pubmed/2026-04-27-phoenix-dactylifera-anemia-iron-search.json",
+    "data/literature/pubmed/2026-04-27-phoenix-dactylifera-fruit-anemia-iron-search.json",
+    "data/literature/pubmed/2026-04-27-date-fruit-anemia-iron-search.json",
+    "data/literature/pubmed/2026-04-27-date-palm-selected-abstracts.xml",
+    "data/registries/clinicaltrials/2026-04-27-phoenix-dactylifera-thalassemia-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-date-palm-thalassemia-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-dates-fruit-thalassemia-trials.json",
 ]
 
 QUERCETIN_ANALOG_PATHS = [
@@ -367,6 +379,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md",
     "research/thalassemia/findings/2026-04-27-butyrate-hbf-inducer-legacy-map.md",
     "research/thalassemia/findings/2026-04-27-olive-polyphenol-red-cell-support-map.md",
+    "research/thalassemia/findings/2026-04-27-date-palm-anemia-guardrail.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",

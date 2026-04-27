@@ -76,6 +76,13 @@ oxidative-stress and hemolysis-protection literature. The first-pass search did
 not retrieve direct thalassemia, HbF, or gamma-globin evidence, so this lane
 stays below active HbF leads.
 
+Date-palm is the current nutrition guardrail example. Date-fruit literature can
+surface hemoglobin or iron-deficiency anemia studies, but first-pass searches
+did not retrieve direct thalassemia or HbF evidence. This protects the project
+from accidentally importing iron-deficiency anemia logic into
+transfusion-dependent thalassemia, where iron overload and chelation are central
+clinical constraints.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -100,5 +107,6 @@ when safety is plausible.
 - [Resveratrol HbF beta-thalassemia seed](../../thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Pomegranate and ellagic-acid evidence gap](../../thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md)
 - [Olive polyphenol red-cell support map](../../thalassemia/findings/2026-04-27-olive-polyphenol-red-cell-support-map.md)
+- [Date-palm anemia guardrail](../../thalassemia/findings/2026-04-27-date-palm-anemia-guardrail.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

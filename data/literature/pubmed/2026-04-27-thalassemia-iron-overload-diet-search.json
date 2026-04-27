@@ -1,0 +1,241 @@
+{
+  "count": 10,
+  "query": "thalassemia AND (\"iron overload\" OR chelation) AND diet",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30798807"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/bs.vh.2019.01.005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0083-6729(19)30005-6"
+        }
+      ],
+      "journal": "Vitam Horm",
+      "pmid": "30798807",
+      "pubdate": "2019",
+      "title": "Regulators of hepcidin expression."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9857325"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0946-672X(98)80001-1"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0946-672X(98)80001-1"
+        }
+      ],
+      "journal": "J Trace Elem Med Biol",
+      "pmid": "9857325",
+      "pubdate": "1998 Nov",
+      "title": "Iron supplementation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37682237"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10908407"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10908407;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1152/ajpheart.00306.2023"
+        }
+      ],
+      "journal": "Am J Physiol Heart Circ Physiol",
+      "pmid": "37682237",
+      "pubdate": "2023 Nov 1",
+      "title": "Accelerated atherosclerosis in beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36700398"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10153524"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10153524;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2022.281995"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "36700398",
+      "pubdate": "2023 May 1",
+      "title": "Duality of Nrf2 in iron-overload cardiomyopathy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31669736"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.lfs.2019.116878"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0024-3205(19)30805-7"
+        }
+      ],
+      "journal": "Life Sci",
+      "pmid": "31669736",
+      "pubdate": "2019 Dec 15",
+      "title": "Deferiprone and efonidipine mitigated iron-overload induced neurotoxicity in wild-type and thalassemic mice."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34870866"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.32270"
+        }
+      ],
+      "journal": "Hepatology",
+      "pmid": "34870866",
+      "pubdate": "2022 Aug",
+      "title": "Suppressed farnesoid X receptor by iron overload in mice and humans potentiates iron-induced hepatotoxicity."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31504675"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6887953"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6887953;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/jn/nxz172"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-3166(22)16505-3"
+        }
+      ],
+      "journal": "J Nutr",
+      "pmid": "31504675",
+      "pubdate": "2019 Dec 1",
+      "title": "Animal Models of Normal and Disturbed Iron and Copper Metabolism."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23724742"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/b978-0-12-407681-5.00003-9"
+        }
+      ],
+      "journal": "Adv Clin Chem",
+      "pmid": "23724742",
+      "pubdate": "2013",
+      "title": "Protein antioxidants in thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35952729"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.lfs.2022.120871"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0024-3205(22)00571-9"
+        }
+      ],
+      "journal": "Life Sci",
+      "pmid": "35952729",
+      "pubdate": "2022 Oct 15",
+      "title": "Deferiprone has less benefits on gut microbiota and metabolites in high iron-diet induced iron overload thalassemic mice than in iron overload wild-type mice: A preclinical study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7917009"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/10408369409084674"
+        }
+      ],
+      "journal": "Crit Rev Clin Lab Sci",
+      "pmid": "7917009",
+      "pubdate": "1994",
+      "title": "Etiologies, consequences, and treatment of iron overload."
+    }
+  ]
+}

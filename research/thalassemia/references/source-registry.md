@@ -9,6 +9,7 @@ Checked on 2026-04-26 unless noted.
 | Guideline | [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/) | Ferritin, liver iron, cardiac T2*, and chelation monitoring baseline. |
 | Guideline | [TIF 2025 monitoring recommendations](https://www.ncbi.nlm.nih.gov/books/NBK614248/) | Routine monitoring framework for TDT morbidity screening. |
 | Guideline | [2021 TIF guideline, PubMed PMID 35928543](https://pubmed.ncbi.nlm.nih.gov/35928543/) | Peer-reviewed guideline summary. |
+| Research operating model | [No-lab research lane](../findings/2026-04-27-no-lab-research-lane.md) | Defines what can still be done without a lab partner: case packet, eligibility mapping, computational ranking, public-data mining, and assay-ready prep. |
 | Clinical genetics | [Beta-Thalassemia, GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1426/) | Beta-thalassemia genotype, phenotype, HbE/beta-thalassemia, TDT, and NTDT distinctions. |
 | Clinical genetics | [Alpha-Thalassemia, GeneReviews](https://www.ncbi.nlm.nih.gov/books/NBK1435/) | Alpha-thalassemia genetics, HbH disease, and differential diagnosis context. |
 | Guideline | [TIF NTDT guideline, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK190453/) | Non-transfusion-dependent thalassemia baseline. |

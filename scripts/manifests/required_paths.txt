@@ -641,6 +641,7 @@ research/thalassemia/findings/2026-04-27-alpha-globin-rebalancing-gate.md
 research/thalassemia/findings/2026-04-27-delta-globin-hba2-induction-gate.md
 research/thalassemia/findings/2026-04-27-curative-options-eligibility-gate.md
 research/thalassemia/findings/2026-04-27-iron-overload-organ-risk-gate.md
+research/thalassemia/findings/2026-04-27-no-lab-research-lane.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
 research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md

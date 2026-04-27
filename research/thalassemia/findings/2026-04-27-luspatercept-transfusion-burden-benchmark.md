@@ -62,10 +62,15 @@ Do not promote it as:
   without clinician direction;
 - an affordability answer before Indonesia access and cost are verified.
 
+As of the 2026-04-27 BPOM public-registry screen, no Reblozyl or luspatercept
+record was found in BPOM's public registered-drug product search. Treat this as
+a local access warning, not a final regulatory ruling.
+
 ## Source Links
 
 - [FDA Reblozyl beta-thalassemia approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia)
 - [TDT Guidelines 2025, Chapter 16](https://www.ncbi.nlm.nih.gov/books/NBK614249/)
 - [Luspatercept PubMed benchmark snapshot](../../../data/literature/pubmed/2026-04-27-luspatercept-beta-thalassemia-benchmark.json)
 - [Active luspatercept ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-luspatercept-beta-thalassemia.json)
+- [BPOM advanced therapy product search](2026-04-27-bpom-advanced-therapy-product-search.md)
 - [Top clinical lanes numeric extraction](2026-04-27-top-clinical-lanes-numeric-extraction.md)

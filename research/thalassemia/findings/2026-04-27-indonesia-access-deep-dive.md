@@ -30,10 +30,15 @@ therapy access.
   transfusion-independence.
 - ClinicalTrials.gov all-status search for thalassemia in Indonesia found six
   records; the snapshot did not show an active Indonesia gene-therapy trial.
+- BPOM Cek Produk first-pass searches did not find public registered-drug
+  records for Reblozyl/luspatercept, Aqvesme/mitapivat, Zynteglo/betibeglogene,
+  or Casgevy/exagamglogene, while finding `HYDROXYUREA MEDAC` as a basic local
+  drug-record sanity check.
 
 ## What Remains Unverified
 
-- BPOM registration status for Casgevy, Zynteglo, Reblozyl, and Aqvesme.
+- Whether Casgevy, Zynteglo, Reblozyl, or Aqvesme have any non-public,
+  special-access, hospital import, or pending regulatory route.
 - Whether any Indonesian hospital can provide thalassemia gene therapy
   domestically rather than referring abroad or coordinating future access.
 - Whether BPJS has a pathway for disease-modifying thalassemia drugs or
@@ -62,6 +67,7 @@ immune status, and referral questions.
 - [RSAB molecular services article](https://rsabhk.go.id/en/artikel-kesehatan/pengembangan-layanan-molekuler/)
 - [First Indonesian pediatric thalassemia gene-therapy case report](https://www.mdpi.com/2039-4365/16/1/1)
 - [BPOM Cek BPOM information page](https://www.pom.go.id/berita/cek-bpom)
+- [BPOM advanced therapy product search](./2026-04-27-bpom-advanced-therapy-product-search.md)
 - [Indonesia thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json)
 - [Indonesia thalassemia gene-therapy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-thalassemia-gene-therapy.json)
 - [Indonesia thalassemia access PubMed snapshot](../../../data/literature/pubmed/2026-04-27-indonesia-thalassemia-access.json)

@@ -580,13 +580,16 @@ paper/main.tex
 paper/notes/carrier-malaria.tex
 paper/references.bib
 data/literature/pubmed/2026-04-27-mitapivat-pyruvate-kinase-thalassemia.json
+data/regulatory/bpom/2026-04-27-thalassemia-advanced-therapy-product-search.json
 pyproject.toml
 scripts/calc_transfusion_burden.py
 scripts/clinicaltrials_client.py
 scripts/fetch_clinical_trials.py
 scripts/fetch_pubmed.py
+scripts/fetch_bpom_products.py
 scripts/check_public_repo.py
 docs/security/threat-model-assumption-gate.md
+research/thalassemia/findings/2026-04-27-bpom-advanced-therapy-product-search.md
 templates/clinician-review-brief-template.md
 templates/assay-run-template.md
 templates/hypothesis-card-template.md

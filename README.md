@@ -66,6 +66,7 @@ Common commands:
 - `uv run python scripts/check_public_repo.py`
 - `uv run python scripts/fetch_clinical_trials.py --condition Thalassemia`
 - `uv run python scripts/fetch_pubmed.py "fetal hemoglobin beta thalassemia"`
+- `uv run python scripts/fetch_bpom_products.py REBLOZYL luspatercept`
 - `uv run ruff check .`
 - `uv run ruff format .`
 - `uv run pyright scripts`

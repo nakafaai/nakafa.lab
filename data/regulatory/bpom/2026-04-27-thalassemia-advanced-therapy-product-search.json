@@ -1,0 +1,170 @@
+{
+  "checked_at": "2026-04-27",
+  "queries": [
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "REBLOZYL"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "REBLOZYL"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "luspatercept"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "luspatercept"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "AQVESME"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "AQVESME"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "mitapivat"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "mitapivat"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "ZYNTEGLO"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "ZYNTEGLO"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "betibeglogene"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "betibeglogene"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "CASGEVY"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "CASGEVY"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "exagamglogene"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "exagamglogene"
+    },
+    {
+      "records": [
+        {
+          "manufacturer_country": "-",
+          "manufacturer_name": "DIPA PHARMALAB INTERSAINS - Indonesia",
+          "product_brand": "-",
+          "product_date": "2024-07-10",
+          "product_expired": "2029-07-10",
+          "product_name": "HYDROXYUREA MEDAC",
+          "product_package": "DUS, 5 BLISTER @ 10 KAPSUL",
+          "product_register": "DKI1030600201A1",
+          "status": "Berlaku"
+        },
+        {
+          "manufacturer_country": "-",
+          "manufacturer_name": "DIPA PHARMALAB INTERSAINS - Indonesia",
+          "product_brand": "-",
+          "product_date": "2019-11-09",
+          "product_expired": "2024-11-09",
+          "product_name": "HYDROXYUREA MEDAC",
+          "product_package": "DUS, 5 BLISTER @ 10 KAPSUL",
+          "product_register": "DKI1030600201A1",
+          "status": "Berlaku"
+        }
+      ],
+      "records_filtered": 2,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "hydroxyurea"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "hydroxyurea"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "hydroxycarbamide"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "hydroxycarbamide"
+    }
+  ],
+  "source_endpoint": "https://cekbpom.pom.go.id/produk-dt/01",
+  "source_page": "https://cekbpom.pom.go.id/produk-obat"
+}

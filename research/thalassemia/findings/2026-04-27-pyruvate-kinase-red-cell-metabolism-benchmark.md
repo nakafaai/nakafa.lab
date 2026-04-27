@@ -57,6 +57,10 @@ Do not treat mitapivat as the affordability answer until local registration,
 price, access pathway, liver-toxicity monitoring, REMS-like constraints, and
 hematologist relevance are clarified.
 
+As of the 2026-04-27 BPOM public-registry screen, no Aqvesme or mitapivat
+record was found in BPOM's public registered-drug product search. Treat this as
+a local access warning, not a final regulatory ruling.
+
 ## Sources
 
 - [FDA Aqvesme approval](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder)
@@ -64,3 +68,4 @@ hematologist relevance are clarified.
 - [JCI beta-thalassemia mouse model](https://www.jci.org/articles/view/144206)
 - [Mitapivat PubMed snapshot](../../../data/literature/pubmed/2026-04-27-mitapivat-pyruvate-kinase-thalassemia.json)
 - [Mitapivat active ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-mitapivat-beta-thalassemia.json)
+- [BPOM advanced therapy product search](2026-04-27-bpom-advanced-therapy-product-search.md)

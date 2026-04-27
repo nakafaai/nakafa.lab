@@ -13,6 +13,10 @@ access question, not an assumption.
 
 - BPJS/JKN states thalassemia care is covered when patients follow the service
   procedure.
+- A 2026-04-27 BPOM Cek Produk first-pass search found no public registered-drug
+  records for Reblozyl/luspatercept, Aqvesme/mitapivat, Zynteglo/betibeglogene,
+  or Casgevy/exagamglogene, while finding `HYDROXYUREA MEDAC` as a sanity-check
+  comparator.
 - RSAB Harapan Kita's 2025-2029 business plan lists thalassemia variant
   detection, a GenoArray detection kit for the Indonesian population, and
   coordination with the Ministry of Health and P2PTM for gene therapy.
@@ -24,8 +28,8 @@ access question, not an assumption.
 
 ## What Is Not Yet Verified
 
-- BPOM registration status for mitapivat/Aqvesme.
-- BPOM registration status for luspatercept/Reblozyl.
+- Whether BPOM has any non-public, special-access, hospital import, or pending
+  pathway for mitapivat/Aqvesme or luspatercept/Reblozyl.
 - Indonesia availability of Zynteglo or Casgevy outside research/coordination
   settings.
 - BPJS reimbursement pathway for any disease-modifying or gene/cell therapy.
@@ -50,3 +54,4 @@ access question, not an assumption.
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
 - [Indonesia access deep dive](./2026-04-27-indonesia-access-deep-dive.md)
+- [BPOM advanced therapy product search](./2026-04-27-bpom-advanced-therapy-product-search.md)

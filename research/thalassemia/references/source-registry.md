@@ -253,3 +253,6 @@ Checked on 2026-04-26 unless noted.
 | Chemistry | [HUDEP2 HbF hit ChEMBL snapshots](../../../data/chemistry/chembl/hudep2-hbf-hits/) | ChEMBL search, molecule, and activity snapshots for HUDEP2 benchmark hits. |
 | Research method | [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md) | Adapts the public Rosie/Conyngham AI-assisted cancer-vaccine story into a guarded thalassemia discovery loop. |
 | Prioritization | [Candidate scoring V0](../prioritization/2026-04-27-candidate-scoring-v0.md) | First numeric scoring model for endpoint fit, human evidence, safety, access, and assay readiness. |
+| Clinical benchmarks | [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md) | Extracts first numeric effect benchmarks across gene therapy, luspatercept, mitapivat, hydroxyurea, sirolimus, and thalidomide. |
+| Clinical benchmarks | [Top clinical lane PubMed XML](../../../data/literature/pubmed/2026-04-27-top-clinical-lanes-abstracts.xml) | Reproducible PubMed XML snapshot for top clinical benchmark abstracts. |
+| Clinical benchmarks | [Beti-cel PubMed XML](../../../data/literature/pubmed/2026-04-27-beti-cel-abstract.xml) | Reproducible PubMed XML snapshot for the betibeglogene autotemcel benchmark abstract. |

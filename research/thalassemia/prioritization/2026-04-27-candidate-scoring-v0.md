@@ -35,6 +35,9 @@ uncertainty cannot be promoted just because the weighted score looks acceptable.
 
 ## Initial Scores
 
+These scores prioritize accessible research lanes. Approved or near-curative
+high-cost therapies are tracked separately as benchmarks below.
+
 | Lane | Endpoint | Human | Safety | Access | Assay | Weighted | Current use |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | Hydroxyurea | 4 | 4 | 3 | 5 | 4 | 3.95 | affordable clinical comparator |
@@ -49,6 +52,18 @@ uncertainty cannot be promoted just because the weighted score looks acceptable.
 | Royal jelly | 1 | 1 | 2 | 3 | 2 | 1.60 | low-priority support hypothesis |
 | Melittin / bee venom | 1 | 1 | 0 | 1 | 2 | 0.90 | blocked hazard-first lane |
 
+## Clinical Benchmark Scores
+
+These lanes define what success looks like. Low access scores prevent them from
+becoming the main affordability strategy.
+
+| Lane | Endpoint | Human | Safety | Access | Assay | Weighted | Current use |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| Luspatercept | 4 | 5 | 3 | 1 | 2 | 3.40 | transfusion-burden benchmark |
+| Mitapivat | 4 | 5 | 2 | 1 | 3 | 3.30 | oral disease-modifying benchmark |
+| Exa-cel / CRISPR HbF | 5 | 5 | 1 | 0 | 2 | 3.15 | cure-like HbF benchmark |
+| Beti-cel / lentiviral beta-globin | 5 | 5 | 1 | 0 | 2 | 3.15 | cure-like gene-addition benchmark |
+
 ## Readout
 
 1. Hydroxyurea remains the best affordable comparator because it has direct HbF
@@ -61,6 +76,9 @@ uncertainty cannot be promoted just because the weighted score looks acceptable.
    future evidence shows HbF or transfusion-burden effects.
 5. Melittin/bee venom is blocked from therapeutic framing because the safety
    score is `0`.
+6. Gene and cell therapies are the strongest proof that transfusion
+   independence is biologically possible, but access and conditioning barriers
+   keep them as benchmarks rather than the affordable discovery path.
 
 ## Promotion Rule
 
@@ -77,6 +95,7 @@ safety:
 ## Linked Evidence
 
 - [Candidate ranking](2026-04-26-candidate-ranking.md)
+- [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
 - [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)

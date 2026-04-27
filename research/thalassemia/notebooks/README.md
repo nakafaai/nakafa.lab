@@ -13,6 +13,9 @@ Rules:
 
 Current notebooks:
 
+- `2026-04-27-ahsp-buffer-gate.ipynb` - computational evidence gate that keeps
+  `AHSP` as an optional alpha-globin-buffer readout, not a standalone therapy
+  lead.
 - `2026-04-27-ampk-nrf2-expansion-gate.ipynb` - computational evidence gate
   for the `AMPKB1` / `NRF2` expansion lane, including metformin as a
   translational warning comparator.

@@ -48,6 +48,11 @@ The `AMPKB1` / `NRF2` expansion gate keeps selective probes as assay-only and
 keeps metformin as a low-priority warning comparator, not a lead, because the
 retrieved NTDT human study did not show extra benefit over stable hydroxyurea.
 
+The `AHSP` buffer gate adds `AHSP` as an optional expanded readout, not as a
+required first-panel endpoint and not as a therapy lane. It is useful if the lab
+can measure alpha-globin buffering beside HbF, alpha-globin burden, autophagy,
+maturation, viability, and hemolysis.
+
 ## Required Feasibility Questions
 
 Ask the lab to answer:
@@ -62,6 +67,8 @@ Ask the lab to answer:
 - Can you measure alpha/non-alpha globin balance or free alpha-globin burden?
 - For sirolimus, can you measure `ULK1`, p62 / `SQSTM1`, or another
   flux-aware autophagy readout?
+- Can you measure `AHSP` mRNA or protein if it is kept as an optional expanded
+  alpha-globin-buffer readout?
 - Can you document compound or extract identity, vehicle, concentration range,
   replicates, raw data, and methods?
 - What ethics, biosafety, material-transfer, or import constraints apply?
@@ -102,6 +109,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 - [First wet-lab panel optimizer result](../findings/2026-04-27-first-wet-lab-panel-optimizer-result.md)
 - [Dual-readout panel prioritizer result](../findings/2026-04-27-dual-readout-panel-prioritizer-result.md)
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
+- [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md)

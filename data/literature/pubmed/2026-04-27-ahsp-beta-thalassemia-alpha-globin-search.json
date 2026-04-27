@@ -1,0 +1,271 @@
+{
+  "count": 10,
+  "query": "alpha hemoglobin stabilizing protein beta thalassemia alpha globin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31894534"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12185-019-02806-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12185-019-02806-8"
+        }
+      ],
+      "journal": "Int J Hematol",
+      "pmid": "31894534",
+      "pubdate": "2020 Mar",
+      "title": "Alpha-hemoglobin-stabilizing protein (AHSP): a modulatory factor in \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36618286"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9759226"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9759226;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.22092/ARI.2022.357268.2007"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ARI-77-3"
+        }
+      ],
+      "journal": "Arch Razi Inst",
+      "pmid": "36618286",
+      "pubdate": "2022 Jun",
+      "title": "Alpha-Hemoglobin Stabilizing Protein Gene Polymorphism (rs4499252 A/G) and its Association with Beta-Thalassemia Major in Iraqi Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38731008"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11084795"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11084795;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm13092479"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm13092479"
+        }
+      ],
+      "journal": "J Clin Med",
+      "pmid": "38731008",
+      "pubdate": "2024 Apr 24",
+      "title": "Increased Expression of \u03b1-Hemoglobin Stabilizing Protein (AHSP) mRNA in Erythroid Precursor Cells Isolated from \u03b2-Thalassemia Patients Treated with Sirolimus (Rapamycin)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26142324"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2015.05.005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(15)00093-5"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "26142324",
+      "pubdate": "2015 Aug",
+      "title": "Alpha hemoglobin stabilizing protein: Its causal relationship with the severity of beta thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31190133"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-019-03722-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-019-03722-x"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "31190133",
+      "pubdate": "2019 Aug",
+      "title": "Association of alpha hemoglobin-stabilizing protein (AHSP) gene mutation and disease severity among HbE-beta thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20815047"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS452826"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3632304"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3632304;manuscript-id: NIHMS452826;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.21829"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "20815047",
+      "pubdate": "2010 Oct",
+      "title": "Analysis of alpha hemoglobin stabilizing protein overexpression in murine \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20036801"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2741/3601"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "3601"
+        }
+      ],
+      "journal": "Front Biosci (Landmark Ed)",
+      "pmid": "20036801",
+      "pubdate": "2010 Jan 1",
+      "title": "Alpha-hemoglobin stabilizing protein: molecular function and clinical correlation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21490703"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3070166"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3070166;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2011/373859"
+        }
+      ],
+      "journal": "Biochem Res Int",
+      "pmid": "21490703",
+      "pubdate": "2011",
+      "title": "Alpha-hemoglobin-stabilizing protein: an erythroid molecular chaperone."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14715623"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2003-11-3957"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)43716-4"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "14715623",
+      "pubdate": "2004 May 1",
+      "title": "Evaluation of alpha hemoglobin stabilizing protein (AHSP) as a genetic modifier in patients with beta thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20627634"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2010.04.005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(10)00119-1"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "20627634",
+      "pubdate": "2010 Aug 15",
+      "title": "Analysis of alpha-hemoglobin-stabilizing protein (AHSP) gene as a genetic modifier to the phenotype of beta-thalassemia in Southern China."
+    }
+  ]
+}

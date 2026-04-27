@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "Nrf2 AHSP beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35092867"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8801382"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8801382;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2022.102239"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(22)00011-8"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "35092867",
+      "pubdate": "2022 Apr",
+      "title": "Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of \u03b2-thalassemia."
+    }
+  ]
+}

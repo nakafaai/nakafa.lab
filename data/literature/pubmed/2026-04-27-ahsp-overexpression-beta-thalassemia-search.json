@@ -1,0 +1,95 @@
+{
+  "count": 3,
+  "query": "AHSP overexpression beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35092867"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8801382"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8801382;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.redox.2022.102239"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2213-2317(22)00011-8"
+        }
+      ],
+      "journal": "Redox Biol",
+      "pmid": "35092867",
+      "pubdate": "2022 Apr",
+      "title": "Nrf2 expands the intracellular pool of the chaperone AHSP in a cellular model of \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20815047"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS452826"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3632304"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3632304;manuscript-id: NIHMS452826;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.21829"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "20815047",
+      "pubdate": "2010 Oct",
+      "title": "Analysis of alpha hemoglobin stabilizing protein overexpression in murine \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18768527"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.13490"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.13490"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "18768527",
+      "pubdate": "2008 Dec",
+      "title": "Controlling alpha-globin: a review of alpha-globin expression and its impact on beta-thalassemia."
+    }
+  ]
+}

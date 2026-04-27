@@ -589,6 +589,11 @@ data/literature/pubmed/2026-04-27-metformin-hbf-thalassemia-search.json
 data/literature/pubmed/2026-04-27-ampkb1-nrf2-ulk1-hbf-refresh.json
 data/literature/pubmed/2026-04-27-nrf2-hbf-beta-thalassemia-search.json
 data/literature/pubmed/2026-04-27-pf-06409577-ampk-search.json
+data/literature/pubmed/2026-04-27-ahsp-beta-thalassemia-alpha-globin-search.json
+data/literature/pubmed/2026-04-27-ahsp-overexpression-beta-thalassemia-search.json
+data/literature/pubmed/2026-04-27-nrf2-ahsp-beta-thalassemia-search.json
+data/literature/pubmed/2026-04-27-sirolimus-ahsp-beta-thalassemia-search.json
+data/literature/pubmed/2026-04-27-ahsp-selected-abstracts.xml
 data/regulatory/bpom/2026-04-27-thalassemia-advanced-therapy-product-search.json
 data/regulatory/bpom/2026-04-27-sirolimus-product-search.json
 pyproject.toml
@@ -606,10 +611,12 @@ research/thalassemia/findings/2026-04-27-ampk-nrf2-expansion-gate.md
 research/thalassemia/findings/2026-04-27-experiment-status-boundary.md
 research/thalassemia/findings/2026-04-27-first-wet-lab-panel-optimizer-result.md
 research/thalassemia/findings/2026-04-27-dual-readout-panel-prioritizer-result.md
+research/thalassemia/findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
 research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
+research/thalassemia/notebooks/2026-04-27-ahsp-buffer-gate.ipynb
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json

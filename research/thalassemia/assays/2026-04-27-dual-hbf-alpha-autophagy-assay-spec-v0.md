@@ -28,6 +28,15 @@ preserving erythroid maturation and mature red-cell safety.
 | viability and apoptosis | viability dye and apoptosis assay | rejects stress-driven HbF artifacts |
 | mature red-cell hemolysis | hemolysis or membrane-damage assay | rejects candidates that worsen red-cell fragility |
 
+## Expanded Readouts
+
+These are useful if a qualified lab can add them without weakening the minimum
+panel:
+
+| Readout | Preferred method | Why it matters |
+| --- | --- | --- |
+| `AHSP` mRNA or protein | qPCR, ddPCR, RNA-seq, immunoblot, flow-compatible antibody, or lab-equivalent method | tests whether a candidate changes alpha-globin buffering, not just alpha-globin clearance |
+
 ## Evidence Anchors
 
 | Source signal | Assay lesson |
@@ -37,6 +46,9 @@ preserving erythroid maturation and mature red-cell safety.
 | PMID `39693613` | `AMBRA1` mutations can aggravate beta-thalassemia through impaired autophagy-mediated free alpha-globin clearance. |
 | PMID `37894732` | Sirolimus-treated beta-thalassemia erythroid precursors showed `ULK1` increase, p62 reduction, and lower alpha-globin. |
 | PMID `38891049` | Review-level synthesis frames HbF induction and autophagy induction as alpha-globin-burden reduction strategies. |
+| PMID `35092867` | `NRF2` can expand the `AHSP` pool in beta-thalassemia model context. |
+| PMID `38731008` | Sirolimus-treated beta-thalassemia erythroid precursors can show increased `AHSP` mRNA. |
+| PMID `20815047` | `AHSP` overexpression alone did not produce major hematologic rescue in a murine beta-thalassemia model. |
 
 ## Pass, Hold, Reject
 
@@ -74,8 +86,8 @@ Reject if:
 | Candidate class | Dual-readout expectation |
 | --- | --- |
 | hydroxyurea | positive HbF comparator; not expected to solve every alpha-globin/autophagy endpoint |
-| sirolimus | monitored autophagy/HbF comparator; requires strict immune and drug-monitoring boundary |
-| `AMPKB1` / `NRF2` lane | target-discovery bridge; requires beta-thalassemia validation before promotion |
+| sirolimus | monitored autophagy/HbF/`AHSP` comparator; requires strict immune and drug-monitoring boundary |
+| `AMPKB1` / `NRF2` lane | target-discovery bridge; `AHSP` is an optional buffer readout, not proof of rescue |
 | metformin | translational warning comparator; not promoted because retrieved NTDT evidence did not show extra benefit over stable hydroxyurea |
 | curcuminoid or resveratrol seeds | must show HbF plus safety before autophagy language is used |
 | ginger/6-shogaol support lane | red-cell support comparator unless HbF and alpha-globin endpoints are proven |
@@ -100,6 +112,7 @@ free_or_insoluble_alpha_globin:
 ULK1_state:
 p62_SQSTM1_state:
 autophagy_flux_context:
+AHSP_mRNA_or_protein_optional:
 erythroid_maturation:
 viability:
 apoptosis:
@@ -128,6 +141,7 @@ research gate.
 - [Mechanism gap matrix](../findings/2026-04-27-mechanism-gap-matrix.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
+- [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Alpha-globin/autophagy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json)
@@ -136,3 +150,5 @@ research gate.
 - [miR-144/451 Blood article, PMID 37339583](https://pubmed.ncbi.nlm.nih.gov/37339583/)
 - [ULK1 Science Translational Medicine article, PMID 31434755](https://pubmed.ncbi.nlm.nih.gov/31434755/)
 - [Sirolimus ULK1 alpha-globin article, PMID 37894732](https://pubmed.ncbi.nlm.nih.gov/37894732/)
+- [NRF2 AHSP article, PMID 35092867](https://pubmed.ncbi.nlm.nih.gov/35092867/)
+- [Sirolimus AHSP article, PMID 38731008](https://pubmed.ncbi.nlm.nih.gov/38731008/)

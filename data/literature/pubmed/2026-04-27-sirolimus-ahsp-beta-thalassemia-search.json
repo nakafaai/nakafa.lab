@@ -1,0 +1,72 @@
+{
+  "count": 2,
+  "query": "sirolimus AHSP beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38731008"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11084795"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11084795;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/jcm13092479"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jcm13092479"
+        }
+      ],
+      "journal": "J Clin Med",
+      "pmid": "38731008",
+      "pubdate": "2024 Apr 24",
+      "title": "Increased Expression of \u03b1-Hemoglobin Stabilizing Protein (AHSP) mRNA in Erythroid Precursor Cells Isolated from \u03b2-Thalassemia Patients Treated with Sirolimus (Rapamycin)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40655320"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12245733"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12245733;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/bjbs.2025.14311"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "14311"
+        }
+      ],
+      "journal": "Br J Biomed Sci",
+      "pmid": "40655320",
+      "pubdate": "2025",
+      "title": "Co-Induction of ULK-1 and AHSP mRNAs in Erythroid Precursor Cells Isolated From a Sirolimus-Treated \u03b2-Thalassemia Patient: A Case Report Study."
+    }
+  ]
+}

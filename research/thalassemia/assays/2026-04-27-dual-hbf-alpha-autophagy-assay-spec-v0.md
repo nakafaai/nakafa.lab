@@ -104,6 +104,7 @@ Reject if:
 | hydroxyurea | positive HbF comparator; not expected to solve every alpha-globin/autophagy endpoint |
 | sirolimus | monitored autophagy/HbF/`AHSP` comparator; requires strict immune and drug-monitoring boundary |
 | `AMPKB1` / `NRF2` lane | target-discovery bridge; `AHSP` is an optional buffer readout, not proof of rescue |
+| PF-06409577 | exact-material `AMPKB1` assay probe; requires CoA, purity, lot, vehicle, dose range, and full HbF plus alpha-globin/autophagy safety readouts |
 | alpha-globin rebalancing / `HBA` reduction | advanced chain-balance benchmark; useful for assay design, not a first affordable lab-panel candidate |
 | delta-globin / HbA2 induction | advanced non-beta-globin compensation benchmark; keep `HBD` and HbA2 separate from HbF claims |
 | metformin | translational warning comparator; not promoted because retrieved NTDT evidence did not show extra benefit over stable hydroxyurea |
@@ -161,6 +162,7 @@ research gate.
 - [Mechanism gap matrix](../findings/2026-04-27-mechanism-gap-matrix.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
+- [PF-06409577 probe material gate](../findings/2026-04-27-pf-06409577-probe-material-gate.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)

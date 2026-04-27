@@ -1,0 +1,18 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 71748255,
+        "MolecularFormula": "C19H16ClNO3",
+        "MolecularWeight": "341.8",
+        "ConnectivitySMILES": "C1CC(C1)(C2=CC=C(C=C2)C3=C(C=C4C(=C3)C(=CN4)C(=O)O)Cl)O",
+        "InChIKey": "FHQXLWCFSUSXBF-UHFFFAOYSA-N",
+        "XLogP": 3.6,
+        "TPSA": 73.3,
+        "HBondDonorCount": 3,
+        "HBondAcceptorCount": 3,
+        "RotatableBondCount": 3
+      }
+    ]
+  }
+}

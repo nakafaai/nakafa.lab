@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 71748255,
+        "Title": "PF-06409577"
+      },
+      {
+        "CID": 71748255,
+        "Description": "PF-06409577 is a chloroindole that is 6-chloro-1H-indole substituted by carboxy and 4-(1-hydroxycyclobutyl)phenyl groups at positions 3 and 5, respectively. It is a potent and selective allosteric activator of AMPK and a potential treatment for diabetic nephropathy. It has a role as an antiatherosclerotic agent, an antineoplastic agent, a nephroprotective agent and an EC 2.7.11.31 {[hydroxymethylglutaryl-CoA reductase (NADPH)] kinase} activator. It is a member of cyclobutanes, a member of benzenes, a tertiary alcohol, an indolecarboxylic acid and a chloroindole.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:231658"
+      }
+    ]
+  }
+}

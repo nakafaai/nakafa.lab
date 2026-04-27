@@ -1,0 +1,113 @@
+{
+  "count": 4,
+  "query": "PF-06409577 AMPK beta 1",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39855028"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envint.2025.109285"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0160-4120(25)00036-4"
+        }
+      ],
+      "journal": "Environ Int",
+      "pmid": "39855028",
+      "pubdate": "2025 Feb",
+      "title": "Activation of autophagy with PF-06409577 alleviates heatstroke-induced organ injury."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35294578"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9076735"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9076735;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00125-022-05673-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00125-022-05673-x"
+        }
+      ],
+      "journal": "Diabetologia",
+      "pmid": "35294578",
+      "pubdate": "2022 Jun",
+      "title": "Opposing effects on regulated insulin secretion of acute vs chronic stimulation of AMP-activated protein kinase."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41259521"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12629196"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12629196;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/sciadv.adx1144"
+        }
+      ],
+      "journal": "Sci Adv",
+      "pmid": "41259521",
+      "pubdate": "2025 Nov 21",
+      "title": "Selective AMPK\u03b21 activation induces fetal hemoglobin in human erythroid cells and sickle cell mice via the noncanonical NRF2 pathway."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30194276"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1124/dmd.118.083709"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0090-9556(24)05643-5"
+        }
+      ],
+      "journal": "Drug Metab Dispos",
+      "pmid": "30194276",
+      "pubdate": "2018 Dec",
+      "title": "6-Chloro-5-[4-(1-Hydroxycyclobutyl)Phenyl]-1H-Indole-3-Carboxylic Acid is a Highly Selective Substrate for Glucuronidation by UGT1A1, Relative to \u03b2-Estradiol."
+    }
+  ]
+}

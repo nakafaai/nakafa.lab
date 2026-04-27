@@ -1,0 +1,147 @@
+{
+  "count": 7,
+  "query": "5,7-dimethoxycoumarin phototoxicity",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4017567"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1600-0536.1985.tb01105.x"
+        }
+      ],
+      "journal": "Contact Dermatitis",
+      "pmid": "4017567",
+      "pubdate": "1985 Apr",
+      "title": "Identification of psoralen, 8-methoxypsoralen, isopimpinellin, and 5,7-dimethoxycoumarin in Pelea anisata H. Mann."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15112727"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1023/b:joec.0000017980.66124.d1"
+        }
+      ],
+      "journal": "J Chem Ecol",
+      "pmid": "15112727",
+      "pubdate": "2004 Feb",
+      "title": "Toxic effects of lemon peel constituents on Ceratitis capitata."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8069393"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/0021-9673(94)80606-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0021-9673(94)80606-3"
+        }
+      ],
+      "journal": "J Chromatogr A",
+      "pmid": "8069393",
+      "pubdate": "1994 Jun 24",
+      "title": "Rapid identification of some coumarin derivatives in deterpenated citrus peel oil by gas chromatography."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19725558"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/tx9002287"
+        }
+      ],
+      "journal": "Chem Res Toxicol",
+      "pmid": "19725558",
+      "pubdate": "2009 Sep",
+      "title": "Relative photomutagenicity of furocoumarins and limettin in the hypoxanthine phosphoribosyl transferase assay in V79 cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19770019"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2009.09.021"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(09)00429-3"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "19770019",
+      "pubdate": "2010 Jan",
+      "title": "Limettin and furocoumarins in beverages containing citrus juices or extracts."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24680798"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.fct.2014.03.014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0278-6915(14)00143-4"
+        }
+      ],
+      "journal": "Food Chem Toxicol",
+      "pmid": "24680798",
+      "pubdate": "2014 Jun",
+      "title": "Application of the equivalency factor concept to the phototoxicity and -genotoxicity of furocoumarin mixtures."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20690896"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/13880200903486636"
+        }
+      ],
+      "journal": "Pharm Biol",
+      "pmid": "20690896",
+      "pubdate": "2010 Sep",
+      "title": "In vitro photo-induced cytotoxic activity of Citrus bergamia and C. medica L. cv. Diamante peel essential oils and identified active coumarins."
+    }
+  ]
+}

@@ -9,6 +9,10 @@ Angelicin and bergapten are real natural-product HbF/gamma-globin seeds, but
 they should be treated as hazard-first mechanism probes rather than affordable
 therapy leads.
 
+Follow-on identity work resolves exact `4,6,4'-trimethylangelicin` and
+citropten as sub-lane comparators. They strengthen the mechanistic map, but
+they do not change the hazard-first decision.
+
 The reason is not weak biology. The retrieved literature connects
 furanocoumarins to erythroid differentiation, gamma-globin messenger RNA, and
 HbF-adjacent endpoints. The problem is safety translation: these compounds sit
@@ -21,6 +25,8 @@ phototoxicity, and cytotoxicity are central concerns.
 | --- | --- | --- | --- | --- |
 | angelicin | `CID 10658` | `CHEMBL53569` | `C11H6O3` | natural-product HbF seed; no retrieved thalassemia trial |
 | bergapten / 5-methoxypsoralen | `CID 2355` | `CHEMBL24171` | `C12H8O4` | natural-product HbF seed; no retrieved thalassemia trial |
+| exact `4,6,4'-trimethylangelicin` | `CID 107731` | `CHEMBL173365` | `C14H12O3` | angelicin-analog comparator; no retrieved thalassemia trial |
+| citropten / limettin | `CID 2775` | `CHEMBL481049` | `C11H10O4` | bergamot-component comparator; no retrieved thalassemia trial |
 
 ## Biomedical Evidence
 
@@ -102,4 +108,5 @@ comes from PubMed, PubChem, ChEMBL, and ClinicalTrials.gov evidence.
 - [Bergapten ChEMBL activities](../../../data/chemistry/chembl/natural-product-hbf/2026-04-27-bergapten-chembl-activities.json)
 - [Angelicin thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-angelicin-thalassemia-trials.json)
 - [Bergapten thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-bergapten-thalassemia-trials.json)
+- [Trimethylangelicin and citropten identity map](2026-04-27-trimethylangelicin-citropten-identity-map.md)
 - [Quran 6:99 structured note](../../islamic/quran/006-al-anam/099.md)

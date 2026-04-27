@@ -98,7 +98,7 @@ it still needs a supplier or synthesis batch before testing.
 | resveratrol | chemistry-resolved as PubChem `CID 445154` / ChEMBL `CHEMBL165`; PubMed PMID `22378234` reports HbF induction in beta-thalassemia patient erythroid precursors | use purified compound only; repeat endogenous HbF and hemolysis before ranking above trienone analogs |
 | `isocoronarin D` | chemistry-resolved as `CHEMBL1099267` / PubChem `CID 46871816`; K562 reporter `FC 1.6` at `20 uM` | hemolysis and K562 repeat before disease-cell escalation |
 | `3,4'-Di-O-methylquercetin` | chemistry-resolved as PubChem `CID 5380905` / `CHEMBL309263`; Springer abstract reports K562 reporter `2.6-fold` at `8 uM` | treat as quercetin analog, not quercetin supplement; repeat reporter and add endogenous HbF |
-| angelicin / bergapten | chemistry-resolved furanocoumarins; PubMed abstracts connect them to gamma-globin or HbF-adjacent induction | hazard-first mechanism probes only; require no-UVA handling, hemolysis, viability, genotoxicity, and phototoxicity review before promotion |
+| angelicin / bergapten / exact TMA / citropten | chemistry-resolved furanocoumarin/coumarin probes; PubMed abstracts connect them to gamma-globin or HbF-adjacent induction | hazard-first mechanism probes only; require no-UVA handling, hemolysis, viability, genotoxicity, and phototoxicity review before promotion |
 
 These seeds should be compared inside the same assay framework rather than as
 separate anecdotes. The first meaningful decision is not "is this a cure?" but
@@ -145,6 +145,7 @@ Every completed run should produce:
 - [T-BDMC cytotoxicity boundary](../findings/2026-04-27-t-bdmc-cytotoxicity-boundary.md)
 - [Resveratrol HbF beta-thalassemia seed](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Furanocoumarin HbF hazard map](../findings/2026-04-27-furanocoumarin-hbf-hazard-map.md)
+- [Trimethylangelicin and citropten identity map](../findings/2026-04-27-trimethylangelicin-citropten-identity-map.md)
 - [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
 - [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)

@@ -1,0 +1,201 @@
+{
+  "count": 10,
+  "query": "trimethylangelicin phototoxicity",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30022950"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6039571"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6039571;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fphar.2018.00719"
+        }
+      ],
+      "journal": "Front Pharmacol",
+      "pmid": "30022950",
+      "pubdate": "2018",
+      "title": "Molecular Mechanism of Action of Trimethylangelicin Derivatives as CFTR Modulators."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15664503"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jphotobiol.2004.11.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1011-1344(04)00172-1"
+        }
+      ],
+      "journal": "J Photochem Photobiol B",
+      "pmid": "15664503",
+      "pubdate": "2005 Feb 1",
+      "title": "Phototoxicity, distribution and kinetics of association of UVA-activated chlorpromazine, 8-methoxypsoralen, and 4,6,4'-trimethylangelicin in Jurkat cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2297508"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1365-2133.1990.tb08233.x"
+        }
+      ],
+      "journal": "Br J Dermatol",
+      "pmid": "2297508",
+      "pubdate": "1990 Jan",
+      "title": "The effect of photochemotherapy with 4,4',6 trimethylangelicin on murine cutaneous immune cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6547234"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1751-1097.1984.tb03887.x"
+        }
+      ],
+      "journal": "Photochem Photobiol",
+      "pmid": "6547234",
+      "pubdate": "1984 Apr",
+      "title": "4,4',6-Trimethylangelicin, a new very photoreactive and non skin-phototoxic monofunctional furocoumarin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8378430"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1751-1097.1993.tb04914.x"
+        }
+      ],
+      "journal": "Photochem Photobiol",
+      "pmid": "8378430",
+      "pubdate": "1993 Jul",
+      "title": "Furocoumarin sensitization induces DNA-protein cross-links."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "8810533"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/1011-1344(96)07295-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1011-1344(96)07295-8"
+        }
+      ],
+      "journal": "J Photochem Photobiol B",
+      "pmid": "8810533",
+      "pubdate": "1996 Jul",
+      "title": "Photobiological properties of a new tetramethylfuroquinolinone."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1723425"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/1011-1344(91)85007-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1011-1344(91)85007-4"
+        }
+      ],
+      "journal": "J Photochem Photobiol B",
+      "pmid": "1723425",
+      "pubdate": "1991 Aug",
+      "title": "Photobinding of 8-methoxypsoralen, 4,6,4'-trimethylangelicin and chlorpromazine to Wistar rat epidermal biomacromolecules in vivo."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2697531"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/9780470513842.ch11"
+        }
+      ],
+      "journal": "Ciba Found Symp",
+      "pmid": "2697531",
+      "pubdate": "1989",
+      "title": "Photosensitizing compounds in the treatment of psoriasis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "2081117"
+        }
+      ],
+      "journal": "Photodermatol Photoimmunol Photomed",
+      "pmid": "2081117",
+      "pubdate": "1990 Jun",
+      "title": "Photocarcinogenesis in mice by 4,4',6 trimethylangelicin plus UVA radiation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1933857"
+        }
+      ],
+      "journal": "Cancer Res",
+      "pmid": "1933857",
+      "pubdate": "1991 Nov 1",
+      "title": "Effect of psoralen plus ultraviolet A radiation on in vivo growth of melanoma cells."
+    }
+  ]
+}

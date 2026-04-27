@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 2775,
+        "MolecularFormula": "C11H10O4",
+        "MolecularWeight": "206.19",
+        "ConnectivitySMILES": "COC1=CC2=C(C=CC(=O)O2)C(=C1)OC",
+        "InChIKey": "NXJCRELRQHZBQA-UHFFFAOYSA-N",
+        "IUPACName": "5,7-dimethoxychromen-2-one",
+        "XLogP": 1.9,
+        "TPSA": 44.8,
+        "HBondDonorCount": 0,
+        "HBondAcceptorCount": 4,
+        "Title": "5,7-Dimethoxycoumarin"
+      }
+    ]
+  }
+}

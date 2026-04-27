@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "trimethyl angelicin gamma globin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19777196"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12185-009-0422-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12185-009-0422-2"
+        }
+      ],
+      "journal": "Int J Hematol",
+      "pmid": "19777196",
+      "pubdate": "2009 Oct",
+      "title": "Increase in gamma-globin mRNA content in human erythroid cells treated with angelicin analogs."
+    }
+  ]
+}

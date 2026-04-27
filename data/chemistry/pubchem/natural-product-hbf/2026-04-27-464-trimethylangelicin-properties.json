@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 107731,
+        "MolecularFormula": "C14H12O3",
+        "MolecularWeight": "228.24",
+        "ConnectivitySMILES": "CC1=CC2=C(C3=C1OC=C3C)OC(=O)C=C2C",
+        "InChIKey": "ZARUKNQGJBWWBA-UHFFFAOYSA-N",
+        "IUPACName": "4,6,9-trimethylfuro[2,3-h]chromen-2-one",
+        "XLogP": 3,
+        "TPSA": 39.4,
+        "HBondDonorCount": 0,
+        "HBondAcceptorCount": 3,
+        "Title": "4,6,9-Trimethyl-2H-furo(2,3-h)-1-benzopyran-2-one"
+      }
+    ]
+  }
+}

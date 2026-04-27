@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "citropten gamma globin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19371028"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/jf803489p"
+        }
+      ],
+      "journal": "J Agric Food Chem",
+      "pmid": "19371028",
+      "pubdate": "2009 May 27",
+      "title": "Bergamot (Citrus bergamia Risso) fruit extracts as \u03b3-globin gene expression inducers: phytochemical and functional perspectives."
+    }
+  ]
+}

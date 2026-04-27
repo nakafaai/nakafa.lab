@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 129664851,
+        "MolecularFormula": "C14H12O3",
+        "MolecularWeight": "228.24",
+        "ConnectivitySMILES": "CC1=CC2=C(C=CO2)C3=C1C(=C(C(=O)O3)C)C",
+        "InChIKey": "BWANQBUNIUOZBC-UHFFFAOYSA-N",
+        "IUPACName": "3,4,5-trimethylfuro[2,3-h]chromen-2-one",
+        "XLogP": 3,
+        "TPSA": 39.4,
+        "HBondDonorCount": 0,
+        "HBondAcceptorCount": 3,
+        "Title": "Trimethylangelicin"
+      }
+    ]
+  }
+}

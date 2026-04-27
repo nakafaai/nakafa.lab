@@ -60,6 +60,23 @@ Each run should return one table with:
 - pass, hold, or reject call;
 - reason for the decision.
 
+## BCL11A/HbF Signature Add-On
+
+For candidates that raise HbF or `HBG1/HBG2`, add a mechanism table when the
+lab can do it:
+
+- `BCL11A` messenger RNA or protein;
+- `HBG1/HBG2` messenger RNA;
+- HbF protein or F-cell percentage;
+- erythroid maturation markers such as `CD71` and `CD235a`;
+- viability and apoptosis;
+- mature red-cell hemolysis.
+
+Use BCL11A knockdown/editing only as lab-controlled biology, not as a patient
+treatment proposal. CRBN/IMiD comparators such as pomalidomide or avadomide are
+high-caution mechanism comparators and should not be promoted as affordable
+leads without disease-specific safety review.
+
 ## Promotion Rules
 
 Promote only if:
@@ -100,3 +117,4 @@ the few candidates that deserve deeper testing.
 - [Ginger shogaol red-cell support map](../findings/2026-04-27-ginger-shogaol-red-cell-support-map.md)
 - [Melittin bee-venom hazard deep dive](../findings/2026-04-27-melittin-bee-venom-hazard-deep-dive.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
+- [BCL11A HbF switch mimic boundary](../findings/2026-04-27-bcl11a-hbf-switch-mimic-boundary.md)

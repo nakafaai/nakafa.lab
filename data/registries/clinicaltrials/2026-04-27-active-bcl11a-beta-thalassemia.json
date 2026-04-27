@@ -1,0 +1,127 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=BCL11A&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Germany",
+        "Italy",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-23",
+      "nct_id": "NCT05477563",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Fetal Hemoglobin (HbF) Concentration Over Time",
+        "Total Hemoglobin (Hb) Concentration Over Time"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluation of Efficacy and Safety of a Single Dose of CTX001 in Participants With Transfusion-Dependent \u03b2-Thalassemia and Severe Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490627",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "transfusion dependency"
+      ],
+      "status": "RECRUITING",
+      "title": "Unraveling the Impact of Thalidomide at Diverse Doses in Transfusion Dependent Beta Thalassemia"
+    },
+    {
+      "countries": [
+        "Canada",
+        "Germany",
+        "Italy",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-03",
+      "nct_id": "NCT05356195",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Proportion of Participants who Achieve Transfusion Independence for at Least 12 Consecutive Months (TI12)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Evaluation of Safety and Efficacy of CTX001 in Pediatric Participants With Transfusion-Dependent \u03b2-Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Autologous CD34+ HSC cells transduced with the lentiviral vector containing a shRNA targeting BCL11a"
+      ],
+      "last_update": "2025-04-18",
+      "nct_id": "NCT05353647",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Occurrence of VOEs by Month 24 post-infusion"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Gene Transfer Study Inducing Fetal Hemoglobin in Sickle Cell Disease (GRASP, BMT CTN 2001)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "single infusion of autologous bone marrow derived CD34+ HSC cells transduced with the lentiviral vector containing a short-hairpin RNA targeting BCL11a"
+      ],
+      "last_update": "2026-01-09",
+      "nct_id": "NCT03282656",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Rescue of hematopoiesis after conditioning"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Gene Transfer for Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "autologous bone marrow derived CD34+ HSPCs electroporated with BCL11A enhancer targeting Cas9 ribonucleoprotein",
+        "Sequencing Assay for Variant rs114518452"
+      ],
+      "last_update": "2026-02-03",
+      "nct_id": "NCT06647979",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Primary engraftment"
+      ],
+      "status": "RECRUITING",
+      "title": "Hematopoietic Stem Cell BCL11A Enhancer Gene Editing for Severe \u03b2-Hemoglobinopathies"
+    }
+  ],
+  "total_count": 6
+}

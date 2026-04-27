@@ -1,0 +1,342 @@
+{
+  "count": 12,
+  "query": "BCL11A enhancer fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33283989"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2031054"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "33283989",
+      "pubdate": "2021 Jan 21",
+      "title": "CRISPR-Cas9 Gene Editing for Sickle Cell Disease and \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38657265"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2309673"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "38657265",
+      "pubdate": "2024 May 9",
+      "title": "Exagamglogene Autotemcel for Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30911135"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1521848"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6512986"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6512986;manuscript-id: NIHMS1521848;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-019-0401-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-019-0401-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "30911135",
+      "pubdate": "2019 May",
+      "title": "Highly efficient therapeutic gene editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37400614"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1927139"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10722557"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10722557;manuscript-id: NIHMS1927139;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-023-01434-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-023-01434-7"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "37400614",
+      "pubdate": "2023 Jul",
+      "title": "Potent and uniform fetal hemoglobin induction via base editing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31039344"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2019.04.042"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(19)30284-5"
+        }
+      ],
+      "journal": "Eur J Pharmacol",
+      "pmid": "31039344",
+      "pubdate": "2019 Jul 5",
+      "title": "Targeted deletion of BCL11A gene by CRISPR-Cas9 system for fetal hemoglobin reactivation: A promising approach for gene therapy of beta thalassemia disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39017845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/978-3-031-62731-6_9"
+        }
+      ],
+      "journal": "Adv Exp Med Biol",
+      "pmid": "39017845",
+      "pubdate": "2024",
+      "title": "Transcriptional Repressor BCL11A in Erythroid Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32284612"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1661824"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7869435"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7869435;manuscript-id: NIHMS1661824;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-020-0790-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-020-0790-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "32284612",
+      "pubdate": "2020 Apr",
+      "title": "Therapeutic base editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39736768"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11687217"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11687217;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13287-024-04117-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13287-024-04117-0"
+        }
+      ],
+      "journal": "Stem Cell Res Ther",
+      "pmid": "39736768",
+      "pubdate": "2024 Dec 31",
+      "title": "Enhanced fetal hemoglobin production via dual-beneficial mutation editing of the HBG promoter in hematopoietic stem and progenitor cells for \u03b2-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34175041"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/bs.pmbts.2021.01.025"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1877-1173(21)00036-3"
+        }
+      ],
+      "journal": "Prog Mol Biol Transl Sci",
+      "pmid": "34175041",
+      "pubdate": "2021",
+      "title": "Genome editing approaches to \u03b2-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30182035"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6120587"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6120587;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.omtm.2018.08.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2329-0501(18)30080-9"
+        }
+      ],
+      "journal": "Mol Ther Methods Clin Dev",
+      "pmid": "30182035",
+      "pubdate": "2018 Sep 21",
+      "title": "Disruption of the BCL11A Erythroid Enhancer Reactivates Fetal Hemoglobin in Erythroid Cells of Patients with \u03b2-Thalassemia Major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35526095"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9372373"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9372373;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ymthe.2022.05.002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1525-0016(22)00299-4"
+        }
+      ],
+      "journal": "Mol Ther",
+      "pmid": "35526095",
+      "pubdate": "2022 Aug 3",
+      "title": "Development of a double shmiR lentivirus effectively targeting both BCL11A and ZNF410 for enhanced induction of fetal hemoglobin to treat \u03b2-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40446669"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2025.102936"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(25)00028-2"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "40446669",
+      "pubdate": "2025 Jul-Sep",
+      "title": "Thalidomide confers therapeutic benefit in beta thalassemia patients by enhancing hemoglobin and hematopoietic gene expression: A non-randomized clinical trial."
+    }
+  ]
+}

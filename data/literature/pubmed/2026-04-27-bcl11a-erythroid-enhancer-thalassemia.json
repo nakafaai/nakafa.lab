@@ -1,0 +1,337 @@
+{
+  "count": 12,
+  "query": "BCL11A erythroid enhancer beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33283989"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2031054"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "33283989",
+      "pubdate": "2021 Jan 21",
+      "title": "CRISPR-Cas9 Gene Editing for Sickle Cell Disease and \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35922667"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-022-01906-z"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-022-01906-z"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "35922667",
+      "pubdate": "2022 Aug",
+      "title": "CRISPR-Cas9-mediated gene editing of the BCL11A enhancer for pediatric \u03b2(0)/\u03b2(0) transfusion-dependent \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38657265"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa2309673"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "38657265",
+      "pubdate": "2024 May 9",
+      "title": "Exagamglogene Autotemcel for Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30911135"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1521848"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6512986"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6512986;manuscript-id: NIHMS1521848;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-019-0401-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-019-0401-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "30911135",
+      "pubdate": "2019 May",
+      "title": "Highly efficient therapeutic gene editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37400614"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1927139"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10722557"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10722557;manuscript-id: NIHMS1927139;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-023-01434-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-023-01434-7"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "37400614",
+      "pubdate": "2023 Jul",
+      "title": "Potent and uniform fetal hemoglobin induction via base editing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39017845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/978-3-031-62731-6_9"
+        }
+      ],
+      "journal": "Adv Exp Med Biol",
+      "pmid": "39017845",
+      "pubdate": "2024",
+      "title": "Transcriptional Repressor BCL11A in Erythroid Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32284612"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1661824"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7869435"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7869435;manuscript-id: NIHMS1661824;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41591-020-0790-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41591-020-0790-y"
+        }
+      ],
+      "journal": "Nat Med",
+      "pmid": "32284612",
+      "pubdate": "2020 Apr",
+      "title": "Therapeutic base editing of human hematopoietic stem cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28639471"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2217/pgs-2017-0019"
+        }
+      ],
+      "journal": "Pharmacogenomics",
+      "pmid": "28639471",
+      "pubdate": "2017 Jul",
+      "title": "An enhancer haplotype may influence BCL11A expression levels and the response to hydroxyurea in \u03b2-thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30182035"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6120587"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6120587;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.omtm.2018.08.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2329-0501(18)30080-9"
+        }
+      ],
+      "journal": "Mol Ther Methods Clin Dev",
+      "pmid": "30182035",
+      "pubdate": "2018 Sep 21",
+      "title": "Disruption of the BCL11A Erythroid Enhancer Reactivates Fetal Hemoglobin in Erythroid Cells of Patients with \u03b2-Thalassemia Major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37906269"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-023-05508-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-023-05508-8"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "37906269",
+      "pubdate": "2024 Aug",
+      "title": "Activating transcription factor 4 in erythroid development and \u03b2 -thalassemia: a powerful regulator with therapeutic potential."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40196665"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11974897"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11974897;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1101/2025.03.24.645036"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2025.03.24.645036"
+        }
+      ],
+      "journal": "bioRxiv",
+      "pmid": "40196665",
+      "pubdate": "2025 Mar 25",
+      "title": "MLL1 complex is a critical regulator of fetal hemoglobin repression."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37298481"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10253463"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10253463;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/ijms24119527"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "ijms24119527"
+        }
+      ],
+      "journal": "Int J Mol Sci",
+      "pmid": "37298481",
+      "pubdate": "2023 May 31",
+      "title": "Precision Editing as a Therapeutic Approach for \u03b2-Hemoglobinopathies."
+    }
+  ]
+}

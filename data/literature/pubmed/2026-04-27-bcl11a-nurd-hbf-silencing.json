@@ -1,0 +1,143 @@
+{
+  "count": 4,
+  "query": "BCL11A NuRD fetal hemoglobin silencing",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37924864"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1993620"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11185177"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11185177;manuscript-id: NIHMS1993620;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmb.2023.168343"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-2836(23)00454-0"
+        }
+      ],
+      "journal": "J Mol Biol",
+      "pmid": "37924864",
+      "pubdate": "2024 Apr 1",
+      "title": "C2H2 Zinc Finger Transcription Factors Associated with Hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26816381"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS762363"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4778394"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4778394;manuscript-id: NIHMS762363;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/science.aad3312"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "351/6270/285"
+        }
+      ],
+      "journal": "Science",
+      "pmid": "26816381",
+      "pubdate": "2016 Jan 15",
+      "title": "Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23444401"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3637018"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3637018;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2012-11-466227"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)58540-6"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "23444401",
+      "pubdate": "2013 Apr 25",
+      "title": "Mi2\u03b2-mediated silencing of the fetal \u03b3-globin gene in adult erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37307480"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10288633"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10288633;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1073/pnas.2302254120"
+        }
+      ],
+      "journal": "Proc Natl Acad Sci U S A",
+      "pmid": "37307480",
+      "pubdate": "2023 Jun 20",
+      "title": "MBD2a-NuRD binds to the methylated \u03b3-globin gene promoter and uniquely forms a complex required for silencing of HbF expression."
+    }
+  ]
+}

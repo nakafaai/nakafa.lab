@@ -1,0 +1,342 @@
+{
+  "count": 12,
+  "query": "BCL11A small molecule fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39607926"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS2140889"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12924673"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12924673;manuscript-id: NIHMS2140889;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/science.adp3025"
+        }
+      ],
+      "journal": "Science",
+      "pmid": "39607926",
+      "pubdate": "2024 Nov 29",
+      "title": "A tetramer of BCL11A is required for stable protein production and fetal hemoglobin silencing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39504332"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11540224"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11540224;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0307049"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-24-26300"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "39504332",
+      "pubdate": "2024",
+      "title": "Identification of small molecule agonists of fetal hemoglobin expression for the treatment of sickle cell disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39017845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/978-3-031-62731-6_9"
+        }
+      ],
+      "journal": "Adv Exp Med Biol",
+      "pmid": "39017845",
+      "pubdate": "2024",
+      "title": "Transcriptional Repressor BCL11A in Erythroid Cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35418266"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/14728222.2022.2066519"
+        }
+      ],
+      "journal": "Expert Opin Ther Targets",
+      "pmid": "35418266",
+      "pubdate": "2022 Apr",
+      "title": "Targeting fetal hemoglobin expression to treat \u03b2 hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39736768"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11687217"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11687217;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13287-024-04117-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13287-024-04117-0"
+        }
+      ],
+      "journal": "Stem Cell Res Ther",
+      "pmid": "39736768",
+      "pubdate": "2024 Dec 31",
+      "title": "Enhanced fetal hemoglobin production via dual-beneficial mutation editing of the HBG promoter in hematopoietic stem and progenitor cells for \u03b2-hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29159826"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcp.26292"
+        }
+      ],
+      "journal": "J Cell Physiol",
+      "pmid": "29159826",
+      "pubdate": "2018 Jun",
+      "title": "Pharmacological and molecular approaches for the treatment of \u03b2-hemoglobin disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37924864"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1993620"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11185177"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11185177;manuscript-id: NIHMS1993620;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jmb.2023.168343"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0022-2836(23)00454-0"
+        }
+      ],
+      "journal": "J Mol Biol",
+      "pmid": "37924864",
+      "pubdate": "2024 Apr 1",
+      "title": "C2H2 Zinc Finger Transcription Factors Associated with Hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36589886"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9801508"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9801508;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1021/acscentsci.2c00998"
+        }
+      ],
+      "journal": "ACS Cent Sci",
+      "pmid": "36589886",
+      "pubdate": "2022 Dec 28",
+      "title": "A Cell-Permeant Nanobody-Based Degrader That Induces Fetal Hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38862078"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.exphem.2024.104250"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0301-472X(24)00109-7"
+        }
+      ],
+      "journal": "Exp Hematol",
+      "pmid": "38862078",
+      "pubdate": "2024 Sep",
+      "title": "Mechanistic and kinetic insights into transcription factor biology via acute protein depletion."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28776729"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS911105"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5648331"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5648331;manuscript-id: NIHMS911105;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.24879"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "28776729",
+      "pubdate": "2017 Nov",
+      "title": "SIRT1 activates the expression of fetal hemoglobin genes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32956454"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7509868"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7509868;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2020002475"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2473-9529(20)31538-X"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "32956454",
+      "pubdate": "2020 Sep 22",
+      "title": "HRI depletion cooperates with pharmacologic inducers to elevate fetal hemoglobin and reduce sickle cell formation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41830511"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12988568"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12988568;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.70220"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "41830511",
+      "pubdate": "2026 Apr",
+      "title": "Genetics and Genomics in Sickle Cell Disease in Africa."
+    }
+  ]
+}

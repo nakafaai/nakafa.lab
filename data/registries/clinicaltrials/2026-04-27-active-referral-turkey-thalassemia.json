@@ -1,0 +1,316 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&query.locn=Turkey&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770753",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-Blind Period: Percentage of Participants Who Achieved Hemoglobin (Hb) Response From Week 12 Through Week 24 Compared With Baseline"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Non-Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-NTDT)"
+    },
+    {
+      "countries": [
+        "Australia",
+        "Belgium",
+        "Bulgaria",
+        "Canada",
+        "China",
+        "France",
+        "Germany",
+        "Greece",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Spain",
+        "Sweden",
+        "Taiwan",
+        "Thailand",
+        "Tunisia",
+        "Turkey (T\u00fcrkiye)",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2025-11-12",
+      "nct_id": "NCT04064060",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Adverse Events (AEs)",
+        "Number of participants progressing to high/very high risk MDS or AML.",
+        "Percentage of participants progressing to high/very high risk MDS or AML",
+        "Number of participants developing other malignancies/pre-malignancies",
+        "Percentage of participants developing other malignancies/pre-malignancies"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Evaluate Long-term Safety in Participants Who Have Participated in Other Luspatercept (ACE-536) Clinical Trials"
+    },
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770779",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-blind Period: Percentage of Participants Who Achieved Transfusion Reduction Response (TRR)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)"
+    },
+    {
+      "countries": [
+        "China",
+        "Germany",
+        "Greece",
+        "India",
+        "Italy",
+        "Lebanon",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United States"
+      ],
+      "interventions": [
+        "ACE-536"
+      ],
+      "last_update": "2026-01-06",
+      "nct_id": "NCT04143724",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Determination of the Recommended Dose (RD",
+        "Pharmacokinetics - Cmax",
+        "Pharmacokinetics - AUC",
+        "Pharmacokinetics (PK) - t1/2",
+        "Pharmacokinetics (PK) - CL/F",
+        "Pharmacokinetics (PK) - Vd/F"
+      ],
+      "status": "RECRUITING",
+      "title": "Study of Safety & PK of Luspatercept (ACE-536) in Pediatric Participants With Beta (\u03b2)-Thalassemia"
+    },
+    {
+      "countries": [
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "laughter yoga"
+      ],
+      "last_update": "2025-05-20",
+      "nct_id": "NCT06980662",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "The Chronic Disease Therapy-Functional Assessment of Fatigue (FACIT-Fatigue) Scale"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "The Effect of Laughter Yoga in Beta Thalassaemia Major Patients: a Randomised Controlled Trial"
+    },
+    {
+      "countries": [
+        "Australia",
+        "Belgium",
+        "Bulgaria",
+        "Canada",
+        "Chile",
+        "China",
+        "France",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "India",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Lebanon",
+        "Mexico",
+        "Poland",
+        "Portugal",
+        "Russia",
+        "South Africa",
+        "South Korea",
+        "Spain",
+        "Sweden",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "ruxolitinib",
+        "panobinostat"
+      ],
+      "last_update": "2026-03-16",
+      "nct_id": "NCT02386800",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "Incidence and severity of AEs and SAEs"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "CINC424A2X01B Rollover Protocol"
+    },
+    {
+      "countries": [
+        "Georgia",
+        "Greece",
+        "India",
+        "Italy",
+        "Malaysia",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "REGN7999",
+        "Placebo"
+      ],
+      "last_update": "2026-03-18",
+      "nct_id": "NCT06421636",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Change from baseline in Liver Iron Concentration (LIC) by R2* Magnetic Resonance Imaging (MRI)",
+        "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "Severity of TEAEs"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Test the Safety, Tolerability, and Efficacy of an Antibody, REGN7999, Injected Under the Skin for the Treatment of Iron Overload in Adult Participants With Non-Transfusion Dependent \u03b2-thalassemia, Using MRI Scans to Measure Iron Levels in the Body"
+    },
+    {
+      "countries": [
+        "Canada",
+        "China",
+        "Greece",
+        "Hong Kong",
+        "Italy",
+        "Malaysia",
+        "Saudi Arabia",
+        "Singapore",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "Luspatercept",
+        "Placebo"
+      ],
+      "last_update": "2026-03-24",
+      "nct_id": "NCT05664737",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of participants with \u2265 50% reduction from baseline in RBC transfusion burden with a reduction of at least 2 units during any continuous 12 weeks during Week 13-48 compared to 12-week interval immediately prior to date of first dose",
+        "Number of participants with an increase from baseline of \u2265 1.0 grams (g)/decilitre (dL) in mean hemoglobin (Hb) values over the continuous 12-week interval from Week 13 to Week 24 in the absence of RBC transfusion",
+        "Dose-limiting toxicities (DLTs) defined as observance of \u2265 Grade 3-related hemolytic crises or \u2265 Grade 3-related event outside of the known safety profile occurring within the 21 days from their first dose of study therapy",
+        "Number of participants with adverse events (AEs)",
+        "Pharmacokinetics (PK): Serum concentration of Luspatercept"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Determine the Efficacy and Safety of Luspatercept in Adult Participants and to Evaluate the Safety and Pharmacokinetics in and Adolescent Participants With Alpha (\u03b1)-Thalassemia"
+    },
+    {
+      "countries": [
+        "Canada",
+        "Egypt",
+        "France",
+        "Germany",
+        "Ghana",
+        "Greece",
+        "India",
+        "Italy",
+        "Kenya",
+        "Lebanon",
+        "Nigeria",
+        "Oman",
+        "Saudi Arabia",
+        "Spain",
+        "Turkey (T\u00fcrkiye)",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Etavopivat A",
+        "Etavopivat B",
+        "Etavopivat C"
+      ],
+      "last_update": "2026-03-24",
+      "nct_id": "NCT06609226",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Number of treatment emergent adverse events (TEAEs), reported for each indication and age group separately",
+        "Number of adverse reactions, reported for each indication and age group separately"
+      ],
+      "status": "RECRUITING",
+      "title": "A Research Study Looking at Long-term Treatment With Etavopivat in People With Sickle Cell Disease or Thalassaemia"
+    }
+  ],
+  "total_count": 9
+}

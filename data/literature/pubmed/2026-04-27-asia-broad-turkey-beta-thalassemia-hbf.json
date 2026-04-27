@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "query": "Turkey beta thalassemia fetal hemoglobin hydroxyurea",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41091058"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12922553"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12922553;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4274/tjh.galenos.2025.2025.0278"
+        }
+      ],
+      "journal": "Turk J Haematol",
+      "pmid": "41091058",
+      "pubdate": "2026 Feb 20",
+      "title": "Expression of Immune Checkpoints LAG-3, CTLA-4, TIM-3, and PD-1 in Beta-Thalassemia Patients Treated Using HbF Augmentation Therapy and Regular Transfusions."
+    }
+  ]
+}

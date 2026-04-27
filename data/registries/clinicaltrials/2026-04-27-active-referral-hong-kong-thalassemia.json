@@ -1,0 +1,61 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&query.locn=Hong+Kong&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Hong Kong"
+      ],
+      "interventions": [
+        "in-utero HSCT"
+      ],
+      "last_update": "2023-04-12",
+      "nct_id": "NCT05797272",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Rate of maternal complications",
+        "Rate of survival of fetus"
+      ],
+      "status": "RECRUITING",
+      "title": "In-utero Hematopoietic Stem Cell Transplantation for the Treatment of Fetuses With Bart's Hydrops Fetalis Syndrome"
+    },
+    {
+      "countries": [
+        "Canada",
+        "China",
+        "Greece",
+        "Hong Kong",
+        "Italy",
+        "Malaysia",
+        "Saudi Arabia",
+        "Singapore",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "Luspatercept",
+        "Placebo"
+      ],
+      "last_update": "2026-03-24",
+      "nct_id": "NCT05664737",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of participants with \u2265 50% reduction from baseline in RBC transfusion burden with a reduction of at least 2 units during any continuous 12 weeks during Week 13-48 compared to 12-week interval immediately prior to date of first dose",
+        "Number of participants with an increase from baseline of \u2265 1.0 grams (g)/decilitre (dL) in mean hemoglobin (Hb) values over the continuous 12-week interval from Week 13 to Week 24 in the absence of RBC transfusion",
+        "Dose-limiting toxicities (DLTs) defined as observance of \u2265 Grade 3-related hemolytic crises or \u2265 Grade 3-related event outside of the known safety profile occurring within the 21 days from their first dose of study therapy",
+        "Number of participants with adverse events (AEs)",
+        "Pharmacokinetics (PK): Serum concentration of Luspatercept"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Determine the Efficacy and Safety of Luspatercept in Adult Participants and to Evaluate the Safety and Pharmacokinetics in and Adolescent Participants With Alpha (\u03b1)-Thalassemia"
+    }
+  ],
+  "total_count": 2
+}

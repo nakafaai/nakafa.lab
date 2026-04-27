@@ -1,0 +1,231 @@
+{
+  "count": 10,
+  "query": "Iran beta thalassemia fetal hemoglobin hydroxyurea",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26024726"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4571014"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4571014;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7508/ibj.2015.03.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "Pii-IBJ-A-10-1259-1"
+        }
+      ],
+      "journal": "Iran Biomed J",
+      "pmid": "26024726",
+      "pubdate": "2015",
+      "title": "Role of XmnIgG Polymorphism in Hydroxyurea Treatment and Fetal Hemoglobin Level at Isfahanian Intermediate \u03b2-Thalassemia Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23318979"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-012-1671-3"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "23318979",
+      "pubdate": "2013 Mar",
+      "title": "Hydroxyurea treatment in \u03b2-thalassemia patients: to respond or not to respond?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24505535"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3913144"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3913144;"
+        }
+      ],
+      "journal": "Int J Hematol Oncol Stem Cell Res",
+      "pmid": "24505535",
+      "pubdate": "2013",
+      "title": "Evaluation of Novel Fetal Hemoglobin Inducer Drugs in Treatment of \u03b2-Hemoglobinopathy Disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35506261"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630269.2022.2041434"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "35506261",
+      "pubdate": "2022 May",
+      "title": "Treatment with Hydroxyurea Leads to Fetal Hemoglobin Reactivation through CA1 and LIN28B Genes: An In\u00a0Vitro Study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34036918"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1389557521666210521221615"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "MRMC-EPUB-115730"
+        }
+      ],
+      "journal": "Mini Rev Med Chem",
+      "pmid": "34036918",
+      "pubdate": "2022",
+      "title": "Hemoglobin F (HbF) Inducers; History, Structure and Efficacies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15477200"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "15477200",
+      "pubdate": "2004 Oct",
+      "title": "Response to hydroxyurea treatment in Iranian transfusion-dependent beta-thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26557561"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4625280"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4625280;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7860/JCDR/2015/14807.6660"
+        }
+      ],
+      "journal": "J Clin Diagn Res",
+      "pmid": "26557561",
+      "pubdate": "2015 Oct",
+      "title": "Clinical and Haematological Effects of Hydroxyurea in \u03b2-Thalassemia Intermedia Patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19400608"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "0013"
+        }
+      ],
+      "journal": "Arch Iran Med",
+      "pmid": "19400608",
+      "pubdate": "2009 May",
+      "title": "Hydroxyurea therapy in 49 patients with major beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20001623"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/03630260903351809"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "20001623",
+      "pubdate": "2009",
+      "title": "Hydroxyurea in the management of thalassemia intermedia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40200166"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11978054"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11978054;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s10020-025-01184-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s10020-025-01184-8"
+        }
+      ],
+      "journal": "Mol Med",
+      "pmid": "40200166",
+      "pubdate": "2025 Apr 8",
+      "title": "The induction effect of hydroxyurea and metformin on fetal globin in the K562 cell line."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "count": 5,
+  "query": "Korea beta thalassemia fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30430775"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6240526"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6240526;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3343/alm.2019.39.2.133"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "39.133"
+        }
+      ],
+      "journal": "Ann Lab Med",
+      "pmid": "30430775",
+      "pubdate": "2019 Mar",
+      "title": "Increased Prevalence of Thalassemia in Young People in Korea: Impact of Increasing Immigration."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37959685"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10650625"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10650625;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/molecules28217266"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "molecules28217266"
+        }
+      ],
+      "journal": "Molecules",
+      "pmid": "37959685",
+      "pubdate": "2023 Oct 25",
+      "title": "In Silico Molecular Docking and Dynamics Simulation Analysis of Potential Histone Lysine Methyl Transferase Inhibitors for Managing \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39901718"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12146598"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12146598;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3345/cep.2024.01284"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "cep.2024.01284"
+        }
+      ],
+      "journal": "Clin Exp Pediatr",
+      "pmid": "39901718",
+      "pubdate": "2025 Jun",
+      "title": "Impact of Xmn1 polymorphism on hydroxyurea therapy in children with HbE-\u03b2 non-transfusion dependent thalassemia: a cohort study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22016676"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3190001"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3190001;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3343/kjlm.2011.31.4.238"
+        }
+      ],
+      "journal": "Korean J Lab Med",
+      "pmid": "22016676",
+      "pubdate": "2011 Oct",
+      "title": "Comparison of capillary electrophoresis with cellulose acetate electrophoresis for the screening of hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19807730"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1365-2141.2009.07927.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "BJH7927"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "19807730",
+      "pubdate": "2010 Jan",
+      "title": "Multiplex ligation-dependent probe amplification screening of isolated increased HbF levels revealed three cases of novel rearrangements/deletions in the beta-globin gene cluster."
+    }
+  ]
+}

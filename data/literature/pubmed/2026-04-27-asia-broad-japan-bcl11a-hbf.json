@@ -1,0 +1,306 @@
+{
+  "count": 10,
+  "query": "Japan thalassemia BCL11A fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29606353"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS950568"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5889339"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5889339;manuscript-id: NIHMS950568;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.cell.2018.03.016"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0092-8674(18)30296-4"
+        }
+      ],
+      "journal": "Cell",
+      "pmid": "29606353",
+      "pubdate": "2018 Apr 5",
+      "title": "Direct Promoter Repression by BCL11A Controls the Fetal to Adult Hemoglobin Switch."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26816381"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS762363"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4778394"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4778394;manuscript-id: NIHMS762363;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/science.aad3312"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "351/6270/285"
+        }
+      ],
+      "journal": "Science",
+      "pmid": "26816381",
+      "pubdate": "2016 Jan 15",
+      "title": "Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35093321"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ejphar.2022.174788"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0014-2999(22)00049-8"
+        }
+      ],
+      "journal": "Eur J Pharmacol",
+      "pmid": "35093321",
+      "pubdate": "2022 Mar 5",
+      "title": "CRISPR/Cas9-based multiplex genome editing of BCL11A and HBG efficiently induces fetal hemoglobin expression."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35656314"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9152165"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9152165;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fgene.2022.881937"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "881937"
+        }
+      ],
+      "journal": "Front Genet",
+      "pmid": "35656314",
+      "pubdate": "2022",
+      "title": "Induction of Fetal Hemoglobin by Introducing Natural Hereditary Persistence of Fetal Hemoglobin Mutations in the \u03b3-Globin Gene Promoters for Genome Editing Therapies for \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36993312"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10055601"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10055601;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1101/2023.03.24.23287659"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2023.03.24.23287659"
+        }
+      ],
+      "journal": "medRxiv",
+      "pmid": "36993312",
+      "pubdate": "2023 Mar 28",
+      "title": "Genetic regulation of fetal hemoglobin across global populations."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25022757"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4187729"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4187729;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1128/MCB.00714-14"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "MCB.00714-14"
+        }
+      ],
+      "journal": "Mol Cell Biol",
+      "pmid": "25022757",
+      "pubdate": "2014 Oct 1",
+      "title": "Fetal globin gene repressors as drug targets for molecular therapies to treat the \u03b2-globinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35147495"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8865852"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8865852;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7554/eLife.65421"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "65421"
+        }
+      ],
+      "journal": "Elife",
+      "pmid": "35147495",
+      "pubdate": "2022 Feb 11",
+      "title": "Identification of novel HPFH-like mutations by CRISPR base editing that elevate the expression of fetal hemoglobin."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31751536"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcp.2019.113717"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-2952(19)30416-2"
+        }
+      ],
+      "journal": "Biochem Pharmacol",
+      "pmid": "31751536",
+      "pubdate": "2020 Jan",
+      "title": "Phenotypic-screening generates active novel fetal globin-inducers that downregulate Bcl11a in a monkey model."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29610478"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41588-018-0085-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41588-018-0085-0"
+        }
+      ],
+      "journal": "Nat Genet",
+      "pmid": "29610478",
+      "pubdate": "2018 Apr",
+      "title": "Natural regulatory mutations elevate the fetal globin gene via disruption of BCL11A or ZBTB7A binding."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30617196"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2018-07-863951"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)42773-9"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "30617196",
+      "pubdate": "2019 Feb 21",
+      "title": "A natural regulatory mutation in the proximal promoter elevates fetal globin expression by creating a de novo GATA1 site."
+    }
+  ]
+}

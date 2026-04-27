@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "Chinese beta thalassemia fetal hemoglobin hydroxyurea thalidomide",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32798438"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.19746/j.cnki.issn.1009-2137.2020.04.059"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1009-2137(2020)04-1424-05"
+        }
+      ],
+      "journal": "Zhongguo Shi Yan Xue Ye Xue Za Zhi",
+      "pmid": "32798438",
+      "pubdate": "2020 Aug",
+      "title": "[Reaserch Advances on Induction of Fetal Hemoglobin (HbF) by Drugs in the Treatment of \u03b2-Thalassemia--Review]."
+    }
+  ]
+}

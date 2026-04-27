@@ -1,0 +1,68 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&query.locn=Korea&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Australia",
+        "Belgium",
+        "Bulgaria",
+        "Canada",
+        "Chile",
+        "China",
+        "France",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "India",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Lebanon",
+        "Mexico",
+        "Poland",
+        "Portugal",
+        "Russia",
+        "South Africa",
+        "South Korea",
+        "Spain",
+        "Sweden",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "ruxolitinib",
+        "panobinostat"
+      ],
+      "last_update": "2026-03-16",
+      "nct_id": "NCT02386800",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "Incidence and severity of AEs and SAEs"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "CINC424A2X01B Rollover Protocol"
+    },
+    {
+      "countries": [
+        "South Korea"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2024-11-06",
+      "nct_id": "NCT06073860",
+      "phases": [],
+      "primary_outcomes": [
+        "Number of participants with adverse events (AEs)"
+      ],
+      "status": "RECRUITING",
+      "title": "A Post-Marketing Surveillance Study to Assess Safety of Luspatercept in Korean Patients With Myelodysplastic Syndrome or \u03b2-thalassemia"
+    }
+  ],
+  "total_count": 2
+}

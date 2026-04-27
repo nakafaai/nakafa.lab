@@ -1,0 +1,286 @@
+{
+  "count": 10,
+  "query": "Thailand beta thalassemia HbE fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40665149"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12264176"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12264176;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-10791-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-10791-8"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "40665149",
+      "pubdate": "2025 Jul 15",
+      "title": "Disrupting ZBTB7A or BCL11A binding sites reactivates fetal hemoglobin in erythroblasts from healthy and \u03b2(0)-thalassemia/HbE individuals."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35322124"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8943019"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8943019;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-022-08920-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-022-08920-8"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "35322124",
+      "pubdate": "2022 Mar 23",
+      "title": "Down-regulation of the transcriptional repressor ZNF802 (JAZF1) reactivates fetal hemoglobin in \u03b2(0)-thalassemia/HbE."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32567028"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-020-04136-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-020-04136-w"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "32567028",
+      "pubdate": "2020 Sep",
+      "title": "UNC0638 induces high levels of fetal hemoglobin expression in \u03b2-thalassemia/HbE erythroid progenitor cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38234105"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ijgo.15360"
+        }
+      ],
+      "journal": "Int J Gynaecol Obstet",
+      "pmid": "38234105",
+      "pubdate": "2024 Jul",
+      "title": "Impacts of \u03b2-thalassemia/hemoglobin E disease on pregnancy outcomes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35418591"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9007950"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9007950;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-022-10541-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-022-10541-0"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "35418591",
+      "pubdate": "2022 Apr 13",
+      "title": "Author Correction: Down-regulation of the transcriptional repressor ZNF802 (JAZF1) reactivates fetal hemoglobin in \u03b2(0)-thalassemia/HbE."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41345769"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12715185"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12715185;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-30762-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-30762-3"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "41345769",
+      "pubdate": "2025 Dec 5",
+      "title": "Downregulation of ZBTB7A/LRF increases fetal hemoglobin expression in \u03b2(0)-thalassemia/hemoglobin E erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29067594"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12185-017-2357-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12185-017-2357-3"
+        }
+      ],
+      "journal": "Int J Hematol",
+      "pmid": "29067594",
+      "pubdate": "2018 Mar",
+      "title": "Genetic variation of Kr\u00fcppel-like factor 1 (KLF1) and fetal hemoglobin (HbF) levels in \u03b2(0)-thalassemia/HbE disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16389564"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-005-0049-1"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "16389564",
+      "pubdate": "2006 Mar",
+      "title": "Hydroxyurea responses and fetal hemoglobin induction in beta-thalassemia/HbE patients' peripheral blood erythroid cell culture."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36888630"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9994754"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9994754;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0281059"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-21-35741"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "36888630",
+      "pubdate": "2023",
+      "title": "Induction of fetal hemoglobin: Lentiviral shRNA knockdown of HBS1L in \u03b20-thalassemia/HbE erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41555220"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12903249"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12903249;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s10020-026-01421-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s10020-026-01421-8"
+        }
+      ],
+      "journal": "Mol Med",
+      "pmid": "41555220",
+      "pubdate": "2026 Jan 20",
+      "title": "Enhanced induction of fetal hemoglobin by the combination of decitabine with RN-1 in \u03b2-thalassemia/HbE erythroid progenitor cells."
+    }
+  ]
+}

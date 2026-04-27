@@ -1,0 +1,837 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 4,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&query.locn=China&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-14",
+      "nct_id": "NCT05773729",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Percentage of treated participants with Transfusion-Dependent \u03b2-Thalassemia (TDT) who achieved transfusion independence (TI) for at least 6 months"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of Gene Modified Autologous Hematopoietic Stem Cells to Treat Transfusion-dependent Beta-thalassemia"
+    },
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770753",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-Blind Period: Percentage of Participants Who Achieved Hemoglobin (Hb) Response From Week 12 Through Week 24 Compared With Baseline"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Non-Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-NTDT)"
+    },
+    {
+      "countries": [
+        "Australia",
+        "Belgium",
+        "Bulgaria",
+        "Canada",
+        "China",
+        "France",
+        "Germany",
+        "Greece",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Spain",
+        "Sweden",
+        "Taiwan",
+        "Thailand",
+        "Tunisia",
+        "Turkey (T\u00fcrkiye)",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2025-11-12",
+      "nct_id": "NCT04064060",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Adverse Events (AEs)",
+        "Number of participants progressing to high/very high risk MDS or AML.",
+        "Percentage of participants progressing to high/very high risk MDS or AML",
+        "Number of participants developing other malignancies/pre-malignancies",
+        "Percentage of participants developing other malignancies/pre-malignancies"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Evaluate Long-term Safety in Participants Who Have Participated in Other Luspatercept (ACE-536) Clinical Trials"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "RM-004"
+      ],
+      "last_update": "2024-06-03",
+      "nct_id": "NCT06107400",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Proportion of subjects with engraftment",
+        "Safety of RM-004 infusion",
+        "Proportion of subjects who achieve transfusion independence"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of RM-004 Cells for Hemoglobin H-Constant Spring Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "AND017 capsules",
+        "AND017 Placebo"
+      ],
+      "last_update": "2026-02-27",
+      "nct_id": "NCT06302491",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Evaluate the safety and tolerability of different oral doses of AND017 in the treatment of \u03b2-thalassemia subjects"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study of Safety and Efficiency of AND017 in Patients With \u03b2-thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "\u03b1-globin restored autologous hematopoietic stem cells"
+      ],
+      "last_update": "2024-11-29",
+      "nct_id": "NCT05851105",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Overall response rate",
+        "Incidence and severity of AEs",
+        "incidence of SAEs",
+        "Transplantation-related fatal and disabling events within 100 d after transplantation",
+        "Overall survival rate during the clinical trial",
+        "HGI-002 injection-related replicating lentivirus test",
+        "Change from baseline in Clonal variations containing specific viral integration sites",
+        "Number of patients with abnormal hematology cytology and bone marrow cytology within 24 months after reinfusion"
+      ],
+      "status": "RECRUITING",
+      "title": "the Safety and Efficacy Evaluation of HGI-002 Injection in Patients With Transfusion-Dependent \u03b1-Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "YOLT-204"
+      ],
+      "last_update": "2024-11-07",
+      "nct_id": "NCT06678165",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Treatment-Emergent Adverse Events",
+        "Laboratory Test Findings",
+        "Safety Measurements",
+        "3 months of sustained transfusion reduction",
+        "3 months of transfusion independence"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Pilot Study on the Safety and Efficacy of YOLT-204 for Transfusion-Dependent Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "China",
+        "Germany",
+        "Greece",
+        "India",
+        "Italy",
+        "Lebanon",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United States"
+      ],
+      "interventions": [
+        "ACE-536"
+      ],
+      "last_update": "2026-01-06",
+      "nct_id": "NCT04143724",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Determination of the Recommended Dose (RD",
+        "Pharmacokinetics - Cmax",
+        "Pharmacokinetics - AUC",
+        "Pharmacokinetics (PK) - t1/2",
+        "Pharmacokinetics (PK) - CL/F",
+        "Pharmacokinetics (PK) - Vd/F"
+      ],
+      "status": "RECRUITING",
+      "title": "Study of Safety & PK of Luspatercept (ACE-536) in Pediatric Participants With Beta (\u03b2)-Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "recombinant humanized anti-CD25 monoclonal antibody"
+      ],
+      "last_update": "2024-10-28",
+      "nct_id": "NCT06657391",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Grade III-IV aGVHD"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluation of Recombinant Humanized Anti-CD25 Monoclonal Antibody for Preventing Graft-versus-host Disease After Haploidentical/matched Unrelated Donor Hematopoietic Stem Cell Transplantation in Patients with Transfusion-dependent Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "super-transplantation in 3 severe \u03b2 -thalassemia pediatric patients."
+      ],
+      "last_update": "2024-12-16",
+      "nct_id": "NCT06734520",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "chimeric status"
+      ],
+      "status": "RECRUITING",
+      "title": "Clinical Study of Super Transplantation in the Treatment of Severe \u03b2-thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101"
+      ],
+      "last_update": "2025-09-10",
+      "nct_id": "NCT06479616",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of SAEs and CS-101 related AES as assessed by CTCAE v5.0",
+        "Occurrence of all-cause death",
+        "New malignancies and hematologic disorders",
+        "Occurrence of achieving transfusion independence for at least 12 consecutive months"
+      ],
+      "status": "RECRUITING",
+      "title": "A Long-term Follow-up Study in Participants Who Received CS-101"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Vebeglogene autotemcel"
+      ],
+      "last_update": "2025-11-25",
+      "nct_id": "NCT06308159",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Time and duration of the subject's hemoglobin (Hb)\u22659.0 g/dL without receiving red blood cell infusion"
+      ],
+      "status": "RECRUITING",
+      "title": "An Open-label Study of a Gene Therapy Product (Vebeglogene Autotemcel) in Transfusion Dependent Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101 injection"
+      ],
+      "last_update": "2025-02-10",
+      "nct_id": "NCT06065189",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of adverse events(AEs) as assessed by CTCAE v5.0",
+        "Occurrence of engraftment",
+        "Time to neutrophil and platelet engraftment",
+        "Occurrence of transplant-related death",
+        "Occurrence of all-cause death",
+        "Occurrence of achieving transfusion reduction for at least 3 consecutive months"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Base-edited Autologous Hematopoietic Stem Cell Transplantation in Treating Patients With \u03b2-thalassemia Major"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Gene therapy"
+      ],
+      "last_update": "2023-08-14",
+      "nct_id": "NCT05991336",
+      "phases": [],
+      "primary_outcomes": [
+        "Growth in pediatric subjects will be assessed by height.",
+        "Growth in pediatric subjects will be assessed by weight.",
+        "Growth in pediatric subjects will be assessed by the head and chest circumference.",
+        "Growth in pediatric subjects will be assessed by interocular distance.",
+        "Growth in pediatric subjects will be assessed by bone density.",
+        "The pubertal status will be measured using by Tanner scale.",
+        "Hormonal levels will be measured by clinical examination.",
+        "Quality of life will be measured using by Pediatric Quality of Life Inventory (PedsQL) at baseline and the end of the study.",
+        "Lifestyle behaviors will be assessed by general questioning."
+      ],
+      "status": "RECRUITING",
+      "title": "Growth and Development-related Outcomes in Children With Transfusion-dependent Beta-thalassemia After Gene Therapy"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "MENBS clinical interventions"
+      ],
+      "last_update": "2026-02-11",
+      "nct_id": "NCT06931912",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Height-for-age (m)",
+        "Body mass index-for-age (BMI-for-age, kg/m^2)",
+        "Puberty status",
+        "Endocrine function",
+        "Nutritional status",
+        "Intelligence quotient (IQ)",
+        "Brain function",
+        "Quality of life"
+      ],
+      "status": "RECRUITING",
+      "title": "Growth Evaluation, Health Promotion, and Clinical Management in Children and Adolescents With Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Luspatercept combined with low-dose thalidomide",
+        "Luspatercept plus placebo"
+      ],
+      "last_update": "2026-01-13",
+      "nct_id": "NCT07338344",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved Erythroid Response - Week 13 to Week 24"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluating the Clinical Efficacy and Safety of Luspatercept Combined With Thalidomide in the Treatment of \u03b2-TDT Patients"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Supergraft"
+      ],
+      "last_update": "2025-09-02",
+      "nct_id": "NCT06743477",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Donor cell implantation rate"
+      ],
+      "status": "RECRUITING",
+      "title": "A Clinical Study of Ultra-transplantation for the Treatment of Major Thalassemia Scheme"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "\u03b2-globin restored autologous hematopoietic stem cells"
+      ],
+      "last_update": "2024-11-29",
+      "nct_id": "NCT05864170",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Overall response rate",
+        "Incidence and severity of AEs",
+        "Incidence of SAEs",
+        "Transplantation-related fatal and disabling events within day 100 after transplantation",
+        "Overall survival rate during the clinical trial",
+        "HGI-001 injection-related replicating lentivirus test",
+        "Change from baseline in Clonal variations containing specific viral integration sites",
+        "Number of patients with abnormal hematology and bone marrow cytology within 24 months after reinfusion, and percent of patients with abnormal RBC proliferation"
+      ],
+      "status": "RECRUITING",
+      "title": "the Safety and Efficacy Evaluation of HGI-001 Injection in Patients With Transfusion-Dependent \u03b2-Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 cell injection Drug Product"
+      ],
+      "last_update": "2025-08-05",
+      "nct_id": "NCT05860595",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Percentage of participants with successful lentiviral vector transduced CD34+ stem cell engraftment",
+        "Engraftment time of neutrophil",
+        "Engraftment time of platelet",
+        "Transplant-related mortality within 100 days and within 1 year after reinfusion of KL003 drug product",
+        "The number, frequency and severity of adverse events (AE) within 1 year after reinfusion of KL003 drug products"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Evaluation the Safety and Efficacy of KL003 Cell Injection in the Treatment of Transfusion-dependent \u03b2-thalassemia."
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Assessments"
+      ],
+      "last_update": "2024-03-18",
+      "nct_id": "NCT06314529",
+      "phases": [],
+      "primary_outcomes": [
+        "Incidence of hematologic malignancies",
+        "Frequency, grade, and relationship of SAEs"
+      ],
+      "status": "RECRUITING",
+      "title": "Long-term Follow-up Study of BHC001 for TDT"
+    },
+    {
+      "countries": [
+        "Australia",
+        "Belgium",
+        "Bulgaria",
+        "Canada",
+        "Chile",
+        "China",
+        "France",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "India",
+        "Israel",
+        "Italy",
+        "Japan",
+        "Lebanon",
+        "Mexico",
+        "Poland",
+        "Portugal",
+        "Russia",
+        "South Africa",
+        "South Korea",
+        "Spain",
+        "Sweden",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "ruxolitinib",
+        "panobinostat"
+      ],
+      "last_update": "2026-03-16",
+      "nct_id": "NCT02386800",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "Incidence and severity of AEs and SAEs"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "CINC424A2X01B Rollover Protocol"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 cell injection Drug Product"
+      ],
+      "last_update": "2025-08-05",
+      "nct_id": "NCT06219239",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "The number, frequency and severity of adverse events (AE) after reinfusion of KL003 drug products",
+        "The proportion of participants who meet the definition of transfusion independence (TI) for at least 6 months"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of the Lentiviral Vector in Gene Therapy of Beta-thalassemia Patients"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-24",
+      "nct_id": "NCT06465550",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Mean time from BD211 treatment to successful neutrophil engraftment, as well as the number and percentage of participants with successful neutrophil engraftment.",
+        "Mean time from BD211 treatment to successful platelet engraftment, as well as the number and percentage of participants with successful platelet engraftment.",
+        "Proportion of participants achieving transfusion independence (TI)"
+      ],
+      "status": "RECRUITING",
+      "title": "A Phase 1 Study of Gene-modified Autologous Hematopoietic Stem Cell (BD211) Treating \u03b2-thalassemia Major"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "9MW3011",
+        "9MW3011 placebo"
+      ],
+      "last_update": "2025-01-14",
+      "nct_id": "NCT06772766",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Adverse Event(including serious adverse event)",
+        "Number of subjects with abnormal vital signs",
+        "Number of subjects with abnormal clinically significant results from physical examination",
+        "Number of subjects with abnormal clinically significant 12-lead electrocardiogram (ECG) parameters",
+        "Number of subjects with abnormal clinically significant clinical laboratory results"
+      ],
+      "status": "RECRUITING",
+      "title": "A Multiple Ascending Dose Study of 9MW3011 in Patients With Non-transfusion-dependent \u03b2-thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-14",
+      "nct_id": "NCT05776173",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Red blood cell (RBCs) transfusion requirements, whether reaching TI",
+        "Total hospitalizing days at 6, 12, and 24 months (discharge after transplant)"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of Gene Modified Autologous Hematopoietic Stem Cells to Treat Transfusion-dependent \u03b2-thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 Cell Injection Drug Product"
+      ],
+      "last_update": "2025-03-10",
+      "nct_id": "NCT06280378",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "KL003 engraftment",
+        "Engraftment time of neutrophil and platelet",
+        "Overall Survival",
+        "The number, frequency and severity of adverse events (AE) within 1 year after infusion of KL003 drug products",
+        "Clonal dominance or secondary tumors caused by lentiviral vector insertional-mutation",
+        "Numbers of Participants With Vector-Derived Replication-Competent Lentivirus (RCL)"
+      ],
+      "status": "RECRUITING",
+      "title": "\u0392-Thalassemia Treatment with KL003 Cell Injection"
+    },
+    {
+      "countries": [
+        "Canada",
+        "China",
+        "Greece",
+        "Hong Kong",
+        "Italy",
+        "Malaysia",
+        "Saudi Arabia",
+        "Singapore",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)"
+      ],
+      "interventions": [
+        "Luspatercept",
+        "Placebo"
+      ],
+      "last_update": "2026-03-24",
+      "nct_id": "NCT05664737",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of participants with \u2265 50% reduction from baseline in RBC transfusion burden with a reduction of at least 2 units during any continuous 12 weeks during Week 13-48 compared to 12-week interval immediately prior to date of first dose",
+        "Number of participants with an increase from baseline of \u2265 1.0 grams (g)/decilitre (dL) in mean hemoglobin (Hb) values over the continuous 12-week interval from Week 13 to Week 24 in the absence of RBC transfusion",
+        "Dose-limiting toxicities (DLTs) defined as observance of \u2265 Grade 3-related hemolytic crises or \u2265 Grade 3-related event outside of the known safety profile occurring within the 21 days from their first dose of study therapy",
+        "Number of participants with adverse events (AEs)",
+        "Pharmacokinetics (PK): Serum concentration of Luspatercept"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Determine the Efficacy and Safety of Luspatercept in Adult Participants and to Evaluate the Safety and Pharmacokinetics in and Adolescent Participants With Alpha (\u03b1)-Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "VGB-Ex01"
+      ],
+      "last_update": "2023-10-17",
+      "nct_id": "NCT06041620",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Incidence of adverse events and serious adverse events",
+        "Number of subjects with neutrophil implantation \u2264 42 days"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy Evaluation of Autologous CRISPR-Cas12b Edited Hematopoietic Stem Cells"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "GMCN-508B (LentiRed)"
+      ],
+      "last_update": "2023-05-09",
+      "nct_id": "NCT05762510",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Proportion of subjects who achieved transfusion independence, defined as an average Hb \u2265 9 g/dL without any pRBC transfusions for a continuous period of \u2265 6 months at any time during the study after LentiRed Drug Product infusion.",
+        "Number and proportion of subjects who maintained \u03b2A-T87Q-globin(HbAT87Q) at \u22652.0 g/dL for \u2265 6 months after LentiRed Drug Product infusion.",
+        "Proportion of subjects whose red blood cells (RBC) transfusion requirement was reduced for \u22656 months after LentiRed Drug Product infusion, compared to previous 2-year transfusion records."
+      ],
+      "status": "RECRUITING",
+      "title": "A Study Evaluating the Safety and Efficacy of LentiRed Drug Product in Transfusion-dependent \u03b2-Thalassemia [TDT]"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101 injection"
+      ],
+      "last_update": "2026-03-24",
+      "nct_id": "NCT07489196",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "AEs(Adverse Events) and SAEs(Serious Adverse Events) after CS-101 infusion",
+        "Overall survival",
+        "Proportion of Subjects with engraftment",
+        "Time to neutrophil engraftment",
+        "Time to platelet engraftment",
+        "Incidence of transplant-related mortality",
+        "Proportion of subjects achieving transfusion independence for at least 12 consecutive months"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Phase 2 Safety and Efficacy Study Evaluating CS-101 in Participants With \u03b2-Thalassemia Major"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "GMCN-508A Drug Product"
+      ],
+      "last_update": "2023-04-18",
+      "nct_id": "NCT05757245",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved Transfusion Independence (TI)"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study Evaluating the Safety and Efficacy of the GMCN-508A Drug Product in Transfusion-dependent \u03b1-Thalassemia Participants"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Luspatercept",
+        "Placebo"
+      ],
+      "last_update": "2025-08-12",
+      "nct_id": "NCT05567458",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Proportion of participants with \u2265 33% reduction from baseline in red blood cell (RBC) transfusion burden over any consecutive 24 weeks"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study to Evaluate Luspatercept (ACE-536) in Chinese Participants Who Require Regular Red Blood Cell Transfusions Due to Beta (\u03b2)-Thalassemia."
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "\u03b2-globin restored autologous hematopoietic stem cells"
+      ],
+      "last_update": "2024-11-29",
+      "nct_id": "NCT05745532",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of adverse events (AEs) and serious adverse events (SAEs)",
+        "Overall survival",
+        "Proportion of engraftment",
+        "Replication competent lentivirus (RCL)",
+        "Dynamics of viral integration sites (VIS)"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy Evaluation of \u03b2-globin Restored Autologous Hematopoietic Stem Cells in \u03b2-thalassemia Major Patients"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Assessments"
+      ],
+      "last_update": "2024-03-22",
+      "nct_id": "NCT06298630",
+      "phases": [],
+      "primary_outcomes": [
+        "Incidence of hematologic malignancies",
+        "Frequency, grade, and relationship of SAEs"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Long-term Follow-up Study of BRL-101 for TDT"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "YOLT-204"
+      ],
+      "last_update": "2025-09-24",
+      "nct_id": "NCT07190001",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Adverse event rate",
+        "3 months of sustained transfusion reduction",
+        "3 months of sustained HbF level \u226520%"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "YOLT-204 in Patients With Hemoglobinopathies"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "\u03b2-globin restored autologous hematopoietic stem cells"
+      ],
+      "last_update": "2024-10-23",
+      "nct_id": "NCT06655662",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Transfusion Independence (TI) Rate",
+        "Incidence and Severity of Adverse Events (AEs) Related to Transplantation",
+        "Incidence of Serious Adverse Events (SAEs) Related to Transplantation",
+        "Overall Survival Rate During the Clinical Trial",
+        "Percentage of Negative Replicating Lentivirus Test Post-HGI-001 Injection",
+        "Number of Participants with Normal Clonal Variations Post-Transplant",
+        "Number of Participants Experiencing Transplantation-related Fatal and Disabling Events Within 100 Days Post-transplantation",
+        "Number of Patients with Abnormal Hematology and Bone Marrow Cytology Post-Reinfusion"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluating Safety and Efficacy of Lentiviral-transduced CD34+ HSCs in \u0392-thalassaemia Patients."
+    }
+  ],
+  "total_count": 36
+}

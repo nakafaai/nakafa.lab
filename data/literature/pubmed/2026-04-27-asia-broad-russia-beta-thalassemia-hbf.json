@@ -1,0 +1,171 @@
+{
+  "count": 10,
+  "query": "Russia beta thalassemia fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15230118"
+        }
+      ],
+      "journal": "Klin Lab Diagn",
+      "pmid": "15230118",
+      "pubdate": "2004 May",
+      "title": "[Diagnosis of beta-thalassemia]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29626925"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1134/S0006297918040090"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "BCM83040528"
+        }
+      ],
+      "journal": "Biochemistry (Mosc)",
+      "pmid": "29626925",
+      "pubdate": "2018 Apr",
+      "title": "Genetic and Epigenetic Mechanisms of \u03b2-Globin Gene Switching."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "4776306"
+        }
+      ],
+      "journal": "Probl Gematol Pereliv Krovi",
+      "pmid": "4776306",
+      "pubdate": "1973 Nov",
+      "title": "[Homozygotic beta-thalassemia with 95-100 per cent content of fetal hemoglobin]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30152032"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcph.1297"
+        }
+      ],
+      "journal": "J Clin Pharmacol",
+      "pmid": "30152032",
+      "pubdate": "2019 Jan",
+      "title": "Pharmacoproteomics Profiling of Plasma From \u03b2-Thalassemia Patients in Response to Hydroxyurea Treatment."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6154295"
+        }
+      ],
+      "journal": "Probl Gematol Pereliv Krovi",
+      "pmid": "6154295",
+      "pubdate": "1980 Jan",
+      "title": "[Immunoprecipitation method for detecting beta-thalassemia, the hereditary persistence of fetal hemoglobulin and sickle cell disease]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6198936"
+        }
+      ],
+      "journal": "Akush Ginekol (Mosk)",
+      "pmid": "6198936",
+      "pubdate": "1983 Dec",
+      "title": "[Changes in hemoglobin fractions of pregnant women with heterozygous beta-thalassemia and iron deficiency anemia]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33092544"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7579878"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7579878;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12881-020-01106-x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12881-020-01106-x"
+        }
+      ],
+      "journal": "BMC Med Genet",
+      "pmid": "33092544",
+      "pubdate": "2020 Oct 22",
+      "title": "Unannotated single nucleotide polymorphisms in the TATA box of erythropoiesis genes show in vitro positive involvements in cognitive and mental disorders."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22545469"
+        }
+      ],
+      "journal": "Klin Lab Diagn",
+      "pmid": "22545469",
+      "pubdate": "2012 Jan",
+      "title": "[The serum erythropoietin under intermediate B-thalassemia]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15230119"
+        }
+      ],
+      "journal": "Klin Lab Diagn",
+      "pmid": "15230119",
+      "pubdate": "2004 May",
+      "title": "[Methemoglobin level and its comparison with levels of globins and membrane proteins in erythrocytes of patients with beta-thalassemia]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "6200383"
+        }
+      ],
+      "journal": "Genetika",
+      "pmid": "6200383",
+      "pubdate": "1984 Feb",
+      "title": "[Changes in the hemoglobin fractions of nephroblastoma patients]."
+    }
+  ]
+}

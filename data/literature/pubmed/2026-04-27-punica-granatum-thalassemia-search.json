@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "query": "Punica granatum thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35592232"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9018025"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9018025;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.52547/wjps.11.1.157"
+        }
+      ],
+      "journal": "World J Plast Surg",
+      "pmid": "35592232",
+      "pubdate": "2022 Mar",
+      "title": "Effects of Pomegranate on Wound Repair and Regeneration."
+    }
+  ]
+}

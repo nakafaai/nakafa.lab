@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 5281855,
+        "MolecularFormula": "C14H6O8",
+        "MolecularWeight": "302.19",
+        "ConnectivitySMILES": "C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O",
+        "InChIKey": "AFSDNFLWKVMVRB-UHFFFAOYSA-N",
+        "IUPACName": "6,7,13,14-tetrahydroxy-2,9-dioxatetracyclo[6.6.2.04,16.011,15]hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione",
+        "XLogP": 1.1,
+        "TPSA": 134,
+        "HBondDonorCount": 4,
+        "HBondAcceptorCount": 8,
+        "Title": "Ellagic Acid"
+      }
+    ]
+  }
+}

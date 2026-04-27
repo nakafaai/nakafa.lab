@@ -158,6 +158,16 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/chemistry/chembl/natural-product-hbf/2026-04-27-citropten-chembl-activities.json",
     "data/registries/clinicaltrials/2026-04-27-trimethylangelicin-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-citropten-thalassemia-trials.json",
+    "data/literature/pubmed/2026-04-27-pomegranate-beta-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-punica-granatum-thalassemia-search.json",
+    "data/literature/pubmed/2026-04-27-pomegranate-fetal-hemoglobin-search.json",
+    "data/literature/pubmed/2026-04-27-ellagic-acid-fetal-hemoglobin-search.json",
+    "data/literature/pubmed/2026-04-27-punicalagin-fetal-hemoglobin-search.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-ellagic-acid-properties.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-punicalagin-properties.json",
+    "data/registries/clinicaltrials/2026-04-27-pomegranate-thalassemia-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-ellagic-acid-thalassemia-trials.json",
+    "data/registries/clinicaltrials/2026-04-27-punicalagin-thalassemia-trials.json",
 ]
 
 QUERCETIN_ANALOG_PATHS = [
@@ -316,6 +326,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md",
     "research/thalassemia/findings/2026-04-27-furanocoumarin-hbf-hazard-map.md",
     "research/thalassemia/findings/2026-04-27-trimethylangelicin-citropten-identity-map.md",
+    "research/thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",

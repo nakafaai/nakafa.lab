@@ -64,6 +64,11 @@ This distinction protects the Islamic lane:
 - a candidate becomes stronger only when identity, safety, mechanism, and
   reproducibility improve.
 
+Pomegranate is the current negative-control example from Quran 6:99. Ellagic
+acid and punicalagin are chemistry-resolved, but first-pass PubMed and
+ClinicalTrials.gov snapshots did not find thalassemia or HbF evidence strong
+enough to rank them as active leads.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -86,5 +91,6 @@ when safety is plausible.
 - [Quran 56:68-70](https://quran.com/56/68-70)
 - [Natural-product HbF expansion map](../../thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Resveratrol HbF beta-thalassemia seed](../../thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
+- [Pomegranate and ellagic-acid evidence gap](../../thalassemia/findings/2026-04-27-pomegranate-ellagic-acid-evidence-gap.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

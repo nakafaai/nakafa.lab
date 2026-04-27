@@ -17,6 +17,8 @@ be reviewed by qualified clinicians.
 
 - Read the repo before changing it.
 - Prefer small, direct files over abstraction layers.
+- Keep Python files under 500 LOC. Move large static data into `scripts/manifests/`
+  and shared parsing/checking logic into `scripts/helpers/`.
 - Keep writing skimmable. Avoid cleverness and avoid bloated generated text.
 - Use Indonesian by default for public notes unless a paper or source requires
   English.

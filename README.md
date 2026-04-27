@@ -49,6 +49,8 @@ forward.
 - `paper/notes/` - focused LaTeX notes that may later feed the main paper.
 - `paper/references.bib` - initial bibliography.
 - `templates/` - reusable research and clinical-context templates.
+- `scripts/helpers/` - small reusable helpers for Python research utilities.
+- `scripts/manifests/` - line-oriented repo manifests kept outside Python code.
 - `docs/zed-latex.md` - how to build and preview the paper in Zed.
 - `docs/repo-hygiene.md` - public repo hygiene, privacy, and security checks.
 

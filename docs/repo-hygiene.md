@@ -15,6 +15,7 @@ noise.
 | `data/` | small reproducible source snapshots, not patient data |
 | `paper/` | LaTeX paper source and bibliography |
 | `scripts/` | small Python utilities for reproducible fetching and calculations |
+| `scripts/manifests/` | line-oriented manifests used by Python checks |
 | `templates/` | reusable research, assay, and de-identified clinical-context templates |
 
 ## Ignored Content

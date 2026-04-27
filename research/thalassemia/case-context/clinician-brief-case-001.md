@@ -25,6 +25,9 @@ birth date
 - Current iron-status label: `iron_packet_missing` until ferritin trend, liver
   iron concentration, cardiac `T2*`, chelation, and organ monitoring are
   documented.
+- Current trial/referral label: `trial_referral_not_ready` until exact subtype,
+  genotype, Hb fractions, transfusion burden, antibody/DAT status, iron MRI,
+  organ-risk packet, autoimmune diagnosis, and access history are documented.
 
 ## Data Needed Before Specialist Review
 
@@ -62,6 +65,9 @@ birth date
   follow-up before disease-modifying options are judged?
 - Should this case be evaluated for luspatercept, mitapivat, HSCT, gene therapy,
   or a clinical trial?
+- Is the record packet complete enough for trial or referral screening, or
+  should missing diagnosis, immune, iron, organ, and access data be collected
+  first?
 - If advanced therapy is discussed, is the relevant route beta-globin
   gene-addition, HbF-reactivation editing, HSCT, or only supportive
   disease-modifying therapy?
@@ -86,4 +92,5 @@ repo without a licensed hematologist.
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
+- [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [Gene and cell therapy registry product map](../findings/2026-04-27-gene-cell-therapy-registry-product-map.md)

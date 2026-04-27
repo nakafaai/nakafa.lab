@@ -11,12 +11,12 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `679`.
+Tracked files after this audit batch: `691`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
-| `data/` | 486 | source snapshots and extracted evidence records |
-| `research/` | 149 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
+| `data/` | 497 | source snapshots and extracted evidence records |
+| `research/` | 150 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
 | `docs/` | 12 | operating docs, status journals, security, setup, and hygiene |
 | `scripts/` | 11 | small Python utilities and manifests |
 | `templates/` | 8 | reusable research, assay, and de-identified clinical templates |
@@ -28,8 +28,8 @@ Tracked files after this audit batch: `679`.
 
 | Type | Files | Meaning |
 | --- | ---: | --- |
-| `.json` | 427 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
-| `.md` | 161 | docs, findings, assays, hypotheses, Quran notes, templates |
+| `.json` | 438 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
+| `.md` | 162 | docs, findings, assays, hypotheses, Quran notes, templates |
 | `.xml` | 42 | PubMed or PMC abstract/full-text source snapshots |
 | `.txt` | 15 | source-linked full-text extracts, not raw browser HTML |
 | `.py` | 10 | small Python utilities |
@@ -46,7 +46,7 @@ Tracked files after this audit batch: `679`.
 | --- | ---: | --- |
 | `data/literature/` | 270 | literature, full-text extracts, PubMed XML/JSON, and supplementary source tables |
 | `data/chemistry/` | 157 | PubChem and ChEMBL identity snapshots for candidate molecules |
-| `data/registries/` | 55 | ClinicalTrials.gov snapshots |
+| `data/registries/` | 66 | ClinicalTrials.gov snapshots |
 | `data/regulatory/` | 3 | BPOM and EFSA access/safety snapshots |
 | `data/README.md` | 1 | data-governance rules |
 
@@ -54,7 +54,7 @@ Tracked files after this audit batch: `679`.
 
 | Research area | Files | Reason kept |
 | --- | ---: | --- |
-| `research/thalassemia/findings/` | 88 | small source-backed findings and decision notes |
+| `research/thalassemia/findings/` | 89 | small source-backed findings and decision notes |
 | `research/thalassemia/assays/` | 8 | assay specs, lab partner requirements, and quote/work-order docs |
 | `research/thalassemia/hypotheses/` | 8 | structured candidate hypotheses |
 | `research/thalassemia/case-context/` | 5 | de-identified case routing and clinician questions |

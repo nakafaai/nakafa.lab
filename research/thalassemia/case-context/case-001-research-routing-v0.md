@@ -48,6 +48,7 @@ marked unknown:
 | Autoimmune diagnosis or immune medicines | safety/exclusion lane | immune context can change feasibility of sirolimus, thalidomide-class, transplant, or trial eligibility | do not promote immune-active candidates without clinician review |
 | Doctor says luspatercept, mitapivat, HSCT, gene therapy, or CRISPR therapy is relevant | access and benchmark lane | current therapies define the strongest real-world endpoint standard | capture why it is possible, inaccessible, unsuitable, or not indicated |
 | No formal HSCT or gene-cell therapy review | curative-options eligibility gate | existing curative paths should not be missed while the repo searches for cheaper future candidates | record missing data and assign one of the six decision labels |
+| Trial/referral question exists but subtype, genotype, immune, iron, organ, or access packet is incomplete | trial-referral no-lab gate | active registry records cannot be translated into patient relevance without a screenable data packet | keep label as `trial_referral_not_ready` until a clinician says the packet is screenable |
 
 ## Cure-Search Implication
 
@@ -81,6 +82,10 @@ Ask these in order:
    monitoring sufficient to judge current risk?
 5. Are luspatercept, mitapivat, HSCT, gene therapy, CRISPR therapy, or a trial
    medically relevant, unsuitable, or inaccessible?
+6. Is the case currently `trial_referral_not_ready`,
+   `trial_referral_screenable`, `therapy_access_question`,
+   `trial_or_referral_candidate`, `medically_unsuitable`, `access_blocked`, or
+   `under_specialist_review`?
 
 ## Repo Rule
 
@@ -111,6 +116,7 @@ material into a thalassemia treatment claim.
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
+- [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [Clinical timeline data packet](../findings/2026-04-27-clinical-timeline-data-packet.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
 - [Case-001 genotype-first intake gate V0](case-001-genotype-first-intake-gate-v0.md)

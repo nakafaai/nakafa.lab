@@ -1,0 +1,228 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqW8C95unumpOQJJxuZvmn2vYYkA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.intr=hematopoietic+stem+cell+transplantation&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "BIVV003",
+        "ST-400"
+      ],
+      "last_update": "2025-11-12",
+      "nct_id": "NCT05145062",
+      "phases": [],
+      "primary_outcomes": [
+        "Adverse Events",
+        "Overall Survival"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long - Term Follow Up of Sickle Cell Disease and Beta-thalassemia Subjects Previously Exposed to BIVV003 or ST-400."
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "TBI",
+        "Hydroxyurea",
+        "briquilimab",
+        "Filgrastim (G-CSF)",
+        "Sirolimus",
+        "Alemtuzumab",
+        "Plerixafor"
+      ],
+      "last_update": "2026-03-12",
+      "nct_id": "NCT05357482",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "percent myeloid (CD14/15) chimerism"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Addition of JSP191 (C-kit Antibody) to Nonmyeloablative Hematopoietic Cell Transplantation for Sickle Cell Disease and Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "CD3/CD19 depleted leukocytes",
+        "CD45RA depleted leukocytes",
+        "Hydroxyurea",
+        "Rituximab",
+        "Alemtuzumab",
+        "Fludarabine",
+        "Thiotepa"
+      ],
+      "last_update": "2025-08-12",
+      "nct_id": "NCT03653338",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Graft rejection",
+        "Post Transplant treatment related mortality",
+        "Acute Graft versus host disease",
+        "Chronic Graft versus host disease",
+        "Post Transplant treatment related mortality",
+        "Post Transplant treatment related mortality"
+      ],
+      "status": "RECRUITING",
+      "title": "T-Cell Depleted Alternative Donor Bone Marrow Transplant for Sickle Cell Disease (SCD) and Other Anemias"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "CliniMACS CD34 Reagent"
+      ],
+      "last_update": "2026-02-05",
+      "nct_id": "NCT04008368",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "dichotomous positive/negative outcome where a positive response is defined by absence of graft rejection"
+      ],
+      "status": "RECRUITING",
+      "title": "Repeat Peripheral Blood Stem Cell Transplantation for Patients With Sickle Cell Disease and Falling Donor Myeloid Chimerism Levels"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "CliniMACS"
+      ],
+      "last_update": "2025-02-25",
+      "nct_id": "NCT04523376",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Rate of graft failure",
+        "Time to neutrophil engraftment",
+        "Incidence of acute graft vs. host disease (GVHD)",
+        "Incidence of chronic graft vs. host disease (GVHD)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Pilot Study PBSCT with TCRab Depletion for Hemoglobinopathies"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Defibrotide"
+      ],
+      "last_update": "2025-05-23",
+      "nct_id": "NCT02675959",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "All patients will be monitored for known and unknown side effects of defibrotide with daily physical exams while in the hospital and then as needed in addition to daily laboratory values including chemistries, hematology labs as needed",
+        "All patients will be monitored for the development of SOS."
+      ],
+      "status": "RECRUITING",
+      "title": "Myeloablative Conditioning, Prophylactic Defibrotide and Haplo AlloSCT for Patients With Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "interventions": [
+        "EDIT-301"
+      ],
+      "last_update": "2025-04-02",
+      "nct_id": "NCT05444894",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Proportion of participants achieving engraftment defined as neutrophil engraftment (defined as demonstrating absolute neutrophil count (ANC) \u2265 0.5 x 10^9/L post EDIT-301 infusion for 3 consecutive measurements obtained on different days)",
+        "Frequency and severity of adverse events (AEs) (incidence of AEs and Grade 3 or higher serious adverse events, using National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] v.5.0)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "EDIT-301 for Autologous Hematopoietic Stem Cell Transplant (HSCT) in Participants With Transfusion-Dependent Beta Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101"
+      ],
+      "last_update": "2025-09-10",
+      "nct_id": "NCT06479616",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of SAEs and CS-101 related AES as assessed by CTCAE v5.0",
+        "Occurrence of all-cause death",
+        "New malignancies and hematologic disorders",
+        "Occurrence of achieving transfusion independence for at least 12 consecutive months"
+      ],
+      "status": "RECRUITING",
+      "title": "A Long-term Follow-up Study in Participants Who Received CS-101"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Hydroxyurea",
+        "Alemtuzumab",
+        "Fludarabine",
+        "Melphalan",
+        "Thiotepa"
+      ],
+      "last_update": "2025-12-15",
+      "nct_id": "NCT01962415",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Post-transplant treatment-related mortality (TRM)",
+        "Neurodevelopmental milestones",
+        "Immune Reconstitution",
+        "Severe opportunistic infections",
+        "GVHD occurrence"
+      ],
+      "status": "RECRUITING",
+      "title": "Reduced Intensity Conditioning for Non-Malignant Disorders Undergoing UCBT, BMT or PBSCT"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "autologous bone marrow derived CD34+ HSPCs electroporated with BCL11A enhancer targeting Cas9 ribonucleoprotein",
+        "Sequencing Assay for Variant rs114518452"
+      ],
+      "last_update": "2026-02-03",
+      "nct_id": "NCT06647979",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Primary engraftment"
+      ],
+      "status": "RECRUITING",
+      "title": "Hematopoietic Stem Cell BCL11A Enhancer Gene Editing for Severe \u03b2-Hemoglobinopathies"
+    }
+  ],
+  "total_count": 26
+}

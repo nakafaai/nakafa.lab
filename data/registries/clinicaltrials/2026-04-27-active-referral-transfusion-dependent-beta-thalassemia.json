@@ -1,0 +1,245 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqW8C95unumpOQJJxnZPmn2PIW",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=transfusion+dependent+beta+thalassemia&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-14",
+      "nct_id": "NCT05773729",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Percentage of treated participants with Transfusion-Dependent \u03b2-Thalassemia (TDT) who achieved transfusion independence (TI) for at least 6 months"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of Gene Modified Autologous Hematopoietic Stem Cells to Treat Transfusion-dependent Beta-thalassemia"
+    },
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770753",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-Blind Period: Percentage of Participants Who Achieved Hemoglobin (Hb) Response From Week 12 Through Week 24 Compared With Baseline"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Non-Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-NTDT)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "BIVV003",
+        "ST-400"
+      ],
+      "last_update": "2025-11-12",
+      "nct_id": "NCT05145062",
+      "phases": [],
+      "primary_outcomes": [
+        "Adverse Events",
+        "Overall Survival"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long - Term Follow Up of Sickle Cell Disease and Beta-thalassemia Subjects Previously Exposed to BIVV003 or ST-400."
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "Mitapivat",
+        "Placebo Matching Mitapivat"
+      ],
+      "last_update": "2026-04-08",
+      "nct_id": "NCT07517133",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved a Hemoglobin (Hb) Response"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Study to Investigate the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Participants With \u03b1- or \u03b2-Non-Transfusion-Dependent Thalassemia"
+    },
+    {
+      "countries": [
+        "India"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2025-10-20",
+      "nct_id": "NCT05891249",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "\u03b2-Thal Cohort: Number of participants with treatment-related adverse events (AEs) of grade 3 or higher",
+        "MDS-Ring Sideroblasts (RS) Cohort: Number of participants with treatment-related AEs of grade 3 or higher"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study to Evaluate the Safety and Effectiveness of Luspatercept for the Treatment of Transfusion-dependent (TD) Anemia Associated With Myelodysplastic Syndromes (MDS) & Beta-thalassemia (\u03b2-Thal) in India"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "CD3/CD19 depleted leukocytes",
+        "CD45RA depleted leukocytes",
+        "Hydroxyurea",
+        "Rituximab",
+        "Alemtuzumab",
+        "Fludarabine",
+        "Thiotepa"
+      ],
+      "last_update": "2025-08-12",
+      "nct_id": "NCT03653338",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Graft rejection",
+        "Post Transplant treatment related mortality",
+        "Acute Graft versus host disease",
+        "Chronic Graft versus host disease",
+        "Post Transplant treatment related mortality",
+        "Post Transplant treatment related mortality"
+      ],
+      "status": "RECRUITING",
+      "title": "T-Cell Depleted Alternative Donor Bone Marrow Transplant for Sickle Cell Disease (SCD) and Other Anemias"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "Mitapivat Matched Placebo",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-08",
+      "nct_id": "NCT07506863",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved Transfusion Reduction Response (TRR) Through Week 48"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Study to Investigate the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)"
+    },
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770779",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-blind Period: Percentage of Participants Who Achieved Transfusion Reduction Response (TRR)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)"
+    },
+    {
+      "countries": [
+        "Canada",
+        "Germany",
+        "Italy",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-03",
+      "nct_id": "NCT05356195",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Proportion of Participants who Achieve Transfusion Independence for at Least 12 Consecutive Months (TI12)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Evaluation of Safety and Efficacy of CTX001 in Pediatric Participants With Transfusion-Dependent \u03b2-Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "YOLT-204"
+      ],
+      "last_update": "2024-11-07",
+      "nct_id": "NCT06678165",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Treatment-Emergent Adverse Events",
+        "Laboratory Test Findings",
+        "Safety Measurements",
+        "3 months of sustained transfusion reduction",
+        "3 months of transfusion independence"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Pilot Study on the Safety and Efficacy of YOLT-204 for Transfusion-Dependent Beta-Thalassemia"
+    }
+  ],
+  "total_count": 38
+}

@@ -91,5 +91,7 @@ Kickoff scaffold created on 2026-04-26. Current research focus:
 - biological strategy: HbF reactivation and globin-balance mimicry;
 - first affordable comparator: hydroxyurea;
 - discovery workflow: HbF assay funnel plus hemolysis and toxicity screening;
+- no-lab action: complete the de-identified clinical packet until a doctor can
+  judge trial/referral screenability;
 - Islamic lane: Quran-wide `shifa` map and theology of means;
 - bee-derived lane: broad material scope, but direct HbF evidence remains a gap.

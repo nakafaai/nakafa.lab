@@ -1,0 +1,93 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.intr=CRISPR&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Canada",
+        "Germany",
+        "Italy",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-03",
+      "nct_id": "NCT05356195",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Proportion of Participants who Achieve Transfusion Independence for at Least 12 Consecutive Months (TI12)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Evaluation of Safety and Efficacy of CTX001 in Pediatric Participants With Transfusion-Dependent \u03b2-Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "interventions": [
+        "EDIT-301"
+      ],
+      "last_update": "2025-04-02",
+      "nct_id": "NCT05444894",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Proportion of participants achieving engraftment defined as neutrophil engraftment (defined as demonstrating absolute neutrophil count (ANC) \u2265 0.5 x 10^9/L post EDIT-301 infusion for 3 consecutive measurements obtained on different days)",
+        "Frequency and severity of adverse events (AEs) (incidence of AEs and Grade 3 or higher serious adverse events, using National Cancer Institute Common Terminology Criteria for Adverse Events [NCI CTCAE] v.5.0)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "EDIT-301 for Autologous Hematopoietic Stem Cell Transplant (HSCT) in Participants With Transfusion-Dependent Beta Thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "VGB-Ex01"
+      ],
+      "last_update": "2023-10-17",
+      "nct_id": "NCT06041620",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Incidence of adverse events and serious adverse events",
+        "Number of subjects with neutrophil implantation \u2264 42 days"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy Evaluation of Autologous CRISPR-Cas12b Edited Hematopoietic Stem Cells"
+    },
+    {
+      "countries": [
+        "Germany",
+        "Italy",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-23",
+      "nct_id": "NCT05477563",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Fetal Hemoglobin (HbF) Concentration Over Time",
+        "Total Hemoglobin (Hb) Concentration Over Time"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluation of Efficacy and Safety of a Single Dose of CTX001 in Participants With Transfusion-Dependent \u03b2-Thalassemia and Severe Sickle Cell Disease"
+    }
+  ],
+  "total_count": 4
+}

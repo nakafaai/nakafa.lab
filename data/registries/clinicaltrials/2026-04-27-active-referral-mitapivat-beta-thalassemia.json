@@ -1,0 +1,130 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.intr=Mitapivat&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770753",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-Blind Period: Percentage of Participants Who Achieved Hemoglobin (Hb) Response From Week 12 Through Week 24 Compared With Baseline"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Non-Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-NTDT)"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "Mitapivat",
+        "Placebo Matching Mitapivat"
+      ],
+      "last_update": "2026-04-08",
+      "nct_id": "NCT07517133",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved a Hemoglobin (Hb) Response"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Study to Investigate the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Participants With \u03b1- or \u03b2-Non-Transfusion-Dependent Thalassemia"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "Mitapivat Matched Placebo",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-08",
+      "nct_id": "NCT07506863",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved Transfusion Reduction Response (TRR) Through Week 48"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Study to Investigate the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)"
+    },
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770779",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-blind Period: Percentage of Participants Who Achieved Transfusion Reduction Response (TRR)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT05675436",
+      "phases": [],
+      "primary_outcomes": [
+        "The percentage change in the oxygen affinity measure p50 (defined as the partial pressure of oxygen at which Hb is 50% saturated with oxygen) between baseline."
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Investigating the Mechanistic Effects of Mitapivat in Subjects With Sickle Cell Disease"
+    }
+  ],
+  "total_count": 5
+}

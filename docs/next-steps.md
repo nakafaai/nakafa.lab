@@ -28,7 +28,8 @@ current research cycle should answer:
    immune/transfusion complication standards, including antibody screen,
    direct antiglobulin test, crossmatch difficulty, and antigen matching.
 3. Therapeutic landscape: compare luspatercept, mitapivat, HSCT, Zynteglo,
-   Casgevy, and active trials.
+   Casgevy, and active trials. The current no-lab gate is to make case-001
+   `trial_referral_screenable` before claiming any patient relevance.
 4. Affordability: map which therapies are limited by drug price, hospital
    capability, manufacturing, or regulatory access.
 5. Cure strategy: use HSCT/gene therapy/gene editing as proof-of-concept, then

@@ -104,6 +104,29 @@ Ask the doctor to separate "medically relevant" from "not suitable":
 - Which options are unsuitable because of genotype, organ status, autoimmune
   disease, antibodies, age, infection risk, fertility risk, or cost/access?
 
+## Trial And Referral No-Lab Gate
+
+Ask the doctor to mark the current packet as `trial_referral_not_ready`,
+`trial_referral_screenable`, `therapy_access_question`,
+`trial_or_referral_candidate`, `medically_unsuitable`, `access_blocked`, or
+`under_specialist_review`.
+
+Questions:
+
+- Are the current records complete enough for a referral center or trial team to
+  screen this case?
+- If not, which exact documents are missing: subtype, genotype, Hb fractions,
+  transfusion burden, antibody/DAT, iron MRI, organ status, autoimmune records,
+  infection status, fertility counselling, or access/insurance details?
+- If Indonesia has no active local trial in the current registry snapshot, which
+  local hospital, regional center, or international center would be the proper
+  medical gatekeeper for eligibility questions?
+- Should nearby regional trial signals, such as Malaysia, Thailand, or
+  Singapore records, be treated as realistic access paths or only as benchmark
+  context?
+- Which options should be separated as standard-care optimization, referral
+  screening, trial-only, unavailable, or medically unsuitable?
+
 ## Curative Options Eligibility Packet
 
 Ask the doctor to mark each option as `not_yet_evaluated`, `data_missing`,
@@ -173,5 +196,6 @@ clinicians.
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [Gene therapy access frontier](../findings/2026-04-27-gene-therapy-access-frontier.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
+- [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [Indonesia access deep dive](../findings/2026-04-27-indonesia-access-deep-dive.md)
 - [Quran 57:25 iron guardrail](../../islamic/quran/057-al-hadid/025.md)

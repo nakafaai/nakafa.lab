@@ -47,10 +47,13 @@ an HbF inducer.
 ## Access And Safety Caveats
 
 Sirolimus is repurposed, which may help affordability, but it is also an
-immunomodulating drug. For Nakafa Lab this creates a hard rule: no patient-facing
-use without hematologist review, drug-level monitoring, and review of infection,
-autoimmune, kidney, liver, lipid, mouth-ulcer, wound-healing, and drug
-interaction risks.
+immunomodulating drug. A 2026-04-27 BPOM Cek Produk screen for `SIROLIMUS`,
+`RAPAMUNE`, and `RAPAMYCIN` did not find public product-name or ingredient
+records, so Indonesia access cannot be assumed from public BPOM data. For
+Nakafa Lab this creates a hard rule: no patient-facing use without hematologist
+review, pharmacy/access verification, drug-level monitoring, and review of
+infection, autoimmune, kidney, liver, lipid, mouth-ulcer, wound-healing, and
+drug interaction risks.
 
 This caution is especially relevant to the de-identified family context because
 an autoimmune issue was reported but not yet characterized.
@@ -76,3 +79,5 @@ immune risk is too high, or if no affordable monitoring path exists.
 - [ULK1/autophagy sirolimus study, PubMed PMID 37894732](https://pubmed.ncbi.nlm.nih.gov/37894732/)
 - [PubMed snapshot](../../../data/literature/pubmed/2026-04-26-sirolimus-beta-thalassemia.json)
 - [ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-26-sirolimus-beta-thalassemia.json)
+- [BPOM sirolimus product-search snapshot](../../../data/regulatory/bpom/2026-04-27-sirolimus-product-search.json)
+- [BPOM sirolimus product-search finding](2026-04-27-bpom-sirolimus-product-search.md)

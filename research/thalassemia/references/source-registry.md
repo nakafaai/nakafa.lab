@@ -105,6 +105,8 @@ Checked on 2026-04-26 unless noted.
 | HbF drugs | [ClinicalTrials.gov NCT03877809](https://clinicaltrials.gov/study/NCT03877809) | Trial registry record for sirolimus in transfusion-dependent beta-thalassemia. |
 | HbF drugs | [Sirolimus PubMed snapshot](../../../data/literature/pubmed/2026-04-26-sirolimus-beta-thalassemia.json) | Reproducible PubMed query snapshot for sirolimus, HbF, and beta-thalassemia. |
 | Trials | [Sirolimus ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-26-sirolimus-beta-thalassemia.json) | Reproducible registry snapshot for sirolimus-related thalassemia trials. |
+| Indonesia access | [BPOM sirolimus product-search finding](../findings/2026-04-27-bpom-sirolimus-product-search.md) | Public BPOM product-search screen for `SIROLIMUS`, `RAPAMUNE`, and `RAPAMYCIN`, kept separate from sirolimus biology. |
+| Indonesia access | [BPOM sirolimus product-search snapshot](../../../data/regulatory/bpom/2026-04-27-sirolimus-product-search.json) | Reproducible BPOM Cek Produk search snapshot using product-name and ingredient fields. |
 | Mechanism | [AHSP sirolimus study, PubMed PMID 38731008](https://pubmed.ncbi.nlm.nih.gov/38731008/) | Mechanistic follow-up on alpha-hemoglobin stabilizing protein in sirolimus-treated erythroid precursors. |
 | Mechanism | [ULK1/autophagy sirolimus study, PubMed PMID 37894732](https://pubmed.ncbi.nlm.nih.gov/37894732/) | Mechanistic follow-up on alpha-globin reduction and autophagy endpoints. |
 | Mechanism | [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md) | Connects AMPKB1/NRF2 HbF induction evidence with beta-thalassemia ULK1/autophagy alpha-globin cleanup evidence. |

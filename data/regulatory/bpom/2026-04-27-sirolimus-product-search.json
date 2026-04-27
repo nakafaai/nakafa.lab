@@ -1,0 +1,49 @@
+{
+  "checked_at": "2026-04-27",
+  "queries": [
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "SIROLIMUS"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "SIROLIMUS"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "RAPAMUNE"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "RAPAMUNE"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "product_name",
+      "term": "RAPAMYCIN"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 23621,
+      "search_field": "ingredients",
+      "term": "RAPAMYCIN"
+    }
+  ],
+  "source_endpoint": "https://cekbpom.pom.go.id/produk-dt/01",
+  "source_page": "https://cekbpom.pom.go.id/produk-obat"
+}

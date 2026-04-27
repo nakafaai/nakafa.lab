@@ -37,6 +37,7 @@ handling, and clinician oversight are already in place.
 | Legacy HbF comparator | sodium butyrate or arginine butyrate | historical beta-globin disorder HbF proof-of-biology | calibrates HbF response without treating it as practical therapy |
 | High-caution epigenetic comparator | decitabine or lab-approved reference | `DNMT1` proof-of-biology and toxicity boundary | verifies strong HbF signal can be separated from toxicity |
 | Repurposing seed | sirolimus | small human beta-thalassemia gamma-globin signal | checks mTOR/autophagy lane under monitored lab conditions |
+| Red-cell metabolism benchmark | mitapivat or lab-approved pyruvate kinase activator reference, only if legally and practically available to the lab | validates red-cell energy, hemolysis, and survival readouts | keeps metabolism support separate from HbF cure claims |
 | Natural-product-adjacent HbF seed | `T-BDMC`, only with identity proof | strongest current curcuminoid analog bridge | test HbF plus hemolysis before disease-cell escalation |
 | Natural-product HbF seed | resveratrol, purified compound only | reported HbF signal in beta-thalassemia erythroid precursors | repeat endogenous HbF and red-cell safety |
 | Red-cell support comparator | standardized 6-shogaol-rich ginger extract | thalassemia RBC anti-hemolysis support signal, not HbF proof | check support endpoint without promoting as cure |
@@ -62,6 +63,12 @@ Each run should return one table with:
 
 Use the [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 when a candidate claims HbF reactivation or HPFH-like biology.
+
+Use the
+[red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
+when a candidate claims red-cell survival, hemolysis reduction, membrane
+protection, pyruvate kinase biology, or iron-axis support without direct HbF
+reactivation.
 
 ## BCL11A/HbF Signature Add-On
 
@@ -130,7 +137,9 @@ the few candidates that deserve deeper testing.
 - [Epigenetic HbF screen V0](2026-04-27-epigenetic-hbf-screen-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
+- [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
+- [Pyruvate kinase red-cell metabolism benchmark](../findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Resveratrol HbF beta-thalassemia seed](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Ginger shogaol red-cell support map](../findings/2026-04-27-ginger-shogaol-red-cell-support-map.md)

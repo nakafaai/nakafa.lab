@@ -45,6 +45,17 @@ patient samples without ethics approval, consent, and clinician oversight.
 - Mature red-cell hemolysis:
 - Assay interference:
 
+## Red-Cell Metabolism Readouts
+
+- ATP or energy-state signal:
+- Glycolysis or pyruvate kinase pathway signal:
+- Hemolysis markers:
+- Red-cell deformability or membrane damage:
+- Alpha-globin membrane signal:
+- Oxidative or membrane stress:
+- Iron-axis signal:
+- Metabolism-support label:
+
 ## Controls Review
 
 - Positive control behaved as expected:
@@ -71,4 +82,5 @@ patient samples without ethics approval, consent, and clinician oversight.
 ## Linked Standards
 
 - [HPFH-like assay readout spec V0](../research/thalassemia/assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md)
+- [Red-cell metabolism readout spec V0](../research/thalassemia/assays/2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [HPFH-like candidate labels V0](../research/thalassemia/prioritization/2026-04-27-hpfh-like-candidate-labels-v0.md)

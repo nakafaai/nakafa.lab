@@ -558,6 +558,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-bcl11a-hbf-switch-mimic-boundary.md",
     "research/thalassemia/findings/2026-04-27-hpfh-natural-hbf-blueprint.md",
     "research/thalassemia/assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md",
+    "research/thalassemia/assays/2026-04-27-red-cell-metabolism-readout-spec-v0.md",
     "research/thalassemia/findings/2026-04-26-assay-ready-hbf-screen.md",
     "research/thalassemia/findings/2026-04-26-assay-funnel-for-cure-discovery.md",
     "research/thalassemia/findings/2026-04-26-disease-taxonomy.md",

@@ -1,7 +1,9 @@
 # Nakafa Lab Agent Guide
 
 Build for longevity. Keep the repo readable, sourced, and easy for both
-developers and researchers to navigate.
+developers and researchers to navigate. For coding: write extremely easy to consume code, optimize for how easy the code is to read.
+Make the code skimmable. avoid cleverness. no workaround cheat solution. use early returns. avoid overcomplciated ternary code, must be very good DX.
+Must have clean strcuture, seperation of concerns.
 
 ## Mission
 

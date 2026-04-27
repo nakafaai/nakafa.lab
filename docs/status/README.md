@@ -9,6 +9,8 @@ This folder is for readable dated research status updates.
 - Do not make these sound like final conclusions.
 - When making a new summary, add a new dated file instead of overwriting older
   entries.
+- The daily automation contract is documented in
+  [daily-summary-automation.md](daily-summary-automation.md).
 
 ## Rule
 

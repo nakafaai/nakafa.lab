@@ -136,6 +136,9 @@ Every completed run should produce:
 - source and batch trace;
 - next experiment or stop reason.
 
+Lab-partner readiness is tracked in
+[Lab partner requirements](2026-04-27-lab-partner-requirements.md).
+
 ## Sources
 
 - [Epigenetic HbF target drilldown](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md)

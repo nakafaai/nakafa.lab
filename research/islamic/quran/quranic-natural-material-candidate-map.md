@@ -26,6 +26,7 @@ clinician review.
 | 23:18-20 | water and an olive tree associated with oil/food | olive/polyphenol and nutrition lane | supportive biology only unless endpoints prove more |
 | 24:35 | blessed olive tree imagery | reflection and symbolic light context | not a direct pharmacology verse |
 | 36:33-35 | revived earth, grain, date-palms, grapes, springs | agriculture/provision reflection | hypothesis generation only |
+| 55:7-9 | balance / `mizan` | measurement and research-ethics guardrail | not a natural-material candidate |
 | 57:25 | iron, strength, benefits, balance, and justice | iron-homeostasis and overload guardrail | not an iron-supplement claim |
 | 56:68-70 | water | basic life and care context | not a molecule candidate |
 | 76:17 | ginger | ginger/6-shogaol red-cell support hypothesis | Jannah reward description, not a treatment command |
@@ -97,6 +98,10 @@ to study iron carefully, but it cuts against careless iron-supplement claims.
 For thalassemia, the active scientific lane is hepcidin, ferroportin, `TMPRSS6`,
 erythroferrone, chelation, MRI iron burden, and safety monitoring.
 
+Ar-Rahman 55:7-9 is now a measurement guardrail. It does not nominate a compound.
+It strengthens the requirement that every candidate be weighed by endpoint,
+safety, access, and reproducibility rather than spiritual enthusiasm alone.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -116,6 +121,8 @@ when safety is plausible.
 - [Quran 23:18-20](https://quran.com/23/18-20)
 - [Quran 24:35](https://quran.com/24/35)
 - [Quran 36:33-35](https://quran.com/36/33-35)
+- [Quran 55:7-9](https://quran.com/55/7-9)
+- [Quran 55:7-9 structured note](055-ar-rahman/007-009.md)
 - [Quran 57:25](https://quran.com/57/25)
 - [Quran 57:25 structured note](057-al-hadid/025.md)
 - [Quran 56:68-70](https://quran.com/56/68-70)

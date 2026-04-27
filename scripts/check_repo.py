@@ -523,6 +523,7 @@ REQUIRED_PATHS = [
     "research/islamic/quran/021-al-anbiya/083-084.md",
     "research/islamic/quran/026-ash-shuara/080.md",
     "research/islamic/quran/041-fussilat/044.md",
+    "research/islamic/quran/055-ar-rahman/007-009.md",
     "research/islamic/quran/057-al-hadid/025.md",
     "research/islamic/quran/076-al-insan/017.md",
     "research/islamic/quran/shifa-root-map.md",

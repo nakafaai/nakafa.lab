@@ -17,6 +17,8 @@ mercy, guidance, harm, lawful provision, and tests.
 - signs in creation: animals, plants, water, mountains, pairs, balance.
 - ethics of action: do not harm, do not claim knowledge without evidence,
   consult people of knowledge.
+- measurement and balance: `mizan`, justice, fair measure, and avoiding
+  transgression in claims.
 
 ## Method
 
@@ -46,6 +48,10 @@ It expands the hypothesis lens from bees to plants, fruits, water, provision,
 and signs in creation while preserving the rule that Quranic mention is not
 pharmacology proof.
 
+The measurement-and-balance anchor is tracked in
+[Ar-Rahman 55:7-9](055-ar-rahman/007-009.md). It supports quantitative scoring
+and safety gates rather than a new natural-material candidate.
+
 ## Research Guardrail
 
 The Quran can guide our worldview, ethics, patience, hope, and hypothesis
@@ -60,4 +66,5 @@ reproducibility, and clinician review.
 - [Quran 17:82](https://quran.com/17/82)
 - [Quran 26:80](https://quran.com/26/80)
 - [Quran 41:44](https://quran.com/41/44)
+- [Quran 55:7-9](https://quran.com/55/7-9)
 - [Quranic natural material candidate map](quranic-natural-material-candidate-map.md)

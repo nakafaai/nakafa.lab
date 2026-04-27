@@ -1,7 +1,7 @@
 \begin{figure}[htbp]
 \centering
 \begin{tikzpicture}[
-  node distance=0.55cm and 0.85cm,
+  node distance=0.7cm and 0.85cm,
   box/.style={
     draw=black!55,
     fill=gray!6,
@@ -24,15 +24,15 @@
 \node[box, right=of hbb] (imbalance) {Globin-chain imbalance\\free
 alpha-globin burden};
 \node[box, right=of imbalance] (erythroid) {Ineffective erythropoiesis\\anemia};
-\node[box, below=of erythroid] (transfusion) {Regular transfusion\\iron input};
-\node[box, left=of transfusion] (iron) {Iron overload\\LIC, cardiac T2*,
-organs};
 
 \node[intervention, below=of hbb] (hbf) {HbF / HPFH-like induction};
 \node[intervention, below=of imbalance] (cleanup) {Alpha-globin cleanup\\AHSP,
 autophagy};
-\node[intervention, below=of iron] (axis) {Iron-axis modification\\hepcidin,
+\node[box, below=of erythroid] (transfusion) {Regular transfusion\\iron input};
+\node[intervention, below=of cleanup] (axis) {Iron-axis modification\\hepcidin,
 ferroportin, TMPRSS6};
+\node[box, below=of transfusion] (iron) {Iron overload\\LIC, cardiac T2*,
+organs};
 
 \draw[arrow] (hbb) -- (imbalance);
 \draw[arrow] (imbalance) -- (erythroid);

@@ -1,0 +1,29 @@
+\begin{table}[htbp]
+\centering
+\small
+\caption{Minimum no-lab clinical packet before patient-relevance claims.}
+\label{tab:no-lab-packet}
+\begin{tabularx}{\textwidth}{@{}p{0.24\textwidth}Y Y@{}}
+\toprule
+Packet area & Needed fields & Why it matters \\
+\midrule
+Diagnosis & TDT/NTDT, HbE/beta, alpha, mixed disease & Prevents wrong
+candidate ranking \\
+Genetics & HBB, HBA, HbF modifiers if available & Determines mechanism and
+responder context \\
+Hemoglobin fractions & HbA, HbA2, HbF, HbE & Separates HbF, HbA2, and subtype
+signals \\
+Transfusion burden & Dates, units, volume, pre-transfusion Hb, reactions,
+mL/kg/year & Defines severity and therapy endpoints \\
+Immune/transfusion & Antibody screen, named alloantibodies, DAT, crossmatch,
+red-cell antigen phenotype/genotype & Detects red-cell survival and matching
+blockers \\
+Iron and organ risk & Ferritin trend, LIC MRI, cardiac T2*, chelation,
+endocrine, liver, kidney, bone, spleen & Prevents ferritin-only interpretation
+and missed organ risk \\
+Access/referral & Prior therapy discussion, payer, center access, regulatory
+availability, travel feasibility & Separates medical relevance from
+access-blocked options \\
+\bottomrule
+\end{tabularx}
+\end{table}

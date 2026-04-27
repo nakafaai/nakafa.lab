@@ -11,7 +11,7 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `692`.
+Tracked files after this audit batch: `704`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
@@ -20,7 +20,7 @@ Tracked files after this audit batch: `692`.
 | `docs/` | 13 | operating docs, status journals, publication readiness, security, setup, and hygiene |
 | `scripts/` | 11 | small Python utilities and manifests |
 | `templates/` | 8 | reusable research, assay, and de-identified clinical templates |
-| `paper/` | 4 | LaTeX paper source, bibliography, notes, and editor root |
+| `paper/` | 16 | LaTeX paper shell, sections, tables, figures, bibliography, notes, and editor root |
 | `.zed/` | 1 | editor task integration for local research workflow |
 | root config/docs | 8 | repo config, README, agent guide, Python project files |
 
@@ -36,7 +36,7 @@ Tracked files after this audit batch: `692`.
 | `.ipynb` | 8 | small reproducible notebooks |
 | no extension | 5 | root/editor configuration files such as `.gitattributes` and `.gitignore` |
 | `.xlsx` | 3 | PLOS supplementary assay tables used for reproducible extraction |
-| `.tex` | 2 | LaTeX paper source |
+| `.tex` | 14 | LaTeX paper shell, sections, tables, figures, and notes |
 | `.bib`, `.toml`, `.lock` | 1 each | bibliography, Python config, uv lockfile |
 | `.csv` | 3 | reusable de-identified record, timeline, and transfusion templates |
 

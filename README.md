@@ -49,7 +49,11 @@ forward.
 - `research/islamic/README.md` - Islamic research lane.
 - `research/islamic/quran/` - structured Quran anchor notes.
 - `research/islamic/findings/` - Quran, hadith, tafsir, and ethics notes.
-- `paper/main.tex` - working LaTeX paper skeleton.
+- `paper/main.tex` - publication shell for the working LaTeX paper.
+- `paper/sections/` - manuscript sections for abstract, methods, results,
+  discussion, and statements.
+- `paper/tables/` - source-backed manuscript tables.
+- `paper/figures/` - original manuscript diagrams.
 - `paper/notes/` - focused LaTeX notes that may later feed the main paper.
 - `paper/references.bib` - initial bibliography.
 - `templates/` - reusable research and clinical-context templates.

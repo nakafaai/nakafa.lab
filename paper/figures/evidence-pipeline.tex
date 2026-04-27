@@ -1,0 +1,32 @@
+\begin{figure}[htbp]
+\centering
+\begin{tikzpicture}[
+  node distance=0.8cm and 1.1cm,
+  box/.style={
+    draw=blue!45!black,
+    fill=blue!5,
+    rounded corners=2pt,
+    align=center,
+    text width=0.25\textwidth,
+    minimum height=1.1cm
+  },
+  arrow/.style={-{Stealth[length=2.4mm]}, thick, draw=blue!60!black}
+]
+\node[box] (sources) {Sources\\guidelines, PubMed, registries, regulators};
+\node[box, right=of sources] (gates) {Evidence gates\\benchmark, candidate,
+boundary};
+\node[box, right=of gates] (assay) {Assay design\\HbF, globin balance,
+hemolysis};
+\node[box, below=of sources] (clinical) {Clinical packet\\subtype, immune, iron,
+access};
+\node[box, right=of clinical] (paper) {Public output\\paper, tables, repo};
+
+\draw[arrow] (sources) -- (gates);
+\draw[arrow] (gates) -- (assay);
+\draw[arrow] (assay.south) |- (clinical.east);
+\draw[arrow] (clinical) -- (paper);
+\end{tikzpicture}
+\caption{Nakafa Lab evidence-to-assay pipeline. The process is designed to make
+rejection and uncertainty visible before patient-facing claims are made.}
+\label{fig:evidence-pipeline}
+\end{figure}

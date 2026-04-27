@@ -5,8 +5,10 @@ Status: real-world paper standard and repo-cohesion audit
 
 ## Bottom Line
 
-`paper/main.tex` compiles and contains a strong source-backed research narrative,
-but it is not yet a publication-ready biomedical manuscript.
+`paper/main.tex` now compiles as a short publication shell with separate
+`paper/sections/`, `paper/tables/`, and `paper/figures/` inputs. The manuscript
+has the first real-world shape of a biomedical paper, but it is still not a
+publication-ready submission.
 
 Current paper type: exploratory, AI-assisted evidence map and research program
 proposal.
@@ -52,19 +54,19 @@ The practical baseline for a biomedical paper is:
 | Article type | Exploratory evidence map and research program proposal. | Must be stated explicitly in title, abstract, and methods. |
 | Abstract | Present, but unstructured. | Needs structured form or journal-specific format. |
 | Introduction | Present through problem and objective sections. | Needs tighter problem, knowledge gap, and objective. |
-| Methods | Not yet a real Methods section. | Must describe source retrieval, databases, search dates, eligibility, extraction, scoring, AI use, and reproducibility. |
-| Results | Evidence is embedded in narrative. | Needs tables for therapy benchmarks, active trial snapshots, candidate gates, and no-lab clinical packet. |
-| Discussion | Distributed across narrative. | Needs a dedicated discussion with implications, limitations, and next experiments. |
-| Figures | None in the main manuscript. | Needs at least a pipeline figure and mechanism map. |
-| Tables | None in the main manuscript. | Needs benchmark, candidate, and clinical-packet tables. |
-| Ethics and privacy | Stated across repo docs. | Needs a dedicated manuscript statement. |
-| AI disclosure | Repo context is clear, manuscript statement missing. | Methods or acknowledgments must name AI-assisted workflow and author responsibility. |
-| Data/code availability | Repo stores source snapshots and scripts. | Manuscript needs a concise data and code availability section. |
+| Methods | First explicit Methods section added. | Needs more exact search strings, date ranges, extraction fields, and scoring rules before journal submission. |
+| Results | First Results section added. | Needs stronger numeric extraction and tighter links from each table to source snapshots. |
+| Discussion | Dedicated Discussion and Limitations sections added. | Needs target-journal word count and reviewer-oriented tightening. |
+| Figures | First pipeline and mechanism figures added. | Needs visual polish and possibly one more candidate decision funnel. |
+| Tables | First benchmark, candidate, packet, and referral tables added. | Needs final source verification and journal formatting. |
+| Ethics and privacy | Dedicated statements added. | Needs final author/funder/institution details. |
+| AI disclosure | Dedicated AI-use statement added. | Needs final journal-specific wording. |
+| Data/code availability | Dedicated availability statement added. | Needs DOI/archive if the repo is deposited for publication. |
 | Islamic lane | Present and carefully bounded. | Must stay in ethics/hypothesis framing, not biomedical proof. |
 
 ## Required Main Manuscript Shape
 
-Use this structure for the next LaTeX refactor:
+The first LaTeX refactor now follows this structure:
 
 1. Title page
 2. Abstract
@@ -129,16 +131,14 @@ If none of those apply, remove or merge the file.
 
 ## Next Refactor Rule
 
-Do not keep expanding `paper/main.tex` as one long file. The next manuscript
-cleanup should either:
+Do not expand `paper/main.tex` again. It should remain a short publication
+shell. New manuscript content should go into `paper/sections/`, `paper/tables/`,
+or `paper/figures/`, and should replace long narrative text with tables or
+figures when possible.
 
-- keep `main.tex` as a short publication shell and move sections to
-  `paper/sections/*.tex`; or
-- aggressively reduce the manuscript to one concise article with tables and
-  figures replacing long paragraphs.
-
-This keeps the paper readable for doctors and researchers and avoids turning
-the manuscript into an unreviewable evidence dump.
+The next cleanup should tighten the Methods and Results sections, verify each
+table row against a source snapshot, and add the candidate decision funnel only
+if it clarifies the manuscript.
 
 ## Sources
 

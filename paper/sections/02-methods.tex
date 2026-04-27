@@ -1,0 +1,50 @@
+\section{Methods}
+
+\subsection{Study Type}
+
+This is an exploratory evidence map and research-program manuscript. It is not
+a systematic review, clinical trial, case report, or clinical guideline. The
+purpose is to make the research question, source trail, candidate gates, and
+next experiments inspectable.
+
+\subsection{Source Intake}
+
+The repository uses retrieval-led evidence collection. Priority sources include
+clinical guidelines, PubMed-indexed literature, ClinicalTrials.gov records,
+regulatory pages, official chemistry databases, public full-text sources, and
+classical Islamic sources when they are used for ethics or hypothesis framing.
+
+Each reusable finding is stored as a dated note under \repoPath{research/}.
+Small reproducible source snapshots are stored under \repoPath{data/}. The
+thalassemia source registry links claims to the evidence trail.
+
+\subsection{Evidence Classification}
+
+Evidence is classified into five practical labels:
+
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Benchmark:} an existing therapy or endpoint used for comparison.
+  \item \textbf{Candidate:} a molecule, material, or mechanism that needs
+  validation before treatment language is allowed.
+  \item \textbf{Gate:} a required decision point such as subtype, genotype,
+  immune status, organ risk, safety, access, or clinician review.
+  \item \textbf{Boundary:} evidence that prevents overclaiming.
+  \item \textbf{Open question:} a high-value unknown that needs records, public
+  data, or wet-lab work.
+\end{itemize}
+
+\subsection{AI-Assisted Workflow}
+
+AI was used to retrieve, summarize, cross-link, and draft research artifacts.
+The repository keeps source snapshots and dated notes so claims can be audited
+without trusting the model output alone. AI-generated text is treated as a
+drafting and organization aid; scientific and clinical claims remain bound to
+source evidence and clinician or domain-expert review.
+
+\subsection{No-Lab Constraint}
+
+Nakafa Lab does not currently operate a wet lab or clinical trial. Work that can
+continue without a lab partner includes source-backed literature mapping,
+computational candidate rejection, chemistry identity checks, de-identified
+case-packet preparation, assay design, and specialist-referral question
+generation. Patient-specific treatment decisions are out of scope.

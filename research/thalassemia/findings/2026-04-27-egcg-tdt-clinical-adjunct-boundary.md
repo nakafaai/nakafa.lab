@@ -88,6 +88,11 @@ patients from this evidence. TDT patients can have iron overload, liver disease,
 renal risk, splenectomy, aspirin or anticoagulant exposure, and chelation
 interactions. This finding is for research prioritization and clinician review.
 
+The safety follow-up is now explicit: concentrated GTE has a credible
+idiosyncratic liver-injury risk, and fasting bolus exposure plus product
+variation can change EGCG exposure. Any protocol must pass the linked safety and
+standardization gate before the lane can be promoted.
+
 ## Sources
 
 - [Settakorn 2024 PubMed snapshot](../../../data/literature/pubmed/2026-04-27-settakorn-2024-egcg-tdt-esummary.json)
@@ -106,3 +111,4 @@ interactions. This finding is for research prioritization and clinician review.
 - [EGCG ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-egcg-thalassemia-trials.json)
 - [Green tea ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-green-tea-thalassemia-trials.json)
 - [EGCG PubChem properties](../../../data/chemistry/pubchem/natural-product-hbf/2026-04-27-egcg-properties.json)
+- [EGCG safety and standardization gate](2026-04-27-egcg-safety-standardization-gate.md)

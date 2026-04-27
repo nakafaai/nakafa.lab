@@ -1,0 +1,251 @@
+{
+  "count": 10,
+  "query": "green tea extract liver injury",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36523867"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9745259"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9745259;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/cld.1254"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CLD1254"
+        }
+      ],
+      "journal": "Clin Liver Dis (Hoboken)",
+      "pmid": "36523867",
+      "pubdate": "2022 Dec",
+      "title": "Green tea extract-associated acute liver injury: Case report and review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27677775"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS873068"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5502701"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5502701;manuscript-id: NIHMS873068;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hep.28813"
+        }
+      ],
+      "journal": "Hepatology",
+      "pmid": "27677775",
+      "pubdate": "2017 Jan",
+      "title": "Liver injury from herbal and dietary supplements."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25316200"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1517/17425255.2014.971011"
+        }
+      ],
+      "journal": "Expert Opin Drug Metab Toxicol",
+      "pmid": "25316200",
+      "pubdate": "2014 Dec",
+      "title": "Green tea extract and the risk of drug-induced liver injury."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39136211"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11815602"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11815602;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/liv.16071"
+        }
+      ],
+      "journal": "Liver Int",
+      "pmid": "39136211",
+      "pubdate": "2025 Mar",
+      "title": "Challenges in herbal-induced liver injury identification and prevention."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34307603"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8281430"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8281430;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.12998/wjcc.v9.i20.5490"
+        }
+      ],
+      "journal": "World J Clin Cases",
+      "pmid": "34307603",
+      "pubdate": "2021 Jul 16",
+      "title": "Herb-induced liver injury: Systematic review and meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK547925"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31643260"
+        }
+      ],
+      "journal": "",
+      "pmid": "31643260",
+      "pubdate": "2012",
+      "title": "Green Tea."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK548570"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31643885"
+        }
+      ],
+      "journal": "",
+      "pmid": "31643885",
+      "pubdate": "2012",
+      "title": "Slimquick."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK589899"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37011126"
+        }
+      ],
+      "journal": "",
+      "pmid": "37011126",
+      "pubdate": "2012",
+      "title": "Buchu."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31187838"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1039/c9fo00572b"
+        }
+      ],
+      "journal": "Food Funct",
+      "pmid": "31187838",
+      "pubdate": "2019 Jul 17",
+      "title": "Green tea polyphenols prevent lipopolysaccharide-induced inflammatory liver injury in mice by inhibiting NLRP3 inflammasome activation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37809393"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10559920"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10559920;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.heliyon.2023.e20145"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2405-8440(23)07353-X"
+        }
+      ],
+      "journal": "Heliyon",
+      "pmid": "37809393",
+      "pubdate": "2023 Sep",
+      "title": "Vine tea extract ameliorated acute liver injury by inhibiting hepatic autophagy and reversing abnormal bile acid metabolism."
+    }
+  ]
+}

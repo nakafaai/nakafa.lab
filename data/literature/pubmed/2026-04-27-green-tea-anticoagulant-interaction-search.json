@@ -1,0 +1,70 @@
+{
+  "count": 3,
+  "query": "green tea extract anticoagulant interaction warfarin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "15911722"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1001/archinte.165.10.1095"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "165/10/1095"
+        }
+      ],
+      "journal": "Arch Intern Med",
+      "pmid": "15911722",
+      "pubdate": "2005 May 23",
+      "title": "Systematic overview of warfarin and its drug and food interactions."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25312732"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1381612820666141013135045"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CPD-EPUB-62784"
+        }
+      ],
+      "journal": "Curr Pharm Des",
+      "pmid": "25312732",
+      "pubdate": "2015",
+      "title": "Overview of green tea interaction with cardiovascular drugs."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22566187"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ptr.4724"
+        }
+      ],
+      "journal": "Phytother Res",
+      "pmid": "22566187",
+      "pubdate": "2013 Feb",
+      "title": "Evaluation of food-drug interaction of guava leaf tea."
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+Green Tea - LiverTox - NCBI Bookshelf
+An official website of the United States government
+Here's how you know
+The .gov means it's official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+Log in Show account info
+Close
+Account
+Logged in as: username
+Dashboard
+Publications
+Account settings
+Log out
+Access keys NCBI Homepage MyNCBI Homepage Main Content Main Navigation
+Bookshelf
+Search database Books All Databases Assembly Biocollections BioProject BioSample Books ClinVar Conserved Domains dbGaP dbVar Gene Genome GEO DataSets GEO Profiles GTR Identical Protein Groups MedGen MeSH NLM Catalog Nucleotide OMIM PMC Protein Protein Clusters Protein Family Models PubChem BioAssay PubChem Compound PubChem Substance PubMed SNP SRA Structure Taxonomy ToolKit ToolKitAll ToolKitBookgh
+Search term
+Search
+Browse Titles
+Advanced
+Help
+Disclaimer
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-.
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].
+Show details
+Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases ; 2012-.
+Drug Records
+Search term
+< Prev Next >
+Green Tea
+Last Update: November 20, 2020 .
+OVERVIEW
+Introduction
+Green tea is a popular and commonly consumed drink and its extract is found in many herbal and dietary supplements (HDS). Green tea extract and, more rarely, ingestion of large amounts of green tea have been implicated in cases of clinically apparent acute liver injury, including instances of acute liver failure and either need for urgent liver transplantation or death.
+Background
+Both green tea and black tea are produced from the leaves of the Chinese tea tree Camellia sinensis. Green tea, unlike black tea, is unfermented, which helps to preserve its antioxidant polyphenolic catechols. Green tea has long been believed to have health restoring properties and its ingredients to have antioxidant activity. For this reason, extracts of green tea have been used as an herbal medication alone and in combination with other herbals and dietary supplements which are purported to improve health, prevent cancer and heart disease, decrease serum lipid levels, promote weight loss, decrease periodontal disease and even treat clostridial diarrhea. Green tea extract (GTE) is listed in more than 100 over-the-counter herbal preparations, but is not approved for any specific medical indication and is not regulated in regards to efficacy and safety by the FDA. The multiple polyphenols in green tea are believed to be the active components responsible for its purported chemoprotective, antiproliferative and antioxidant properties. The mechanism by which green tea may have such effects has not been elucidated. Human clinical studies demonstrate that single doses of up to 1.6 grams of green tea extract are well tolerated. The maximum tolerated dose in humans is reported to be 9.9 grams per day; a dose equivalent to 24 cups of green tea. Side effects of high doses of green tea extract are usually mild and include headache, dizziness and nausea. The safety and tolerability of long term use of green tea extracts has not been well defined.
+Hepatotoxicity
+Drinking green tea has not been associated with liver injury or serum aminotransferase elevations; indeed, cross sectional studies suggest that regular use of green tea is associated with lower serum ALT and AST values. Nevertheless, case series and a systematic review by the United States Pharmacopeia have raised the issue of the potential for GTE to cause hepatotoxicity. In a large prospective study of GTE in postmenopausal woman at risk for breast cancer, GTE was associated with ALT elevations in 6.7% of patients compared to 0.7% of controls. In these studies, clinically apparent liver injury was not observed, but the extract was quickly discontinued in patients with ALT elevations. Restarting GTE in a proportion of patients was followed by rapid recurrence of ALT elevations that resolved again with stopping.
+The prevalence of green tea extract induced acute liver injury with symptoms or jaundice is not known, but is undoubtedly low in comparison to the wide scale use of these products. Nevertheless, more than 100 instances of clinically apparent liver injury attributed to GTE have been reported in the literature. Liver injury typically arises within 1 to 6 months of starting the product but longer and shorter latencies (particularly with reexposure) have been reported. The majority of cases present with an acute hepatitis-like syndrome and a markedly hepatocellular pattern of serum enzyme elevations. Most patients recover rapidly upon stopping the extract or HDS, although fatal instances of acute liver failure have been described. Biopsy findings show necrosis, inflammation, and eosinophils in a pattern resembling acute hepatitis. Immunoallergic and autoimmune features are usually absent or minimal. A small number of similar cases have also been described after drinking green tea “infusions” rather than taking oral preparations of extracts of green tea.
+The most prominent regulatory action against green tea containing products concerned Exolise, a weight loss product which was withdrawn from Spain and France in 2003. Also, green tea is an ingredient in many over-the-counter weight loss agents with names such as Hydroxycut, Dexatrim, Slimquick, Slimcut Fat Burner, The Right Approach, Mega Green Tea and Green Tea Fat Burner, among others, which have been implicated in causing rare instances of clinically apparent acute liver injury.
+Likelihood score : A (well established cause of clinically apparent liver injury).
+Mechanism of Injury
+Preclinical and human data implicate the catechin component of green tea as the culprit of hepatotoxicity. Approximately 10% of the green tea extract is composed of catechins; of these, epigallocatechin-3-gallate (EGCG) is present in highest concentration. There is great variability in the concentration of green tea extract, EGCG and other components among marketed products, which may explain while some products have been implicated in hepatotoxicity. Exposure of rat hepatocytes to EGCG has been shown to induce mitochondrial toxicity and generation of reactive oxygen species. The close association of liver injury from green tea with the HLA allele B*35:01 suggests an immunologic etiology. This HLA association, the lack of clear cut dose dependency and the recurrence of injury on reexposure (with a shorter latency) indicates that the injury is idiosyncratic and not due to direct toxicity of the catechins. The pathogenesis of green tea associated liver injury is an area of current, active investigation.
+Outcome and Management
+Given the wide spread consumption of green tea and its extract in various HDS, liver injury from green tea is rare. Patients who present with acute liver injury, particularly with a hepatocellular pattern without an obvious cause, should be asked about the use of HDS and green tea extract, and should be advised to stop all herbal medications. In those drinking green tea regularly, stopping all use is prudent. In typical cases, recovery is expected in one to two months. As in any case of drug induced liver injury, the presentation with or development of abnormal liver function, deep jaundice, abnormal mentation suggestive of encephalopathy, prolongation of the prothrombin time or elevation of the INR, and a depressed albumin, should prompt referral for liver transplantation. Patients who developed acute liver injury attributable to green tea extract should be cautioned about reexposure and avoidance of HDS that might include green tea.
+Drug Class: Herbal and Dietary Supplements
+CASE REPORTS
+Case 1. 37 year old woman with acute hepatitis after using weight loss supplement.( 1 )
+A 37 year old woman developed nausea, abdominal pain and jaundice 4 months after starting a weight loss supplement called The Right Approach Complex (Pharmanex, Provo, Utah), the major component of which was green tea extract (“TeGreen”). She denied a history of liver disease, alcohol use, and risk factors for viral hepatitis. On examination, she was jaundiced but had no fever or rash. Laboratory tests showed serum bilirubin of 11.7 mg/dL and marked elevations in serum aminotransferase levels (~20 times ULN), with minimal increases in alkaline phosphatase (Table). Tests for hepatitis A, B and C were negative as were autoantibodies, except for antinuclear antibody which was weakly positive (1:40, speckled pattern). Liver biopsy revealed marked interface necrosis and inflammation and mild lobular inflammation. Cholecystectomy and intraoperative cholangiography were performed. The patient began to improve rapidly and was discharged after two weeks in the hospital. One month later, liver tests had improved significantly. One year later, she was again admitted with a one week history of abdominal pain and jaundice. She admitted to resuming The Right Approach Complex one month earlier, but stopped taking it one week before presentation when she developed dysphagia. On admission, she was jaundiced. She again improved rapidly and six months later all liver tests were normal.
+Key Points
+View in own window
+Medication: The Right Choice (383.3 mg C. sinensis extract per 3 capsules)
+Pattern: Hepatocellular
+Severity: 3+
+Latency : 4 months initially, 1 month on reexposure
+Recovery: 1 month
+Other medications: None mentioned
+Laboratory Values
+View in own window
+Time After Starting Time After Stopping ALT (U/L) AST (U/L) Alk P (U/L) Bilirubin (mg/dL) Comments
+0 Started The Right Approach (~1 gram of green tea extract daily)
+4 months 0 1788 1783 238 11.7 Liver biopsy
+5 months ~1 month 92 79 1.9
+Time After Restarting Time After Stopping Again Restarted The Right Approach 1 year later
+4 weeks 0 1131 977 165 11.7 INR: 1.3
+5 weeks 1 week 877 816 165 2.9
+9 weeks 5 weeks 69 80 1.2
+7 months 6 months 25 27 85 1.0
+Normal Values <40 <40 <114 <1.2
+Comment
+This case demonstrates the typical acute viral hepatitis-like presentation of green tea hepatotoxicity with jaundice, accompanied by marked elevations in serum aminotransferase levels and minimal increases in alkaline phosphatase. Recurrence with a similar pattern of liver injury upon reexposure to the same product provided strong evidence for a causal association. Green tea extract was the major ingredient of the supplement and its other components have not been reported to cause liver injury (calcium, chromium, magnolia extract, epimedium extract, banaba leaf extract, β-sitosterol and vanadium). This patient was later found to harbor HLA-B*35:01.
+Case 2. 27 year old man with hepatitis attributed to Hydroxycut.( 2 )
+A 27 year old man developed fatigue and jaundice 4 to 5 weeks after starting Hydroxycut (9 tablets per day) for weight loss. He denied previous liver disease, alcohol abuse, recent travel or risk factors for viral hepatitis. He denied taking any other medications or herbal preparations. Laboratory tests showed serum bilirubin of 7.8 mg/dL and marked elevations in serum aminotransferase levels ( ALT 3131 U/L, AST 1808 U/L), with minimal increases in alkaline phosphatase (171 U/L) (Table). Liver tests worsened for a day and then rapidly improved.
+Key Points
+View in own window
+Medication: Hydroxycut (1.8 grams C. sinensis extract per day)
+Pattern: Hepatocellular (R=54)
+Severity: 3+ (jaundice, hospitalization)
+Latency : 4-5 weeks
+Recovery: 1-2 months
+Other medications: None
+Laboratory Values
+View in own window
+Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) Comments
+Started Hydroxycut (1.86 g green tea extract daily)
+5 weeks 0 3131 171 7.8 Admission
+2 days 3962 Peak values
+9 weeks 4 weeks 304 1.3
+Normal Values <40 <150 <1.2
+Comment
+Green tea hepatotoxicity typically presents with jaundice and an acute viral hepatitis-like syndrome, and a markedly hepatocellular pattern of serum enzyme elevations and rapid improvement upon stopping. Hydroxycut contains high concentrations of green tea extract, although formulations frequently change. Because Hydroxycut, like many dietary supplements, is a brand of many products with many ingredients, it is difficult to implicate a specific ingredient of the product as the cause for liver injury. Other listed components of Hydroxycut included calcium, chromium, potassium, Garcinia cambogia, Gymnema sylvestre leaf extract, glucomannan, alpha-lipoic acid, willow bark extract, L-carnitine, caffeine, guarana extract, gelatin, silica and cellulose.
+Case 3. 41 year old woman with severe hepatitis after use of a green tea weight loss supplement.( 3 )
+A 41 year old Hispanic woman in general good health developed fatigue, nausea and weight loss followed by jaundice 3 to 4 weeks after starting “Green Tea Fat Burner”, a commercial weight loss product labelled as having 20 ingredients, including green tea extract (400 mg per capsule) and caffeine (160 mg per capsule), recommended to be taken twice daily. She had a remote history of an acute hepatitis of unknown cause 8 years earlier and a previous cholecystectomy. She had no other medical illnesses or drug allergies, took no prescription medications or other over-the-counter products, did not drink alcohol, and had no known risk factors for viral hepatitis. After several days of symptoms she stopped the supplement and sought medical attention 10 days later. On presentation, she was jaundiced but had no fever, rash or signs of chronic liver disease. Her body mass index was 40.7 kg/m 2 . Blood testing showed a total bilirubin of 6.3 mg/dL, ALT 2325 U/L, AST 2548 U/L and alkaline phosphatase 197 U/L (R ratio=20.9: hepatocellular). Tests for hepatitis A, B, C and E were negative. Both ANA and AMA were negative, while SMA was weakly positive (1:20). The INR was 1.5. She was initially followed as an outpatient, but with worsening symptoms and liver tests she was admitted and treated with N-acetyl cysteamine (Table). An ultrasound and CT scan of the abdomen showed hepatomegaly, but no evidence of biliary obstruction. Serum bilirubin rose to 26.7 mg/dL and INR to 1.7. A liver biopsy showed severe acute hepatitis with bridging necrosis but no fibrosis. She was not treated with corticosteroids and improved slowly. Jaundice persisted for more than a month but then resolved and at follow up at 6 months, liver tests were normal except for mild alkaline phosphatase elevations.
+Key Points
+View in own window
+Medication: Green Tea Fat Burner (800 mg)
+Pattern: Hepatocellular (R=20.9)
+Severity: 4+ (INR elevations)
+Latency : 3-4 weeks
+Recovery: 4-6 months
+Other medications: None
+Laboratory Values
+View in own window
+Time After Starting Time After Stopping ALT (U/L) Alk P (U/L) Bilirubin (mg/dL) INR Comments
+0 Started Green Tea Fat Burner
+3 weeks Symptoms of fatigue and nausea. Supplement stopped
+5 weeks 14 days 2325 197 6.3 1.5
+6 weeks 22 days 1802 144 18.3 Admitted
+26 days 1532 120 20.7 1.7
+28 days 1440 120 20.1 1.8 Liver biopsy
+8 weeks 35 days 996 143 23.8 1.7
+41 days 667 128 20.9 1.6 Discharged
+6 months 24 161 0.3 1.1 Normal
+Normal Values < 60 < 120 < 1.2 <1.2
+Comment
+This patient had a severe and prolonged hepatitis arising within a month of starting a popular commercial, multiingredient, weight loss product containing green tea extract. The estimated dose was 800 mg daily for 3 to 4 weeks. The liver injury was judged to be highly likely due to green tea extract. The ingredients of the product included multiple herbal extracts including green tea, Asian ginseng, beeswax, bilberry, blueberry, eleuthero, elderberry, Yerba mate, pomegranate and Schisandra chinensis. HLA typing showed homozygosity for HLA-B*35:01. Severity was scored as 4+ (jaundiced, INR >1.5). Chronicity was scored as possible or minimal based upon the alkaline phosphatase levels. The short latency and medical history of acute hepatitis of unknown cause in the past suggests a previous episode of green tea related liver injury, so that this episode may have represented recurrence on reexposure.
+PRODUCT INFORMATION
+REPRESENTATIVE TRADE NAMES
+Green Tea – Generic
+DRUG CLASS
+Herbal and Dietary Supplements
+SUMMARY INFORMATION
+Fact Sheet at National Center for Complementary and Integrative Health, NIH
+CHEMICAL FORMULA AND STRUCTURE
+View in own window
+DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE
+Green Tea ID: CJ12600000 Herbal Mixture Not Applicable
+CITED REFERENCES
+1.
+Bonkovsky HL. Hepatotoxicity associated with supplements containing Chinese green tea (Camellia sinensis). Ann Intern Med. 2006; 144 :68–71. [ PubMed : 16389263 ]
+2.
+Stevens T, Qadri A, Zein NN. Two patients with acute liver injury associated with use of the herbal weight-loss supplement Hydroxycut. Ann Intern Med. 2005; 142 :477–8. [ PubMed : 15767636 ]
+3.
+Hoofnagle JH, Bonkovsky HL, Phillips EJ, Li YJ, Ahmad J, Barnhart H, Durazo F, et al.; Drug-Induced Liver Injury Network. HLA-B*35:01 and green tea induced liver injury. Hepatology 2020 Sep 5. Epub ahead of print. (Case 33) [ PMC free article : PMC8052949 ] [ PubMed : 32892374 ]
+ANNOTATED BIBLIOGRAPHY
+References updated: 20 November 2020
+Abbreviations: EGCG, epigallocatechin-3-gallate; GTE, green tea extract.
+Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4.
+(Expert review of hepatotoxicity published in 1999; Chinese herbal medications are discussed, but not green tea extract specifically).
+Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58.
+(Review of hepatotoxicity of herbal and dietary supplements [HDS] mentions that there have been at least 58 case reports of liver injury attributed to green tea extracts, powdered leaves or infusions including one fatal case).
+Green tea. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 414-22.
+(Compilation of short monographs on herbal medications and dietary supplements).
+Imai K, Nakachi K. Cross-sectional study of effects of drinking green tea on cardiovascular and liver diseases. BMJ. 1995; 310 :693–6. [ PMC free article : PMC2549094 ] [ PubMed : 7711535 ]
+(In a population based survey of 1371 Japanese men, drinking >10 cups of green tea daily was associated with lower total cholesterol and triglycerides levels, increased HDL and lower ALT [19 vs 24 U/L] and AST [23 vs 25 U/L] values).
+Larrey D. Hepatotoxicity of herbal remedies. J Hepatol. 1997; 26 Suppl 1:47–51. [ PubMed : 9138129 ]
+(Review of hepatotoxicity of herbals focusing upon pyrrolizidine alkaloids, germander and Chinese herbal medications; green tea was not mentioned).
+Gavilán JC, Bermúdez FJ, Salgado F, Peña D. Fitoterapia y hepatitis. Rev Clin Esp. 1999; 199 (10):693–4. [Phytotherapy and hepatitis] Spanish. [ PubMed : 10589261 ]
+(19 year old woman developed jaundice 14 weeks after starting herbal tea and 8 weeks after starting capsules of green tea [bilirubin 11 mg/dL, ALT 1110 U/L], with severe recurrence 3 years later within 3-4 weeks of restarting the capsules).
+Stickel F, Egerer G, Seitz HK. Hepatotoxicity of botanicals. Public Health Nutr. 2000; 3 :113–24. [ PubMed : 10948380 ]
+(Review of hepatotoxicity of herbals focusing upon Chinese herbals, germander, pyrrolizidine alkaloids, chaparral; no mention of green tea extracts).
+Seddik M, Lucidarme D, Creusy C, Filoche B. Gastroenterol Clin Biol. 2001; 25 :834–5. [Is Exolise hepatotoxic?] French. [ PubMed : 11598552 ]
+(50 year old woman developed jaundice 2 months after starting "Exolise", a green tea extract containing commercial herbal product [bilirubin 7.5 mg/dL, ALT 40 times ULN, Alk P 1.5 times ULN], resolving within 2 months of stopping).
+Chantre P, Lairon D. Recent findings of green tea extract AR25(Exolise) and its activity for the treatment of obesity. Phytomedicine. 2002; 9 :3–8. [ PubMed : 11924761 ]
+(Green tea extract AR25 [Exolise] is an 80% ethanol extract of green tea standardized to 25% catechins, primarily epigallocatechin gallate and caffeine, but also others; it inhibits gastric and pancreatic lipase in vitro and stimulates thermogenesis; in an open label study, 70 obese patients lost an average of 4.6% of body weight over a 6 month period; serum ALT elevations occurred in one patient, but no details given).
+Haller CA, Dyer JE, Ko R, Olson KR. Making a diagnosis of herbal-related toxic hepatitis. West J Med. 2002; 176 :39–44. [ PMC free article : PMC1071652 ] [ PubMed : 11788538 ]
+(Two cases demonstrating the difficulties of identifying the toxic component of herbals: 42 year old woman developed fatigue 10 weeks after starting 3 herbal medications [bilirubin 1.2 mg/dL, ALT 3386 U/L, Alk P 100 U/L], ultimately attributed to Jin Bu Huan; 39 year old woman developed acute liver failure after taking multiple herbals [bilirubin 42.7 mg/dL, ALT 349 U/L, INR 3.9] believed to be due to chaparral).
+Thiolet C, Mennecier D, Bredin C, Moulin O, Rimlinger H, Nizou C, Vergeau B, Farret O. Gastroenterol Clin Biol. 2002; 26 :939–40. [Acute cytolysis induced by Chinese tea] French. [ PubMed : 12434106 ]
+(39 year old woman developed fatigue 4 months after starting biweekly “infusions of Oolong tea fine tonic” [ALT peak 45 times and Alk P 3.5 times ULN, bilirubin not given], resolving within 8 weeks of stopping).
+Pedrós C, Cereza G, García N, Laporte JR. Med Clin(Barc). 2003; 121 :598–9. [Liver toxicity of Camellia sinensis dried ethanolic extract.] [ PubMed : 14622530 ]
+(4 reports of liver injury due to "Exolise" led to its withdrawal in Spain; women, ages 29 to 69 years, onset 15-45 days after starting herbal with hepatocellular injury [bilirubin 18-19 mg/L, ALT 4-40 times ULN, Alk P 1.5-2 times ULN], resolving in 3 subjects with follow up information).
+Vial T, Bernard G, Lewden B, Dumortier J, Descotes J. Gastroenterol Clin Biol. 2003; 27 :1166–7. [Acute hepatitis due to Exolise, a Camellia sinensis-derived drug.] [ PubMed : 14770123 ]
+(46 year old woman developed jaundice 12 weeks after starting "Exolise" [bilirubin 29.1 mg/dL, ALT 75 times and Alk P 2 times ULN], with rapid recovery and recurrence on reexposure).
+Pittler MH, Ernest E. Systematic review: hepatotoxic events associated with herbal medicinal products. Aliment Pharmacol Ther. 2003; 18 :451–71. [ PubMed : 12950418 ]
+(Systematic review of published cases of hepatotoxicity due to herbal medications listing 52 case reports or case series, most common agents being greater celandine [3], chaparral [3], germander [8], Jin Bu Huan [3], kava [1], Ma Huang [3], pennyroyal [1], skullcap [2], Chinese herbs [9], valerian [1]; green tea not specifically listed or mentioned).
+Estes JD, Stolpman D, Olyaei A, Corless CL, Ham JM, Schwartz JM, Orloff SL. High prevalence of potentially hepatotoxic herbal supplement use in patients with fulminant hepatic failure. Arch Surg. 2003; 138 :852–8. [ PubMed : 12912743 ]
+(Among 20 patients undergoing liver transplantation for acute liver failure at two US transplant centers during 2001-2, 10 were attributed to herbals, but none to green tea extract).
+Lenz TL, Hamilton WR. Supplemental products used for weight loss. J Am Pharm Assoc (2003). 2004; 44(1): 59-67. [ PubMed : 14965155 ]
+(At least 50 herbal and dietary supplements have been promoted for weight loss, but none have strong clinical evidence of efficacy and several are toxic [ephedra and green tea]).
+Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl. 2004; 10 :1018–23. [ PubMed : 15390328 ]
+(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, 7 [5%] for herbal medications, including 1 attributed to kava and 1 to chaparral tea; green tea was not specifically mentioned).
+García-Morán S, Sáez-Royuela F, Gento E, López Morante A, Arias L. Gastroenterol Hepatol. 2004; 27 :559–60. [Acute hepatitis associated with Camellia tea and Orthosiphon stamineus ingestion] Spanish. [ PubMed : 15544745 ]
+(25 year old woman developed jaundice 2 months after starting green tea extract [bilirubin 19.9 mg/dL, ALT 2398 U/L, Alk P 164 U/L], resolving within 2 months of stopping).
+Dueñas Sadornil C, Fabregas Puigtió S, Durández R. Hepatotoxicidad por Camelia sinensis. Med Clin (Barc). 2004; 122 (17):677–8. [Hepatotoxicity due to Camelia sinensis] Spanish. [ PubMed : 15153351 ]
+(35 year old woman developed jaundice 5 weeks after starting "Exolise" [18.9 mg/dL, ALT 1558 U/L, Alk P 430 U/L], resolving within 2 months of stopping; same case as Pedros [2003]).
+Peyrin-Biroulet L, Petitpain N, Kalt P, Ancel D, Petit-Laurent F, Trechot P, Barraud H, Bronowicki JP. Gastroenterol Clin Biol. 2004; 28 :404–6. [Probable hepatoxicity from epigallocatecol gallate used for phytotherapy] French. [ PubMed : 15146159 ]
+(50 year old woman developed jaundice 15 days after starting Minifit [epigallocatechin gallate], with bilirubin 4.7 mg/dL, ALT 54 times ULN, resolving within 2 months of stopping, patient had a similar event a year earlier).
+Schmidt M, Schmitz HJ, Baumgart A, Guédon D, Netsch MI, Kreuter MH, Schmidlin CB, Schrenk D. Toxicity of green tea extracts and their constituents in rat hepatocytes in primary culture. Food Chem Toxicol. 2005; 43 :307–14. [ PubMed : 15621343 ]
+(Green tea extracts were toxic to isolated rat hepatocytes in vitro, the active toxic component being epigallocatechin gallate, the major catechin in green tea).
+Andrade RJ, Lucena MI, Fernández MC, Pelaez G, Pachkoria K, García-Ruiz E, García-Muñoz B, et al. Spanish Group for the Study of Drug-Induced Liver Disease. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period. Gastroenterology. 2005; 129 :512–21. [ PubMed : 16083708 ]
+(Reports of drug induced liver injury to a Spanish network found 570 cases, herbal medications accounted for 9 cases [~2%]).
+Gloro R, Hourmand-Ollivier I, Mosquet B, Mosquet L, Rousselot P, Salamé E, Piquet MA, Dao T. Fulminant hepatitis during self-medication with hydroalcoholic extract of green tea. Eur J Gastroenterol Hepatol. 2005; 17 :1135–7. [ PubMed : 16148563 ]
+(48 year old woman developed jaundice 2 months after starting Exolise [bilirubin 26.3 mg/dL, ALT 102 times ULN, Alk P normal, prothrombin index 12%], with progressive liver failure requiring transplantation).
+Stevens T, Qadri A, Zein NN. Two patients with acute liver injury associated with use of the herbal weight-loss supplement Hydroxycut. Ann Intern Med. 2005; 142 :477–8. [ PubMed : 15767636 ]
+(27 and 30 year old men developed jaundice 2 and 5 weeks after starting a Hydroxycut product [bilirubin 7.8 and 7.8 mg/dL, ALT 3131 and 45 U/L, Alk P 171 and 530 U/L], resolving within 1-2 months of stopping: Case 2).
+Porcel JM, Bielsa S, Madronero AB. Hepatotoxicity associated with green tea extracts. [Electronic letter]. Accessed by www ​.annals.org on June 3 2005.
+(53 year old woman developed jaundice 2 weeks after stopping a 2 week course of a GTE [bilirubin 5.3 mg/dL, ALT 927 U/L, Alk P 187 U/L], resolving in 5 weeks).
+Abu el Wafa Y, Benavente Fernández A, Talavera Fabuel A, Pérez Ramos MA, Ramos-Clemente JI. Hepatits aguda inducida por Camellia sinensis (té verde). An Med Interna. 2005; 22 (6):298. [Acute hepatitis induced by Camellia sinensis (green tea)] Spanish. [ PubMed : 16145729 ]
+(35 year old woman developed jaundice 10 days after starting "Exolise" for obesity [bilirubin 19.5 mg/dL, ALT 2885, Alk P 182 U/L], resolving within 2 months).
+Bonkovsky HL. Hepatotoxicity associated with supplements containing Chinese green tea (Camellia sinensis). Ann Intern Med. 2006; 144 :68–71. [ PubMed : 16389263 ]
+(37 year old woman developed jaundice 4 months after starting “The Right Approach Complex” [which contains GTE] for weight loss [bilirubin 11.7 mg/dL, ALT 1788 U/L, Alk P 238 U/L], with resolution in 1 month of stopping and recurrence within 1 month of restarting the product: Case 1).
+Martínez-Sierra C, Rendón Unceta P, Martín Herrera L. Hepatitis aguda tras ingestión de té verde. Med Clin (Barc). 2006; 127 (3):119. [Acute hepatitis after green tea ingestion] Spanish. [ PubMed : 16828006 ]
+(26 year old woman developed jaundice 4 months after starting weekly green tea “infusions” [bilirubin 6.5 mg/dL, ALT 3314, Alk P not mentioned], with recurrence within 2 weeks of restarting the drink [bilirubin 19 mg/dL, ALT 1750, Alk P 240] and resolving in 2 months after stopping).
+Galati G, Lin A, Sultan AM, O'Brien PJ. Cellular and in vivo hepatotoxicity caused by green tea phenolic acids and catechins. Free Radic Biol Med. 2006; 40 :570–80. [ PubMed : 16458187 ]
+(In vitro study of toxicity of green tea phenolic acids on rat hepatocytes, the most toxic component to mitochondrial membrane potential was epigallocatechin-3-gallate, which is the major component of green tea and is detoxified by glutathione).
+Javaid A, Bonkovsky HL. Hepatotoxicity due to extracts of Chinese green tea (Camellia sinensis): a growing concern. J Hepatol. 2006; 45 :334–5. [ PubMed : 16793166 ]
+(Letter in response to editorial by Stickel [2005] describing a 46 year old woman who developed jaundice 7 months after starting green tea extracts [bilirubin 12.3 rising to 29.5 mg/dL, ALT 1100 U/L, Alk P 194 U/L]; scant information and no follow up provided).
+Jimenez-Saenz M, Martinez-Sanchez M del C. Acute hepatitis associated with the use of green tea infusions. J Hepatol. 2006; 44 :616–7. [ PubMed : 16427718 ]
+(45 year old man drinking 6 cups of marketed green tea “infusions” daily for 4 months developed jaundice [bilirubin 7 mg/dL, ALT 1613 U/L, Alk P 310 U/L], resolving within 2 months of stopping and recurring within 1 month of restarting).
+Molinari M, Watt KD, Kruszyna T, Nelson R, Walsh M, Huang WY, Nashan B, Peltekian K. Acute liver failure induced by green tea extracts: case report and review of the literature. Liver Transpl. 2006; 12 :1892–5. [ PubMed : 17133573 ]
+(44 year old woman developed jaundice 4 months after starting GTE [720 mg/day] for weight loss [bilirubin 13.1 rising to 43.2 mg/dL, ALT 3583 U/L, GGT 112 U/L], undergoing liver transplantation 17 days after admission; patient was also on progesterone injections for contraception).
+Jimenez-Saenz M, Martinez-Sanchez C. Green tea extracts and acute liver failure: the need for caution in their use and diagnostic assessment. Liver Transpl. 2007; 13 :1067. [ PubMed : 17600357 ]
+(Letter in response to Molinari [2006] indicating that progesterone may have contributed to the injury and describing a 22 year old woman who developed jaundice 2 weeks after starting progesterone [bilirubin 13.5 mg/dL ALT 1584 U/L], with resolution on stopping).
+Federico A, Tiso A, Loguercio C. A case of hepatotoxicity caused by green tea. Free Radic Biol Med. 2007; 43 :474. [ PubMed : 17602963 ]
+(51 year old woman was found to have abnormal liver enzymes during the 5 years that she drank green tea daily, which normalized when she stopped and became abnormal again when she restarted [ALT 4-5 times ULN, Alk P 1.5-2 times ULN]).
+Björnsson E, Olsson R. Serious adverse liver reactions associated with herbal weight-loss supplements. J Hepatol. 2007; 47 :295–7. [ PubMed : 17562348 ]
+(5 cases of liver injury from green tea containing herbal [Cuur] reported to Swedish Adverse Drug Reactions Advisory Committee over 2 years; 4 women and 1 man, ages 35 to 64 years, taking product for 5-20 weeks, 4 with jaundice [bilirubin 1-25 times ULN, ALT 25-95 times ULN, Alk P 1.4-8.3 times ULN], all resolved within 5-12 weeks of stopping, 4 received prednisone).
+Jones FJ, Andrews AH. Acute liver injury associated with the herbal supplement hydroxycut in a soldier deployed to Iraq. Am J Gastroenterol. 2007; 102 :2357–8. [ PubMed : 17897352 ]
+(19 year old male US Army soldier in Iraq developed jaundice 4 months after starting a Hydroxycut weight loss product [bilirubin 11.7 mg/dL, ALT 1143 U/L, Alk P 153 U/L], resolving within 4 months of stopping).
+Elinav E, Pinsker G, Safadi R, Pappo O, Bromberg M, Anis E, Keinan-Boker L, et al. Association between consumption of Herbalife nutritional supplements and acute hepatotoxicity. J Hepatol. 2007; 47 :514–20. [ PubMed : 17692424 ]
+(12 cases of hepatotoxicity attributed to Herbalife products in Israel, 11 women, 1 man, ages 32 to 78 years, onset after 2-35 months [mean peak bilirubin 9.1 mg/dL, ALT 1481 U/L, Alk P 282 U/L], 1 with ANA resolving on recovery; 11 patients recovered, one died of hepatitis B reactivation, 3 redeveloped liver injury upon reexposure).
+Schoepfer AM, Engel A, Fattinger K, Marbet UA, Criblez D, Reichen J, Zimmermann A, Oneta CM. Herbal does not mean innocuous: ten cases of severe hepatotoxicity associated with dietary supplements from Herbalife products. J Hepatol. 2007; 47 :521–6. [ PubMed : 17692989 ]
+(10 cases of hepatotoxicity due to Herbalife products in Switzerland; 3 men and 7 women, ages 30 to 69 years, with onset after 2-144 months, 9 with jaundice [bilirubin 0.4-28.2 mg/dL, ALT 4-50 times ULN, Alk P 1.1-6.5 times ULN], 2 with recurrence on rechallenge, 3 requiring liver transplant, 1 with sinusoidal obstruction syndrome, 1 with cirrhosis).
+Stickel F. Slimming at all costs: Herbalife-induced liver injury. J Hepatol. 2007; 47 :444–6. [ PubMed : 17692988 ]
+(Editorial in reference to Schoepfer [2007] and Elinay [2007] discussing the difficulties in assigning causality and identifying the toxic component in herbal products, many patients take multiple products and each may include multiple components and possibly contain contaminants).
+Duque JM, Ferreiro J, Salgueiro E, Manso G. Med Clin(Barc). 2007; 128 :238–9. [Hepatotoxicity associated with the consumption of herbal slimming products] Spanish. [ PubMed : 17335732 ]
+(3 cases of hepatotoxicity attributed to Herbalife products, women ages 49 to 54 years, with onset of liver injury after 1, 6 and 36 months [bilirubin 0.7, 0.8, and 26.6 mg/dL, ALT 138, 505 and 1890 U/L, Alk P 112, 166 and 425 U/L], resolving in all 3 upon stopping).
+Chao S, Anders M, Turbay M, Olaiz E, Mc Cormack L, Mastai R. Acta Gastroenterol Latinoam. 2008; 38 :274–7. [Toxic hepatitis by consumption Herbalife products a case report] Spanish. [ PubMed : 19157382 ]
+(63 year old woman developed jaundice and pruritus 2.5 months after starting Herbalife products [peak bilirubin 17.5 mg/dL, ALT 847 U/L, Alk P 3 times ULN], resolving within 5 months of stopping).
+Manso G, López-Rivas L, Duque JM, Salgueiro E. Spanish reports of hepatotoxicity associated with Herbalife products. J Hepatol. 2008; 49 :289–90. [ PubMed : 18571274 ]
+(Discussion of 4 cases of Herbalife hepatotoxicity from Spain [3 reported by Duque 2007], 2 occurring in sisters, suggesting a genetic propensity and an idiosyncratic drug reaction).
+Ignarro L, Heber D, Henig YS, Bejar E. Herbalife nutritional products and liver injury revisited. J Hepatol. 2008; 49 :291–3. [ PubMed : 18550201 ]
+(Comment on publications on Herbalife hepatotoxicity [Elinav and Schoepfer 2007] questioning whether their product was involved, as the product is used by millions).
+Vanstraelen S, Rahier J, Geubel AP. Jaundice as a misadventure of a green tea (camellia sinensis) lover: a case report. Acta Gastroenterol Belg. 2008; 71 :409–12. [ PubMed : 19317284 ]
+(76 year old man who drank 6-7 “infusions” of green tea daily for years developed jaundice [bilirubin 16.7 mg/dL, ALT 646 U/L, Alk P 331 U/L], resolving within 10 weeks of stopping).
+García-Cortés M, Borraz Y, Lucena MI, Peláez G, Salmerón J, Diago M, Martínez-Sierra MC, et al. Rev Esp Enferm Dig. 2008; 100 :688–95. [Liver injury induced by "natural remedies": an analysis of cases submitted to the Spanish Liver Toxicity Registry] Spanish. [ PubMed : 19159172 ]
+(Among 521 cases of drug induced liver injury submitted to a Spanish registry, 13 [2%] were due to herbals, 3 due to green tea extracts; 23-27 year olds developed jaundice 5, 19 and 121 days after starting green tea [bilirubin 11.4-16.6 mg/dL, ALT 6-84 times ULN, Alk P 0.9-1.6 times ULN], resolving within 1.5-3 months of stopping).
+Sarma DN, Barrett ML, Chavez ML, Gardiner P, Ko R, Mahady GB, Marles RJ, et al. Safety of green tea extracts: a systematic review by the US Pharmacopeia. Drug Saf. 2008; 31 :469–84. [ PubMed : 18484782 ]
+(US Pharmacopoeia review of green tea hepatotoxicity identified 216 adverse event reports, including 34 of liver injury [8 published, others from Spanish, French, US, UK, Canadian and Australian safety reports], which were scored as probable in 7 and possible in 27; in most cases, there were multiple agents involved; the committee recommending taking green tea with meals).
+Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J., Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology. 2008; 135 :1924–34. [ PMC free article : PMC3654244 ] [ PubMed : 18955056 ]
+(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, green tea being prominently incriminated).
+Dara L, Hewett J, Lim JK. Hydroxycut hepatotoxicity: a case series and review of liver toxicity from herbal weight loss supplements. World J Gastroenterol. 2008; 14 :6999–7004. [ PMC free article : PMC2773866 ] [ PubMed : 19058338 ]
+(Two women ages 33 and 40 years with onset of symptoms 1 and 4 weeks after starting a Hydroxycut weight loss product [bilirubin 0.7 and 20.9 mg/dL, ALT 1150 and 934 U/L, Alk P 299 and 112 U/L], resolving rapidly upon stopping; ingredients included green tea extract but not ephedra).
+Lobb A. Hepatoxicity associated with weight-loss supplements: a case for better post-marketing surveillance. World J Gastroenterol. 2009; 15 :1786–7. [ PMC free article : PMC2668789 ] [ PubMed : 19360927 ]
+(Letter in response to Dara [2008] summarizing reports of liver injury attributed to Hydroxycut products and recommending more stringent regulations for HDS products in the United States).
+Bergman J, Schjøtt J. Hepatitis caused by Lotus-f3? Basic Clin Pharmacol Toxicol. 2009; 104 :414–6. [ PubMed : 19413662 ]
+(56 year old woman with psoriatic arthritis on etanercept developed jaundice 3 weeks after starting "Lotus-f3", a multiingredient product that contains GTE, for weight loss [bilirubin 17.5 mg/dL, ALT 1871 U/L, Alk P 342 U/L, INR 1.2], resolving within 6 weeks of stopping both agents and not recurring when etanercept was restarted).
+McDonnell WM, Bhattacharya R, Halldorson JB. Fulminant hepatic failure after use of the herbal weight-loss supplement exilis. Ann Intern Med. 2009; 151 :673–4. [ PubMed : 19884634 ]
+(25 year old man developed jaundice several weeks after starting Exilis, a multiingredient product that contains GTE [bilirubin 10.5 mg/dL, ALT 2362 U/L, INR 1.9], with progressive hepatic failure and urgent liver transplant 5 days after admission).
+Verhelst X, Burvenich P, Van Sassenbroeck D, Gabriel C, Lootens M, Baert D. Acute hepatitis after treatment for hair loss with oral green tea extracts (Camellia Sinensis). Acta Gastro-Enterologica Belgica. 2009; 72 :262–4. [ PubMed : 19637786 ]
+(41 year old woman developed jaundice 6 months after starting green tea containing herbal [bilirubin 13.6 mg/dL, ALT 2801 U/L, Alk P 251 U/L], with rapid resolution on stopping).
+Shim M, Saab S. Severe hepatotoxicity due to Hydroxycut: a case report. Dig Dis Sci. 2009; 54 :406–8. [ PubMed : 18661239 ]
+(28 year old man developed jaundice 3 months after starting a Hydroxycut weight loss product containing green tea extract [bilirubin 18.1 mg/dL, ALT 2272 U/L, Alk P 152 U/L, ANA 1:40], with rapid improvement on stopping).
+Schneider C, Segre T. Green tea: potential health benefits. Am Fam Physician. 2009; 79 :591–4. [ PubMed : 19378876 ]
+(Review of health benefits of green tea, the medical evidence for benefit being of limited quality and often inconsistent).
+Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis. 2009; 29 :373–82. [ PubMed : 19826971 ]
+(Overview of the regulatory environment, clinical patterns, and future directions in research with HDS; specific discussion of green tea, Hydroxycut, Herbalife and traditional Chinese herbal medicines).
+Mazzanti G, Menniti-Ippolito F, Moro PA, Cassetti F, Raschetti R, Santuccio C, Mastrangelo S. Hepatotoxicity from green tea: a review of the literature and two published cases. Eur J Clin Pharmacol. 2009; 65 :331–41. [ PubMed : 19198822 ]
+(Review of literature and addition of two cases from Italy; 81 year old woman developed jaundice 1 month after starting "Epinerve" which contained epigallocatechin gallate [bilirubin 21.8 mg/dL, ALT 2638 U/L], resolving within 3 months of stopping; and, 72 year old woman with jaundice 3 months after starting "Epinerve" [bilirubin 18 mg/dL; ALT >700 U/L], resolving rapidly on stopping).
+Amariles P, Angulo N, Agudelo-Agudelo J, Gaviria G. Farm Hosp. 2009; 33 :289–91. [Hepatitis associated with aqueous green tea infusions: a case study] Spanish. [ PubMed : 19775582 ]
+(43 year old woman taking green tea infusions for constipation for 8 months developed nausea [bilirubin 2.1 mg/dL, ALT 841 U/L, Alk P 100 U/L], with rapid recovery upon stopping).
+Lambert JD, Kennett MJ, Sang S, Reuhl KR, Ju J, Yang CS. Hepatotoxicity of high oral dose(-)-epigallocatechin-3-gallate in mice. Food Chem Toxicol. 2010; 48 :409–16. [ PMC free article : PMC2905152 ] [ PubMed : 19883714 ]
+(In mice, high oral doses of epigallocatechin gallate cause ALT elevations and acute hepatic necrosis within 24-48 hours).
+Sharma T, Wong L, Tsai N, Wong RD. Hydroxycut(®) (herbal weight loss supplement) induced hepatotoxicity: a case report and review of literature. Hawaii Med J. 2010; 69 :188–90. [ PMC free article : PMC3118021 ] [ PubMed : 20845283 ]
+(19 year old man developed fever, rash, fatigue and then jaundice 1 week after starting a Hydroxycut weight loss product [bilirubin 7.3 mg/dL, ALT 81 U/L, Alk P 298 U/L, protime 16.7 sec], biopsy showed scant necrosis, recovery within 14 weeks of stopping).
+Fong TL, Klontz KC, Canas-Coto A, Casper SJ, Durazo FA, Davern TJ 2nd, Hayashi P, et al. Hepatotoxicity due to hydroxycut: a case series. Am J Gastroenterol. 2010; 105 :1561–6. [ PMC free article : PMC3825455 ] [ PubMed : 20104221 ]
+(Details of 17 cases of hepatotoxicity due to Hydroxycut in the US between 2002-9; latency to onset ranged from 2-12 weeks with two outliers at 1 and 2 years, typical pattern of injury was hepatocellular, often severe, 4 were fatal or led to liver transplantation).
+Rashid NN, Grant J. Hydroxycut hepatotoxicity. Med J Aust. 2010; 192 :173–4. [ PubMed : 20121691 ]
+(23 year old woman developed jaundice approximately 8 weeks after starting Hydroxycut [bilirubin 6.6 mg/dL, ALT 2950 U/L, Alk P 121 U/L], resolving within 4 weeks of stopping).
+Stiefelhagen P. MMW Fortschr Med. 2010; 152 :21. ["Doing something good" for the body? Definitely not! Liver damage caused by food supplements] German. [ PubMed : 27370921 ]
+(News report on liver injury due to nutritional supplements such as Herbalife products [at least 22 cases being reported between 1998 and 2004] and Hydroxycut products).
+Jóhannsson M, Ormarsdóttir S, Olafsson S. Laeknabladid. 2010; 96 :167–72. [Hepatotoxicity associated with the use of Herbalife] Icelandic. [ PubMed : 20197595 ]
+(5 cases of liver injury attributed to Herbalife products from Iceland; 4 women and 1 man, ages 29 to 78 years with onset after 1-7 months of use [bilirubin 1.3-15.6 mg/dL, ALT 456-2637 U/L, Alk P 149-712 U/L], all recovered upon stopping).
+Reuben A, Koch DG, Lee WM., Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology. 2010; 52 :2065–76. [ PMC free article : PMC3992250 ] [ PubMed : 20949552 ]
+(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, including several herbal mixtures, usnic acid, Ma Huang, black cohosh, and Hydroxycut).
+Harvey KJ. Hydroxycut hepatotoxicity. Med J Aust. 2010; 192 :669–70. [ PubMed : 20528725 ]
+(Letter in response to Rashid [2010] stating that Hydroxycut preparations in Australia continue to have the same ingredients that led to its withdrawal in the US, including green tea extract).
+Chen GC, Ramanathan VS, Law D, Funchain P, Chen GC, French S, Shlopov B, et al. Acute liver injury induced by weight-loss herbal supplements. World J Hepatol. 2010; 2 :410–5. [ PMC free article : PMC3004035 ] [ PubMed : 21173910 ]
+(Three women, ages 31, 37 and 53 years, taking Hydroxycut or Herbalife products for weight loss developed jaundice 3, 4 and 12 months after starting [bilirubin 15.3, 29.9, and 18.2 mg/dL, ALT 1227, 2068 and 983 U/L, Alk P 268, 185 and 292 U/L], resolving within 2-3 months of stopping).
+Stickel F, Kessebohm K, Weimann R, Seitz HK. Review of liver injury associated with dietary supplements. Liver Int. 2011; 31 :595–605. [ PubMed : 21457433 ]
+(Review of current understanding of liver injury from herbals and dietary supplements focusing upon Herbalife and Hydroxycut products, green tea, usnic acid, noni juice, Chinese herbs, vitamin A and anabolic steroids).
+Yellapu RK, Mittal V, Grewal P, Fiel M, Schiano T. Acute liver failure caused by 'fat burners' and dietary supplements: a case report and literature review. Can J Gastroenterol. 2011; 25 (3):157–60. [ PMC free article : PMC3076034 ] [ PubMed : 21499580 ]
+(28 year old woman developed jaundice one month after starting two "fat burners" [Somalyz and Lipolyz] containing usnic acid and green tea as an aid to body building [bilirubin 4.8 mg/dL, ALT 1220 U/L, Alk P 111 U/L, INR 2.6], with rapid progression to acute liver failure requiring liver transplantation; the explant showed massive necrosis).
+Thavanesan N. The putative effects of green tea on body fat: an evaluation of the evidence and a review of the potential mechanisms. Br J Nutr. 2011; 106 :1297–309. [ PubMed : 21810286 ]
+(Review of mechanisms of action of green tea in weight loss suggesting that multiple mechanisms are involved).
+Appelhans K, Smith C, Bejar E, Henig YS. Revisiting acute liver injury associated with herbalife products. World J Hepatol. 2011; 3 :275–7. [ PMC free article : PMC3208182 ] [ PubMed : 22059112 ]
+(Letter in response to Chen [2010] arguing that the two cases attributed to Herbalife products were inadequately documented).
+Manso G, López-Rivas L, Salgueiro ME, Duque JM, Jimeno FJ, Andrade RJ, Lucena MI. Continuous reporting of new cases in Spain supports the relationship between Herbalife® products and liver injury. Pharmacoepidemiol Drug Saf. 2011; 20 :1080–7. [ PubMed : 21751292 ]
+(Update on cases of liver injury reported to the Spanish Pharmacovigilance Database between 2003-2010 identified 20 cases of liver injury possibly due to Herbalife products; 16 in women, mean age 45 years, 12 hospitalized, [bilirubin 0.6 to 33.3 mg/dL, ALT 88 to 3269 U/L, Alk P 112 to 1034 U/L]; one patient developed cirrhosis, the others recovered; 1 to 9 different Herbalife products were implicated and no single ingredient appeared common to most cases).
+Appelhans K, Frankos V, Shao A. Misconceptions regarding the association between Herbalife products and liver-related case reports in Spain. Pharmacoepidemiol Drug Saf. 2012; 21 :333–4. [ PubMed : 22407600 ]
+(Letter in response to Manso [2011] arguing that the causality process used was faulty and that application of WHO criteria would weaken the scoring of cases to conditional or only possibly related to the Herbalife products).
+Rohde J, Jacobsen C, Kromann-Andersen H. Ugeskr Laeger. 2011; 173 :205–6. [Toxic hepatitis triggered by green tea] Danish. [ PubMed : 21241631 ]
+(Abstract: Description of patient with liver injury arising 6 months after starting ingestion of 4-6 cups of green tea daily).
+Larrey D, Faure S. Herbal medicine hepatotoxicity: a new step with development of specific biomarkers. J Hepatol. 2011; 54 :599–601. [ PubMed : 21167851 ]
+(Editorial on the problem of hepatotoxicity of herbal medications, the difficulties of causality assessment, the variability of the products, possibly of contamination, lack of rigorous regulations and need for biomarkers for hepatic injury).
+Appelhans K, Frankos V. Herbal medicine hepatotoxicity revisited. J Hepatol. 2012; 56 :504–5. Reply by authors. [ PubMed : 21782760 ]
+(Letter in response to Larrey [2011] arguing that Herbalife products are carefully assessed for purity and that the green tea extracts used have never been implicated in causing liver injury; authors reply that idiosyncratic liver injury occurs with many medications of proven purity).
+Weinstein DH, Twaddell WS, Raufman JP, Philosophe B, Mindikoglu AL. SlimQuick™ - associated hepatotoxicity in a woman with alpha-1 antitrypsin heterozygosity. World J Hepatol. 2012; 4 :154–7. [ PMC free article : PMC3345540 ] [ PubMed : 22567188 ]
+(24 year old woman developed jaundice 3 months after starting "SlimQuick", a weight loss agent with multiple herbal ingredients including GTE with 135 mg of EGCG, [bilirubin 4.0 mg/dL, ALT 2615 U/L, Alk P 200 U/L], with little improvement 30 days after stopping herbal, but prompt recovery with prednisone therapy and no relapse on subsequent withdrawal).
+Jiménez-Encarnación E, Ríos G, Muñoz-Mirabal A, Vilá LM. Euforia-induced acute hepatitis in a patient with scleroderma. BMJ Case Rep 2012; 2012. [ PMC free article : PMC4544356 ] [ PubMed : 23257938 ]
+(45 year old woman with systemic sclerosis developed jaundice 1 month after starting "Euphoria", a combination herbal product whose ingredients included aloe vera, resveratrol, green tea, noni and several berries [bilirubin 17.7 mg/dL, ALT 837 U/L, Alk P 134 U/L], with slow recovery over the 18 months after stopping).
+Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: a tabular compilation of reported cases. Liver Int. 2012; 32 :1543–56. [ PubMed : 22928722 ]
+(A systematic compilation of all publications on the hepatotoxicity of specific herbals identified 185 publications on 60 different herbs, herbal drugs and supplements including 19 publications on green tea, 13 on Herbalife and 6 on Hydroxycut products).
+Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther. 2013; 37 :3–17. [ PubMed : 23121117 ]
+(Systematic review of literature on HDS associated liver injury mentions that green tea has been associated with clinically apparent hepatotoxicity).
+Appelhans K, Najeeullah R, Frankos V. Letter: retrospective reviews of liver-related case reports allegedly associated with Herbalife present insufficient and inaccurate data. Aliment Pharmacol Ther. 2013; 37 :753–4. [ PubMed : 23458533 ]
+(Letter in response to Bunchorntavakul [2013] arguing that the cases of liver injury attributed to Herbalife products in the review article were too poorly documented to assign causality).
+Patel SS, Beer S, Kearney DL, Phillips G, Carter BA. Green tea extract: a potential cause of acute liver failure. World J Gastroenterol. 2013; 19 :5174–7. [ PMC free article : PMC3746392 ] [ PubMed : 23964154 ]
+(16 year old boy developed jaundice 1-2 months after starting four HDS weight loss products including a GTE [bilirubin 14.8 mg/dL, ALT 2984 U/L, Alk P 186 U/L, INR 1.3], resolving within 3 months of stopping all four).
+Navarro VJ, Bonkovsky HL, Hwang SI, Vega M, Barnhart H, Serrano J. Catechins in dietary supplements and hepatotoxicity. Dig Dis Sci. 2013; 58 (9):2682–90. [ PMC free article : PMC3769469 ] [ PubMed : 23625293 ]
+(Testing of 97 HDS products taken by 47 patients with suspected HDS related liver injury identified catechins in 50%, including 40% of those that were not labelled as containing catechins or GTE; concentrations varied widely [1 mcg to 486 mg/g] and did not correlate with severity or type of injury).
+Teschke R, Schulze J, Schwarzenboeck A, Eickhoff A, Frenzel C. Herbal hepatotoxicity: suspected cases assessed for alternative causes. Eur J Gastroenterol Hepatol. 2013; 25 :1093–8. [ PubMed : 23510966 ]
+(Review of the literature of case series of suspected HDS related liver injury found evidence of other explanations for the liver injury in 19 of 23 publications involving 278 of 573 patients [49%], including 9 of 34 cases [27%] attributed to green tea, and that these other diagnoses weakened the causality assessment in most instances).
+Licata A, Macaluso FS, Craxì A. Herbal hepatotoxicity: a hidden epidemic. Intern Emerg Med. 2013; 8 :13–22. [ PubMed : 22477279 ]
+(Review and commentary on herbal hepatotoxicity discusses pyrrolizidine alkaloids, green tea, Echinacea, kava, usnic acid, ephedra and products made by Herbalife, Hydroxycut and LipoKinetix).
+Appelhans K, Najeeullah R, Frankos V. Considerations regarding the alleged association between Herbalife products and cases of hepatotoxicity. Intern Emerg Med. 2014; 9 (5):599–600. [ PubMed : 24470142 ]
+(Letter in response to Licata [2012] regarding the listing of Herbalife with other products implicated in causing liver injury, arguing that there are more than 100 Herbalife products which are mostly dietary supplements and foods, and no specific herbal has been identified in their products that might be a cause of liver injury).
+Rossi S, Navarro VJ. Herbs and liver injury: a clinical perspective. Clin Gastroenterol Hepatol. 2014; 12 (7):1069–76. [ PubMed : 23924877 ]
+(Review of current status of liver injury due to HDS including discussion of challenges of establishing causality and difficulties in identifying the potentially hepatotoxic components).
+Teschke R, Frenzel C, Schulze J, Schwarzenboeck A, Eickhoff A. Herbalife hepatotoxicity: Evaluation of cases with positive reexposure tests. World J Hepatol. 2013; 5 :353–63. [ PMC free article : PMC3724963 ] [ PubMed : 23898368 ]
+(Analysis of the published literature of outcome of rechallenge after suspected Herbalife hepatotoxicity identified 53 cases, 8 of which mentioned a positive rechallenge, however, documentation of the timing and results of rechallenge was frequently missing and only one case was suitably documented to judge the rechallenge using the RUCAM causality method).
+Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther. 2013; 37 :3–17. [ PubMed : 23121117 ]
+(Systematic review of literature on HDS associated liver injury discusses the possible hepatotoxicity of green tea and the issue of whether green tea is protective against liver injury).
+Teschke R, Schulze J, Schwarzenboeck A, Eickhoff A, Frenzel C. Herbal hepatotoxicity: suspected cases assessed for alternative causes. Eur J Gastroenterol Hepatol. 2013; 25 :1093–8. [ PubMed : 23510966 ]
+(Review of the literature of case series of suspected HDS related liver injury found evidence of other explanations for the liver injury in 19 of 23 publications involving 278 of 573 patients [49%], and that these other diagnoses weakened the causality assessment in most instances including 9 of the 34 cases [26%] attributed to green tea).
+Björnsson ES, Bergmann OM, Björnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology. 2013; 144 :1419–25. [ PubMed : 23419359 ]
+(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 15 [16%] due to herbal and dietary supplements, two of which listed green tea as a component).
+Licata A, Macaluso FS, Craxì A. Herbal hepatotoxicity: a hidden epidemic. Intern Emerg Med. 2013; 8 :13–22. [ PubMed : 22477279 ]
+(Review and commentary on herbal hepatotoxicity discusses Camellia sinensis as implicated in a total of 58 case reports, presenting as either acute hepatocellular or cholestatic hepatitis).
+Navarro VJ, Seeff LB. Liver injury induced by herbal complementary and alternative medicine. Clin Liver Dis. 2013; 17 :715–35. [ PubMed : 24099027 ]
+(Review of HDS induced liver injury including regulatory problems, difficulties in diagnosis and causality assessment; mentions that green tea is used as a weight loss agent and has been linked to cases of hepatitis, some with recurrence on re-exposure and some fatal).
+Dağ MS, Aydınlı M, Oztürk ZA, Türkbeyler IH, Koruk I, Savaş MC, Koruk M, et al. Drug- and herb-induced liver injury: a case series from a single center. Turk J Gastroenterol. 2014; 25 :41–5. [ PubMed : 24918129 ]
+(Between 2008 and 2012, 82 patients with drug or herbal supplement induced liver injury were seen at a single referral center in Turkey, 10 [12%] of which were due to HDS products, including 7 due to Teucrium polium [mountain germander] and 3 to GTE).
+Teschke R, Genthner A, Wolff A, Frenzel C, Schulze J, Eickhoff A. Herbal hepatotoxicity: Analysis of cases with initially reported positive re-exposure tests. Dig Liver Dis. 2014; 46 :264–9. [ PubMed : 24315480 ]
+(Reanalysis of 34 published cases of liver injury due to herbal medications in which there was a reported positive rechallenge, finding only 21 [62%] fulfilled the criteria of a positive rechallenge using RUCAM, the others having inconsistent [18%] or incomplete data [21%]; among 7 cases attributed to green tea, 3 rechallenges were considered uninterpretable).
+Whitsett M, Marzio DH, Rossi S. SlimQuick™-associated hepatotoxicity resulting in fulminant liver failure and orthotopic liver transplantation. ACG Case Rep J. 2014; 1 :220–2. [ PMC free article : PMC4435318 ] [ PubMed : 26157882 ]
+(52 year old woman developed jaundice 3 weeks after drinking Slimquick for 2 days [bilirubin 16.5 mg/dL, ALT 945 U/L, Alk P 210 U/L, ANA negative, INR 2.82], with progressive hepatic failure necessitating urgent liver transplant).
+de Oliveira AV, Rocha FT, Abreu SR. Acute liver failure and self-medication. Arq Bras Cir Dig. 2014; 27 (4):294–7. [ PMC free article : PMC4743226 ] [ PubMed : 25626943 ]
+(Review of published literature on acute liver failure associated with self-medication identified cases related to acetaminophen, GTE, linoleic acid, rhamnus purshianus [Fitosoja] and usnic acid).
+Emoto Y, Yoshizawa K, Kinoshita Y, Yuki M, Yuri T, Yoshikawa Y, Sayama K, Tsubura A. Green tea extract-induced acute hepatotoxicity in rats. J Toxicol Pathol. 2014; 27 :163–74. [ PMC free article : PMC4217233 ] [ PubMed : 25378801 ]
+(A single injection of GTE [200 mg/kg] in rats caused acute hepatic injury and fatalities, the rate of which varied by sex and age).
+Teschke R, Zhang L, Melzer L, Schulze J, Eickhoff A. Green tea extract and the risk of drug-induced liver injury. Expert Opin Drug Metab Toxicol. 2014; 10 :1663–76. [ PubMed : 25316200 ]
+(Review of literature on whether green tea intake might increase the risk of liver injury from other drugs, via drug-herb interactions, concludes that there is no evidence that it does).
+Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology. 2014; 60 :1399–408. [ PMC free article : PMC4293199 ] [ PubMed : 25043597 ]
+(Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, the single most commonly implicated herbal agent was green tea extract).
+Rossi S, Navarro VJ. Herbs and liver injury: a clinical perspective. Clin Gastroenterol Hepatol. 2014; 12 :1069–76. [ PubMed : 23924877 ]
+(Review of HDS induced liver injury including regulatory problems, difficulties in diagnosis and assessing causality; does not discuss germander).
+Navarro VJ, Lucena MI. Hepatotoxicity induced by herbal and dietary supplements. Semin Liver Dis. 2014; 34 :172–93. [ PubMed : 24879982 ]
+(Review of HDS induced liver injury including regulatory problems, difficulties in diagnosis and causality assessment, mentions that germander has been linked to more than 50 cases of hepatotoxicity presenting as acute or chronic hepatitis, cirrhosis or acute liver failure with massive necrosis).
+Korth C. Drug-induced hepatotoxicity of select herbal therapies. J Pharm Pract. 2014; 27 :567–72. [ PubMed : 25546878 ]
+(Review of liver injury due to selected HDS discusses the literature implicating kava, GTE, germander, pyrrolizidine alkaloids and Herbalife products).
+Mazzanti G, Di Sotto A, Vitalone A. Hepatotoxicity of green tea: an update. Arch Toxicol. 2015; 89 :1175–91. [ PubMed : 25975988 ]
+(Updated review on the hepatotoxicity of green tea identified 19 published cases since their previous review [Massanti 2009], mostly in women [84%], hepatocellular in pattern [86%], 4 cases requiring liver transplantation, onset after variable period [2 days to 1 year], often given as a multiingredient supplement, largely for weight loss).
+Seeff LB, Bonkovsky HL, Navarro VJ, Wang G. Herbal products and the liver: a review of adverse effects and mechanisms. Gastroenterology. 2015; 148 :517–532.e3. [ PubMed : 25500423 ]
+(Extensive review of possible beneficial as well as harmful effects of herbal products on the liver mentions that there have been numerous reports of liver injury from GTE).
+Stickel F, Shouval D. Hepatotoxicity of herbal and dietary supplements: an update. Arch Toxicol. 2015; 89 :851–65. [ PubMed : 25680499 ]
+(Extensive review of liver injury due to HDS mentions that GTE is a well established cause of liver injury).
+Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al. United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology. 2015; 148 :1340–52.e7. [ PMC free article : PMC4446235 ] [ PubMed : 25754159 ]
+(Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], the single major herbal cause being GTE).
+Zheng EX, Navarro VJ. Liver injury from herbal, dietary, and weight loss supplements: a review. J Clin Transl Hepatol. 2015; 3 :93–8. [ PMC free article : PMC4548352 ] [ PubMed : 26357638 ]
+(Review of literature on liver injury due to HDS products used for weight loss, focusing upon the case series of liver injury attributed to GTE as well as the commercial products that appear to contain it such as Herbalife and Hydroxycut, the injury of which was predominantly hepatocellular (acute hepatitis-like) and had a significant mortality rate).
+Lugg ST, Braganza Menezes D, Gompertz S. Chinese green tea and acute hepatitis: a rare yet recurring theme. BMJ Case Rep. 2015; 2015 :bcr2014208534. pii. [ PMC free article : PMC4593258 ] [ PubMed : 26400588 ]
+(16 year old girl developed jaundice 3 months after starting Chinese green tea, 3 cups daily [bilirubin 11.6 mg/dL, ALT 4371 U/L, Alk P 84 U/L, INR 1.9], resolving within 2 months of stopping).
+Dostal AM, Samavat H, Bedell S, Torkelson C, Wang R, Swenson K, Le C, et al. The safety of green tea extract supplementation in postmenopausal women at risk for breast cancer: results of the Minnesota Green Tea Trial. Food Chem Toxicol. 2015; 83 :26–35. [ PMC free article : PMC4540665 ] [ PubMed : 26051348 ]
+(Among 1075 postmenopausal women with high risk for breast cancer treated with green tea extract [1315 mg total catechins] or placebo for 12 months, ALT elevations arose in 6.7% of GTE vs 0.7% of controls and were above 5 times ULN in 1.3% vs 0%, but none were associated with symptoms or jaundice and all resolved rapidly with stopping therapy, but then recurred in 12 subjects who restarted GTE).
+Kumar NB, Pow-Sang J, Spiess PE, Park J, Salup R, Williams CR, et al. Randomized, placebo-controlled trial evaluating the safety of one-year administration of green tea catechins. Oncotarget. 2016; 7 :70794–802. [ PMC free article : PMC5340117 ] [ PubMed : 28053292 ]
+(Among 97 men at risk for prostate cancer treated with GTE [400 mg EGCG] or placebo daily for 1 year, ALT elevations were common in both groups; no details provided).
+Reddy S, Mishra P, Qureshi S, Nair S, Straker T. Hepatotoxicity due to red bush tea consumption: a case report. J Clin Anesth. 2016; 35 :96–8. [ PubMed : 27871602 ]
+(37 year old man who drank 10 cups of rooibos tea daily was found to have thrombocytopenia [42,000/µL] and abnormal liver tests when admitted for appendectomy [bilirubin 0.4 mg/dL, ALT 185 U/L, AST 606 U/L, Alk P 86 U/L], abnormalities resolving over the next week).
+Couturier FJ, Colemont LJ, Fierens H, Verhoeven VM. Toxic hepatitis due to a food supplement: "natural" is no synonym for "harmless". Clin Res Hepatol Gastroenterol. 2016; 40 :e38–43. [ PubMed : 26971288 ]
+(77 year old woman developed jaundice a month after starting a supplement containing red yeast rice and GTE [bilirubin 4.9 mg/dL, ALT 1742 U/L, Alk P 198 U/L], with complete recovery within 4 months of stopping).
+Gedela M, Potu KC, Gali VL, Alyamany K, Jha LK. A case of hepatotoxicity related to Kombucha tea consumption. S D Med. 2016; 69 :26–8. [ PubMed : 26882579 ]
+(58 year old woman developed pain and itching followed by jaundice one month after starting daily Kombucha tea ingestion [bilirubin 4.1 mg/dL, ALT 330 U/L, Alk P 630 U/L], which fell to normal within a month of stopping).
+Smith RJ, Bertilone C, Robertson AG. Fulminant liver failure and transplantation after use of dietary supplements. Med J Aust. 2016; 204 :30–2. [ PubMed : 26763816 ]
+(26 year old man developed jaundice 10 weeks after taking a weight loss supplement containing Garcinia cambogia [bilirubin 10.2 mg/dL, ALT 1520 U/L, Alk P 156 U/L, INR 1.3], with subsequent deterioration and liver transplant 2 months later).
+García-Cortés M, Robles-Díaz M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by dietary supplements: A tabular listing and clinical characteristics. Int J Mol Sci. 2016; 17 :537. [ PMC free article : PMC4848993 ] [ PubMed : 27070596 ]
+(Listing of published cases of liver injury from HDS products including green tea).
+Avigan MI, Mozersky RP, Seeff LB. Scientific and regulatory perspectives in herbal and dietary supplement associated hepatotoxicity in the United States. Int J Mol Sci. 2016; 17 :331. [ PMC free article : PMC4813193 ] [ PubMed : 26950122 ]
+(Overview of the US regulations regarding herbal and dietary supplements and role of FDA, Department of Agriculture, Federal Trade Commission and Office of Dietary Supplements of the NIH in assessment of safety of HDS products including actions taken against Hydroxycut, Lipokinetix and OxyELITE Pro when reports of liver injury appeared in postmarketing phase).
+Marcus DM. Dietary supplements: What's in a name? What's in the bottle? Drug Test Anal. 2016; 8 (3-4):410–2. [ PubMed : 27072845 ]
+(Commentary on regulation of HDS products concludes: "the marketing of botanical supplements is based on unfounded claims that they are safe and effective", and "there is no reason to take herbal medicines whose composition and benefits are unknown and whose risks are evident").
+Zheng EX, Rossi S, Fontana RJ, Vuppalanchi R, Hoofnagle JH, Khan I, Navarro VJ. Risk of liver injury associated with green tea extract in SLIMQUICK(®) weight loss products: results from the DILIN prospective study. Drug Saf. 2016; 39 :749–54. [ PMC free article : PMC4961850 ] [ PubMed : 27189593 ]
+(Among 899 cases enrolled in a prospective US registry of drug induced liver injury between 2004 and 2013, 6 were attributed to SlimQuick, an over-the-counter product sold as a weight loss agent which contains GTE [initial bilirubin 0.4 to 40.5 mg/dL, ALT 446 to 1732 U/L, Alk P 81-239 U/L], one requiring an urgent liver transplant, but other 5 resolving spontaneously).
+Brown AC. An overview of herb and dietary supplement efficacy, safety and government regulations in the United States with suggested improvements. Part 1 of 5 series. Food Chem Toxicol 2017; 107(Pt A): 449-71. [ PubMed : 27818322 ]
+(Summary of the US regulations on safety and efficacy of herbal and dietary supplements).
+Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107(Pt A): 472-501. [ PubMed : 27402097 ]
+(Description of an online compendium of cases of liver toxicity attributed to HDS products, lists at least 46 published cases of green tea associated liver injury and concludes that green tea may warrant a warning label).
+Wong LL, Lacar L, Roytman M, Orloff SL. Urgent liver transplantation for dietary supplements: an under-recognized problem. Transplant Proc. 2017; 49 :322–5. [ PubMed : 28219592 ]
+(Among 2048 adult liver transplants recipients enrolled in the Scientific Registry of Transplant Recipients [SRTR] between 2003 and 2015, 625 were done for acute hepatic necrosis due to drug induced liver injury, half being due to acetaminophen and the 4th most frequent cause [n=21] being HDS products).
+de Boer YS, Sherker AH. Herbal and dietary supplement-induced liver injury. Clin Liver Dis. 2017; 21 :135–49. [ PMC free article : PMC5117680 ] [ PubMed : 27842768 ]
+(Review of the frequency, clinical features, patterns of injury and outcomes of HDS hepatotoxicity with specific mention of anabolic steroids, black cohosh, germander, green tea, pyrrolizidine alkaloids and proprietary multiingredient nutrition supplements [MINS]).
+Vega M, Verma M, Beswick D, Bey S, Hossack J, Merriman N, Shah A, et al. Drug Induced Liver Injury Network (DILIN). The incidence of drug- and herbal and dietary supplement-induced liver injury: preliminary findings from gastroenterologist-based surveillance in the population of the State of Delaware. Drug Saf. 2017; 40 :783–7. [ PMC free article : PMC5699929 ] [ PubMed : 28555362 ]
+(A prospective, population based registry of cases of drug induced liver injury occurring in Delaware during 2014, identified 20 cases [2.7 per 100,000] overall, including 6 due to HDS products, all of which were proprietary multiingredient products, none specifically listing green tea as a component).
+Kesavarapu K, Kang M, Shin JJ, Rothstein K. Yogi Detox Tea: a potential cause of acute liver failure. Case Rep Gastrointest Med. 2017; 2017 :3540756. [ PMC free article : PMC5674495 ] [ PubMed : 29204300 ]
+(60 year old woman developed jaundice after using "Yogi Detox Tea" 3 times daily for 14 days [bilirubin 27 mg/dL, ALT 583 U/L, Alk P 202 U/L, INR 4.0], dying 17 days after onset; the label listing 18 herbs including skullcap, rhubarb root and gardenia, but not Camellia sinensis).
+Yu Z, Samavat H, Dostal AM, Wang R, Torkelson CJ, Yang CS, Butler LM, et al. Effect of green tea supplements on liver enzyme elevation: results from a randomized intervention study in the United States. Cancer Prev Res (Phila). 2017; 10 :571–9. [ PMC free article : PMC9257888 ] [ PubMed : 28765194 ]
+(Among 1021 postmenopausal women treated with GTE or placebo for 12 months [Dostal 2015], 17 on GTE [3.6%] but none on placebo developed ALT elevations above 150 U/L, which returned to normal on stopping and increased again on restarting GTE, none developing clinically apparent liver injury but 36 were withdrawn for ALT levels above 90 U/L).
+Dinakaran D, Bristow E, Armanious H, Garros D, Yap J, Noga M, Sergi C. Co-ingestion of willow bark tea and acetaminophen associated with fatal infantile fulminant liver failure. Pediatr Int. 2017; 59 :743–5. [ PubMed : 28436611 ]
+(28 month old boy developed agitation followed by coma 3 days after taking acetaminophen and "Lake Twig tea" which contains salicylates for a respiratory infection [bilirubin 3.0 mg/dL, ALT 7240 U/L, Alk P 372 U/L, INR 9.1, ammonia 619 µmol/L, pH 7.30, lactate 13 mmol/L], dying in coma with brain herniation 15 hours later; autopsy showing hepatomegaly, microvesicular steatosis and centrilobular necrosis consistent with Reye syndrome).
+Navarro VJ, Khan I, Björnsson E, Seeff LB, Serrano J, Hoofnagle JH. Liver injury from herbal and dietary supplements. Hepatology. 2017; 65 :363–73. [ PMC free article : PMC5502701 ] [ PubMed : 27677775 ]
+(Review of the problems of liver injury and HDS products, specifically discusses GTE hepatotoxicity, the cause of which is unknown, although high doses are hepatotoxic in mice and more than 50 cases of clinically apparent liver injury have been attributed to its use, GTE being identified in almost half of HDS products implicated in liver injury, some of which were not labelled as containing GTE).
+Gavrić A, Ribnikar M, Šmid L, Luzar B, Štabuc B. Fat burner-induced acute liver injury: Case series of four patients. Nutrition. 2018; 47 :110–4. [ PubMed : 29310849 ]
+(4 cases of clinically apparent liver injury from weight loss products advertised as “fat burners”, all women, ages 51 to 57 years, taking the products for 3-10 weeks, and presenting with jaundice [bilirubin 2.8 to 11.6 mg/dL, ALT 666-12,882 U/L, Alk P 162 to 242 U/L], one dying of liver failure and one with recurrence 5 years later after taking another fat burner, most products containing GTE, but others with spirulina, green coffee and roseslip).
+Roytman MM, Poerzgen P, Navarro V. Botanicals and hepatotoxicity. Clin Pharmacol Ther. 2018; 104 :458–69. [ PubMed : 29920648 ]
+(Review of the hepatotoxicity and clinical features of injury caused by botanical agents including green tea, OxyELITE Pro and anabolic steroids).
+Teschke R, Wolff A, Eickhoff A, Danan G. Is obesity rather than the dietary supplement used for weight reduction the cause of liver injury? JGH Open. 2018; 2 :152–7. [ PMC free article : PMC6152465 ] [ PubMed : 30483581 ]
+(Review of the literature on liver injury attributed to green tea suggested that nonalcoholic fatty liver might have been a contributing factor in cases in which green tea extract was being used as a weight loss agent).
+Surapaneni BK, Le M, Jakobovits J, Vinayek R, Dutta S. A case of acute severe hepatotoxicity and mild constriction of common bile duct associated with ingestion of green tea extract: a clinical challenge. Clin Med Insights Gastroenterol. 2018; 11 :1179552218779970. [ PMC free article : PMC6058416 ] [ PubMed : 30057447 ]
+(50 year old woman developed fatigue and jaundice one month after starting dietary supplements containing green tea extract [bilirubin 38 mg/dL, ALT 1170 U/L, Alk P 113 U/L], initially managed with ERCP, biliary stenting and corticosteroids, resolving over the next 6 weeks).
+EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Younes M, Aggett P, Aguilar F, Crebelli R, Dusemund B, Filipič M, Frutos MJ, et al. Scientific opinion on the safety of green tea catechins. EFSA J 2018; 16: e05239. [ PMC free article : PMC7009618 ] [ PubMed : 32625874 ]
+(Review of the literature by an expert panel concluded that green tea infusions and drinks should be considered “generally as safe” although there are rare instances of associated liver injury which are probably idiosyncratic reactions, but that doses of green tea extracts equivalent to 800 mg of EGCG or more daily can be associated with significant aminotransferase elevations).
+D'Agostinoa D, Cavalieri ML, Arcucci MS. Hepatitis grave producida por intoxicación con té verde en un niño. Presentación de un caso. Arch Argent Pediatr. 2019; 117 :e655–e658. [Severe hepatitis caused by green tea intoxication in a child. Case report] Spanish. [ PubMed : 31758905 ]
+(2 year old child on daily green tea ingestion because of milk allergy developed acute liver injury [bilirubin 2.5 mg/dL, ALT 1500 U/L, Alk P 482 U/L, INR 1.0], enzymes returning to normal within 2 months of stopping).
+Lin K, Lin AN, Linn S, Hlaing PP, Vasudevan V, Reddy M. Ginseng-related drug-induced liver injury. Case Rep Gastroenterol. 2018; 12 :439–46. [ PMC free article : PMC6120378 ] [ PubMed : 30186097 ]
+(45 year old Chinese-American woman developed abdominal pain and nausea 3 months after starting ginseng for menopausal symptoms [bilirubin 5.0 mg/dL, ALT 343 U/L, Alk P 182 U/L, INR 1.2], resolving within 2 months of stopping).
+Benesic A, Gerbes AL. Herbal tea and liver injury – tea extract or comedication can make a difference. J Hepatol. 2018; 69 :547–8. [ PubMed : 29776714 ]
+(Two patients with suspected green tea related liver injury tested positive in an in vitro assay using the patients’ own monocyte-transformed hepatocyte-like cells exposed to EGCG).
+Rodriguez EA, Teixeira Yokoda R, Payton DE, Pai R, Byrne TJ. Acute hepatitis secondary to the use of "Ilex paraguariensis" (Mate Tea): a case report and Review of Literature. Case Reports Hepatol. 2019; 2019 :8459205. [ PMC free article : PMC6815554 ] [ PubMed : 31737383 ]
+(21 year old man developed fatigue and jaundice after spending 4 months in Argentina where he drank Yerba Mate tea on a regular basis [bilirubin 32.9 mg/dL, ALT 2684 U/L, Alk P 129 U/L, INR 1.2], resolving within 6-8 weeks of onset).
+Ruperti-Repilado FJ, Haefliger S, Rehm S, Zweier M, Rentsch KM, Blum J, Jetter A, et al. Danger of herbal tea: a case of acute cholestatic hepatitis due to "Artemisia annua" tea. Front Med (Lausanne). 2019; 6 :221. [ PMC free article : PMC6798169 ] [ PubMed : 31681778 ]
+(51 year old man developed fatigue followed by jaundice shortly after finishing a 4 week course of Artemisia annua powder tea while traveling to Ethiopia [bilirubin 11.0 mg/dL, ALT 91 U/L, Alk P 151 U/L], with prolonged jaundice but ultimately resolving).
+Hadjipanayis A, Efstathiou E, Papaevangelou V. Hepatotoxicity in an adolescent with black iced tea overconsumption. Pediatr Gastroenterol Hepatol Nutr. 2019; 22 :387–91. [ PMC free article : PMC6629587 ] [ PubMed : 31338314 ]
+(12 year old boy developed fatigue and itching having consumed 1.5-2.0 liters of iced black tea daily for 3 months [bilirubin 3.0 mg/dL, ALT 427 U/L, Alk P 910 U/L, GGT 182 U/L], the abnormalities resolving within 2 months of stopping the black tea).
+Oketch-Rabah HA, Roe AL, Rider CV, Bonkovsky HL, Giancaspro GI, Navarro V, Paine MF, et al. United States Pharmacopeia (USP) comprehensive review of the hepatotoxicity of green tea extracts. Toxicol Rep. 2020; 7 :386–402. [ PMC free article : PMC7044683 ] [ PubMed : 32140423 ]
+(An extensive review of the chemistry and potential toxicity of green tea concluded that green tea was a rare cause of liver injury and that it should be labeled with a warning).
+Hoofnagle JH, Bonkovsky HL, Phillips EJ, Li YJ, Ahmad J, Barnhart H, Durazo F, et al. Drug-Induced Liver Injury Network. HLA-B*35:01 and green tea induced liver injury. Hepatology. 2020 Sep 5; Epub ahead of print. [ PMC free article : PMC8052949 ] [ PubMed : 32892374 ]
+(Among 1414 cases of drug induced liver injury enrolled in a prospective US database between 2004 and 2018, 1142 were attributed to conventional drugs and 273 to HDS, of which 40 were judged to be due to green tea, often as a part of a multiingredient product, with a median latency of 42 days and hepatocellular injury [95%] which was severe in 35% and led to liver transplantation in 8%; 3 patients had documented recurrence upon reexposure; HLA-B*35:01 was present in 72% of green tea cases versus 11-15% of controls suggesting an immunologic pathogenesis).
+Copyright Notice
+Bookshelf ID: NBK547925 PMID: 31643260
+Drug Records
+< Prev Next >
+Share
+Views
+PubReader
+Print View
+Cite this Page
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Green Tea. [Updated 2020 Nov 20].
+PDF version of this page (286K)
+Disable Glossary Links
+New and Updated
+In PubMed
+Bulk Download
+Bulk download LiverTox data from FTP
+Overviews
+Introduction
+Clinical Course
+Clinical Outcomes
+Immune Features
+Phenotypes
+Causality
+Likelihood Scale
+Severity Grading
+Writing a Case Report
+Support Links
+LiverTox Homepage
+Master List of LiverTox Drugs [with Metadata]
+LiverTox Drugs by Drug Class
+About LiverTox
+Editors and Review Committee
+Meetings and News
+Abbreviations Used
+Glossary
+Information Resources
+User/Medical Advice Disclaimer
+Contact Us
+OTHER REFERENCE LINKS
+Recent References on Green Tea: from PubMed.gov
+Trials on Green Tea: from ClinicalTrials.gov
+Related information
+PMC
+PubMed Central citations
+PubMed
+Links to PubMed
+Similar articles in PubMed
+Garcinia cambogia, Either Alone or in Combination With Green Tea, Causes Moderate to Severe Liver Injury. [Clin Gastroenterol Hepatol. 2022]
+Garcinia cambogia, Either Alone or in Combination With Green Tea, Causes Moderate to Severe Liver Injury.
+Vuppalanchi R, Bonkovsky HL, Ahmad J, Barnhart H, Durazo F, Fontana RJ, Gu J, Khan I, Kleiner DE, Koh C, et al. Clin Gastroenterol Hepatol. 2022 Jun; 20(6):e1416-e1425. Epub 2021 Aug 14.
+Review Liver injury from herbal and dietary supplements. [Hepatology. 2017]
+Review Liver injury from herbal and dietary supplements.
+Navarro VJ, Khan I, Björnsson E, Seeff LB, Serrano J, Hoofnagle JH. Hepatology. 2017 Jan; 65(1):363-373. Epub 2016 Nov 17.
+Review United States Pharmacopeia (USP) comprehensive review of the hepatotoxicity of green tea extracts. [Toxicol Rep. 2020]
+Review United States Pharmacopeia (USP) comprehensive review of the hepatotoxicity of green tea extracts.
+Oketch-Rabah HA, Roe AL, Rider CV, Bonkovsky HL, Giancaspro GI, Navarro V, Paine MF, Betz JM, Marles RJ, Casper S, et al. Toxicol Rep. 2020; 7:386-402. Epub 2020 Feb 15.
+Green tea extract: a potential cause of acute liver failure. [World J Gastroenterol. 2013]
+Green tea extract: a potential cause of acute liver failure.
+Patel SS, Beer S, Kearney DL, Phillips G, Carter BA. World J Gastroenterol. 2013 Aug 21; 19(31):5174-7.
+HLA-B*35:01 and Green Tea-Induced Liver Injury. [Hepatology. 2021]
+HLA-B*35:01 and Green Tea-Induced Liver Injury.
+Hoofnagle JH, Bonkovsky HL, Phillips EJ, Li YJ, Ahmad J, Barnhart H, Durazo F, Fontana RJ, Gu J, Khan I, et al. Hepatology. 2021 Jun; 73(6):2484-2493. Epub 2021 May 17.
+See reviews... See all...
+Recent Activity
+Clear Turn Off Turn On
+Green Tea - LiverTox
+Green Tea - LiverTox
+Your browsing activity is empty.
+Activity recording is turned off.
+Turn recording back on
+See more...
+Follow NCBI
+Twitter Facebook LinkedIn GitHub NCBI Insights Blog
+Connect with NLM
+Twitter
+Facebook
+Youtube
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+Web Policies FOIA HHS Vulnerability Disclosure
+Help Accessibility Careers
+NLM
+NIH
+HHS
+USA.gov

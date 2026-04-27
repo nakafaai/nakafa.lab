@@ -13,7 +13,7 @@ Scope: affordable cure-oriented research, not treatment advice
 | 4 | Epigenetic HbF target discovery | `MBD2-NuRD`, `LSD1`, `DNMT1`, and `NRF2/BACH1` make the assay screen mechanistic | toxicity and selectivity |
 | 5 | Curcuminoid analog HbF bridge | natural-product-adjacent analogs have direct HbF literature | not the same as ordinary curcumin; needs defined analog and safety |
 | 6 | Assay-ready HbF screen | directly tests cure-like endpoint | needs lab partner and assay access |
-| 7 | EGCG / green-tea extract adjunct comparator | randomized TDT human data for erythropoiesis, oxidative-stress, platelet, and coagulation endpoints | no HbF, transfusion-independence, or cure evidence yet |
+| 7 | EGCG / green-tea extract adjunct comparator | randomized TDT human data for erythropoiesis, oxidative-stress, platelet, and coagulation endpoints | no HbF, transfusion-independence, or cure evidence; concentrated GTE also needs liver-safety and standardization gates |
 | 8 | Propolis red-cell oxidative-stress lane | red-cell oxidative-stress evidence exists | no direct HbF or thalassemia evidence yet |
 | 9 | Royal jelly oxidative-stress lane | general oxidative/inflammation evidence exists | no direct HbF or thalassemia evidence yet |
 | 10 | Melittin/bee venom lane | biologically active venom molecule | hemolysis and anaphylaxis risk; hazard-first only |
@@ -60,7 +60,9 @@ EGCG-rich green-tea extract is now separated as a clinical adjunct comparator,
 not a cure lead. It has randomized TDT human evidence, but the current endpoint
 fit is red-cell support, ERFE/hepcidin biology, platelet aggregation, protein
 C/S, and iron-overload-adjacent markers rather than durable transfusion
-independence or HbF reactivation.
+independence or HbF reactivation. It now also has a hard safety blocker:
+concentrated GTE can cause idiosyncratic liver injury, and fasting bolus dosing
+or unstandardized products can change EGCG exposure.
 
 ## Not A Recommendation
 
@@ -78,5 +80,6 @@ This is a research ranking. It is not a patient treatment ranking.
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [EGCG TDT clinical adjunct boundary](../findings/2026-04-27-egcg-tdt-clinical-adjunct-boundary.md)
+- [EGCG safety and standardization gate](../findings/2026-04-27-egcg-safety-standardization-gate.md)
 - [Propolis cytoprotective activity in human erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/)
 - [Melittin-induced hemolysis mechanism, PubMed PMID 7055625](https://pubmed.ncbi.nlm.nih.gov/7055625/)

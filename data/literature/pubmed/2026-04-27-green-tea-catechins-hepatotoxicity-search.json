@@ -1,0 +1,261 @@
+{
+  "count": 10,
+  "query": "green tea catechins hepatotoxicity",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29580974"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.yrtph.2018.03.019"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0273-2300(18)30092-8"
+        }
+      ],
+      "journal": "Regul Toxicol Pharmacol",
+      "pmid": "29580974",
+      "pubdate": "2018 Jun",
+      "title": "The safety of green tea and green tea extract consumption in adults - Results of a systematic review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36178169"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS1848296"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10060436"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10060436;manuscript-id: NIHMS1848296;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/19390211.2022.2128501"
+        }
+      ],
+      "journal": "J Diet Suppl",
+      "pmid": "36178169",
+      "pubdate": "2023",
+      "title": "Hepatotoxicity with High-Dose Green Tea Extract: Effect of Catechol-O-Methyltransferase and Uridine 5'-Diphospho-glucuronosyltransferase 1A4 Genotypes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32625874"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7009618"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7009618;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2903/j.efsa.2018.5239"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "EFS25239"
+        }
+      ],
+      "journal": "EFSA J",
+      "pmid": "32625874",
+      "pubdate": "2018 Apr",
+      "title": "Scientific opinion on the safety of green tea catechins."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32140423"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7044683"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7044683;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.toxrep.2020.02.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2214-7500(19)30659-6"
+        }
+      ],
+      "journal": "Toxicol Rep",
+      "pmid": "32140423",
+      "pubdate": "2020",
+      "title": "United States Pharmacopeia (USP) comprehensive review of the hepatotoxicity of green tea extracts."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27723473"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS822017"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5124528"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5124528;manuscript-id: NIHMS822017;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jnutbio.2016.05.005"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0955-2863(16)30099-7"
+        }
+      ],
+      "journal": "J Nutr Biochem",
+      "pmid": "27723473",
+      "pubdate": "2017 Feb",
+      "title": "Therapeutic properties of green tea against environmental insults."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10352424"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000028303"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "28303"
+        }
+      ],
+      "journal": "Pharmacology",
+      "pmid": "10352424",
+      "pubdate": "1999 Jul",
+      "title": "Effects of green tea catechins on membrane fluidity."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16458187"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.freeradbiomed.2005.09.014"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0891-5849(05)00534-4"
+        }
+      ],
+      "journal": "Free Radic Biol Med",
+      "pmid": "16458187",
+      "pubdate": "2006 Feb 15",
+      "title": "Cellular and in vivo hepatotoxicity caused by green tea phenolic acids and catechins."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "10097515"
+        }
+      ],
+      "journal": "Kokuritsu Iyakuhin Shokuhin Eisei Kenkyusho Hokoku",
+      "pmid": "10097515",
+      "pubdate": "1998",
+      "title": "[Inhibitory effect of green tea infusion of hepatotoxicity]."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25316200"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1517/17425255.2014.971011"
+        }
+      ],
+      "journal": "Expert Opin Drug Metab Toxicol",
+      "pmid": "25316200",
+      "pubdate": "2014 Dec",
+      "title": "Green tea extract and the risk of drug-induced liver injury."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19198822"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00228-008-0610-7"
+        }
+      ],
+      "journal": "Eur J Clin Pharmacol",
+      "pmid": "19198822",
+      "pubdate": "2009 Apr",
+      "title": "Hepatotoxicity from green tea: a review of the literature and two unpublished cases."
+    }
+  ]
+}

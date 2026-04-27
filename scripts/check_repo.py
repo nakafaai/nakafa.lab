@@ -336,6 +336,24 @@ CRBN_HBF_BOUNDARY_PATHS = [
     "data/registries/clinicaltrials/2026-04-27-pomalidomide-thalassemia-trials.json",
 ]
 
+EGCG_SAFETY_STANDARDIZATION_PATHS = [
+    "data/literature/fulltext/ncbi_books/2026-04-27-livertox-green-tea.html",
+    "data/literature/fulltext/ncbi_books/2026-04-27-livertox-green-tea.txt",
+    "data/literature/fulltext/pmc/2026-04-27-usp-green-tea-extract-hepatotoxicity-review.html",
+    "data/literature/fulltext/pmc/2026-04-27-usp-green-tea-extract-hepatotoxicity-review.txt",
+    "data/literature/fulltext/pmc/2026-04-27-green-tea-extract-liver-safety-rct-review.html",
+    "data/literature/fulltext/pmc/2026-04-27-green-tea-extract-liver-safety-rct-review.txt",
+    "data/literature/pubmed/2026-04-27-green-tea-extract-hepatotoxicity-search.json",
+    "data/literature/pubmed/2026-04-27-egcg-liver-injury-search.json",
+    "data/literature/pubmed/2026-04-27-green-tea-extract-interaction-search.json",
+    "data/literature/pubmed/2026-04-27-green-tea-extract-liver-injury-search.json",
+    "data/literature/pubmed/2026-04-27-green-tea-catechins-hepatotoxicity-search.json",
+    "data/literature/pubmed/2026-04-27-green-tea-anticoagulant-interaction-search.json",
+    "data/literature/pubmed/2026-04-27-egcg-safety-selected-abstracts.xml",
+    "data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.html",
+    "data/regulatory/efsa/2026-04-27-efsa-green-tea-catechins-safety-pmc.txt",
+]
+
 REQUIRED_PATHS = [
     "README.md",
     "AGENTS.md",
@@ -387,6 +405,7 @@ REQUIRED_PATHS = [
     *QUERCETIN_ANALOG_PATHS,
     *HBF_REPORTER_GUARDRAIL_PATHS,
     *CRBN_HBF_BOUNDARY_PATHS,
+    *EGCG_SAFETY_STANDARDIZATION_PATHS,
     "data/registries/clinicaltrials/2026-04-27-gene-therapy-beta-thalassemia.json",
     "data/registries/clinicaltrials/2026-04-27-indonesia-thalassemia-trials.json",
     "data/registries/clinicaltrials/2026-04-27-lsd1-beta-thalassemia.json",
@@ -439,6 +458,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-nigella-product-standardization-gate.md",
     "research/thalassemia/findings/2026-04-27-ginger-shogaol-red-cell-support-map.md",
     "research/thalassemia/findings/2026-04-27-egcg-tdt-clinical-adjunct-boundary.md",
+    "research/thalassemia/findings/2026-04-27-egcg-safety-standardization-gate.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",

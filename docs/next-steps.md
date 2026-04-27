@@ -41,7 +41,9 @@ current research cycle should answer:
 9. Clinical adjunct comparators: keep EGCG-rich green-tea extract in the
    adjunct lane because it has randomized TDT human evidence, while separating
    it from cure claims until transfusion burden, HbF, and long-term safety are
-   addressed.
+   addressed. The EGCG lane now has a safety and standardization gate covering
+   liver injury, fasting bolus exposure, product variability, and interaction
+   review.
 
 ## Current Honest Assessment
 

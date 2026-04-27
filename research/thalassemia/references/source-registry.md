@@ -175,6 +175,8 @@ Checked on 2026-04-26 unless noted.
 | Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |
 | Islamic | [Sahih Muslim 2204, Sunnah.com](https://sunnah.com/muslim:2204) | Anchor hadith for treatment and remedy, with careful interpretation. |
 | Islamic | [Illness is not a blame claim](../../islamic/findings/2026-04-27-illness-not-blame-guardrail.md) | Synthesis guardrail for communicating about disease, genetics, tests, and cure-seeking. |
+| Islamic | [Sahih al-Bukhari 5688, Sunnah.com](https://sunnah.com/bukhari:5688) | Black seed hadith anchor; motivates investigation but does not replace disease-specific evidence. |
+| Islamic | [Black seed hadith guardrail](../../islamic/findings/2026-04-27-black-seed-hadith-guardrail.md) | Interpretation boundary for black seed, prophetic medicine, and thalassemia claims. |
 | Natural-product HbF | [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md) | Internal map for curcuminoid, resveratrol, `Curcuma comosa`, and quercetin analog HbF leads. |
 | Natural-product HbF | [Resveratrol HbF beta-thalassemia seed](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md) | Chemistry-resolved plant polyphenol with PubMed abstract evidence in beta-thalassemia erythroid precursors. |
 | Natural-product HbF | [Resveratrol HbF PubMed PMID 22378234](https://pubmed.ncbi.nlm.nih.gov/22378234/) | Source for resveratrol HbF and antioxidant signal in K562, normal donor erythroid precursors, and beta-thalassemia patient erythroid precursors. |
@@ -206,6 +208,8 @@ Checked on 2026-04-26 unless noted.
 | Chemistry | [Olive polyphenol PubChem snapshots](../../../data/chemistry/pubchem/natural-product-hbf/) | Compound-property snapshots for hydroxytyrosol, oleuropein, tyrosol, and oleocanthal. |
 | Nutrition guardrail | [Date-palm anemia guardrail](../findings/2026-04-27-date-palm-anemia-guardrail.md) | Quran date-palm lane separating iron-deficiency anemia nutrition literature from transfusion-dependent thalassemia and iron-overload constraints. |
 | Nutrition guardrail | [Date-palm selected PubMed abstracts](../../../data/literature/pubmed/2026-04-27-date-palm-selected-abstracts.xml) | Abstract-level snapshot for date-fruit anemia and date-palm seed polyphenol context. |
+| Prophetic medicine | [Nigella sativa iron-overload boundary](../findings/2026-04-27-nigella-sativa-iron-overload-boundary.md) | Pediatric beta-thalassemia major adjunct signal for iron-overload biomarkers; not a thalassemia cure claim. |
+| Prophetic medicine | [Nigella thalassemia selected abstracts](../../../data/literature/pubmed/2026-04-27-nigella-thalassemia-selected-abstracts.xml) | Abstract-level snapshot for the 2024 randomized trial and prophetic-medicine review context. |
 | HbF screen | [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md) | Assay interpretation rule: K562-only hits need endogenous HUDEP2 or primary erythroid validation. |
 | HbF screen | [Verheul 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-verheul-2024-endogenous-hbf-reporter.dom.txt) | PubMed page snapshot for the endogenous HUDEP2 `HBG1` reporter source. |
 | HbF screen | [Yang 2024 PubMed snapshot](../../../data/literature/fulltext/pubmed/2026-04-27-small-molecule-hbf-agonists.dom.txt) | PubMed page snapshot for the HUDEP2 `HBG1` HiBiT screen and primary `CD34+` confirmation workflow. |

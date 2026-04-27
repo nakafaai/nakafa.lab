@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "(Nigella sativa OR thymoquinone) AND (erythrocyte OR \"red blood cell\" OR hemolysis OR \"oxidative stress\")",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34073784"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8225153"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8225153;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu13061784"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu13061784"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "34073784",
+      "pubdate": "2021 May 24",
+      "title": "Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29437018"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1871529X18666180212114816"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CHDDT-EPUB-88471"
+        }
+      ],
+      "journal": "Cardiovasc Hematol Disord Drug Targets",
+      "pmid": "29437018",
+      "pubdate": "2018",
+      "title": "Immunomodulatory and Anti-inflammatory Effects of Thymoquinone."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33831837"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biopha.2021.111540"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0753-3322(21)00325-5"
+        }
+      ],
+      "journal": "Biomed Pharmacother",
+      "pmid": "33831837",
+      "pubdate": "2021 Jul",
+      "title": "Effects of Nigella sativa oil and thymoquinone on radiation-induced oxidative stress in kidney tissue of rats."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37818339"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10561288"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10561288;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fnut.2023.1126272"
+        }
+      ],
+      "journal": "Front Nutr",
+      "pmid": "37818339",
+      "pubdate": "2023",
+      "title": "Mechanism of the antidiabetic action of Nigella sativa and Thymoquinone: a review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39986696"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S1875-5364(25)60824-7"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1875-5364(25)60824-7"
+        }
+      ],
+      "journal": "Chin J Nat Med",
+      "pmid": "39986696",
+      "pubdate": "2025 Feb",
+      "title": "Nigella sativa L. seed extract alleviates oxidative stress-induced cellular senescence and dysfunction in melanocytes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31016464"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11011-019-00394-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11011-019-00394-4"
+        }
+      ],
+      "journal": "Metab Brain Dis",
+      "pmid": "31016464",
+      "pubdate": "2019 Aug",
+      "title": "Nigella sativa and thymoquinone attenuate oxidative stress and cognitive impairment following cerebral hypoperfusion in rats."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33115388"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1386207323999201027225305"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CCHTS-EPUB-110984"
+        }
+      ],
+      "journal": "Comb Chem High Throughput Screen",
+      "pmid": "33115388",
+      "pubdate": "2021",
+      "title": "Molecular Mechanisms of Thymoquinone as Anticancer Agent."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31638880"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/09553002.2020.1683636"
+        }
+      ],
+      "journal": "Int J Radiat Biol",
+      "pmid": "31638880",
+      "pubdate": "2020 Feb",
+      "title": "Nigella sativa oil and thymoquinone reduce oxidative stress in the brain tissue of rats exposed to total head irradiation."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37038292"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/1566524023666230410101724"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CMM-EPUB-130820"
+        }
+      ],
+      "journal": "Curr Mol Med",
+      "pmid": "37038292",
+      "pubdate": "2024",
+      "title": "Potential role of Nigella Sativa and its Constituent (Thymoquinone) in Ischemic Stroke."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29998122"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6029230"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6029230;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1159/000486829"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "kdd-0004-0074"
+        }
+      ],
+      "journal": "Kidney Dis (Basel)",
+      "pmid": "29998122",
+      "pubdate": "2018 Jun",
+      "title": "An Overview on Renoprotective Effects of Thymoquinone."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "count": 2,
+  "query": "Nigella sativa AND thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39044986"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11263651"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11263651;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.heliyon.2024.e33707"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2405-8440(24)09738-X"
+        }
+      ],
+      "journal": "Heliyon",
+      "pmid": "39044986",
+      "pubdate": "2024 Jul 15",
+      "title": "Manuka combinations with nigella sativa and hydroxyurea in treating iron overload of pediatric \u03b2-thalassemia major, randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37736537"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10509466"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10509466;"
+        }
+      ],
+      "journal": "Am J Blood Res",
+      "pmid": "37736537",
+      "pubdate": "2023",
+      "title": "Therapeutic benefits of prophetic medicine remedies in treating hematological diseases (A review article)."
+    }
+  ]
+}

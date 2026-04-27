@@ -1,0 +1,28 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=thalassemia+thymoquinone&pageSize=10&countTotal=true",
+  "studies": [
+    {
+      "countries": [
+        "Egypt",
+        "Saudi Arabia"
+      ],
+      "interventions": [
+        "Omega 3",
+        "Nigella Sativa Oil",
+        "Hydroxyurea",
+        "Honey",
+        "Deferoxamine",
+        "blood transfusion session"
+      ],
+      "last_update": "2021-01-27",
+      "nct_id": "NCT04292314",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "status": "COMPLETED",
+      "title": "Hydroxy Urea, Omega 3, Nigella Sativa,Honey on Oxidative Stress and Iron Chelation in Pediatric Major Thalassemia"
+    }
+  ],
+  "total_count": 1
+}

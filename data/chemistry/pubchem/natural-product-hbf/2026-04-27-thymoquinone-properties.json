@@ -1,0 +1,15 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 10281,
+        "MolecularFormula": "C10H12O2",
+        "MolecularWeight": "164.20",
+        "SMILES": "CC1=CC(=O)C(=CC1=O)C(C)C",
+        "ConnectivitySMILES": "CC1=CC(=O)C(=CC1=O)C(C)C",
+        "InChIKey": "KEQHJBNSCLWCAE-UHFFFAOYSA-N",
+        "IUPACName": "2-methyl-5-propan-2-ylcyclohexa-2,5-diene-1,4-dione"
+      }
+    ]
+  }
+}

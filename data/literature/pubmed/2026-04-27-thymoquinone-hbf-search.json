@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "thymoquinone AND (\"fetal hemoglobin\" OR HbF OR gamma-globin)",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27454254"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4959372"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4959372;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12864-016-2858-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12864-016-2858-0"
+        }
+      ],
+      "journal": "BMC Genomics",
+      "pmid": "27454254",
+      "pubdate": "2016 Jul 20",
+      "title": "Abstracts from the 3rd International Genomic Medicine Conference (3rd IGMC 2015) : Jeddah, Kingdom of Saudi Arabia. 30 November - 3 December 2015."
+    }
+  ]
+}

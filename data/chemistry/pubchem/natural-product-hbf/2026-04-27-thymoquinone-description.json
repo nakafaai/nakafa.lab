@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 10281,
+        "Title": "Thymoquinone"
+      },
+      {
+        "CID": 10281,
+        "Description": "Thymoquinone is a member of the class of 1,4-benzoquinones that is 1,4-bezoquinone in which the hydrogens at positions 2 and 5 are replaced by methyl and isopropyl groups, respectively. It is a natural compound isolated from Nigella sativa which has demonstrated promising chemotherapeutic activity. It has a role as an antioxidant, an antidepressant, an antineoplastic agent, an adjuvant, an anti-inflammatory agent, a plant metabolite and a cardioprotective agent.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:113532"
+      }
+    ]
+  }
+}

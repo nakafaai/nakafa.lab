@@ -268,3 +268,4 @@ Checked on 2026-04-26 unless noted.
 | Assay planning | [Lab partner requirements](../assays/2026-04-27-lab-partner-requirements.md) | Defines the minimum qualified-lab capabilities needed before candidate testing can begin. |
 | Assay planning | [Indonesia lab partner candidate map](../assays/2026-04-27-indonesia-lab-partner-candidate-map.md) | Maps first Indonesian clinical, genotype, and potential assay partner settings from public thalassemia literature. |
 | Islamic research method | [Ar-Rahman 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md) | Adds measurement, balance, and anti-exaggeration guardrails for candidate scoring and biomedical claims. |
+| Islamic research method | [Ar-Ra'd 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md) | Adds attrition guardrails for discarding noisy, unsafe, or unmeasured candidate signals. |

@@ -19,6 +19,8 @@ mercy, guidance, harm, lawful provision, and tests.
   consult people of knowledge.
 - measurement and balance: `mizan`, justice, fair measure, and avoiding
   transgression in claims.
+- benefit and attrition: separating what benefits people from foam/noise and
+  false starts.
 
 ## Method
 
@@ -52,6 +54,11 @@ The measurement-and-balance anchor is tracked in
 [Ar-Rahman 55:7-9](055-ar-rahman/007-009.md). It supports quantitative scoring
 and safety gates rather than a new natural-material candidate.
 
+The benefit-versus-foam anchor is tracked in
+[Ar-Ra'd 13:17](013-ar-rad/017.md). It supports disciplined candidate
+attrition: promote what remains beneficial after measurement, and discard noisy
+signals.
+
 ## Research Guardrail
 
 The Quran can guide our worldview, ethics, patience, hope, and hypothesis
@@ -66,5 +73,6 @@ reproducibility, and clinician review.
 - [Quran 17:82](https://quran.com/17/82)
 - [Quran 26:80](https://quran.com/26/80)
 - [Quran 41:44](https://quran.com/41/44)
+- [Quran 13:17](https://quran.com/13/17)
 - [Quran 55:7-9](https://quran.com/55/7-9)
 - [Quranic natural material candidate map](quranic-natural-material-candidate-map.md)

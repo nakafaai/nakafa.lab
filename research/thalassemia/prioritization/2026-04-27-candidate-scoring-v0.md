@@ -32,6 +32,9 @@ Weighted score:
 
 Hard blockers override the score. A candidate with major safety or identity
 uncertainty cannot be promoted just because the weighted score looks acceptable.
+This is the biomedical version of the Quran 13:17 benefit-versus-foam
+guardrail: noisy signals should not survive scoring just because they look
+interesting.
 
 ## Initial Scores
 
@@ -105,3 +108,4 @@ HbE/beta-thalassemia, baseline HbF, and HbF modifier backgrounds.
 - [AI-assisted cancer vaccine method](../findings/2026-04-27-ai-assisted-cancer-vaccine-method.md)
 - [Epigenetic HbF screen V0](../assays/2026-04-27-epigenetic-hbf-screen-v0.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
+- [Ar-Ra'd 13:17 benefit-versus-foam guardrail](../../islamic/quran/013-ar-rad/017.md)

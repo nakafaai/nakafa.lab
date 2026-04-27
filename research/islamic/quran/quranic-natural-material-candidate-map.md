@@ -23,6 +23,7 @@ clinician review.
 | 16:67 | date-palms and grapes | nutrition and fermentation/adulteration caution | not a thalassemia mechanism claim |
 | 6:99 | vegetation, grain, dates, grapes, olives, pomegranates | broad botanical candidate map | compare chemistry, not sacredness |
 | 6:141 | gardens, dates, olives, pomegranates | lawful provision and stewardship | avoid waste and exaggerated claims |
+| 13:17 | rainwater, valleys, foam, heated ore | benefit-versus-noise research filter | not a pharmacology candidate |
 | 23:18-20 | water and an olive tree associated with oil/food | olive/polyphenol and nutrition lane | supportive biology only unless endpoints prove more |
 | 24:35 | blessed olive tree imagery | reflection and symbolic light context | not a direct pharmacology verse |
 | 36:33-35 | revived earth, grain, date-palms, grapes, springs | agriculture/provision reflection | hypothesis generation only |
@@ -102,6 +103,11 @@ Ar-Rahman 55:7-9 is now a measurement guardrail. It does not nominate a compound
 It strengthens the requirement that every candidate be weighed by endpoint,
 safety, access, and reproducibility rather than spiritual enthusiasm alone.
 
+Ar-Ra'd 13:17 is now a benefit-versus-foam guardrail. It does not nominate a
+compound. It strengthens the requirement that noisy, unsafe, or unmeasured
+signals be allowed to disappear, while candidates with measured benefit remain
+for deeper validation.
+
 ## Guardrail
 
 Do not rank a material higher because it appears in a verse. Rank it higher only
@@ -113,6 +119,8 @@ when safety is plausible.
 - [Quran 6:99](https://quran.com/6/99)
 - [Quran 6:99 structured note](006-al-anam/099.md)
 - [Quran 6:141](https://quran.com/6/141)
+- [Quran 13:17](https://quran.com/13/17)
+- [Quran 13:17 structured note](013-ar-rad/017.md)
 - [Quran 16:11](https://quran.com/16/11)
 - [Quran 16:67](https://quran.com/16/67)
 - [Quran 16:11 structured note](016-an-nahl/011.md)

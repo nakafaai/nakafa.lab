@@ -57,15 +57,9 @@ uv run ruff check .
 uv run ruff format --check .
 uv run pyright scripts
 uv run python scripts/check_repo.py
+uv run python scripts/check_public_repo.py
 git diff --check
 ```
 
-For public-repo review, also check:
-
-```bash
-git ls-files | rg '(^|/)(\\.env|\\.venv|\\.ruff_cache|__pycache__|paper/build|private|secrets|credentials|.*\\.pem|.*\\.key)'
-git ls-files | rg '(AKIA[0-9A-Z]{16}|ghp_|github_pat_|sk-[A-Za-z0-9_-]{20,}|BEGIN .*PRIVATE KEY)'
-```
-
-The first command should return nothing for tracked generated or private paths.
-The second command should return nothing for common secret patterns.
+`scripts/check_public_repo.py` wraps these public-repo checks in one repeatable
+command. It fails if blocked local paths or common secret patterns are tracked.

@@ -32,6 +32,8 @@ forward.
 - `docs/next-steps.md` - current operating roadmap.
 - `docs/parallel-research-tracks.md` - work that can continue without case data.
 - `docs/status/` - dated research status journal entries, not final summaries.
+- `docs/security/` - public-repo security assumptions and future threat-model
+  gates.
 - `research/thalassemia/README.md` - first disease program.
 - `research/thalassemia/findings/` - small source-backed research notes.
 - `research/thalassemia/hypotheses/` - structured hypothesis candidates.
@@ -59,6 +61,7 @@ repo keeps the Python setup minimal until real analysis code exists.
 Common commands:
 
 - `uv run python scripts/check_repo.py`
+- `uv run python scripts/check_public_repo.py`
 - `uv run python scripts/fetch_clinical_trials.py --condition Thalassemia`
 - `uv run python scripts/fetch_pubmed.py "fetal hemoglobin beta thalassemia"`
 - `uv run ruff check .`

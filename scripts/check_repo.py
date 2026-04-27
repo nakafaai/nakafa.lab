@@ -622,6 +622,8 @@ REQUIRED_PATHS = [
     "scripts/clinicaltrials_client.py",
     "scripts/fetch_clinical_trials.py",
     "scripts/fetch_pubmed.py",
+    "scripts/check_public_repo.py",
+    "docs/security/threat-model-assumption-gate.md",
     "templates/clinician-review-brief-template.md",
     "templates/assay-run-template.md",
     "templates/hypothesis-card-template.md",

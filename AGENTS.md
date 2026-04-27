@@ -43,6 +43,8 @@ be reviewed by qualified clinicians.
 
 - Run `uv run python scripts/check_repo.py` after scaffold or documentation
   changes.
+- Run `uv run python scripts/check_public_repo.py` before commits that touch
+  public data, case-context, generated artifacts, or repo hygiene.
 - Run `uv run ruff check .` for Python changes.
 - Run `uv run ruff format --check .` for Python changes.
 - Run `uv run pyright scripts` for Python changes.

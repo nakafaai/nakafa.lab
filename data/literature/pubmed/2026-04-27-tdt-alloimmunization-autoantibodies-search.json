@@ -1,0 +1,220 @@
+{
+  "count": 8,
+  "query": "transfusion dependent beta thalassemia alloimmunization autoantibodies",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31753776"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2019.102678"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(19)30242-3"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "31753776",
+      "pubdate": "2019 Dec",
+      "title": "Red cell alloimmunization in transfusion-dependent and transfusion-independent beta thalassemia: A review from the Eastern Mediterranean Region (EMRO)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38200206"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10782003"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10782003;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-024-51561-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-024-51561-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "38200206",
+      "pubdate": "2024 Jan 10",
+      "title": "Red blood cell alloimmunization in blood transfusion-dependent \u03b2 thalassemia major patients in Sana'a City-Yemen."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37665129"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10623514"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10623514;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcla.24962"
+        }
+      ],
+      "journal": "J Clin Lab Anal",
+      "pmid": "37665129",
+      "pubdate": "2023 Sep",
+      "title": "Characterization of pediatric transfusion-dependent thalassemia patients in a large academic center."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25161344"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4140069"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4140069;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/0973-6247.137438"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AJTS-8-84"
+        }
+      ],
+      "journal": "Asian J Transfus Sci",
+      "pmid": "25161344",
+      "pubdate": "2014 Jul",
+      "title": "Alloimmunization and autoimmunization in transfusion dependent thalassemia major patients: Study on 319 patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32488601"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-020-04104-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-020-04104-4"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "32488601",
+      "pubdate": "2020 Dec",
+      "title": "Alloimmunization and autoimmunization in adult transfusion-dependent thalassemia patients: a report from a comprehensive center in Israel."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24786127"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5858/arpa.2013-0016-OA"
+        }
+      ],
+      "journal": "Arch Pathol Lab Med",
+      "pmid": "24786127",
+      "pubdate": "2014 May",
+      "title": "Predictors of red cell alloimmunization in multitransfused Egyptian patients with \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22371805"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3284076"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3284076;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5114/aoms.2010.14473"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "15184"
+        }
+      ],
+      "journal": "Arch Med Sci",
+      "pmid": "22371805",
+      "pubdate": "2010 Aug 30",
+      "title": "Red cell alloimmunization and autoantibodies in Egyptian transfusion-dependent thalassaemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21792035"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPH.0b013e3182208154"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00043426-201108000-00003"
+        }
+      ],
+      "journal": "J Pediatr Hematol Oncol",
+      "pmid": "21792035",
+      "pubdate": "2011 Aug",
+      "title": "Alloimmunization and erythrocyte autoimmunization in transfusion-dependent Egyptian thalassemic patients."
+    }
+  ]
+}

@@ -35,6 +35,8 @@ birth date
   antigen matching if used.
 - Antibody screen, named alloantibodies, direct antiglobulin test/direct
   Coombs, and crossmatch difficulty.
+- Red-cell antigen phenotype or genotype, especially if recent transfusion or
+  interfering antibodies make serology hard.
 - Ferritin trend plus liver iron concentration and cardiac T2* MRI if available.
 - Current chelation medicine, dose, adherence, side effects, and monitoring.
 - Spleen status.
@@ -65,4 +67,5 @@ repo without a licensed hematologist.
 - [Hematologist question sheet](hematologist-question-sheet-case-001.md)
 - [Clinical baseline checklist](../findings/2026-04-26-clinical-baseline-checklist.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
+- [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)

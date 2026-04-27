@@ -1,0 +1,250 @@
+{
+  "count": 8,
+  "query": "thalassemia red cell alloimmunization extended phenotype matching",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36035051"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9399562"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9399562;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7759/cureus.27215"
+        }
+      ],
+      "journal": "Cureus",
+      "pmid": "36035051",
+      "pubdate": "2022 Jul",
+      "title": "Frequency of Extended Red Cell Antigen Phenotype Among Patients of Hematological Diseases: A Single Center Study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38274964"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10807536"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10807536;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/ajts.ajts_2_23"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AJTS-17-145"
+        }
+      ],
+      "journal": "Asian J Transfus Sci",
+      "pmid": "38274964",
+      "pubdate": "2023 Jul-Dec",
+      "title": "Red cell alloimmunization and associated risk factors in multiply transfused thalassemia patients: A prospective cohort study conducted at a tertiary care center in Northern India."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37152479"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10162868"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10162868;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2023/3239960"
+        }
+      ],
+      "journal": "Anemia",
+      "pmid": "37152479",
+      "pubdate": "2023",
+      "title": "Red Blood Cell Alloimmunization and Autoimmunization in Blood Transfusion-Dependent Sickle Cell Disease and \u03b2-Thalassemia Patients in Al-Ahsa Region, Saudi Arabia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25435732"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4243402"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4243402;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12288-013-0311-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "311"
+        }
+      ],
+      "journal": "Indian J Hematol Blood Transfus",
+      "pmid": "25435732",
+      "pubdate": "2014 Dec",
+      "title": "Red blood cell antibodies in thalassemia patients in northern India: risk factors and literature review."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28293401"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5333756"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5333756;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4084/MJHID.2017.013"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "mjhid-9-1-e2017013"
+        }
+      ],
+      "journal": "Mediterr J Hematol Infect Dis",
+      "pmid": "28293401",
+      "pubdate": "2017",
+      "title": "Alloimmunization in Patients with Sickle Cell Disease and Thalassemia: Experience of a Single Centre in Oman."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25722579"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4339939"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4339939;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/0973-6247.150958"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AJTS-9-78"
+        }
+      ],
+      "journal": "Asian J Transfus Sci",
+      "pmid": "25722579",
+      "pubdate": "2015 Jan-Jun",
+      "title": "Study of red blood cell alloimmunization in multitransfused thalassemic children of Jammu region."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36199396"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9528548"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9528548;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/ajts.AJTS_39_20"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AJTS-16-111"
+        }
+      ],
+      "journal": "Asian J Transfus Sci",
+      "pmid": "36199396",
+      "pubdate": "2022 Jan-Jun",
+      "title": "Prevalence and specificity of red blood cell alloantibodies and autoantibodies in transfused Iranian \u03b2-thalassemia patients: A systematic review and meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34420880"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2021.103257"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(21)00249-4"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "34420880",
+      "pubdate": "2021 Oct",
+      "title": "Alloimmunization in transfused patients with constitutional anemias in Norway."
+    }
+  ]
+}

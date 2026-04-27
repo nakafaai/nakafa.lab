@@ -23,11 +23,15 @@ less effective:
 - autoimmune hemolytic anemia;
 - crossmatch delays or difficulty finding compatible blood.
 
-TIF 2025 recommends extended red-cell antigen typing before transfusion where
-possible, ABO/Rh/K-compatible blood, and a valid group and antibody screen
-before each transfusion. The same chapter reports alloimmunization as a common
-complication of frequent transfusion therapy, occurring in as many as 10-20% of
-thalassemia patients.
+TIF guidance recommends extended red-cell antigen typing before transfusion
+where possible, ABO/Rh/K-compatible blood, and a valid group and antibody
+screen before each transfusion. The same blood-transfusion chapter reports
+alloimmunization as a common complication of frequent transfusion therapy,
+occurring in as many as 10-20% of thalassemia patients.
+
+A follow-on extraction now records numeric literature signals for DAT,
+alloantibodies, autoantibodies, AIHA risk, Rh/Kell matching, and RBC antigen
+genotyping. Use that file for the doctor-facing data checklist.
 
 ## Practical Data To Ask For Later
 
@@ -46,6 +50,8 @@ Use medical-record terms, not family guesses:
 - spleen status;
 - hemolysis markers if available: bilirubin, LDH, haptoglobin, reticulocytes;
 - exact autoimmune diagnosis and current immune medicines, if any.
+- red-cell antigen phenotype/genotype if serology is difficult because of
+  recent transfusion or interfering antibodies.
 
 ## Research Implication
 
@@ -68,6 +74,7 @@ transfusion-medicine review.
 ## Sources
 
 - [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/)
+- [Immune transfusion risk extraction](2026-04-27-immune-transfusion-risk-extraction.md)
 - [Coombs test / antiglobulin testing, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK547707/)
 - [TDT alloimmunization and autoimmunization PubMed snapshot](../../../data/literature/pubmed/2026-04-27-tdt-alloimmunization-autoimmunization.json)
 - [TDT DAT and autoantibody PubMed snapshot](../../../data/literature/pubmed/2026-04-27-tdt-direct-antiglobulin-autoantibodies.json)

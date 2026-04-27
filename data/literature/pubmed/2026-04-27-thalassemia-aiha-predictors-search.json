@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "beta thalassemia autoimmune hemolytic anemia predictors direct antiglobulin test",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31302454"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2019.102342"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(19)30230-X"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "31302454",
+      "pubdate": "2019 Nov",
+      "title": "Predictors of autoimmune hemolytic anemia in beta-thalassemia patients with underlying red blood cells autoantibodies."
+    }
+  ]
+}

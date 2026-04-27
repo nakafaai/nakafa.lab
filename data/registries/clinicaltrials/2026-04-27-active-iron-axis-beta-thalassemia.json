@@ -1,0 +1,61 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=hepcidin+OR+ferroportin+OR+tmprss6&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Georgia",
+        "Greece",
+        "India",
+        "Italy",
+        "Malaysia",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "REGN7999",
+        "Placebo"
+      ],
+      "last_update": "2026-03-18",
+      "nct_id": "NCT06421636",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Change from baseline in Liver Iron Concentration (LIC) by R2* Magnetic Resonance Imaging (MRI)",
+        "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "Severity of TEAEs"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study to Test the Safety, Tolerability, and Efficacy of an Antibody, REGN7999, Injected Under the Skin for the Treatment of Iron Overload in Adult Participants With Non-Transfusion Dependent \u03b2-thalassemia, Using MRI Scans to Measure Iron Levels in the Body"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "9MW3011",
+        "9MW3011 placebo"
+      ],
+      "last_update": "2025-01-14",
+      "nct_id": "NCT06772766",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Adverse Event(including serious adverse event)",
+        "Number of subjects with abnormal vital signs",
+        "Number of subjects with abnormal clinically significant results from physical examination",
+        "Number of subjects with abnormal clinically significant 12-lead electrocardiogram (ECG) parameters",
+        "Number of subjects with abnormal clinically significant clinical laboratory results"
+      ],
+      "status": "RECRUITING",
+      "title": "A Multiple Ascending Dose Study of 9MW3011 in Patients With Non-transfusion-dependent \u03b2-thalassemia"
+    }
+  ],
+  "total_count": 2
+}

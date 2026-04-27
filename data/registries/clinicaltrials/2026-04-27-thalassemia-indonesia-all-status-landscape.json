@@ -1,0 +1,122 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&query.locn=Indonesia&pageSize=25&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Indonesia"
+      ],
+      "interventions": [],
+      "last_update": "2021-05-11",
+      "nct_id": "NCT04706585",
+      "phases": [],
+      "primary_outcomes": [
+        "Indonesian youth's level of knowledge on thalassemia",
+        "Indonesian youth's attitude towards thalassemia",
+        "Indonesian youth's practice towards thalassemia"
+      ],
+      "status": "UNKNOWN",
+      "title": "Thalassemia Knowledge in Young People of Indonesia"
+    },
+    {
+      "countries": [
+        "Indonesia"
+      ],
+      "interventions": [
+        "Alpha-Tocopherol",
+        "Placebo oral tablet"
+      ],
+      "last_update": "2019-05-14",
+      "nct_id": "NCT03948737",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "The effects of \u03b1-tocopherol in hemolysis marker on the red cell membrane of \u03b2-thalassemia major"
+      ],
+      "status": "COMPLETED",
+      "title": "The Effect of Alpha-tocopherol in Hemolysis and Oxidative Stress Marker on the Red Cell Membrane Beta-thalassemia Major"
+    },
+    {
+      "countries": [
+        "Indonesia"
+      ],
+      "interventions": [
+        "Zinc",
+        "Sucrose",
+        "PCV Vaccine",
+        "PPV Vaccine"
+      ],
+      "last_update": "2017-03-29",
+      "nct_id": "NCT03095326",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "Pneumococcal IgG"
+      ],
+      "status": "COMPLETED",
+      "title": "Pneumococcal Vaccination for Splenectomised Thalassemia Major Patients in Indonesia"
+    },
+    {
+      "countries": [
+        "Indonesia"
+      ],
+      "interventions": [
+        "Zinc Sulfate",
+        "Sucrose Syrup"
+      ],
+      "last_update": "2017-04-17",
+      "nct_id": "NCT03117192",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "Patient's T-lymphocyte count"
+      ],
+      "status": "COMPLETED",
+      "title": "Zinc Supplementation on Cellular Immunity in Thalassemia Major"
+    },
+    {
+      "countries": [
+        "Egypt",
+        "Indonesia"
+      ],
+      "interventions": [
+        "Deferiprone oral solution",
+        "Placebo"
+      ],
+      "last_update": "2024-03-15",
+      "nct_id": "NCT03591575",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "The Percentage of Patients in Each Treatment Group Who Still Have a Serum Ferritin Level < 1000 Micrograms Per Liter (\u03bcg/L) at Month 12"
+      ],
+      "status": "COMPLETED",
+      "title": "Safety and Efficacy of Early Treatment With Deferiprone in Infants and Young Children"
+    },
+    {
+      "countries": [
+        "Indonesia"
+      ],
+      "interventions": [
+        "Cholecalciferol supplementation"
+      ],
+      "last_update": "2019-04-19",
+      "nct_id": "NCT03919812",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "The outcome measure was the change in the proportion of monocyte subsets"
+      ],
+      "status": "COMPLETED",
+      "title": "Immunomodulatory Vitamin D in Thalassemia"
+    }
+  ],
+  "total_count": 6
+}

@@ -1,0 +1,478 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqX9ahv-numpOQJJxmZfOl3PAW",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=25&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Canada"
+      ],
+      "interventions": [
+        "Abatacept",
+        "Sirolimus"
+      ],
+      "last_update": "2023-12-19",
+      "nct_id": "NCT05426252",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of patients who have WBC engraftment by day +100",
+        "Number of patients who develop Grade II to IV acute GVHD at Day +100",
+        "Immune reconstitution"
+      ],
+      "status": "RECRUITING",
+      "title": "Thal-Fabs: Reduced Toxicity Conditioning for High Risk Thalassemia"
+    },
+    {
+      "countries": [
+        "India"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2025-10-20",
+      "nct_id": "NCT05891249",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "\u03b2-Thal Cohort: Number of participants with treatment-related adverse events (AEs) of grade 3 or higher",
+        "MDS-Ring Sideroblasts (RS) Cohort: Number of participants with treatment-related AEs of grade 3 or higher"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study to Evaluate the Safety and Effectiveness of Luspatercept for the Treatment of Transfusion-dependent (TD) Anemia Associated With Myelodysplastic Syndromes (MDS) & Beta-thalassemia (\u03b2-Thal) in India"
+    },
+    {
+      "countries": [
+        "Egypt"
+      ],
+      "interventions": [
+        "inspiratory muscle training"
+      ],
+      "last_update": "2024-06-20",
+      "nct_id": "NCT06466304",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "forced expiratory volume t the first second of expiration"
+      ],
+      "status": "RECRUITING",
+      "title": "Inspiratory Muscle Training in Children With Beta Thalasemia"
+    },
+    {
+      "countries": [
+        "Germany",
+        "Italy",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-23",
+      "nct_id": "NCT05477563",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Fetal Hemoglobin (HbF) Concentration Over Time",
+        "Total Hemoglobin (Hb) Concentration Over Time"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluation of Efficacy and Safety of a Single Dose of CTX001 in Participants With Transfusion-Dependent \u03b2-Thalassemia and Severe Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "Italy"
+      ],
+      "interventions": [],
+      "last_update": "2026-02-24",
+      "nct_id": "NCT05508932",
+      "phases": [],
+      "primary_outcomes": [
+        "Atrial fibrillation"
+      ],
+      "status": "RECRUITING",
+      "title": "Atrial Fibrillation in Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [],
+      "last_update": "2026-04-20",
+      "nct_id": "NCT03937817",
+      "phases": [],
+      "primary_outcomes": [
+        "Collect biological specimens (saliva, urine, blood, blood waste products, adipose tissue, bronchial brushing, and/or BAL)"
+      ],
+      "status": "RECRUITING",
+      "title": "Collection of Human Biospecimens for Basic and Clinical Research Into Globin Variants"
+    },
+    {
+      "countries": [],
+      "interventions": [],
+      "last_update": "2024-05-13",
+      "nct_id": "NCT06377865",
+      "phases": [],
+      "primary_outcomes": [
+        "Thyroid function ,Hba1c in relation to ferritin level in adult patients with beta thalassemia"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Thyroid Function , HbA1c in Relation to Ferritin Level in Adullt Patient e B Thalassemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Cyclophosphamide",
+        "Pentostatin",
+        "Rabbit anti-thymocyte globulin",
+        "Tacrolimus",
+        "Mycophenolate mofetil",
+        "CD4+ T-cell-depleted Haploidentical Hematopoietic Transplant"
+      ],
+      "last_update": "2026-03-05",
+      "nct_id": "NCT03249831",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Toxicity per NCI-Common Terminology Criteria for Adverse Events version 4.0",
+        "Unacceptable Toxicity at least possibly related to COH-MC-17",
+        "Mixed Chimerism defined as 30-90% donor cells",
+        "Feasibility of producing an infusion ready CD4+ T-cell-depleted hematopoietic product"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Blood Stem Cell Transplant for Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "alpha beta depletion"
+      ],
+      "last_update": "2025-08-08",
+      "nct_id": "NCT04099966",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "incidence of adverse events related to administration of \u03b1/\u03b2 CD3+/CD19+ cell depleted stem cells"
+      ],
+      "status": "RECRUITING",
+      "title": "AlloSCT for Malignant and Non-malignant Hematologic Diseases Utilizing Alpha/Beta T Cell and CD19+ B Cell Depletion"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-14",
+      "nct_id": "NCT05776173",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Red blood cell (RBCs) transfusion requirements, whether reaching TI",
+        "Total hospitalizing days at 6, 12, and 24 months (discharge after transplant)"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of Gene Modified Autologous Hematopoietic Stem Cells to Treat Transfusion-dependent \u03b2-thalassemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Exome sequencing"
+      ],
+      "last_update": "2026-04-17",
+      "nct_id": "NCT03412760",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Genetic variants detected with exome sequencing that implicate a genetic disease underlying non-immune hydrops fetalis (NIHF) and other birth defects."
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Hydrops: Diagnosing & Redefining Outcomes With Precision Study"
+    },
+    {
+      "countries": [
+        "Hong Kong"
+      ],
+      "interventions": [
+        "in-utero HSCT"
+      ],
+      "last_update": "2023-04-12",
+      "nct_id": "NCT05797272",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Rate of maternal complications",
+        "Rate of survival of fetus"
+      ],
+      "status": "RECRUITING",
+      "title": "In-utero Hematopoietic Stem Cell Transplantation for the Treatment of Fetuses With Bart's Hydrops Fetalis Syndrome"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Hydroxyurea",
+        "Alemtuzumab",
+        "Fludarabine",
+        "Melphalan",
+        "Thiotepa"
+      ],
+      "last_update": "2025-12-15",
+      "nct_id": "NCT01962415",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Post-transplant treatment-related mortality (TRM)",
+        "Neurodevelopmental milestones",
+        "Immune Reconstitution",
+        "Severe opportunistic infections",
+        "GVHD occurrence"
+      ],
+      "status": "RECRUITING",
+      "title": "Reduced Intensity Conditioning for Non-Malignant Disorders Undergoing UCBT, BMT or PBSCT"
+    },
+    {
+      "countries": [
+        "Denmark"
+      ],
+      "interventions": [
+        "SP-420"
+      ],
+      "last_update": "2025-09-24",
+      "nct_id": "NCT05693909",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "To establish dose-response relationship of SP-420 for 24 weeks in the treatment of subjects with transfusion-dependent \u03b2-thalassemia",
+        "To assess the safety and tolerability of ascending doses of SP-420 after 12 weeks treatment of subjects with transfusion-dependent low-risk myelodysplastic syndrome"
+      ],
+      "status": "RECRUITING",
+      "title": "A Trial Testing SP-420 in Subjects With Transfusion-dependent \u03b2-thalassemia or Low-risk Myelodysplastic Syndromes"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101"
+      ],
+      "last_update": "2025-09-10",
+      "nct_id": "NCT06479616",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of SAEs and CS-101 related AES as assessed by CTCAE v5.0",
+        "Occurrence of all-cause death",
+        "New malignancies and hematologic disorders",
+        "Occurrence of achieving transfusion independence for at least 12 consecutive months"
+      ],
+      "status": "RECRUITING",
+      "title": "A Long-term Follow-up Study in Participants Who Received CS-101"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490627",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "transfusion dependency"
+      ],
+      "status": "RECRUITING",
+      "title": "Unraveling the Impact of Thalidomide at Diverse Doses in Transfusion Dependent Beta Thalassemia"
+    },
+    {
+      "countries": [
+        "Spain"
+      ],
+      "interventions": [
+        "Cord Blood Red Blood Cells",
+        "Standard Adult Donor Red Blood Cells"
+      ],
+      "last_update": "2026-03-31",
+      "nct_id": "NCT07502781",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Composite outcome of bronchopulmonary dysplasia, retinopathy of prematurity, or death in extremely prematurs"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Heterologous Cord Blood-Derived Red Blood Cell for Transfusion in Extremely Preterm Infants"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "YOLT-204"
+      ],
+      "last_update": "2025-09-24",
+      "nct_id": "NCT07190001",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Adverse event rate",
+        "3 months of sustained transfusion reduction",
+        "3 months of sustained HbF level \u226520%"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "YOLT-204 in Patients With Hemoglobinopathies"
+    },
+    {
+      "countries": [
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2026-02-23",
+      "nct_id": "NCT07215975",
+      "phases": [],
+      "primary_outcomes": [
+        "Change in transfusion burden",
+        "Change in mean pre-transfusion hemoglobin level"
+      ],
+      "status": "RECRUITING",
+      "title": "A Real-World Study to Evaluate Luspatercept in Adults With Transfusion-Dependent Beta-Thalassemia in the Middle East"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "CliniMACS"
+      ],
+      "last_update": "2025-02-25",
+      "nct_id": "NCT04523376",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Rate of graft failure",
+        "Time to neutrophil engraftment",
+        "Incidence of acute graft vs. host disease (GVHD)",
+        "Incidence of chronic graft vs. host disease (GVHD)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Pilot Study PBSCT with TCRab Depletion for Hemoglobinopathies"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "MED-Go App"
+      ],
+      "last_update": "2024-11-20",
+      "nct_id": "NCT04688411",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Percentage of patients achieving feasibility criteria of using the MED-Go app"
+      ],
+      "status": "RECRUITING",
+      "title": "An mHealth Strategy to Improve Medication Adherence in Adolescents With Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "Austria"
+      ],
+      "interventions": [],
+      "last_update": "2024-07-24",
+      "nct_id": "NCT06512298",
+      "phases": [],
+      "primary_outcomes": [
+        "Accumulation of plasticizers in transfused patients"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Plasticizer Exposure and Its Consequences on Health"
+    },
+    {
+      "countries": [
+        "Spain"
+      ],
+      "interventions": [
+        "Analysis of genetic modifiers",
+        "Disease phenotyping"
+      ],
+      "last_update": "2025-10-03",
+      "nct_id": "NCT07206095",
+      "phases": [],
+      "primary_outcomes": [
+        "To assess the prognostic value of LoRRca ektacytometry as biomarker providing information of SCD/RADs patients severity"
+      ],
+      "status": "RECRUITING",
+      "title": "Integrative Diagnosis for SCD and Other RADs"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Assessments"
+      ],
+      "last_update": "2024-03-18",
+      "nct_id": "NCT06314529",
+      "phases": [],
+      "primary_outcomes": [
+        "Incidence of hematologic malignancies",
+        "Frequency, grade, and relationship of SAEs"
+      ],
+      "status": "RECRUITING",
+      "title": "Long-term Follow-up Study of BHC001 for TDT"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 cell injection Drug Product"
+      ],
+      "last_update": "2025-08-05",
+      "nct_id": "NCT06219239",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "The number, frequency and severity of adverse events (AE) after reinfusion of KL003 drug products",
+        "The proportion of participants who meet the definition of transfusion independence (TI) for at least 6 months"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of the Lentiviral Vector in Gene Therapy of Beta-thalassemia Patients"
+    }
+  ],
+  "total_count": 132
+}

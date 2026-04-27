@@ -1,0 +1,216 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqX9ahv-numpOQJJxuYPGt3_AekA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=gene+therapy&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "BD211"
+      ],
+      "last_update": "2024-06-14",
+      "nct_id": "NCT05776173",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Red blood cell (RBCs) transfusion requirements, whether reaching TI",
+        "Total hospitalizing days at 6, 12, and 24 months (discharge after transplant)"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of Gene Modified Autologous Hematopoietic Stem Cells to Treat Transfusion-dependent \u03b2-thalassemia"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490627",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "transfusion dependency"
+      ],
+      "status": "RECRUITING",
+      "title": "Unraveling the Impact of Thalidomide at Diverse Doses in Transfusion Dependent Beta Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 cell injection Drug Product"
+      ],
+      "last_update": "2025-08-05",
+      "nct_id": "NCT06219239",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "The number, frequency and severity of adverse events (AE) after reinfusion of KL003 drug products",
+        "The proportion of participants who meet the definition of transfusion independence (TI) for at least 6 months"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy of the Lentiviral Vector in Gene Therapy of Beta-thalassemia Patients"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Supergraft"
+      ],
+      "last_update": "2025-09-02",
+      "nct_id": "NCT06743477",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Donor cell implantation rate"
+      ],
+      "status": "RECRUITING",
+      "title": "A Clinical Study of Ultra-transplantation for the Treatment of Major Thalassemia Scheme"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Vebeglogene autotemcel"
+      ],
+      "last_update": "2025-11-25",
+      "nct_id": "NCT06308159",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Time and duration of the subject's hemoglobin (Hb)\u22659.0 g/dL without receiving red blood cell infusion"
+      ],
+      "status": "RECRUITING",
+      "title": "An Open-label Study of a Gene Therapy Product (Vebeglogene Autotemcel) in Transfusion Dependent Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "KL003 cell injection Drug Product"
+      ],
+      "last_update": "2025-08-05",
+      "nct_id": "NCT05860595",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Percentage of participants with successful lentiviral vector transduced CD34+ stem cell engraftment",
+        "Engraftment time of neutrophil",
+        "Engraftment time of platelet",
+        "Transplant-related mortality within 100 days and within 1 year after reinfusion of KL003 drug product",
+        "The number, frequency and severity of adverse events (AE) within 1 year after reinfusion of KL003 drug products"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Evaluation the Safety and Efficacy of KL003 Cell Injection in the Treatment of Transfusion-dependent \u03b2-thalassemia."
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "ALS20"
+      ],
+      "last_update": "2026-04-15",
+      "nct_id": "NCT06364774",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Neutrophil Engraftment",
+        "Platelet Engraftment",
+        "Overall Survival at 2 years",
+        "Incidence of transplant related mortality",
+        "Incidence of Graft Versus Host Disease",
+        "Incidence of Vector-Derived Replication Competent Lentivirus",
+        "Insertional Oncogenesis",
+        "Clonal Predominance",
+        "maintain total hemoglobin level of 9.0 g/dL or higher"
+      ],
+      "status": "RECRUITING",
+      "title": "ALS20-101 Lentiviral Gene Therapy for Beta Thalassemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "BIVV003",
+        "ST-400"
+      ],
+      "last_update": "2025-11-12",
+      "nct_id": "NCT05145062",
+      "phases": [],
+      "primary_outcomes": [
+        "Adverse Events",
+        "Overall Survival"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long - Term Follow Up of Sickle Cell Disease and Beta-thalassemia Subjects Previously Exposed to BIVV003 or ST-400."
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "\u03b2-globin restored autologous hematopoietic stem cells"
+      ],
+      "last_update": "2024-11-29",
+      "nct_id": "NCT05745532",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of adverse events (AEs) and serious adverse events (SAEs)",
+        "Overall survival",
+        "Proportion of engraftment",
+        "Replication competent lentivirus (RCL)",
+        "Dynamics of viral integration sites (VIS)"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy Evaluation of \u03b2-globin Restored Autologous Hematopoietic Stem Cells in \u03b2-thalassemia Major Patients"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Gene therapy"
+      ],
+      "last_update": "2023-08-14",
+      "nct_id": "NCT05991336",
+      "phases": [],
+      "primary_outcomes": [
+        "Growth in pediatric subjects will be assessed by height.",
+        "Growth in pediatric subjects will be assessed by weight.",
+        "Growth in pediatric subjects will be assessed by the head and chest circumference.",
+        "Growth in pediatric subjects will be assessed by interocular distance.",
+        "Growth in pediatric subjects will be assessed by bone density.",
+        "The pubertal status will be measured using by Tanner scale.",
+        "Hormonal levels will be measured by clinical examination.",
+        "Quality of life will be measured using by Pediatric Quality of Life Inventory (PedsQL) at baseline and the end of the study.",
+        "Lifestyle behaviors will be assessed by general questioning."
+      ],
+      "status": "RECRUITING",
+      "title": "Growth and Development-related Outcomes in Children With Transfusion-dependent Beta-thalassemia After Gene Therapy"
+    }
+  ],
+  "total_count": 30
+}

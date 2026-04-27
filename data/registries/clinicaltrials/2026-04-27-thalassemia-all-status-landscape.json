@@ -1,0 +1,476 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqX9ahv-numpOQJJxuYfKk1PAW",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=Thalassemia&pageSize=25&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Indonesia"
+      ],
+      "interventions": [],
+      "last_update": "2021-05-11",
+      "nct_id": "NCT04706585",
+      "phases": [],
+      "primary_outcomes": [
+        "Indonesian youth's level of knowledge on thalassemia",
+        "Indonesian youth's attitude towards thalassemia",
+        "Indonesian youth's practice towards thalassemia"
+      ],
+      "status": "UNKNOWN",
+      "title": "Thalassemia Knowledge in Young People of Indonesia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [],
+      "last_update": "2017-07-02",
+      "nct_id": "NCT00277849",
+      "phases": [],
+      "primary_outcomes": [],
+      "status": "COMPLETED",
+      "title": "Collection of Blood From Persons With Hemoglobin and Erythrocyte Polymorphisms for Laboratory Malaria Research"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "Luspatercept Injectable Product"
+      ],
+      "last_update": "2022-07-18",
+      "nct_id": "NCT05462548",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "A 33% reduction in the red cell (RBC) transfusion burden for any 12 consecutive weeks within 24 weeks of Luspatercept treatment compared with baseline",
+        "The incidence of adverse events within 24 consecutive weeks of Luspatercept treatment"
+      ],
+      "status": "UNKNOWN",
+      "title": "The Safety and Efficiency of Luspatercept in Chinese Adults With Transfusion Dependent \u03b2-thalassemia: a Real-world Study"
+    },
+    {
+      "countries": [
+        "Canada"
+      ],
+      "interventions": [
+        "Abatacept",
+        "Sirolimus"
+      ],
+      "last_update": "2023-12-19",
+      "nct_id": "NCT05426252",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of patients who have WBC engraftment by day +100",
+        "Number of patients who develop Grade II to IV acute GVHD at Day +100",
+        "Immune reconstitution"
+      ],
+      "status": "RECRUITING",
+      "title": "Thal-Fabs: Reduced Toxicity Conditioning for High Risk Thalassemia"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "Deferasirox"
+      ],
+      "last_update": "2017-04-20",
+      "nct_id": "NCT01724138",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "the PK profile of deferasirox in pediatric \u03b2-thalassemia major patients aged from 2 to less than 6 years old.",
+        "the PK profile of deferasirox in pediatric \u03b2-thalassemia major patients aged from 2 to less than 6 years old: Cmax",
+        "the PK profile of deferasirox in pediatric \u03b2-thalassemia major patients aged from 2 to less than 6 years old: Tmax"
+      ],
+      "status": "WITHDRAWN",
+      "title": "An Open Label Study to Evaluate the Pharmacokinetics, Safety, Tolerability and Efficacy of Deferasirox Administered to Chinese Patients With \u03b2-thalassemia Major Aged From 2 to Less Than 6 Years Old"
+    },
+    {
+      "countries": [
+        "Mali"
+      ],
+      "interventions": [],
+      "last_update": "2017-07-02",
+      "nct_id": "NCT00342043",
+      "phases": [],
+      "primary_outcomes": [],
+      "status": "COMPLETED",
+      "title": "Examination of Protective Factors Against Severe Malaria"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "rivaroxaban",
+        "placebo"
+      ],
+      "last_update": "2020-04-13",
+      "nct_id": "NCT02072668",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Change From Baseline to 4 Weeks in Soluble Vascular Cell Adhesion Molecule-1 (VCAM-1)",
+        "Change From Baseline to 4 Weeks in Interleukin-6 (IL-6)"
+      ],
+      "status": "COMPLETED",
+      "title": "The Effect of Rivaroxaban in Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "India"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2025-10-20",
+      "nct_id": "NCT05891249",
+      "phases": [
+        "PHASE4"
+      ],
+      "primary_outcomes": [
+        "\u03b2-Thal Cohort: Number of participants with treatment-related adverse events (AEs) of grade 3 or higher",
+        "MDS-Ring Sideroblasts (RS) Cohort: Number of participants with treatment-related AEs of grade 3 or higher"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study to Evaluate the Safety and Effectiveness of Luspatercept for the Treatment of Transfusion-dependent (TD) Anemia Associated With Myelodysplastic Syndromes (MDS) & Beta-thalassemia (\u03b2-Thal) in India"
+    },
+    {
+      "countries": [
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Thailand",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Luspatercept",
+        "Placebo",
+        "Best Supportive Care (BSC)"
+      ],
+      "last_update": "2023-12-20",
+      "nct_id": "NCT03342404",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Achieving Erythroid Response (Week 13 to Week 24)"
+      ],
+      "status": "COMPLETED",
+      "title": "A Study to Determine the Efficacy and Safety of Luspatercept in Adults With Non Transfusion Dependent Beta (\u03b2)-Thalassemia"
+    },
+    {
+      "countries": [
+        "France"
+      ],
+      "interventions": [
+        "Plerixafor"
+      ],
+      "last_update": "2025-09-05",
+      "nct_id": "NCT02212535",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Complication of disease"
+      ],
+      "status": "COMPLETED",
+      "title": "Assessment of Tolerance of Mobilizing Peripheral Hematopoietic Stem Cells by Plerixafor in Sickle Cell Patients"
+    },
+    {
+      "countries": [
+        "Egypt"
+      ],
+      "interventions": [
+        "ARMS PCR"
+      ],
+      "last_update": "2023-01-31",
+      "nct_id": "NCT05133388",
+      "phases": [],
+      "primary_outcomes": [
+        "Introduction of arms pcr in diagnosis .",
+        "Database initation ."
+      ],
+      "status": "UNKNOWN",
+      "title": "The Prevelence of HBB c.93-21 G-A in \u03b2 Thalassemia Patients"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Recombinant-methionyl human stem cell factor"
+      ],
+      "last_update": "2008-03-04",
+      "nct_id": "NCT00005783",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [],
+      "status": "COMPLETED",
+      "title": "A Phase I/II Trial of Recombinant-Methionyl Human Stem Cell Factor (SCF) in Adult Patients With Sickling Disorders"
+    },
+    {
+      "countries": [
+        "Greece"
+      ],
+      "interventions": [],
+      "last_update": "2016-01-11",
+      "nct_id": "NCT02428023",
+      "phases": [],
+      "primary_outcomes": [
+        "Cardioprotective role of Thalassemia Treat"
+      ],
+      "status": "UNKNOWN",
+      "title": "B-Thalasaemia Trait and Its Possible Cardioprotective Role"
+    },
+    {
+      "countries": [
+        "Egypt"
+      ],
+      "interventions": [
+        "inspiratory muscle training"
+      ],
+      "last_update": "2024-06-20",
+      "nct_id": "NCT06466304",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "forced expiratory volume t the first second of expiration"
+      ],
+      "status": "RECRUITING",
+      "title": "Inspiratory Muscle Training in Children With Beta Thalasemia"
+    },
+    {
+      "countries": [
+        "Italy"
+      ],
+      "interventions": [
+        "Deferasirox",
+        "Deferasirox"
+      ],
+      "last_update": "2011-08-11",
+      "nct_id": "NCT01033747",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "The Relative Change From Baseline in Liver Iron Content (LIC) After Prolonged Use of Deferasirox"
+      ],
+      "status": "COMPLETED",
+      "title": "Safety and Efficacy of Deferasirox in Patients With Transfusion Dependent Iron Overload - a Non-comparative Extension Study"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "ET-01"
+      ],
+      "last_update": "2025-03-30",
+      "nct_id": "NCT04925206",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of collected AEs & SAEs",
+        "All-cause mortality",
+        "Incidence of transplant-related mortality",
+        "Total lymphocyte count",
+        "Proportion of subjects with abnormal proliferation of blood cells"
+      ],
+      "status": "TERMINATED",
+      "title": "A Safety and Efficacy Study Evaluating ET-01 in Subjects with Transfusion Dependent \u0392-Thalassaemia"
+    },
+    {
+      "countries": [
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [],
+      "last_update": "2020-09-23",
+      "nct_id": "NCT01913548",
+      "phases": [],
+      "primary_outcomes": [
+        "Identification of iron overloaded patients with Sickle Cell Disease and Thalassemia eligible for future study of iron deposition and biochemical mechanisms"
+      ],
+      "status": "COMPLETED",
+      "title": "Multi-Center Study of Iron Overload: Survey Study (MCSIO)"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "Isoquercetin"
+      ],
+      "last_update": "2021-01-11",
+      "nct_id": "NCT04474626",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Change in sP Selectin levels with isoquercetin"
+      ],
+      "status": "WITHDRAWN",
+      "title": "Isoquercetin in Sickle Cell Anemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "ST-400 Investigational product"
+      ],
+      "last_update": "2023-12-14",
+      "nct_id": "NCT03432364",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs) up to 156 Weeks After the ST-400 Infusion"
+      ],
+      "status": "COMPLETED",
+      "title": "A Study to Assess the Safety, Tolerability, and Efficacy of ST-400 for Treatment of Transfusion-Dependent Beta-thalassemia (TDT)"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Busulfan",
+        "Campath 1H",
+        "Cyclophosphamide and MESNA"
+      ],
+      "last_update": "2020-07-31",
+      "nct_id": "NCT00578344",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Number of Participants Evaluated for Evidence of Recovery of Organ Function Measured Via MRI or PET Scan.",
+        "Number of Participants With Pre and Post Transplant PET Scan to Assess Organ Recovery Based on Rate of Acquisition.",
+        "Number of Participants With Immune Response to Immunization After BMT in Participants With SCD, Hemoglobin SC, or Hemoglobin Sb0/+."
+      ],
+      "status": "TERMINATED",
+      "title": "Bone Marrow Transplantation, Hemoglobinopathies, SCALLOP"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Hydroxyurea and Thalidomide"
+      ],
+      "last_update": "2023-12-01",
+      "nct_id": "NCT06153784",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Response at different time intervals",
+        "Change in laboratory levels",
+        "Change in the liver and spleen size"
+      ],
+      "status": "COMPLETED",
+      "title": "Thalidomide and Hydroxyurea Combination in \u03b2-Thalassemia Patients"
+    },
+    {
+      "countries": [
+        "Austria",
+        "Greece",
+        "Italy"
+      ],
+      "interventions": [
+        "Deferasirox"
+      ],
+      "last_update": "2020-03-03",
+      "nct_id": "NCT02720536",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Overview of Number of Participants With Adverse Events",
+        "Change From Baseline Red Blood Cells (RBC) (10^12 Cells/L) at Month 6 and Month 12",
+        "Change From Baseline White Blood Cells (WBC) (10^9 Cells/L) at Month 6 and Month 12",
+        "Change From Baseline Platelets (10^9 Cells/L) at Month 6 and Month 12",
+        "Change From Baseline Serum Creatinine (Umol/L) at Month 6 and Month 12",
+        "Change From Baseline Creatinine Clearance (mL/Min) at Month 6 and Month 12",
+        "Change From Baseline Alanine Aminotransferase/Serum Glutamic Pyruvic Transaminase (ALT/SGPT) (U/L) at Month 6 and Month 12",
+        "Change From Baseline Aspartate Aminotransferase/Serum Glutamic Oxaloacetic Transaminase (AST/SGOT) (U/L) at Month 6 and Month 12"
+      ],
+      "status": "COMPLETED",
+      "title": "Extended Evaluation of Deferasirox Film-coated Tablet (FCT) Formulation"
+    },
+    {
+      "countries": [
+        "Canada"
+      ],
+      "interventions": [],
+      "last_update": "2014-07-17",
+      "nct_id": "NCT02090699",
+      "phases": [],
+      "primary_outcomes": [
+        "Evidence of diffuse myocardial fibrosis (elevated extracellular volume fraction) confirmed by MRI"
+      ],
+      "status": "COMPLETED",
+      "title": "MR Imaging of Diffuse Myocardial Fibrosis in Transfusion-Dependent Anemias"
+    },
+    {
+      "countries": [
+        "Germany",
+        "Italy",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-23",
+      "nct_id": "NCT05477563",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Fetal Hemoglobin (HbF) Concentration Over Time",
+        "Total Hemoglobin (Hb) Concentration Over Time"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluation of Efficacy and Safety of a Single Dose of CTX001 in Participants With Transfusion-Dependent \u03b2-Thalassemia and Severe Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "Australia",
+        "Thailand",
+        "United States"
+      ],
+      "interventions": [
+        "FBS0701"
+      ],
+      "last_update": "2012-02-10",
+      "nct_id": "NCT01039636",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Safety and tolerability by AEs, Physical Exam, Clinical Laboratory assessments",
+        "Steady state plasma level and half-life of FBS0701"
+      ],
+      "status": "COMPLETED",
+      "title": "Safety and Pharmacokinetic Study of Escalating Multiple Doses of an Iron Chelator in Patients With Iron Overload"
+    }
+  ],
+  "total_count": 561
+}

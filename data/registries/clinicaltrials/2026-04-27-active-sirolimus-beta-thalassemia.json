@@ -1,0 +1,108 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.intr=Sirolimus&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "TBI",
+        "Hydroxyurea",
+        "briquilimab",
+        "Filgrastim (G-CSF)",
+        "Sirolimus",
+        "Alemtuzumab",
+        "Plerixafor"
+      ],
+      "last_update": "2026-03-12",
+      "nct_id": "NCT05357482",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "percent myeloid (CD14/15) chimerism"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Addition of JSP191 (C-kit Antibody) to Nonmyeloablative Hematopoietic Cell Transplantation for Sickle Cell Disease and Beta-Thalassemia"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Alemtuzumab",
+        "Sirolimus",
+        "Cyclophosphamide",
+        "Pentostatin",
+        "Radiotherapy",
+        "Filgrastim"
+      ],
+      "last_update": "2025-03-11",
+      "nct_id": "NCT02105766",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Number of Patients Who Have Sustained Donor Type Hemoglobin at One Year Post Transplant",
+        "Number of Participants With Donor Red Cells at 2 Years Post Stem Cell Transplant"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Nonmyeloablative Peripheral Blood Mobilized Hematopoietic Precursor Cell Transplantation for Sickle Cell Disease and Beta-thalassemia in People With Higher Risk of Transplant Failure"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "PBSC Transplant",
+        "Alemtuzumab",
+        "Sirolimus",
+        "Cyclophosphamide",
+        "Low Dose Irradiation"
+      ],
+      "last_update": "2026-04-23",
+      "nct_id": "NCT00977691",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Patients With Donor Type Hemoglobin"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Haploidentical PBMC Transplant for Severe Congenital Anemias"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "CliniMACS CD34+ Reagent System",
+        "Thiotepa",
+        "Cyclophosphamide",
+        "Alemtuzumab",
+        "Tacrolimus",
+        "Melphalan",
+        "Busulfan",
+        "Fludarabine",
+        "Methylprednisolone"
+      ],
+      "last_update": "2024-06-04",
+      "nct_id": "NCT02061800",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Incidence of acute GVHD"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "CD34+ (Malignant) Stem Cell Selection for Patients Receiving Allogenic Stem Cell Transplant"
+    }
+  ],
+  "total_count": 4
+}

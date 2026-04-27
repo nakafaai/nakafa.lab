@@ -1,0 +1,204 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqX9ahv-numpOQJJxtZfel2PcYkA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=fetal+hemoglobin+OR+HbF+OR+BCL11A&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING&pageSize=10&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Germany",
+        "Italy",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "interventions": [
+        "CTX001"
+      ],
+      "last_update": "2026-03-23",
+      "nct_id": "NCT05477563",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Fetal Hemoglobin (HbF) Concentration Over Time",
+        "Total Hemoglobin (Hb) Concentration Over Time"
+      ],
+      "status": "RECRUITING",
+      "title": "Evaluation of Efficacy and Safety of a Single Dose of CTX001 in Participants With Transfusion-Dependent \u03b2-Thalassemia and Severe Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101"
+      ],
+      "last_update": "2025-09-10",
+      "nct_id": "NCT06479616",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of SAEs and CS-101 related AES as assessed by CTCAE v5.0",
+        "Occurrence of all-cause death",
+        "New malignancies and hematologic disorders",
+        "Occurrence of achieving transfusion independence for at least 12 consecutive months"
+      ],
+      "status": "RECRUITING",
+      "title": "A Long-term Follow-up Study in Participants Who Received CS-101"
+    },
+    {
+      "countries": [
+        "Pakistan"
+      ],
+      "interventions": [
+        "Thalidomide",
+        "Thalidomide"
+      ],
+      "last_update": "2025-05-30",
+      "nct_id": "NCT06490627",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "transfusion dependency"
+      ],
+      "status": "RECRUITING",
+      "title": "Unraveling the Impact of Thalidomide at Diverse Doses in Transfusion Dependent Beta Thalassemia"
+    },
+    {
+      "countries": [
+        "Spain"
+      ],
+      "interventions": [
+        "Cord Blood Red Blood Cells",
+        "Standard Adult Donor Red Blood Cells"
+      ],
+      "last_update": "2026-03-31",
+      "nct_id": "NCT07502781",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Composite outcome of bronchopulmonary dysplasia, retinopathy of prematurity, or death in extremely prematurs"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Heterologous Cord Blood-Derived Red Blood Cell for Transfusion in Extremely Preterm Infants"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "BIVV003",
+        "ST-400"
+      ],
+      "last_update": "2025-11-12",
+      "nct_id": "NCT05145062",
+      "phases": [],
+      "primary_outcomes": [
+        "Adverse Events",
+        "Overall Survival"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "Long - Term Follow Up of Sickle Cell Disease and Beta-thalassemia Subjects Previously Exposed to BIVV003 or ST-400."
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "Pociredir"
+      ],
+      "last_update": "2026-03-30",
+      "nct_id": "NCT07431398",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Plasma concentration of pociredir under fasted and fed conditions",
+        "Maximum plasma concentration (Cmax) of pociredir under fasted and fed conditions",
+        "Area under the plasma concentration-time curve from time 0 to 24 hours (AUC(0-24)) of pociredir under fasted and fed conditions",
+        "Area under the plasma concentration-time curve from time 0 to the last measurable concentration (AUC(0-tlast)) of pociredir under fasted and fed conditions",
+        "Area under the plasma concentration-time curve from time 0, extrapolated to infinity (AUC(0-inf)), of pociredir under fasted and fed conditions",
+        "Time to maximum plasma concentration (Tmax) of pociredir under fasted and fed conditions",
+        "Terminal disposition rate constant (\u03bbz) of pociredir under fasted and fed conditions",
+        "Terminal half-life (t1/2) of pociredir under fasted and fed conditions",
+        "Apparent volume of distribution during the terminal phase (Vz/F) of pociredir under fasted and fed conditions",
+        "Apparent clearance (CL/F) of pociredir under fasted and fed conditions"
+      ],
+      "status": "RECRUITING",
+      "title": "Single-dose Pharmacokinetics of Pociredir in Participants With Sickle Cell Disease"
+    },
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "VGB-Ex01"
+      ],
+      "last_update": "2023-10-17",
+      "nct_id": "NCT06041620",
+      "phases": [
+        "NA"
+      ],
+      "primary_outcomes": [
+        "Incidence of adverse events and serious adverse events",
+        "Number of subjects with neutrophil implantation \u2264 42 days"
+      ],
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy Evaluation of Autologous CRISPR-Cas12b Edited Hematopoietic Stem Cells"
+    },
+    {
+      "countries": [],
+      "interventions": [
+        "RNA Binding Protein Pumilio1 (PUM1) Expression by reverse transcriptase quantatative PCR"
+      ],
+      "last_update": "2023-05-31",
+      "nct_id": "NCT05883254",
+      "phases": [],
+      "primary_outcomes": [
+        "Expression pattern of PUM1 gene in patients with sickle cell anemia and \u03b2-thalassemia intermedia."
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "Pumilio1 (PUM1) Expression, Sickle Cell Anemia, \u03b2-thalassemia Intermedia"
+    },
+    {
+      "countries": [
+        "Taiwan"
+      ],
+      "interventions": [
+        "Luspatercept"
+      ],
+      "last_update": "2025-06-04",
+      "nct_id": "NCT06596642",
+      "phases": [],
+      "primary_outcomes": [
+        "Number of Red Blood Cell (RBC) transfusion units received by participants",
+        "Participant hemoglobin (Hb) level results",
+        "Participant serum ferritin results"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Real-World Study of \u03b2-Thalassemia Major Treatment With Luspatercept in Taiwan"
+    },
+    {
+      "countries": [
+        "United States"
+      ],
+      "interventions": [
+        "panobinostat"
+      ],
+      "last_update": "2026-01-09",
+      "nct_id": "NCT01245179",
+      "phases": [
+        "PHASE1"
+      ],
+      "primary_outcomes": [
+        "Primary Outcome Measure"
+      ],
+      "status": "RECRUITING",
+      "title": "Study of Panobinostat (LBH589) in Patients With Sickle Cell Disease"
+    }
+  ],
+  "total_count": 21
+}

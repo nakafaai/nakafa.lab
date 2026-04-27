@@ -59,6 +59,11 @@ The benefit-versus-foam anchor is tracked in
 attrition: promote what remains beneficial after measurement, and discard noisy
 signals.
 
+The expert-consultation anchor is tracked in
+[An-Nahl 16:43](016-an-nahl/043.md). It supports the rule that founder
+conviction and AI-assisted research must be checked by hematologists,
+assay-capable scientists, and qualified scholars where relevant.
+
 ## Research Guardrail
 
 The Quran can guide our worldview, ethics, patience, hope, and hypothesis
@@ -70,9 +75,12 @@ reproducibility, and clinician review.
 - [Quran 9:14](https://quran.com/9/14)
 - [Quran 10:57](https://quran.com/10/57)
 - [Quran 16:69](https://quran.com/16/69)
+- [Quran 16:43](https://quran.com/16/43)
 - [Quran 17:82](https://quran.com/17/82)
+- [Quran 21:7](https://quran.com/21/7)
 - [Quran 26:80](https://quran.com/26/80)
 - [Quran 41:44](https://quran.com/41/44)
 - [Quran 13:17](https://quran.com/13/17)
 - [Quran 55:7-9](https://quran.com/55/7-9)
+- [An-Nahl 16:43 structured note](016-an-nahl/043.md)
 - [Quranic natural material candidate map](quranic-natural-material-candidate-map.md)

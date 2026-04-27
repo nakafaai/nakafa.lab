@@ -553,6 +553,7 @@ REQUIRED_PATHS = [
     "research/islamic/quran/010-yunus/057.md",
     "research/islamic/quran/013-ar-rad/017.md",
     "research/islamic/quran/016-an-nahl/011.md",
+    "research/islamic/quran/016-an-nahl/043.md",
     "research/islamic/quran/016-an-nahl/067.md",
     "research/islamic/quran/016-an-nahl/068-069.md",
     "research/islamic/quran/017-al-isra/082.md",

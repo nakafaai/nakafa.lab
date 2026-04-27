@@ -24,12 +24,16 @@ Current notebooks:
   translational warning comparator.
 - `2026-04-27-candidate-score-sensitivity.ipynb` - stress test for the first
   candidate scoring table.
-- `2026-04-27-dual-readout-panel-prioritizer.ipynb` - computational experiment
-  that re-checks the first lab-quote panel against dual HbF plus
-  alpha-globin/autophagy readouts.
 - `2026-04-27-delta-globin-hba2-gate.ipynb` - computational evidence gate that
   keeps `HBD` / delta-globin / HbA2 induction as an advanced compensation
   benchmark and assay expansion gate, not a first treatment lead.
+- `2026-04-27-dual-readout-panel-prioritizer.ipynb` - computational experiment
+  that re-checks the first lab-quote panel against dual HbF plus
+  alpha-globin/autophagy readouts.
+- `2026-04-27-expansion-lane-decision-gate.ipynb` - computational evidence
+  gate that ranks expansion lanes after the fixed quote panel and promotes
+  `AMPKB1` / `NRF2` / `ULK1` / autophagy as assay-probe biology, not treatment
+  advice.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

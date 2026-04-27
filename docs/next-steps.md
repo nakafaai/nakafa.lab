@@ -34,9 +34,11 @@ current research cycle should answer:
    capability, manufacturing, or regulatory access.
 5. Cure strategy: use HSCT/gene therapy/gene editing as proof-of-concept, then
    search for lower-cost ways to reach durable transfusion independence.
-6. Epigenetic HbF discovery: rank `MBD2-NuRD`, `LSD1/KDM1A`, `DNMT1`,
-   `NRF2/BACH1`, and natural-product-adjacent candidates against HbF,
-   erythroid maturation, viability, and hemolysis endpoints.
+6. Epigenetic and dual-readout HbF discovery: rank `MBD2-NuRD`, `LSD1/KDM1A`,
+   `DNMT1`, `NRF2/BACH1`, and natural-product-adjacent candidates against HbF,
+   alpha-globin burden, autophagy context, erythroid maturation, viability, and
+   hemolysis endpoints. The current first expansion lane is `AMPKB1` / `NRF2` /
+   `ULK1` / autophagy as assay-probe biology only.
 7. Islamic lane: continue Quran, hadith, tafsir, and ethics review without
    turning any verse into a medical claim.
 8. Hypothesis cards: only promote ideas with mechanism, safety, falsification,

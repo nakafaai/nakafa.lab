@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "query": "AMPK fetal hemoglobin NRF2",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41259521"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12629196"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12629196;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/sciadv.adx1144"
+        }
+      ],
+      "journal": "Sci Adv",
+      "pmid": "41259521",
+      "pubdate": "2025 Nov 21",
+      "title": "Selective AMPK\u03b21 activation induces fetal hemoglobin in human erythroid cells and sickle cell mice via the noncanonical NRF2 pathway."
+    }
+  ]
+}

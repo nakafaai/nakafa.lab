@@ -11,12 +11,12 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `704`.
+Tracked files after this audit batch: `710`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
-| `data/` | 497 | source snapshots and extracted evidence records |
-| `research/` | 150 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
+| `data/` | 501 | source snapshots and extracted evidence records |
+| `research/` | 152 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
 | `docs/` | 13 | operating docs, status journals, publication readiness, security, setup, and hygiene |
 | `scripts/` | 11 | small Python utilities and manifests |
 | `templates/` | 8 | reusable research, assay, and de-identified clinical templates |
@@ -28,12 +28,12 @@ Tracked files after this audit batch: `704`.
 
 | Type | Files | Meaning |
 | --- | ---: | --- |
-| `.json` | 438 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
-| `.md` | 163 | docs, findings, assays, hypotheses, Quran notes, templates |
+| `.json` | 442 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
+| `.md` | 164 | docs, findings, assays, hypotheses, Quran notes, templates |
 | `.xml` | 42 | PubMed or PMC abstract/full-text source snapshots |
 | `.txt` | 15 | source-linked full-text extracts, not raw browser HTML |
 | `.py` | 10 | small Python utilities |
-| `.ipynb` | 8 | small reproducible notebooks |
+| `.ipynb` | 9 | small reproducible notebooks |
 | no extension | 5 | root/editor configuration files such as `.gitattributes` and `.gitignore` |
 | `.xlsx` | 3 | PLOS supplementary assay tables used for reproducible extraction |
 | `.tex` | 14 | LaTeX paper shell, sections, tables, figures, and notes |
@@ -44,7 +44,7 @@ Tracked files after this audit batch: `704`.
 
 | Data area | Files | Reason kept |
 | --- | ---: | --- |
-| `data/literature/` | 270 | literature, full-text extracts, PubMed XML/JSON, and supplementary source tables |
+| `data/literature/` | 274 | literature, full-text extracts, PubMed XML/JSON, and supplementary source tables |
 | `data/chemistry/` | 157 | PubChem and ChEMBL identity snapshots for candidate molecules |
 | `data/registries/` | 66 | ClinicalTrials.gov snapshots |
 | `data/regulatory/` | 3 | BPOM and EFSA access/safety snapshots |
@@ -54,12 +54,12 @@ Tracked files after this audit batch: `704`.
 
 | Research area | Files | Reason kept |
 | --- | ---: | --- |
-| `research/thalassemia/findings/` | 89 | small source-backed findings and decision notes |
+| `research/thalassemia/findings/` | 90 | small source-backed findings and decision notes |
 | `research/thalassemia/assays/` | 8 | assay specs, lab partner requirements, and quote/work-order docs |
 | `research/thalassemia/hypotheses/` | 8 | structured candidate hypotheses |
 | `research/thalassemia/case-context/` | 5 | de-identified case routing and clinician questions |
 | `research/thalassemia/prioritization/` | 5 | candidate ranking and signature labels |
-| `research/thalassemia/notebooks/` | 9 | reproducible scoring and literature-matrix experiments |
+| `research/thalassemia/notebooks/` | 10 | reproducible scoring and literature-matrix experiments |
 | `research/thalassemia/references/` | 1 | source registry |
 | `research/thalassemia/README.md` | 1 | disease program entrypoint |
 | `research/islamic/` | 24 | Quran, hadith, tafsir, ethics, and natural-material anchor notes |

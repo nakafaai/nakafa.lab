@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "CRBN fetal hemoglobin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38963839"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1126/science.adk6129"
+        }
+      ],
+      "journal": "Science",
+      "pmid": "38963839",
+      "pubdate": "2024 Jul 5",
+      "title": "A molecular glue degrader of the WIZ transcription factor for fetal hemoglobin induction."
+    }
+  ]
+}

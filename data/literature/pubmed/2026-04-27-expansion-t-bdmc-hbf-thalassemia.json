@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "T-BDMC fetal hemoglobin beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33879818"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8058333"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8058333;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-021-87738-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-021-87738-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "33879818",
+      "pubdate": "2021 Apr 20",
+      "title": "Trienone analogs of curcuminoids induce fetal hemoglobin synthesis via demethylation at (G)\u03b3-globin gene promoter."
+    }
+  ]
+}

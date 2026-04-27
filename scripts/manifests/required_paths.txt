@@ -660,6 +660,7 @@ research/thalassemia/findings/2026-04-27-clinical-timeline-data-packet.md
 research/thalassemia/findings/2026-04-27-trial-referral-no-lab-gate.md
 research/thalassemia/findings/2026-04-27-novelty-boundary-for-nakafa-question.md
 research/thalassemia/findings/2026-04-27-mechanism-gap-matrix.md
+research/thalassemia/findings/2026-04-27-expansion-lane-decision-gate.md
 data/registries/clinicaltrials/2026-04-27-active-referral-transfusion-dependent-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-asia-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-indonesia-thalassemia.json
@@ -676,6 +677,7 @@ research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
 research/thalassemia/notebooks/2026-04-27-ahsp-buffer-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-alpha-globin-rebalancing-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-delta-globin-hba2-gate.ipynb
+research/thalassemia/notebooks/2026-04-27-expansion-lane-decision-gate.ipynb
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json
@@ -684,6 +686,10 @@ data/literature/pubmed/2026-04-27-gap-matrix-integrated-assay-gates.json
 data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-gap-matrix-positive-hbf-induction.json
 data/literature/pubmed/2026-04-27-gap-matrix-positive-hpfh-hbg-promoter.json
+data/literature/pubmed/2026-04-27-expansion-ampkb1-nrf2-ulk1-hbf.json
+data/literature/pubmed/2026-04-27-expansion-crbn-ikzf-bcl11a-hbf.json
+data/literature/pubmed/2026-04-27-expansion-pomalidomide-hbf-thalassemia.json
+data/literature/pubmed/2026-04-27-expansion-t-bdmc-hbf-thalassemia.json
 templates/lab-quote-request-template.md
 templates/clinician-review-brief-template.md
 templates/assay-run-template.md

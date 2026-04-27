@@ -47,13 +47,16 @@ HbF and disease-modifying candidates.
 
 Before promotion, the lane needs:
 
-- full-text extraction of the 2024 trial methods and statistics;
 - separation of `Nigella sativa`, manuka honey, hydroxyurea, chelation, and
   transfusion effects;
 - adverse-event review and product-standardization details;
 - validation against iron MRI, ferritin trend, liver enzymes, hemolysis,
   transfusion interval, and HbF where available;
 - clinician review before any patient-facing interpretation.
+
+The first full-text extraction is now captured separately. It confirms the
+adjunct iron-overload signal and keeps the lane below cure-oriented HbF or
+globin-correction strategies.
 
 ## Islamic Interpretation Guardrail
 
@@ -63,6 +66,7 @@ not treated as a replacement for disease-specific evidence.
 ## Sources
 
 - [Black seed hadith guardrail](../../islamic/findings/2026-04-27-black-seed-hadith-guardrail.md)
+- [Nigella manuka trial full-text extraction](2026-04-27-nigella-manuka-trial-fulltext-extraction.md)
 - [Sahih al-Bukhari 5688, Sunnah.com](https://sunnah.com/bukhari:5688)
 - [Nigella sativa thalassemia PubMed search](../../../data/literature/pubmed/2026-04-27-nigella-sativa-thalassemia-search.json)
 - [Thymoquinone thalassemia PubMed search](../../../data/literature/pubmed/2026-04-27-thymoquinone-thalassemia-search.json)
@@ -70,6 +74,10 @@ not treated as a replacement for disease-specific evidence.
 - [Thymoquinone HbF PubMed search](../../../data/literature/pubmed/2026-04-27-thymoquinone-hbf-search.json)
 - [Nigella/thymoquinone red-cell oxidative-stress PubMed search](../../../data/literature/pubmed/2026-04-27-nigella-thymoquinone-red-cell-oxidative-stress-search.json)
 - [Nigella thalassemia selected abstracts](../../../data/literature/pubmed/2026-04-27-nigella-thalassemia-selected-abstracts.xml)
+- [Mogharbel/Gamaleldin 2024 PubMed single-record snapshot](../../../data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-esummary.json)
+- [Mogharbel/Gamaleldin 2024 PMC Open Access metadata](../../../data/literature/pubmed/2026-04-27-mogharbel-2024-nigella-pmc-oa.xml)
+- [Mogharbel/Gamaleldin 2024 full-text HTML snapshot](../../../data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.html)
+- [Mogharbel/Gamaleldin 2024 full-text text extraction](../../../data/literature/fulltext/pmc/2026-04-27-mogharbel-2024-nigella-manuka-thalassemia.txt)
 - [Nigella sativa thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-nigella-sativa-thalassemia-trials.json)
 - [Thymoquinone thalassemia ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-thymoquinone-thalassemia-trials.json)
 - [NCT04292314 detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct04292314-nigella-thalassemia-detail.json)

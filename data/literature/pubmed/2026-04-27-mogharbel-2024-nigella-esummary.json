@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "39044986[uid]",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39044986"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11263651"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11263651;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.heliyon.2024.e33707"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2405-8440(24)09738-X"
+        }
+      ],
+      "journal": "Heliyon",
+      "pmid": "39044986",
+      "pubdate": "2024 Jul 15",
+      "title": "Manuka combinations with nigella sativa and hydroxyurea in treating iron overload of pediatric \u03b2-thalassemia major, randomized clinical trial."
+    }
+  ]
+}

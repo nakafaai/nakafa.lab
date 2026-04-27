@@ -1,0 +1,374 @@
+Manuka combinations with nigella sativa and hydroxyurea in treating iron overload of pediatric β-thalassemia major, randomized clinical trial - PMC Skip to main content
+An official website of the United States government
+Here's how you know Here's how you know
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS A lock ( Lock Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search Log in
+Dashboard
+Publications
+Account settings
+Log out
+Search… Search NCBI
+Primary site navigation
+Search
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in Search PMC Full-Text Archive Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice Heliyon . 2024 Jun 26;10(13):e33707. doi: 10.1016/j.heliyon.2024.e33707
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Manuka combinations with nigella sativa and hydroxyurea in treating iron overload of pediatric β-thalassemia major, randomized clinical trial ☆
+Mohamed M Gamaleldin
+Mohamed M Gamaleldin
+a Department of Clinical Pharmacy, Faculty of Pharmacy, Beni-Suef University, Beni-Suef, Egypt b Department of Pharmacy Practice & Science, R. K. Coit College of Pharmacy, University of Arizona, Tucson, AZ, USA c Department of Pharmaceutical Sciences (Pharm-D Program), Fakeeh College for Medical Sciences, Jeddah, Saudi Arabia Find articles by Mohamed M Gamaleldin a, b, c, ⁎ , Ivo L Abraham
+Ivo L Abraham
+b Department of Pharmacy Practice & Science, R. K. Coit College of Pharmacy, University of Arizona, Tucson, AZ, USA d Department of Family and Community Medicine, College of Medicine, University of Arizona, Tucson, AZ, USA e Clinical Translational Sciences, University of Arizona Health Sciences, Arizona, USA Find articles by Ivo L Abraham b, d, e , Mohamed Hussein Meabed
+Mohamed Hussein Meabed
+f Department of Pediatrics, Faculty of Medicine, Beni-Suef University, Beni-Suef, Egypt Find articles by Mohamed Hussein Meabed f , Ahmed A Elberry
+Ahmed A Elberry
+g Department of Clinical Pharmacology, Faculty of Medicine, Beni-Suef University, Beni-Suef, Egypt h Department of Pharmacy Practice, Pharmacy Program, Batterjee Medical College, Jeddah, Saudi Arabia Find articles by Ahmed A Elberry g, h , Shaimaa M Abdelhalim
+Shaimaa M Abdelhalim
+c Department of Pharmaceutical Sciences (Pharm-D Program), Fakeeh College for Medical Sciences, Jeddah, Saudi Arabia Find articles by Shaimaa M Abdelhalim c , Ahmed F Mahmoud Hussein
+Ahmed F Mahmoud Hussein
+i Beni-Suef Health Insurance Hospital, Beni-Suef, Egypt Find articles by Ahmed F Mahmoud Hussein i , Raghda RS Hussein
+Raghda RS Hussein
+a Department of Clinical Pharmacy, Faculty of Pharmacy, Beni-Suef University, Beni-Suef, Egypt Find articles by Raghda RS Hussein a
+Author information
+Article notes
+Copyright and License information
+a Department of Clinical Pharmacy, Faculty of Pharmacy, Beni-Suef University, Beni-Suef, Egypt b Department of Pharmacy Practice & Science, R. K. Coit College of Pharmacy, University of Arizona, Tucson, AZ, USA c Department of Pharmaceutical Sciences (Pharm-D Program), Fakeeh College for Medical Sciences, Jeddah, Saudi Arabia d Department of Family and Community Medicine, College of Medicine, University of Arizona, Tucson, AZ, USA e Clinical Translational Sciences, University of Arizona Health Sciences, Arizona, USA f Department of Pediatrics, Faculty of Medicine, Beni-Suef University, Beni-Suef, Egypt g Department of Clinical Pharmacology, Faculty of Medicine, Beni-Suef University, Beni-Suef, Egypt h Department of Pharmacy Practice, Pharmacy Program, Batterjee Medical College, Jeddah, Saudi Arabia i Beni-Suef Health Insurance Hospital, Beni-Suef, Egypt ⁎
+Corresponding author. Department of Clinical Pharmacy, Faculty of Pharmacy, Beni-Suef University, Beni-Suef, Egypt. dr.mohmedhat@gmail.com mohamed.medhat@pharm.bsu.edu.eg mgamaleldin@fcms.edu.sa
+Received 2023 Sep 19; Revised 2024 Jun 23; Accepted 2024 Jun 25; Collection date 2024 Jul 15.
+© 2024 The Authors. Published by Elsevier Ltd.
+This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/).
+PMC Copyright notice PMCID: PMC11263651 PMID: 39044986
+Abstract
+Background
+β-thalassemia major is microcytic hypochromic anemia disorder inherited from parents, resulting from a mutation in the β-globin locus. As a result, a quantitative defective hemoglobin synthesis and relative excess in α-globin is occurred. As such, frequent blood transfusion is required, that leads to iron overload. Iron overload results in several pathological complications, including cell death, tissue injury, organ dysfunction, and liver fibrosis. The present study examined the effectiveness of nigella Sativa and manuka honey combination or manuka honey alone to the conventional therapy (Deferasirox + blood transfusion) used for preventing and managing iron overload in pediatric β-thalassemia major patients.
+Methods
+One hundred sixty-five patients participated in this randomized, double-blind, standard therapy-controlled, parallel-design multisite trial. The patients were randomly allocated into three groups, receiving either 500 mg nigella sativa oil combined with manuka honey lozenge (344 mg) daily or manuka honey alone plus the conventional therapy for ten treatment months. Ferritin level, serum iron, transferrin saturation, total iron binding capacity, alanine transaminase, and aspartate transaminase were determined at baseline and month 10.
+Results
+Eventually, serum ferritin and iron were decreased significantly in the nigella sativa + manuka honey group as compared with the control group. Other clinical parameters were significantly impacted. The level of alanine transaminase and aspartate transaminase were significantly decreased in the nigella sativa plus manuka honey group compared with the control group.
+Conclusion
+Results showed that nigella sativa plus manuka honey was more effective than manuka alone or the conventional treatment alone in managing iron overload of β-thalassemia major patients.
+Keywords: Nigella sativa, Black seed, β-thalassemia, Manuka honey, Iron overload, Iron chelation
+Graphical abstract
+Open in a new tab
+Abbreviations
+ANOVA
+Two-way Analysis of variance
+CBC
+Complete blood count
+HbA
+Adult hemoglobin
+HbA2
+Hemoglobin A2
+HDL-C
+High-density lipoprotein cholesterol
+HP
+Hewlett Packard
+I.D.
+Identification
+MGO
+Methylglyoxal
+Post hoc LSD
+After the fact least significant difference test
+RBC
+Red blood cells
+SPSS
+Statistical software Package for the Social Sciences
+UMF
+Unique Manuka Factor
+ηp2
+Partial effect size
+ROS
+reactive oxygen species
+Fe3+
+Ferric iron
+Fe2+
+Ferrous iron
+TQ
+Thymoquinone
+HbF
+Fetal hemoglobin
+TIBC
+Total iron binding capacity
+TfS
+Transferrin saturation
+ALT
+Alanine transaminase
+AST
+Aspartate transaminase
+UMF
+Unique Manuka Factor
+MGO
+Methylglyoxal
+LPI
+Liable plasma iron
+1. Introduction
+Thalassemia major is a homozygous microcytic hypochromic anemia disorder inherited from parents, resulting from a mutation in the β-globin locus. It results in quantitative defective hemoglobin synthesis and relative excess in α-globin. As a result, excessive α-globin forms insoluble aggerates and leads to denote ineffective erythropoiesis. Accordingly, the survival rate of red blood cells (RBC) and functional hemoglobin is reduced [ 1 , 2 ]. As such, defective hemoglobin synthesis resulted in hemoglobin instability and reduced HbA in RBC's indices [ 3 ].
+Thalassemia hemoglobinopathies are a common type of hemoglobin disorder in Egypt. 9 % of Egyptians carry β-thalassemia, and approximately 1000 in every 1.5 million born annually will suffer from β-thalassemia [ 4 , 5 ]. Therefore, it is essential to investigate and treat this condition effectively.
+Frequent blood transfusion leads to iron accumulation and saturation of transferrin capacity in transferring iron. Accordingly, non-transferrin-bound iron and liable plasma iron are formed, which results in iron overload [ 6 ]. Iron is highly reactive with oxygen, resulting in reactive oxygen species (ROS). Iron accumulation leads to cellular and organ dysfunction, including heart dysfunction, pulmonary hypertension, osteoporosis, hypothyroidism, and liver fibrosis [ 7 , 8 ].
+The current pharmacological therapies for β-thalassemia are hydroxyurea medication, the gamma-globin chain inducer, blood transfusion, gene therapy, and iron chelation therapy [ 9 ]. Indeed, iron chelation therapy is the cornerstone in removing excess iron from the body of thalassemic patients. Currently, Deferasirox, Deferiprone, and Deferoxamine are approved iron-chelating medications for thalassemic patients [ 10 ]. Although, several adverse events have been reported in treating iron overload by those medications, including auditory and visual neurotoxicity owing to chronic treatment with Deferoxamine, arthralgia and elevated liver enzymes in response to Deferiprone, ophthalmic complication and skin rash in response to Deferasirox [ 10 ]. In addition, current iron chelators only chelate ferric (Fe3+) iron in treating iron overload despite the effectiveness of ferrous (Fe2+) iron chelation in treating iron overload owing to iron auto-oxidation [ 11 , 12 ]. This shed light on investigating more safe iron chelators for a better outcome.
+Previous clinical studies have investigated the impact of natural iron chelators on iron overload diseases [ 13 ]. In line with that, other clinical studies have investigated alternative therapeutics modalities for iron overload diseases, considering the economic status of poor nations and the differences in efficacy between synthetic and natural iron chelators [ [14] , [15] , [16] ].
+Earlier studies have reported the iron chelation activity and several therapeutic effects of nigella sativa [ 17 ], precisely the cardio protection, antioxidant, Fe3+ and Fe2+ iron chelation, Hepato-protective, immunomodulatory [ [17] , [18] , [19] , [20] ]. Thymoquinone (TQ) is the principal component of nigella sativa that demonstrates all of those therapeutic activities [ 18 ]. In addition, TQ denoted a concentration-dependent iron chelation activity in some diseases, as reported in the earlier study. As such, higher content of TQ in black seed capsules leads to more significant iron chelation activity [ 17 ].
+In line with that, previous clinical studies have reported iron chelation, antioxidant and anti-inflammatory effects of manuka honey against iron overload and oxidative stress [ [21] , [22] , [23] ].
+The current study targeted pediatric patients who presented with β-thalassemia major, and clinical presentation of iron overload, hyperferritinemia, altered liver enzymes, and ineffective erythropoiesis. Accordingly, the study aims to investigate the effectiveness of manuka honey combinations with nigella sativa or hydroxyurea plus the conventional therapy (Deferasirox + blood transfusion) against the conventional therapy alone in treating iron overload of β-thalassemic type major patients. In addition, the present study aims to investigate the hepato-protective effectiveness of manuka honey and nigella sativa supplementation on β-thalassemic patients with iron overload status. The objectives of the present study are as follows: investigating the chelation activity of nigella sativa and manuka honey against iron overload in β-thalassemia major patients, imply the dose-dependent iron chelation activity of TQ, investigating the hepato-protective effect of nigella sativa and manuka honey on β-thalassemia major patients.
+2. Patients and methods
+2.1. Study design
+The present study was designed as a parallel-double blinded, multisite randomized controlled trial (1:1 allocation ratio) and was conducted from 2020 to 12-01 to 2021-12-01. Two independent researchers were involved in the randomization process. The first researcher used a software that was named random allocation software [ 24 ] to conduct random sampling and allocation. At the same time, the second researcher used the Microsoft Excel software version 2016 to generate the randomized patient name list. The randomized list entailed a unique I.D. number for each patient's name and was used to label each drug container delivered to the patients. Patient data was collected longitudinally over ten months of treatment by the investigational medications, and be reported in the patient datasheet for statistical analysis.
+According to the treatment plan, an independent study blinded nurse is delivered the medication container upon request by the treating physician. In addition, a well-trained clinical pharmacist monitored the adverse effects of the study's interventions to report therapy response and drug-related needs of the patients. Patients and clinicians involved in the study were blinded to the assigned groups. The investigational and conventional treatments were filled in identical drug containers with the generated label of the randomized list to maintain the blinding process.
+2.2. Study population and participants
+The study population of the present study was the pediatric patients (300 patients) who were diagnosed with β-thalassemia major in the previous 12 months and were attending the Beni-Suef and Giza governmental hospitals in Egypt during their regular care at the pediatric hematology clinic. The inclusion criteria of the study were the pediatric patients aged 7–18 and presented with full clinical manifestation of β-thalassemia major, including hyperferritinemia, altered liver enzymes, ineffective erythropoiesis, and severe anemia, and patients who received the standard treatment of β-thalassemia major (regular blood transfusion therapy and iron chelator) over the past 12 months. The exclusion criteria were the patients with other types of anemia, renal or hepatic dysfunction, and those aged >18 years. The exclusion criteria were implemented to keep the medication efficacy protected from any disease modifier. The recruitment process was explained in Fig. 1 . Clinical and laboratory investigations were conducted regularly at the pediatric hematology clinic to confirm the patient's condition. HbA2 and HbF levels were confirmed with hemoglobin electrophoresis.
+Fig. 1.
+Open in a new tab
+The study flow chart, randomization, allocation, and follow-up for 10 months.
+According to the power analysis that was carried out, a sample size estimation of 150 patients was the minimum limit for this present study. Meanwhile, we recruited extra five (5) patients in each group, considering the future dropouts. The sample size was calculated considering the primary and secondary outcomes. Accordingly, 50 patients are the allocation limit for each group to detect a significant difference in the means value of the ferritin level with a pooled standard deviation = 65, obtained from previous studies [ 25 , 26 ]. However, 165 patients were allocated considering the dropout cases. The allocated numbers in the two investigational groups were 110 patients. Thereof, 55 patients were in the nigella sativa + manuka honey group, the manuka honey alone group and 55 patients in the control group. The study powered at 80 % with an 0.05 alpha level and a medium-size effect (partial η2 = 0.06).
+The patients participated in the trial through informed consent signed by the patient's parents or legal guardian before randomization. Patients were allocated in equal numbers into two study groups and one control group. Thirteen (13) patients were excluded from the final statistical analysis denoting irregular compliance and follow-up visits with the treating physician ( Fig. 1 ).
+The study arms were group A, the conventional therapy alone (Deferasirox±blood transfusion) that was the control group (55 patients), group B, the hydroxyurea plus manuka honey supplements (55 patients), and group C, the nigella sativa capsules plus manuka honey supplements (55 patients), represented the investigational groups. All patients’ groups received conventional therapy (Deferasirox±blood transfusion) ten months prior to the start of the current study, and during the treatment duration with the investigational medications from 2020 to 12-01 to 2021-12-01.
+This multisite trial was subjected to the Helsinki declaration and was approved by the Research Ethics Committee, Faculty of medicine Beni-Suef University, Beni-Suef, Egypt, under FMBSUREC/07072019/Gamaleldin. The study was registered on clinicaltrials.gov , NCT04292314 .
+2.3. Study outcomes
+The target outcomes for the present study were ferritin level (hyperferritinemia), serum iron, total iron binding capacity (TIBC), transferrin saturation (TfS), alanine transaminase (ALT), aspartate transaminase (AST), and TQ daily doses. The Ferritin level was the primary outcome measure (measured every two months in all groups) in this study. Moreover, the secondary outcome measures were TfS, TIBC, ALT, AST, TQ doses, and serum iron levels. The chelation activity of TQ and manuka honey on iron was measured by the correlated biomarkers, including ferritin level, TIBC, serum iron, and TfS. Iron overload complication in the liver was measured by ALT and AST liver enzymes. In addition, the TQ concentration in the commercial nigella sativa capsules was measured. The oily content of the of 20 nigella sativa capsules were pierced and pressed out into beaker to be measured using high-performance liquid chromatography (HPLC, Hewlett Packard (HP)), 1100 system (with G1379A degasser, G1313A autosampler, G1312A binary pump), G1314A wavelength detector, Agilent, Santa Clara, CA, USA. The analysis protocol was adopted from Khaikin, E. et al. [ 27 ]. A standard stock solution (2.7mg/10 mL acetonitrile + water) with concentration range 2.7–100 mg/L was prepared. The calibration curve was calculated as peak area. The linearity of the calibration was measured in the concentration range of 2.7–100 mg/L [ 27 ].
+Baseline (month zero) and end of therapy (month ten) biochemical laboratory tests were performed to evaluate the effects of the interventions. The baseline characteristic was month zero for all variables except the TQ doses variable was measured from month one treatment as a baseline data point for that variable. A venous blood (5-mL) was drawn into vacutainer tubes to measure the hematological indices using a Coulter LH 750 hematology analyzer (Beckman Coulter Inc., Fullerton, California, USA).
+2.4. Investigational and conventional therapy interventions
+All patients in the study received conventional therapy. As per treatment protocol, the conventional therapy was Deferasirox 30 mg/kg/day [ 25 ] for ten months (maximum dose of 40 mg/kg/days). In addition, patients in all groups received blood transfusions when deemed necessary by the treating clinicians [ 28 ]. The A and B groups were received the investigational therapies. The investigational therapies were: nigella sativa supplementation [500 mg black seed capsule (15 mg/kg/day TQ) [ 27 ] for ten consecutive months, manufactured by Elrazy Pharma company, Egypt, and licensed by ministry of health, Egypt. The TQ content concentration of the black seed supplementation was measured through the HPLC-UV analysis based on a protocol was adopted from Khaikin, E. et al. [ 27 ]. In addition, manuka honey lozenge MGO-400 (Methylglyoxal-400) = 344 mg(12 mg/kg/day), UMF-13 (Unique Manuka Factor-13) per day [ 22 , 29 , 30 ] for ten consecutive months. The manuka honey supplementation (Manuka Health) was sourced from Manuka Health New Zealand company. Manuka Health products are UMF and MGO certified. The MGO content was certified by the scientific evidence developed by Technical University of Dresden, Germany. The license number at UMF organization is 1074. Nigella Sativa supplementation was administered to the patients based on the ferritin level of those patients as follows: ferritin level >500 ng/dL was received one capsule (500 mg), Ferritin level >1000 ng/dL was received two capsules, and ferritin level >1500 ng/dL was received three capsules. The compliance to study treatment was assessed every month at each follow-up visit by receiving the used treatment bottles from the patients.
+2.5. Statistical analysis
+The present study's data were analyzed using the statistical package of social science software (IBM SPSS Statistics), version 25. Variance analyses were performed investigating the intervention and treatment duration effects on all study outcomes except the TQ doses variable.
+All outcomes except TQ doses were analyzed by a Two-way mixed ANOVA test (main and interaction effects) followed by a post-hoc LSD test (source of significance test). Pearson's Product-Moment correlation analysis was done between Ferritin level and the TQ doses to identify the association's strength and direction. The normality of all outcomes was measured by Shapiro–Wilk test. Accordingly, The ANOVA test assumptions were checked and confirmed. The analysis output was considered significant at p < .05. Descriptive statistics with means and standard deviations (S.D.) were used to summarize the data analysis output. The multiplicity of the outcome was resolved by performing the analysis of secondary outcomes separately from the primary outcome and as a sub-trial measurement to the main measurement (analysis of ferritin level). G-power software, version 3.1, was used for the power analysis test to calculate the required sample size [ 31 ]. The estimated sample size was inflated using the following formula to accommodate the expected future dropout of the patients during the clinical trial: N = n/(1‐(z/100)), where (N) is the final adjusted sample size and (n) is the calculated sample size and z% is the anticipated proportion of patient withdrawal.
+Thus, the final calculated sample size was consistent and valid at the end-point final statistical analysis. In addition, Two-way mixed ANOVA test was used to analyze patients with complete data.
+3. Results
+The allocation phase of the present study includes 165 patients who met the inclusion criteria and were allocated into three groups. However, thirteen patients were dropped from the final analysis with the 'missing completely at random (MCAR)' dropout assumption. The percentage of missing data among all groups was 9 % (13 patients from all groups). The adjusted sample size was calculated per the study protocol to reflect the reduced sample size. Thus, the study's integrity was preserved, and the study was potentially powered. Complete-case analysis accounted for the missing data with the assumption of missing at completely random (MACR). The missing data was reported as follows: two patients from the control group (one patient in month three treatment because of incompliance with the regular monthly treatments, one patient in month four treatment because of loss to follow-up), four patients from the nigella-manuka group (two patient in month five treatment because of lost to follow-up, two patients in month seven because of incompliance to regular monthly biomarker testing), seven patients from the hydroxyurea-manuka group (two patients in month eight treatment because of incompliance to the regular monthly treatment, five patients in month six because of incompliance to regular monthly biomarker testing).
+Thus, 152 patients were included in the final analysis as follows: 48 (mean age 10.5 ± 3.5, 50 % male) in the manuka alone group, 51 (mean age 8.5 ± 4, 60 % male) were in the nigella plus manuka group, and 53 (mean age 11 ± 5.5, 70 % male) in the control group were analyzed. All descriptive statistics were reported in Table 1 . The flow chart of the study is shown in Fig. 1 . Fig. 2 showed the HPLC quantitative analysis of TQ content in Nigella sativa capsules. It showed that commercial nigella sativa in EGYPT comprised a 30 mg TQ per 1000 mg nigella sativa capsules. Table 1 shows the descriptive statistical analysis and baseline characteristics of the patients. Analysis of variance between the three groups investigating the main effects and the interaction effects ( Table 2 , Fig. 3 , Fig. 4 , Fig. 5 , Fig. 6 , Fig. 7 , Fig. 8 ) showed that adding a combination of nigella sativa plus manuka to the conventional therapy was more significant than manuka honey alone and control groups in managing iron overload. Nigella sativa plus manuka honey combination and manuka honey only group reduced ALT and AST liver enzymes levels significantly compared to the control group. Both are linked with hepatic iron damage in β-thalassemic patients. At the same time, the analysis showed that nigella sativa plus manuka honey combination and manuka honey alone significantly reduced the Ferritin level, TIBC, serum iron, and transferrin saturation percent which are linked to iron overload and iron toxicity in β-thalassemic patients ( Table 2 ). Concurrently, TQ doses were significantly increased in month ten with the nigella sativa plus manuka group compared to the baseline value within the same group. All results are reported in Table 2 . Pearson's correlation showed a strong, negative correlation (r = - 0.605, n = 550, p = 0.032) between TQ doses and ferritin levels. As such, the TQ doses of nigella sativa supplementation was significantly increased over the ten months treatment with significant reduction of ferritin level over the same treatment period.
+Table 1.
+Descriptive statistics shows the characteristics of the patients at baseline month and after ten months of treatment b .
+Variable Control group (n = 55) Hydroxyurea + Mauka honey group (n = 55) Nigella Sativa + Mauka honey group (n = 55)
+Age(y) Month 0 11 ± 3.5 9 ± 4.0 a 12.5 ± 5.5
+Month 10 10.5 ± 4 12 ± 3.0 15 ± 5.5
+Gender, n (%) Male Female Month 0 34 (62 %) 27 (49 %) 32 (58 %)
+21 (38 %) 28 (51 %) 23 (42 %)
+Month 10 32 (60 %) 24 (50 %) 29 (57 %)
+21 (40 %) 24 (50 %) 22 (43 %)
+TQ doses c Month 0 NA NA 1 ± 1
+Month 10 NA NA 2 ± 1
+Ferritin (ng/mL) Month 0 1690 ± 202 1623 ± 189 1700 ± 230
+Month 10 1195 ± 195 950 ± 146 605 ± 129
+Serum iron (μg/dL) Month 0 136 ± 11.5 132 ± 12 156 ± 9.5
+Month 10 125 ± 9.8 93 ± 8.3 82 ±0 .7.6
+Transferrin saturation (%) Month 0 68 ± 9 72 ± 6.5 64 ± 16.2
+Month 10 56 ± 4.04 51 ± 3.03 48 ± 4.53
+TIBC (μg/dL) Month 0 182 ± 7.3 195 ± 5.8 205 ± 6.7
+Month 10 243 ± 17.3 267 ± 15.8 402 ± 16.7
+ALT (U/L) Month 0 72 ± 5.4 64 ± 6.5 59 ± 7.5
+Month 10 51 ± 2.4 38 ± 4.5 32 ± 6.2
+AST (U/L) Month 0 56 ± 3.1 52 ± 2.8 53 ± 1.9
+Month 10 48 ± 1.9 45 ± 2.2 41 ± 1.0
+Dropout Month (count, percent) Month-3(1, 0.006) Month-4 (1, 0.006) Month-6(5, 0.030) Month-8 (2, 0.012) Month-7(2, 0.012) Month-5 (2, 0.012)
+Open in a new tab
+Abbreviation: S.D., standard deviation; NA, not applicable.
+a
+Mean ± S.D. (all such values); comparison between the interventional groups and control group.
+b
+baseline data of the prior 10 months of conventional therapy alone, which are reported at month zero.
+c
+Baseline for TQ doses is month one treatment.
+Fig. 2.
+Open in a new tab
+HPLC chromatograms of thymoquinone (TQ) in standard and commercial capsules. HPLC chromatograms of thymoquinone (TQ) in standard and commercial capsules. A, chromatogram peak for TQ in commercial black seed capsule at retention time 6.3 min. B, chromatogram peak for TQ in standard solution at retention time 6.4 min. Chromatogram was recorded at 254 nm UV spectrum. The linearity of calibration was in the concentration of 2.7–100 mg/L.
+Table 2.
+Two-way ANOVA analysis among all investigational groups after ten months of treatment.
+Variable Mean difference after ten months of treatment b Mean difference (95%CI) P interaction
+Control group (C) Hydroxyurea + Mauka honey group (HUM) Nigella Sativa + Manuka honey group (NSM)
+Ferritin (ng/mL) 495 ± 82 673 ± 122 d 1095 ± 130 c C-HUM 178 (170, 184) C-NSM 600 (590, 605) 0.043 a
+Serum iron (μg/dL) 125 ± 9.8 93 ± 8.3 d 82 ± 0 .7.6 c C-HUM 32 (27, 39) C-NSM 43 (39, 48) 0.026 a
+Transferrin saturation (%) 56 ± 4.04 51 ± 3.03 d 48 ± 4.53 d C-HUM 5 (3.5, 6.5) C-NSM 7 (6.2, 8.1) 0.049 a
+TIBC (μg/dL) 243 ± 17.3 267 ± 15.8 402 ± 16.7 c C-HUM -24 (−21, −28) C-NSM -159 (−148, −165) 0.032 a
+ALT (U/L) 51 ± 2.4 38 ± 4.5 d 32 ± 6 . 2 d C-HUM 13 (12.8, 14.2) C-NSM 19 (17.5, 21.3) 0.028 a
+AST (U/L) 48 ± 1.9 45 ± 2.2 d 41 ± 1 . 0 d C-HUM 3 (2.5, 3.5) C-NSM 7 (6.1, 7.9) 0.041 a
+Open in a new tab
+Abbreviation: S.D., standard deviation; NA, not applicable. B significantly different from baseline values.
+a
+Significantly different at p < .05.
+b
+Mean ± SDs, The P for duration × treatment interaction effects were analyzed by Two-Way ANOVA.
+c
+significantly different from all groups.
+d
+significantly different from control group.
+Fig. 3.
+Open in a new tab
+The therapeutic effects of the study's interventions on ferritin level after ten months of treatments. The study interventions' effect on ferritin level during ten months of treatment was measured as the total mean change of ferritin level from baseline value and the intervention effect size (partial eta squared, ηp2). Manuka honey alone and nigella sativa plus manuka honey significantly decreased the level of ferritin level (mean of 950 ng/mL, mean of 605 ng/mL; respectively) compared to the standard treatment (mean of 1195 ng/mL) * Significantly different from the control group.
+Fig. 4.
+Open in a new tab
+The therapeutic effects of the study's interventions on the level of serum iron after ten months of treatments. The study interventions' effect on the level of serum iron during ten months of treatment was measured as the total mean change of serum iron from baseline value and the intervention effect size (partial eta squared, ηp2). Manuka honey and nigella sativa + manuka honey alone significantly decreased the level of serum iron (mean of 93 μg/dL, mean of 82 μg/dL; respectively) compared to the standard treatment (mean of 125 μg/dL).* Significantly different from the control group.
+Fig. 5.
+Open in a new tab
+The therapeutic effects of the study's interventions on the level of transferrin saturation (TfS) after ten months of treatments. The study interventions' effect on the level of TfS during ten months of treatment was measured as the total mean change of TfS from baseline value and the intervention effect size (partial eta squared, ηp2). Manuka honey alone and nigella sativa + manuka honey significantly decreased the level of TfS (mean of 51 %, mean of 48 %; respectively) compared to the standard treatment (mean of 56 %). * Significantly different from the control group.
+Fig. 6.
+Open in a new tab
+The therapeutic effects of the study's interventions on total iron binding capacity (TIBC) levels after ten months of treatments. The study interventions' effect on the level of TIBC during ten months of treatment was measured as the total mean change of TIBC from baseline value and the intervention effect size (partial eta squared, ηp2). Nigella sativa + manuka honey significantly increased the level of TIBC (mean of 402 μg/dL) compared to the manuka honey alone (mean of 267 μg/dL) standard treatment (mean of 243 μg/dL). * Significantly different from the control group.
+Fig. 7.
+Open in a new tab
+The therapeutic effects of the study's interventions on alanine transaminase (ALT) levels after ten months of treatments. The study interventions' effect on the level of ALT during ten months of treatment was measured as the total mean change of ALT from baseline value and the intervention effect size (partial eta squared, ηp2). Manuka honey alone and nigella + manuka honey, respectively, significantly decreased the level of ALT (mean of 38 U/L, mean of 32 U/L) compared to the standard treatment (mean of 51 U/L). * Significantly different from the control group.
+Fig. 8.
+Open in a new tab
+The therapeutic effects of the study's interventions on aspartate transaminase (AST) levels after ten months of treatments. The study interventions' effect on the level of AST during ten months of treatment was measured as the total mean change of AST from baseline value and the intervention effect size (partial eta squared, ηp2). Manuka only group and nigella sativa + manuka honey, respectively, significantly reduced the level of AST (mean of 45 U/L, mean of 41 U/L) compared to the standard treatment (mean of 48 U/L). * Significantly different from the control group.
+Analysis of the Ferritin levels variable showed a significant reduction for all groups. Nigella sativa + manuka honey was more significant than all other investigational interventions of the study (conventional therapy, manuka honey plus hydroxyurea, ( p < 0 .015 ). Nigella sativa + manuka honey significantly reduced the ferritin level to 605 ng/ml.
+The interaction effect of treatment duration and treatment drug were significant at p < .043 , and F = 1.552. The main effect investigational medication was significant at p < .031 and F = 1.210. Similarly, the main effect of the therapy duration was significant at p < .035 and F = 10.557. The post-hoc LSD analysis between the zero month (before treatment) and the tenth month (end of the treatment) denoted a significant difference at p < 0 .048 .
+Moreover, post-hoc analysis showed the following homogenous subsets in ascending order: 1. Nigella Sativa plus manuka., 2. Manuka honey plus hydroxyurea., 3. Control group. Result findings showed that manuka honey plus hydroxyurea group reduced the ferritin level significantly ( p < 0 .035 ), control group reduced the ferritin level significantly ( p < 0 .045 ).
+The results of Two-way ANOVA test and the Post-Hoc LSD test is presented in Table 2 . The error bar chart plotting can be found on Fig. 3 .
+Analysis of the Serum iron variable showed a significant reduction for all groups. Nigella sativa + manuka honey was more significant than all other investigational interventions of the study (conventional therapy, manuka honey plus hydroxyurea, and control group ( p < 0 .015 ). Nigella Sativa + manuka honey significantly reduced the ferritin level to 82 μg/dL.
+The interaction effect of treatment duration and treatment drug were significant at p < .026 , and F = 1.462. The main effect investigational medication was significant at p < .038 and F = 1.210. Similarly, the main effect of the therapy duration was significant at p < .038 and F = 10.107. The post-hoc LSD analysis between the zero month (before treatment) and the tenth month (end of the treatment) denoted a significant difference at p < 0 .045 .
+Moreover, post-hoc analysis showed the following homogenous subsets in ascending order: 1. Nigella Sativa plus manuka honey., 2. Manuka honey plus hydroxyurea., 3. Control group. Result findings showed that Manuka honey plus hydroxyurea group reduced the ferritin level significantly ( p < 0 .041 ), control group reduced the ferritin level significantly ( p < 0 .032 ).
+The results of Two-way ANOVA test and the Post-Hoc LSD test is presented in Table 2 . The error bar chart plotting can be found on Fig. 4 .
+Analysis of the transferrin saturation variable showed a significant reduction for Nigella Sativa plus manuka and manuka plus hydroxyurea groups. Nigella sativa + manuka honey was more significant than all other investigational interventions of the study (conventional therapy, manuka honey plus hydroxyurea ( p < 0 .022 ). Nigella sativa + manuka honey significantly reduced the ferritin level to 48 %.
+The interaction effect of treatment duration and treatment drug were significant at p < .049 , and F = 1.321. The main effect investigational medication was significant at p < .045 and F = 1.810. Similarly, the main effect of the therapy duration was significant at p < .035 and F = 11.507. The post-hoc LSD analysis between the zero month (before treatment) and the tenth month (end of the treatment) denoted a significant difference at p < 0 .046 .
+Moreover, post-hoc analysis showed the following homogenous subsets in ascending order: 1. Nigella sativa plus manuka., 2. Manuka honey plus hydroxyurea. Result findings showed that manuka honey plus hydroxyurea group reduced the transferrin saturation level significantly ( p < 0 .041 ).
+The results of Two-way ANOVA test and the Post-Hoc LSD test is presented in Table 2 . The error bar chart plotting can be found on Fig. 5 .
+Analysis of the TIBC variable showed a significant increase for nigella sativa plus manuka honey group only. Nigella sativa + manuka honey significantly reduced the TIBC level to 402 μg/dL.
+The interaction effect of treatment duration and treatment drug were significant at p < .032 , and F = 1.663. The main effect investigational medication was significant at p < .038 and F = 1.221. Similarly, the main effect of the therapy duration was significant at p < .032 and F = 10.527. The post-hoc LSD analysis between the zero month (before treatment) and the tenth month (end of the treatment) denoted a significant difference at p < 0 .036 .
+The results of Two-way ANOVA test and the Post-Hoc LSD test is presented in Table 2 . The error bar chart plotting can be found on Fig. 6 .
+Analysis of the ALT variable showed a significant reduction for all groups. Nigella sativa + manuka honey was more significant than all other investigational interventions of the study (conventional therapy, manuka honey plus hydroxyurea ( p < 0 .022 ). Nigella sativa + manuka honey significantly reduced the ALT level to 32 U/L.
+The interaction effect of treatment duration and treatment drug were significant at p < .028 , and F = 1.462. The main effect investigational medication was significant at p < .045 and F = 1.610. Similarly, the main effect of the therapy duration was significant at p < .034 and F = 10.567. The post-hoc LSD analysis between the zero month (before treatment) and the tenth month (end of the treatment) denoted a significant difference at p < 0 .048 .
+Moreover, post-hoc analysis showed the following homogenous subsets in ascending order: 1. Nigella Sativa plus manuka honey, 2. Manuka honey plus hydroxyurea., 3. Control group. Result findings showed that Manuka honey plus hydroxyurea group reduced the ALT level significantly ( p < 0 .038 ), Control group reduced the ALT level significantly ( p < 0 .033 ).
+The results of Two-way ANOVA test and the Post-Hoc LSD test is presented in Table 2 . The error bar chart plotting can be found on Fig. 7 .
+Analysis of the AST variable showed a significant reduction for all groups. Nigella sativa + manuka honey was more significant than all other investigational interventions of the study (Conventional therapy, manuka honey plus hydroxyurea ( p < 0 .028 ). Nigella sativa + manuka honey significantly reduced the AST level to 41 U/L.
+The interaction effect of treatment duration and treatment drug were significant at p < .041 , and F = 1.363. The main effect investigational medication was significant at p < .048 and F = 1.210. Similarly, the main effect of the therapy duration was significant at p < .036 and F = 12.117. The post-hoc LSD analysis between the zero month (before treatment) and the tenth month (end of the treatment) denoted a significant difference at p < 0 .042 .
+Moreover, post-hoc analysis showed the following homogenous subsets in ascending order: 1. Nigella Sativa plus manuka honey, 2. Manuka honey plus hydroxyurea, 3. Control group. Result findings showed that manuka honey plus hydroxyurea group reduced the AST level significantly ( p < 0 .046 ), control group reduced the ferritin level significantly ( p < 0 .049 ).
+The results of Two-way ANOVA test and the Post-Hoc LSD test is presented in Table 2 . The error bar chart plotting can be found on Fig. 8 .
+4. Discussion
+Previous studies have concluded that ferritin level and serum iron were used as a biomarker for iron overload, precisely in β-thalassemia. Similarly, previous clinical studies have noticed that transferrin saturation and total iron binding capacity were correlated with iron overload [ [32] , [33] , [34] ]. the study's research finding concluded that hyperferritinemia and altered levels of TIBC, serum iron, and transferrin saturation was noticed in β-thalassemic patients.
+Serum ferritin, total iron binding capacity, and transferrin saturation (TfS) are essential biomarkers in determining iron status and overload in thalassemic patients [ [32] , [33] , [34] ]. In addition, iron overload leads to hepatic cell damage, which in turn leads to elevated liver enzymes, including alanine transaminase (ALT) and aspartate transaminase (AST) [ 35 ]. Accordingly, measuring those biomarkers in response to iron chelation therapies is essential in determining the chelation capacity of those therapies in forming iron complexes and removing excessive iron. In addition, those biomarkers denote the iron overload status of thalassemic patients.
+Earlier studies have reported that synthetic iron chelators and blood transfusion have been used as conventional therapy for iron overload [ 9 , 10 ]. However, serious adverse events, including iron overload and organ damage, have been reported in those therapies in β-thalassemia patients [ [36] , [37] , [38] , [39] , [40] ]. In contrast, natural iron chelator has been proposed as an alternative to synthetic iron chelator or combined with them for a better outcome and lesser adverse events [ [13] , [14] , [15] , [16] , 26 ].
+Previous studies indicated that the TQ of nigella sativa showed a concentration-dependent iron chelation activity in iron overload [ 17 ]. In addition, previous electrochemical studies on the complexation of TQ with iron have showed that TQ has significantly form a stable complex with iron (Fe 3+ ) [ 20 , 41 ]. The study findings denoted a highly negative correlation between ferritin levels and TQ doses. As such, ferritin level was significantly reduced with increasing dose of TQ in β-thalassemia major patients.
+Most iron chelators, including Deferoxamine, Deferiprone, and Deferasirox, have denoted the chelation activity by removing liable plasma iron (LPI) and cell iron [ 42 ]. Nevertheless, transferrin saturation could be used as an indicator of iron overload [ 32 ]. However, previous studies indicated inconclusive evidence on the effect of Deferoxamine, Deferiprone, and Deferasirox on the transferrin saturation percent in β-thalassemia patients.
+Conversely, recent investigations have indicated the binding mechanism of TQ to human transferrin to form a stable complex targeting Alzheimer's disease [ 43 ]. The study findings indicated that transferrin saturation level was significantly reduced with nigella sativa intervention (TQ capsules) after ten months of treatment.
+Previous studies indicated the beneficial therapeutic effect of combining ferric iron chelator (Fe3+), Deferasirox, with ferrous iron chelator (Fe2+), 2,2′- bipyridyl (DP) in iron-overloaded human liver [ 11 ]. In line with that, TQ showed in-vitro ferrous (Fe2+) concentration-dependent chelation activity [ 17 ]. Conversely, TQ intervention showed no direct in-vivo iron chelation activity on ferrous iron (Fe2+) [ 19 ]. Instead, TQ showed an antioxidant effect against iron overload-induced oxidative stress [ 44 ].
+Previous study has investigated the chelation activity of manuka honey on ferric iron (Fe 3+ ) which contribute to the antimicrobial activity of the manuka honey. The MGO content of Manuka honey promotes the antimicrobial activity by limiting the bacterial to acquire iron which is essential for bacterial metabolism. Accordingly, Manuka honey chelate iron and promotes iron-limiting media for bacterial infection [ 23 ]. In addition, manuka honey has showed a protective effect on human liver and the immune system [ 21 ]. The antioxidant effect of manuka honey promotes the iron homeostasis. The flavonoids content of manuka honey chelates iron significantly in iron overloaded patient [ [45] , [46] , [47] ].
+The research study's findings concluded that nigella sativa and manuka honey could be significantly used as natural iron chelators for iron overload. After ten months of TQ treatment, nigella sativa (3 % TQ) significantly reduced ferritin levels, serum iron, and TfS in β-thalassemia major patients. Similarly, manuka Honey (UMF-13, MGO-400) implied a significant effect on iron overload in those patients. Although, nigella sativa was more significant than manuka honey in iron chelation activity.
+The use of synthetic iron chelators and blood transfusion have implied adverse events-induced-therapeutic challenges in β-thalassemia patients [ 36 , 40 ]. In addition, no additional therapeutic benefits were denoted by using those agents. In contrast, nigella sativa and manuka honey denoted several therapeutic benefits over iron overload in β-thalassemia patients [ 18 , [21] , [22] , [23] , 44 , 48 ]. Earlier studies have reported liver dysfunction, and altered liver enzymes were associated with β-thalassemia patients.
+The research study's findings concluded that nigella Sativa and manuka honey significantly reduced the altered liver enzymes (ALT, AST) in the study's patients. The combination of nigella sativa and manuka honey was more significant than the manuka honey alone and control groups.
+The current study showed some limitations, including the sample size of medium size, and further future investigation should be performed with a larger sample size. Moreover, the duration of the current study should be performed over longer treatment duration to measure the safety and tolerability of nigella sativa and manuka supplementation. The present study involved the measurement of thymoquinone, the active principle of nigella sativa, and methylglyoxal, the active principle of manuka honey with the exclusion of other active ingredients that may exert clinical benefits on β-thalassemic patients. Thus, it could be considered a limitation in the present study.
+5. Conclusions
+Key findings from the present study were that nigella sativa and manuka honey combination was generally more effective in managing iron overload than the conventional therapy alone or manuka honey alone. The concentration-dependent ferric iron chelation of TQ was confirmed in the present study. In addition, therapeutic benefits and organ function protection (iron-overloaded liver) were confirmed with TQ intervention.
+The antioxidant and chelation effects of manuka honey supplementation were confirmed. Although, the better outcome was confirmed when combined with nigella sativa supplements.
+Ethics approval
+The present study was approved by the Beni-Suef University Institutional Review Board (IRB) (FMBSUREC/07072019/Gamaleldin) and was registered on ClinicalTrials.gov ( NCT04292314 ). The study was implemented following the principles of the Declaration of Helsinki.
+Consent to participate
+All participants were recruited voluntarily with the signed informed consent of their legal guardians (parents).
+Consent for publication
+Non-applicable.
+Funding
+The present study received no funds for its design, analysis, and interpretation of data, or for writing the manuscript.
+Data availability and materials
+The datasets generated during and/or analyzed during the current study are available from the corresponding author, Mohamed Gamaleldin, on request. The data are secured and not publicly available or deposited into a publicly available repository due to their containing information (hematological patients's profile) that could compromise the privacy of research's patients.
+CRediT authorship contribution statement
+Mohamed M. Gamaleldin: Writing – review & editing, Writing – original draft, Methodology, Investigation, Formal analysis, Conceptualization. Ivo L. Abraham: Writing – review & editing, Validation, Supervision, Project administration, Formal analysis, Data curation, Conceptualization. Mohamed Hussein Meabed: Writing – review & editing, Supervision, Project administration, Methodology, Investigation, Conceptualization. Ahmed A. Elberry: Writing – review & editing, Supervision, Methodology, Investigation, Formal analysis, Data curation. Shaimaa M. Abdelhalim: Methodology, Formal analysis, Data curation. Ahmed F. Mahmoud Hussein: Validation, Methodology, Investigation. Raghda R.S. Hussein: Writing – review & editing, Supervision, Methodology, Data curation, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgments
+The present research study was done as a part of the Ph.D. dissertation at the Clinical Pharmacy Department, Faculty of Pharmacy, Beni-Suef University, Egypt, with a joint Supervision Committee at the Department of Pharmacy Practice & Science, R. K. Coit College of Pharmacy, University of Arizona, Arizona, USA. The authors are dearly thankful for all researchers who helped collecting the study's data. Moreover, we would like to thank all physicians and nurses who offered all their support to conduct the study professionally.
+Footnotes
+☆
+This study was approved by the Research ethical committee, Faculty of Medicine, Beni-Suef University, Egypt, with a registration number of FMBSUREC/07072019/Gamaleldin (July 7, 2019). The study was registered on clinicaltrials.gov under NCT04292314 (July 10, 2020). In addition, biomedical ethical approval (HAPO-02-K-012-2020-02-359) was granted from the Faculty of Medicine, University of Umm Al-Qura in MAKKAH, Saudi Arabia, for study site abroad within its faculty facilities and regional research centers for data set two considering Saudi population in a separate research article in the near future.
+Contributor Information
+Mohamed M. Gamaleldin, Email: dr.mohmedhat@gmail.com, mohamed.medhat@pharm.bsu.edu.eg, mgamaleldin@fcms.edu.sa.
+Ivo L. Abraham, Email: iabraham@arizona.edu.
+Mohamed Hussein Meabed, Email: m1hmeabed2@gmail.com.
+Ahmed A. Elberry, Email: elberryahmed79@gmail.com.
+Shaimaa M. Abdelhalim, Email: drshimaa.nashat@gmail.com, smabdelhalim@fcms.edu.sa.
+Ahmed F. Mahmoud Hussein, Email: fathi206@gmail.com.
+Raghda R.S. Hussein, Email: smartraro@yahoo.com.
+References
+1. Khandros E., Kwiatkowski J.L. Beta thalassemia: monitoring and New treatment approaches. Hematol. Oncol. Clin. N. Am. 2019;33(3):339–353. doi: 10.1016/j.hoc.2019.01.003. [ DOI ] [ PubMed ] [ Google Scholar ]
+2. Nienhuis A.W., Nathan D.G. Pathophysiology and clinical manifestations of the beta-thalassemias. Cold Spring Harb Perspect Med. 2012;2(12):a011726. doi: 10.1101/cshperspect.a011726. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+3. Origa, R., β-Thalassemia. Genetics in Medicine, 2017. 19 (6): p. 609-619, doI: 10.1038/gim.2016.173. [ DOI ] [ PubMed ]
+4. El-Beshlawy A., Youssry I. Prevention of hemoglobinopathies in Egypt. Hemoglobin. 2009;33(Suppl 1):S14–S20. doi: 10.3109/03630260903346395. [ DOI ] [ PubMed ] [ Google Scholar ]
+5. El-Shanshory M.R., et al. Prevalence of iron deficiency anemia and beta thalassemia carriers among relatives of beta thalassemia patients in Nile Delta region, Egypt: a multicenter study. J. Egypt. Publ. Health Assoc. 2021;96(1):27. doi: 10.1186/s42506-021-00088-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+6. Sposi N.M. In: Beta Thalassemia. Marwa Z., Tamer H., editors. 2019. Oxidative stress and iron overload in β-thalassemia: an overview. IntechOpen: Rijeka. p. Ch. 6. [ Google Scholar ]
+7. Gupta R., et al. Ineffective erythropoiesis: anemia and iron overload. Hematol. Oncol. Clin. N. Am. 2018;32(2):213–221. doi: 10.1016/j.hoc.2017.11.009. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+8. Mancardi D., et al. Iron overload, oxidative stress, and ferroptosis in the failing heart and liver. Antioxidants. 2021;10(12):1864. doi: 10.3390/antiox10121864. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+9. Motta I., et al. Beta thalassemia: New therapeutic options beyond transfusion and iron chelation. Drugs. 2020;80(11):1053–1063. doi: 10.1007/s40265-020-01341-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+10. Mobarra N., et al. A review on iron chelators in treatment of iron. Int. J. Hematol. Oncol. Stem Cell Res. 2016;10(4):239–247. [ PMC free article ] [ PubMed ] [ Google Scholar ]
+11. Huang X., et al. Ferrous ion autoxidation and its chelation in iron-loaded human liver HepG2 cells. Free Radic. Biol. Med. 2002;32(1):84–92. doi: 10.1016/S0891-5849(01)00770-5. [ DOI ] [ PubMed ] [ Google Scholar ]
+12. Kontoghiorghes G., Kontoghiorghe C. Iron and chelation in biochemistry and medicine: New approaches to controlling iron metabolism and treating related diseases. Cells. 2020;9(6):1456. doi: 10.3390/cells9061456. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+13. Naheed Waseem A.S., et al. In: Trace Elements and Their Effects on Human Health and Diseases. Daisy J., editor. 2021. Natural iron chelators as potential therapeutic agents for the treatment of iron overload diseases. IntechOpen: Rijeka. p. Ch. 4. [ Google Scholar ]
+14. Orisakwe O.E., Amadi C.N., Frazzoli C. Management of iron overload in resource poor nations: a systematic review of phlebotomy and natural chelators. J. Toxicol. 2020;2020 doi: 10.1155/2020/4084538. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+15. Hatcher H.C., et al. Synthetic and natural iron chelators: therapeutic potential and clinical use. Future Med. Chem. 2009;1(9):1643–1670. doi: 10.4155/fmc.09.121. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+16. Reisi N., et al. Therapeutic potential of silymarin as a natural iron‐chelating agent in β‐thalassemia intermedia. Clin Case Rep. 2022;10(1) doi: 10.1002/ccr3.5293. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+17. Ahmad S., Beg Z.H. Mitigating role of thymoquinone rich fractions from Nigella sativa oil and its constituents, thymoquinone and limonene on lipidemic-oxidative injury in rats. SpringerPlus. 2014;3:316. doi: 10.1186/2193-1801-3-316. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+18. Ahmad A., et al. A review on therapeutic potential of Nigella sativa: a miracle herb. Asian Pac. J. Trop. Biomed. 2013;3(5):337–352. doi: 10.1016/s2221-1691(13)60075-1. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+19. Ghasemi F., et al. Hepatic response to the interaction between thymoquinone and iron-dextran: an in vitro and in vivo study. Biol. Trace Elem. Res. 2022 doi: 10.1007/s12011-022-03249-9. [ DOI ] [ PubMed ] [ Google Scholar ]
+20. Kishwar F., Anwar H. USE OF ACTIVE INGREDIENT OF NIGELLA SATIVA TO REDUCE TOXICITY OF SOME TRACE ELEMENTS (FE(III), CR(VI), CU(II), V(IV) AND CO(II)) ferric. FUUAST J. BIOL. 2012;2 7-7. [ Google Scholar ]
+21. Ali Khormi M., Hussein Roshdy Elnaggar M., Al-Hazmi M.A. Protective effects of manuka honey against diazinon induced hepatorenal toxicity in adult male rats. Acta Scientific Medical Sciences. 2022;6:9–22. doi: 10.31080/asms.2022.06.1263. [ DOI ] [ Google Scholar ]
+22. Alvarez-Suarez J., et al. The composition and biological activity of honey: a focus on manuka honey. Foods. 2014;3(3):420–432. doi: 10.3390/foods3030420. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+23. Ankley L.M., et al. Manuka honey chelates iron and impacts iron regulation in key bacterial pathogens. J. Appl. Microbiol. 2020;128(4):1015–1024. doi: 10.1111/jam.14534. [ DOI ] [ PubMed ] [ Google Scholar ]
+24. Saghaei M. Random allocation software for parallel group randomized trials. BMC Med. Res. Methodol. 2004;4(1) doi: 10.1186/1471-2288-4-26. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+25. Wei Z., et al. A 15-years follow-up of deferasirox in beta-thalassaemia major patients with iron overload. Br. J. Haematol. 2020;191(3):e81–e83. doi: 10.1111/bjh.17035. [ DOI ] [ PubMed ] [ Google Scholar ]
+26. Hagag A.A., et al. Therapeutic value of combined therapy with deferasirox and silymarin on iron overload in children with Beta thalassemia. Mediterr J Hematol Infect Dis. 2013;5(1) doi: 10.4084/MJHID.2013.065. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+27. Khaikin E., et al. Screening of thymoquinone content in commercial nigella sativa products to identify a promising and safe study medication. Nutrients. 2022;14(17):3501. doi: 10.3390/nu14173501. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+28. Farmakis D., et al. 2021 thalassaemia international federation guidelines for the management of transfusion-dependent thalassemia. Hemasphere. 2022;6(8) doi: 10.1097/HS9.0000000000000732. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+29. Cohen H.A., et al. Effectiveness of an herbal preparation containing echinacea, propolis, and vitamin C in preventing respiratory tract infections in children. Arch. Pediatr. Adolesc. Med. 2004;158(3):217–221. doi: 10.1001/archpedi.158.3.217. [ DOI ] [ PubMed ] [ Google Scholar ]
+30. El-Seedi H.R., et al. Honey bee products: preclinical and clinical studies of their anti-inflammatory and immunomodulatory properties. Front. Nutr. 2021;8 doi: 10.3389/fnut.2021.761267. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+31. Faul F., et al. Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses. Behav. Res. Methods. 2009;41(4):1149–1160. doi: 10.3758/BRM.41.4.1149. [ DOI ] [ PubMed ] [ Google Scholar ]
+32. Sagare A.A., Trivedi D.J. Assesment of transferrin saturation as an indicator of iron overload in homozygous & hetrozygous form of thalassemia. Res. J. Pharmaceut. Biol. Chem. Sci. 2014;5(1):668–673. [ Google Scholar ]
+33. Rostoker G., et al. Reassessment of iron biomarkers for prediction of dialysis iron overload: an MRI study. PLoS One. 2015;10(7) doi: 10.1371/journal.pone.0132006. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+34. Susanah S., et al. Iron status in newly diagnosed β-thalassemia major: high rate of iron status due to erythropoiesis drive. BioMed Res. Int. 2021;2021:1–7. doi: 10.1155/2021/5560319. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+35. Salama K.M., et al. Liver enzymes in children with beta-thalassemia major: correlation with iron overload and viral hepatitis. Open Access Maced J Med Sci. 2015;3(2):287–292. doi: 10.3889/oamjms.2015.059. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+36. Shah F.T., et al. Challenges of blood transfusions in beta-thalassemia. Blood Rev. 2019;37 doi: 10.1016/j.blre.2019.100588. [ DOI ] [ PubMed ] [ Google Scholar ]
+37. Al-Khabori M., et al. Side effects of deferasirox iron chelation in patients with beta thalassemia major or intermedia. Oman Med. J. 2013;28(2):121–124. doi: 10.5001/omj.2013.31. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+38. Cappellini M.D. Long-term efficacy and safety of deferasirox. Blood Rev. 2008;22(SUPPL. 2):S35–S41. doi: 10.1016/S0268-960X(08)70007-9. [ DOI ] [ PubMed ] [ Google Scholar ]
+39. Gottwald E.M., et al. The iron chelator Deferasirox causes severe mitochondrial swelling without depolarization due to a specific effect on inner membrane permeability. Sci. Rep. 2020;10(1):1–15. doi: 10.1038/s41598-020-58386-9. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+40. Marano M., et al. Deferasirox-induced serious adverse reaction in a pediatric patient: pharmacokinetic and pharmacogenetic analysis. Eur. J. Clin. Pharmacol. 2016;72(2):247–248. doi: 10.1007/s00228-015-1956-2. [ DOI ] [ PubMed ] [ Google Scholar ]
+41. Kishwar F., Haq Q.U. Cyclic voltammetric studies of thymoquinone with iron (III) Pakistan Journal of Scientific and Industrial Research Series A: Physical Sciences. 2013;56(2):59–69. doi: 10.52763/pjsir.phys.sci.56.2.2013.59.69. [ DOI ] [ Google Scholar ]
+42. Perifanis V., et al. Almost normal transferrin saturation in thalassemic patients on deferasirox may predict better outcome. Blood. 2008;112(11) doi: 10.1182/blood.V112.11.3891.3891. 3891-3891. [ DOI ] [ Google Scholar ]
+43. Xue B., et al. Investigating binding mechanism of thymoquinone to human transferrin, targeting Alzheimer's disease therapy. J. Cell. Biochem. 2022;123(8):1381–1393. doi: 10.1002/jcb.30299. [ DOI ] [ PubMed ] [ Google Scholar ]
+44. El-Shanshory M., et al. Nigella sativa improves anemia, enhances immunity and relieves iron overload-induced oxidative stress as a novel promising treatment in children having beta-thalassemia major. J. Herb. Med. 2019;16 doi: 10.1016/j.hermed.2018.11.001. [ DOI ] [ Google Scholar ]
+45. Imam M., et al. Antioxidants mediate both iron homeostasis and oxidative stress. Nutrients. 2017;9(7):671. doi: 10.3390/nu9070671. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+46. Ahmed S., et al. Honey as a potential natural antioxidant medicine: an insight into its molecular mechanisms of action. Oxid. Med. Cell. Longev. 2018;2018 doi: 10.1155/2018/8367846. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+47. Wang X., et al. Role of flavonoids in the treatment of iron overload. Front. Cell Dev. Biol. 2021;9 doi: 10.3389/fcell.2021.685364. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+48. Singh S., et al. Composition, in vitro antioxidant and antimicrobial activities of essential oil and oleoresins obtained from black cumin seeds (Nigella sativa L.) BioMed Res. Int. 2014;2014 doi: 10.1155/2014/918209. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Data Availability Statement
+The datasets generated during and/or analyzed during the current study are available from the corresponding author, Mohamed Gamaleldin, on request. The data are secured and not publicly available or deposited into a publicly available repository due to their containing information (hematological patients's profile) that could compromise the privacy of research's patients.
+Articles from Heliyon are provided here courtesy of Elsevier
+ACTIONS
+View on publisher site
+PDF (5.2 MB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib .nbib
+Format: AMA APA MLA NLM
+Add to Collections
+Create a new collection Add to an existing collection Name your collection * Choose a collection Unable to load your collection due to an error Please try again Add Cancel Follow NCBI NCBI on X (formerly known as Twitter) NCBI on Facebook NCBI on LinkedIn NCBI on GitHub NCBI RSS feed
+Connect with NLM
+NLM on X (formerly known as Twitter) NLM on Facebook NLM on YouTube
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+Back to Top

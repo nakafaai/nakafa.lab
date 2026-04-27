@@ -3,6 +3,7 @@ AGENTS.md
 docs/research-protocol.md
 docs/next-steps.md
 docs/parallel-research-tracks.md
+docs/publication-readiness.md
 docs/status/README.md
 docs/status/2026-04-27.md
 docs/status/daily-summary-automation.md

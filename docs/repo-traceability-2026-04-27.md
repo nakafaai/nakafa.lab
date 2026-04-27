@@ -11,13 +11,13 @@ or private files in the public repository.
 
 ## Current File Trace
 
-Tracked files after this audit batch: `691`.
+Tracked files after this audit batch: `692`.
 
 | Top-level area | Files | Role |
 | --- | ---: | --- |
 | `data/` | 497 | source snapshots and extracted evidence records |
 | `research/` | 150 | findings, assays, hypotheses, case-context, Islamic lane, and research maps |
-| `docs/` | 12 | operating docs, status journals, security, setup, and hygiene |
+| `docs/` | 13 | operating docs, status journals, publication readiness, security, setup, and hygiene |
 | `scripts/` | 11 | small Python utilities and manifests |
 | `templates/` | 8 | reusable research, assay, and de-identified clinical templates |
 | `paper/` | 4 | LaTeX paper source, bibliography, notes, and editor root |
@@ -29,7 +29,7 @@ Tracked files after this audit batch: `691`.
 | Type | Files | Meaning |
 | --- | ---: | --- |
 | `.json` | 438 | PubMed, ClinicalTrials.gov, PubChem, ChEMBL, BPOM, and registry snapshots |
-| `.md` | 162 | docs, findings, assays, hypotheses, Quran notes, templates |
+| `.md` | 163 | docs, findings, assays, hypotheses, Quran notes, templates |
 | `.xml` | 42 | PubMed or PMC abstract/full-text source snapshots |
 | `.txt` | 15 | source-linked full-text extracts, not raw browser HTML |
 | `.py` | 10 | small Python utilities |

@@ -52,6 +52,9 @@ current research cycle should answer:
     iron-restriction comparator lane. This is not an iron-supplement path; it
     is an iron-balance and ineffective-erythropoiesis path that needs MRI,
     hepcidin/ERFE, transfusion, chelation, and safety endpoints.
+11. Publication readiness: refactor the LaTeX paper toward a real manuscript
+    shape with explicit Methods, Results, Discussion, limitations, data/code
+    availability, AI-use disclosure, and high-value tables/figures.
 
 ## Current Honest Assessment
 

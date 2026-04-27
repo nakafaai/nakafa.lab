@@ -31,6 +31,8 @@ forward.
 - `docs/research-protocol.md` - how evidence becomes a hypothesis.
 - `docs/next-steps.md` - current operating roadmap.
 - `docs/parallel-research-tracks.md` - work that can continue without case data.
+- `docs/publication-readiness.md` - real-world manuscript standard and current
+  paper-readiness audit.
 - `docs/status/` - dated research status journal entries, not final summaries.
 - `docs/security/` - public-repo security assumptions and future threat-model
   gates.

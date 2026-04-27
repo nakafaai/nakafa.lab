@@ -1,0 +1,98 @@
+{
+  "count": 4,
+  "query": "luspatercept beta thalassemia phase 3 BELIEVE",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32212518"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJMoa1910182"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "32212518",
+      "pubdate": "2020 Mar 26",
+      "title": "A Phase 3 Trial of Luspatercept in Patients with Transfusion-Dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39947215"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2352-3026(24)00376-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2352-3026(24)00376-4"
+        }
+      ],
+      "journal": "Lancet Haematol",
+      "pmid": "39947215",
+      "pubdate": "2025 Mar",
+      "title": "Long-term efficacy and safety of luspatercept for the treatment of anaemia in patients with transfusion-dependent \u03b2-thalassaemia (BELIEVE): final results from a phase 3 randomised trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37095595"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ejh.13975"
+        }
+      ],
+      "journal": "Eur J Haematol",
+      "pmid": "37095595",
+      "pubdate": "2023 Jul",
+      "title": "Health-related quality of life in patients with \u03b2-thalassemia: Data from the phase 3 BELIEVE trial of luspatercept."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33570654"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7805339"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7805339;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2020002725"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2473-9529(21)00029-X"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "33570654",
+      "pubdate": "2021 Jan 12",
+      "title": "The use of luspatercept for thalassemia in adults."
+    }
+  ]
+}

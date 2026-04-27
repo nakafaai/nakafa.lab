@@ -63,7 +63,12 @@ Use medical records where possible:
 
 Ask the doctor to separate "medically relevant" from "not suitable":
 
-- Is luspatercept relevant for this subtype and transfusion pattern?
+- Is luspatercept relevant for this confirmed subtype, transfusion burden,
+  immune context, spleen status, iron burden, and access setting?
+- If luspatercept is medically relevant, what response definition would the
+  doctor use: at least 33% transfusion-burden reduction, at least 50% reduction,
+  improved pre-transfusion hemoglobin, reduced iron loading, or another
+  endpoint?
 - Is mitapivat relevant, and what liver/REMS or monitoring constraints matter?
 - Is HSCT worth discussing, and what donor/risk data would be required?
 - Is gene therapy or CRISPR therapy medically appropriate to evaluate, even if
@@ -111,6 +116,7 @@ clinicians.
 - [De-identified case context](deidentified-case-001.md)
 - [Current treatment landscape](../findings/2026-04-26-treatment-landscape.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
+- [Luspatercept transfusion-burden benchmark](../findings/2026-04-27-luspatercept-transfusion-burden-benchmark.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
 - [Gene therapy access frontier](../findings/2026-04-27-gene-therapy-access-frontier.md)
 - [Indonesia access deep dive](../findings/2026-04-27-indonesia-access-deep-dive.md)

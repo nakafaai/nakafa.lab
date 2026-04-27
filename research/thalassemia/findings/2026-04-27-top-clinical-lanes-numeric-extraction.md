@@ -68,6 +68,7 @@ actually measure.
 - [Candidate scoring V0](../prioritization/2026-04-27-candidate-scoring-v0.md)
 - [Candidate ranking](../prioritization/2026-04-26-candidate-ranking.md)
 - [Gene therapy access frontier](2026-04-27-gene-therapy-access-frontier.md)
+- [Luspatercept transfusion-burden benchmark](2026-04-27-luspatercept-transfusion-burden-benchmark.md)
 - [Hydroxyurea deep dive](2026-04-26-hydroxyurea-deep-dive.md)
 - [Sirolimus deep dive](2026-04-26-sirolimus-deep-dive.md)
 - [Thalidomide-class deep dive](2026-04-26-thalidomide-class-deep-dive.md)

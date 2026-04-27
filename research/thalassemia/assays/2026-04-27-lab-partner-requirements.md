@@ -20,6 +20,7 @@ erythroid maturation, viability, and mature red-cell safety.
 | Cell viability and maturation markers | rejects toxic HbF artifacts |
 | Mature red-cell hemolysis screen | blocks candidates that damage red cells |
 | Red-cell metabolism or membrane-stress readout | tests pyruvate kinase, ATP, hemolysis, and red-cell-support claims |
+| Alpha-globin burden and autophagy readout | tests whether HbF rescue is paired with free alpha-globin cleanup biology |
 | Batch and identity tracking | keeps natural products and analogs auditable |
 | Basic statistics and raw data export | lets Nakafa Lab compare candidates transparently |
 
@@ -58,6 +59,8 @@ Ask a potential lab partner:
 - Can you measure endogenous HbF or `HBG1/HBG2` response?
 - Can you distinguish HbF induction from blocked erythroid maturation?
 - Can you run mature red-cell hemolysis or membrane-damage screens?
+- Can you measure free or insoluble alpha-globin, `ULK1`, p62/`SQSTM1`, or an
+  equivalent autophagy-flux context?
 - Can you measure ATP, glycolysis-linked metabolism, deformability, membrane
   stress, or a practical equivalent for red-cell support claims?
 - Can you accept de-identified thalassemia research context without giving
@@ -85,6 +88,7 @@ Stop a candidate before escalation if:
 - [Epigenetic HbF screen V0](2026-04-27-epigenetic-hbf-screen-v0.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [First lab quote brief V0](2026-04-27-first-lab-quote-brief-v0.md)
+- [Dual HbF and alpha-globin autophagy assay spec V0](2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Assay-ready HbF screen](../findings/2026-04-26-assay-ready-hbf-screen.md)
 - [Assay funnel for cure discovery](../findings/2026-04-26-assay-funnel-for-cure-discovery.md)

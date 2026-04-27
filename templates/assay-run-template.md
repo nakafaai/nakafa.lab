@@ -56,6 +56,15 @@ patient samples without ethics approval, consent, and clinician oversight.
 - Iron-axis signal:
 - Metabolism-support label:
 
+## Dual HbF And Alpha-Globin Autophagy Readouts
+
+- Free or insoluble alpha-globin:
+- `ULK1` state:
+- p62 / `SQSTM1` state:
+- Autophagy flux context:
+- Alpha-globin cleanup interpretation:
+- Dual-readout decision:
+
 ## Controls Review
 
 - Positive control behaved as expected:
@@ -83,4 +92,5 @@ patient samples without ethics approval, consent, and clinician oversight.
 
 - [HPFH-like assay readout spec V0](../research/thalassemia/assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](../research/thalassemia/assays/2026-04-27-red-cell-metabolism-readout-spec-v0.md)
+- [Dual HbF and alpha-globin autophagy assay spec V0](../research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
 - [HPFH-like candidate labels V0](../research/thalassemia/prioritization/2026-04-27-hpfh-like-candidate-labels-v0.md)

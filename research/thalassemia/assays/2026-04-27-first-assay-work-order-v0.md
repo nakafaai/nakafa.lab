@@ -85,6 +85,11 @@ when a candidate claims red-cell survival, hemolysis reduction, membrane
 protection, pyruvate kinase biology, or iron-axis support without direct HbF
 reactivation.
 
+Use the
+[dual HbF and alpha-globin autophagy assay spec V0](2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
+when a candidate claims both HbF rescue and alpha-globin cleanup, `ULK1`,
+`AMBRA1`, p62/`SQSTM1`, `AMPKB1`, `NRF2`, or autophagy biology.
+
 ## BCL11A/HbF Signature Add-On
 
 For candidates that raise HbF or `HBG1/HBG2`, add a mechanism table when the
@@ -153,6 +158,7 @@ the few candidates that deserve deeper testing.
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
+- [Dual HbF and alpha-globin autophagy assay spec V0](2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Pyruvate kinase red-cell metabolism benchmark](../findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)

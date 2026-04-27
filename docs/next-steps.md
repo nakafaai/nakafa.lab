@@ -38,6 +38,10 @@ current research cycle should answer:
    turning any verse into a medical claim.
 8. Hypothesis cards: only promote ideas with mechanism, safety, falsification,
    and clinician review path.
+9. Clinical adjunct comparators: keep EGCG-rich green-tea extract in the
+   adjunct lane because it has randomized TDT human evidence, while separating
+   it from cure claims until transfusion burden, HbF, and long-term safety are
+   addressed.
 
 ## Current Honest Assessment
 

@@ -1,0 +1,13 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 65064,
+        "MolecularFormula": "C22H18O11",
+        "MolecularWeight": "458.4",
+        "ConnectivitySMILES": "C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O",
+        "InChIKey": "WMBWREPUVVBILR-WIYYLYMNSA-N"
+      }
+    ]
+  }
+}

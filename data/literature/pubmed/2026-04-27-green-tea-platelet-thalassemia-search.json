@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "green tea extract platelet aggregation transfusion dependent beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39682935"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11640449"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11640449;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/foods13233864"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "foods13233864"
+        }
+      ],
+      "journal": "Foods",
+      "pmid": "39682935",
+      "pubdate": "2024 Nov 29",
+      "title": "Green Tea Epigallocatechin 3-Gallate Reduced Platelet Aggregation and Improved Anticoagulant Proteins in Patients with Transfusion-Dependent \u03b2-Thalassemia: A Randomized Placebo-Controlled Clinical Trial."
+    }
+  ]
+}

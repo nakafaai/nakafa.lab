@@ -1,0 +1,72 @@
+{
+  "count": 2,
+  "query": "green tea thalassemia oxidative stress erythropoiesis",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38328786"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10848917"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10848917;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmolb.2023.1248742"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1248742"
+        }
+      ],
+      "journal": "Front Mol Biosci",
+      "pmid": "38328786",
+      "pubdate": "2023",
+      "title": "A randomized placebo-controlled clinical trial of oral green tea epigallocatechin 3-gallate on erythropoiesis and oxidative stress in transfusion-dependent \u03b2-thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36620219"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9816339"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9816339;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fphys.2022.1053060"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1053060"
+        }
+      ],
+      "journal": "Front Physiol",
+      "pmid": "36620219",
+      "pubdate": "2022",
+      "title": "Effects of green tea extract treatment on erythropoiesis and iron parameters in iron-overloaded \u03b2-thalassemic mice."
+    }
+  ]
+}

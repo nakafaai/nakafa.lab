@@ -1,0 +1,113 @@
+{
+  "count": 4,
+  "query": "epigallocatechin 3 gallate thalassemia transfusion dependent",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38328786"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10848917"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10848917;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmolb.2023.1248742"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1248742"
+        }
+      ],
+      "journal": "Front Mol Biosci",
+      "pmid": "38328786",
+      "pubdate": "2023",
+      "title": "A randomized placebo-controlled clinical trial of oral green tea epigallocatechin 3-gallate on erythropoiesis and oxidative stress in transfusion-dependent \u03b2-thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39682935"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11640449"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11640449;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/foods13233864"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "foods13233864"
+        }
+      ],
+      "journal": "Foods",
+      "pmid": "39682935",
+      "pubdate": "2024 Nov 29",
+      "title": "Green Tea Epigallocatechin 3-Gallate Reduced Platelet Aggregation and Improved Anticoagulant Proteins in Patients with Transfusion-Dependent \u03b2-Thalassemia: A Randomized Placebo-Controlled Clinical Trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17504202"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/157340607780620608"
+        }
+      ],
+      "journal": "Med Chem",
+      "pmid": "17504202",
+      "pubdate": "2007 May",
+      "title": "Epigallocatechin-3-gallate and epicatechin-3-gallate from green tea decrease plasma non-transferrin bound iron and erythrocyte oxidative stress."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16798656"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/03630260600642666"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "X021P57500WG7523"
+        }
+      ],
+      "journal": "Hemoglobin",
+      "pmid": "16798656",
+      "pubdate": "2006",
+      "title": "Iron-chelating and free-radical scavenging activities of microwave-processed green tea in iron overload."
+    }
+  ]
+}

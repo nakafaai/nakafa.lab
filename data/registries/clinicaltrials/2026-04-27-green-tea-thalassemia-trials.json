@@ -1,0 +1,5 @@
+{
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=thalassemia+green+tea&pageSize=20&countTotal=true",
+  "studies": [],
+  "total_count": 0
+}

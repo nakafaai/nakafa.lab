@@ -1,0 +1,105 @@
+{
+  "count": 3,
+  "query": "thymoquinone content commercial Nigella sativa products",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36079759"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9460610"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9460610;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu14173501"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu14173501"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "36079759",
+      "pubdate": "2022 Aug 25",
+      "title": "Screening of Thymoquinone Content in Commercial Nigella sativa Products to Identify a Promising and Safe Study Medication."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33100788"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7574749"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7574749;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/jpbs.JPBS_208_20"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JPBS-12-284"
+        }
+      ],
+      "journal": "J Pharm Bioallied Sci",
+      "pmid": "33100788",
+      "pubdate": "2020 Jul-Sep",
+      "title": "Thymoquinone content in marketed black seed oil in Malaysia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37356299"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10404756"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10404756;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.psj.2023.102831"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0032-5791(23)00350-4"
+        }
+      ],
+      "journal": "Poult Sci",
+      "pmid": "37356299",
+      "pubdate": "2023 Aug",
+      "title": "Nigella sativa as an antibiotic alternative to promote growth and enhance health of broilers challenged with Eimeria maxima and Clostridium perfringens."
+    }
+  ]
+}

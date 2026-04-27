@@ -1,0 +1,189 @@
+Thymoquinone content in marketed black seed oil in Malaysia - PMC Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS A lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Search… Search NCBI
+Primary site navigation
+Search
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+Search PMC Full-Text Archive Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice
+J Pharm Bioallied Sci
+. 2020 Jul 18;12(3):284–288. doi: 10.4103/jpbs.JPBS_208_20
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Thymoquinone content in marketed black seed oil in Malaysia
+Hamzeh Alkhatib
+Hamzeh Alkhatib
+1 Advanced Drug Delivery Lab, Department of Pharmaceutical Technology, Kulliyyah of Pharmacy, International Islamic University Malaysia (IIUM), Kuantan, Malaysia
+Find articles by Hamzeh Alkhatib
+1 , Saeid Mezail Mawazi
+Saeid Mezail Mawazi
+2 Dentistry College, Al-Kitab University, Kirkuk, Iraq
+Find articles by Saeid Mezail Mawazi
+2 , Sinan Mohammed Abdullah Al-Mahmood
+Sinan Mohammed Abdullah Al-Mahmood
+3 School of Pharmacy, PICOMS International University College, Kuala Lumpur, Malaysia
+Find articles by Sinan Mohammed Abdullah Al-Mahmood
+3 , Ahmad Zaiter
+Ahmad Zaiter
+1 Advanced Drug Delivery Lab, Department of Pharmaceutical Technology, Kulliyyah of Pharmacy, International Islamic University Malaysia (IIUM), Kuantan, Malaysia
+Find articles by Ahmad Zaiter
+1 , Abd Almonem Doolaanea
+Abd Almonem Doolaanea
+1 Advanced Drug Delivery Lab, Department of Pharmaceutical Technology, Kulliyyah of Pharmacy, International Islamic University Malaysia (IIUM), Kuantan, Malaysia
+Find articles by Abd Almonem Doolaanea
+1, ✉
+Author information
+Article notes
+Copyright and License information
+1 Advanced Drug Delivery Lab, Department of Pharmaceutical Technology, Kulliyyah of Pharmacy, International Islamic University Malaysia (IIUM), Kuantan, Malaysia
+2 Dentistry College, Al-Kitab University, Kirkuk, Iraq
+3 School of Pharmacy, PICOMS International University College, Kuala Lumpur, Malaysia
+✉
+Address for correspondence: Dr. Abd Almonem Doolaanea, Advanced Drug Delivery Lab, Department of Pharmaceutical Technology, Kulliyyah of Pharmacy, International Islamic University Malaysia (IIUM), Jalan Sultan Ahmad Shah, 25200 Kuantan, Malaysia. E-mail: abdalmonemdoolaanea@yahoo.com
+Received 2020 Mar 4; Revised 2020 Apr 12; Accepted 2020 May 11; Issue date 2020 Jul-Sep.
+© 2020 Journal of Pharmacy and Bioallied Sciences
+This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.
+PMC Copyright notice
+PMCID: PMC7574749 PMID: 33100788
+A BSTRACT
+Thymoquinone (TQ) is the major active compound in black seed oil (BSO). Many pharmacological effects of TQ, such as anti-inflammatory, hypoglycemic, antioxidant, immune stimulator, and anticancer, have been reported. TQ can be considered as a biomarker for BSO, but its content in the commercial products is rarely reported. TQ content varies based on the oil source and extraction method. This study aimed to quantify the TQ content in the commercial BSO products in Malaysia and to evaluate whether the products can be used as a source of TQ for therapeutic benefits. TQ was quantified using an established high-performance liquid chromatography (HPLC) method. TQ human equivalent dose (HED) was calculated based on reported animal studies from literature, and theoretical BSO amount containing the TQ dose was calculated based on the HPLC analysis. TQ content in the commercial BSO products ranged from 0.07% wt/wt to 1.88% wt/wt. The product with the highest TQ concentration is approximately 27-fold higher than the product with the lowest TQ concentration. Consequently, theoretical BSO amounts needed for specific diseases varied and some products cannot provide practical amount of TQ. This study recommends the regulation of TQ content in BSO and suggests that the BSO might be fortified with extra TQ to be effectively used in some diseases.
+K EYWORDS: Black seed oil , Malaysia , Nigella sativa , thymoquinone
+I NTRODUCTION
+Thymoquinone (TQ) is the main active compound in black seed oil (BSO, Nigella sativa oil or black cumin oil), which constitutes approximately 30% of the seeds.[ 1 ] Many pharmacological effects of TQ, such as anti-inflammatory and hypoglycemic, have been reported.[ 2 , 3 ] Badary et al. [ 4 ] reported that the TQ can be used as an antioxidant. Many other medical and pharmacological uses of TQ, such as immune stimulator and anticancer, have also been reported.[ 5 , 6 ] Recent studies have attempted to use the standardized N. sativa extract based on the quantification of TQ.[ 7 , 8 ] Therefore, TQ can be used as a biomarker for N. sativa oil.
+BSO is used in folk medicine to treat several illnesses, such as cough, fever, diarrhea, and abdominal disorders, but only a few clinical trials were conducted either on the oil or its purified compound, TQ.[ 9 ] Most of the research on N. sativa was conducted on the purified TQ in animal models or in cultured cells. The amount of TQ in BSO was rarely reported, and it is not regulated in the commercial BSO.[ 10 , 11 ] In a recent study, Khonche et al. [ 8 ] used standardized N. sativa seed fixed oil containing 0.987 ± 0.07 mg/mL of TQ to analyze hepatic steatosis, aminotransferase, and lipid levels in nonalcoholic fatty liver disease. As BSO can be administered as a source of TQ, the TQ content should be known to use it scientifically to treat some diseases. A phase I clinical trial on TQ found that TQ was well tolerated at a dose from 75 to 2600 mg/day with no toxicity to be reported.[ 12 ] Considering that TQ content in BSO is generally less than 2% as stated in the reported studies, therefore no toxicity is expected from TQ in BSO when taken at the recommended doses.[ 7 , 8 ]
+Therefore, this study aimed to quantify the TQ content in the commercial BSO available in Malaysia and to find the amount of commercial BSO needed to obtain a specific amount of TQ.
+M ATERIALS AND M ETHODS
+Materials
+TQ standard was purchased from Sigma-Aldrich (St. Louis, Missouri). Acetonitrile (high-performance liquid chromatography [HPLC] grade) and methanol (HPLC grade) were purchased from Merck (Darmstadt, Germany). All other chemicals were of analytical grade.
+Samples
+Commercially available BSO products were purchased from local markets and pharmacies in Peninsular Malaysia. The products were selected to contain mainly BSO in capsules and liquid dosage form only (the commercially available forms of BSO). The analysis was performed on the available products in the market, and 10 such products were selected.
+Thymoquinone quantification
+The HPLC method adopted from Salmani et al. [ 13 ] was used to quantify the TQ in BSO. Briefly, BSO sample (50 mg directly from the liquid dosage form or from the capsule form to obtain the liquid BSO) was dissolved in 10 mL of methanol to extract the TQ. After that, it was mixed well by inverting the tube 10 times, then centrifuged at 4000rpm at room temperature for 5 min to separate the methanol layer. The upper methanol layer, well separated from the bottom BSO, was collected and filtered using a 0.45-μm syringe filter. The HPLC analysis was applied using Shimadzu LC-20AT equipment (Shimadzu, Kyoto, Japan). A mixture of acetonitrile and water in the ratio of 60:40 was used as a mobile phase at a flow rate of 1 mL/min using Inspire C18 (4.6mm × 250mm, 5 µm) analytical column. The detection was performed at an ultraviolet wavelength of 254nm using a diode-array detector.
+Calculation of theoretical amount of black seed oil for selected diseases
+The doses of TQ used for specific diseases in animal models were converted to human doses by using the following equation:[ 14 ]
+where HED stands for human equivalent dose, Animal Km is a constant value for each animal (mouse: 3, rat: 6), and human Km is a constant value equates to 37.
+According to the quantification results of TQ in the commercial BSO products, the theoretical amounts of the BSO needed to provide the TQ amount for different diseases were calculated.
+R ESULTS
+HPLC analysis revealed well-separated peaks of TQ at retention time of approximately 6.1 min [ Figure 1 ]. The method showed linearity in the range 0.01–150 μg/mL with R 2 = 0.9943.
+Figure 1.
+Open in a new tab
+Chromatogram of placebo, TQ standard, and one BSO sample. For placebo, olive oil was used and it was processed exactly as BSO samples. BSO = black seed oil, TQ = thymoquinone
+Quantification of the percentage of TQ in the commercial BSO products revealed large differences as low as 0.07% wt/wt up to 1.88% wt/wt as shown in Table 1 . TQ percentage in BSO packed in bottles ranged from 0.14% to 1.88%, whereas it ranged from 0.07% to 1.86% for capsule forms. The product with the highest TQ concentration is approximately 27-folds higher than the product with the lowest TQ concentration.
+Table 1.
+Thymoquinone concentration in commercial black seed oil products
+Sample Product form Oil source TQ (% wt/wt of BSO)
+P1 50-mL dropper bottle Cold-press 0.14
+P2 Hard capsules Not stated 1.49
+P3 125-mL bottle Not stated 0.65
+P4 Hard capsules Not stated 1.55
+P5 100-mL bottle Cold-press 0.33
+P6 120-mL bottle Cold-press 0.82
+P7 Softgel capsules Not stated 0.67
+P8 Hard capsules Not stated 1.86
+P9 Softgel capsules Cold-press 0.07
+P10 350-mL bottle Cold-press 1.88
+Open in a new tab
+BSO = black seed oil, TQ = thymoquinone
+Capsules contain 450 or 500 mg of BSO
+TQ was used in different diseases for treatment or protection. Selected TQ animal studies are summarized in Table 2 . The calculated TQ doses in HED varied widely from 4.8 mg/day for hypertension and renal damage to 780 mg/day for diabetes mellitus. The amount of BSO required to provide the specific amount of TQ was further varied among different products [ Table 2 ]. For example, compared with the low BSO amount needed for hypertension and renal damage (0.26–0.52g/day from P10), an extraordinarily large amount is needed for diabetes mellitus (277.71–555.42g/day from P9).
+Table 2.
+Thymoquinone doses in different animal studies and the calculated human equivalent dose per 60kg together with the theoretical black seed oil quantity needed from different products (g/day) to provide the calculated thymoquinone quantity
+Disease Animal model TQ dose HED (mg) Theoretical BSO quantity needed from different products (g/day) to provide the TQ quantity from different products (P1–P10)
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P10
+Hypertension and renal damage [ 6 ] Rats 0.5 and 1 mg/kg/day; oral; for 4 weeks 4.8–9.6 3.43–6.86 0.32–0.64 0.74–1.48 0.31–0.62 1.45–2.90 0.59–1.18 0.72–1.44 0.26–0.52 6.86–13.72 0.26–0.52
+Diabetic mellitus [ 7 ] Rats 80 mg/kg; oral; for 45 days 780 557.14 52.35 120.00 50.32 236.36 95.12 116.42 41.94 1114.29 41.49
+Hepatotoxicity[ 8 ] mice 100 mg/kg; oral; single dose 486 347.14 32.62 74.77 31.35 147.27 59.27 72.54 26.13 694.29 25.85
+Open in a new tab
+BSO = black seed oil, TQ = thymoquinone, HED = human equivalent dose
+D ISCUSSION
+TQ percentage in BSO was not directly related to packaging of the products (capsule and liquid in bottle). A large difference in the TQ content in the products could be attributed to the source of BSO as well as the extraction method. Different studies on the BSO showed that TQ content varied considerably in oils from different origins. For example, Houghto et al. reported 0.17% wt/vol TQ in the Ethiopian BSO, whereas Azad et al. reported 1.96% wt/wt (~2.06% wt/vol) TQ in BSO sourced from Malaysia and Bangladesh.[ 15 , 16 ] In addition, the TQ content in BSO varied based on the different extraction techniques. In one study, BSO was extracted from supercritical carbon dioxide and the TQ contents varied in the range of 3.04–4.09 mg/g oil (0.30%–0.41%) based on the extraction parameters.[ 17 ] In another study, six different batches of cold-pressed black cumin seed oils were prepared, and TQ content was found in the range of 3.48–8.73 mg/g (0.35%–0.87%).[ 18 ]
+The therapeutic effects of black seed and its oils or extracts were investigated in several studies but without quantification of the TQ content. For example, Qidwai et al .[ 10 ] conducted a clinical trial using the powdered black seed in a capsule at a dose of 1g twice daily (2g/day). However, there is a trend to use standardized black seed extracts in the more recent studies. The standardization was based on the quantification of TQ.[ 7 , 8 ] For example, a study investigated the efficacy and safety of standardized BSO in the treatment of patients with nonalcoholic fatty liver disease. Therefore, TQ can be used as a biomarker for N. sativa oil.
+Since clinical studies of TQ or standardized BSO are lacking, we calcualted the human TQ doses based on available animal studies. To obtain a specific dose of TQ from the commercial BSO products, we used the TQ analysis results for calcualtion. This method of estimation has some limitations like the lack of bioavailability data to know how much from the ingeted dose will reach the general circulation. The estimated BSO amount that contains theoretical therapeutic TQ amount was found to be very large to be consumed. For example, at least 277.71g of the commercial product P9 is needed for diabetes mellitus. Such BSO amount clearly seems to be very large and even exceeds the 27g/day recommended daily intake of oils.[ 19 ] Considering the low percentage of TQ in BSO (usually <2%) and the high safety margin of TQ (up to 2600 mg/day with no reported toxicity), consumption of large amount of BSO is expected not to result in toxicity from TQ; however, effects of overconsumption of lipids may occur as BSO consists mainly of fatty acids.[ 20 ]
+C ONCLUSION
+Using BSO in the treatment of a specific disease needs a clinical trial to evaluate the safety and efficacy. However, due to the lack of clinical trials using BSO, the data from TQ may be used as a starting guide. The patient may consider taking an amount of BSO that has the required amount of TQ, with limitations such as lack of bioavailability data. Calculating the BSO amount that contains specific TQ amount can only be accomplished by knowing the TQ content in the commercial BSO, which is now not available and not regulated. As a result, commercial BSO products have large variations in TQ content and some of them may not provide the TQ amount needed for some diseases. This study recommends the regulation of TQ content in the commercial BSO. It also suggests that BSO could be fortified with additional TQ to be beneficial in more diseases.
+Financial support and sponsorship
+This study was supported by the Ministry of Higher Education (MOHE) Malaysia Fundamental Research Grant Scheme (FRGS17-005-0571).
+Conflicts of interest
+There are no conflicts of interest.
+Acknowledgement
+The authors would like to thank Assoc. Prof. Dr. Farahidah Muhammad and the Department of Pharmaceutical Technology at International Islamic University Malaysia (IIUM) for technical and facilitation support.
+R EFERENCES
+1. Aboutabl E, El-Azzouny A, Hammerschmidt F, editors. Prog Essent Oil Res. Proceedings of the International Symposium on Essential Oils. Berlin, Germany: De Gruyter; 1986. Aroma volatiles of Nigella sativa L. seeds. [ Google Scholar ]
+2. Ragheb A, Attia A, Eldin WS, Elbarbry F, Gazarin S, Shoker A. The protective effect of thymoquinone, an anti-oxidant and anti-inflammatory agent, against renal injury: a review. Saudi J Kidney Dis Transpl. 2009;20:741–52. [ PubMed ] [ Google Scholar ]
+3. Hawsawi ZA, Ali BA, Bamosa AO. Effect of Nigella sativa (black seed) and thymoquinone on blood glucose in Albino rats. Ann Saudi Med. 2001;21:242–4. doi: 10.5144/0256-4947.2001.242. [ DOI ] [ PubMed ] [ Google Scholar ]
+4. Badary OA, Taha RA, Gamal el-Din AM, Abdel-Wahab MH. Thymoquinone is a potent superoxide anion scavenger. Drug Chem Toxicol. 2003;26:87–98. doi: 10.1081/dct-120020404. [ DOI ] [ PubMed ] [ Google Scholar ]
+5. El Gazzar MA. Thymoquinone suppresses in vitro production of IL-5 and IL-13 by mast cells in response to lipopolysaccharide stimulation. Inflamm Res. 2007;56:345–51. doi: 10.1007/s00011-007-7051-0. [ DOI ] [ PubMed ] [ Google Scholar ]
+6. Woo CC, Loo SY, Gee V, Yap CW, Sethi G, Kumar AP, et al. Anticancer activity of thymoquinone in breast cancer cells: possible involvement of PPAR-γ pathway. Biochem Pharmacol. 2011;82:464–75. doi: 10.1016/j.bcp.2011.05.030. [ DOI ] [ PubMed ] [ Google Scholar ]
+7. Enayatfard L, Mohebbati R, Niazmand S, Hosseini M, Shafei MN. The standardized extract of Nigella sativa and its major ingredient, thymoquinone, ameliorates angiotensin II-induced hypertension in rats. J Basic Clin Physiol Pharmacol. 2018;30:51–8. doi: 10.1515/jbcpp-2018-0074. [ DOI ] [ PubMed ] [ Google Scholar ]
+8. Khonche A, Huseini HF, Gholamian M, Mohtashami R, Nabati F, Kianbakht S. Standardized Nigella sativa seed oil ameliorates hepatic steatosis, aminotransferase and lipid levels in non-alcoholic fatty liver disease: a randomized, double-blind and placebo-controlled clinical trial. J Ethnopharmacol. 2019;234:106–11. doi: 10.1016/j.jep.2019.01.009. [ DOI ] [ PubMed ] [ Google Scholar ]
+9. Paarakh PM. Nigella sativa Linn.—a comprehensive review. Indian J Nat Prod Resource. 2010;1:409–29. [ Google Scholar ]
+10. Qidwai W, Hamza HB, Qureshi R, Gilani A. Effectiveness, safety, and tolerability of powdered Nigella sativa (Kalonji) seed in capsules on serum lipid levels, blood sugar, blood pressure, and body weight in adults: results of a randomized, double-blind controlled trial. J Altern Complement Med. 2009;15:639–44. doi: 10.1089/acm.2008.0367. [ DOI ] [ PubMed ] [ Google Scholar ]
+11. Doolaanea AA, Mansor N’, Mohd Nor NH, Mohamed F. Cellular uptake of nigella sativa oil-PLGA microparticle by PC-12 cell line. J Microencapsul. 2014;31:600–8. doi: 10.3109/02652048.2014.898709. [ DOI ] [ PubMed ] [ Google Scholar ]
+12. Al-Ali A, Alkhawajah AA, Randhawa MA, Shaikh NA. Oral and intraperitoneal LD50 of thymoquinone, an active principle of Nigella sativa, in mice and rats. J Ayub Med Coll Abbottabad. 2008;20:25–7. [ PubMed ] [ Google Scholar ]
+13. Salmani JM, Asghar S, Lv H, Zhou J. Aqueous solubility and degradation kinetics of the phytochemical anticancer thymoquinone; probing the effects of solvents, pH and light. Molecules. 2014;19:5925–39. doi: 10.3390/molecules19055925. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+14. Reagan-Shaw S, Nihal M, Ahmad N. Dose translation from animal to human studies revisited. Faseb J. 2008;22:659–61. doi: 10.1096/fj.07-9574LSF. [ DOI ] [ PubMed ] [ Google Scholar ]
+15. Azad AK, Al-Mahmood SMA, Chatterjee B, Wan Sulaiman WMA, Elsayed TM, Doolaanea AA. Encapsulation of black seed oil in alginate beads as a pH-sensitive carrier for intestine-targeted drug delivery: in vitro, in vivo and ex vivo study. Pharmaceutics. 2020;12:219. doi: 10.3390/pharmaceutics12030219. doi: 10.3390/pharmaceutics12030219. [ DOI ] [ PMC free article ] [ PubMed ] [ Google Scholar ]
+16. Houghton PJ, Zarka R, de las Heras B, Hoult JRS. Fixed oil of Nigella sativa and derived thymoquinone inhibit eicosanoid generation in leukocytes and membrane lipid peroxidation. Planta Med. 1995;61:33–6. doi: 10.1055/s-2006-957994. [ DOI ] [ PubMed ] [ Google Scholar ]
+17. Solati Z, Baharin BS, Bagheri H. Supercritical carbon dioxide (SC-CO2) extraction of Nigella sativa L. oil using full factorial design. Ind Crop Prod. 2012;36:519–23. [ Google Scholar ]
+18. Lutterodt H, Luther M, Slavin M, Yin J-J, Parry J, Gao J-M, et al. Fatty acid profile, thymoquinone content, oxidative stability, and antioxidant properties of cold-pressed black cumin seed oils. Food Sci Technol. 2010;43:1409–13. [ Google Scholar ]
+19. US Department of Health and Human Services. 2015–2020 dietary guidelines for Americans. Washington, DC: USDA; 2015. [ Google Scholar ]
+20. Doolaanea AA, Harun AF, Mohamed F. Quantification of Nigella sativa oil (NSO) from biodegradable PLGA nanoparticles using FTIR spectroscopy. Int J Pharm Pharma Sci. 2014;6:228–32. [ Google Scholar ]
+Articles from Journal of Pharmacy & Bioallied Sciences are provided here courtesy of Wolters Kluwer -- Medknow Publications
+ACTIONS
+View on publisher site
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib .nbib
+Format: AMA APA MLA NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection *
+Choose a collection
+Unable to load your collection due to an error Please try again
+Add Cancel
+Follow NCBI
+NCBI on X (formerly known as Twitter) NCBI on Facebook NCBI on LinkedIn NCBI on GitHub NCBI RSS feed
+Connect with NLM
+NLM on X (formerly known as Twitter) NLM on Facebook NLM on YouTube
+National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+Back to Top

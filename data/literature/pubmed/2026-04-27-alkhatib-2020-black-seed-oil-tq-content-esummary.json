@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "33100788[uid]",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "33100788"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7574749"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7574749;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/jpbs.JPBS_208_20"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JPBS-12-284"
+        }
+      ],
+      "journal": "J Pharm Bioallied Sci",
+      "pmid": "33100788",
+      "pubdate": "2020 Jul-Sep",
+      "title": "Thymoquinone content in marketed black seed oil in Malaysia."
+    }
+  ]
+}

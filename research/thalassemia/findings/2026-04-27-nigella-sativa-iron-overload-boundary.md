@@ -58,6 +58,9 @@ The first full-text extraction is now captured separately. It confirms the
 adjunct iron-overload signal and keeps the lane below cure-oriented HbF or
 globin-correction strategies.
 
+A separate product-standardization gate now blocks any unmeasured retail black
+seed material from being treated as equivalent to the trial material.
+
 ## Islamic Interpretation Guardrail
 
 The black seed hadith is treated as motivation for disciplined research. It is
@@ -67,6 +70,7 @@ not treated as a replacement for disease-specific evidence.
 
 - [Black seed hadith guardrail](../../islamic/findings/2026-04-27-black-seed-hadith-guardrail.md)
 - [Nigella manuka trial full-text extraction](2026-04-27-nigella-manuka-trial-fulltext-extraction.md)
+- [Nigella product standardization gate](2026-04-27-nigella-product-standardization-gate.md)
 - [Sahih al-Bukhari 5688, Sunnah.com](https://sunnah.com/bukhari:5688)
 - [Nigella sativa thalassemia PubMed search](../../../data/literature/pubmed/2026-04-27-nigella-sativa-thalassemia-search.json)
 - [Thymoquinone thalassemia PubMed search](../../../data/literature/pubmed/2026-04-27-thymoquinone-thalassemia-search.json)

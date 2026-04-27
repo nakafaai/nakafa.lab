@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "36079759[uid]",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36079759"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9460610"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9460610;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/nu14173501"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "nu14173501"
+        }
+      ],
+      "journal": "Nutrients",
+      "pmid": "36079759",
+      "pubdate": "2022 Aug 25",
+      "title": "Screening of Thymoquinone Content in Commercial Nigella sativa Products to Identify a Promising and Safe Study Medication."
+    }
+  ]
+}

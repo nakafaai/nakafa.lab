@@ -70,6 +70,9 @@ Ask the doctor to separate "medically relevant" from "not suitable":
   improved pre-transfusion hemoglobin, reduced iron loading, or another
   endpoint?
 - Is mitapivat relevant, and what liver/REMS or monitoring constraints matter?
+- Has hydroxyurea ever been considered, tried, rejected, stopped, or continued
+  for this exact subtype; if yes, what response, monitoring, and stopping
+  criteria were used?
 - Is HSCT worth discussing, and what donor/risk data would be required?
 - Is gene therapy or CRISPR therapy medically appropriate to evaluate, even if
   access is difficult?
@@ -117,6 +120,7 @@ clinicians.
 - [Current treatment landscape](../findings/2026-04-26-treatment-landscape.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
 - [Luspatercept transfusion-burden benchmark](../findings/2026-04-27-luspatercept-transfusion-burden-benchmark.md)
+- [Hydroxyurea local-access comparator](../findings/2026-04-27-hydroxyurea-local-access-comparator.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
 - [Gene therapy access frontier](../findings/2026-04-27-gene-therapy-access-frontier.md)
 - [Indonesia access deep dive](../findings/2026-04-27-indonesia-access-deep-dive.md)

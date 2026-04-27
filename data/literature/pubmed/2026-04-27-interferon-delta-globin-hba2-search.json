@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "query": "interferon delta globin hemoglobin A2 beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32528964"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7256663"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7256663;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmed.2020.00163"
+        }
+      ],
+      "journal": "Front Med (Lausanne)",
+      "pmid": "32528964",
+      "pubdate": "2020",
+      "title": "Delta-Globin Gene Expression Is Enhanced in vivo by Interferon Type I."
+    }
+  ]
+}

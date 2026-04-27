@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "Engineering of the endogenous HBD promoter increases HbA2",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37265399"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10270685"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10270685;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7554/eLife.85258"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "85258"
+        }
+      ],
+      "journal": "Elife",
+      "pmid": "37265399",
+      "pubdate": "2023 Jun 2",
+      "title": "Engineering of the endogenous HBD promoter increases HbA2."
+    }
+  ]
+}

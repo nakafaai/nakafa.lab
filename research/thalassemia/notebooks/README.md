@@ -27,6 +27,9 @@ Current notebooks:
 - `2026-04-27-dual-readout-panel-prioritizer.ipynb` - computational experiment
   that re-checks the first lab-quote panel against dual HbF plus
   alpha-globin/autophagy readouts.
+- `2026-04-27-delta-globin-hba2-gate.ipynb` - computational evidence gate that
+  keeps `HBD` / delta-globin / HbA2 induction as an advanced compensation
+  benchmark and assay expansion gate, not a first treatment lead.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

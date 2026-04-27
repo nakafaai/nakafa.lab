@@ -37,6 +37,7 @@ panel:
 | --- | --- | --- |
 | `AHSP` mRNA or protein | qPCR, ddPCR, RNA-seq, immunoblot, flow-compatible antibody, or lab-equivalent method | tests whether a candidate changes alpha-globin buffering, not just alpha-globin clearance |
 | `HBA1` / `HBA2` output | qPCR, ddPCR, RNA-seq, globin-chain assay, or lab-equivalent method | needed for direct alpha-globin rebalancing claims and for avoiding over-suppression |
+| `HBD` mRNA, delta-globin, or HbA2 | qPCR, ddPCR, RNA-seq, HPLC, mass spectrometry, immunoassay, or lab-equivalent method | tests HbA2 compensation separately from HbF reactivation |
 
 ## Evidence Anchors
 
@@ -54,6 +55,9 @@ panel:
 | PMID `18556409` | siRNA-mediated alpha-globin reduction improved beta-thalassemic cell phenotypes. |
 | PMID `33635334` | CRISPR/Cas9 editing of the alpha-globin locus in human HSCs supports HBA-locus rebalancing as an ex-vivo benchmark. |
 | PMID `18026953` | Alpha-globin copy number modifies beta-thalassemia/HbE severity, with alpha triplication worsening phenotype. |
+| PMID `23872310` | Activated human delta-globin showed therapeutic potential in beta-thalassemic mice. |
+| PMID `37265399` | Endogenous `HBD` promoter engineering increased HbA2 and generated functional hemoglobin complexes. |
+| PMID `40305292` | A molecule screen identified delta-globin expression modulators, but the hits remain assay probes. |
 
 ## Pass, Hold, Reject
 
@@ -74,6 +78,8 @@ Hold if:
 - alpha-globin changes but HbF/F-cell readouts are missing;
 - direct `HBA1` / `HBA2` reduction is claimed without a safe alpha/non-alpha
   balance window;
+- HbA2 compensation is claimed without `HBD`, delta-globin protein, or HbA2
+  assembly readouts;
 - autophagy is measured only by one static marker without flux context;
 - the model is K562-only, reporter-only, or missing maturation markers;
 - compound identity, extract standardization, or batch traceability is
@@ -84,6 +90,8 @@ Reject if:
 - HbF rises only with viability loss;
 - free or insoluble alpha-globin increases;
 - alpha-globin output is over-suppressed or suggests an HbH-like safety risk;
+- HbA2 rises only with viability loss, cytopenia-prone pathway stress, or
+  maturation collapse;
 - erythroid maturation collapses;
 - mature red-cell hemolysis increases;
 - the candidate is immune-active or hazard-first and lacks a qualified
@@ -97,6 +105,7 @@ Reject if:
 | sirolimus | monitored autophagy/HbF/`AHSP` comparator; requires strict immune and drug-monitoring boundary |
 | `AMPKB1` / `NRF2` lane | target-discovery bridge; `AHSP` is an optional buffer readout, not proof of rescue |
 | alpha-globin rebalancing / `HBA` reduction | advanced chain-balance benchmark; useful for assay design, not a first affordable lab-panel candidate |
+| delta-globin / HbA2 induction | advanced non-beta-globin compensation benchmark; keep `HBD` and HbA2 separate from HbF claims |
 | metformin | translational warning comparator; not promoted because retrieved NTDT evidence did not show extra benefit over stable hydroxyurea |
 | curcuminoid or resveratrol seeds | must show HbF plus safety before autophagy language is used |
 | ginger/6-shogaol support lane | red-cell support comparator unless HbF and alpha-globin endpoints are proven |
@@ -116,6 +125,8 @@ HBG1:
 HBG2:
 HbF_protein:
 F_cell_percentage:
+HBD_mRNA_optional:
+delta_globin_or_HbA2_optional:
 alpha_non_alpha_balance:
 free_or_insoluble_alpha_globin:
 ULK1_state:
@@ -152,6 +163,7 @@ research gate.
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
+- [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Alpha-globin/autophagy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json)
@@ -165,3 +177,6 @@ research gate.
 - [Alpha-globin target review, PMID 25869286](https://pubmed.ncbi.nlm.nih.gov/25869286/)
 - [siRNA alpha-globin reduction, PMID 18556409](https://pubmed.ncbi.nlm.nih.gov/18556409/)
 - [CRISPR alpha-globin locus editing, PMID 33635334](https://pubmed.ncbi.nlm.nih.gov/33635334/)
+- [In vivo delta-globin activation, PMID 23872310](https://pubmed.ncbi.nlm.nih.gov/23872310/)
+- [Endogenous HBD promoter engineering, PMID 37265399](https://pubmed.ncbi.nlm.nih.gov/37265399/)
+- [Drug-repurposing delta-globin screen, PMID 40305292](https://pubmed.ncbi.nlm.nih.gov/40305292/)

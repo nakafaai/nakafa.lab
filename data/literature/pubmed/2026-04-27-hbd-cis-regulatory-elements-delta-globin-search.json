@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "Creating New Cis-Regulatory Elements of HBD to Reactivate Delta-Globin",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40114594"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1089/hum.2024.186"
+        }
+      ],
+      "journal": "Hum Gene Ther",
+      "pmid": "40114594",
+      "pubdate": "2025 Apr",
+      "title": "Creating New Cis-Regulatory Elements of HBD to Reactivate Delta-Globin."
+    }
+  ]
+}

@@ -19,6 +19,7 @@ each lane gets one current label and one reason.
 | Sirolimus | `partial_hbf` | repurposing signal; immune and monitoring boundaries remain |
 | `AMPKB1` / `ULK1` / `NRF2` / autophagy bridge | `partial_hbf` | target-discovery lane linking HbF induction and alpha-globin cleanup; needs beta-thalassemia primary-cell validation |
 | Alpha-globin rebalancing / `HBA` reduction | `not_hbf_lane` | root-cause-adjacent chain-balance benchmark; advanced RNA/vector/HSC/editing delivery, not a first affordable lead |
+| Delta-globin / HbA2 induction | `not_hbf_lane` | non-beta-globin compensation benchmark through `HBD`, not HbF; current support is mouse, editing, interferon, and screening-stage |
 | Thalidomide / CRBN class | `blocked` | strong HbF/transfusion signal but safety boundary is too hard for promotion |
 | Decitabine / DNMT1 depletion | `blocked` | strong HbF biology but cytotoxic and marrow-safety boundary is high |
 | `MBD2-NuRD`, `LSD1`, HDAC target discovery | `partial_hbf` | assay-design lane, not direct treatment lead |
@@ -63,6 +64,10 @@ disease-relevant. It belongs beside the dual-readout assay as a chain-balance
 benchmark because HBA copy-number and reduction evidence supports the biology,
 while delivery and over-suppression risk block a first affordable lead.
 
+Delta-globin / HbA2 induction is another non-HbF compensation lane. It should be
+tracked separately because `HBD` activation could make `alpha2-delta2` HbA2,
+but the current evidence is not yet a patient-ready drug path.
+
 ## Immediate Decision Rule
 
 Before adding a new candidate to the top ranking, assign one of these labels.
@@ -89,3 +94,4 @@ If the label is:
 - [HPFH natural HbF blueprint](../findings/2026-04-27-hpfh-natural-hbf-blueprint.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
+- [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)

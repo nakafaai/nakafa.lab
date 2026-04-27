@@ -1,0 +1,39 @@
+{
+  "count": 1,
+  "query": "delta globin drug repurposing beta hemoglobinopathy",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40305292"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12025224"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12025224;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/biom15040565"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "biom15040565"
+        }
+      ],
+      "journal": "Biomolecules",
+      "pmid": "40305292",
+      "pubdate": "2025 Apr 11",
+      "title": "Drugs Repurposing of Molecules Modulating Human Delta Globin Gene Expression via a Model of Transgenic Foetal Liver Cells: Implications for Beta-Hemoglobinopathy Therapeutics."
+    }
+  ]
+}

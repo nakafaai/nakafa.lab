@@ -59,6 +59,11 @@ out of the first quote panel unless a qualified lab already has HSC, RNA,
 gene-transfer, or genome-editing capability and can measure over-suppression
 and HbH-like safety risk.
 
+The delta-globin / HbA2 gate adds `HBD` activation as another advanced
+non-beta-globin compensation benchmark. Keep it out of the first quote panel
+unless the lab can measure `HBD`, delta-globin protein, HbA2 assembly,
+globin-chain balance, maturation, viability, and hemolysis in the same run.
+
 ## Required Feasibility Questions
 
 Ask the lab to answer:
@@ -77,6 +82,8 @@ Ask the lab to answer:
   alpha-globin-buffer readout?
 - If you can test direct `HBA1` / `HBA2` reduction, can you also measure
   alpha/non-alpha balance and over-suppression safety?
+- If you can test HbA2 compensation, can you measure `HBD` mRNA, delta-globin
+  protein, and HbA2 percentage or `alpha2-delta2` assembly?
 - Can you document compound or extract identity, vehicle, concentration range,
   replicates, raw data, and methods?
 - What ethics, biosafety, material-transfer, or import constraints apply?
@@ -119,6 +126,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 - [AMPK/NRF2 expansion gate](../findings/2026-04-27-ampk-nrf2-expansion-gate.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
+- [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)
 - [First HbF and red-cell safety assay work order V0](2026-04-27-first-assay-work-order-v0.md)
 - [Lab partner requirements](2026-04-27-lab-partner-requirements.md)
 - [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md)

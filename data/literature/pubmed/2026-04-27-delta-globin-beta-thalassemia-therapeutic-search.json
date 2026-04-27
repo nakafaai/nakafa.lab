@@ -1,0 +1,306 @@
+{
+  "count": 10,
+  "query": "delta globin beta thalassemia therapeutic",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20098328"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/GIM.0b013e3181cd68ed"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1098-3600(21)02087-6"
+        }
+      ],
+      "journal": "Genet Med",
+      "pmid": "20098328",
+      "pubdate": "2010 Feb",
+      "title": "Beta-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23872310"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4007936"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4007936;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3324/haematol.2012.082768"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "haematol.2012.082768"
+        }
+      ],
+      "journal": "Haematologica",
+      "pmid": "23872310",
+      "pubdate": "2014 Jan",
+      "title": "In vivo activation of the human \u03b4-globin gene: the therapeutic potential in \u03b2-thalassemic mice."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40305292"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12025224"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12025224;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/biom15040565"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "biom15040565"
+        }
+      ],
+      "journal": "Biomolecules",
+      "pmid": "40305292",
+      "pubdate": "2025 Apr 11",
+      "title": "Drugs Repurposing of Molecules Modulating Human Delta Globin Gene Expression via a Model of Transgenic Foetal Liver Cells: Implications for Beta-Hemoglobinopathy Therapeutics."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31061897"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6488526"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6488526;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bbrep.2019.100635"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2405-5808(19)30048-2"
+        }
+      ],
+      "journal": "Biochem Biophys Rep",
+      "pmid": "31061897",
+      "pubdate": "2019 Jul",
+      "title": "Relative proteome quantification of alpha, beta, gamma and delta globin chains in early eluting peaks of Bio-Rad variant II(\u00ae) CE-HPLC of hemoglobin from healthy and beta-thalassemia subjects in Malaysia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37265399"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10270685"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10270685;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.7554/eLife.85258"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "85258"
+        }
+      ],
+      "journal": "Elife",
+      "pmid": "37265399",
+      "pubdate": "2023 Jun 2",
+      "title": "Engineering of the endogenous HBD promoter increases HbA2."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41284617"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13014092"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13014092;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood.2025029969"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "548418"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "41284617",
+      "pubdate": "2026 Mar 5",
+      "title": "IFN-\u03b3 increases \u03b4-globin gene expression through activation of the JAK/STAT pathway in erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41345769"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12715185"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12715185;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-025-30762-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-025-30762-3"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "41345769",
+      "pubdate": "2025 Dec 5",
+      "title": "Downregulation of ZBTB7A/LRF increases fetal hemoglobin expression in \u03b2(0)-thalassemia/hemoglobin E erythroid cells."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29162270"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.medcli.2017.10.011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0025-7753(17)30789-3"
+        }
+      ],
+      "journal": "Med Clin (Barc)",
+      "pmid": "29162270",
+      "pubdate": "2018 May 11",
+      "title": "Epsilon gamma delta beta thalassemia: A rare cause of fetal and neonatal anemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32528964"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC7256663"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC7256663;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fmed.2020.00163"
+        }
+      ],
+      "journal": "Front Med (Lausanne)",
+      "pmid": "32528964",
+      "pubdate": "2020",
+      "title": "Delta-Globin Gene Expression Is Enhanced in vivo by Interferon Type I."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31475864"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6802153"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6802153;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/1535370219872995"
+        }
+      ],
+      "journal": "Exp Biol Med (Maywood)",
+      "pmid": "31475864",
+      "pubdate": "2019 Oct",
+      "title": "\u03b4-Aminolevulinate induces fetal hemoglobin expression by enhancing cellular heme biosynthesis."
+    }
+  ]
+}

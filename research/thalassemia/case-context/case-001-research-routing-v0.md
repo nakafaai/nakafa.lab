@@ -23,6 +23,8 @@ marked unknown:
 - thalassemia class: `TDT`, `NTDT`, HbE/beta, alpha, or mixed;
 - `HBB` and `HBA` genotype if available;
 - Hb fractions: HbA, HbA2, HbF, and HbE if present;
+- current genotype-first intake label: `untyped`, `phenotype_only`,
+  `hbb_confirmed`, `hbb_hba_confirmed`, or `modifier_context_known`;
 - transfusion dates, units or volume, and pre-transfusion hemoglobin;
 - antibody screen, named alloantibodies, `DAT`, and crossmatch notes;
 - ferritin trend, liver iron MRI, and cardiac `T2*`;
@@ -79,6 +81,7 @@ Ask these in order:
 Every new case detail should update one of these files:
 
 - [de-identified case context](deidentified-case-001.md);
+- [genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md);
 - [clinician review brief](clinician-brief-case-001.md);
 - [hematologist question sheet](hematologist-question-sheet-case-001.md);
 - [HbF responder signature](../prioritization/2026-04-27-hbf-responder-signature-v0.md);
@@ -99,6 +102,7 @@ material into a thalassemia treatment claim.
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
+- [Case-001 genotype-first intake gate V0](case-001-genotype-first-intake-gate-v0.md)
 - [HPFH-like assay readout spec V0](../assays/2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Quran 16:43 expert-consultation anchor](../../islamic/quran/016-an-nahl/043.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

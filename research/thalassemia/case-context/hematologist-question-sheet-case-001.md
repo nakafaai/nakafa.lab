@@ -28,6 +28,9 @@ Use medical records where possible:
 
 1. What exact thalassemia subtype and phenotype does this patient have:
    `TDT`, `NTDT`, HbE/beta-thalassemia, alpha-thalassemia, or mixed disease?
+   Can the doctor confirm the current genotype-first label: `untyped`,
+   `phenotype_only`, `hbb_confirmed`, `hbb_hba_confirmed`, or
+   `modifier_context_known`?
 2. Is weekly transfusion expected for this subtype, or does it suggest another
    issue such as poor red-cell survival, alloantibodies, autoantibodies,
    hypersplenism, under-matching, or hemolysis?
@@ -104,6 +107,7 @@ clinicians.
 
 - [Clinician review brief](clinician-brief-case-001.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
+- [Case-001 genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md)
 - [De-identified case context](deidentified-case-001.md)
 - [Current treatment landscape](../findings/2026-04-26-treatment-landscape.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)

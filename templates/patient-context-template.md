@@ -11,6 +11,9 @@ birth date.
 - Source type: family report / clinician note / lab result / publication
 - Age range and broad region:
 - Thalassemia type and genotype if known:
+- Genotype-first intake label: `untyped` / `phenotype_only` /
+  `hbb_confirmed` / `hbb_hba_confirmed` / `modifier_context_known`
+- HPLC or electrophoresis date and transfusion proximity:
 - Transfusion-dependent status:
 - Important comorbidities:
 - Transfusion schedule and pre-transfusion hemoglobin:

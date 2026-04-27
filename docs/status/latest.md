@@ -1,0 +1,131 @@
+# Research Status: Latest
+
+Updated: 2026-04-27
+Audience: Nakafa founder / engineer
+Type: rolling status, not final summary
+
+## TL;DR
+
+We have not found a new cure yet.
+
+We have built the research system and narrowed the search. The strongest
+direction is still `HbF reactivation`: make fetal hemoglobin compensate for the
+broken beta-globin problem. The most practical immediate action is to collect
+the patient's exact clinical data and use it to ask sharper questions to a
+hematologist.
+
+## Current Maturity
+
+| Layer | Status |
+| --- | --- |
+| Repo system | working |
+| Source registry | working |
+| Main paper draft | started |
+| Quran/Islamic guardrails | started |
+| Candidate ranking | started |
+| Patient-specific data | incomplete |
+| Wet-lab experiments | not started |
+| Clinical validation | not started |
+
+## What We Know
+
+- Severe thalassemia can be made transfusion-independent in selected patients
+  through stem-cell routes: HSCT, lentiviral gene therapy, or CRISPR HbF
+  reactivation.
+- Those routes validate the biology, but they are expensive and difficult to
+  access, especially in Indonesia.
+- A lower-cost cure-like path probably needs to mimic the same biology:
+  increase HbF, improve globin balance, improve erythroid maturation, or improve
+  red-cell survival.
+- Natural materials are not ranked by sacredness. They are ranked by identity,
+  mechanism, safety, and thalassemia-relevant endpoints.
+
+## Top Research Lanes
+
+| Priority | Lane | Current read |
+| --- | --- | --- |
+| 1 | HbF reactivation | strongest cure-mimic route |
+| 2 | Existing disease-modifying drugs | ask clinician about relevance, not self-use |
+| 3 | Epigenetic HbF targets | good assay-design lane, toxicity risk |
+| 4 | Iron axis | credible disease-modifying comparator, not cure |
+| 5 | Natural-product HbF seeds | mostly early hypotheses |
+| 6 | Red-cell support adjuncts | may support biology, not cure proof |
+| 7 | Bee / black seed / Quran-linked materials | hypothesis only until tested |
+
+## Candidate Ranking Snapshot
+
+1. Hydroxyurea evidence map.
+2. Sirolimus evidence map.
+3. Thalidomide-class evidence map, high caution.
+4. Epigenetic HbF target discovery.
+5. Curcuminoid analog HbF bridge.
+6. Assay-ready HbF screen.
+7. Hepcidin-ferroportin-`TMPRSS6` iron-restriction comparator.
+8. EGCG / green-tea extract adjunct comparator.
+9. Propolis red-cell oxidative-stress lane.
+10. Royal jelly oxidative-stress lane.
+11. Melittin / bee venom lane, hazard-first.
+
+This is a research ranking, not a patient treatment ranking.
+
+## What We Have Actually Done
+
+Done:
+
+- collected PubMed, ClinicalTrials.gov, PubChem, ChEMBL, full-text, regulatory,
+  and Quran/hadith source snapshots;
+- wrote source-backed findings;
+- built hypothesis cards;
+- built an HbF assay plan;
+- built a clinician-facing de-identified case brief;
+- started the LaTeX paper.
+
+Not done:
+
+- no blood sample experiment;
+- no HbF reporter assay;
+- no hemolysis assay;
+- no cell culture experiment;
+- no animal experiment;
+- no clinical trial;
+- no patient treatment recommendation.
+
+## Doctor Conversation Package
+
+Bring or ask for:
+
+- exact subtype: `TDT`, `NTDT`, HbE/beta, alpha, or mixed;
+- HPLC/electrophoresis: HbA, HbA2, HbF, HbE;
+- `HBB` and `HBA` genotype;
+- pre-transfusion hemoglobin trend;
+- transfusion interval, unit count, blood volume, and reactions;
+- antibody screen, named alloantibodies, direct Coombs / DAT, and crossmatch
+  difficulty;
+- ferritin trend, liver iron MRI, cardiac `T2*`;
+- chelation drug, dose, adherence, side effects, kidney/liver monitoring;
+- spleen status;
+- exact autoimmune diagnosis and medicines;
+- whether luspatercept, mitapivat, HSCT, gene therapy, CRISPR therapy, or a
+  clinical trial is medically relevant.
+
+Main question:
+
+Why is transfusion weekly: disease severity alone, poor red-cell survival,
+antibody/autoimmune complication, hypersplenism, under-matching, iron burden, or
+another factor?
+
+## Next Useful Work
+
+1. Convert patient records into a de-identified clinical timeline.
+2. Extract numeric evidence from top candidates instead of adding broad notes.
+3. Build a hematologist question sheet from the case brief.
+4. Find a lab partner for HbF and hemolysis assays.
+5. Keep Quran-linked materials in the hypothesis lane until biomedical evidence
+   improves.
+
+## Important Boundaries
+
+- This is not medical advice.
+- No medicine, transfusion schedule, chelation, supplement, or immune treatment
+  should be changed from this repo.
+- The project is alive. This file should change as the research changes.

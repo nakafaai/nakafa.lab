@@ -31,7 +31,7 @@ forward.
 - `docs/research-protocol.md` - how evidence becomes a hypothesis.
 - `docs/next-steps.md` - current operating roadmap.
 - `docs/parallel-research-tracks.md` - work that can continue without case data.
-- `docs/current-research-summary.md` - current high-level research summary.
+- `docs/status/latest.md` - rolling research status dashboard, not final summary.
 - `research/thalassemia/README.md` - first disease program.
 - `research/thalassemia/findings/` - small source-backed research notes.
 - `research/thalassemia/hypotheses/` - structured hypothesis candidates.

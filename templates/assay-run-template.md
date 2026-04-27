@@ -7,6 +7,10 @@
 - Study or work-order link:
 - Candidate:
 - HPFH-like label:
+- Proximity novelty label:
+- Closest editing benchmark:
+- Closest non-editing benchmark:
+- Claimed affordability, safety, or integrated-assay gap:
 - Material type:
 - Identity, batch, or lot:
 - Storage:
@@ -73,6 +77,13 @@ patient samples without ethics approval, consent, and clinician oversight.
 - Batch or identity confirmed:
 - Replicate quality acceptable:
 
+## Proximity Novelty Review
+
+- Does this differ from `VGB-Ex01` / `NCT06041620`:
+- Does this differ from luspatercept plus low-dose thalidomide / `NCT07338344`:
+- If yes, what is the practical gap:
+- If no, why is this only a benchmark or reject-control:
+
 ## Interpretation
 
 - Main signal:
@@ -94,3 +105,4 @@ patient samples without ethics approval, consent, and clinician oversight.
 - [Red-cell metabolism readout spec V0](../research/thalassemia/assays/2026-04-27-red-cell-metabolism-readout-spec-v0.md)
 - [Dual HbF and alpha-globin autophagy assay spec V0](../research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md)
 - [HPFH-like candidate labels V0](../research/thalassemia/prioritization/2026-04-27-hpfh-like-candidate-labels-v0.md)
+- [Proximity novelty gate V0](../research/thalassemia/prioritization/2026-04-28-proximity-novelty-gate-v0.md)

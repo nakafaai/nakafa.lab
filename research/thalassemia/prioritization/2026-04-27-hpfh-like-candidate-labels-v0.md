@@ -71,6 +71,8 @@ but the current evidence is not yet a patient-ready drug path.
 ## Immediate Decision Rule
 
 Before adding a new candidate to the top ranking, assign one of these labels.
+Then assign a separate proximity-novelty label from
+[Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md).
 
 If the label is:
 
@@ -84,6 +86,10 @@ If the label is:
 - `not_hbf_lane`: keep it out of cure-mimic ranking;
 - `blocked`: do not promote without a new safety or identity resolution.
 
+No candidate should be pitched as novel unless it also states why it is not
+just a weaker version of `VGB-Ex01`, luspatercept plus low-dose thalidomide, or
+known HbF-inducer classes.
+
 ## Linked Evidence
 
 - [HPFH-like signature V0](2026-04-27-hpfh-like-signature-v0.md)
@@ -95,3 +101,4 @@ If the label is:
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)
+- [Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md)

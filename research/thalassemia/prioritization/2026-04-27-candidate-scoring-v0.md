@@ -36,6 +36,11 @@ This is the biomedical version of the Quran 13:17 benefit-versus-foam
 guardrail: noisy signals should not survive scoring just because they look
 interesting.
 
+After the 2026-04-28 proximity audit, novelty is also a gate. A candidate must
+state how it differs from `VGB-Ex01` and `NCT07338344`; otherwise it is
+`benchmark_only`, `incremental_variant`, or `novelty_blocked` regardless of its
+weighted score.
+
 ## Initial Scores
 
 These scores prioritize accessible research lanes. Approved or near-curative
@@ -107,6 +112,12 @@ For HbF candidates, add the
 promotion. `hpfh_like` can move a candidate upward; `stress_hbf`,
 `reporter_only`, or `blocked` overrides the weighted score.
 
+For every candidate, also add the
+[Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md) label.
+Promotion requires at least one clear `affordability_gap`, `safety_gap`, or
+`integrated_assay_gap` compared with the closest editing and non-editing
+benchmarks.
+
 The first applied label map is
 [HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md).
 The key result is that current small-molecule and natural-product candidates
@@ -119,6 +130,7 @@ gene-editing and natural HPFH biology count as true `hpfh_like` benchmarks.
 - [HbF responder signature V0](2026-04-27-hbf-responder-signature-v0.md)
 - [HPFH-like signature V0](2026-04-27-hpfh-like-signature-v0.md)
 - [HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md)
+- [Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md)
 - [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [Pyruvate kinase red-cell metabolism benchmark](../findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md)

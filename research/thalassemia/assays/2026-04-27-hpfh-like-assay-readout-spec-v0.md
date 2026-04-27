@@ -89,6 +89,10 @@ apoptosis:
 mature_rbc_hemolysis:
 assay_interference:
 hpfh_like_label:
+proximity_novelty_label:
+closest_editing_benchmark:
+closest_non_editing_benchmark:
+claimed_gap:
 decision:
 reason:
 raw_data_location:
@@ -117,4 +121,5 @@ F-cell-flow, globin-chain-ratio, endogenous-reporter, and HBG editing sources.
 - [Over-constrained HBG broad maturation snapshot](../../../data/literature/pubmed/2026-04-27-hpfh-like-erythroid-maturation-hbg-broad.json)
 - [Over-constrained HUDEP2 reporter readout snapshot](../../../data/literature/pubmed/2026-04-27-hpfh-like-hudep2-hbf-reporter-readouts.json)
 - [HPFH-like signature V0](../prioritization/2026-04-27-hpfh-like-signature-v0.md)
+- [Proximity novelty gate V0](../prioritization/2026-04-28-proximity-novelty-gate-v0.md)
 - [Assay run template](../../../templates/assay-run-template.md)

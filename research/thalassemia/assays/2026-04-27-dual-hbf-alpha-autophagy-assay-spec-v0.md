@@ -139,6 +139,10 @@ viability:
 apoptosis:
 mature_rbc_hemolysis:
 assay_interference:
+proximity_novelty_label:
+closest_editing_benchmark:
+closest_non_editing_benchmark:
+claimed_gap:
 dual_readout_decision:
 reason:
 raw_data_location:
@@ -170,6 +174,7 @@ research gate.
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)
 - [HPFH-like assay readout spec V0](2026-04-27-hpfh-like-assay-readout-spec-v0.md)
 - [Red-cell metabolism readout spec V0](2026-04-27-red-cell-metabolism-readout-spec-v0.md)
+- [Proximity novelty gate V0](../prioritization/2026-04-28-proximity-novelty-gate-v0.md)
 - [Alpha-globin/autophagy PubMed snapshot](../../../data/literature/pubmed/2026-04-27-gap-matrix-positive-alpha-autophagy.json)
 - [Novelty boundary HbF-alpha-autophagy snapshot](../../../data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json)
 - [AMBRA1 Blood article, PMID 39693613](https://pubmed.ncbi.nlm.nih.gov/39693613/)

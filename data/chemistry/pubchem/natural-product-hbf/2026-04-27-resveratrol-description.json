@@ -1,0 +1,16 @@
+{
+  "InformationList": {
+    "Information": [
+      {
+        "CID": 445154,
+        "Title": "Resveratrol"
+      },
+      {
+        "CID": 445154,
+        "Description": "Resveratrol is a stilbenol that is stilbene in which the phenyl groups are substituted at positions 3, 5, and 4' by hydroxy groups. It has a role as a glioma-associated oncogene inhibitor, a geroprotector, an antioxidant and a phytoalexin. It is a polyphenol, a member of resorcinols and a stilbenol.",
+        "DescriptionSourceName": "ChEBI",
+        "DescriptionURL": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:27881"
+      }
+    ]
+  }
+}

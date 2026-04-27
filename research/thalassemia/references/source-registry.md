@@ -172,7 +172,9 @@ Checked on 2026-04-26 unless noted.
 | Islamic | [Sahih al-Bukhari 5678, Sunnah.com](https://sunnah.com/bukhari:5678) | Anchor hadith for seeking remedies under Allah's decree. |
 | Islamic | [Sahih Muslim 2204, Sunnah.com](https://sunnah.com/muslim:2204) | Anchor hadith for treatment and remedy, with careful interpretation. |
 | Islamic | [Illness is not a blame claim](../../islamic/findings/2026-04-27-illness-not-blame-guardrail.md) | Synthesis guardrail for communicating about disease, genetics, tests, and cure-seeking. |
-| Natural-product HbF | [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md) | Internal map for `Curcuma comosa` labdane diterpenes and quercetin analog HbF leads. |
+| Natural-product HbF | [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md) | Internal map for curcuminoid, resveratrol, `Curcuma comosa`, and quercetin analog HbF leads. |
+| Natural-product HbF | [Resveratrol HbF beta-thalassemia seed](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md) | Chemistry-resolved plant polyphenol with PubMed abstract evidence in beta-thalassemia erythroid precursors. |
+| Natural-product HbF | [Resveratrol HbF PubMed PMID 22378234](https://pubmed.ncbi.nlm.nih.gov/22378234/) | Source for resveratrol HbF and antioxidant signal in K562, normal donor erythroid precursors, and beta-thalassemia patient erythroid precursors. |
 | Natural-product HbF | [Labdane diterpenes from Curcuma comosa, PubMed PMID 20196571](https://pubmed.ncbi.nlm.nih.gov/20196571/) | PubMed-indexed K562 reporter study; `isocoronarin D` reported as the strongest abstract-level HbF inducer. |
 | Natural-product HbF | [Labdane diterpenes PubMed snapshot](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf.json) | Reproducible PubMed search snapshot for labdane diterpenes and fetal hemoglobin. |
 | Natural-product HbF | [Labdane diterpenes PubMed abstract XML](../../../data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-abstract.xml) | Abstract-level method and effect-size extraction for the `Curcuma comosa` seed. |

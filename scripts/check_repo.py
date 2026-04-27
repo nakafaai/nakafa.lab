@@ -41,6 +41,9 @@ BEE_CONSTITUENT_PATHS = [
     "data/literature/pubmed/2026-04-27-tbdmc-trienone-synthesis-cytotoxicity-esummary.json",
     "data/literature/pubmed/2026-04-27-tbdmc-trienone-synthesis-cytotoxicity-abstract.xml",
     "data/literature/pubmed/2026-04-27-tbdmc-trienone-synthesis-cytotoxicity-crossref.json",
+    "data/literature/pubmed/2026-04-27-resveratrol-hbf-beta-thalassemia-esummary.json",
+    "data/literature/pubmed/2026-04-27-resveratrol-hbf-beta-thalassemia-abstract.xml",
+    "data/literature/pubmed/2026-04-27-resveratrol-hbf-beta-thalassemia-crossref.json",
     "data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf.json",
     "data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-esummary.json",
     "data/literature/pubmed/2026-04-27-labdane-diterpenes-hbf-abstract.xml",
@@ -105,6 +108,12 @@ NATURAL_PRODUCT_HBF_PATHS = [
     "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-b-chembl-activities.json",
     "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-c-chembl1095927.json",
     "data/chemistry/chembl/natural-product-hbf/2026-04-27-curcucomosin-c-chembl-activities.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-resveratrol-properties.json",
+    "data/chemistry/pubchem/natural-product-hbf/2026-04-27-resveratrol-description.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-resveratrol-search.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-resveratrol-chembl165.json",
+    "data/chemistry/chembl/natural-product-hbf/2026-04-27-resveratrol-chembl-activities.json",
+    "data/registries/clinicaltrials/2026-04-27-resveratrol-thalassemia-trials.json",
 ]
 
 QUERCETIN_ANALOG_PATHS = [
@@ -260,6 +269,7 @@ REQUIRED_PATHS = [
     "research/thalassemia/findings/2026-04-27-t-bdmc-identity-resolution.md",
     "research/thalassemia/findings/2026-04-27-t-bdmc-cytotoxicity-boundary.md",
     "research/thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md",
+    "research/thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md",
     "research/thalassemia/findings/2026-04-27-isocoronarin-d-identity-map.md",
     "research/thalassemia/findings/2026-04-27-quercetin-analog-hbf-extraction.md",
     "research/thalassemia/findings/2026-04-27-k562-to-hudep2-validation-guardrail.md",

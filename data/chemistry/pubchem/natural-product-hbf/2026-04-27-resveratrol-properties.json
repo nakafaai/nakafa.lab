@@ -1,0 +1,19 @@
+{
+  "PropertyTable": {
+    "Properties": [
+      {
+        "CID": 445154,
+        "MolecularFormula": "C14H12O3",
+        "MolecularWeight": "228.24",
+        "SMILES": "C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O",
+        "ConnectivitySMILES": "C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O",
+        "InChIKey": "LUKBXSAWLPMMSZ-OWOJBTEDSA-N",
+        "XLogP": 3.1,
+        "TPSA": 60.7,
+        "HBondDonorCount": 3,
+        "HBondAcceptorCount": 3,
+        "RotatableBondCount": 2
+      }
+    ]
+  }
+}

@@ -11,6 +11,8 @@ The curcuminoid trienone lane led to two adjacent natural-product HbF leads:
   study;
 - quercetin analogs, with DOI and publisher metadata but no clean PubMed hit in
   the first-pass query.
+- resveratrol, with PubMed-indexed HbF evidence in erythroid precursors from
+  beta-thalassemia patients.
 
 These are not cure claims. They are seed records for the HbF discovery funnel.
 `T-BDMC` remains the stronger current natural-product-adjacent seed because it
@@ -66,8 +68,10 @@ Current priority order inside the natural-product HbF lane:
 | Priority | Candidate | Reason | Gate before promotion |
 | --- | --- | --- | --- |
 | 1 | `T-BDMC` trienone analog | chemistry-resolved as PubChem `CID 10447050` / ChEMBL `CHEMBL469419`; K562 plus beta-thalassemia/HbE primary-cell bridge | supplier or synthesis batch, hemolysis, and disease-cell replication |
-| 2 | `isocoronarin D` / `Curcuma comosa` labdane diterpenes | direct K562 `G gamma-globin` reporter signal | hemolysis, endogenous HbF, and disease-cell validation |
-| 3 | quercetin analogs | DOI-confirmed HbF-inducing title | full extraction of compounds, assays, effect size, and safety |
+| 2 | resveratrol | chemistry-resolved; PubMed abstract reports HbF induction in beta-thalassemia patient erythroid precursors | repeat endogenous HbF, hemolysis, dose-window, and trial-evidence review |
+| 3 | `HHBDMC` reduced analog | PubMed abstract reports primary erythroid precursor HbF induction | resolve exact compound identity before procurement |
+| 4 | `isocoronarin D` / `Curcuma comosa` labdane diterpenes | direct K562 `G gamma-globin` reporter signal | hemolysis, endogenous HbF, and disease-cell validation |
+| 5 | quercetin analogs | DOI-confirmed HbF-inducing title | full extraction of compounds, assays, effect size, and safety |
 
 Do not rank K562-only seeds by fold-change alone. `T-BDMC` remains higher
 priority because it has a disease-cell bridge; `isocoronarin D` and
@@ -98,6 +102,7 @@ Do not promote either new lead to therapy hypothesis without:
 - [Quercetin analogs exact-title PubMed snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf-title.json)
 - [Quercetin analogs broad PubMed noisy snapshot](../../../data/literature/pubmed/2026-04-27-quercetin-analogs-hbf.json)
 - [Quercetin analog HbF extraction](2026-04-27-quercetin-analog-hbf-extraction.md)
+- [Resveratrol HbF beta-thalassemia seed](2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [K562 to HUDEP2 validation guardrail](2026-04-27-k562-to-hudep2-validation-guardrail.md)
 - [Curcuminoid analog assay map](2026-04-27-curcuminoid-analog-assay-map.md)
 - [T-BDMC identity resolution](2026-04-27-t-bdmc-identity-resolution.md)

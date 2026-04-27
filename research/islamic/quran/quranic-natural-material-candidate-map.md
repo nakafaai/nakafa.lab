@@ -45,10 +45,15 @@ erythroid maturation, iron burden, inflammation, and liver/cardiac safety.
 
 ## Fit With Current Plant-Derived HbF Leads
 
-The current plant-derived HbF seeds, `T-BDMC`, `isocoronarin D`, and
-`3,4'-Di-O-methylquercetin`, did not enter the project because their exact
+The current plant-derived HbF seeds, `T-BDMC`, `resveratrol`, `isocoronarin D`,
+and `3,4'-Di-O-methylquercetin`, did not enter the project because their exact
 plants are named in the Quran. They entered because scientific sources connect
 defined molecules to gamma-globin or HbF-adjacent endpoints.
+
+Resveratrol is useful as a guardrail example. Grapes are named in Quranic
+natural-world verses, and resveratrol is a grape-associated polyphenol, but the
+scientific reason for tracking it is PubMed evidence in beta-thalassemia
+erythroid precursors plus clean PubChem/ChEMBL identity.
 
 This distinction protects the Islamic lane:
 
@@ -76,5 +81,6 @@ when safety is plausible.
 - [Quran 36:33-35](https://quran.com/36/33-35)
 - [Quran 56:68-70](https://quran.com/56/68-70)
 - [Natural-product HbF expansion map](../../thalassemia/findings/2026-04-27-natural-product-hbf-expansion-map.md)
+- [Resveratrol HbF beta-thalassemia seed](../../thalassemia/findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Quran-wide healing search plan](quran-wide-healing-search-plan.md)
 - [Shifa root map](shifa-root-map.md)

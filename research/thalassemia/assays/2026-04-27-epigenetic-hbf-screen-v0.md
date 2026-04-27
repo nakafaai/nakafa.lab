@@ -95,6 +95,7 @@ it still needs a supplier or synthesis batch before testing.
 | --- | --- | --- |
 | `T-BDMC` | chemistry-resolved as PubChem `CID 10447050` / ChEMBL `CHEMBL469419`; strongest current biology bridge; K562 plus beta-thalassemia/HbE primary-cell evidence; low-micromolar KB/Vero cytotoxicity boundary | obtain supplier/synthesis batch, confirm purity, and run hemolysis plus erythroid viability before disease-cell escalation |
 | `HHBDMC` | PubMed PMID `23079892` reports human primary erythroid precursor gamma-globin mRNA and HbF induction, but exact chemistry identity is unresolved | hold procurement until paper structure, InChIKey, supplier certificate, or synthesis record is recovered |
+| resveratrol | chemistry-resolved as PubChem `CID 445154` / ChEMBL `CHEMBL165`; PubMed PMID `22378234` reports HbF induction in beta-thalassemia patient erythroid precursors | use purified compound only; repeat endogenous HbF and hemolysis before ranking above trienone analogs |
 | `isocoronarin D` | chemistry-resolved as `CHEMBL1099267` / PubChem `CID 46871816`; K562 reporter `FC 1.6` at `20 uM` | hemolysis and K562 repeat before disease-cell escalation |
 | `3,4'-Di-O-methylquercetin` | chemistry-resolved as PubChem `CID 5380905` / `CHEMBL309263`; Springer abstract reports K562 reporter `2.6-fold` at `8 uM` | treat as quercetin analog, not quercetin supplement; repeat reporter and add endogenous HbF |
 
@@ -141,6 +142,7 @@ Every completed run should produce:
 - [HHBDMC identity conflict](../findings/2026-04-27-hhbdmc-identity-conflict.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [T-BDMC cytotoxicity boundary](../findings/2026-04-27-t-bdmc-cytotoxicity-boundary.md)
+- [Resveratrol HbF beta-thalassemia seed](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Isocoronarin D identity map](../findings/2026-04-27-isocoronarin-d-identity-map.md)
 - [Quercetin analog HbF extraction](../findings/2026-04-27-quercetin-analog-hbf-extraction.md)
 - [K562 to HUDEP2 validation guardrail](../findings/2026-04-27-k562-to-hudep2-validation-guardrail.md)

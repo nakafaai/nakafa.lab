@@ -103,6 +103,7 @@ clinicians.
 ## Linked Evidence
 
 - [Clinician review brief](clinician-brief-case-001.md)
+- [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [De-identified case context](deidentified-case-001.md)
 - [Current treatment landscape](../findings/2026-04-26-treatment-landscape.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)

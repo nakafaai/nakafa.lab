@@ -23,6 +23,11 @@ REQUIRED_COLUMNS = [
     "notes_no_phi",
 ]
 
+DATE_PRECISION_COLUMN = "event_time_precision"
+PUBLIC_DATE_PRECISIONS = {"month", "year", "relative", "unknown"}
+PRIVATE_DATE_PRECISION = "day"
+DATE_PRECISIONS = PUBLIC_DATE_PRECISIONS | {PRIVATE_DATE_PRECISION}
+
 BLOCKED_COLUMNS = {
     "address",
     "birth_date",
@@ -53,6 +58,11 @@ def parse_args() -> argparse.Namespace:
         "--include-dates",
         action="store_true",
         help="Include exact date window; use only for ignored private outputs.",
+    )
+    parser.add_argument(
+        "--private-input",
+        action="store_true",
+        help="Allow day-level event dates from ignored private timelines.",
     )
     return parser.parse_args()
 
@@ -95,7 +105,36 @@ def row_privacy_matches(row: dict[str, str]) -> list[str]:
     )
 
 
-def load_rows(input_csv: str) -> list[dict[str, str]]:
+def row_date_precision(row: dict[str, str]) -> str:
+    """Return the row date precision, defaulting legacy rows to day-level."""
+    value = row.get(DATE_PRECISION_COLUMN, "").strip().lower()
+    return value or PRIVATE_DATE_PRECISION
+
+
+def validate_date_precision(
+    row: dict[str, str],
+    row_number: int,
+    *,
+    private_input: bool,
+) -> None:
+    """Validate whether row date precision is safe for the selected mode."""
+    precision = row_date_precision(row)
+    if precision not in DATE_PRECISIONS:
+        allowed = ", ".join(sorted(DATE_PRECISIONS))
+        raise ValueError(
+            f"Row {row_number}: `{DATE_PRECISION_COLUMN}` must be one of: {allowed}."
+        )
+
+    if private_input or precision in PUBLIC_DATE_PRECISIONS:
+        return
+
+    raise ValueError(
+        f"Row {row_number}: day-level `event_date` requires --private-input and "
+        "ignored private storage."
+    )
+
+
+def load_rows(input_csv: str, *, private_input: bool = False) -> list[dict[str, str]]:
     """Load non-empty de-identified timeline rows from a CSV file."""
     rows: list[dict[str, str]] = []
     with Path(input_csv).open(newline="", encoding="utf-8") as csv_file:
@@ -114,6 +153,11 @@ def load_rows(input_csv: str) -> list[dict[str, str]]:
                 continue
 
             parse_date(normalized["event_date"], row_number)
+            validate_date_precision(
+                normalized,
+                row_number,
+                private_input=private_input,
+            )
             privacy_matches = row_privacy_matches(normalized)
             if privacy_matches:
                 joined = ", ".join(privacy_matches)
@@ -132,6 +176,7 @@ def summarize_rows(rows: list[dict[str, str]]) -> dict:
     """Return routing-oriented counts and date coverage for timeline rows."""
     event_dates = [dt.date.fromisoformat(row["event_date"]) for row in rows]
     event_types = Counter(row["event_type"] or "unknown" for row in rows)
+    event_time_precisions = Counter(row_date_precision(row) for row in rows)
     routing_labels = Counter(row["routing_label"] or "unlabeled" for row in rows)
     source_refs = Counter(row["source_ref"] or "missing_source_ref" for row in rows)
 
@@ -140,6 +185,7 @@ def summarize_rows(rows: list[dict[str, str]]) -> dict:
         "start_date": min(event_dates).isoformat(),
         "end_date": max(event_dates).isoformat(),
         "event_types": dict(sorted(event_types.items())),
+        "event_time_precisions": dict(sorted(event_time_precisions.items())),
         "routing_labels": dict(sorted(routing_labels.items())),
         "source_ref_count": len(source_refs),
         "missing_source_ref_rows": source_refs.get("missing_source_ref", 0),
@@ -174,6 +220,11 @@ def format_summary(summary: dict, *, include_dates: bool = False) -> str:
         f"- {event_type}: {count}"
         for event_type, count in summary["event_types"].items()
     )
+    lines.extend(["", "## Event Time Precision"])
+    lines.extend(
+        f"- {precision}: {count}"
+        for precision, count in summary["event_time_precisions"].items()
+    )
     lines.extend(["", "## Routing Labels"])
     lines.extend(
         f"- {label}: {count}" for label, count in summary["routing_labels"].items()
@@ -184,7 +235,8 @@ def format_summary(summary: dict, *, include_dates: bool = False) -> str:
 def main() -> int:
     """Run the case timeline summarizer."""
     args = parse_args()
-    summary = summarize_rows(load_rows(args.input_csv))
+    rows = load_rows(args.input_csv, private_input=args.private_input)
+    summary = summarize_rows(rows)
 
     if args.json:
         output = summary if args.include_dates else public_safe_summary(summary)

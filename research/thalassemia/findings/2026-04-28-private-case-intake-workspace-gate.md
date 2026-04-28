@@ -54,7 +54,9 @@ identifier patterns such as local user paths, emails, phone/fax labels, record
 number labels, exact birth-date labels, and patient-name labels.
 It also suppresses exact date windows by default so public summaries do not
 leak person-linked dates; exact date windows require the explicit
-`--include-dates` flag and should stay in ignored private outputs.
+`--include-dates` flag and should stay in ignored private outputs. Day-level
+timeline dates also require `--private-input`; public timeline candidates
+should use `year`, `month`, `relative`, or `unknown` precision.
 
 This does not make the scanner a full de-identification expert. It makes the
 default workflow harder to misuse and keeps the public case notes aligned with

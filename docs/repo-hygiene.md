@@ -89,7 +89,10 @@ The tracked operating model is:
 The timeline summarizer now checks row content for obvious local paths,
 contact details, record identifiers, exact birth-date labels, and patient-name
 labels before it prints a summary. It also suppresses exact date windows by
-default; use `--include-dates` only for ignored private outputs.
+default; use `--include-dates` only for ignored private outputs. Day-level
+timeline dates require `--private-input`, while public timeline candidates
+should use `event_time_precision` values such as `year`, `month`, `relative`,
+or `unknown`.
 
 ## Security Checks
 

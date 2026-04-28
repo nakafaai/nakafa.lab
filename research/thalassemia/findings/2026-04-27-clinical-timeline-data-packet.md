@@ -89,7 +89,10 @@ The script checks:
 
 - required columns exist;
 - obvious identifier columns are not present;
-- event dates use `YYYY-MM-DD`;
+- `event_date` sorting anchors use `YYYY-MM-DD`;
+- `event_time_precision` is `year`, `month`, `relative`, `unknown`, or `day`;
+- day-level dates are rejected unless `--private-input` is used for ignored
+  private timelines;
 - event types and routing labels are countable.
 
 ## Research Consequence

@@ -86,6 +86,7 @@ def test_timeline_row_privacy_scan() -> None:
     row = {
         "case_id": "case-001",
         "event_date": "2026-01-01",
+        "event_time_precision": "day",
         "event_type": "diagnosis",
         "value": "Patient Name: Sample Person",
         "unit": "",
@@ -107,6 +108,7 @@ def test_timeline_summary_suppresses_dates_by_default() -> None:
         "start_date": "2026-01-01",
         "end_date": "2026-01-02",
         "event_types": {"diagnosis": 1},
+        "event_time_precisions": {"day": 1},
         "routing_labels": {"phenotype_only": 1},
         "source_ref_count": 1,
         "missing_source_ref_rows": 0,
@@ -125,6 +127,37 @@ def test_timeline_summary_suppresses_dates_by_default() -> None:
     assert public_json["start_date"] == "suppressed_for_public_summary"
 
 
+def test_timeline_requires_private_flag_for_day_precision() -> None:
+    """Check that public-mode timeline loading rejects day-level dates."""
+    content = "\n".join(
+        [
+            (
+                "case_id,event_date,event_time_precision,event_type,value,unit,"
+                "source_ref,routing_label,confidence,notes_no_phi"
+            ),
+            (
+                "case-001,2026-01-01,day,diagnosis,phenotype only,,"
+                "private source 1,phenotype_only,review_needed,public safe note"
+            ),
+        ]
+    )
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        path = pathlib.Path(tmpdir) / "timeline.csv"
+        path.write_text(content, encoding="utf-8")
+
+        try:
+            summarize_case_timeline.load_rows(str(path))
+        except ValueError as error:
+            assert "requires --private-input" in str(error)
+        else:
+            raise AssertionError("Expected public-mode day precision rejection.")
+
+        rows = summarize_case_timeline.load_rows(str(path), private_input=True)
+
+    assert len(rows) == 1
+
+
 def main() -> int:
     """Run the checker self-tests."""
     test_public_path_blocks()
@@ -133,6 +166,7 @@ def main() -> int:
     test_language_marker_detection()
     test_timeline_row_privacy_scan()
     test_timeline_summary_suppresses_dates_by_default()
+    test_timeline_requires_private_flag_for_day_precision()
     print("repo checker self-tests passed.")
     return 0
 

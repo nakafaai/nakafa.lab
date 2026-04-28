@@ -75,6 +75,7 @@ uv run python scripts/check_public_repo.py
 uv run python scripts/check_repo_language.py
 ```
 
-The default timeline summary suppresses exact date windows. If a private
-reviewer needs exact dates, use `--include-dates` only for ignored private
+The default timeline summary suppresses exact date windows and rejects
+day-level dates unless `--private-input` is used. If a private reviewer needs
+exact dates, use `--private-input --include-dates` only for ignored private
 outputs. Keep raw records and completed private indexes under `private/`.

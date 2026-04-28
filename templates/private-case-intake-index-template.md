@@ -75,5 +75,6 @@ uv run python scripts/check_public_repo.py
 uv run python scripts/check_repo_language.py
 ```
 
-The timeline summary step is for de-identified CSVs only. Keep raw records and
-completed private indexes under `private/`.
+The default timeline summary suppresses exact date windows. If a private
+reviewer needs exact dates, use `--include-dates` only for ignored private
+outputs. Keep raw records and completed private indexes under `private/`.

@@ -100,6 +100,31 @@ def test_timeline_row_privacy_scan() -> None:
     assert "case-context identifier pattern (case patient name field)" in matches
 
 
+def test_timeline_summary_suppresses_dates_by_default() -> None:
+    """Check that public-facing timeline summaries hide exact date windows."""
+    summary = {
+        "row_count": 1,
+        "start_date": "2026-01-01",
+        "end_date": "2026-01-02",
+        "event_types": {"diagnosis": 1},
+        "routing_labels": {"phenotype_only": 1},
+        "source_ref_count": 1,
+        "missing_source_ref_rows": 0,
+    }
+
+    text = summarize_case_timeline.format_summary(summary)
+    private_text = summarize_case_timeline.format_summary(
+        summary,
+        include_dates=True,
+    )
+    public_json = summarize_case_timeline.public_safe_summary(summary)
+
+    assert "2026-01-01" not in text
+    assert "suppressed for public summary" in text
+    assert "2026-01-01 to 2026-01-02" in private_text
+    assert public_json["start_date"] == "suppressed_for_public_summary"
+
+
 def main() -> int:
     """Run the checker self-tests."""
     test_public_path_blocks()
@@ -107,6 +132,7 @@ def main() -> int:
     test_case_context_identifier_blocks()
     test_language_marker_detection()
     test_timeline_row_privacy_scan()
+    test_timeline_summary_suppresses_dates_by_default()
     print("repo checker self-tests passed.")
     return 0
 

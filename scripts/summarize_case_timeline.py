@@ -49,6 +49,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--json", action="store_true", help="Print JSON instead of text."
     )
+    parser.add_argument(
+        "--include-dates",
+        action="store_true",
+        help="Include exact date window; use only for ignored private outputs.",
+    )
     return parser.parse_args()
 
 
@@ -141,13 +146,25 @@ def summarize_rows(rows: list[dict[str, str]]) -> dict:
     }
 
 
-def format_summary(summary: dict) -> str:
+def public_safe_summary(summary: dict) -> dict:
+    """Return a summary with person-linked exact dates suppressed."""
+    redacted = dict(summary)
+    redacted["start_date"] = "suppressed_for_public_summary"
+    redacted["end_date"] = "suppressed_for_public_summary"
+    return redacted
+
+
+def format_summary(summary: dict, *, include_dates: bool = False) -> str:
     """Format a de-identified timeline summary for repo review."""
+    date_window = "suppressed for public summary"
+    if include_dates:
+        date_window = f"{summary['start_date']} to {summary['end_date']}"
+
     lines = [
         "# Case Timeline Summary",
         "",
         f"- Rows: {summary['row_count']}",
-        f"- Window: {summary['start_date']} to {summary['end_date']}",
+        f"- Window: {date_window}",
         f"- Source references: {summary['source_ref_count']}",
         f"- Missing source references: {summary['missing_source_ref_rows']}",
         "",
@@ -170,10 +187,11 @@ def main() -> int:
     summary = summarize_rows(load_rows(args.input_csv))
 
     if args.json:
-        print(json.dumps(summary, indent=2, sort_keys=True))
+        output = summary if args.include_dates else public_safe_summary(summary)
+        print(json.dumps(output, indent=2, sort_keys=True))
         return 0
 
-    print(format_summary(summary))
+    print(format_summary(summary, include_dates=args.include_dates))
     return 0
 
 

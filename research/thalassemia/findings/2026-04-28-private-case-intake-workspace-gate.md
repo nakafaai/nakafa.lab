@@ -52,6 +52,9 @@ The case timeline summarizer now scans each de-identified row with the public
 case-context privacy scanner before producing a summary. It fails on obvious
 identifier patterns such as local user paths, emails, phone/fax labels, record
 number labels, exact birth-date labels, and patient-name labels.
+It also suppresses exact date windows by default so public summaries do not
+leak person-linked dates; exact date windows require the explicit
+`--include-dates` flag and should stay in ignored private outputs.
 
 This does not make the scanner a full de-identification expert. It makes the
 default workflow harder to misuse and keeps the public case notes aligned with

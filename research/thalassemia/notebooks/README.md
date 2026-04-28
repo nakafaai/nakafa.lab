@@ -63,6 +63,9 @@ Current notebooks:
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.
+- `2026-04-28-private-to-public-case-extraction-gate.ipynb` - privacy gate that
+  models private-source to public-summary release decisions without raw records
+  or identifiers.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

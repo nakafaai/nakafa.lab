@@ -43,6 +43,32 @@ def test_public_content_blocks() -> None:
     assert "possible secret pattern (openai api key)" in matches
 
 
+def test_case_context_identifier_blocks() -> None:
+    """Check case-context identifiers without storing private values."""
+    email = "sample" + "@" + "example.test"
+    phone = "+" + "62 812 3456 7890"
+    content = "\n".join(
+        [
+            "Patient Name: Sample Person",
+            "MRN: AB-12345",
+            f"Phone: {phone}",
+            f"Contact: {email}",
+            "Date of birth: 2001-02-03",
+        ]
+    )
+
+    matches = check_public_repo.content_matches_for_text(
+        "research/thalassemia/case-context/candidate.md",
+        content,
+    )
+
+    assert "case-context identifier pattern (case patient name field)" in matches
+    assert "case-context identifier pattern (case record identifier)" in matches
+    assert "case-context identifier pattern (case phone or fax)" in matches
+    assert "case-context identifier pattern (case email address)" in matches
+    assert "case-context identifier pattern (case exact birth date)" in matches
+
+
 def test_language_marker_detection() -> None:
     """Check authored-language marker detection and URL normalization."""
     marker = "ka" + "sus"
@@ -58,6 +84,7 @@ def main() -> int:
     """Run the checker self-tests."""
     test_public_path_blocks()
     test_public_content_blocks()
+    test_case_context_identifier_blocks()
     test_language_marker_detection()
     print("repo checker self-tests passed.")
     return 0

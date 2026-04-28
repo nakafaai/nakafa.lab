@@ -49,6 +49,11 @@ The public-repo checker now blocks:
 - existing blocked caches, local environments, secrets, credentials, and common
   secret patterns.
 
+The checker also has case-context-specific content rules for direct
+identifier-shaped label-value fields, including patient-name, email, phone,
+fax, medical-record, hospital, accession, national, insurance, record-number,
+and exact birth-date patterns.
+
 This is not a complete legal de-identification engine. It is a repo guardrail
 that catches the most likely public-repo mistakes before they are pushed.
 
@@ -76,6 +81,8 @@ not prove any biomedical treatment.
 ## Sources
 
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)
+- [Private-to-public case extraction template](../../../templates/private-to-public-case-extraction-template.md)
+- [Private-to-public case extraction gate](2026-04-28-private-to-public-case-extraction-gate.md)
 - [Public case data release notebook](../notebooks/2026-04-28-public-case-data-release-gate.ipynb)
 - [Public repo checker](../../../scripts/check_public_repo.py)
 - [Case-001 medical record extraction](../case-context/case-001-medical-record-extraction-2026-04-28.md)

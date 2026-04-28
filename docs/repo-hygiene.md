@@ -65,6 +65,11 @@ Use
 [public-case-data-release-checklist.md](../templates/public-case-data-release-checklist.md)
 before adding any case-context update. Raw PDFs, scans, photos, source exports,
 and local file paths are private working material and should not be tracked.
+When a private record contains a fact that should become public case context,
+use
+[private-to-public-case-extraction-template.md](../templates/private-to-public-case-extraction-template.md)
+to document the source class, release class, extracted fact, and omitted
+material.
 
 ## Security Checks
 
@@ -85,7 +90,10 @@ git diff --check
 `scripts/check_public_repo.py` wraps these public-repo checks in one repeatable
 command. It scans tracked, staged, and untracked non-ignored files. It fails if
 blocked local paths, raw case media, local absolute references, or common secret
-patterns are present.
+patterns are present. It also runs case-context-specific identifier checks for
+email-like strings, phone or fax label-value patterns, exact birth-date
+label-value patterns, direct record identifiers, and patient-name label-value
+patterns.
 
 `scripts/check_repo_language.py` uses the same tracked, staged, and untracked
 non-ignored candidate-file scope for repo-authored text.

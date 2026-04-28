@@ -108,4 +108,6 @@ or organ-risk packet.
 - Clinical use: only as a question-preparation aid for hematology review.
 - Future updates: use the
   [public case data release checklist](../../../templates/public-case-data-release-checklist.md)
+  and
+  [private-to-public case extraction template](../../../templates/private-to-public-case-extraction-template.md)
   before committing any new extracted case detail.

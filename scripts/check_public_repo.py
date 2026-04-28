@@ -52,6 +52,30 @@ PRIVATE_REFERENCE_PATTERNS = {
     "local downloads path": re.compile("/" + "Downloads/" + r"[^\s)]*"),
 }
 
+CASE_CONTEXT_PREFIXES = ("research/thalassemia/case-context/",)
+
+CASE_CONTEXT_IDENTIFIER_PATTERNS = {
+    "case email address": re.compile(
+        r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b"
+    ),
+    "case phone or fax": re.compile(
+        r"(?i)\b(phone|fax|mobile|whatsapp)\s*[:#]\s*\+?\d[\d .()-]{6,}\d"
+    ),
+    "case record identifier": re.compile(
+        r"(?i)\b("
+        r"mrn|medical record number|hospital id|hospital number|"
+        r"accession number|national id|insurance id|record number"
+        r")\s*[:#]\s*[A-Za-z0-9][A-Za-z0-9./-]{2,}"
+    ),
+    "case exact birth date": re.compile(
+        r"(?i)\b(date of birth|birth date|dob)\s*[:#]\s*"
+        r"(\d{4}-\d{2}-\d{2}|\d{1,2}[/-]\d{1,2}[/-]\d{2,4})"
+    ),
+    "case patient name field": re.compile(
+        r"(?i)\b(patient name|name)\s*[:#]\s*[A-Z][a-z]+(\s+[A-Z][a-z]+)+"
+    ),
+}
+
 
 def git_paths(args: list[str]) -> list[str]:
     """Return Git paths for a given `git ls-files` argument list."""
@@ -80,13 +104,13 @@ def blocked_path_reason(path: str) -> str | None:
     return None
 
 
-def content_matches(path: str) -> list[str]:
-    """Return private-content pattern names found in one tracked file."""
-    try:
-        content = pathlib.Path(path).read_text(encoding="utf-8", errors="ignore")
-    except OSError:
-        return [f"could not read {path}"]
+def is_case_context_path(path: str) -> bool:
+    """Return whether a path contains public case-context prose."""
+    return path.startswith(CASE_CONTEXT_PREFIXES)
 
+
+def content_matches_for_text(path: str, content: str) -> list[str]:
+    """Return private-content pattern names found in a text payload."""
     matches: list[str] = []
     matches.extend(
         f"possible secret pattern ({name})"
@@ -98,7 +122,26 @@ def content_matches(path: str) -> list[str]:
         for name, pattern in PRIVATE_REFERENCE_PATTERNS.items()
         if pattern.search(content)
     )
+
+    if not is_case_context_path(path):
+        return matches
+
+    matches.extend(
+        f"case-context identifier pattern ({name})"
+        for name, pattern in CASE_CONTEXT_IDENTIFIER_PATTERNS.items()
+        if pattern.search(content)
+    )
     return matches
+
+
+def content_matches(path: str) -> list[str]:
+    """Return private-content pattern names found in one tracked file."""
+    try:
+        content = pathlib.Path(path).read_text(encoding="utf-8", errors="ignore")
+    except OSError:
+        return [f"could not read {path}"]
+
+    return content_matches_for_text(path, content)
 
 
 def collect_errors(paths: list[str]) -> list[str]:

@@ -8,6 +8,11 @@ record fact, doctor packet, or case-linked data artifact to the public repo.
 - [ ] The source is a de-identified extraction, summary, table, or checklist.
 - [ ] No raw PDF, scan, photo, export, or clinical form is being committed.
 - [ ] No local file path is being committed.
+- [ ] A private working copy, if needed, stays under `private/` and is not
+  tracked.
+- [ ] The extraction follows the
+  [private-to-public case extraction template](private-to-public-case-extraction-template.md)
+  when a private record is the source.
 - [ ] Public literature, registry, guideline, or database sources are cited by
   URL, DOI, PMID, registry ID, or local source snapshot.
 
@@ -30,6 +35,8 @@ record fact, doctor packet, or case-linked data artifact to the public repo.
 - [ ] Rare combinations of facts are reduced or generalized when they could
   identify the person.
 - [ ] The record explains what was extracted, what was omitted, and why.
+- [ ] The public text contains only the minimum fact needed for research routing
+  or clinician questions.
 
 ## 4. Clinical Claim Boundary
 

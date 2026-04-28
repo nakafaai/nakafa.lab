@@ -85,3 +85,6 @@ git diff --check
 command. It scans tracked, staged, and untracked non-ignored files. It fails if
 blocked local paths, raw case media, local absolute references, or common secret
 patterns are present.
+
+`scripts/check_repo_language.py` uses the same tracked, staged, and untracked
+non-ignored candidate-file scope for repo-authored text.

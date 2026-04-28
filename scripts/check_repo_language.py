@@ -93,19 +93,26 @@ INDONESIAN_MARKERS = {
 }
 
 
-def tracked_paths() -> list[str]:
-    """Return tracked paths in deterministic order."""
+def git_paths(args: list[str]) -> list[str]:
+    """Return Git paths for a given `git ls-files` argument list."""
     result = subprocess.run(
-        ["git", "ls-files"],
+        ["git", "ls-files", *args],
         check=True,
         capture_output=True,
         text=True,
     )
-    return sorted(path for path in result.stdout.splitlines() if path)
+    return [path for path in result.stdout.splitlines() if path]
+
+
+def repo_authored_candidate_paths() -> list[str]:
+    """Return tracked, staged, and untracked non-ignored authored paths."""
+    paths = set(git_paths(["--cached"]))
+    paths.update(git_paths(["--others", "--exclude-standard"]))
+    return sorted(paths)
 
 
 def should_scan(path: str) -> bool:
-    """Return whether a tracked path is repo-authored text."""
+    """Return whether a candidate path is repo-authored text."""
     if path in SKIP_PATHS:
         return False
 
@@ -154,7 +161,7 @@ def find_language_markers(paths: list[str]) -> list[str]:
 
 def main() -> int:
     """Run the repository language-policy check."""
-    findings = find_language_markers(tracked_paths())
+    findings = find_language_markers(repo_authored_candidate_paths())
 
     if not findings:
         print("repo language checks passed.")

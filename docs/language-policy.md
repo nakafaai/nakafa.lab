@@ -33,3 +33,6 @@ Run this language-policy check before committing prose-heavy changes:
 ```bash
 uv run python scripts/check_repo_language.py
 ```
+
+The check scans tracked, staged, and untracked non-ignored repo-authored text so
+new files are checked before they are committed.

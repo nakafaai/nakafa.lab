@@ -87,8 +87,8 @@ If the label is:
 - `blocked`: do not promote without a new safety or identity resolution.
 
 No candidate should be pitched as novel unless it also states why it is not
-just a weaker version of `VGB-Ex01`, luspatercept plus low-dose thalidomide, or
-known HbF-inducer classes.
+just a weaker version of `CS-101`, `VGB-Ex01`, luspatercept plus low-dose
+thalidomide, or known HbF-inducer classes.
 
 ## Linked Evidence
 

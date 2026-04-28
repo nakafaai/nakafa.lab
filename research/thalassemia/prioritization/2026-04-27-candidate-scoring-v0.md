@@ -37,7 +37,7 @@ guardrail: noisy signals should not survive scoring just because they look
 interesting.
 
 After the 2026-04-28 proximity audit, novelty is also a gate. A candidate must
-state how it differs from `VGB-Ex01` and `NCT07338344`; otherwise it is
+state how it differs from `CS-101`, `VGB-Ex01`, and `NCT07338344`; otherwise it is
 `benchmark_only`, `incremental_variant`, or `novelty_blocked` regardless of its
 weighted score.
 

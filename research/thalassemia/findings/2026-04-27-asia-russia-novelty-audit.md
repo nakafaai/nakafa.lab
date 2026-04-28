@@ -167,6 +167,25 @@ infrastructure.
 Source note: see
 [`2026-04-27-china-hbf-editing-proximity-gate.md`](2026-04-27-china-hbf-editing-proximity-gate.md).
 
+## 2026-04-28 CS-101 Refinement
+
+Follow-up inspection found `NCT06024876` / `CS-101`, a completed China early
+phase 1 base-editing study with a 2026 Nature report. The intervention uses
+autologous CD34+ cells edited ex vivo at the BCL11A binding motif in the
+`HBG1/HBG2` promoters. The Nature abstract reports 5 treated patients, median
+follow-up of 23 months, all patients stopping red-cell transfusions, and no
+reported deaths or cancer occurrences in the abstract.
+
+This makes the Asia/non-West benchmark stronger than the 2026-04-27 audit
+captured. The strongest novelty claim is not "Asia has not solved HbF editing."
+China now has a peer-reviewed base-editing clinical benchmark. Nakafa Lab's
+distinct gap remains affordability-first, non-editing or lower-infrastructure
+validation with HbF, globin-balance, maturation, hemolysis, iron-risk, and
+access gates.
+
+Source note: see
+[`2026-04-28-cs101-base-editing-benchmark.md`](2026-04-28-cs101-base-editing-benchmark.md).
+
 ## Sources
 
 - [Disrupting ZBTB7A or BCL11A binding sites reactivates fetal hemoglobin in beta0-thalassemia/HbE erythroblasts, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12264176/)

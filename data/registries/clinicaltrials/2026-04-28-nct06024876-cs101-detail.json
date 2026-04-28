@@ -1,0 +1,33 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqW8C95unumpOQJJxubfmm2PISkA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT06024876&pageSize=1&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "CS-101"
+      ],
+      "last_update": "2026-02-12",
+      "nct_id": "NCT06024876",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Frequency and severity of adverse events(AEs\uff09as assessed by CTCAE v5.0",
+        "Time to neutrophil and platelet engraftment",
+        "Proportion of subjects with engraftment",
+        "Incidence of transplant-related mortality",
+        "All-cause mortality",
+        "Proportion of subjects achieving transfusion independence for at least 6 consecutive months",
+        "Time to last red blood cell(RBC) transfusion"
+      ],
+      "status": "COMPLETED",
+      "title": "A Clinical Study Evaluating the Safety and Efficacy of CS-101 in Treating Subjects With \u03b2-thalassemia"
+    }
+  ],
+  "total_count": 1
+}

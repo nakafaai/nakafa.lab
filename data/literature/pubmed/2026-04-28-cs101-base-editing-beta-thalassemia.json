@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "41951736",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41951736"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41586-026-10342-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41586-026-10342-9"
+        }
+      ],
+      "journal": "Nature",
+      "pmid": "41951736",
+      "pubdate": "2026 Apr 8",
+      "title": "Clinical application of base editing for treating \u03b2-thalassaemia."
+    }
+  ]
+}

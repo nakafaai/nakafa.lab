@@ -79,7 +79,8 @@ patient samples without ethics approval, consent, and clinician oversight.
 
 ## Proximity Novelty Review
 
-- Does this differ from `VGB-Ex01` / `NCT06041620`:
+- Does this differ from `CS-101` / `NCT06024876` and `VGB-Ex01` /
+  `NCT06041620`:
 - Does this differ from luspatercept plus low-dose thalidomide / `NCT07338344`:
 - If yes, what is the practical gap:
 - If no, why is this only a benchmark or reject-control:

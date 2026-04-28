@@ -11,6 +11,9 @@ editing and non-editing benchmarks were identified:
 - `CS-101` / `NCT06024876`: China phase 1 autologous CD34+ base editing at the
   BCL11A binding motif in the `HBG1/HBG2` promoters, with a 2026 Nature report
   describing transfusion independence in 5 treated patients.
+- `NCT07489196`: China phase 2 CS-101 registry escalation, not yet recruiting,
+  with safety, survival, engraftment, 12-month transfusion-independence,
+  targeted-editing, HbF, and total-hemoglobin endpoints.
 - `VGB-Ex01` / `NCT06041620`: ex vivo `HBG1/2` promoter editing with HbF,
   alpha-chain burden, red-cell survival, hemolysis, and transfusion-need logic
   in the registry description.
@@ -54,6 +57,7 @@ Every assay run should record:
 
 ```text
 closest_editing_benchmark:
+phase2_escalation:
 closest_non_editing_benchmark:
 proximity_novelty_label:
 claimed_gap:
@@ -73,11 +77,14 @@ scrutiny as the closest editing and non-editing benchmarks.
 ## Sources
 
 - [CS-101 base-editing benchmark](../findings/2026-04-28-cs101-base-editing-benchmark.md)
+- [CS-101 phase 2 escalation gate](../findings/2026-04-28-cs101-phase2-escalation-gate.md)
 - [China HbF editing proximity gate](../findings/2026-04-27-china-hbf-editing-proximity-gate.md)
 - [Non-editing pharmacologic proximity gate](../findings/2026-04-28-non-editing-pharmacologic-proximity-gate.md)
 - [`NCT06024876` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06024876-cs101-detail.json)
+- [`NCT07489196` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct07489196-cs101-phase2-detail.json)
 - [`NCT06041620` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct06041620-vgb-ex01-detail.json)
 - [`NCT07338344` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07338344-luspatercept-thalidomide-detail.json)
 - [ClinicalTrials.gov `NCT06024876`](https://clinicaltrials.gov/study/NCT06024876)
+- [ClinicalTrials.gov `NCT07489196`](https://clinicaltrials.gov/study/NCT07489196)
 - [ClinicalTrials.gov `NCT06041620`](https://clinicaltrials.gov/study/NCT06041620)
 - [ClinicalTrials.gov `NCT07338344`](https://clinicaltrials.gov/study/NCT07338344)

@@ -475,6 +475,9 @@ research/thalassemia/findings/2026-04-28-private-to-public-case-extraction-gate.
 research/thalassemia/notebooks/2026-04-28-private-to-public-case-extraction-gate.ipynb
 research/thalassemia/findings/2026-04-28-private-case-intake-workspace-gate.md
 research/thalassemia/notebooks/2026-04-28-case001-private-intake-priority-gate.ipynb
+research/thalassemia/findings/2026-04-28-cs101-phase2-escalation-gate.md
+research/thalassemia/notebooks/2026-04-28-cs101-phase2-escalation-gate.ipynb
+data/registries/clinicaltrials/2026-04-28-nct07489196-cs101-phase2-detail.json
 research/thalassemia/findings/2026-04-26-carrier-malaria.md
 research/thalassemia/findings/2026-04-26-bee-product-research-scope.md
 research/thalassemia/findings/2026-04-26-bee-derived-materials-beyond-honey.md

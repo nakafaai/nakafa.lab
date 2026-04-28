@@ -5,9 +5,10 @@ Evidence label: computational triage, not wet-lab evidence and not treatment adv
 
 ## Direct Answer
 
-After `CS-101`, the strongest next Nakafa Lab lane is not "find any HbF
-inducer." That is too weak, because `CS-101` and `VGB-Ex01` already make
-HbF-restoring editing a close benchmark.
+After `CS-101`, especially after the `NCT07489196` phase 2 registry escalation,
+the strongest next Nakafa Lab lane is not "find any HbF inducer." That is too
+weak, because `CS-101` and `VGB-Ex01` already make HbF-restoring editing a
+close benchmark.
 
 The best remaining no-lab-to-lab bridge is:
 
@@ -74,6 +75,7 @@ safety, dosing, eligibility, or clinical relevance for any patient.
 
 - [Post-CS-101 non-editing gap-rank notebook](../notebooks/2026-04-28-post-cs101-non-editing-gap-rank.ipynb)
 - [CS-101 base-editing benchmark](2026-04-28-cs101-base-editing-benchmark.md)
+- [CS-101 phase 2 escalation gate](2026-04-28-cs101-phase2-escalation-gate.md)
 - [Proximity novelty gate V0](../prioritization/2026-04-28-proximity-novelty-gate-v0.md)
 - [Candidate scoring V0](../prioritization/2026-04-27-candidate-scoring-v0.md)
 - [First lab quote brief V0](../assays/2026-04-27-first-lab-quote-brief-v0.md)

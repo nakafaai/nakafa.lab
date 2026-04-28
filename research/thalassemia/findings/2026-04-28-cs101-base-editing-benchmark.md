@@ -8,7 +8,8 @@ Evidence label: editing benchmark, not treatment advice
 CS-101 is now a major Asia-based benchmark for the Nakafa Lab cure-oriented
 map. It does not solve the Nakafa affordability question, but it raises the
 evidence bar for any claim that HBG promoter editing and HbF rescue are an open
-or unsolved therapeutic concept.
+or unsolved therapeutic concept. A new ClinicalTrials.gov phase 2 record,
+`NCT07489196`, now strengthens that benchmark beyond the phase 1 report alone.
 
 The strongest source found in this pass is the 2026 Nature phase 1 report
 linked from the ClinicalTrials.gov record `NCT06024876`. The trial enrolled 5
@@ -26,6 +27,7 @@ vivo by transformer base editing. The target is the BCL11A binding motif in the
 | Primary outcomes | Safety, engraftment, transplant-related mortality, all-cause mortality, transfusion independence for at least 6 months, time to last RBC transfusion | Strong endpoint benchmark for future assay and clinical translation claims. |
 | Secondary outcomes | Total hemoglobin, HbF, intended genetic modification in blood and marrow | Useful benchmark for HbF and editing persistence readouts. |
 | Publication | Nature 2026, PMID `41951736`, DOI `10.1038/s41586-026-10342-9` | Peer-reviewed clinical benchmark. |
+| Phase 2 escalation | `NCT07489196`, China, phase 2, not yet recruiting, estimated enrollment 20, posted 2026-03-24 | Raises the benchmark from a phase 1 signal plus registry context to an active phase 2 development path. |
 
 ## Nature Report Snapshot
 
@@ -49,6 +51,8 @@ This is a powerful signal, but it has boundaries:
 Before this finding, `VGB-Ex01` was the closest editing registry benchmark. Now
 CS-101 is a stronger clinical-outcome benchmark because it has a peer-reviewed
 Nature report connected to the registry.
+After the `NCT07489196` update, CS-101 should be described as a phase 1 Nature
+clinical signal with phase 2 registry escalation.
 
 The Nakafa Lab novelty statement should be:
 
@@ -64,6 +68,7 @@ as:
 
 ```text
 closest_editing_benchmark: CS-101 / NCT06024876, with VGB-Ex01 / NCT06041620 as a registry comparator
+phase2_escalation: NCT07489196
 ```
 
 Any candidate that only says "increase HbF" is not novel. It must state what it
@@ -88,7 +93,9 @@ practical discovery gap is now:
 ## Sources
 
 - [ClinicalTrials.gov `NCT06024876`](https://clinicaltrials.gov/study/NCT06024876)
+- [ClinicalTrials.gov `NCT07489196`](https://clinicaltrials.gov/study/NCT07489196)
 - [Nature 2026 CS-101 article](https://www.nature.com/articles/s41586-026-10342-9)
 - [PubMed PMID `41951736`](https://pubmed.ncbi.nlm.nih.gov/41951736/)
 - [`NCT06024876` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06024876-cs101-detail.json)
+- [`NCT07489196` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct07489196-cs101-phase2-detail.json)
 - [CS-101 PubMed snapshot](../../../data/literature/pubmed/2026-04-28-cs101-base-editing-beta-thalassemia.json)

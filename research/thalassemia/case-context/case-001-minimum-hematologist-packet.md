@@ -23,6 +23,7 @@ supplements, diet, or any treatment plan.
 | Immune/transfusion | `immune_transfusion_packet_missing` | Weekly transfusion plus reported autoimmune history cannot be interpreted without blood-bank and DAT records. |
 | Iron/chelation | `iron_packet_missing` | Weekly transfusion plus reported daily chelation cannot be interpreted without ferritin trend, LIC, cardiac `T2*`, chelator identity, and toxicity monitoring. |
 | Trial/referral | `trial_referral_not_ready` | Referral or trial screening cannot be judged until subtype, transfusion, immune, iron, organ, and access records are known. |
+| Advanced therapy referral | `advanced_therapy_referral_packet_missing` | HSCT, gene therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trial screening cannot be judged until the specialist packet is complete enough for clinician review. |
 
 ## Bring Or Request First
 
@@ -73,6 +74,15 @@ supplements, diet, or any treatment plan.
    - if rejected or blocked, the exact reason: genotype, organ status, immune
      risk, antibodies, infection, fertility, cost, center access, or another
      reason.
+7. Advanced-therapy referral readiness packet:
+   - whether the record set is `advanced_therapy_referral_packet_missing`,
+     `advanced_therapy_referral_packet_partial`,
+     `advanced_therapy_referral_packet_ready_for_specialist_screening`,
+     `under_specialist_review`, `medically_unsuitable`, or `access_blocked`;
+   - which advanced option, if any, the hematologist thinks should be screened
+     first, and which missing records block that judgement;
+   - whether HLA or donor discussion, gene-cell therapy referral, or
+     disease-modifying drug review belongs now, later, or not at all.
 
 ## Doctor Visit Script
 
@@ -89,6 +99,9 @@ Then ask:
 3. Are any records unnecessary for this case, and why?
 4. Is this case screenable for referral or trial review, or still
    `trial_referral_not_ready`?
+5. Is the advanced-therapy packet still
+   `advanced_therapy_referral_packet_missing`, or complete enough for
+   specialist screening?
 
 ## Research Routing Rule
 
@@ -113,6 +126,8 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 transfusion burden quantification gate](../findings/2026-04-28-case001-transfusion-burden-quantification-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
+- [Case-001 advanced therapy referral readiness gate](../findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md)
+- [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)

@@ -18,6 +18,10 @@ immune, iron, organ-risk, and public-release gates for the de-identified case
 packet, ask a hematologist whether the packet is screenable for existing
 therapies or referrals, and prepare a small qualified-lab work order for dual
 HbF and alpha-globin-burden readouts.
+The new advanced-therapy referral gate sharpens this step: the immediate output
+is a complete enough specialist packet, not a repo-issued judgement about HSCT,
+gene therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trial
+eligibility.
 
 If the first lab can support one expansion lane beyond the fixed quote panel,
 the most coherent current choice is a PRKAB1/AMPK beta1/NRF2/ULK1/autophagy
@@ -57,6 +61,8 @@ The next work should be small and verifiable:
   HPFH/delta-beta/\texttt{HBG} modifier context.
   \item Ask a hematologist to label the case as not ready, screenable,
   access-blocked, unsuitable, or under specialist review.
+  \item Resolve the \texttt{advanced\_therapy\_referral\_packet\_missing}
+  label before asking a referral center to screen advanced options.
   \item Build the first qualified-lab assay request around HbF/F-cells,
   alpha-globin burden, autophagy context, maturation, viability, apoptosis, and
   hemolysis.

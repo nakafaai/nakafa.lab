@@ -62,6 +62,9 @@ Use medical records where possible:
    chelation, or eligibility for disease-modifying/curative therapy?
 9. Should this patient be evaluated for luspatercept, mitapivat, HSCT, gene
    therapy, CRISPR therapy, or a clinical trial?
+10. Is the advanced-therapy referral packet still
+    `advanced_therapy_referral_packet_missing`, or complete enough for
+    specialist screening?
 
 ## Records To Bring Or Request
 
@@ -173,6 +176,32 @@ Questions:
 - If an option is unsuitable, what is the exact reason and what data would
   change that conclusion?
 
+## Advanced Therapy Referral Readiness Packet
+
+Ask the doctor to mark the overall packet as
+`advanced_therapy_referral_packet_missing`,
+`advanced_therapy_referral_packet_partial`,
+`advanced_therapy_referral_packet_ready_for_specialist_screening`,
+`under_specialist_review`, `medically_unsuitable`, or `access_blocked`.
+
+Questions:
+
+- Are the diagnosis, genotype, Hb fractions, transfusion burden, immune,
+  iron, organ, infection, spleen, fertility, and access records complete enough
+  for a transplant, gene-cell therapy, disease-modifying drug, or trial team to
+  screen the case?
+- Which option, if any, is worth screening first, and which record makes that
+  judgement possible?
+- Should HLA or donor discussion be started now, deferred, or avoided for a
+  medical reason?
+- For gene therapy or CRISPR therapy, which autologous cell collection,
+  myeloablation, long-term follow-up, fertility, cost, or center-access gates
+  matter most?
+- For luspatercept, mitapivat, or hydroxyurea, which response definition and
+  safety monitoring would the doctor use?
+- If an option is blocked, is the reason medical, data-related, access-related,
+  cost-related, or unknown?
+
 ## Iron-Axis Questions
 
 The repo now tracks hepcidin, ferroportin, `TMPRSS6`, erythroferrone, and iron
@@ -214,6 +243,7 @@ clinicians.
 - [Case-001 transfusion burden quantification gate](../findings/2026-04-28-case001-transfusion-burden-quantification-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
+- [Case-001 advanced therapy referral readiness gate](../findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Case-001 genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md)
 - [De-identified case context](deidentified-case-001.md)

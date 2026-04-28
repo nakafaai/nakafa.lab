@@ -466,6 +466,8 @@ research/thalassemia/case-context/case-001-genotype-first-intake-gate-v0.md
 research/thalassemia/case-context/deidentified-case-001.md
 research/thalassemia/case-context/hematologist-question-sheet-case-001.md
 research/thalassemia/case-context/case-001-minimum-hematologist-packet.md
+research/thalassemia/findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md
+research/thalassemia/notebooks/2026-04-28-case001-advanced-therapy-referral-readiness-gate.ipynb
 research/thalassemia/findings/2026-04-28-case001-transfusion-burden-quantification-gate.md
 research/thalassemia/notebooks/2026-04-28-case001-transfusion-burden-quantification-gate.ipynb
 research/thalassemia/findings/2026-04-28-private-to-public-case-extraction-gate.md
@@ -753,6 +755,7 @@ templates/hypothesis-card-template.md
 templates/patient-context-template.md
 templates/public-case-data-release-checklist.md
 templates/private-to-public-case-extraction-template.md
+templates/advanced-therapy-referral-readiness-template.md
 templates/transfusion-log-template.csv
 templates/clinical-record-index-template.csv
 templates/case-clinical-timeline-template.csv

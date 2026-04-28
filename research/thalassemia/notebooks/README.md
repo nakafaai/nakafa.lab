@@ -60,6 +60,10 @@ Current notebooks:
 - `2026-04-28-case001-minimum-hematologist-packet-gate.ipynb` -
   de-identified integration gate that ranks the minimum doctor packet across
   diagnosis, transfusion burden, immune, iron, organ, and referral records.
+- `2026-04-28-case001-advanced-therapy-referral-readiness-gate.ipynb` -
+  de-identified gate that keeps HSCT, gene-cell therapy, disease-modifying
+  drugs, and trials as specialist-screening questions until the referral packet
+  is complete enough for clinician review.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

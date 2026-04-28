@@ -51,6 +51,11 @@ birth date
 - Current trial/referral label: `trial_referral_not_ready` until exact subtype,
   genotype, Hb fractions, transfusion burden, antibody/DAT status, iron MRI,
   organ-risk packet, autoimmune diagnosis, and access history are documented.
+- Current advanced-therapy label:
+  `advanced_therapy_referral_packet_missing` until the record packet is
+  complete enough for a hematologist or referral center to screen HSCT, gene
+  therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trial
+  options.
 
 ## Data Needed Before Specialist Review
 
@@ -99,6 +104,9 @@ birth date
 - Is the record packet complete enough for trial or referral screening, or
   should missing diagnosis, immune, iron, organ, and access data be collected
   first?
+- Is the advanced-therapy referral packet still
+  `advanced_therapy_referral_packet_missing`, or ready for specialist
+  screening?
 - If advanced therapy is discussed, is the relevant route beta-globin
   gene-addition, HbF-reactivation editing, HSCT, or only supportive
   disease-modifying therapy?
@@ -127,5 +135,6 @@ repo without a licensed hematologist.
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
+- [Case-001 advanced therapy referral readiness gate](../findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md)
 - [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [Gene and cell therapy registry product map](../findings/2026-04-27-gene-cell-therapy-registry-product-map.md)

@@ -1,0 +1,241 @@
+{
+  "count": 10,
+  "query": "serum ferritin myocardial T2* thalassemia liver iron",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31413542"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6659783"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6659783;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2147/DDDT.S211630"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "211630"
+        }
+      ],
+      "journal": "Drug Des Devel Ther",
+      "pmid": "31413542",
+      "pubdate": "2019",
+      "title": "A randomized controlled trial evaluating the effects of amlodipine on myocardial iron deposition in pediatric patients with thalassemia major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37031371"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10082945"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10082945;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5144/0256-4947.2023.90"
+        }
+      ],
+      "journal": "Ann Saudi Med",
+      "pmid": "37031371",
+      "pubdate": "2023 Mar-Apr",
+      "title": "Optimized serum ferritin prediction of iron overload in transfusion-dependent thalassemia: likelihood ratio and age-adjustment approach."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22839111"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/08880018.2012.708891"
+        }
+      ],
+      "journal": "Pediatr Hematol Oncol",
+      "pmid": "22839111",
+      "pubdate": "2012 Sep",
+      "title": "T2* MRI in regularly transfused children with thalassemia intermedia: serum ferritin does not reflect liver iron stores."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "22943064"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3109/15376516.2012.727198"
+        }
+      ],
+      "journal": "Toxicol Mech Methods",
+      "pmid": "22943064",
+      "pubdate": "2013 Jan",
+      "title": "Liver iron and serum ferritin levels are misleading for estimating cardiac, pancreatic, splenic and total body iron load in thalassemia patients: factors influencing the heterogenic distribution of excess storage iron in organs as identified by MRI T2*."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29458732"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.hoc.2017.11.012"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0889-8588(17)30214-9"
+        }
+      ],
+      "journal": "Hematol Oncol Clin North Am",
+      "pmid": "29458732",
+      "pubdate": "2018 Apr",
+      "title": "MRI for Iron Overload in Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39104823"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11300088"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11300088;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2024/8842016"
+        }
+      ],
+      "journal": "Cardiol Res Pract",
+      "pmid": "39104823",
+      "pubdate": "2024",
+      "title": "Beta-Thalassemia Major and Myocardial Iron Overload: A Longitudinal Study with Magnetic Resonance Imaging."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28673501"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tracli.2017.06.008"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1246-7820(17)30089-7"
+        }
+      ],
+      "journal": "Transfus Clin Biol",
+      "pmid": "28673501",
+      "pubdate": "2017 Sep",
+      "title": "Management of iron overload in hemoglobinopathies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35092347"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/pbc.29564"
+        }
+      ],
+      "journal": "Pediatr Blood Cancer",
+      "pmid": "35092347",
+      "pubdate": "2022 Jun",
+      "title": "Comparison of the effects of calcium channel blockers plus iron chelation therapy versus chelation therapy only on iron overload in children and young adults with transfusion-dependent thalassemia: A randomized double-blind placebo-controlled trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39368520"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.mri.2024.110250"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0730-725X(24)00231-5"
+        }
+      ],
+      "journal": "Magn Reson Imaging",
+      "pmid": "39368520",
+      "pubdate": "2024 Dec",
+      "title": "Early detection of myocardial iron overload in patients with \u03b2-thalassemia major using cardiac magnetic resonance T1 mapping."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30704764"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.therap.2018.11.013"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0040-5957(19)30004-6"
+        }
+      ],
+      "journal": "Therapie",
+      "pmid": "30704764",
+      "pubdate": "2019 Oct",
+      "title": "Pantoprazole reduces serum ferritin in patients with thalassemia major and intermedia: A randomized, controlled study."
+    }
+  ]
+}

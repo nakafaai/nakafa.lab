@@ -1,0 +1,182 @@
+{
+  "count": 7,
+  "query": "transfusion dependent thalassemia cardiac T2* liver iron concentration ferritin chelation monitoring",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31882227"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.clinthera.2019.12.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0149-2918(19)30586-7"
+        }
+      ],
+      "journal": "Clin Ther",
+      "pmid": "31882227",
+      "pubdate": "2020 Feb",
+      "title": "Systematic Literature Review of the Burden of Disease and Treatment for Transfusion-dependent \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29663188"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s11547-018-0889-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s11547-018-0889-0"
+        }
+      ],
+      "journal": "Radiol Med",
+      "pmid": "29663188",
+      "pubdate": "2018 Aug",
+      "title": "Magnetic resonance imaging during management of patients with transfusion-dependent thalassemia: a single-center experience."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31723837"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6746020"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6746020;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/HS9.0000000000000224"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "HemaSphere-2018-0178"
+        }
+      ],
+      "journal": "Hemasphere",
+      "pmid": "31723837",
+      "pubdate": "2019 Jun",
+      "title": "Cardiac and hepatic siderosis in myelodysplastic syndrome, thalassemia and diverse causes of transfusion-dependent anemia: the TIMES study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29120023"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4414/smw.2017.14550"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "smw-14550"
+        }
+      ],
+      "journal": "Swiss Med Wkly",
+      "pmid": "29120023",
+      "pubdate": "2017",
+      "title": "Role of liver magnetic resonance imaging in hyperferritinaemia and the diagnosis of iron overload."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18192103"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/BF02983992"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "X031462U00128437"
+        }
+      ],
+      "journal": "Int J Hematol",
+      "pmid": "18192103",
+      "pubdate": "2007 Dec",
+      "title": "comparison of effects of different long-term iron-chelation regimens on myocardial and hepatic iron concentrations assessed with T2* magnetic resonance imaging in patients with beta-thalassemia major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41893322"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13027618"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13027618;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/metabo16030170"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "metabo16030170"
+        }
+      ],
+      "journal": "Metabolites",
+      "pmid": "41893322",
+      "pubdate": "2026 Mar 5",
+      "title": "Serum Metabolomic Signatures Indicate Oxidative Membrane Lipid Remodeling in \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20661572"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-010-1029-7"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "20661572",
+      "pubdate": "2011 Jan",
+      "title": "Deferasirox effectively decreases iron burden in patients with double heterozygous HbS/\u03b2-thalassemia."
+    }
+  ]
+}

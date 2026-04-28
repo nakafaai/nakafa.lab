@@ -41,6 +41,15 @@ Current notebooks:
 - `2026-04-28-post-cs101-non-editing-gap-rank.ipynb` - computational pressure
   test after `CS-101`, keeping editing and luspatercept plus thalidomide as
   benchmarks while preserving PF-06409577 as the first expansion assay probe.
+- `2026-04-28-case001-high-hbf-genotype-evidence-gap.ipynb` - de-identified
+  case gate that ranks missing `HBB`, `HBA1/HBA2`, and HPFH/HBG-modifier
+  records before interpreting historical high HbF.
+- `2026-04-28-case001-immune-transfusion-record-gate.ipynb` - de-identified
+  case gate that ranks missing antibody, DAT, matching, reaction, spleen, and
+  transfusion volume records before interpreting weekly transfusion.
+- `2026-04-28-case001-iron-chelation-organ-risk-record-gate.ipynb` -
+  de-identified case gate that ranks missing ferritin trend, LIC, cardiac
+  `T2*`, chelation, toxicity, and organ-risk records.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

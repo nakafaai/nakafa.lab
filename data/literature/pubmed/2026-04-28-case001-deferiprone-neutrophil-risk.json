@@ -1,0 +1,226 @@
+{
+  "count": 10,
+  "query": "deferiprone thalassemia agranulocytosis monitoring",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "20712776"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1749-6632.2010.05586.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "NYAS5586"
+        }
+      ],
+      "journal": "Ann N Y Acad Sci",
+      "pmid": "20712776",
+      "pubdate": "2010 Aug",
+      "title": "Deferiprone."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28448199"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/17474086.2017.1318052"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "28448199",
+      "pubdate": "2017 Jun",
+      "title": "Deferiprone for the treatment of transfusional iron overload in thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27415835"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5129477"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5129477;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.24479"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "27415835",
+      "pubdate": "2016 Oct",
+      "title": "Deferiprone-induced agranulocytosis: 20 years of clinical observations."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25809173"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.24024"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "25809173",
+      "pubdate": "2015 Jul",
+      "title": "Deferiprone versus deferoxamine in thalassemia intermedia: Results from a 5-year long-term Italian multicenter randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31876777"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPH.0000000000001699"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00043426-202011000-00018"
+        }
+      ],
+      "journal": "J Pediatr Hematol Oncol",
+      "pmid": "31876777",
+      "pubdate": "2020 Nov",
+      "title": "Neutropenia and Life-threatening Agranulocytosis Among Children With \u03b2-Thalassemia Treated With Oral Iron Chelators in a Community With Background of Ethnic Neutropenia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "7877649"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1056/NEJM199504063321404"
+        }
+      ],
+      "journal": "N Engl J Med",
+      "pmid": "7877649",
+      "pubdate": "1995 Apr 6",
+      "title": "Iron-chelation therapy with oral deferiprone in patients with thalassemia major."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23616917"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC3627318"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC3627318;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/2040620712450252"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1177_2040620712450252"
+        }
+      ],
+      "journal": "Ther Adv Hematol",
+      "pmid": "23616917",
+      "pubdate": "2012 Oct",
+      "title": "Safety and efficacy of iron chelation therapy with deferiprone in patients with transfusion-dependent thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24376176"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/pbc.24920"
+        }
+      ],
+      "journal": "Pediatr Blood Cancer",
+      "pmid": "24376176",
+      "pubdate": "2014 May",
+      "title": "Deviating from safety guidelines during deferiprone therapy in clinical practice may not be associated with higher risk of agranulocytosis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "9429839"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2165/00002018-199717060-00006"
+        }
+      ],
+      "journal": "Drug Saf",
+      "pmid": "9429839",
+      "pubdate": "1997 Dec",
+      "title": "A risk-benefit assessment of iron-chelation therapy."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17344464"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/blood-2007-02-065805"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)41385-0"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "17344464",
+      "pubdate": "2007 Jun 15",
+      "title": "Fatal agranulocytosis after deferiprone therapy in a child with Diamond-Blackfan anemia."
+    }
+  ]
+}

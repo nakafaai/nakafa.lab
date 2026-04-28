@@ -40,6 +40,10 @@ birth date
 - Current iron-status label: `iron_packet_missing` until ferritin trend, liver
   iron concentration, cardiac `T2*`, chelation, and organ monitoring are
   documented.
+- Current iron/chelation sublabels: `chelation_review_needed`,
+  `toxicity_review_needed`, and `organ_screen_incomplete` until chelator
+  identity, dose, adherence, tolerability, kidney/liver/blood-count monitoring,
+  and endocrine/bone/heart/liver/spleen context are documented.
 - Current immune/transfusion label: `immune_transfusion_packet_missing` until
   antibody screen, named alloantibodies, DAT/direct Coombs specificity, matching
   policy, crossmatch history, delayed reaction history, spleen status, and
@@ -67,6 +71,11 @@ birth date
   interfering antibodies make serology hard.
 - Ferritin trend plus liver iron concentration and cardiac T2* MRI if available.
 - Current chelation medicine, dose, adherence, side effects, and monitoring.
+- Kidney, liver, blood-count, hearing, eye, GI, and interaction monitoring as
+  relevant to the exact chelator.
+- Endocrine and bone monitoring: glucose or diabetes status, thyroid,
+  parathyroid, gonadal axis, vitamin D, growth/puberty history if relevant, and
+  bone health.
 - Spleen status.
 - Liver, heart, endocrine, bone, infection, and vaccination monitoring.
 - Exact autoimmune diagnosis, test basis, symptoms, and treatment.
@@ -81,6 +90,8 @@ birth date
   autoantibodies, hypersplenism, hemolysis, or under-matching?
 - Is iron overload monitoring complete enough, including liver and cardiac MRI?
 - Is current chelation optimal and tolerated?
+- Is the exact chelator safety packet complete enough for kidney, liver,
+  blood-count, hearing, eye, GI, and interaction review?
 - Does the organ-risk packet require endocrine, cardiac, liver, kidney, or bone
   follow-up before disease-modifying options are judged?
 - Should this case be evaluated for luspatercept, mitapivat, HSCT, gene therapy,
@@ -114,5 +125,6 @@ repo without a licensed hematologist.
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
+- [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [Gene and cell therapy registry product map](../findings/2026-04-27-gene-cell-therapy-registry-product-map.md)

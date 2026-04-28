@@ -45,6 +45,7 @@ marked unknown:
 | Jaundice, dark urine, malaise, fever, or unexpected Hb fall after transfusion | delayed hemolysis lane | delayed reactions can appear days after transfusion and change the interpretation of weekly need | ask for repeat blood-bank workup and reaction history |
 | Immune/transfusion records are missing while weekly transfusion and autoimmune history are reported | immune-transfusion record gate | the repo cannot tell whether weekly need is genotype-only, volume/schedule, immune loss, delayed hemolysis, or hypersplenism | keep `immune_transfusion_packet_missing` until antibody screen, DAT, matching policy, red-cell phenotype/genotype, reaction history, spleen status, and volume/Hb trend are known |
 | High ferritin, ferritin-only monitoring, high liver iron, abnormal or missing cardiac `T2*`, incomplete endocrine/organ screen, or chelator toxicity | iron-overload organ-risk gate | iron risk can be the urgent harm even before a cure exists, and ferritin alone can miss organ-specific risk | assign `iron_packet_missing`, `ferritin_trend_only`, `lic_known`, `cardiac_t2star_known`, `organ_screen_incomplete`, `chelation_review_needed`, `toxicity_review_needed`, or `specialist_managed` |
+| Weekly transfusion plus daily chelation are reported, but the iron/chelation packet is missing | case-001 iron chelation organ-risk record gate | the repo cannot interpret iron input, organ distribution, chelation coverage, or drug-safety risk from transfusion frequency alone | keep `iron_packet_missing` plus `chelation_review_needed`, `toxicity_review_needed`, and `organ_screen_incomplete` until records are known |
 | Enlarged spleen, low platelets/WBC, or suspected hypersplenism | spleen and red-cell survival lane | hypersplenism can increase blood requirement and confound candidate response | record spleen status before interpreting HbF or transfusion response |
 | Autoimmune diagnosis or immune medicines | safety/exclusion lane | immune context can change feasibility of sirolimus, thalidomide-class, transplant, or trial eligibility | do not promote immune-active candidates without clinician review |
 | Doctor says luspatercept, mitapivat, HSCT, gene therapy, or CRISPR therapy is relevant | access and benchmark lane | current therapies define the strongest real-world endpoint standard | capture why it is possible, inaccessible, unsuitable, or not indicated |
@@ -118,6 +119,7 @@ material into a thalassemia treatment claim.
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
+- [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [Clinical timeline data packet](../findings/2026-04-27-clinical-timeline-data-packet.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)

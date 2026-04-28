@@ -68,7 +68,7 @@ Use medical records where possible:
 | Blood matching | ABO, Rh C/c, Rh D, Rh E/e, Kell, extended matching policy |
 | Immune/transfusion | antibody screen, named alloantibodies, DAT/direct Coombs, crossmatch difficulty |
 | Iron overload | ferritin trend, liver iron concentration MRI, cardiac `T2*` |
-| Chelation | drug name, dose, adherence, side effects, kidney/liver monitoring |
+| Chelation | drug name, dose, schedule, adherence, side effects, kidney/liver/blood-count monitoring, and interaction context |
 | Organ monitoring | liver, heart, endocrine, bone, infection, vaccination, spleen status |
 | Autoimmune issue | exact diagnosis, tests, symptoms, medicines, specialist notes |
 
@@ -90,6 +90,10 @@ Questions:
   current organ risk clearly enough?
 - Is the chelator name, dose, adherence, tolerability, kidney/liver monitoring,
   and interaction risk fully documented?
+- If deferiprone, deferasirox, deferoxamine, or combination chelation is used,
+  which drug-specific monitoring is required for this patient?
+- Are blood-count, kidney, liver, hearing, eye, GI, and interaction checks
+  current enough to judge chelation safety?
 - Could autoimmune disease, immune medicines, infection, hepatitis, or
   inflammation make ferritin harder to interpret?
 
@@ -200,6 +204,7 @@ clinicians.
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
+- [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Case-001 genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md)
 - [De-identified case context](deidentified-case-001.md)

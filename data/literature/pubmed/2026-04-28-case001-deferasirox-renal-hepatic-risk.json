@@ -1,0 +1,52 @@
+{
+  "count": 2,
+  "query": "deferasirox thalassemia renal hepatic safety monitoring",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24460655"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4232858"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4232858;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ejh.12270"
+        }
+      ],
+      "journal": "Eur J Haematol",
+      "pmid": "24460655",
+      "pubdate": "2014 Jun",
+      "title": "Approaching low liver iron burden in chelated patients with non-transfusion-dependent thalassemia: the safety profile of deferasirox."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21129294"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1009-2137(2010)05-1359-06"
+        }
+      ],
+      "journal": "Zhongguo Shi Yan Xue Ye Xue Za Zhi",
+      "pmid": "21129294",
+      "pubdate": "2010 Oct",
+      "title": "[Deferasirox--a new oral iron chelator--review]."
+    }
+  ]
+}

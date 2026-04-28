@@ -1,0 +1,226 @@
+{
+  "count": 10,
+  "query": "iron chelation thalassemia safety monitoring deferasirox deferiprone deferoxamine",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27186943"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/nyas.13088"
+        }
+      ],
+      "journal": "Ann N Y Acad Sci",
+      "pmid": "27186943",
+      "pubdate": "2016 Mar",
+      "title": "Current recommendations for chelation for transfusion-dependent thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26613264"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1586/17474086.2016.1126176"
+        }
+      ],
+      "journal": "Expert Rev Hematol",
+      "pmid": "26613264",
+      "pubdate": "2016",
+      "title": "Clinical monitoring and management of complications related to chelation therapy in patients with \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28221264"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPH.0000000000000780"
+        }
+      ],
+      "journal": "J Pediatr Hematol Oncol",
+      "pmid": "28221264",
+      "pubdate": "2017 Apr",
+      "title": "Efficacy and Safety of Combined Oral Chelation With Deferiprone and Deferasirox in Children With \u03b2-Thalassemia Major: An Experience From North India."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25809173"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.24024"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "25809173",
+      "pubdate": "2015 Jul",
+      "title": "Deferiprone versus deferoxamine in thalassemia intermedia: Results from a 5-year long-term Italian multicenter randomized clinical trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23688354"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1517/14740338.2013.799664"
+        }
+      ],
+      "journal": "Expert Opin Drug Saf",
+      "pmid": "23688354",
+      "pubdate": "2013 Sep",
+      "title": "A record number of fatalities in many categories of patients treated with deferasirox: loopholes in regulatory and marketing procedures undermine patient safety and misguide public funds?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17480173"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1517/14740338.6.3.235"
+        }
+      ],
+      "journal": "Expert Opin Drug Saf",
+      "pmid": "17480173",
+      "pubdate": "2007 May",
+      "title": "Deferasirox: uncertain future following renal failure fatalities, agranulocytosis and other toxicities."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "30811439"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6392256"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6392256;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1371/journal.pone.0211942"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "PONE-D-18-20266"
+        }
+      ],
+      "journal": "PLoS One",
+      "pmid": "30811439",
+      "pubdate": "2019",
+      "title": "Single-center retrospective study of the effectiveness and toxicity of the oral iron chelating drugs deferiprone and deferasirox."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23963793"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11491190"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11491190;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/14651858.CD004450.pub3"
+        }
+      ],
+      "journal": "Cochrane Database Syst Rev",
+      "pmid": "23963793",
+      "pubdate": "2013 Aug 21",
+      "title": "Desferrioxamine mesylate for managing transfusional iron overload in people with transfusion-dependent thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23460233"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/ajh.23386"
+        }
+      ],
+      "journal": "Am J Hematol",
+      "pmid": "23460233",
+      "pubdate": "2013 Apr",
+      "title": "Deferiprone (GPO-L-ONE(\u00ae) ) monotherapy reduces iron overload in transfusion-dependent thalassemias: 1-year results from a multicenter prospective, single arm, open label, dose escalating phase III pediatric study (GPO-L-ONE; A001) from Thailand."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34357152"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8304852"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8304852;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3390/medicines8070036"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "medicines8070036"
+        }
+      ],
+      "journal": "Medicines (Basel)",
+      "pmid": "34357152",
+      "pubdate": "2021 Jul 7",
+      "title": "Differences between the European Union and United States of America in Drug Regulatory Affairs Affect Global Patient Safety Standards and Public Health Awareness: The Case of Deferasirox and Other Iron Chelating Drugs."
+    }
+  ]
+}

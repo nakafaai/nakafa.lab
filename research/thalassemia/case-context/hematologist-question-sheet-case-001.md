@@ -43,6 +43,10 @@ Use medical records where possible:
 3. Is weekly transfusion expected for this subtype, or does it suggest another
    issue such as poor red-cell survival, alloantibodies, autoantibodies,
    hypersplenism, under-matching, or hemolysis?
+   Can the doctor label the immune/transfusion packet as
+   `immune_transfusion_packet_missing`, `antibody_history_known`,
+   `dat_status_known`, `matching_policy_known`, `red_cell_genotype_known`,
+   `delayed_reaction_history_known`, or `transfusion_survival_under_review`?
 4. Is the current transfusion target aligned with modern TDT care, including
    pre-transfusion hemoglobin target and transfusion volume?
 5. Is iron overload monitoring complete enough: ferritin trend, liver iron
@@ -195,6 +199,7 @@ clinicians.
 - [Clinician review brief](clinician-brief-case-001.md)
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
+- [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Case-001 genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md)
 - [De-identified case context](deidentified-case-001.md)

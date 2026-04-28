@@ -1,0 +1,98 @@
+{
+  "count": 4,
+  "query": "beta thalassemia autoimmune hemolytic anemia direct antiglobulin test transfusion",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31302454"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2019.102342"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(19)30230-X"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "31302454",
+      "pubdate": "2019 Nov",
+      "title": "Predictors of autoimmune hemolytic anemia in beta-thalassemia patients with underlying red blood cells autoantibodies."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38200206"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10782003"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10782003;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-024-51561-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-024-51561-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "38200206",
+      "pubdate": "2024 Jan 10",
+      "title": "Red blood cell alloimmunization in blood transfusion-dependent \u03b2 thalassemia major patients in Sana'a City-Yemen."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "19788508"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/j.1537-2995.2009.02399.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "TRF2399"
+        }
+      ],
+      "journal": "Transfusion",
+      "pmid": "19788508",
+      "pubdate": "2010 Feb",
+      "title": "Delayed hemolytic transfusion reaction with hyperhemolysis after first red blood cell transfusion in child with beta-thalassemia: challenges in treatment."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "1903176"
+        }
+      ],
+      "journal": "Monatsschr Kinderheilkd",
+      "pmid": "1903176",
+      "pubdate": "1991 Jan",
+      "title": "[Controlled immunoglobulin therapy in immune hemolytic anemia by positive pool immunoglobulin fluorescence test]."
+    }
+  ]
+}

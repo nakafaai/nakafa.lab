@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "red blood cell genotyping thalassemia alloimmunization transfusion",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "27345938"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.tmrv.2016.05.011"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0887-7963(16)30019-0"
+        }
+      ],
+      "journal": "Transfus Med Rev",
+      "pmid": "27345938",
+      "pubdate": "2016 Oct",
+      "title": "Red Blood Cell Antigen Genotyping for Sickle Cell Disease, Thalassemia, and Other Transfusion Complications."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37023228"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10469551"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10469551;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/bloodadvances.2022008647"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "495234"
+        }
+      ],
+      "journal": "Blood Adv",
+      "pmid": "37023228",
+      "pubdate": "2023 Sep 12",
+      "title": "Proinflammatory state promotes red blood cell alloimmunization in pediatric patients with sickle cell disease."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31753776"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2019.102678"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(19)30242-3"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "31753776",
+      "pubdate": "2019 Dec",
+      "title": "Red cell alloimmunization in transfusion-dependent and transfusion-independent beta thalassemia: A review from the Eastern Mediterranean Region (EMRO)."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "24117723"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/vox.12086"
+        }
+      ],
+      "journal": "Vox Sang",
+      "pmid": "24117723",
+      "pubdate": "2014 Apr",
+      "title": "Red blood cell alloimmunization in sickle cell disease and in thalassaemia: current status, future perspectives and potential role of molecular typing."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31758587"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/trf.15599"
+        }
+      ],
+      "journal": "Transfusion",
+      "pmid": "31758587",
+      "pubdate": "2020 Jan",
+      "title": "How do I incorporate red cell genotyping to improve chronic transfusion therapy?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12357449"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC6807763"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC6807763;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcla.10044"
+        }
+      ],
+      "journal": "J Clin Lab Anal",
+      "pmid": "12357449",
+      "pubdate": "2002",
+      "title": "Blood group genotyping facilitates transfusion of beta-thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28234571"
+        },
+        {
+          "idtype": "mid",
+          "idtypen": 8,
+          "value": "NIHMS951329"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC5873318"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC5873318;manuscript-id: NIHMS951329;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.5858/arpa.2016-0277-SA"
+        }
+      ],
+      "journal": "Arch Pathol Lab Med",
+      "pmid": "28234571",
+      "pubdate": "2017 Mar",
+      "title": "Genotyping Applications for Transplantation and Transfusion Management: The Emory Experience."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37665129"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10623514"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10623514;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcla.24962"
+        }
+      ],
+      "journal": "J Clin Lab Anal",
+      "pmid": "37665129",
+      "pubdate": "2023 Sep",
+      "title": "Characterization of pediatric transfusion-dependent thalassemia patients in a large academic center."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31326292"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2019.06.026"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(19)30130-2"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "31326292",
+      "pubdate": "2020 Feb",
+      "title": "Comparison of serology and molecular detection of common red cell antigens in multitransfused thalassemia major and sickle cell disease patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "34420880"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2021.103257"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(21)00249-4"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "34420880",
+      "pubdate": "2021 Oct",
+      "title": "Alloimmunization in transfused patients with constitutional anemias in Norway."
+    }
+  ]
+}

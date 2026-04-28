@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "query": "41263205",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41263205"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/aam.aam_308_25"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "01244624-990000000-00382"
+        }
+      ],
+      "journal": "Ann Afr Med",
+      "pmid": "41263205",
+      "pubdate": "2025 Nov 20",
+      "title": "Prevalence of Alloantibodies in Transfusion-dependent Thalassemia Patients."
+    }
+  ]
+}

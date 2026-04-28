@@ -40,6 +40,10 @@ birth date
 - Current iron-status label: `iron_packet_missing` until ferritin trend, liver
   iron concentration, cardiac `T2*`, chelation, and organ monitoring are
   documented.
+- Current immune/transfusion label: `immune_transfusion_packet_missing` until
+  antibody screen, named alloantibodies, DAT/direct Coombs specificity, matching
+  policy, crossmatch history, delayed reaction history, spleen status, and
+  transfusion volume/Hb trend are documented.
 - Current trial/referral label: `trial_referral_not_ready` until exact subtype,
   genotype, Hb fractions, transfusion burden, antibody/DAT status, iron MRI,
   organ-risk packet, autoimmune diagnosis, and access history are documented.
@@ -105,6 +109,7 @@ repo without a licensed hematologist.
 - [Clinical baseline checklist](../findings/2026-04-26-clinical-baseline-checklist.md)
 - [Immune and transfusion complication lane](../findings/2026-04-27-immune-transfusion-complication-lane.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
+- [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)

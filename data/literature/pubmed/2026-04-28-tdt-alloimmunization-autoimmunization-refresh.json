@@ -1,0 +1,251 @@
+{
+  "count": 10,
+  "query": "transfusion dependent thalassemia alloimmunization autoimmunization autoantibodies",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "32488601"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-020-04104-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-020-04104-4"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "32488601",
+      "pubdate": "2020 Dec",
+      "title": "Alloimmunization and autoimmunization in adult transfusion-dependent thalassemia patients: a report from a comprehensive center in Israel."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "25161344"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4140069"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4140069;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.4103/0973-6247.137438"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AJTS-8-84"
+        }
+      ],
+      "journal": "Asian J Transfus Sci",
+      "pmid": "25161344",
+      "pubdate": "2014 Jul",
+      "title": "Alloimmunization and autoimmunization in transfusion dependent thalassemia major patients: Study on 319 patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11071629"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0006-4971(20)48272-2"
+        }
+      ],
+      "journal": "Blood",
+      "pmid": "11071629",
+      "pubdate": "2000 Nov 15",
+      "title": "Alloimmunization and erythrocyte autoimmunization in transfusion-dependent thalassemia patients of predominantly asian descent."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "14617321"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1046/j.1537-2995.2003.00549.x"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "549"
+        }
+      ],
+      "journal": "Transfusion",
+      "pmid": "14617321",
+      "pubdate": "2003 Nov",
+      "title": "RBC alloimmunization and autoimmunization among transfusion-dependent Arab thalassemia patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "37665129"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10623514"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10623514;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jcla.24962"
+        }
+      ],
+      "journal": "J Clin Lab Anal",
+      "pmid": "37665129",
+      "pubdate": "2023 Sep",
+      "title": "Characterization of pediatric transfusion-dependent thalassemia patients in a large academic center."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38200206"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC10782003"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC10782003;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41598-024-51561-2"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41598-024-51561-2"
+        }
+      ],
+      "journal": "Sci Rep",
+      "pmid": "38200206",
+      "pubdate": "2024 Jan 10",
+      "title": "Red blood cell alloimmunization in blood transfusion-dependent \u03b2 thalassemia major patients in Sana'a City-Yemen."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21792035"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1097/MPH.0b013e3182208154"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "00043426-201108000-00003"
+        }
+      ],
+      "journal": "J Pediatr Hematol Oncol",
+      "pmid": "21792035",
+      "pubdate": "2011 Aug",
+      "title": "Alloimmunization and erythrocyte autoimmunization in transfusion-dependent Egyptian thalassemic patients."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26022583"
+        }
+      ],
+      "journal": "Turk J Pediatr",
+      "pmid": "26022583",
+      "pubdate": "2014 Sep-Oct",
+      "title": "Frequency of red cell allo- and autoimmunization in patients with transfusion-dependent beta thalassemia and affecting factors."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "26425124"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC4575732"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC4575732;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1155/2015/610931"
+        }
+      ],
+      "journal": "Adv Hematol",
+      "pmid": "26425124",
+      "pubdate": "2015",
+      "title": "Frequency of Red Cell Alloimmunization and Autoimmunization in Thalassemia Patients: A Report from Eastern India."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "21889408"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.transci.2011.08.003"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1473-0502(11)00141-8"
+        }
+      ],
+      "journal": "Transfus Apher Sci",
+      "pmid": "21889408",
+      "pubdate": "2011 Oct",
+      "title": "High frequency of autoimmunization among transfusion-dependent Tunisian thalassaemia patients."
+    }
+  ]
+}

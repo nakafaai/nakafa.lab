@@ -43,6 +43,7 @@ marked unknown:
 | High baseline HbF or HbF modifier signal | responder-signature lane | natural protection can explain phenotype and guide candidate interpretation | document `XmnI-HBG2`, `BCL11A`, `HBS1L-MYB`, and HPFH-like variants if available |
 | Positive antibody screen, named alloantibodies, positive `DAT`, AIHA, or crossmatch difficulty | immune-transfusion lane | immune red-cell loss can mimic treatment failure or increase transfusion need | require red-cell survival, hemolysis, antibody, and blood-bank review gates |
 | Jaundice, dark urine, malaise, fever, or unexpected Hb fall after transfusion | delayed hemolysis lane | delayed reactions can appear days after transfusion and change the interpretation of weekly need | ask for repeat blood-bank workup and reaction history |
+| Immune/transfusion records are missing while weekly transfusion and autoimmune history are reported | immune-transfusion record gate | the repo cannot tell whether weekly need is genotype-only, volume/schedule, immune loss, delayed hemolysis, or hypersplenism | keep `immune_transfusion_packet_missing` until antibody screen, DAT, matching policy, red-cell phenotype/genotype, reaction history, spleen status, and volume/Hb trend are known |
 | High ferritin, ferritin-only monitoring, high liver iron, abnormal or missing cardiac `T2*`, incomplete endocrine/organ screen, or chelator toxicity | iron-overload organ-risk gate | iron risk can be the urgent harm even before a cure exists, and ferritin alone can miss organ-specific risk | assign `iron_packet_missing`, `ferritin_trend_only`, `lic_known`, `cardiac_t2star_known`, `organ_screen_incomplete`, `chelation_review_needed`, `toxicity_review_needed`, or `specialist_managed` |
 | Enlarged spleen, low platelets/WBC, or suspected hypersplenism | spleen and red-cell survival lane | hypersplenism can increase blood requirement and confound candidate response | record spleen status before interpreting HbF or transfusion response |
 | Autoimmune diagnosis or immune medicines | safety/exclusion lane | immune context can change feasibility of sirolimus, thalidomide-class, transplant, or trial eligibility | do not promote immune-active candidates without clinician review |
@@ -114,6 +115,7 @@ material into a thalassemia treatment claim.
 - [FDA mitapivat approval summary](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder)
 - [Weekly transfusion differential map](../findings/2026-04-27-weekly-transfusion-differential-map.md)
 - [Immune transfusion risk extraction](../findings/2026-04-27-immune-transfusion-risk-extraction.md)
+- [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Curative options eligibility gate](../findings/2026-04-27-curative-options-eligibility-gate.md)
 - [Iron overload organ-risk gate](../findings/2026-04-27-iron-overload-organ-risk-gate.md)
 - [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)

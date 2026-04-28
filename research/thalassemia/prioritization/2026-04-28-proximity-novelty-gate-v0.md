@@ -17,6 +17,9 @@ editing and non-editing benchmarks were identified:
 - `VGB-Ex01` / `NCT06041620`: ex vivo `HBG1/2` promoter editing with HbF,
   alpha-chain burden, red-cell survival, hemolysis, and transfusion-need logic
   in the registry description.
+- `YOLT-204`: `NCT06678165` is a TDT-specific China registry watchlist record,
+  while `NCT07190001` is a separate mixed hemoglobinopathy/SCD-leaning record
+  with HbF, F-cell, intended-modification, and transfusion endpoints.
 - `NCT07338344`: luspatercept plus low-dose thalidomide, a non-editing
   pharmacologic trial with transfusion burden, HbF/gamma-globin, hemolysis,
   iron, and safety endpoints.
@@ -43,7 +46,7 @@ If that answer is vague, the candidate stays `hold` or `reject`.
 | `affordability_gap` | The lane could reduce cost, access burden, or infrastructure compared with known benchmarks. | Keep only if identity and safety gates are strong. |
 | `safety_gap` | The lane could avoid myeloablation, expensive biologics, thalidomide-class toxicity, or mature red-cell damage. | Promote to assay only if safety readouts are explicit. |
 | `integrated_assay_gap` | The lane has a realistic plan to measure HbF/F-cells, alpha-globin/autophagy, maturation, hemolysis, iron-risk, and access. | Promote to lab-quote candidate if identity and controls are ready. |
-| `novelty_blocked` | The lane does not differ meaningfully from `CS-101`, `VGB-Ex01`, luspatercept plus thalidomide, or known HbF inducer classes. | Do not pitch as novel. |
+| `novelty_blocked` | The lane does not differ meaningfully from `CS-101`, `VGB-Ex01`, YOLT-204, luspatercept plus thalidomide, or known HbF inducer classes. | Do not pitch as novel. |
 
 ## Promotion Rule
 
@@ -84,15 +87,20 @@ scrutiny as the closest editing and non-editing benchmarks.
 - [CS-101 base-editing benchmark](../findings/2026-04-28-cs101-base-editing-benchmark.md)
 - [CS-101 phase 2 escalation gate](../findings/2026-04-28-cs101-phase2-escalation-gate.md)
 - [China HbF editing proximity gate](../findings/2026-04-27-china-hbf-editing-proximity-gate.md)
+- [YOLT-204 registry disambiguation gate](../findings/2026-04-28-yolt204-registry-disambiguation-gate.md)
 - [Non-editing pharmacologic proximity gate](../findings/2026-04-28-non-editing-pharmacologic-proximity-gate.md)
 - [AND017 oral benchmark gate](../findings/2026-04-28-and017-oral-benchmark-gate.md)
 - [`NCT06024876` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06024876-cs101-detail.json)
 - [`NCT07489196` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct07489196-cs101-phase2-detail.json)
 - [`NCT06041620` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct06041620-vgb-ex01-detail.json)
+- [`NCT06678165` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06678165-yolt204-tdt-detail.json)
+- [`NCT07190001` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07190001-yolt204-detail.json)
 - [`NCT07338344` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07338344-luspatercept-thalidomide-detail.json)
 - [`NCT06302491` redacted compact snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06302491-and017-detail.json)
 - [ClinicalTrials.gov `NCT06024876`](https://clinicaltrials.gov/study/NCT06024876)
 - [ClinicalTrials.gov `NCT07489196`](https://clinicaltrials.gov/study/NCT07489196)
 - [ClinicalTrials.gov `NCT06041620`](https://clinicaltrials.gov/study/NCT06041620)
+- [ClinicalTrials.gov `NCT06678165`](https://clinicaltrials.gov/study/NCT06678165)
+- [ClinicalTrials.gov `NCT07190001`](https://clinicaltrials.gov/study/NCT07190001)
 - [ClinicalTrials.gov `NCT07338344`](https://clinicaltrials.gov/study/NCT07338344)
 - [ClinicalTrials.gov `NCT06302491`](https://clinicaltrials.gov/study/NCT06302491)

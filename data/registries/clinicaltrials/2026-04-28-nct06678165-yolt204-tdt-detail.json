@@ -1,0 +1,31 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqVdyqqarumpOQJJxsYPKj2v0ekA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT06678165&pageSize=1&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "China"
+      ],
+      "interventions": [
+        "YOLT-204"
+      ],
+      "last_update": "2024-11-07",
+      "nct_id": "NCT06678165",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "primary_outcomes": [
+        "Treatment-Emergent Adverse Events",
+        "Laboratory Test Findings",
+        "Safety Measurements",
+        "3 months of sustained transfusion reduction",
+        "3 months of transfusion independence"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Pilot Study on the Safety and Efficacy of YOLT-204 for Transfusion-Dependent Beta-Thalassemia"
+    }
+  ],
+  "total_count": 1
+}

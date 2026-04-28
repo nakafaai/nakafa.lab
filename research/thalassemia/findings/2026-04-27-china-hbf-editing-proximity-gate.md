@@ -29,7 +29,8 @@ That means:
 | Record | Why it matters | Boundary |
 | --- | --- | --- |
 | `NCT06041620` / `VGB-Ex01` | CRISPR-Cas12b edited HSCs for TDT. The record links `HBG1/2` promoter editing to HbF, alpha-chain burden, red-cell survival, hemolysis, and transfusion need. | Very close mechanistically, but it is ex vivo HSC gene editing with transplant-style infrastructure and long follow-up, not an affordable small-molecule or natural-product screen. |
-| `NCT07190001` / `YOLT-204` | Hemoglobinopathy trial with sustained HbF >=20%, transfusion reduction, HbF concentration, and F-cell proportion outcomes. | Registry condition includes TDT and SCD, but eligibility text is heavily SCD-genotype oriented in this snapshot. Treat as a high-interest but ambiguous HbF-reactivation record until protocol details are clarified. |
+| `NCT06678165` / `YOLT-204` | TDT-specific YOLT-204 pilot record with safety, laboratory, sustained transfusion-reduction, and 3-month transfusion-independence primary endpoints. | High-interest China registry watchlist record, but not yet recruiting in the compact source pass and no posted results. |
+| `NCT07190001` / `YOLT-204` | Hemoglobinopathy trial with sustained HbF >=20%, transfusion reduction, HbF concentration, intended-modification, and F-cell proportion outcomes. | Registry condition includes TDT and SCD, but eligibility text is heavily SCD-genotype oriented in this snapshot. Track separately from the TDT-specific YOLT-204 record. |
 | `NCT07338344` / luspatercept plus low-dose thalidomide | Randomized China phase 2 trial in adult beta-TDT with transfusion-burden, HbF, gamma-globin, hemolysis indices, iron deposition, and safety readouts. | Clinically important pharmacologic combination, but not a cure claim and not a new Nakafa candidate. Luspatercept access/cost and thalidomide safety remain major boundaries. |
 
 ## What This Changes
@@ -72,9 +73,9 @@ Say:
    measurable safety gates.
 4. Add `HBG1/2 promoter editing`, `HbF >=20%`, F-cell percentage, alpha-chain
    burden, and hemolysis to the benchmark terms used in future searches.
-5. Do not promote `YOLT-204` as beta-thalassemia-specific until the TDT/SCD
-   registry ambiguity is resolved by a protocol, publication, or trial contact
-   through a clinician/researcher.
+5. Do not collapse the two YOLT-204 records. Treat `NCT06678165` as the
+   TDT-specific registry watchlist record and `NCT07190001` as a mixed
+   hemoglobinopathy/SCD-leaning HbF/F-cell endpoint record.
 
 ## Public-Repo Handling
 
@@ -85,8 +86,10 @@ location-level contacts were intentionally excluded before committing.
 ## Sources
 
 - [ClinicalTrials.gov NCT06041620, VGB-Ex01](https://clinicaltrials.gov/study/NCT06041620)
+- [ClinicalTrials.gov NCT06678165, YOLT-204 TDT pilot](https://clinicaltrials.gov/study/NCT06678165)
 - [ClinicalTrials.gov NCT07190001, YOLT-204](https://clinicaltrials.gov/study/NCT07190001)
 - [ClinicalTrials.gov NCT07338344, luspatercept plus low-dose thalidomide](https://clinicaltrials.gov/study/NCT07338344)
 - [`NCT06041620` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct06041620-vgb-ex01-detail.json)
+- [`NCT06678165` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06678165-yolt204-tdt-detail.json)
 - [`NCT07190001` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07190001-yolt204-detail.json)
 - [`NCT07338344` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07338344-luspatercept-thalidomide-detail.json)

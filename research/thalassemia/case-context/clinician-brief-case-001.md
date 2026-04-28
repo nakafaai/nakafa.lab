@@ -1,7 +1,9 @@
 # Clinician Review Brief: Case 001
 
 Date prepared: 2026-04-27
-Source: family-reported conversation, not medical records
+Last updated: 2026-04-28
+Source: family-reported conversation plus de-identified extraction from two
+historical local medical-record PDFs
 Privacy: de-identified; no name, address, hospital ID, phone, photo, or exact
 birth date
 
@@ -9,11 +11,24 @@ birth date
 
 - Case ID: `case-001`
 - Age range: young adult, reported age 20
-- Confirmed diagnosis: thalassemia, exact subtype not yet recorded
+- Confirmed diagnosis: historical screening supports a beta-thalassemia
+  phenotype; exact molecular subtype not yet recorded
 - Genotype if available: not yet recorded
+- Current genotype-first label: `phenotype_only`
 - Transfusion schedule: reported weekly
 - Current chelation: daily medicine reported, exact medicine not yet recorded
 - Reported immune/autoimmune issue: yes, exact diagnosis not yet recorded
+
+## Historical Record Facts Now Available
+
+- Infancy thalassemia screening: hemoglobin 3.9 g/dL, MCV 69 fL, MCH
+  22.3 pg, RDW 27.8%, HbA2 2.0%, HbF 97.6%, hemoglobin types A, F, and A2.
+- Historical interpretation: beta-thalassemia homozygous or compound
+  heterozygous disease was considered; beta-plus mutation, HPFH, or
+  alpha-thalassemia co-inheritance remained possible.
+- Separate near-period complete blood count: hemoglobin 3.8 g/dL, hematocrit
+  12.3%, erythrocytes 1.80 x10^6/uL, platelets 170 x10^3/uL, and ESR
+  65 mm/hour.
 
 ## Current Concern
 
@@ -31,9 +46,10 @@ birth date
 
 ## Data Needed Before Specialist Review
 
-- Confirmed thalassemia subtype and phenotype: TDT, NTDT, HbE/beta-thalassemia,
-  alpha-thalassemia, or mixed disease.
-- HPLC or electrophoresis fractions: HbA, HbA2, HbF, HbE if present.
+- Confirmed current thalassemia subtype and phenotype: TDT, NTDT,
+  HbE/beta-thalassemia, alpha-thalassemia, or mixed disease.
+- Current HPLC or electrophoresis fractions: HbA, HbA2, HbF, HbE if present.
+- Whether the historical hemoglobin analysis happened before any transfusion.
 - HBB and HBA genotype if available.
 - Pre-transfusion hemoglobin trend and target.
 - Transfusion records: interval, unit count, blood volume, and reactions.
@@ -83,6 +99,7 @@ repo without a licensed hematologist.
 ## Linked Notes
 
 - [De-identified case context](deidentified-case-001.md)
+- [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Hematologist question sheet](hematologist-question-sheet-case-001.md)
 - [Clinical baseline checklist](../findings/2026-04-26-clinical-baseline-checklist.md)

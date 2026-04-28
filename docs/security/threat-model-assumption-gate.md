@@ -1,6 +1,7 @@
 # Threat Model Assumption Gate
 
 Date opened: 2026-04-27
+Last updated: 2026-04-28
 Status: context check needed before final threat model
 
 ## Why This Exists
@@ -26,6 +27,8 @@ records what is already visible in the repo and what needs founder confirmation.
 - The GitHub repository is intended to remain public.
 - No named patient data, hospital record numbers, exact birth dates, contact
   details, or clinical documents should be committed.
+- Raw medical PDFs should stay outside Git. Only de-identified extracted
+  clinical facts may be committed to the case lane.
 - The current repo is not deployed as a web service; it is a research/document
   repository with local CLI tooling.
 - Any future automation or website will need a separate threat model before
@@ -46,3 +49,7 @@ records what is already visible in the repo and what needs founder confirmation.
 - `docs/repo-hygiene.md` defines public privacy rules.
 - `scripts/check_public_repo.py` checks tracked files for blocked paths and
   common secret patterns.
+- Case-001 medical PDFs are handled as local-only inputs; the repo stores only a
+  de-identified extraction without names, record numbers, exact addresses,
+  facility names, doctor names, phone or fax numbers, signatures, or exact
+  sample dates.

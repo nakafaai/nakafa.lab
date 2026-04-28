@@ -12,6 +12,7 @@ BLOCKED_PATH_PATTERNS = {
     "python cache": re.compile(r"(^|/)__pycache__(/|$)|\.pyc$"),
     "notebook checkpoint": re.compile(r"(^|/)\.ipynb_checkpoints(/|$)"),
     "latex build output": re.compile(r"^paper/build/"),
+    "local scratch output": re.compile(r"(^|/)tmp(/|$)"),
     "private workspace": re.compile(r"(^|/)(private|secrets|credentials)(/|$)"),
     "env file": re.compile(r"(^|/)\.env($|[.])"),
     "private key file": re.compile(r"\.(pem|key|p12|pfx)$"),

@@ -23,6 +23,7 @@ htmlcov/
 .turbo/
 dist/
 build/
+tmp/
 
 # Local secrets and private working material
 .env

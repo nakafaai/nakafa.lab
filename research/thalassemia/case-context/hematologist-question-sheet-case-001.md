@@ -1,7 +1,9 @@
 # Hematologist Question Sheet: Case 001
 
 Date prepared: 2026-04-27
-Source: family-reported context plus Nakafa Lab evidence map
+Last updated: 2026-04-28
+Source: family-reported context, de-identified historical record extraction,
+and Nakafa Lab evidence map
 Privacy: de-identified; no name, address, hospital ID, phone, photo, or exact
 birth date
 Status: clinician conversation aid, not treatment advice
@@ -19,6 +21,8 @@ have been fully reviewed.
 Use medical records where possible:
 
 - Young adult with thalassemia, reported age 20.
+- Historical infancy screening supports a beta-thalassemia phenotype with HbF
+  97.6%, HbA2 2.0%, hemoglobin types A, F, and A2, and severe anemia.
 - Reported transfusion schedule: weekly.
 - Daily chelation or related medicine: yes, exact drug not yet recorded.
 - Reported autoimmune issue: yes, exact diagnosis not yet recorded.
@@ -28,20 +32,23 @@ Use medical records where possible:
 
 1. What exact thalassemia subtype and phenotype does this patient have:
    `TDT`, `NTDT`, HbE/beta-thalassemia, alpha-thalassemia, or mixed disease?
-   Can the doctor confirm the current genotype-first label: `untyped`,
+   Can the doctor confirm the current genotype-first label:
    `phenotype_only`, `hbb_confirmed`, `hbb_hba_confirmed`, or
    `modifier_context_known`?
-2. Is weekly transfusion expected for this subtype, or does it suggest another
+2. Was the historical hemoglobin analysis performed before any transfusion, and
+   does the high HbF reflect age, genotype, HPFH/modifier context, or treatment
+   context?
+3. Is weekly transfusion expected for this subtype, or does it suggest another
    issue such as poor red-cell survival, alloantibodies, autoantibodies,
    hypersplenism, under-matching, or hemolysis?
-3. Is the current transfusion target aligned with modern TDT care, including
+4. Is the current transfusion target aligned with modern TDT care, including
    pre-transfusion hemoglobin target and transfusion volume?
-4. Is iron overload monitoring complete enough: ferritin trend, liver iron
+5. Is iron overload monitoring complete enough: ferritin trend, liver iron
    concentration MRI, and cardiac `T2*`?
-5. Is current chelation optimized and tolerated?
-6. Does the reported autoimmune issue affect transfusion response, compatibility,
+6. Is current chelation optimized and tolerated?
+7. Does the reported autoimmune issue affect transfusion response, compatibility,
    chelation, or eligibility for disease-modifying/curative therapy?
-7. Should this patient be evaluated for luspatercept, mitapivat, HSCT, gene
+8. Should this patient be evaluated for luspatercept, mitapivat, HSCT, gene
    therapy, CRISPR therapy, or a clinical trial?
 
 ## Records To Bring Or Request
@@ -184,6 +191,7 @@ clinicians.
 ## Linked Evidence
 
 - [Clinician review brief](clinician-brief-case-001.md)
+- [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Case-001 genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md)
 - [De-identified case context](deidentified-case-001.md)

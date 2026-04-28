@@ -29,6 +29,7 @@ Generated or local-only files should not enter Git:
 - `.ipynb_checkpoints/`;
 - `.venv/`;
 - `__pycache__/` and `*.pyc`;
+- `tmp/` for local extraction, rendering, and scratch outputs;
 - `paper/build/` and other LaTeX outputs;
 - `.env*`, private keys, credentials, and `private/`.
 

@@ -53,6 +53,9 @@ Current notebooks:
 - `2026-04-28-case001-minimum-hematologist-packet-gate.ipynb` -
   de-identified integration gate that ranks the minimum doctor packet across
   diagnosis, transfusion burden, immune, iron, organ, and referral records.
+- `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
+  gate that blocks raw records, identifiers, local paths, and patient-specific
+  treatment claims before case data enters the public repo.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

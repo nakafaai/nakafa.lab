@@ -61,6 +61,11 @@ Do not commit identifiable patient data:
 Case material must stay de-identified and must separate family-reported context,
 medical records, lab values, repo interpretation, and questions for clinicians.
 
+Use
+[public-case-data-release-checklist.md](../templates/public-case-data-release-checklist.md)
+before adding any case-context update. Raw PDFs, scans, photos, source exports,
+and local file paths are private working material and should not be tracked.
+
 ## Security Checks
 
 Before committing hygiene-sensitive changes, run:
@@ -77,4 +82,5 @@ git diff --check
 ```
 
 `scripts/check_public_repo.py` wraps these public-repo checks in one repeatable
-command. It fails if blocked local paths or common secret patterns are tracked.
+command. It fails if blocked local paths, raw case media, local absolute
+references, or common secret patterns are tracked.

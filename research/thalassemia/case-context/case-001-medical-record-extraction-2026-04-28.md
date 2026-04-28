@@ -106,3 +106,6 @@ or organ-risk packet.
 - Raw clinical PDFs: local-only, not tracked.
 - This extraction: de-identified and suitable for public repo review.
 - Clinical use: only as a question-preparation aid for hematology review.
+- Future updates: use the
+  [public case data release checklist](../../../templates/public-case-data-release-checklist.md)
+  before committing any new extracted case detail.

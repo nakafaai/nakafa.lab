@@ -16,6 +16,14 @@ BLOCKED_PATH_PATTERNS = {
     "private workspace": re.compile(r"(^|/)(private|secrets|credentials)(/|$)"),
     "env file": re.compile(r"(^|/)\.env($|[.])"),
     "private key file": re.compile(r"\.(pem|key|p12|pfx)$"),
+    "raw case media": re.compile(
+        r"(?i)^research/thalassemia/case-context/.+\."
+        r"(pdf|png|jpg|jpeg|heic|tif|tiff)$"
+    ),
+    "raw clinical data media": re.compile(
+        r"(?i)^data/(clinical|case|medical-records)/.+\."
+        r"(pdf|png|jpg|jpeg|heic|tif|tiff)$"
+    ),
 }
 
 SECRET_PATTERNS = {
@@ -25,6 +33,23 @@ SECRET_PATTERNS = {
     ),
     "openai api key": re.compile("s" + "k-" + r"[A-Za-z0-9_-]{20,}"),
     "private key block": re.compile(r"-----BEGIN [A-Z0-9 ]+PRIVATE KEY-----"),
+}
+
+PRIVATE_REFERENCE_PATTERNS = {
+    "local user path": re.compile("/" + "Users/" + r"[^\s)]+"),
+    "mac temporary path": re.compile(
+        "/"
+        + "var/"
+        + "folders/"
+        + r"[^\s)]+"
+        + "|"
+        + "/"
+        + "private/"
+        + "var/"
+        + "folders/"
+        + r"[^\s)]+"
+    ),
+    "local downloads path": re.compile("/" + "Downloads/" + r"[^\s)]*"),
 }
 
 
@@ -48,16 +73,25 @@ def blocked_path_reason(path: str) -> str | None:
     return None
 
 
-def secret_matches(path: str) -> list[str]:
-    """Return secret-pattern names found in one tracked file."""
+def content_matches(path: str) -> list[str]:
+    """Return private-content pattern names found in one tracked file."""
     try:
         content = pathlib.Path(path).read_text(encoding="utf-8", errors="ignore")
     except OSError:
         return [f"could not read {path}"]
 
-    return [
-        name for name, pattern in SECRET_PATTERNS.items() if pattern.search(content)
-    ]
+    matches: list[str] = []
+    matches.extend(
+        f"possible secret pattern ({name})"
+        for name, pattern in SECRET_PATTERNS.items()
+        if pattern.search(content)
+    )
+    matches.extend(
+        f"private local reference ({name})"
+        for name, pattern in PRIVATE_REFERENCE_PATTERNS.items()
+        if pattern.search(content)
+    )
+    return matches
 
 
 def collect_errors(paths: list[str]) -> list[str]:
@@ -69,8 +103,8 @@ def collect_errors(paths: list[str]) -> list[str]:
         if reason:
             errors.append(f"{path}: blocked tracked path ({reason})")
 
-        for secret_name in secret_matches(path):
-            errors.append(f"{path}: possible secret pattern ({secret_name})")
+        for match in content_matches(path):
+            errors.append(f"{path}: {match}")
 
     return errors
 

@@ -746,6 +746,7 @@ templates/clinician-review-brief-template.md
 templates/assay-run-template.md
 templates/hypothesis-card-template.md
 templates/patient-context-template.md
+templates/public-case-data-release-checklist.md
 templates/transfusion-log-template.csv
 templates/clinical-record-index-template.csv
 templates/case-clinical-timeline-template.csv

@@ -89,6 +89,12 @@ Until a hematologist reviews this packet, keep all patient-specific candidate
 claims blocked. Nakafa Lab can continue computational ranking and assay design,
 but every candidate remains `patient_relevance_blocked` for case-001.
 
+## Public Release Rule
+
+Before adding new case-001 facts to the public repo, use the
+[public case data release checklist](../../../templates/public-case-data-release-checklist.md).
+Raw records, scans, photos, identifiers, and local file paths stay outside Git.
+
 ## Notebook
 
 - [Case-001 minimum hematologist packet gate notebook](../notebooks/2026-04-28-case001-minimum-hematologist-packet-gate.ipynb)
@@ -98,6 +104,7 @@ but every candidate remains `patient_relevance_blocked` for case-001.
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
+- [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Trial referral no-lab gate](../findings/2026-04-27-trial-referral-no-lab-gate.md)
 - [GeneReviews beta-thalassemia](https://www.ncbi.nlm.nih.gov/books/NBK1426/)

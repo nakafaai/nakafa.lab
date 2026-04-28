@@ -93,6 +93,7 @@ Ask these in order:
 
 Every new case detail should update one of these files:
 
+- [minimum hematologist packet](case-001-minimum-hematologist-packet.md);
 - [de-identified case context](deidentified-case-001.md);
 - [clinical record index template](../../../templates/clinical-record-index-template.csv);
 - [case clinical timeline template](../../../templates/case-clinical-timeline-template.csv);

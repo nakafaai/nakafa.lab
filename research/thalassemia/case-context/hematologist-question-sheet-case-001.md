@@ -200,6 +200,7 @@ clinicians.
 
 ## Linked Evidence
 
+- [Minimum hematologist packet](case-001-minimum-hematologist-packet.md)
 - [Clinician review brief](clinician-brief-case-001.md)
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)

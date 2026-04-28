@@ -113,6 +113,7 @@ repo without a licensed hematologist.
 
 ## Linked Notes
 
+- [Minimum hematologist packet](case-001-minimum-hematologist-packet.md)
 - [De-identified case context](deidentified-case-001.md)
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

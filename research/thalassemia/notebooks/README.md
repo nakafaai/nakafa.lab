@@ -50,6 +50,9 @@ Current notebooks:
 - `2026-04-28-case001-iron-chelation-organ-risk-record-gate.ipynb` -
   de-identified case gate that ranks missing ferritin trend, LIC, cardiac
   `T2*`, chelation, toxicity, and organ-risk records.
+- `2026-04-28-case001-minimum-hematologist-packet-gate.ipynb` -
+  de-identified integration gate that ranks the minimum doctor packet across
+  diagnosis, transfusion burden, immune, iron, organ, and referral records.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

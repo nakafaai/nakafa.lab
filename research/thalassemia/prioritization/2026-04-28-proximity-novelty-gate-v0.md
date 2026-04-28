@@ -20,6 +20,10 @@ editing and non-editing benchmarks were identified:
 - `NCT07338344`: luspatercept plus low-dose thalidomide, a non-editing
   pharmacologic trial with transfusion burden, HbF/gamma-globin, hemolysis,
   iron, and safety endpoints.
+- `NCT06302491`: AND017 oral phase 2 trial in TDT and NTDT beta-thalassemia,
+  with safety, hemoglobin, red-cell, transfusion-load, and iron-marker endpoint
+  groups, but no HbF/gamma-globin or alpha-globin/autophagy endpoint in this
+  compact source pass.
 
 ## Required Question
 
@@ -59,6 +63,7 @@ Every assay run should record:
 closest_editing_benchmark:
 phase2_escalation:
 closest_non_editing_benchmark:
+closest_oral_non_editing_benchmark:
 proximity_novelty_label:
 claimed_gap:
 why_not_benchmark_only:
@@ -80,11 +85,14 @@ scrutiny as the closest editing and non-editing benchmarks.
 - [CS-101 phase 2 escalation gate](../findings/2026-04-28-cs101-phase2-escalation-gate.md)
 - [China HbF editing proximity gate](../findings/2026-04-27-china-hbf-editing-proximity-gate.md)
 - [Non-editing pharmacologic proximity gate](../findings/2026-04-28-non-editing-pharmacologic-proximity-gate.md)
+- [AND017 oral benchmark gate](../findings/2026-04-28-and017-oral-benchmark-gate.md)
 - [`NCT06024876` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06024876-cs101-detail.json)
 - [`NCT07489196` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct07489196-cs101-phase2-detail.json)
 - [`NCT06041620` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct06041620-vgb-ex01-detail.json)
 - [`NCT07338344` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07338344-luspatercept-thalidomide-detail.json)
+- [`NCT06302491` redacted compact snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06302491-and017-detail.json)
 - [ClinicalTrials.gov `NCT06024876`](https://clinicaltrials.gov/study/NCT06024876)
 - [ClinicalTrials.gov `NCT07489196`](https://clinicaltrials.gov/study/NCT07489196)
 - [ClinicalTrials.gov `NCT06041620`](https://clinicaltrials.gov/study/NCT06041620)
 - [ClinicalTrials.gov `NCT07338344`](https://clinicaltrials.gov/study/NCT07338344)
+- [ClinicalTrials.gov `NCT06302491`](https://clinicaltrials.gov/study/NCT06302491)

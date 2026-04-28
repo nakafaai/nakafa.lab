@@ -12,6 +12,12 @@ The closest active pharmacologic proximity signal found so far is
 thalidomide versus luspatercept plus placebo in adult transfusion-dependent
 beta-thalassemia.
 
+`NCT06302491` / AND017 adds a second China non-editing benchmark. It is an oral
+phase 2 record in TDT and NTDT beta-thalassemia with safety, hemoglobin,
+red-cell, transfusion-load, and iron-marker endpoint groups. It does not replace
+`NCT07338344` as the closest HbF/gamma-globin and hemolysis-rich pharmacologic
+benchmark in this pass.
+
 This matters because the trial already combines several endpoints that overlap
 with Nakafa Lab's gates:
 
@@ -35,6 +41,7 @@ So the Nakafa Lab novelty claim must be narrower again:
 | Record or source | Why it matters | Boundary for Nakafa Lab |
 | --- | --- | --- |
 | `NCT07338344` | China phase 2 trial of luspatercept plus low-dose thalidomide in adult beta-TDT. It includes transfusion burden, HbF, gamma-globin, hemolysis, ferritin, organ iron, and safety endpoints. | This is a real non-editing proximity benchmark, but it is not an affordable standalone discovery lane. Luspatercept access/cost and thalidomide-class safety remain major limits. |
+| `NCT06302491` / AND017 | China phase 2 oral trial in TDT and NTDT beta-thalassemia. It includes safety/tolerability, hemoglobin, red-cell indices, transfusion-load, and iron-marker endpoint groups. | Important oral comparator, but the compact source pass did not show HbF, gamma-globin, hemolysis, alpha-globin, autophagy, or posted results. |
 | Pakistan thalidomide registry records | Active thalidomide or hydroxyurea-plus-thalidomide records show continued LMIC-relevant interest in oral HbF/drug-repurposing lanes. | These are clinical/trial context, not proof of a general cure or patient-specific suitability. |
 | FDA luspatercept approval and TIF guideline chapter | Luspatercept is an approved disease-modifying benchmark for adult TDT transfusion-burden reduction. | It is a benchmark and doctor-facing question, not a repo-issued recommendation. |
 | Thalidomide clinical literature | Thalidomide-class drugs have HbF/transfusion signals but known safety boundaries. | The class should remain comparator/high-caution biology unless a licensed clinician and formal protocol are involved. |
@@ -81,11 +88,16 @@ Say:
    hemolysis, and safety gates.
 5. Add "differs from luspatercept + thalidomide proximity benchmark" as a
    novelty check for future non-editing claims.
+6. Add "differs from AND017 oral Hb/transfusion/iron-marker benchmark" for any
+   oral non-editing anemia or transfusion-load claim.
 
 ## Sources
 
 - [ClinicalTrials.gov `NCT07338344`](https://clinicaltrials.gov/study/NCT07338344)
+- [ClinicalTrials.gov `NCT06302491`](https://clinicaltrials.gov/study/NCT06302491)
 - [`NCT07338344` compact detail snapshot](../../../data/registries/clinicaltrials/2026-04-27-nct07338344-luspatercept-thalidomide-detail.json)
+- [`NCT06302491` redacted compact snapshot](../../../data/registries/clinicaltrials/2026-04-28-nct06302491-and017-detail.json)
+- [AND017 oral benchmark gate](2026-04-28-and017-oral-benchmark-gate.md)
 - [Thalidomide active ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-active-thalidomide-beta-thalassemia.json)
 - [FDA luspatercept beta-thalassemia approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia)
 - [TIF TDT guideline chapter: Novel Disease-Modifying Agents](https://www.ncbi.nlm.nih.gov/books/NBK614249/)

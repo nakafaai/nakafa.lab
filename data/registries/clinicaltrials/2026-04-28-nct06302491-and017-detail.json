@@ -1,0 +1,48 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqVdyqqarumpOQJJxtZfGg3vwTkA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT06302491&pageSize=1&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "China"
+      ],
+      "design": {
+        "allocation": "RANDOMIZED",
+        "intervention_model": "PARALLEL",
+        "masking": "QUADRUPLE",
+        "primary_purpose": "TREATMENT"
+      },
+      "enrollment": {
+        "count": 64,
+        "type": "ESTIMATED"
+      },
+      "has_results": false,
+      "interventions": [
+        "AND017 capsules",
+        "AND017 Placebo"
+      ],
+      "last_update": "2026-02-27",
+      "nct_id": "NCT06302491",
+      "phases": [
+        "PHASE2"
+      ],
+      "primary_outcomes": [
+        "Evaluate the safety and tolerability of different oral doses of AND017 in the treatment of \u03b2-thalassemia subjects"
+      ],
+      "secondary_outcome_groups": [
+        "NTDT hemoglobin change",
+        "NTDT red blood cell and reticulocyte counts",
+        "NTDT red-cell indices including MCV, MCH, and MCHC",
+        "NTDT iron markers including transferrin, TSAT, ferritin, serum iron, and TIBC",
+        "TDT transfusion load and transfusion count",
+        "TDT proportion with at least 33% transfusion-load reduction",
+        "TDT duration of maintained transfusion-load reduction"
+      ],
+      "status": "RECRUITING",
+      "title": "A Study of Safety and Efficiency of AND017 in Patients With \u03b2-thalassemia"
+    }
+  ],
+  "total_count": 1
+}

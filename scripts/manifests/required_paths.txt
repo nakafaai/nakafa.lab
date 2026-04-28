@@ -478,6 +478,9 @@ research/thalassemia/notebooks/2026-04-28-case001-private-intake-priority-gate.i
 research/thalassemia/findings/2026-04-28-cs101-phase2-escalation-gate.md
 research/thalassemia/notebooks/2026-04-28-cs101-phase2-escalation-gate.ipynb
 data/registries/clinicaltrials/2026-04-28-nct07489196-cs101-phase2-detail.json
+research/thalassemia/findings/2026-04-28-and017-oral-benchmark-gate.md
+research/thalassemia/notebooks/2026-04-28-and017-oral-benchmark-gate.ipynb
+data/registries/clinicaltrials/2026-04-28-nct06302491-and017-detail.json
 research/thalassemia/findings/2026-04-26-carrier-malaria.md
 research/thalassemia/findings/2026-04-26-bee-product-research-scope.md
 research/thalassemia/findings/2026-04-26-bee-derived-materials-beyond-honey.md

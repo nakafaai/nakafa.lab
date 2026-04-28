@@ -1,4 +1,4 @@
-"""Check that tracked public-repo files do not include local or private data."""
+"""Check that candidate public-repo files do not include local or private data."""
 
 from __future__ import annotations
 
@@ -53,15 +53,22 @@ PRIVATE_REFERENCE_PATTERNS = {
 }
 
 
-def tracked_paths() -> list[str]:
-    """Return all tracked Git paths in deterministic order."""
+def git_paths(args: list[str]) -> list[str]:
+    """Return Git paths for a given `git ls-files` argument list."""
     result = subprocess.run(
-        ["git", "ls-files"],
+        ["git", "ls-files", *args],
         check=True,
         capture_output=True,
         text=True,
     )
-    return sorted(path for path in result.stdout.splitlines() if path)
+    return [path for path in result.stdout.splitlines() if path]
+
+
+def public_candidate_paths() -> list[str]:
+    """Return tracked, staged, and untracked non-ignored paths."""
+    paths = set(git_paths(["--cached"]))
+    paths.update(git_paths(["--others", "--exclude-standard"]))
+    return sorted(paths)
 
 
 def blocked_path_reason(path: str) -> str | None:
@@ -111,7 +118,7 @@ def collect_errors(paths: list[str]) -> list[str]:
 
 def main() -> int:
     """Run the public repository hygiene check."""
-    errors = collect_errors(tracked_paths())
+    errors = collect_errors(public_candidate_paths())
 
     if not errors:
         print("public repo checks passed.")

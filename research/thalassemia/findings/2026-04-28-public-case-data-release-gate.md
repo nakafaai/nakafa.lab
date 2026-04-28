@@ -42,9 +42,9 @@ backed reasoning and when they do not identify the person.
 
 The public-repo checker now blocks:
 
-- tracked raw media under `research/thalassemia/case-context/`;
-- tracked raw media under clinical case-data folders in `data/`;
-- local absolute user, downloads, and temporary file references inside tracked
+- candidate raw media under `research/thalassemia/case-context/`;
+- candidate raw media under clinical case-data folders in `data/`;
+- local absolute user, downloads, and temporary file references inside candidate
   files;
 - existing blocked caches, local environments, secrets, credentials, and common
   secret patterns.

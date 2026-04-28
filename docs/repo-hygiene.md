@@ -82,5 +82,6 @@ git diff --check
 ```
 
 `scripts/check_public_repo.py` wraps these public-repo checks in one repeatable
-command. It fails if blocked local paths, raw case media, local absolute
-references, or common secret patterns are tracked.
+command. It scans tracked, staged, and untracked non-ignored files. It fails if
+blocked local paths, raw case media, local absolute references, or common secret
+patterns are present.

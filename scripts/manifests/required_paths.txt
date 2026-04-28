@@ -753,3 +753,4 @@ templates/case-clinical-timeline-template.csv
 scripts/helpers/__init__.py
 scripts/helpers/manifest.py
 scripts/manifests/required_paths.txt
+scripts/selftest_repo_checks.py

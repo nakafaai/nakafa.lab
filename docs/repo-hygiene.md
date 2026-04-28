@@ -78,6 +78,7 @@ uv run pyright scripts
 uv run python scripts/check_repo.py
 uv run python scripts/check_repo_language.py
 uv run python scripts/check_public_repo.py
+uv run python scripts/selftest_repo_checks.py
 git diff --check
 ```
 
@@ -88,3 +89,6 @@ patterns are present.
 
 `scripts/check_repo_language.py` uses the same tracked, staged, and untracked
 non-ignored candidate-file scope for repo-authored text.
+
+`scripts/selftest_repo_checks.py` runs dependency-free assertions for the
+privacy and language checkers so their core blocks do not regress silently.

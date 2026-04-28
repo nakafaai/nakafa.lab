@@ -45,6 +45,12 @@ HbF 97.6%, HbA2 2.0%, hemoglobin types A, F, and A2, and an interpretation
 consistent with beta-thalassemia homozygous or compound heterozygous disease.
 No molecular `HBB`, `HBA1`, `HBA2`, or HbF-modifier result is committed yet.
 
+High-HbF gate added on 2026-04-28: HbF 97.6% makes HbF and HPFH-like rescue
+research highly relevant, but the record does not prove HPFH, beta-plus
+disease, alpha-thalassemia co-inheritance, or a specific modifier. The next
+research-safe step is to ask for transfusion proximity before historical HPLC,
+`HBB`, `HBA1/HBA2`, and HPFH/delta-beta or HBG-modifier context.
+
 ## Routing Rules
 
 - If HbE/beta-thalassemia is present, compare HbF candidates against HbE/beta
@@ -89,6 +95,7 @@ before the repo can say whether a research lane resembles case-001.
 
 - [Beta-Thalassemia GeneReviews, revised 2026-02-12](https://www.ncbi.nlm.nih.gov/books/NBK1426/)
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
+- [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
 - [Indonesia genotype-first rule](../findings/2026-04-27-indonesia-genotype-first-rule.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

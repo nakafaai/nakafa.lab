@@ -1,0 +1,221 @@
+{
+  "count": 10,
+  "query": "co inheritance alpha thalassemia beta thalassemia phenotype",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "28774421"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(17)31822-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(17)31822-6"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "28774421",
+      "pubdate": "2018 Jan 13",
+      "title": "Thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK545151"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31424735"
+        }
+      ],
+      "journal": "",
+      "pmid": "31424735",
+      "pubdate": "2026 Jan",
+      "title": "Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29621931"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/10245332.2018.1458934"
+        }
+      ],
+      "journal": "Hematology",
+      "pmid": "29621931",
+      "pubdate": "2018 Oct",
+      "title": "Contrasting co-inheritance of alpha and beta mutations in delta beta thalassemia and hereditary persistence of fetal hemoglobin: a study from India."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "17493845"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.bcmd.2007.01.006"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S1079-9796(07)00076-9"
+        }
+      ],
+      "journal": "Blood Cells Mol Dis",
+      "pmid": "17493845",
+      "pubdate": "2007 Sep-Oct",
+      "title": "Co-inheritance of alpha- and beta-thalassaemia in mice ameliorates thalassaemic phenotype."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "18024613"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1182/asheducation-2007.1.79"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2007/1/79"
+        }
+      ],
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "18024613",
+      "pubdate": "2007",
+      "title": "Hemoglobin e syndromes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "16910233"
+        }
+      ],
+      "journal": "Clin Lab Sci",
+      "pmid": "16910233",
+      "pubdate": "2006 Summer",
+      "title": "Co-inheritance of alpha and beta-thalassemia in a Jordanian family."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "38895064"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11182400"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11182400;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/jha2.923"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "JHA2923"
+        }
+      ],
+      "journal": "EJHaem",
+      "pmid": "38895064",
+      "pubdate": "2024 Jun",
+      "title": "Alpha globin gene alterations modifying the phenotype of homozygous beta thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35273733"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC8902522"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC8902522;"
+        }
+      ],
+      "journal": "Am J Transl Res",
+      "pmid": "35273733",
+      "pubdate": "2022",
+      "title": "\u03b1(0)-thalassemia in affected fetuses with hemoglobin E-\u03b2(0)-thalassemia disease in a high-risk population in Thailand."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "36598439"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ejh.13923"
+        }
+      ],
+      "journal": "Eur J Haematol",
+      "pmid": "36598439",
+      "pubdate": "2023 May",
+      "title": "Hematological and genetic profiles of persons with co-inherited heterozygous \u03b2-thalassemia and supernumerary \u03b1-globin genes."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "31653757"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/jclinpath-2019-206179"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "jclinpath-2019-206179"
+        }
+      ],
+      "journal": "J Clin Pathol",
+      "pmid": "31653757",
+      "pubdate": "2020 May",
+      "title": "Molecular analysis of \u03b1-thalassemia and \u03b2-thalassemia in Quanzhou region Southeast China."
+    }
+  ]
+}

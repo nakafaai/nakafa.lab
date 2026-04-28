@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "delta beta thalassemia hereditary persistence fetal hemoglobin differential diagnosis",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "12047136"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1309/A63X-HG9T-VYG2-X6TX"
+        }
+      ],
+      "journal": "Am J Clin Pathol",
+      "pmid": "12047136",
+      "pubdate": "2002 Jun",
+      "title": "Flow cytometric measurement of hemoglobin F in RBCs: diagnostic usefulness in the distinction of hereditary persistence of fetal hemoglobin (HPFH) and hemoglobin S-hPFH from other conditions with elevated levels of hemoglobin F."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "count": 1,
+  "query": "hereditary persistence fetal hemoglobin delta beta thalassemia diagnosis HbF HbA beta thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "23621512"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/ijlh.12094"
+        }
+      ],
+      "journal": "Int J Lab Hematol",
+      "pmid": "23621512",
+      "pubdate": "2014 Feb",
+      "title": "Interpreting elevated fetal hemoglobin in pathology and health at the basic laboratory level: new and known \u03b3- gene mutations associated with hereditary persistence of fetal hemoglobin."
+    }
+  ]
+}

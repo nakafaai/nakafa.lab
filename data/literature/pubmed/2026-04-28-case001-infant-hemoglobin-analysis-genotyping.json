@@ -1,0 +1,47 @@
+{
+  "count": 2,
+  "query": "beta thalassemia diagnosis infants HbF HbA2 HbA molecular testing",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11920200"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/sj.thj.6200042"
+        }
+      ],
+      "journal": "Hematol J",
+      "pmid": "11920200",
+      "pubdate": "2000",
+      "title": "Molecular basis of haemoglobinopathies and G6PD deficiency in the Comorian population."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35395991"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.19746/j.cnki.issn.1009-2137.2022.02.034"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "1009-2137(2022)02-0529-05"
+        }
+      ],
+      "journal": "Zhongguo Shi Yan Xue Ye Xue Za Zhi",
+      "pmid": "35395991",
+      "pubdate": "2022 Apr",
+      "title": "[Clinical Diagnosis and Prenatal Screening of Hb Lepore-BW Associated with IVS-II-654 Heterozygous Mutation]."
+    }
+  ]
+}

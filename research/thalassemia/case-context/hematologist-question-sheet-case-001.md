@@ -38,6 +38,8 @@ Use medical records where possible:
 2. Was the historical hemoglobin analysis performed before any transfusion, and
    does the high HbF reflect age, genotype, HPFH/modifier context, or treatment
    context?
+   Should the workup include HPFH, delta-beta-thalassemia, `HBG1/HBG2`
+   promoter, XmnI-HBG2, `BCL11A`, or `HBS1L-MYB` modifier review?
 3. Is weekly transfusion expected for this subtype, or does it suggest another
    issue such as poor red-cell survival, alloantibodies, autoantibodies,
    hypersplenism, under-matching, or hemolysis?
@@ -192,6 +194,7 @@ clinicians.
 
 - [Clinician review brief](clinician-brief-case-001.md)
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
+- [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)
 - [Case-001 genotype-first intake gate](case-001-genotype-first-intake-gate-v0.md)
 - [De-identified case context](deidentified-case-001.md)

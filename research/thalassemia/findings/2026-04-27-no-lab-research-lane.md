@@ -133,6 +133,24 @@ Decision order:
 5. Continue computational candidate ranking only after the case gates are not
    empty.
 
+## 2026-04-29 Execution Ladder Update
+
+The no-lab lane is now operationally ordered in the
+[no-lab execution ladder](2026-04-29-no-lab-execution-ladder.md).
+
+The current label is `no_lab_execution_ladder_active`.
+
+The first five actions are:
+
+1. minimum hematologist packet;
+2. private record index;
+3. transfusion-burden calculation;
+4. iron/chelation organ-risk packet;
+5. immune and blood-bank packet.
+
+New candidate claims stay lowest priority until the packet is clinician
+reviewed and the candidate can answer the proximity novelty gate.
+
 ## Sources
 
 - [TIF 2025 TDT guideline](https://www.ncbi.nlm.nih.gov/books/NBK614251/)

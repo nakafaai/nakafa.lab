@@ -7,6 +7,7 @@ docs/parallel-research-tracks.md
 docs/publication-readiness.md
 docs/status/README.md
 docs/status/2026-04-27.md
+docs/status/2026-04-29.md
 docs/status/daily-summary-automation.md
 docs/repo-hygiene.md
 docs/private-case-intake-threat-model.md
@@ -685,6 +686,7 @@ research/thalassemia/findings/2026-04-27-prkab1-target-nomenclature-gate.md
 research/thalassemia/findings/2026-04-27-asia-russia-novelty-audit.md
 research/thalassemia/findings/2026-04-27-china-hbf-editing-proximity-gate.md
 research/thalassemia/findings/2026-04-28-yolt204-registry-disambiguation-gate.md
+research/thalassemia/findings/2026-04-29-no-lab-execution-ladder.md
 data/registries/clinicaltrials/2026-04-27-active-referral-transfusion-dependent-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-asia-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-indonesia-thalassemia.json
@@ -717,6 +719,7 @@ research/thalassemia/notebooks/2026-04-27-delta-globin-hba2-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-expansion-lane-decision-gate.ipynb
 research/thalassemia/notebooks/2026-04-27-pf-06409577-probe-material-gate.ipynb
 research/thalassemia/notebooks/2026-04-28-yolt204-registry-disambiguation-gate.ipynb
+research/thalassemia/notebooks/2026-04-29-no-lab-execution-ladder.ipynb
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json

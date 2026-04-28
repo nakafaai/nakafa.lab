@@ -23,6 +23,10 @@ The new advanced-therapy referral gate sharpens this step: the immediate output
 is a complete enough specialist packet, not a repo-issued judgement about HSCT,
 gene therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trial
 eligibility.
+The no-lab execution ladder makes this operational: complete the minimum
+hematologist packet, private record index, transfusion-burden calculation,
+iron/chelation organ-risk packet, and immune/blood-bank packet before spending
+attention on new candidate claims.
 
 If the first lab can support one expansion lane beyond the fixed quote panel,
 the most coherent current choice is a PRKAB1/AMPK beta1/NRF2/ULK1/autophagy
@@ -64,6 +68,8 @@ The next work should be small and verifiable:
   access-blocked, unsuitable, or under specialist review.
   \item Resolve the \texttt{advanced\_therapy\_referral\_packet\_missing}
   label before asking a referral center to screen advanced options.
+  \item Keep \texttt{no\_lab\_execution\_ladder\_active} until the packet is
+  reviewed by a hematologist or missing records are marked unavailable.
   \item Build the first qualified-lab assay request around HbF/F-cells,
   alpha-globin burden, autophagy context, maturation, viability, apoptosis, and
   hemolysis.

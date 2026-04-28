@@ -109,6 +109,25 @@ Until a hematologist reviews this packet, keep all patient-specific candidate
 claims blocked. Nakafa Lab can continue computational ranking and assay design,
 but every candidate remains `patient_relevance_blocked` for case-001.
 
+## No-Lab Execution Ladder
+
+Current label: `no_lab_execution_ladder_active`.
+
+Use this order before adding new patient-relevance claims:
+
+1. complete this minimum hematologist packet;
+2. index raw records privately under ignored storage;
+3. calculate transfusion burden from de-identified private logs;
+4. complete the iron/chelation organ-risk packet;
+5. complete the immune and blood-bank packet;
+6. ask whether advanced-therapy or trial screening is ready, blocked, or still
+   data-missing;
+7. refresh trial and guideline context as doctor-facing questions;
+8. rerank candidates only as research hypotheses.
+
+Do not move a candidate from research context to patient relevance until a
+clinician reviews the packet.
+
 ## Public Release Rule
 
 Before adding new case-001 facts to the public repo, use the
@@ -127,6 +146,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Case-001 advanced therapy referral readiness gate](../findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md)
+- [No-lab execution ladder](../findings/2026-04-29-no-lab-execution-ladder.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

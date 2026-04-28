@@ -50,9 +50,22 @@ because they are interesting.
 
 The most useful immediate no-lab output is a de-identified clinical packet for a
 hematologist. Incomplete subtype, genotype, transfusion, immune, iron, organ,
-and access data currently block patient-specific interpretation.
+and access data currently block patient-specific interpretation. The latest
+case-001 molecular gate turns the \texttt{phenotype\_only} label into an
+explicit record sequence: historical HPLC transfusion proximity,
+\texttt{HBB}, \texttt{HBA1/HBA2}, HPFH/delta-beta or \texttt{HBG} modifier
+context, and family fallback records when patient records are unavailable.
 
 \input{tables/no-lab-packet}
+
+\subsection{Public-Repository Guardrails}
+
+The repository now includes executable checks for public-facing hygiene:
+scaffold completeness, English-only repo-authored prose, public privacy and
+secret-pattern screening, and dependency-free checker self-tests. These controls
+do not provide legal de-identification certification, but they reduce the chance
+that raw case files, local paths, identifiers, generated caches, or mixed-language
+repo-authored text enter the public record.
 
 \subsection{Referral Snapshot}
 

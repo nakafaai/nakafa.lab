@@ -59,7 +59,7 @@ The practical baseline for a biomedical paper is:
 | Discussion | Dedicated Discussion and Limitations sections added. | Needs target-journal word count and reviewer-oriented tightening. |
 | Figures | First pipeline and mechanism figures added. | Needs visual polish and possibly one more candidate decision funnel. |
 | Tables | First benchmark, candidate, packet, and referral tables added. | Needs final source verification and journal formatting. |
-| Ethics and privacy | Dedicated statements added. | Needs final author/funder/institution details. |
+| Ethics and privacy | Dedicated statements plus public case-data release boundary added. | Needs final author/funder/institution details and legal review if submitted. |
 | AI disclosure | Dedicated AI-use statement added. | Needs final journal-specific wording. |
 | Data/code availability | Dedicated availability statement added. | Needs DOI/archive if the repo is deposited for publication. |
 | Islamic lane | Present and carefully bounded. | Must stay in ethics/hypothesis framing, not biomedical proof. |
@@ -108,8 +108,13 @@ Current public repo state after this audit:
 - source snapshots are intentionally under `data/`;
 - `data/**` and `paper/build/**` are generated for GitHub Linguist through
   `.gitattributes`;
-- `scripts/check_public_repo.py` blocks tracked cache, secret, private, and
+- `scripts/check_public_repo.py` scans tracked, staged, and untracked
+  non-ignored files for cache, secret, private, raw case-media, local-path, and
   LaTeX build artifacts;
+- `scripts/check_repo_language.py` scans tracked, staged, and untracked
+  non-ignored repo-authored text for Indonesian markers;
+- `scripts/selftest_repo_checks.py` self-tests the public and language checker
+  guardrails;
 - `scripts/check_repo.py` uses `scripts/manifests/required_paths.txt` so
   important docs and artifacts cannot silently disappear.
 

@@ -18,6 +18,12 @@ Each reusable finding is stored as a dated note under \repoPath{research/}.
 Small reproducible source snapshots are stored under \repoPath{data/}. The
 thalassemia source registry links claims to the evidence trail.
 
+Case-linked material must pass a public-release gate before entering the public
+repository. Raw medical records, direct identifiers, local source paths, and
+patient-specific treatment claims are blocked from public artifacts. Repository
+language and privacy checks scan tracked, staged, and untracked non-ignored
+candidate files before commit.
+
 \subsection{Evidence Classification}
 
 Evidence is classified into five practical labels:
@@ -48,3 +54,14 @@ continue without a lab partner includes source-backed literature mapping,
 computational candidate rejection, chemistry identity checks, de-identified
 case-packet preparation, assay design, and specialist-referral question
 generation. Patient-specific treatment decisions are out of scope.
+
+\subsection{Case-Context Labeling}
+
+Case-context interpretation uses operational labels rather than diagnosis
+claims. For case-001, the current genotype label remains
+\texttt{phenotype\_only}. The next upgrade requires clinician-reviewed molecular
+records: historical hemoglobin-analysis transfusion proximity, \texttt{HBB}
+sequence or targeted mutation results, \texttt{HBB} deletion/duplication
+follow-up when needed, \texttt{HBA1/HBA2} deletion or copy-number context, and
+HPFH, delta-beta-thalassemia, or \texttt{HBG1/HBG2} modifier review
+\cite{geneReviewsBetaThalassemia,geneReviewsAlphaThalassemia}.

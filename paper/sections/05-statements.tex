@@ -11,7 +11,9 @@ belong to licensed clinicians.
 
 Patient-facing work is de-identified. The repository must not contain names,
 exact addresses, hospital record numbers, phone numbers, identity numbers, face
-photos, or exact birth dates.
+photos, exact birth dates, raw clinical PDFs, scans, local source paths, or
+patient-specific treatment instructions. This is a public-repo guardrail, not a
+legal de-identification certification.
 
 \subsection{AI Use}
 
@@ -24,6 +26,8 @@ the manuscript, source trail, and claim boundaries.
 The public repository contains source snapshots, research notes, LaTeX source,
 templates, and Python utilities at \url{https://github.com/nakafaai/nakafa.lab}.
 Generated local caches and build outputs are excluded from the public repo.
+Repository checks cover scaffold completeness, English-only authored content,
+public privacy screening, and checker self-tests.
 
 \subsection{Funding and Competing Interests}
 

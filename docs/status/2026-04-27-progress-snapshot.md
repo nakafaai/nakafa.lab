@@ -108,7 +108,7 @@ medicine.
 
 ## Bottom Line
 
-The working "obat" is not a bottle yet.
+The working "medicine" is not a bottle yet.
 
 The working cure hypothesis is: restore useful hemoglobin output by mimicking an
 `HPFH-like` fetal-hemoglobin rescue state while also reducing beta-thalassemia

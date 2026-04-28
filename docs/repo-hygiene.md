@@ -21,6 +21,11 @@ noise.
 The current tracked-file audit is documented in
 [repo-traceability-2026-04-27.md](repo-traceability-2026-04-27.md).
 
+## Language Policy
+
+Repository-authored content must be written in English. The policy and source
+data boundary are documented in [language-policy.md](language-policy.md).
+
 ## Ignored Content
 
 Generated or local-only files should not enter Git:
@@ -66,6 +71,7 @@ uv run ruff check .
 uv run ruff format --check .
 uv run pyright scripts
 uv run python scripts/check_repo.py
+uv run python scripts/check_repo_language.py
 uv run python scripts/check_public_repo.py
 git diff --check
 ```

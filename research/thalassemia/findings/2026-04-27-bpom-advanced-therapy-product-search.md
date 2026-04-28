@@ -51,7 +51,7 @@ The access lane now has a stronger working hypothesis:
 
 ## Sources
 
-- [BPOM Cek Produk obat page](https://cekbpom.pom.go.id/produk-obat)
+- [BPOM medicine-product search page](https://cekbpom.pom.go.id/produk-obat)
 - [BPOM advanced therapy product-search snapshot](../../../data/regulatory/bpom/2026-04-27-thalassemia-advanced-therapy-product-search.json)
 - [Indonesia regulatory and access gap](2026-04-26-indonesia-regulatory-access-gap.md)
 - [Indonesia access deep dive](2026-04-27-indonesia-access-deep-dive.md)

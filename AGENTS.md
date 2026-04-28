@@ -22,8 +22,9 @@ be reviewed by qualified clinicians.
 - Keep Python files under 500 LOC. Move large static data into `scripts/manifests/`
   and shared parsing/checking logic into `scripts/helpers/`.
 - Keep writing skimmable. Avoid cleverness and avoid bloated generated text.
-- Use Indonesian by default for public notes unless a paper or source requires
-  English.
+- Write all repository-authored content in English. Conversations with the user
+  may be Indonesian, but committed docs, notes, templates, scripts, comments,
+  notebooks, and paper text must be English.
 - Track sources as first-class research objects.
 - Distinguish fact, hypothesis, interpretation, and open question.
 - For Islamic research, separate Quran text, translation, tafsir, hadith,
@@ -47,6 +48,8 @@ be reviewed by qualified clinicians.
 
 - Run `uv run python scripts/check_repo.py` after scaffold or documentation
   changes.
+- Run `uv run python scripts/check_repo_language.py` after prose, notebook,
+  template, or documentation changes.
 - Run `uv run python scripts/check_public_repo.py` before commits that touch
   public data, case-context, generated artifacts, or repo hygiene.
 - Run `uv run ruff check .` for Python changes.

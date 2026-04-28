@@ -1,6 +1,7 @@
 README.md
 AGENTS.md
 docs/research-protocol.md
+docs/language-policy.md
 docs/next-steps.md
 docs/parallel-research-tracks.md
 docs/publication-readiness.md
@@ -641,6 +642,7 @@ scripts/fetch_clinical_trials.py
 scripts/fetch_pubmed.py
 scripts/fetch_bpom_products.py
 scripts/check_public_repo.py
+scripts/check_repo_language.py
 scripts/summarize_case_timeline.py
 docs/security/threat-model-assumption-gate.md
 research/thalassemia/findings/2026-04-27-bpom-advanced-therapy-product-search.md

@@ -59,7 +59,7 @@ research-routing guardrail.
 
 ## Sources
 
-- [BPOM Cek Produk obat page](https://cekbpom.pom.go.id/produk-obat)
+- [BPOM medicine-product search page](https://cekbpom.pom.go.id/produk-obat)
 - [BPOM sirolimus product-search snapshot](../../../data/regulatory/bpom/2026-04-27-sirolimus-product-search.json)
 - [Sirolimus deep dive](2026-04-26-sirolimus-deep-dive.md)
 - [AMPKB1/autophagy/HbF bridge](2026-04-27-ampkb1-autophagy-hbf-bridge.md)

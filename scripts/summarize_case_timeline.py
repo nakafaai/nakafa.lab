@@ -9,6 +9,8 @@ import json
 from collections import Counter
 from pathlib import Path
 
+import check_public_repo
+
 REQUIRED_COLUMNS = [
     "case_id",
     "event_date",
@@ -34,6 +36,8 @@ BLOCKED_COLUMNS = {
     "nik",
     "phone",
 }
+
+CASE_CONTEXT_SCAN_PATH = "research/thalassemia/case-context/timeline.csv"
 
 
 def parse_args() -> argparse.Namespace:
@@ -77,6 +81,15 @@ def normalize_fieldnames(fieldnames: list[str] | None) -> list[str]:
     return normalized
 
 
+def row_privacy_matches(row: dict[str, str]) -> list[str]:
+    """Return obvious private-content matches in a de-identified row."""
+    row_text = "\n".join(f"{key}: {value}" for key, value in row.items())
+    return check_public_repo.content_matches_for_text(
+        CASE_CONTEXT_SCAN_PATH,
+        row_text,
+    )
+
+
 def load_rows(input_csv: str) -> list[dict[str, str]]:
     """Load non-empty de-identified timeline rows from a CSV file."""
     rows: list[dict[str, str]] = []
@@ -96,6 +109,12 @@ def load_rows(input_csv: str) -> list[dict[str, str]]:
                 continue
 
             parse_date(normalized["event_date"], row_number)
+            privacy_matches = row_privacy_matches(normalized)
+            if privacy_matches:
+                joined = ", ".join(privacy_matches)
+                raise ValueError(
+                    f"Row {row_number}: private content detected: {joined}."
+                )
             rows.append(normalized)
 
     if rows:

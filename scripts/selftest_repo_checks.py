@@ -7,6 +7,7 @@ import tempfile
 
 import check_public_repo
 import check_repo_language
+import summarize_case_timeline
 
 
 def test_public_path_blocks() -> None:
@@ -80,12 +81,32 @@ def test_language_marker_detection() -> None:
     assert pattern.search(check_repo_language.normalized_line(url_only_marker)) is None
 
 
+def test_timeline_row_privacy_scan() -> None:
+    """Check timeline row privacy scanning before summaries are produced."""
+    row = {
+        "case_id": "case-001",
+        "event_date": "2026-01-01",
+        "event_type": "diagnosis",
+        "value": "Patient Name: Sample Person",
+        "unit": "",
+        "source_ref": "private-source-index",
+        "routing_label": "phenotype_only",
+        "confidence": "review_needed",
+        "notes_no_phi": "",
+    }
+
+    matches = summarize_case_timeline.row_privacy_matches(row)
+
+    assert "case-context identifier pattern (case patient name field)" in matches
+
+
 def main() -> int:
     """Run the checker self-tests."""
     test_public_path_blocks()
     test_public_content_blocks()
     test_case_context_identifier_blocks()
     test_language_marker_detection()
+    test_timeline_row_privacy_scan()
     print("repo checker self-tests passed.")
     return 0
 

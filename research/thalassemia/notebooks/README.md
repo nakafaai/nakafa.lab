@@ -70,6 +70,9 @@ Current notebooks:
 - `2026-04-28-private-to-public-case-extraction-gate.ipynb` - privacy gate that
   models private-source to public-summary release decisions without raw records
   or identifiers.
+- `2026-04-28-case001-private-intake-priority-gate.ipynb` - private-workspace
+  intake gate that ranks which ignored case-record domains should be indexed
+  first before public-safe extraction.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

@@ -71,6 +71,25 @@ use
 to document the source class, release class, extracted fact, and omitted
 material.
 
+## Private Case Intake Workspace
+
+Use `private/<case-code>/` for local-only medical-record intake. The directory
+is intentionally ignored by Git, so it can hold raw PDFs, local source indexes,
+and working extraction worksheets without becoming public repo content.
+
+The tracked operating model is:
+
+1. index raw records under `private/<case-code>/` with
+   [private-case-intake-index-template.md](../templates/private-case-intake-index-template.md);
+2. extract only public-safe facts into a de-identified timeline or worksheet;
+3. run `scripts/summarize_case_timeline.py` on any de-identified timeline
+   candidate before writing public case prose;
+4. use the public release checklist before committing case-context updates.
+
+The timeline summarizer now checks row content for obvious local paths,
+contact details, record identifiers, exact birth-date labels, and patient-name
+labels before it prints a summary.
+
 ## Security Checks
 
 Before committing hygiene-sensitive changes, run:

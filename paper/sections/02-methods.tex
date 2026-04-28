@@ -22,7 +22,9 @@ Case-linked material must pass a public-release gate before entering the public
 repository. Raw medical records, direct identifiers, local source paths, and
 patient-specific treatment claims are blocked from public artifacts. Repository
 language and privacy checks scan tracked, staged, and untracked non-ignored
-candidate files before commit.
+candidate files before commit. Private intake, when needed, is kept under an
+ignored \repoPath{private/} workspace and converted into de-identified timeline
+candidates before any public case prose is written.
 
 \subsection{Evidence Classification}
 

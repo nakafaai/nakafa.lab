@@ -44,6 +44,9 @@ Current notebooks:
 - `2026-04-28-case001-high-hbf-genotype-evidence-gap.ipynb` - de-identified
   case gate that ranks missing `HBB`, `HBA1/HBA2`, and HPFH/HBG-modifier
   records before interpreting historical high HbF.
+- `2026-04-28-case001-molecular-test-escalation-gate.ipynb` - de-identified
+  case gate that turns the `phenotype_only` label into a ranked molecular-
+  record request sequence.
 - `2026-04-28-case001-immune-transfusion-record-gate.ipynb` - de-identified
   case gate that ranks missing antibody, DAT, matching, reaction, spleen, and
   transfusion volume records before interpreting weekly transfusion.

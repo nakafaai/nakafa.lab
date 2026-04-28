@@ -35,6 +35,9 @@ Use medical records where possible:
    Can the doctor confirm the current genotype-first label:
    `phenotype_only`, `hbb_confirmed`, `hbb_hba_confirmed`, or
    `modifier_context_known`?
+   If `HBB` sequencing or targeted mutation testing is incomplete, should
+   deletion/duplication analysis be considered? Has `HBA1/HBA2`
+   deletion/copy-number testing been done?
 2. Was the historical hemoglobin analysis performed before any transfusion, and
    does the high HbF reflect age, genotype, HPFH/modifier context, or treatment
    context?
@@ -204,6 +207,7 @@ clinicians.
 - [Clinician review brief](clinician-brief-case-001.md)
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
+- [Case-001 molecular test escalation gate](../findings/2026-04-28-case001-molecular-test-escalation-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

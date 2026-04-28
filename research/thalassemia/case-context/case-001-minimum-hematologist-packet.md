@@ -30,9 +30,12 @@ supplements, diet, or any treatment plan.
      alpha-thalassemia, or mixed disease;
    - current HPLC or electrophoresis fractions: HbA, HbA2, HbF, HbE if present;
    - whether the historical hemoglobin analysis was before any transfusion;
-   - `HBB`, `HBA1/HBA2`, alpha-globin copy number, and any HPFH,
-     delta-beta-thalassemia, `HBG1/HBG2`, `BCL11A`, or `HBS1L-MYB` modifier
-     result if available.
+   - `HBB` sequence or targeted mutation result, with deletion/duplication
+     follow-up if sequencing is incomplete;
+   - `HBA1/HBA2` deletion, duplication, sequence, and alpha-globin copy-number
+     context if available;
+   - any HPFH, delta-beta-thalassemia, `HBG1/HBG2`, XmnI-HBG2, `BCL11A`, or
+     `HBS1L-MYB` modifier result if available.
 2. Transfusion burden and response packet:
    - dates, pre-transfusion hemoglobin, units, volume, body weight, product
      type, reactions, and interval;
@@ -102,6 +105,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 ## Source-Backed Gates
 
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
+- [Case-001 molecular test escalation gate](../findings/2026-04-28-case001-molecular-test-escalation-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)

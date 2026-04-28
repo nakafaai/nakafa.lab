@@ -76,6 +76,8 @@ material.
 Use `private/<case-code>/` for local-only medical-record intake. The directory
 is intentionally ignored by Git, so it can hold raw PDFs, local source indexes,
 and working extraction worksheets without becoming public repo content.
+The scoped risk model for this path is tracked in
+[private-case-intake-threat-model.md](private-case-intake-threat-model.md).
 
 The tracked operating model is:
 

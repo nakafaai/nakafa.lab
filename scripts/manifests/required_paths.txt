@@ -9,6 +9,7 @@ docs/status/README.md
 docs/status/2026-04-27.md
 docs/status/daily-summary-automation.md
 docs/repo-hygiene.md
+docs/private-case-intake-threat-model.md
 docs/repo-traceability-2026-04-27.md
 docs/discovery-pipeline.md
 docs/transfusion-burden-calculator.md

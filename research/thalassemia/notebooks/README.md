@@ -38,6 +38,9 @@ Current notebooks:
   gate that pins the `AMPKB1` expansion lane to exact PF-06409577 identity,
   ChEMBL activity, and PubMed bridge evidence while blocking patient-use
   framing.
+- `2026-04-28-post-cs101-non-editing-gap-rank.ipynb` - computational pressure
+  test after `CS-101`, keeping editing and luspatercept plus thalidomide as
+  benchmarks while preserving PF-06409577 as the first expansion assay probe.
 - `2026-04-27-first-wet-lab-panel-optimizer.ipynb` - computational experiment
   that chooses a small first lab-panel candidate set by required assay coverage.
 - `2026-04-27-mechanism-gap-matrix.ipynb` - computational literature-mapping

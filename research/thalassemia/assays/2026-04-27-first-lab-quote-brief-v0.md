@@ -56,6 +56,9 @@ The PF-06409577 material gate now makes this expansion lane stricter: use exact
 PF-06409577 or an explicitly agreed `PRKAB1` / AMPK beta1-selective analog only
 when the lab can document identity and run HbF, alpha-globin/autophagy,
 maturation, viability, and hemolysis readouts.
+The post-CS-101 gap-rank gate keeps this as the first expansion probe after the
+China base-editing benchmark update. It is still assay-only biology, not a
+treatment claim.
 The target nomenclature gate clarifies that `PRKAB1` is the lab-facing human
 gene symbol, while AMPK beta1 names the protein subunit.
 
@@ -138,6 +141,7 @@ records, screenshots, prescriptions, lab reports, or private family notes.
 - [PF-06409577 probe material gate](../findings/2026-04-27-pf-06409577-probe-material-gate.md)
 - [PRKAB1 target nomenclature gate](../findings/2026-04-27-prkab1-target-nomenclature-gate.md)
 - [PF-06409577 PRKAB1 quote addendum](2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md)
+- [Post-CS-101 non-editing gap rank](../findings/2026-04-28-post-cs101-non-editing-gap-rank.md)
 - [AHSP alpha-globin buffer gate](../findings/2026-04-27-ahsp-alpha-globin-buffer-gate.md)
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)

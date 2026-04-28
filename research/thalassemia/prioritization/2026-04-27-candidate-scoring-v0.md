@@ -70,6 +70,7 @@ becoming the main affordability strategy.
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | Luspatercept | 4 | 5 | 3 | 1 | 2 | 3.40 | transfusion-burden benchmark |
 | Mitapivat | 4 | 5 | 2 | 1 | 3 | 3.30 | oral disease-modifying benchmark |
+| CS-101 / base-edited HSC | 5 | 5 | 1 | 0 | 2 | 3.15 | strongest Asia HbF editing clinical benchmark |
 | Exa-cel / CRISPR HbF | 5 | 5 | 1 | 0 | 2 | 3.15 | cure-like HbF benchmark |
 | Beti-cel / lentiviral beta-globin | 5 | 5 | 1 | 0 | 2 | 3.15 | cure-like gene-addition benchmark |
 
@@ -86,9 +87,10 @@ becoming the main affordability strategy.
    future evidence shows HbF or transfusion-burden effects.
 5. Melittin/bee venom is blocked from therapeutic framing because the safety
    score is `0`.
-6. Gene and cell therapies are the strongest proof that transfusion
-   independence is biologically possible, but access and conditioning barriers
-   keep them as benchmarks rather than the affordable discovery path.
+6. Gene and cell therapies, now including `CS-101`, are the strongest proof
+   that transfusion independence is biologically possible, but access,
+   conditioning, and infrastructure barriers keep them as benchmarks rather
+   than the affordable discovery path.
 
 ## Promotion Rule
 
@@ -131,6 +133,7 @@ gene-editing and natural HPFH biology count as true `hpfh_like` benchmarks.
 - [HPFH-like signature V0](2026-04-27-hpfh-like-signature-v0.md)
 - [HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md)
 - [Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md)
+- [Post-CS-101 non-editing gap rank](../findings/2026-04-28-post-cs101-non-editing-gap-rank.md)
 - [Top clinical lanes numeric extraction](../findings/2026-04-27-top-clinical-lanes-numeric-extraction.md)
 - [AMPKB1 autophagy HbF bridge](../findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md)
 - [Pyruvate kinase red-cell metabolism benchmark](../findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md)

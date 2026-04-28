@@ -465,6 +465,9 @@ research/thalassemia/case-context/case-001-research-routing-v0.md
 research/thalassemia/case-context/case-001-genotype-first-intake-gate-v0.md
 research/thalassemia/case-context/deidentified-case-001.md
 research/thalassemia/case-context/hematologist-question-sheet-case-001.md
+research/thalassemia/case-context/case-001-minimum-hematologist-packet.md
+research/thalassemia/findings/2026-04-28-case001-transfusion-burden-quantification-gate.md
+research/thalassemia/notebooks/2026-04-28-case001-transfusion-burden-quantification-gate.ipynb
 research/thalassemia/findings/2026-04-26-carrier-malaria.md
 research/thalassemia/findings/2026-04-26-bee-product-research-scope.md
 research/thalassemia/findings/2026-04-26-bee-derived-materials-beyond-honey.md
@@ -754,3 +757,4 @@ scripts/helpers/__init__.py
 scripts/helpers/manifest.py
 scripts/manifests/required_paths.txt
 scripts/selftest_repo_checks.py
+scripts/selftest_transfusion_burden.py

@@ -6,8 +6,10 @@ import argparse
 import csv
 import datetime as dt
 import json
+import math
 from dataclasses import dataclass
 from pathlib import Path
+from typing import TypedDict
 
 REQUIRED_COLUMNS = [
     "date",
@@ -15,6 +17,24 @@ REQUIRED_COLUMNS = [
     "transfused_volume_ml",
     "red_cell_fraction",
 ]
+
+
+class TransfusionSummary(TypedDict):
+    """Human-readable transfusion burden summary."""
+
+    row_count: int
+    start_date: str
+    end_date: str
+    period_days: int
+    mean_interval_days: float | None
+    total_transfused_volume_ml: float | None
+    total_volume_ml_per_kg: float | None
+    annual_volume_ml_per_kg: float | None
+    annual_pure_red_cell_ml_per_kg: float | None
+    daily_iron_loading_mg_per_kg: float | None
+    mean_pre_hb_g_dl: float | None
+    mean_post_hb_g_dl: float | None
+    warnings: list[str]
 
 
 @dataclass(frozen=True)
@@ -67,6 +87,15 @@ def require_float(row: dict[str, str], column: str, row_number: int) -> float:
     return float(value)
 
 
+def require_positive_float(row: dict[str, str], column: str, row_number: int) -> float:
+    """Read a required positive finite float from a CSV row."""
+    value = require_float(row, column, row_number)
+    if math.isfinite(value) and value > 0:
+        return value
+
+    raise ValueError(f"Row {row_number}: `{column}` must be a positive number.")
+
+
 def validate_columns(fieldnames: list[str] | None) -> None:
     """Ensure the CSV contains the required columns."""
     if fieldnames is None:
@@ -93,18 +122,21 @@ def load_rows(input_csv: str) -> list[TransfusionRow]:
                 continue
 
             red_cell_fraction = require_float(row, "red_cell_fraction", row_number)
-            if red_cell_fraction <= 0 or red_cell_fraction > 1:
+            if not math.isfinite(red_cell_fraction) or not 0 < red_cell_fraction <= 1:
                 raise ValueError(
                     f"Row {row_number}: `red_cell_fraction` must be between 0 and 1."
                 )
 
+            body_weight_kg = require_positive_float(row, "body_weight_kg", row_number)
+            transfused_volume_ml = require_positive_float(
+                row, "transfused_volume_ml", row_number
+            )
+
             rows.append(
                 TransfusionRow(
                     date=parse_date(row["date"]),
-                    body_weight_kg=require_float(row, "body_weight_kg", row_number),
-                    transfused_volume_ml=require_float(
-                        row, "transfused_volume_ml", row_number
-                    ),
+                    body_weight_kg=body_weight_kg,
+                    transfused_volume_ml=transfused_volume_ml,
                     red_cell_fraction=red_cell_fraction,
                     pre_hb_g_dl=parse_optional_float(row.get("pre_hb_g_dl")),
                     post_hb_g_dl=parse_optional_float(row.get("post_hb_g_dl")),
@@ -133,8 +165,11 @@ def rounded(value: float | None, digits: int = 2) -> float | None:
     return round(value, digits)
 
 
-def summarize_rows(rows: list[TransfusionRow]) -> dict:
+def summarize_rows(rows: list[TransfusionRow]) -> TransfusionSummary:
     """Summarize transfusion burden from normalized rows."""
+    if not rows:
+        raise ValueError("At least one transfusion row is required.")
+
     start_date = rows[0].date
     end_date = rows[-1].date
     period_days = (end_date - start_date).days + 1
@@ -154,7 +189,7 @@ def summarize_rows(rows: list[TransfusionRow]) -> dict:
     post_hb_values = [row.post_hb_g_dl for row in rows if row.post_hb_g_dl is not None]
 
     annual_pure_red_cell_ml_per_kg = pure_red_cell_ml_per_kg * annual_factor
-    warnings = []
+    warnings: list[str] = []
     if len(rows) < 2:
         warnings.append("Only one transfusion row; interval cannot be calculated.")
     if period_days < 28:
@@ -183,7 +218,7 @@ def summarize_rows(rows: list[TransfusionRow]) -> dict:
     }
 
 
-def format_summary(summary: dict) -> str:
+def format_summary(summary: TransfusionSummary) -> str:
     """Format a transfusion burden summary for humans."""
     lines = [
         "# Transfusion Burden Summary",

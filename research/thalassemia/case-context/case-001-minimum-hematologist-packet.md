@@ -19,6 +19,7 @@ supplements, diet, or any treatment plan.
 | Area | Current label | Meaning |
 | --- | --- | --- |
 | Diagnosis | `phenotype_only` | Historical records support a beta-thalassemia phenotype, but molecular subtype is not yet documented. |
+| Transfusion burden | `transfusion_burden_unknown` | Weekly transfusion is reported, but annual `ml/kg/year`, pure red-cell volume, Hb increment, and iron input are not yet documented. |
 | Immune/transfusion | `immune_transfusion_packet_missing` | Weekly transfusion plus reported autoimmune history cannot be interpreted without blood-bank and DAT records. |
 | Iron/chelation | `iron_packet_missing` | Weekly transfusion plus reported daily chelation cannot be interpreted without ferritin trend, LIC, cardiac `T2*`, chelator identity, and toxicity monitoring. |
 | Trial/referral | `trial_referral_not_ready` | Referral or trial screening cannot be judged until subtype, transfusion, immune, iron, organ, and access records are known. |
@@ -39,7 +40,10 @@ supplements, diet, or any treatment plan.
 2. Transfusion burden and response packet:
    - dates, pre-transfusion hemoglobin, units, volume, body weight, product
      type, reactions, and interval;
-   - annual `ml/kg/year` or pure red-cell volume if the clinic can calculate it;
+   - annual `ml/kg/year`, pure red-cell volume, unit hematocrit or red-cell
+     fraction, and estimated transfusional iron input if the clinic can
+     calculate it;
+   - post-transfusion hemoglobin or Hb increment if available;
    - whether weekly visits reflect high total requirement, low volume per visit,
      poor Hb increment, shortened donor RBC survival, or scheduling.
 3. Immune and blood-bank packet:
@@ -106,6 +110,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
 - [Case-001 molecular test escalation gate](../findings/2026-04-28-case001-molecular-test-escalation-gate.md)
+- [Case-001 transfusion burden quantification gate](../findings/2026-04-28-case001-transfusion-burden-quantification-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)

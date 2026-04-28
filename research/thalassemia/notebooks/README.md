@@ -47,6 +47,10 @@ Current notebooks:
 - `2026-04-28-case001-molecular-test-escalation-gate.ipynb` - de-identified
   case gate that turns the `phenotype_only` label into a ranked molecular-
   record request sequence.
+- `2026-04-28-case001-transfusion-burden-quantification-gate.ipynb` -
+  de-identified case gate that keeps weekly transfusion as
+  `transfusion_burden_unknown` until annual volume, pure red-cell volume, Hb
+  response, and iron input are quantified.
 - `2026-04-28-case001-immune-transfusion-record-gate.ipynb` - de-identified
   case gate that ranks missing antibody, DAT, matching, reaction, spleen, and
   transfusion volume records before interpreting weekly transfusion.

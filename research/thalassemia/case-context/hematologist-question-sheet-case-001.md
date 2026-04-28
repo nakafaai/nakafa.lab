@@ -52,12 +52,15 @@ Use medical records where possible:
    `delayed_reaction_history_known`, or `transfusion_survival_under_review`?
 4. Is the current transfusion target aligned with modern TDT care, including
    pre-transfusion hemoglobin target and transfusion volume?
-5. Is iron overload monitoring complete enough: ferritin trend, liver iron
+5. Can the clinic quantify baseline transfusion burden as annual total
+   `ml/kg/year`, annual pure red-cell `ml/kg/year`, unit hematocrit or red-cell
+   fraction, pre/post Hb response, and estimated transfusional iron input?
+6. Is iron overload monitoring complete enough: ferritin trend, liver iron
    concentration MRI, and cardiac `T2*`?
-6. Is current chelation optimized and tolerated?
-7. Does the reported autoimmune issue affect transfusion response, compatibility,
+7. Is current chelation optimized and tolerated?
+8. Does the reported autoimmune issue affect transfusion response, compatibility,
    chelation, or eligibility for disease-modifying/curative therapy?
-8. Should this patient be evaluated for luspatercept, mitapivat, HSCT, gene
+9. Should this patient be evaluated for luspatercept, mitapivat, HSCT, gene
    therapy, CRISPR therapy, or a clinical trial?
 
 ## Records To Bring Or Request
@@ -67,7 +70,7 @@ Use medical records where possible:
 | Diagnosis | clinical diagnosis note, subtype, TDT/NTDT classification |
 | Hemoglobin fractions | HPLC or electrophoresis: HbA, HbA2, HbF, HbE if present |
 | Genetics | `HBB`, `HBA`, and any HbF modifier results if available |
-| Transfusion | dates, units, volume, pre-transfusion Hb, reactions |
+| Transfusion | dates, units, volume, body weight, unit hematocrit or red-cell fraction, pre/post Hb, reactions |
 | Blood matching | ABO, Rh C/c, Rh D, Rh E/e, Kell, extended matching policy |
 | Immune/transfusion | antibody screen, named alloantibodies, DAT/direct Coombs, crossmatch difficulty |
 | Iron overload | ferritin trend, liver iron concentration MRI, cardiac `T2*` |
@@ -208,6 +211,7 @@ clinicians.
 - [Medical record extraction 2026-04-28](case-001-medical-record-extraction-2026-04-28.md)
 - [Case-001 high-HbF genotype evidence gate](../findings/2026-04-28-case001-high-hbf-genotype-evidence-gate.md)
 - [Case-001 molecular test escalation gate](../findings/2026-04-28-case001-molecular-test-escalation-gate.md)
+- [Case-001 transfusion burden quantification gate](../findings/2026-04-28-case001-transfusion-burden-quantification-gate.md)
 - [Case-001 immune transfusion record gate](../findings/2026-04-28-case001-immune-transfusion-record-gate.md)
 - [Case-001 iron chelation organ-risk record gate](../findings/2026-04-28-case001-iron-chelation-organ-risk-record-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

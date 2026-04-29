@@ -132,6 +132,10 @@ Use the [case-001 no-lab completion tracker](case-001-no-lab-completion-tracker.
 as the public-safe work queue for these domains. It should list labels and
 record requests only, not raw medical facts.
 
+Use the [case-001 record request matrix](case-001-record-request-matrix.md) as
+the concrete ask list for private record retrieval. It should not be used to
+publish new case facts before release review.
+
 ## Public Release Rule
 
 Before adding new case-001 facts to the public repo, use the
@@ -152,6 +156,8 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 advanced therapy referral readiness gate](../findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md)
 - [No-lab execution ladder](../findings/2026-04-29-no-lab-execution-ladder.md)
 - [Case-001 no-lab completion tracker gate](../findings/2026-04-29-case001-no-lab-completion-tracker-gate.md)
+- [Case-001 record request matrix](case-001-record-request-matrix.md)
+- [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

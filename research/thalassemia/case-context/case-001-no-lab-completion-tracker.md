@@ -39,6 +39,10 @@ diet, supplements, referral, or any therapy plan.
 5. Advanced-therapy or trial referral-readiness labels.
 6. Public-release review for any de-identified summary.
 
+Use the [case-001 record request matrix](case-001-record-request-matrix.md) as
+the exact public-safe request layer for these domains. It should remain a list
+of asks and labels, not a repository for raw medical facts.
+
 ## Public Release Rule
 
 No new case fact should enter the public repo until it passes:
@@ -64,6 +68,8 @@ recommend supplements, or decide trial eligibility.
 
 - [No-lab execution ladder](../findings/2026-04-29-no-lab-execution-ladder.md)
 - [Case-001 minimum hematologist packet](case-001-minimum-hematologist-packet.md)
+- [Case-001 record request matrix](case-001-record-request-matrix.md)
+- [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
 - [Private case intake workspace gate](../findings/2026-04-28-private-case-intake-workspace-gate.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Private case intake threat model](../../../docs/private-case-intake-threat-model.md)
@@ -71,3 +77,4 @@ recommend supplements, or decide trial eligibility.
 - [Private-to-public extraction template](../../../templates/private-to-public-case-extraction-template.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)
 - [No-lab completion tracker notebook](../notebooks/2026-04-29-case001-no-lab-completion-tracker.ipynb)
+- [Record request matrix notebook](../notebooks/2026-04-29-case001-record-request-matrix.ipynb)

@@ -18,8 +18,9 @@ supplements, diet, or any treatment plan.
 
 | Area | Current label | Meaning |
 | --- | --- | --- |
+| Clinical dependence | `transfusion_dependent_reported` | Caregiver context reports regular transfusion dependence; the clinician should confirm the exact category and wording. |
 | Diagnosis | `phenotype_only` | Historical records support a beta-thalassemia phenotype, but molecular subtype is not yet documented. |
-| Transfusion burden | `transfusion_burden_unknown` | Weekly transfusion is reported, but annual `ml/kg/year`, pure red-cell volume, Hb increment, and iron input are not yet documented. |
+| Transfusion burden | `transfusion_dependent_burden_unquantified` | Regular transfusion is reported, but annual `ml/kg/year`, pure red-cell volume, Hb increment, and iron input are not yet documented. |
 | Immune/transfusion | `immune_transfusion_packet_missing` | Weekly transfusion plus reported autoimmune history cannot be interpreted without blood-bank and DAT records. |
 | Iron/chelation | `iron_packet_missing` | Weekly transfusion plus reported daily chelation cannot be interpreted without ferritin trend, LIC, cardiac `T2*`, chelator identity, and toxicity monitoring. |
 | Trial/referral | `trial_referral_not_ready` | Referral or trial screening cannot be judged until subtype, transfusion, immune, iron, organ, and access records are known. |
@@ -136,6 +137,10 @@ Use the [case-001 record request matrix](case-001-record-request-matrix.md) as
 the concrete ask list for private record retrieval. It should not be used to
 publish new case facts before release review.
 
+Use the [case-001 doctor handoff brief](case-001-doctor-handoff-brief.md) as
+the first doctor-facing document. Use the main paper only as a research appendix
+for clinicians or collaborators who ask for the broader evidence map.
+
 ## Public Release Rule
 
 Before adding new case-001 facts to the public repo, use the
@@ -158,6 +163,8 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 no-lab completion tracker gate](../findings/2026-04-29-case001-no-lab-completion-tracker-gate.md)
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
+- [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
+- [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

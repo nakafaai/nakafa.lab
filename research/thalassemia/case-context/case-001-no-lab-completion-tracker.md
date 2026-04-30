@@ -23,7 +23,7 @@ diet, supplements, referral, or any therapy plan.
 | Domain | Current label | Public-safe next action | Public update allowed? |
 | --- | --- | --- | --- |
 | Diagnosis and genotype | `phenotype_only` | Privately index current diagnosis note, HPLC/electrophoresis, `HBB`, `HBA1/HBA2`, and HbF-modifier records if available. | No |
-| Transfusion burden | `transfusion_burden_unknown` | Use de-identified private logs to calculate dates, weight, volume, red-cell fraction, pre/post Hb, `ml/kg/year`, and estimated iron input. | No |
+| Transfusion burden | `transfusion_dependent_burden_unquantified` | Use de-identified private logs to calculate dates, weight, volume, red-cell fraction, pre/post Hb, `ml/kg/year`, and estimated iron input. | No |
 | Immune and blood-bank | `immune_transfusion_packet_missing` | Privately request or index antibody screen, named antibodies, DAT/direct Coombs specificity, matching policy, red-cell phenotype/genotype, reactions, and hemolysis workup. | No |
 | Iron, chelation, and organ risk | `iron_packet_missing` | Privately index ferritin trend, LIC MRI, cardiac `T2*`, chelator identity, adherence, toxicity monitoring, and organ-risk screen. | No |
 | Advanced-therapy referral | `advanced_therapy_referral_packet_missing` | Ask only whether the packet is not ready, partial, ready for specialist screening, medically unsuitable, access-blocked, or under review. | No |
@@ -42,6 +42,10 @@ diet, supplements, referral, or any therapy plan.
 Use the [case-001 record request matrix](case-001-record-request-matrix.md) as
 the exact public-safe request layer for these domains. It should remain a list
 of asks and labels, not a repository for raw medical facts.
+
+Use the [case-001 doctor handoff brief](case-001-doctor-handoff-brief.md) for
+the clinician conversation. The main paper remains a research appendix, not the
+first doctor-facing document.
 
 ## Public Release Rule
 
@@ -70,6 +74,8 @@ recommend supplements, or decide trial eligibility.
 - [Case-001 minimum hematologist packet](case-001-minimum-hematologist-packet.md)
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
+- [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
+- [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Private case intake workspace gate](../findings/2026-04-28-private-case-intake-workspace-gate.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Private case intake threat model](../../../docs/private-case-intake-threat-model.md)

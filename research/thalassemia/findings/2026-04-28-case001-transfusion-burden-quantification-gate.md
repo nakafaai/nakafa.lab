@@ -8,7 +8,7 @@ not diagnosis and not treatment advice
 
 Case-001 should carry an additional record label:
 
-`transfusion_burden_unknown`
+`transfusion_dependent_burden_unquantified`
 
 The family-reported weekly transfusion schedule is not enough to judge disease
 severity, iron input, response to transfusion, or relevance of any candidate
@@ -77,7 +77,7 @@ or iron-axis idea cannot be called relevant to this case from interval alone.
 
 Use the durable label:
 
-`transfusion_burden_unknown`
+`transfusion_dependent_burden_unquantified`
 
 Then upgrade only when a clinician-reviewed packet gives enough data to assign
 one or more narrower labels, such as `annual_volume_known`,

@@ -27,6 +27,10 @@ per kg before dividing by days.
 Use the CSV header in
 [transfusion-log-template.csv](../templates/transfusion-log-template.csv).
 
+For case-context work, keep the public-safe label
+`transfusion_dependent_burden_unquantified` until the private log has enough
+fields for calculation and clinician review.
+
 Required columns:
 
 - `date`
@@ -78,6 +82,10 @@ The JSON output includes:
 Warnings are expected when the log has only one row or covers fewer than 28
 days. Short windows can be useful for debugging the data format, but they are
 too noisy for case interpretation.
+
+Use the
+[case-001 transfusion burden readiness gate](../research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md)
+before treating any aggregate as ready for clinician discussion.
 
 ## Verification
 

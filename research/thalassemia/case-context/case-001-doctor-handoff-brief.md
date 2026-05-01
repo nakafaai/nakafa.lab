@@ -81,6 +81,7 @@ Nakafa Lab can continue non-clinical work in parallel:
 - [Case-001 no-lab completion tracker](case-001-no-lab-completion-tracker.md)
 - [Case-001 minimum hematologist packet](case-001-minimum-hematologist-packet.md)
 - [Doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
+- [Transfusion burden readiness gate](../findings/2026-05-01-case001-transfusion-burden-readiness-gate.md)
 - [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/)
 - [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/)
 - [TIF 2025 monitoring recommendations](https://www.ncbi.nlm.nih.gov/books/NBK614248/)

@@ -725,10 +725,12 @@ research/thalassemia/notebooks/2026-04-29-no-lab-execution-ladder.ipynb
 research/thalassemia/notebooks/2026-04-29-case001-no-lab-completion-tracker.ipynb
 research/thalassemia/notebooks/2026-04-29-case001-record-request-matrix.ipynb
 research/thalassemia/notebooks/2026-04-30-case001-doctor-handoff-sprint.ipynb
+research/thalassemia/notebooks/2026-05-01-case001-transfusion-burden-readiness-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
+research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json

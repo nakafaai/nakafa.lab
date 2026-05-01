@@ -68,7 +68,7 @@ Case-001 remains:
 
 - `patient_relevance_blocked`;
 - `phenotype_only`;
-- `transfusion_burden_unknown`;
+- `transfusion_dependent_burden_unquantified`;
 - `immune_transfusion_packet_missing`;
 - `iron_packet_missing`;
 - `advanced_therapy_referral_packet_missing`.

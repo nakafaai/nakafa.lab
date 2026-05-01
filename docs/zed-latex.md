@@ -35,6 +35,18 @@ The PDF is generated at:
 paper/build/main.pdf
 ```
 
+For clinician handoff, build the short doctor-first packet instead:
+
+```sh
+tectonic --outdir paper/build paper/case-001-doctor-handoff.tex
+```
+
+The doctor handoff PDF is generated at:
+
+```text
+paper/build/case-001-doctor-handoff.pdf
+```
+
 ## Build In Terminal
 
 ```sh

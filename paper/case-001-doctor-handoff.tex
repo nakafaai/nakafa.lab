@@ -1,0 +1,113 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.75in]{geometry}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{xurl}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!60!black,
+  urlcolor=blue!60!black
+}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash\hspace{0pt}}X}
+\setlist[itemize]{leftmargin=*, itemsep=2pt, topsep=3pt}
+\setlist[enumerate]{leftmargin=*, itemsep=2pt, topsep=3pt}
+\emergencystretch=3em
+
+\title{Case-001 Doctor Handoff}
+\author{Nakafa Lab}
+\date{Prepared 2026-05-01}
+
+\begin{document}
+
+\maketitle
+
+\noindent\textbf{Status:} de-identified clinician conversation aid, not
+medical advice. No raw records, identifiers, exact dates, local file paths, or
+patient-specific treatment instructions are included.
+
+\section*{Why We Are Asking}
+
+The family is not asking for treatment changes from this document. The request
+is to confirm labels, name missing records, and decide whether the case is
+ready for specialist screening or still data-missing.
+
+\section*{What To Confirm}
+
+\begin{enumerate}
+  \item What is the current diagnosis category: TDT, NTDT with regular
+  transfusion, HbE/beta-thalassemia, alpha-thalassemia, mixed disease, or
+  another label?
+  \item What molecular records are available or missing: \texttt{HBB},
+  \texttt{HBA1/HBA2}, HPFH/delta-beta-thalassemia, and HbF modifier context?
+  \item Why is transfusion frequent: high annual requirement, small per-visit
+  volume, low Hb increment, shortened red-cell survival, spleen or
+  hypersplenism, alloantibody or autoantibody issue, matching issue,
+  scheduling, or another cause?
+  \item Are iron, chelation, cardiac, liver, endocrine, kidney, bone, spleen,
+  immune, and blood-bank records complete enough to interpret risk?
+  \item Is the case ready for specialist screening for HSCT, gene-cell therapy,
+  disease-modifying drugs, or trials; or is it still data-missing, medically
+  unsuitable, access-blocked, or already under review?
+\end{enumerate}
+
+\section*{Current Public-Safe Labels}
+
+\begin{tabularx}{\textwidth}{@{}p{0.28\textwidth}Y@{}}
+\toprule
+Area & Current label to validate \\
+\midrule
+Clinical dependence & \texttt{transfusion\_dependent\_reported} \\
+Diagnosis & \texttt{phenotype\_only} \\
+Transfusion burden & \texttt{transfusion\_dependent\_burden\_unquantified} \\
+Immune and blood-bank & \texttt{immune\_transfusion\_packet\_missing} \\
+Iron, chelation, and organ risk & \texttt{iron\_packet\_missing} \\
+Referral readiness & \texttt{advanced\_therapy\_referral\_packet\_missing} \\
+\bottomrule
+\end{tabularx}
+
+\section*{Records To Attach Or Request}
+
+\begin{itemize}
+  \item Private historical thalassemia screening and early hematology PDFs.
+  \item Current diagnosis note, current HPLC/electrophoresis, and molecular
+  testing if available.
+  \item Transfusion dates, body weight, blood volume, product type,
+  pre-transfusion Hb, post-transfusion Hb if available, interval, and
+  reactions.
+  \item ABO/Rh/Kell, extended matching policy, antibody screen, named
+  antibodies, DAT/direct Coombs with IgG/C3 specificity if available,
+  crossmatch problems, and hemolysis workup.
+  \item Ferritin trend, liver iron concentration MRI, cardiac \texttt{T2*},
+  chelator name, dose, schedule, adherence, side effects, and monitoring.
+  \item Autoimmune diagnosis, spleen status, infection/hepatitis context,
+  organ-risk monitoring, and any prior referral or advanced-therapy discussion.
+\end{itemize}
+
+\section*{Answer Format Requested}
+
+\begin{enumerate}
+  \item Corrected diagnosis/category label.
+  \item Which public-safe labels above are correct, wrong, or not confirmable.
+  \item First missing records the family should request.
+  \item Whether specialist screening is ready, data-missing, medically
+  unsuitable, access-blocked, or already under review.
+  \item Which clinical owner should review the next packet: hematology,
+  transfusion medicine, genetics, iron/organ-risk specialist, transplant
+  center, or another service.
+\end{enumerate}
+
+\section*{Boundary}
+
+Do not change transfusion, chelation, immune medicines, supplements, diet,
+referral plan, or trial enrollment based on this handoff. Clinical decisions
+belong to licensed clinicians. The longer Nakafa Lab main paper is a research
+appendix, not the first doctor-facing document.
+
+\end{document}

@@ -14,6 +14,35 @@ The goal is not to ask the doctor to approve Nakafa Lab as a research program.
 The goal is to ask the doctor to validate labels, identify missing records, and
 state whether the case is ready for specialist or advanced-therapy review.
 
+## Send This First
+
+Do not send `paper/build/main.pdf` as the first doctor-facing document. The main
+paper is a research evidence map, so it starts with benchmarks, registries, and
+research methods. That is useful as an appendix only if the clinician asks for
+the broader research rationale.
+
+Use this order for a doctor conversation:
+
+1. this handoff brief or the compiled doctor handoff PDF;
+2. the private original lab and screening PDFs;
+3. any current transfusion, chelation, blood-bank, iron, organ-risk, and
+   autoimmune records;
+4. the main paper only as an optional research appendix.
+
+## Output Needed From The Doctor
+
+Please return a short answer in this structure:
+
+1. corrected diagnosis and category label;
+2. which current labels below are correct, wrong, or impossible to confirm;
+3. which records are missing and where the family should request them;
+4. whether specialist, transplant, gene-cell therapy, disease-modifying drug, or
+   trial screening is ready now, data-missing, medically unsuitable,
+   access-blocked, or already under review;
+5. which clinical owner should review the next packet: hematology,
+   transfusion medicine, genetics, iron/organ-risk specialist, transplant
+   center, or another service.
+
 ## Current Public-Safe Working Labels
 
 | Area | Current label | What needs validation |

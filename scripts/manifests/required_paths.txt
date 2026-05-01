@@ -602,7 +602,9 @@ research/islamic/quran/shifa-root-map.md
 research/islamic/quran/quran-wide-healing-search-plan.md
 research/islamic/quran/quranic-natural-material-candidate-map.md
 paper/main.tex
+paper/case-001-doctor-handoff.tex
 paper/sections/00-abstract.tex
+paper/sections/00-reader-guide.tex
 paper/sections/01-introduction.tex
 paper/sections/02-methods.tex
 paper/sections/03-results.tex

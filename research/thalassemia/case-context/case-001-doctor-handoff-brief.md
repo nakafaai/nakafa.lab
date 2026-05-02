@@ -43,6 +43,12 @@ Please return a short answer in this structure:
    transfusion medicine, genetics, iron/organ-risk specialist, transplant
    center, or another service.
 
+After the doctor replies, use the
+[case-001 doctor response triage](case-001-doctor-response-triage.md) to map
+the response into labels and missing records. Do not publish raw chat text,
+screenshots, clinician names, hospital names, or patient-specific treatment
+instructions.
+
 ## Current Public-Safe Working Labels
 
 | Area | Current label | What needs validation |

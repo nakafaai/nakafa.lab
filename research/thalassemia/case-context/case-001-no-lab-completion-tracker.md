@@ -75,6 +75,7 @@ recommend supplements, or decide trial eligibility.
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
 - [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
+- [Case-001 doctor response triage](case-001-doctor-response-triage.md)
 - [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Private case intake workspace gate](../findings/2026-04-28-private-case-intake-workspace-gate.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)

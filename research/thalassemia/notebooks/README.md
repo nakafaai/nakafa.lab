@@ -64,6 +64,10 @@ Current notebooks:
   de-identified gate that keeps HSCT, gene-cell therapy, disease-modifying
   drugs, and trials as specialist-screening questions until the referral packet
   is complete enough for clinician review.
+- `2026-05-02-case001-doctor-response-triage-gate.ipynb` - de-identified
+  triage gate that maps doctor replies into confirmed, corrected,
+  missing-record, not-applicable, or specialist-review outcomes without raw
+  message text.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

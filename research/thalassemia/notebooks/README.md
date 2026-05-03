@@ -68,6 +68,9 @@ Current notebooks:
   triage gate that maps doctor replies into confirmed, corrected,
   missing-record, not-applicable, or specialist-review outcomes without raw
   message text.
+- `2026-05-03-case001-specialist-owner-routing-gate.ipynb` - de-identified
+  routing gate that maps unresolved domains to likely clinical owners while
+  keeping patient-specific claims blocked.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

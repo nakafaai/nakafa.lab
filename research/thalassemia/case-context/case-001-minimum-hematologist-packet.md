@@ -141,6 +141,11 @@ Use the [case-001 doctor handoff brief](case-001-doctor-handoff-brief.md) as
 the first doctor-facing document. Use the main paper only as a research appendix
 for clinicians or collaborators who ask for the broader evidence map.
 
+Use the [case-001 specialist owner routing](case-001-specialist-owner-routing.md)
+when the first doctor cannot close every domain or redirects part of the packet
+to transfusion medicine, genetics, iron/organ monitoring, transplant, gene-cell
+therapy, or a trial team.
+
 ## Public Release Rule
 
 Before adding new case-001 facts to the public repo, use the
@@ -165,6 +170,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
 - [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
 - [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
+- [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

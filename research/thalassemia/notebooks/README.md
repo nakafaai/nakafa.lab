@@ -71,6 +71,9 @@ Current notebooks:
 - `2026-05-03-case001-specialist-owner-routing-gate.ipynb` - de-identified
   routing gate that maps unresolved domains to likely clinical owners while
   keeping patient-specific claims blocked.
+- `2026-05-04-case001-owner-outreach-packet-gate.ipynb` - de-identified
+  outreach gate that converts owner routes into one narrow ask per clinical
+  owner while keeping private responses out of the public repo.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

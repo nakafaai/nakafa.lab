@@ -71,6 +71,7 @@ evidence.
 - [No-lab execution ladder](../findings/2026-04-29-no-lab-execution-ladder.md)
 - [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
 - [Doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
+- [Case-001 owner outreach packet](case-001-owner-outreach-packet.md) and [owner outreach packet gate](../findings/2026-05-04-case001-owner-outreach-packet-gate.md)
 - [Private case intake workspace gate](../findings/2026-04-28-private-case-intake-workspace-gate.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - TIF 2025 chapters: [blood transfusion](https://www.ncbi.nlm.nih.gov/books/NBK614240/), [iron overload](https://www.ncbi.nlm.nih.gov/books/NBK614244/), and [monitoring](https://www.ncbi.nlm.nih.gov/books/NBK614248/)

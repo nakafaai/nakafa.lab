@@ -45,9 +45,15 @@ interpretation. If an owner asks for records, return to the private source index
 and record request matrix. If an owner gives patient-specific treatment
 instructions, keep them private and do not convert them into public repo claims.
 
+Once a likely owner is known, use the
+[Case-001 owner outreach packet](case-001-owner-outreach-packet.md) instead of
+sending the full research paper as the first-contact artifact.
+
 ## Source-Backed Gates
 
 - [Case-001 doctor response triage](case-001-doctor-response-triage.md)
 - [Case-001 specialist owner routing gate](../findings/2026-05-03-case001-specialist-owner-routing-gate.md)
+- [Case-001 owner outreach packet](case-001-owner-outreach-packet.md)
+- [Case-001 owner outreach packet gate](../findings/2026-05-04-case001-owner-outreach-packet-gate.md)
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)

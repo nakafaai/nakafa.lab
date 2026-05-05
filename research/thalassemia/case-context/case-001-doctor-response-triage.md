@@ -54,6 +54,10 @@ clinical service, use the
 not interpret that domain until the correct owner is known or the owner marks it
 not applicable.
 
+For owner-specific replies after routing, use the
+[case-001 owner response capture](case-001-owner-response-capture.md) guide
+before writing public case labels.
+
 ## What Not To Do
 
 - Do not publish a raw chat transcript.
@@ -67,6 +71,7 @@ not applicable.
 - [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
 - [Case-001 doctor response triage gate](../findings/2026-05-02-case001-doctor-response-triage-gate.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
+- [Case-001 owner response capture](case-001-owner-response-capture.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)
 - [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/)
 - [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/)

@@ -74,6 +74,9 @@ Current notebooks:
 - `2026-05-04-case001-owner-outreach-packet-gate.ipynb` - de-identified
   outreach gate that converts owner routes into one narrow ask per clinical
   owner while keeping private responses out of the public repo.
+- `2026-05-05-case001-owner-response-capture-gate.ipynb` - de-identified
+  response-capture gate that reduces owner replies to public-safe labels before
+  release.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

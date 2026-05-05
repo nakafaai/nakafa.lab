@@ -58,6 +58,9 @@ Use only these labels in public:
 - Patient-specific treatment instructions remain private and clinician-owned.
 - If an owner asks for records, return to the private source index and the
   record request matrix before changing public labels.
+- If an owner replies, use the
+  [Case-001 owner response capture](case-001-owner-response-capture.md) guide
+  before writing any public update.
 
 ## Do Not Ask This Packet To Decide
 
@@ -75,5 +78,7 @@ small enough for the right owner to answer.
 
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 owner outreach packet gate](../findings/2026-05-04-case001-owner-outreach-packet-gate.md)
+- [Case-001 owner response capture](case-001-owner-response-capture.md)
+- [Case-001 owner response capture gate](../findings/2026-05-05-case001-owner-response-capture-gate.md)
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)

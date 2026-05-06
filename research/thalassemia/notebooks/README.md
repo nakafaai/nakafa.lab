@@ -77,6 +77,9 @@ Current notebooks:
 - `2026-05-05-case001-owner-response-capture-gate.ipynb` - de-identified
   response-capture gate that reduces owner replies to public-safe labels before
   release.
+- `2026-05-06-case001-owner-follow-up-ladder-gate.ipynb` - de-identified
+  follow-up ladder that maps unanswered, redirected, or record-requested
+  outreach to safe next states.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

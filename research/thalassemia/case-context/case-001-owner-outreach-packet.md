@@ -61,6 +61,9 @@ Use only these labels in public:
 - If an owner replies, use the
   [Case-001 owner response capture](case-001-owner-response-capture.md) guide
   before writing any public update.
+- If no reply is recorded, use the
+  [Case-001 owner follow-up ladder](case-001-owner-follow-up-ladder.md) before
+  sending another message.
 
 ## Do Not Ask This Packet To Decide
 
@@ -80,5 +83,7 @@ small enough for the right owner to answer.
 - [Case-001 owner outreach packet gate](../findings/2026-05-04-case001-owner-outreach-packet-gate.md)
 - [Case-001 owner response capture](case-001-owner-response-capture.md)
 - [Case-001 owner response capture gate](../findings/2026-05-05-case001-owner-response-capture-gate.md)
+- [Case-001 owner follow-up ladder](case-001-owner-follow-up-ladder.md)
+- [Case-001 owner follow-up ladder gate](../findings/2026-05-06-case001-owner-follow-up-ladder-gate.md)
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)

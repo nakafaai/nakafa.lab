@@ -59,6 +59,10 @@ to de-identified labels and pass the public release checklist.
 6. If treatment instructions appear, keep them private and clinician-owned.
 7. Commit only de-identified labels after public release checks pass.
 
+If no reply is recorded after outreach, use the
+[Case-001 owner follow-up ladder](case-001-owner-follow-up-ladder.md) before
+sending another message.
+
 ## Do Not Ask This Guide To Decide
 
 - Whether a diagnosis is correct.
@@ -77,4 +81,5 @@ capture and public release.
 - [Case-001 owner response capture gate](../findings/2026-05-05-case001-owner-response-capture-gate.md)
 - [Case-001 doctor response triage](case-001-doctor-response-triage.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
+- [Case-001 owner follow-up ladder](case-001-owner-follow-up-ladder.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)

@@ -80,6 +80,8 @@ Current notebooks:
 - `2026-05-06-case001-owner-follow-up-ladder-gate.ipynb` - de-identified
   follow-up ladder that maps unanswered, redirected, or record-requested
   outreach to safe next states.
+- `2026-05-07-case001-public-collaborator-intake-gate.ipynb` - de-identified
+  public-collaboration gate that maps helper roles to safe intake states.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

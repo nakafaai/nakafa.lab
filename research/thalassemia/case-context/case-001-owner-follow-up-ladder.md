@@ -63,12 +63,16 @@ Do not attach the whole research paper unless the owner asks for background.
 - A record request returns to the record request matrix.
 - A redirect returns to specialist-owner routing.
 - A reply with content returns to owner response capture.
+- A public helper inquiry returns to
+  [Case-001 public collaborator intake](case-001-public-collaborator-intake.md)
+  before any private records or clinical claims are discussed.
 
 ## Source-Backed Gates
 
 - [Case-001 owner outreach packet](case-001-owner-outreach-packet.md)
 - [Case-001 owner response capture](case-001-owner-response-capture.md)
 - [Case-001 owner follow-up ladder gate](../findings/2026-05-06-case001-owner-follow-up-ladder-gate.md)
+- [Case-001 public collaborator intake](case-001-public-collaborator-intake.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)

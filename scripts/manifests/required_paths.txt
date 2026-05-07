@@ -583,6 +583,7 @@ research/islamic/findings/2026-04-26-theology-of-means.md
 research/islamic/findings/2026-04-27-illness-not-blame-guardrail.md
 research/islamic/findings/2026-04-27-black-seed-hadith-guardrail.md
 research/islamic/quran/002-al-baqarah/155.md
+research/islamic/quran/005-al-maidah/002.md
 research/islamic/quran/006-al-anam/099.md
 research/islamic/quran/009-at-tawbah/014.md
 research/islamic/quran/010-yunus/057.md
@@ -733,6 +734,7 @@ research/thalassemia/notebooks/2026-05-03-case001-specialist-owner-routing-gate.
 research/thalassemia/notebooks/2026-05-04-case001-owner-outreach-packet-gate.ipynb
 research/thalassemia/notebooks/2026-05-05-case001-owner-response-capture-gate.ipynb
 research/thalassemia/notebooks/2026-05-06-case001-owner-follow-up-ladder-gate.ipynb
+research/thalassemia/notebooks/2026-05-07-case001-public-collaborator-intake-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -740,6 +742,7 @@ research/thalassemia/case-context/case-001-specialist-owner-routing.md
 research/thalassemia/case-context/case-001-owner-outreach-packet.md
 research/thalassemia/case-context/case-001-owner-response-capture.md
 research/thalassemia/case-context/case-001-owner-follow-up-ladder.md
+research/thalassemia/case-context/case-001-public-collaborator-intake.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
 research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
@@ -748,8 +751,10 @@ research/thalassemia/findings/2026-05-03-case001-specialist-owner-routing-gate.m
 research/thalassemia/findings/2026-05-04-case001-owner-outreach-packet-gate.md
 research/thalassemia/findings/2026-05-05-case001-owner-response-capture-gate.md
 research/thalassemia/findings/2026-05-06-case001-owner-follow-up-ladder-gate.md
+research/thalassemia/findings/2026-05-07-case001-public-collaborator-intake-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
+templates/public-collaborator-intake-template.md
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json

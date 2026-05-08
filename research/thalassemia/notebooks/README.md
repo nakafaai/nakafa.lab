@@ -82,6 +82,9 @@ Current notebooks:
   outreach to safe next states.
 - `2026-05-07-case001-public-collaborator-intake-gate.ipynb` - de-identified
   public-collaboration gate that maps helper roles to safe intake states.
+- `2026-05-08-case001-public-share-kit-gate.ipynb` - de-identified public-share
+  gate that checks the post states, role asks, and blocked public content before
+  sharing Nakafa Lab publicly.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

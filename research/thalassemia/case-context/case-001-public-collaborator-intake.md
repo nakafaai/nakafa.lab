@@ -12,6 +12,9 @@ Use this when Nakafa Lab is shared publicly and people offer help. The goal is
 to route each offer to a bounded task without exposing private case data or
 creating public medical advice.
 
+Use the public share kit before posting a public call:
+[Case-001 public share kit](case-001-public-share-kit.md).
+
 ## Current Intake Label
 
 `public_collaborator_intake_ready`
@@ -68,6 +71,7 @@ barriers.
 
 ## Source-Backed Gates
 
+- [Case-001 public share kit](case-001-public-share-kit.md)
 - [Case-001 public collaborator intake gate](../findings/2026-05-07-case001-public-collaborator-intake-gate.md)
 - [Case-001 owner outreach packet](case-001-owner-outreach-packet.md)
 - [Case-001 owner follow-up ladder](case-001-owner-follow-up-ladder.md)

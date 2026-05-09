@@ -63,6 +63,7 @@ domain.
 
 ## Source-Backed Gates
 
+- [Case-001 public responder qualification](case-001-public-responder-qualification.md)
 - [Case-001 public share kit gate](../findings/2026-05-08-case001-public-share-kit-gate.md)
 - [Case-001 public collaborator intake](case-001-public-collaborator-intake.md)
 - [Case-001 owner outreach packet](case-001-owner-outreach-packet.md)

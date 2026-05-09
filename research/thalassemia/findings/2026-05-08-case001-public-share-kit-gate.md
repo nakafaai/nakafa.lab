@@ -87,7 +87,7 @@ anti-exaggeration anchor. These are method boundaries, not biomedical evidence.
 - [Case-001 public collaborator intake](../case-context/case-001-public-collaborator-intake.md)
 - [Case-001 public share kit](../case-context/case-001-public-share-kit.md)
 - [Public collaboration call template](../../../templates/public-collaboration-call-template.md)
-- [HHS de-identification guidance](https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html)
+- [HHS de-identification guidance](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html)
 - [TIF 2025 TDT guideline](https://www.ncbi.nlm.nih.gov/books/NBK614251/)
 - [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/)
 - [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/)

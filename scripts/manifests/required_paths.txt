@@ -715,6 +715,7 @@ data/registries/clinicaltrials/2026-04-27-active-referral-gene-therapy-beta-thal
 data/registries/clinicaltrials/2026-04-27-active-referral-crispr-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-luspatercept-beta-thalassemia.json
 data/registries/clinicaltrials/2026-04-27-active-referral-mitapivat-beta-thalassemia.json
+data/registries/clinicaltrials/2026-05-09-active-tdt-registry-refresh.json
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
 research/thalassemia/assays/2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md
@@ -736,6 +737,7 @@ research/thalassemia/notebooks/2026-05-05-case001-owner-response-capture-gate.ip
 research/thalassemia/notebooks/2026-05-06-case001-owner-follow-up-ladder-gate.ipynb
 research/thalassemia/notebooks/2026-05-07-case001-public-collaborator-intake-gate.ipynb
 research/thalassemia/notebooks/2026-05-08-case001-public-share-kit-gate.ipynb
+research/thalassemia/notebooks/2026-05-09-case001-public-responder-qualification-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -745,6 +747,7 @@ research/thalassemia/case-context/case-001-owner-response-capture.md
 research/thalassemia/case-context/case-001-owner-follow-up-ladder.md
 research/thalassemia/case-context/case-001-public-collaborator-intake.md
 research/thalassemia/case-context/case-001-public-share-kit.md
+research/thalassemia/case-context/case-001-public-responder-qualification.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
 research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
@@ -755,10 +758,12 @@ research/thalassemia/findings/2026-05-05-case001-owner-response-capture-gate.md
 research/thalassemia/findings/2026-05-06-case001-owner-follow-up-ladder-gate.md
 research/thalassemia/findings/2026-05-07-case001-public-collaborator-intake-gate.md
 research/thalassemia/findings/2026-05-08-case001-public-share-kit-gate.md
+research/thalassemia/findings/2026-05-09-case001-public-responder-qualification-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
 templates/public-collaborator-intake-template.md
 templates/public-collaboration-call-template.md
+templates/public-responder-qualification-template.md
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json

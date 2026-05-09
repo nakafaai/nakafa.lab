@@ -85,6 +85,9 @@ Current notebooks:
 - `2026-05-08-case001-public-share-kit-gate.ipynb` - de-identified public-share
   gate that checks the post states, role asks, and blocked public content before
   sharing Nakafa Lab publicly.
+- `2026-05-09-case001-public-responder-qualification-gate.ipynb` -
+  de-identified reply triage gate that routes public responses by role, scope,
+  evidence cue, and blocked states.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

@@ -37,5 +37,6 @@ Current label: `public_responder_qualification_ready`
 ## Source-Backed Gates
 
 - [Case-001 public responder qualification gate](../findings/2026-05-09-case001-public-responder-qualification-gate.md)
+- [Case-001 registry link disambiguation](case-001-registry-link-disambiguation.md)
 - [Case-001 public share kit](case-001-public-share-kit.md)
 - [Public responder qualification template](../../../templates/public-responder-qualification-template.md)

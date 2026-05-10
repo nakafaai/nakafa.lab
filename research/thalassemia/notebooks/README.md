@@ -88,6 +88,9 @@ Current notebooks:
 - `2026-05-09-case001-public-responder-qualification-gate.ipynb` -
   de-identified reply triage gate that routes public responses by role, scope,
   evidence cue, and blocked states.
+- `2026-05-10-case001-registry-link-disambiguation-gate.ipynb` -
+  de-identified registry-link gate that separates direct TDT context from
+  query-adjacent registry records before owner routing.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

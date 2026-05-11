@@ -1,0 +1,46 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqS9a7urbumpOQJJxsZPel3fwbkA",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT04770779&pageSize=1&countTotal=true",
+  "records": [
+    {
+      "countries": [
+        "Brazil",
+        "Bulgaria",
+        "Canada",
+        "Denmark",
+        "France",
+        "Germany",
+        "Greece",
+        "Italy",
+        "Lebanon",
+        "Malaysia",
+        "Netherlands",
+        "Saudi Arabia",
+        "Spain",
+        "Taiwan",
+        "Thailand",
+        "Turkey (T\u00fcrkiye)",
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States"
+      ],
+      "interventions": [
+        "Placebo Matching Mitapivat",
+        "Mitapivat"
+      ],
+      "last_update": "2026-04-24",
+      "nct_id": "NCT04770779",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Double-blind Period: Percentage of Participants Who Achieved Transfusion Reduction Response (TRR)"
+      ],
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study Evaluating the Efficacy and Safety of Mitapivat in Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)"
+    }
+  ],
+  "total_count": 1
+}

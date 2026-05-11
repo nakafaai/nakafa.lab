@@ -34,5 +34,6 @@ If someone sends a link:
 ## Source-Backed Gates
 
 - [Case-001 registry link disambiguation gate](../findings/2026-05-10-case001-registry-link-disambiguation-gate.md)
+- [Case-001 mitapivat boundary and access inquiry](case-001-mitapivat-boundary-access-inquiry.md)
 - [Case-001 public responder qualification](case-001-public-responder-qualification.md)
 - [Registry link disambiguation template](../../../templates/registry-link-disambiguation-template.md)

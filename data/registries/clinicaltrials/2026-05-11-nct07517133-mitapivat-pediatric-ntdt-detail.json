@@ -1,0 +1,26 @@
+{
+  "next_page_token": "ZVJj7o2Elu8o3lpqS9a7urbumpOQJJxuZvOs2vQW",
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT07517133&pageSize=1&countTotal=true",
+  "records": [
+    {
+      "countries": [],
+      "interventions": [
+        "Mitapivat",
+        "Placebo Matching Mitapivat"
+      ],
+      "last_update": "2026-04-08",
+      "nct_id": "NCT07517133",
+      "phases": [
+        "PHASE3"
+      ],
+      "primary_outcomes": [
+        "Percentage of Participants Who Achieved a Hemoglobin (Hb) Response"
+      ],
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Study to Investigate the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Participants With \u03b1- or \u03b2-Non-Transfusion-Dependent Thalassemia"
+    }
+  ],
+  "total_count": 1
+}

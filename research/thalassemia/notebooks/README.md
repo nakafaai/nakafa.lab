@@ -94,6 +94,9 @@ Current notebooks:
 - `2026-05-11-case001-mitapivat-boundary-access-inquiry-gate.ipynb` -
   de-identified mitapivat gate that separates adult label, adult TDT,
   pediatric TDT, and pediatric NTDT contexts before clinician inquiry.
+- `2026-05-12-case001-mitapivat-jurisdiction-access-verification-gate.ipynb` -
+  de-identified mitapivat gate that separates foreign approvals, registry hits,
+  query-adjacent records, and local access claims before clinician inquiry.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

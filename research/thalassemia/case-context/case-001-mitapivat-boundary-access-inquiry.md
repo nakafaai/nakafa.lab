@@ -51,5 +51,6 @@ Current label: `mitapivat_boundary_access_inquiry_ready`
 ## Source-Backed Gates
 
 - [Case-001 mitapivat boundary and access inquiry gate](../findings/2026-05-11-case001-mitapivat-boundary-access-inquiry-gate.md)
+- [Case-001 mitapivat jurisdiction access verification](case-001-mitapivat-jurisdiction-access-verification.md)
 - [Case-001 registry link disambiguation](case-001-registry-link-disambiguation.md)
 - [Mitapivat access inquiry template](../../../templates/mitapivat-access-inquiry-template.md)

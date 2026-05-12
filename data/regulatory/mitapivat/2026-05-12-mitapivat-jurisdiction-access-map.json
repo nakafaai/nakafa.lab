@@ -1,0 +1,36 @@
+{
+  "checked_date": "2026-05-12",
+  "evidence_label": "public regulatory and registry access map, not medical advice",
+  "records": [
+    {
+      "jurisdiction": "United States",
+      "status_label": "approved_adult_thalassemia_label",
+      "source_type": "regulator",
+      "source_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder",
+      "safe_note": "FDA approved Aqvesme for anemia in adults with alpha- or beta-thalassemia; this does not decide case relevance outside qualified review."
+    },
+    {
+      "jurisdiction": "Saudi Arabia",
+      "status_label": "approved_adult_thalassemia_registration",
+      "source_type": "regulator",
+      "source_url": "https://www.sfda.gov.sa/en/news/4197558",
+      "safe_note": "SFDA announced registration of Pyrukynd for adult alpha- or beta-thalassemia, whether transfusion-dependent or non-transfusion-dependent."
+    },
+    {
+      "jurisdiction": "European Union",
+      "status_label": "thalassemia_status_requires_current_authorisation_check",
+      "source_type": "regulator",
+      "source_url": "https://www.ema.europa.eu/en/medicines/human/variation/pyrukynd",
+      "safe_note": "EMA published a positive CHMP post-authorisation opinion for Pyrukynd in October 2025; verify the current European Commission authorisation state before making an access claim."
+    },
+    {
+      "jurisdiction": "Indonesia",
+      "status_label": "local_registration_unverified_in_public_pass",
+      "source_type": "regulator_portal",
+      "source_url": "https://registrasiobat.pom.go.id/en",
+      "safe_note": "This batch did not capture a public BPOM product-registration record for mitapivat; absence in this pass is not proof of non-registration."
+    }
+  ],
+  "registry_snapshot": "data/registries/clinicaltrials/2026-05-12-active-mitapivat-thalassemia.json",
+  "blocked_claim": "Do not infer local availability, affordability, importability, eligibility, or treatment recommendation from a foreign approval or registry record."
+}

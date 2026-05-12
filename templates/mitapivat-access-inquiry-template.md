@@ -15,6 +15,9 @@ messages, or patient-specific treatment instructions
 | Context type |  |
 | TDT or NTDT context |  |
 | Adult or pediatric context |  |
+| Regulatory jurisdiction |  |
+| Registration or import status |  |
+| Local owner to verify |  |
 | Country or access context |  |
 | Safe state |  |
 
@@ -24,6 +27,11 @@ Which context should be reviewed for this case, if any:
 `approved_adult_label_context`, `adult_tdt_trial_context`,
 `pediatric_tdt_trial_context`, `pediatric_ntdt_trial_context`, or
 `not_relevant_now`?
+
+Which jurisdiction access state applies, if any:
+`foreign_adult_label_context`, `foreign_adult_registration_context`,
+`trial_country_context`, `local_registration_unverified`,
+`local_access_unverified`, or `not_relevant_now`?
 
 ## Records Requested By The Reviewer
 
@@ -37,6 +45,7 @@ Which context should be reviewed for this case, if any:
 | Liver tests |  |  |
 | Medication list |  |  |
 | Local access or referral constraints |  |  |
+| Registration, import, reimbursement, or formulary evidence |  |  |
 
 ## Safe State
 
@@ -45,6 +54,11 @@ Choose one:
 - `adult_tdt_trial_context`;
 - `pediatric_tdt_trial_context`;
 - `pediatric_ntdt_trial_context`;
+- `foreign_adult_label_context`;
+- `foreign_adult_registration_context`;
+- `trial_country_context`;
+- `local_registration_unverified`;
+- `local_access_unverified`;
 - `access_mapping_only`;
 - `owner_review_needed`;
 - `not_case_eligibility`;

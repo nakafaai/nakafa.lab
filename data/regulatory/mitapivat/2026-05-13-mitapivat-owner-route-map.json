@@ -1,0 +1,74 @@
+{
+  "checked_date": "2026-05-13",
+  "evidence_label": "public owner-routing map, not medical advice",
+  "owner_routes": [
+    {
+      "owner": "treating_hematologist",
+      "owns_questions": [
+        "case relevance",
+        "diagnosis and subtype interpretation",
+        "safety review",
+        "monitoring feasibility",
+        "whether any access question is clinically worth pursuing"
+      ],
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614251/",
+      "safe_state": "clinical_owner_review_needed"
+    },
+    {
+      "owner": "hospital_pharmacy_or_specialty_pharmacy",
+      "owns_questions": [
+        "formulary status",
+        "dispensing pathway",
+        "pharmacy certification requirements where applicable",
+        "import or special-access operational feasibility"
+      ],
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf",
+      "safe_state": "pharmacy_owner_review_needed"
+    },
+    {
+      "owner": "regulator_or_regulatory_affairs_contact",
+      "owns_questions": [
+        "local registration",
+        "legal import route",
+        "named-patient or special-access route",
+        "jurisdiction-specific documentation"
+      ],
+      "source_url": "https://registrasiobat.pom.go.id/en",
+      "safe_state": "regulatory_owner_review_needed"
+    },
+    {
+      "owner": "manufacturer_medical_information",
+      "owns_questions": [
+        "official medical information",
+        "regional product-status routing",
+        "adverse-event or product-complaint reporting pathway",
+        "manufacturer-supported investigator or medical-science liaison routing"
+      ],
+      "source_url": "https://www.agios.com/medical/",
+      "safe_state": "manufacturer_medinfo_review_needed"
+    },
+    {
+      "owner": "trial_site_or_registry_contact",
+      "owns_questions": [
+        "official study status",
+        "site opening status",
+        "screening process",
+        "contact channel for a public registry ID"
+      ],
+      "source_url": "https://clinicaltrials.gov/",
+      "safe_state": "trial_owner_review_needed"
+    },
+    {
+      "owner": "payer_or_financial_access_owner",
+      "owns_questions": [
+        "coverage",
+        "reimbursement",
+        "financial assistance",
+        "out-of-pocket burden"
+      ],
+      "source_url": "https://www.aqvesme.com/",
+      "safe_state": "financial_owner_review_needed"
+    }
+  ],
+  "blocked_claim": "No owner route is a treatment recommendation, eligibility decision, legal-import decision, or access guarantee."
+}

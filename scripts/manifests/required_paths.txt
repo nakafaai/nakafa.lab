@@ -583,6 +583,7 @@ research/islamic/findings/2026-04-26-theology-of-means.md
 research/islamic/findings/2026-04-27-illness-not-blame-guardrail.md
 research/islamic/findings/2026-04-27-black-seed-hadith-guardrail.md
 research/islamic/quran/002-al-baqarah/155.md
+research/islamic/quran/004-an-nisa/058.md
 research/islamic/quran/005-al-maidah/002.md
 research/islamic/quran/006-al-anam/099.md
 research/islamic/quran/009-at-tawbah/014.md
@@ -723,6 +724,7 @@ data/registries/clinicaltrials/2026-05-11-nct07506863-mitapivat-pediatric-tdt-de
 data/registries/clinicaltrials/2026-05-11-nct07517133-mitapivat-pediatric-ntdt-detail.json
 data/registries/clinicaltrials/2026-05-12-active-mitapivat-thalassemia.json
 data/regulatory/mitapivat/2026-05-12-mitapivat-jurisdiction-access-map.json
+data/regulatory/mitapivat/2026-05-13-mitapivat-owner-route-map.json
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
 research/thalassemia/assays/2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md
@@ -748,6 +750,7 @@ research/thalassemia/notebooks/2026-05-09-case001-public-responder-qualification
 research/thalassemia/notebooks/2026-05-10-case001-registry-link-disambiguation-gate.ipynb
 research/thalassemia/notebooks/2026-05-11-case001-mitapivat-boundary-access-inquiry-gate.ipynb
 research/thalassemia/notebooks/2026-05-12-case001-mitapivat-jurisdiction-access-verification-gate.ipynb
+research/thalassemia/notebooks/2026-05-13-case001-mitapivat-owner-routing-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -761,6 +764,7 @@ research/thalassemia/case-context/case-001-public-responder-qualification.md
 research/thalassemia/case-context/case-001-registry-link-disambiguation.md
 research/thalassemia/case-context/case-001-mitapivat-boundary-access-inquiry.md
 research/thalassemia/case-context/case-001-mitapivat-jurisdiction-access-verification.md
+research/thalassemia/case-context/case-001-mitapivat-owner-routing.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
 research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
@@ -775,6 +779,7 @@ research/thalassemia/findings/2026-05-09-case001-public-responder-qualification-
 research/thalassemia/findings/2026-05-10-case001-registry-link-disambiguation-gate.md
 research/thalassemia/findings/2026-05-11-case001-mitapivat-boundary-access-inquiry-gate.md
 research/thalassemia/findings/2026-05-12-case001-mitapivat-jurisdiction-access-verification-gate.md
+research/thalassemia/findings/2026-05-13-case001-mitapivat-owner-routing-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
 templates/public-collaborator-intake-template.md
@@ -782,6 +787,7 @@ templates/public-collaboration-call-template.md
 templates/public-responder-qualification-template.md
 templates/registry-link-disambiguation-template.md
 templates/mitapivat-access-inquiry-template.md
+templates/mitapivat-owner-routing-template.md
 data/literature/pubmed/2026-04-27-novelty-boundary-affordable-cure-small-molecule.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hbf-alpha-autophagy.json
 data/literature/pubmed/2026-04-27-novelty-boundary-hpfh-like-small-molecule.json

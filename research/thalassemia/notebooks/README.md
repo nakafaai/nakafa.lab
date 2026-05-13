@@ -97,6 +97,9 @@ Current notebooks:
 - `2026-05-12-case001-mitapivat-jurisdiction-access-verification-gate.ipynb` -
   de-identified mitapivat gate that separates foreign approvals, registry hits,
   query-adjacent records, and local access claims before clinician inquiry.
+- `2026-05-13-case001-mitapivat-owner-routing-gate.ipynb` -
+  de-identified owner-routing gate that splits clinical, pharmacy, regulatory,
+  manufacturer, trial, and financial questions before mitapivat outreach.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

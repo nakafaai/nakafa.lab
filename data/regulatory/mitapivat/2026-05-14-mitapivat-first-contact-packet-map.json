@@ -1,0 +1,108 @@
+{
+  "checked_date": "2026-05-14",
+  "evidence_label": "public first-contact packet map, not medical advice",
+  "packets": [
+    {
+      "owner": "treating_hematologist",
+      "first_question": "Is mitapivat clinically worth reviewing for this de-identified case context, or should it be treated as not relevant now?",
+      "allowed_public_sources": [
+        "TIF 2025 TDT guideline",
+        "Aqvesme FDA label",
+        "case-001 minimum hematologist packet public-safe summary"
+      ],
+      "blocked_material": [
+        "raw lab PDFs",
+        "doctor messages",
+        "identifiers",
+        "exact private dates",
+        "treatment request"
+      ],
+      "escalate_if": "hematologist says review is clinically worth pursuing and names missing records",
+      "safe_state": "clinical_first_contact_ready"
+    },
+    {
+      "owner": "hospital_or_specialty_pharmacy",
+      "first_question": "If a clinician decides review is appropriate, what pharmacy, formulary, certification, or special-access steps would need verification in this jurisdiction?",
+      "allowed_public_sources": [
+        "Aqvesme FDA label",
+        "AQVESME official site",
+        "mitapivat jurisdiction access map"
+      ],
+      "blocked_material": [
+        "patient identifiers",
+        "prescription request",
+        "import instruction",
+        "treatment start request"
+      ],
+      "escalate_if": "pharmacy names an official local pathway or required clinician-owned form",
+      "safe_state": "pharmacy_first_contact_ready"
+    },
+    {
+      "owner": "regulator_or_regulatory_affairs_contact",
+      "first_question": "Is there a public product-registration, legal import, named-patient, compassionate-use, or special-access pathway for mitapivat in this jurisdiction?",
+      "allowed_public_sources": [
+        "BPOM drug-registration portal",
+        "mitapivat jurisdiction access map"
+      ],
+      "blocked_material": [
+        "patient identifiers",
+        "clinical record attachments",
+        "legal conclusion",
+        "import instruction"
+      ],
+      "escalate_if": "regulatory owner cites an official pathway, docket, form, or public registration status",
+      "safe_state": "regulatory_first_contact_ready"
+    },
+    {
+      "owner": "manufacturer_medical_information",
+      "first_question": "What official regional route should a clinician use for medical information, product-status routing, adverse-event reporting, or medical-science-liaison contact?",
+      "allowed_public_sources": [
+        "Agios medical information page",
+        "Agios medicines page",
+        "AQVESME official site"
+      ],
+      "blocked_material": [
+        "private records",
+        "request for patient-specific recommendation",
+        "off-label request",
+        "treatment request"
+      ],
+      "escalate_if": "manufacturer provides an official regional route or directs the clinician to a specific medical-information channel",
+      "safe_state": "manufacturer_first_contact_ready"
+    },
+    {
+      "owner": "trial_site_or_registry_contact",
+      "first_question": "For this public registry ID, is any site open or screening, and what is the official contact process?",
+      "allowed_public_sources": [
+        "ClinicalTrials.gov study record",
+        "ClinicalTrials.gov how-to-read study record page"
+      ],
+      "blocked_material": [
+        "eligibility claim",
+        "raw records",
+        "private dates",
+        "travel plan",
+        "treatment request"
+      ],
+      "escalate_if": "trial owner confirms active contact process and requests clinician-mediated screening documents",
+      "safe_state": "trial_first_contact_ready"
+    },
+    {
+      "owner": "payer_or_financial_access_owner",
+      "first_question": "If a clinician determines relevance and a legal pathway exists, what coverage, reimbursement, or financial-support verification process applies?",
+      "allowed_public_sources": [
+        "AQVESME official site",
+        "Agios medicines page"
+      ],
+      "blocked_material": [
+        "claim that treatment is approved for this case",
+        "private financial documents",
+        "raw clinical records",
+        "start request"
+      ],
+      "escalate_if": "payer or support owner identifies a required clinician-owned access or coverage process",
+      "safe_state": "financial_first_contact_ready"
+    }
+  ],
+  "blocked_claim": "A first-contact packet is not a treatment request, eligibility claim, legal-import instruction, or patient-specific recommendation."
+}

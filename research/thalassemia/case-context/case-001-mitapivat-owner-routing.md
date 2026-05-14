@@ -51,5 +51,6 @@ Current label: `mitapivat_owner_routing_ready`
 ## Source-Backed Gates
 
 - [Case-001 mitapivat owner routing gate](../findings/2026-05-13-case001-mitapivat-owner-routing-gate.md)
+- [Case-001 mitapivat first-contact packet](case-001-mitapivat-first-contact-packet.md)
 - [Case-001 mitapivat jurisdiction access verification](case-001-mitapivat-jurisdiction-access-verification.md)
 - [Mitapivat owner routing template](../../../templates/mitapivat-owner-routing-template.md)

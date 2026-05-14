@@ -100,6 +100,10 @@ Current notebooks:
 - `2026-05-13-case001-mitapivat-owner-routing-gate.ipynb` -
   de-identified owner-routing gate that splits clinical, pharmacy, regulatory,
   manufacturer, trial, and financial questions before mitapivat outreach.
+- `2026-05-14-case001-mitapivat-first-contact-packet-gate.ipynb` -
+  de-identified first-contact gate that checks each owner packet for one
+  question, public-safe sources, blocked material, escalation condition, and
+  safe state.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

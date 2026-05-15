@@ -46,5 +46,6 @@ Every first-contact packet needs:
 ## Source-Backed Gates
 
 - [Case-001 mitapivat first-contact packet gate](../findings/2026-05-14-case001-mitapivat-first-contact-packet-gate.md)
+- [Case-001 mitapivat response capture](case-001-mitapivat-response-capture.md)
 - [Case-001 mitapivat owner routing](case-001-mitapivat-owner-routing.md)
 - [Mitapivat first-contact packet template](../../../templates/mitapivat-first-contact-packet-template.md)

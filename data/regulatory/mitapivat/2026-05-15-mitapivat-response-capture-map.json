@@ -1,0 +1,84 @@
+{
+  "checked_date": "2026-05-15",
+  "evidence_label": "public-safe response-capture map, not medical advice",
+  "response_states": [
+    {
+      "response_label": "no_response_yet",
+      "meaning": "No owner response has been received.",
+      "public_repo_action": "record unanswered status only",
+      "private_workspace_action": "keep outreach timestamp and raw thread private",
+      "next_state": "wait_or_follow_up_later"
+    },
+    {
+      "response_label": "wrong_owner_redirect",
+      "meaning": "The contacted owner says another owner should answer.",
+      "public_repo_action": "record redirect owner category only",
+      "private_workspace_action": "keep raw reply and contact details private",
+      "next_state": "new_owner_packet_needed"
+    },
+    {
+      "response_label": "public_source_confirmed",
+      "meaning": "The owner confirms a public source, registry ID, product page, or guideline to use.",
+      "public_repo_action": "record source URL and owner category",
+      "private_workspace_action": "keep raw thread private",
+      "next_state": "source_registry_update_ready"
+    },
+    {
+      "response_label": "missing_records_named",
+      "meaning": "The owner names records needed before review can continue.",
+      "public_repo_action": "record record-domain labels only",
+      "private_workspace_action": "index raw record request in private workspace",
+      "next_state": "private_record_request_update_needed"
+    },
+    {
+      "response_label": "clinician_mediated_documents_requested",
+      "meaning": "The owner requests documents that should be sent only by or through a clinician.",
+      "public_repo_action": "record clinician-mediated document request label only",
+      "private_workspace_action": "keep requested document list and raw reply private",
+      "next_state": "clinician_owner_review_needed"
+    },
+    {
+      "response_label": "raw_records_requested_public_channel",
+      "meaning": "The owner or responder asks for raw records in a public or unsafe channel.",
+      "public_repo_action": "record release_blocked only",
+      "private_workspace_action": "do not send raw records; move to private workflow if appropriate",
+      "next_state": "release_blocked"
+    },
+    {
+      "response_label": "local_access_pathway_named",
+      "meaning": "The owner names a registration, import, special-access, formulary, coverage, or trial pathway.",
+      "public_repo_action": "record pathway type and public source only",
+      "private_workspace_action": "keep raw operational details private",
+      "next_state": "access_pathway_verification_needed"
+    },
+    {
+      "response_label": "not_relevant_or_not_available_now",
+      "meaning": "The owner says the lane is not clinically relevant, not locally available, or not actionable now.",
+      "public_repo_action": "record not_relevant_now or local_access_unverified label",
+      "private_workspace_action": "keep raw rationale private unless it is a public source",
+      "next_state": "pause_lane_or_request_alternative_owner"
+    },
+    {
+      "response_label": "trial_contact_process_confirmed",
+      "meaning": "A trial owner confirms a public registry contact or screening process.",
+      "public_repo_action": "record NCT ID and public contact-process label",
+      "private_workspace_action": "keep personal contact details and raw reply private",
+      "next_state": "clinician_mediated_trial_screening_needed"
+    },
+    {
+      "response_label": "safety_or_adverse_event_route_named",
+      "meaning": "The owner names a safety, adverse-event, product-quality, or medical-information reporting route.",
+      "public_repo_action": "record route category and public source only",
+      "private_workspace_action": "keep any patient event details private and route to clinician",
+      "next_state": "safety_owner_review_needed"
+    },
+    {
+      "response_label": "patient_specific_treatment_advice_received",
+      "meaning": "A response includes patient-specific treatment advice, dosing, import, travel, or eligibility language.",
+      "public_repo_action": "record treatment_advice_blocked only",
+      "private_workspace_action": "route raw content to treating clinician; do not publish",
+      "next_state": "qualified_clinician_review_needed"
+    }
+  ],
+  "blocked_claim": "Do not publish raw owner replies, private contacts, identifiers, doctor messages, patient-specific advice, safety-event details, or legal-import instructions."
+}

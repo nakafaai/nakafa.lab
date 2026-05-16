@@ -723,10 +723,16 @@ data/registries/clinicaltrials/2026-05-11-nct04770779-energize-t-detail.json
 data/registries/clinicaltrials/2026-05-11-nct07506863-mitapivat-pediatric-tdt-detail.json
 data/registries/clinicaltrials/2026-05-11-nct07517133-mitapivat-pediatric-ntdt-detail.json
 data/registries/clinicaltrials/2026-05-12-active-mitapivat-thalassemia.json
+data/registries/clinicaltrials/2026-05-16-active-mitapivat-thalassemia-refresh.json
+data/registries/clinicaltrials/2026-05-16-nct04770779-energize-t-detail.json
+data/registries/clinicaltrials/2026-05-16-nct07506863-mitapivat-pediatric-tdt-detail.json
+data/registries/clinicaltrials/2026-05-16-nct07517133-mitapivat-pediatric-ntdt-detail.json
+data/literature/pubmed/2026-05-16-mitapivat-energize-t-refresh.json
 data/regulatory/mitapivat/2026-05-12-mitapivat-jurisdiction-access-map.json
 data/regulatory/mitapivat/2026-05-13-mitapivat-owner-route-map.json
 data/regulatory/mitapivat/2026-05-14-mitapivat-first-contact-packet-map.json
 data/regulatory/mitapivat/2026-05-15-mitapivat-response-capture-map.json
+data/regulatory/mitapivat/2026-05-16-mitapivat-evidence-to-action-map.json
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
 research/thalassemia/assays/2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md
@@ -755,6 +761,7 @@ research/thalassemia/notebooks/2026-05-12-case001-mitapivat-jurisdiction-access-
 research/thalassemia/notebooks/2026-05-13-case001-mitapivat-owner-routing-gate.ipynb
 research/thalassemia/notebooks/2026-05-14-case001-mitapivat-first-contact-packet-gate.ipynb
 research/thalassemia/notebooks/2026-05-15-case001-mitapivat-response-capture-gate.ipynb
+research/thalassemia/notebooks/2026-05-16-case001-mitapivat-evidence-to-action-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -771,6 +778,7 @@ research/thalassemia/case-context/case-001-mitapivat-jurisdiction-access-verific
 research/thalassemia/case-context/case-001-mitapivat-owner-routing.md
 research/thalassemia/case-context/case-001-mitapivat-first-contact-packet.md
 research/thalassemia/case-context/case-001-mitapivat-response-capture.md
+research/thalassemia/case-context/case-001-mitapivat-evidence-to-action.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
 research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
@@ -788,6 +796,7 @@ research/thalassemia/findings/2026-05-12-case001-mitapivat-jurisdiction-access-v
 research/thalassemia/findings/2026-05-13-case001-mitapivat-owner-routing-gate.md
 research/thalassemia/findings/2026-05-14-case001-mitapivat-first-contact-packet-gate.md
 research/thalassemia/findings/2026-05-15-case001-mitapivat-response-capture-gate.md
+research/thalassemia/findings/2026-05-16-case001-mitapivat-evidence-to-action-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
 templates/public-collaborator-intake-template.md

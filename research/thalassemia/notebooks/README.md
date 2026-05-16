@@ -107,6 +107,10 @@ Current notebooks:
 - `2026-05-15-case001-mitapivat-response-capture-gate.ipynb` -
   de-identified response-capture gate that checks owner replies are reduced to
   labels, public actions, private actions, and next states before repo updates.
+- `2026-05-16-case001-mitapivat-evidence-to-action-gate.ipynb` -
+  de-identified evidence-to-action gate that keeps adult mitapivat evidence as
+  a benchmark, pediatric records as watchlist states, and case action blocked
+  until qualified clinician review.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

@@ -1,0 +1,136 @@
+{
+  "count": 5,
+  "query": "mitapivat ENERGIZE-T transfusion-dependent thalassemia",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40544857"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(25)00635-X"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(25)00635-X"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "40544857",
+      "pubdate": "2025 Jul 5",
+      "title": "Mitapivat in adults with non-transfusion-dependent \u03b1-thalassaemia or \u03b2-thalassaemia (ENERGIZE): a phase 3, international, randomised, double-blind, placebo-controlled trial."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40657307"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12255901"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12255901;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/hem3.70165"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "HEM370165"
+        }
+      ],
+      "journal": "Hemasphere",
+      "pmid": "40657307",
+      "pubdate": "2025 Jul",
+      "title": "Luspatercept versus mitapivat for non-transfusion-dependent \u03b2-thalassemia: Dare to compare?"
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40544856"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(25)00565-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(25)00565-3"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "40544856",
+      "pubdate": "2025 Jul 5",
+      "title": "Mitapivat for non-transfusion-dependent thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35964609"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S0140-6736(22)01337-X"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0140-6736(22)01337-X"
+        }
+      ],
+      "journal": "Lancet",
+      "pmid": "35964609",
+      "pubdate": "2022 Aug 13",
+      "title": "Safety and efficacy of mitapivat, an oral pyruvate kinase activator, in adults with non-transfusion dependent \u03b1-thalassaemia or \u03b2-thalassaemia: an open-label, multicentre, phase 2 study."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40394935"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12166342"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12166342;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/bjh.20058"
+        }
+      ],
+      "journal": "Br J Haematol",
+      "pmid": "40394935",
+      "pubdate": "2025 Jun",
+      "title": "Long-term efficacy and safety of mitapivat in non-transfusion-dependent \u03b1- or \u03b2-thalassaemia: An open-label phase 2 study."
+    }
+  ]
+}

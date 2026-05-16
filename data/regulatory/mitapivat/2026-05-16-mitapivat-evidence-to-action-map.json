@@ -1,0 +1,50 @@
+{
+  "checked_date": "2026-05-16",
+  "evidence_label": "mitapivat evidence-to-action map, not medical advice",
+  "gate_label": "mitapivat_evidence_to_action_ready",
+  "evidence_states": [
+    {
+      "state_label": "adult_us_label_current",
+      "source_type": "FDA label and official product site",
+      "public_fact": "AQVESME is indicated for anemia in adults with alpha- or beta-thalassemia in the United States.",
+      "allowed_action": "Use as an adult-label benchmark and source for clinician questions.",
+      "blocked_action": "Do not infer pediatric safety, pediatric effectiveness, local access, or case relevance."
+    },
+    {
+      "state_label": "adult_tdt_results_posted",
+      "source_type": "ClinicalTrials.gov NCT04770779 and official product site",
+      "public_fact": "The adult TDT ENERGIZE-T registry snapshot is active-not-recruiting with posted results; the official product site reports transfusion-reduction response of 30.4 percent for AQVESME versus 12.6 percent for placebo.",
+      "allowed_action": "Use as an adult TDT transfusion-reduction benchmark.",
+      "blocked_action": "Do not treat adult TDT results as pediatric, local-access, or individual eligibility evidence."
+    },
+    {
+      "state_label": "pediatric_tdt_not_yet_recruiting",
+      "source_type": "ClinicalTrials.gov NCT07506863",
+      "public_fact": "The pediatric TDT mitapivat phase 3 record is not yet recruiting, has no posted results, and uses transfusion-reduction response through week 48 as the primary outcome.",
+      "allowed_action": "Track as a pediatric TDT registry watchlist and clinician-mediated trial-contact question.",
+      "blocked_action": "Do not cite as pediatric efficacy, access, or case eligibility evidence."
+    },
+    {
+      "state_label": "pediatric_ntdt_not_yet_recruiting",
+      "source_type": "ClinicalTrials.gov NCT07517133",
+      "public_fact": "The pediatric NTDT mitapivat phase 3 record is not yet recruiting, has no posted results, and uses hemoglobin response as the primary outcome.",
+      "allowed_action": "Track as a pediatric NTDT watchlist only.",
+      "blocked_action": "Do not mix this record with transfusion-dependent case questions."
+    },
+    {
+      "state_label": "safety_and_rems_review_required",
+      "source_type": "FDA label and official product site",
+      "public_fact": "The FDA label and official product site describe liver-injury risk, REMS constraints, and drug-interaction review needs.",
+      "allowed_action": "Route safety and monitoring questions to qualified clinicians and proper product owners.",
+      "blocked_action": "Do not publish dosing, monitoring instructions, adverse-event narratives, or patient-specific advice."
+    },
+    {
+      "state_label": "case_relevance_still_blocked",
+      "source_type": "case-context gate",
+      "public_fact": "Case relevance remains blocked until qualified clinician review of diagnosis, age and weight band, transfusion burden, iron and organ status, liver tests, medication list, and local access constraints.",
+      "allowed_action": "Ask a clinician whether mitapivat is worth reviewing after the minimum packet is complete enough.",
+      "blocked_action": "Do not recommend mitapivat, infer eligibility, or change transfusion or chelation care."
+    }
+  ],
+  "decision_rule": "Promote adult mitapivat evidence only as a benchmark. Keep pediatric records as watchlist evidence until recruitment/results or clinician-mediated owner confirmation changes the state. Keep case-001 relevance blocked until clinician review."
+}

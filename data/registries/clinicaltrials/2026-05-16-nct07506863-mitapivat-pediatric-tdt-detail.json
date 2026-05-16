@@ -1,0 +1,305 @@
+{
+  "ok": true,
+  "payload": {
+    "derivedSection": {
+      "interventionBrowseModule": {
+        "meshes": [
+          {
+            "id": "C000634504",
+            "term": "mitapivat"
+          }
+        ]
+      },
+      "miscInfoModule": {
+        "versionHolder": "2026-05-15"
+      }
+    },
+    "hasResults": false,
+    "protocolSection": {
+      "armsInterventionsModule": {
+        "armGroups": [
+          {
+            "description": "Participants will receive oral mitapivat twice daily (BID), with dose determined by age and weight, for 48 weeks during the double blind (DB) period. Enrollment is conducted sequentially by age cohort, beginning with the oldest cohort.\n\nCohort 1: 12 to \\<18 years\n\nCohort 2: 6 to \\<12 years\n\nCohort 3: 1 to \\<6 years\n\nParticipants who complete the DB period may continue receiving mitapivat in the open label extension (OLE) period for up to 144 weeks.",
+            "interventionNames": [
+              "Drug: Mitapivat"
+            ],
+            "label": "Mitapivat",
+            "type": "EXPERIMENTAL"
+          },
+          {
+            "description": "Participants will receive oral placebo matching mitapivat, administered BID, with dosing based on age and weight, for 48 weeks during the DB period. Enrollment is conducted sequentially by age cohort, beginning with the oldest cohort.\n\nCohort 1: 12 to \\<18 years\n\nCohort 2: 6 to \\<12 years\n\nCohort 3: 1 to \\<6 years\n\nParticipants who complete the DB period may transition to receive mitapivat in the OLE period for up to 144 weeks.",
+            "interventionNames": [
+              "Drug: Mitapivat Matched Placebo",
+              "Drug: Mitapivat"
+            ],
+            "label": "Placebo",
+            "type": "PLACEBO_COMPARATOR"
+          }
+        ],
+        "interventions": [
+          {
+            "armGroupLabels": [
+              "Placebo"
+            ],
+            "description": "Tablets or Granules",
+            "name": "Mitapivat Matched Placebo",
+            "type": "DRUG"
+          },
+          {
+            "armGroupLabels": [
+              "Mitapivat",
+              "Placebo"
+            ],
+            "description": "Tablets or Granules",
+            "name": "Mitapivat",
+            "otherNames": [
+              "AG-348",
+              "Mitapivat sulfate"
+            ],
+            "type": "DRUG"
+          }
+        ]
+      },
+      "conditionsModule": {
+        "conditions": [
+          "Transfusion-dependent Alpha-Thalassemia",
+          "Transfusion-dependent Beta-Thalassemia"
+        ]
+      },
+      "contactsLocationsModule": {
+        "centralContacts": [
+          {
+            "email": "medinfo@agios.com",
+            "name": "Agios Medical Affairs",
+            "phone": "833-228-8474",
+            "role": "CONTACT"
+          }
+        ]
+      },
+      "descriptionModule": {
+        "briefSummary": "The primary objective of this study is to compare the effect of mitapivat versus placebo on transfusion burden in pediatric participants with \u03b1- or \u03b2-transfusion-dependent thalassemia."
+      },
+      "designModule": {
+        "designInfo": {
+          "allocation": "RANDOMIZED",
+          "interventionModel": "PARALLEL",
+          "maskingInfo": {
+            "masking": "QUADRUPLE",
+            "whoMasked": [
+              "PARTICIPANT",
+              "CARE_PROVIDER",
+              "INVESTIGATOR",
+              "OUTCOMES_ASSESSOR"
+            ]
+          },
+          "primaryPurpose": "TREATMENT"
+        },
+        "enrollmentInfo": {
+          "count": 54,
+          "type": "ESTIMATED"
+        },
+        "phases": [
+          "PHASE3"
+        ],
+        "studyType": "INTERVENTIONAL"
+      },
+      "eligibilityModule": {
+        "eligibilityCriteria": "Inclusion Criteria:\n\n* Written informed consent/assent from the participant (or their legally authorized representative, parent(s), or legal guardian) must be obtained before any study-related procedures are conducted and participants must be willing to comply with all study procedures for the duration of the study.\n* Aged 1 to \\<18 years and weighing at least 7 kilograms (kg) at the time of providing informed consent/assent.\n* Documented diagnosis of thalassemia (\u03b2-thalassemia with or without \u03b1-globin gene mutations, hemoglobin E (HbE)/\u03b2-thalassemia, or \u03b1-thalassemia/hemoglobin H (HbH) disease) based on Hemoglobin (Hb) electrophoresis, Hb high-performance liquid chromatography, and/or DNA analysis from the participant's medical record. If this information is not available from the participant's medical record, the test(s) can be performed by a local laboratory during the Screening Period. If a local laboratory is unable to perform the test(s), results from the comprehensive \u03b1- and \u03b2-globin genotyping performed by the study central laboratory can be used.\n* Transfusion dependent, defined as 6 to 20 transfusion episodes (also referred to as \"transfusion events\") and a \u22646-week transfusion-free period during the 24-week period before randomization.\n* If taking hydroxyurea, the hydroxyurea dose must be stable for \u226516 weeks before randomization.\n* Female participants who have attained menarche must be abstinent of sexual activities that may induce pregnancy as part of their usual lifestyle, or agree to use 2 forms of contraception, 1 of which must be considered highly effective, from the time of informed consent/assent, throughout the study, and for 28 days after the last dose of study drug. The second form of contraception can include an acceptable barrier method.\n\nExclusion Criteria:\n\n* Pregnant or breastfeeding.\n* Documented history of homozygous or heterozygous hemoglobin S (HbS) or hemoglobin C (HbC).\n* Prior exposure to gene therapy or prior bone marrow or stem cell transplantation, including any prior exposure to myeloablative chemotherapy.\n* Any conditions other than thalassemia expected to affect sexual maturation.\n* Currently receiving treatment with luspatercept; the last dose must have been administered \u226536 weeks before randomization.\n* Currently receiving treatment with hematopoietic stimulating agents; the last dose must have been administered \u226536 weeks before randomization.\n* History of malignancy (active or treated) \u22645 years before providing informed consent/assent, except for nonmelanomatous skin cancer in situ, cervical carcinoma in situ, or breast carcinoma in situ.\n* History of active and/or uncontrolled cardiac or pulmonary disease or clinically relevant QT prolongation within 6 months before providing informed consent/assent.\n* Hepatobiliary disorders, including but not limited to:\n\n  * Liver disease with histopathological evidence or clinical diagnosis of cirrhosis or severe fibrosis.\n  * Clinically symptomatic cholelithiasis or cholecystitis (prior cholecystectomy is not exclusionary).\n  * History of drug-induced cholestatic hepatitis.\n  * Aspartate Aminotransferase (AST) \\>2.5\\*Upper Limit of Normal (ULN) (unless due to hemolysis and hepatic iron deposition) and Alanine Transaminase (ALT) \\>2.5\\*ULN (unless due to hepatic iron deposition).\n* Renal dysfunction as defined by an estimated glomerular filtration rate \\<60 milliliters per minute (mL/min)/1.73-meter square (m\\^2).\n* Nonfasting triglycerides \\>215 milligrams per deciliter (mg/dL) \\[5 millimole per liter (mmol/L)\\].\n* Active infection requiring systemic antimicrobial therapy at the time of providing informed consent/assent. If antimicrobial therapy is required during the Screening Period, screening procedures should not be performed while antimicrobial therapy is being administered, and the last dose of antimicrobial therapy must be administered \u22657 days before randomization.\n* Participants with known active hepatitis B or hepatitis C virus infection.\n* Participants with known human immunodeficiency virus (HIV) infection.\n* History of major surgery (including splenectomy) \u2264 6 months before providing informed consent/assent and/or a major surgical procedure planned during the study.\n* Current enrollment or past participation (within \u226412 weeks or a timeframe equivalent to 5 half-lives of the investigational study drug before administration of the first dose of study drug, whichever is longer) in any other clinical study involving an investigational treatment or device.\n* Receiving strong Cytochrome3A4/5 (CYP3A4/5) inhibitors that have not been stopped for \u22655 days or a timeframe equivalent to 5 half-lives (whichever is longer), or strong CYP3A4/5 inducers that have not been stopped for \u22654 weeks or a timeframe equivalent to 5 half-lives (whichever is longer), before randomization.\n* Receiving anabolic steroids that have not been stopped for at least 4 weeks before randomization. Testosterone replacement therapy to treat hypogonadism is allowed; the testosterone dose and preparation must be stable for \u226512 weeks before randomization.\n* Known allergy, or other contraindication, to mitapivat or its excipients (microcrystalline cellulose, croscarmellose sodium, sodium stearyl fumarate, mannitol, magnesium stearate, and the Opadry filmcoat \\[hypromellose, titanium dioxide, lactose monohydrate triacetin, and FD\\&C Blue #2\\]).\n* Any medical, hematological, psychological, or behavioral condition(s) or prior or current therapy that, in the opinion of the Investigator, may confer an unacceptable risk to participating in the study and/or could confound the interpretation of the study data. Also excluded are:\n\n  * Participants who are institutionalized by regulatory or court order.\n  * Participants with any condition(s) that could create undue influence (including but not limited to incarceration, involuntary psychiatric confinement, and financial or familial affiliation with the Investigator or Sponsor).",
+        "healthyVolunteers": false,
+        "maximumAge": "17 Years",
+        "minimumAge": "1 Year",
+        "sex": "ALL",
+        "stdAges": [
+          "CHILD"
+        ]
+      },
+      "identificationModule": {
+        "acronym": "ENERGIZEKids-T",
+        "briefTitle": "A Study to Investigate the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Participants With Transfusion-Dependent Alpha- or Beta-Thalassemia (\u03b1- or \u03b2-TDT)",
+        "nctId": "NCT07506863",
+        "officialTitle": "A Phase 3, Double-Blind, Randomized, Placebo-Controlled, Multicenter Study Evaluating the Efficacy, Pharmacokinetics, and Safety of Mitapivat in Pediatric Subjects With \u03b1- or \u03b2- Transfusion-Dependent Thalassemia",
+        "orgStudyIdInfo": {
+          "id": "AG348-C-029"
+        },
+        "organization": {
+          "class": "INDUSTRY",
+          "fullName": "Agios Pharmaceuticals, Inc."
+        },
+        "secondaryIdInfos": [
+          {
+            "id": "2025-524707-71-00",
+            "type": "CTIS"
+          }
+        ]
+      },
+      "ipdSharingStatementModule": {
+        "ipdSharing": "NO"
+      },
+      "outcomesModule": {
+        "primaryOutcomes": [
+          {
+            "description": "TRR is defined as \u226550 percent (%) reduction in transfused red blood cells (RBC) volume (normalized by weight) in any consecutive 12-week period through Week 48 compared with historical RBC transfusion volume (normalized by weight) and standardized to 12 weeks.",
+            "measure": "Percentage of Participants Who Achieved Transfusion Reduction Response (TRR) Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          }
+        ],
+        "secondaryOutcomes": [
+          {
+            "description": "TRR2 is defined as \u226550% reduction in transfused RBC volume (normalized by weight) from week 13 to week 24 compared with historical RBC transfusion volume (normalized by weight) and standardized to 12 weeks.",
+            "measure": "Percentage of Participants Who Achieved TRR2 From Week 13 to Week 24",
+            "timeFrame": "Baseline, Week 13 through Week 24"
+          },
+          {
+            "description": "TRR3 is defined as \u226550% reduction in transfused RBC volume (normalized by weight) from week 25 to week 36 compared with historical RBC transfusion volume (Normalized by Weight) and standardized to 12 weeks.",
+            "measure": "Percentage of Participants Who Achieved TRR3 From Week 25 to Week 36",
+            "timeFrame": "Baseline, Week 25 through Week 36"
+          },
+          {
+            "description": "TRR4 is defined as \u226550% reduction in transfused RBC volume (normalized by weight) from week 37 to week 48 compared with historical RBC transfusion volume (normalized by weight) and standardized to 12 weeks.",
+            "measure": "Percentage of Participants Who Achieved TRR4 From Week 37 to Week 48",
+            "timeFrame": "Baseline, Week 37 through Week 48"
+          },
+          {
+            "description": "TRR5 is defined as \u226550% reduction in transfused RBC volume (normalized by weight) from week 25 to week 48 compared with historical RBC transfusion volume (normalized by weight) and standardized to 24 weeks.",
+            "measure": "Percentage of Participants Who Achieved TRR5 From Week 25 to Week 48",
+            "timeFrame": "Baseline, Week 25 through Week 48"
+          },
+          {
+            "measure": "Percent Change in Transfused RBC Volume (Normalized by Weight) From Week 13 Through Week 48 Compared With Historical Transfusion Volume (Normalized by Weight) and Standardized to 36 Weeks",
+            "timeFrame": "Baseline, Week 13 through Week 48"
+          },
+          {
+            "description": "Transfusion independence is defined as transfusion-free for greater than or equal to 8 consecutive weeks through Week 48.",
+            "measure": "Percentage of Participants Who Achieved Transfused Independence Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Change in the Number of Transfusion Episodes From Week 13 Through Week 48 Compared With Historical Number of Transfusion Episodes Standardized to 36 Weeks",
+            "timeFrame": "Baseline, Week 13 through Week 48"
+          },
+          {
+            "measure": "Change From Baseline in Serum Iron at Week 48",
+            "timeFrame": "Baseline, Week 48"
+          },
+          {
+            "measure": "Change From Baseline in Total Iron-Binding Capacity at Week 48",
+            "timeFrame": "Baseline, Week 48"
+          },
+          {
+            "measure": "Change From Baseline in Transferrin at Week 48",
+            "timeFrame": "Baseline, Week 48"
+          },
+          {
+            "measure": "Change From Baseline in Transferrin Saturation at Week 48",
+            "timeFrame": "Baseline, Week 48"
+          },
+          {
+            "measure": "Change From Baseline in Serum Ferritin Levels at Week 48",
+            "timeFrame": "Baseline, Week 48"
+          },
+          {
+            "measure": "Cohort 1: Change From Baseline in Estradiol Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Cohort 1: Change From Baseline in Estrone Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Cohort 1: Change From Baseline in Total Testosterone Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Cohort 1: Change From Baseline in Free Testosterone Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Cohort 1: Change From Baseline in Luteinizing Hormone Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Cohort 1: Change From Baseline in Sexual Maturity Rating With Tanner Stage Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Cohort 1: Percentage of Female Participants With Newly Developed Ovarian Cysts Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Change From Baseline Over Time in Height-for-age Z-Score, Weight-for-age Z-Score, and Body Mass Index (BMI)-for-age Z-Score Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Change from Baseline in Bone Mineral Density (BMD) Through Week 48",
+            "timeFrame": "Baseline, through Week 48"
+          },
+          {
+            "measure": "Number of Participants With Treatment Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+            "timeFrame": "From first dose of study drug up to end of study (up to Week 196)"
+          },
+          {
+            "measure": "Plasma Concentration of Mitapivat",
+            "timeFrame": "Pre-dose, and at multiple timepoints (up to 7 hours post-dose) at Week 4"
+          },
+          {
+            "measure": "Area Under the Plasma Concentration-Time Curve From Time Zero to Last Quantifiable Concentration (AUC0-last) of Mitapivat",
+            "timeFrame": "Pre-dose, and at multiple timepoints (up to 7 hours post-dose) at Week 4"
+          },
+          {
+            "measure": "Maximum Observed Plasma Concentration (Cmax) of Mitapivat",
+            "timeFrame": "Pre-dose, and at multiple timepoints (up to 7 hours post-dose) at Week 4"
+          },
+          {
+            "measure": "Time to Reach Maximum Observed Plasma Concentration (Tmax) of Mitapivat",
+            "timeFrame": "Pre-dose, and at multiple timepoints (up to 7 hours post-dose) at Week 4"
+          }
+        ]
+      },
+      "oversightModule": {
+        "isFdaRegulatedDevice": false,
+        "isFdaRegulatedDrug": true,
+        "oversightHasDmc": true
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {
+          "class": "INDUSTRY",
+          "name": "Agios Pharmaceuticals, Inc."
+        },
+        "responsibleParty": {
+          "type": "SPONSOR"
+        }
+      },
+      "statusModule": {
+        "completionDateStruct": {
+          "date": "2032-06",
+          "type": "ESTIMATED"
+        },
+        "expandedAccessInfo": {
+          "hasExpandedAccess": false
+        },
+        "lastUpdatePostDateStruct": {
+          "date": "2026-04-08",
+          "type": "ACTUAL"
+        },
+        "lastUpdateSubmitDate": "2026-04-03",
+        "overallStatus": "NOT_YET_RECRUITING",
+        "primaryCompletionDateStruct": {
+          "date": "2029-06",
+          "type": "ESTIMATED"
+        },
+        "startDateStruct": {
+          "date": "2026-09",
+          "type": "ESTIMATED"
+        },
+        "statusVerifiedDate": "2026-04",
+        "studyFirstPostDateStruct": {
+          "date": "2026-04-02",
+          "type": "ACTUAL"
+        },
+        "studyFirstSubmitDate": "2026-03-26",
+        "studyFirstSubmitQcDate": "2026-03-26"
+      }
+    }
+  },
+  "query_url": "https://clinicaltrials.gov/api/v2/studies/NCT07506863"
+}

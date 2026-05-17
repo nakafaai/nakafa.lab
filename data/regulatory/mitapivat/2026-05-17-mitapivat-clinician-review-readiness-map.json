@@ -1,0 +1,128 @@
+{
+  "checked_date": "2026-05-17",
+  "evidence_label": "mitapivat clinician-review readiness map, not medical advice",
+  "gate_label": "mitapivat_clinician_review_readiness_ready",
+  "current_source_checks": [
+    {
+      "source_label": "TIF 2025 TDT guideline",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614251/",
+      "current_observation": "TIF 2025 remains the current management baseline for transfusion-dependent beta-thalassemia and keeps clinical interpretation tied to diagnosis, transfusion, iron, organ, and monitoring context.",
+      "use_in_gate": "Use as the clinical-context baseline before asking whether a disease-modifying drug lane is worth review."
+    },
+    {
+      "source_label": "TIF 2025 blood transfusion chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/",
+      "current_observation": "The guideline frames regular transfusion as a longitudinal program with pretransfusion sampling, administration, monitoring, risk, and cost context.",
+      "use_in_gate": "Require transfusion-burden context before interpreting a transfusion-reduction endpoint."
+    },
+    {
+      "source_label": "TIF 2025 iron overload chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/",
+      "current_observation": "Repeated transfusion causes iron loading, and iron risk must be interpreted with ferritin trend, organ iron, chelation, and safety context.",
+      "use_in_gate": "Require iron and organ context before any case relevance discussion."
+    },
+    {
+      "source_label": "FDA AQVESME label",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf",
+      "current_observation": "The FDA label indicates mitapivat for anemia in adults with alpha- or beta-thalassemia and includes liver-injury and CYP3A interaction constraints.",
+      "use_in_gate": "Use as an adult-label and safety-owner benchmark, not as pediatric or case-specific evidence."
+    },
+    {
+      "source_label": "FDA AQVESME approval summary",
+      "source_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder",
+      "current_observation": "FDA summarizes adult ENERGIZE-T transfusion-reduction response as 30 percent for mitapivat versus 13 percent for placebo.",
+      "use_in_gate": "Use as adult TDT benchmark evidence only."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07506863",
+      "source_url": "https://clinicaltrials.gov/study/NCT07506863",
+      "current_observation": "The pediatric TDT mitapivat record is phase 3, not yet recruiting, has no posted results, and uses transfusion-reduction response through week 48 as the primary outcome.",
+      "use_in_gate": "Keep as pediatric TDT watchlist evidence and clinician-mediated trial-context source."
+    }
+  ],
+  "clinician_question": "Given the diagnosis, age and weight band, transfusion burden, iron and organ status, liver tests, medication list, and local access constraints, is mitapivat clinically worth reviewing at all, or should this lane stay paused?",
+  "record_domains": [
+    {
+      "record_domain": "diagnosis_genotype_context",
+      "why_needed": "Mitapivat evidence spans alpha-thalassemia, beta-thalassemia, TDT, NTDT, HbE/beta-thalassemia, and pediatric trial definitions that cannot be mixed safely.",
+      "public_question": "Is the current subtype and genotype context documented well enough for a specialist to read the lane?",
+      "blocked_action": "Do not infer subtype, trial fit, or response from phenotype-only notes."
+    },
+    {
+      "record_domain": "age_weight_context",
+      "why_needed": "Adult label evidence and pediatric trial records are separate. The pediatric TDT record also stratifies by age and weight.",
+      "public_question": "Is the age and weight band documented well enough to separate adult-label evidence from pediatric-trial context?",
+      "blocked_action": "Do not transfer adult evidence into a pediatric claim."
+    },
+    {
+      "record_domain": "transfusion_burden_context",
+      "why_needed": "The TDT benchmark endpoint is transfusion reduction, so baseline transfusion episodes, intervals, volume, body weight, and hemoglobin response are core context.",
+      "public_question": "Is transfusion burden quantified well enough to make a transfusion-reduction endpoint interpretable?",
+      "blocked_action": "Do not change transfusion care or infer response from schedule alone."
+    },
+    {
+      "record_domain": "iron_organ_context",
+      "why_needed": "TDT interpretation depends on ferritin trend, liver iron, cardiac T2*, endocrine and organ monitoring, and chelation context.",
+      "public_question": "Is iron and organ monitoring complete enough for a hematologist to judge whether this lane is even discussable?",
+      "blocked_action": "Do not treat isolated ferritin or incomplete monitoring as enough organ-risk context."
+    },
+    {
+      "record_domain": "liver_safety_context",
+      "why_needed": "The label and pediatric protocol both route liver and hepatobiliary issues into safety review.",
+      "public_question": "Are liver tests and hepatobiliary context available for clinician safety review?",
+      "blocked_action": "Do not publish monitoring instructions or patient-specific safety interpretation."
+    },
+    {
+      "record_domain": "medication_interaction_context",
+      "why_needed": "The label describes CYP3A interaction constraints, and the pediatric protocol excludes some interacting medicines.",
+      "public_question": "Is the current medicine list available for clinician interaction review?",
+      "blocked_action": "Do not change medicines or publish interaction instructions."
+    },
+    {
+      "record_domain": "local_access_context",
+      "why_needed": "Regulatory approval, pharmacy access, trial contact, coverage, and affordability are different owner questions.",
+      "public_question": "Which owner should answer availability, trial-contact, or financial-pathway questions after clinician review?",
+      "blocked_action": "Do not publish legal, access, or operational instructions."
+    }
+  ],
+  "allowed_clinician_outcomes": [
+    {
+      "outcome_label": "review_not_ready_missing_records",
+      "meaning": "The clinician needs additional record domains before judging relevance.",
+      "public_repo_action": "Record missing-domain labels only.",
+      "private_action": "Index requested records in private storage."
+    },
+    {
+      "outcome_label": "not_clinically_relevant_now",
+      "meaning": "The clinician says the lane is not relevant for the current case state.",
+      "public_repo_action": "Record the pause label and source category only.",
+      "private_action": "Keep clinical rationale private unless it is a public source."
+    },
+    {
+      "outcome_label": "review_with_hematologist_only",
+      "meaning": "The clinician allows continued discussion only inside specialist review.",
+      "public_repo_action": "Record specialist-review label only.",
+      "private_action": "Keep the review thread private."
+    },
+    {
+      "outcome_label": "refer_to_trial_or_access_owner_after_clinician_review",
+      "meaning": "The clinician names a proper owner for registry, pharmacy, manufacturer, payer, or access-pathway follow-up.",
+      "public_repo_action": "Record owner category and public source only.",
+      "private_action": "Keep contact details and raw messages private."
+    },
+    {
+      "outcome_label": "safety_review_required_before_any_discussion",
+      "meaning": "Liver, interaction, organ, adverse-event, or comorbidity context must be reviewed first.",
+      "public_repo_action": "Record safety-review-needed label only.",
+      "private_action": "Route raw safety context through the clinician."
+    },
+    {
+      "outcome_label": "lane_paused_until_pediatric_results_or_recruitment",
+      "meaning": "The clinician says the pediatric evidence state is too early for this case lane.",
+      "public_repo_action": "Record pediatric-watchlist pause label only.",
+      "private_action": "Track registry status changes without raw case data."
+    }
+  ],
+  "release_policy": "Public notes may include source URLs, record-domain labels, owner categories, and next-state labels only. Do not publish raw records, identifiers, exact private dates, screenshots, doctor messages, raw owner replies, or patient-specific treatment instructions.",
+  "decision_rule": "Use this gate only to decide whether a hematologist can review the mitapivat lane. It does not decide treatment, dosing, trial eligibility, local access, or care changes."
+}

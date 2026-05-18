@@ -1,0 +1,91 @@
+{
+  "checked_date": "2026-05-18",
+  "evidence_label": "mitapivat clinician-answer action ladder, not medical advice",
+  "gate_label": "mitapivat_clinician_answer_action_ladder_ready",
+  "source_checks": [
+    {
+      "source_label": "ClinicalTrials.gov NCT04770779",
+      "source_url": "https://clinicaltrials.gov/study/NCT04770779",
+      "status_checked": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-04-24",
+      "has_results": true,
+      "use_in_ladder": "Adult TDT benchmark only; not an individual case answer."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07506863",
+      "source_url": "https://clinicaltrials.gov/study/NCT07506863",
+      "status_checked": "NOT_YET_RECRUITING",
+      "last_update": "2026-04-08",
+      "has_results": false,
+      "use_in_ladder": "Pediatric TDT watchlist only."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07517133",
+      "source_url": "https://clinicaltrials.gov/study/NCT07517133",
+      "status_checked": "NOT_YET_RECRUITING",
+      "last_update": "2026-04-08",
+      "has_results": false,
+      "use_in_ladder": "Pediatric NTDT watchlist only; not interchangeable with TDT."
+    },
+    {
+      "source_label": "FDA AQVESME label",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf",
+      "status_checked": "adult label with safety and interaction constraints",
+      "use_in_ladder": "Route safety, liver, and interaction questions to the clinician."
+    },
+    {
+      "source_label": "TIF 2025 TDT guideline",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614251/",
+      "status_checked": "current TDT management baseline",
+      "use_in_ladder": "Keep diagnosis, transfusion, iron, organ, and monitoring context together."
+    }
+  ],
+  "allowed_input_labels": [
+    "review_not_ready_missing_records",
+    "not_clinically_relevant_now",
+    "review_with_hematologist_only",
+    "refer_to_trial_or_access_owner_after_clinician_review",
+    "safety_review_required_before_any_discussion",
+    "lane_paused_until_pediatric_results_or_recruitment"
+  ],
+  "action_ladder": [
+    {
+      "input_label": "review_not_ready_missing_records",
+      "private_action": "Index the requested record domains privately and return to the record request matrix.",
+      "public_repo_action": "Record missing-domain labels only.",
+      "next_state": "minimum_packet_completion_needed"
+    },
+    {
+      "input_label": "not_clinically_relevant_now",
+      "private_action": "Keep the clinician rationale private unless it points to a public source.",
+      "public_repo_action": "Record lane_paused_by_clinician_review.",
+      "next_state": "mitapivat_lane_paused"
+    },
+    {
+      "input_label": "review_with_hematologist_only",
+      "private_action": "Keep follow-up inside clinician review and do not contact access owners from public notes.",
+      "public_repo_action": "Record hematologist_review_only.",
+      "next_state": "specialist_review_private"
+    },
+    {
+      "input_label": "refer_to_trial_or_access_owner_after_clinician_review",
+      "private_action": "Prepare one owner-specific packet using public source URLs and private record aliases only.",
+      "public_repo_action": "Record owner category and public source URL only.",
+      "next_state": "owner_packet_after_clinician_review"
+    },
+    {
+      "input_label": "safety_review_required_before_any_discussion",
+      "private_action": "Route liver, interaction, organ, or adverse-event context through the clinician.",
+      "public_repo_action": "Record safety_review_needed.",
+      "next_state": "safety_context_private"
+    },
+    {
+      "input_label": "lane_paused_until_pediatric_results_or_recruitment",
+      "private_action": "Track pediatric registry status without adding raw case data.",
+      "public_repo_action": "Record pediatric_watchlist_pause.",
+      "next_state": "pediatric_registry_watchlist"
+    }
+  ],
+  "release_policy": "Public artifacts may include input labels, next-state labels, owner categories, and public source URLs only. Raw doctor replies, raw records, screenshots, identifiers, exact private dates, contact details, and patient-specific instructions stay out of Git.",
+  "decision_rule": "A clinician answer changes the research queue, not the treatment plan. Every branch is label-only until a qualified clinician or proper owner supplies a public-safe source-backed next state."
+}

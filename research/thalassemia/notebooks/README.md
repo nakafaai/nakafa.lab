@@ -114,6 +114,9 @@ Current notebooks:
 - `2026-05-17-case001-mitapivat-clinician-review-readiness-gate.ipynb` -
   de-identified clinician-review readiness gate that turns the mitapivat lane
   into one hematologist question and six public-safe response labels.
+- `2026-05-18-case001-mitapivat-clinician-answer-action-ladder.ipynb` -
+  de-identified action ladder that maps each allowed hematologist response
+  label to a private action, public action, and next state.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

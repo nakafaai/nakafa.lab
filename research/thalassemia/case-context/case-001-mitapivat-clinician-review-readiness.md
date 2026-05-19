@@ -60,6 +60,7 @@ Use one label: `review_not_ready_missing_records`,
 
 ## Source-Backed Gates
 
+- [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Case-001 mitapivat clinician-answer action ladder](case-001-mitapivat-clinician-answer-action-ladder.md)
 - [Case-001 mitapivat clinician-review readiness gate](../findings/2026-05-17-case001-mitapivat-clinician-review-readiness-gate.md)
 - [Case-001 mitapivat evidence-to-action gate](../findings/2026-05-16-case001-mitapivat-evidence-to-action-gate.md)

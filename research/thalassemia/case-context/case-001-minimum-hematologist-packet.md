@@ -26,6 +26,7 @@ supplements, diet, or any treatment plan.
 | Trial/referral | `trial_referral_not_ready` | Referral or trial screening cannot be judged until subtype, transfusion, immune, iron, organ, and access records are known. |
 | Advanced therapy referral | `advanced_therapy_referral_packet_missing` | HSCT, gene therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trial screening cannot be judged until the specialist packet is complete enough for clinician review. |
 | Mitapivat review | `mitapivat_clinician_review_readiness_ready` | Mitapivat should be framed as one hematologist review-readiness question, not as a treatment or access request. |
+| Mitapivat packet readiness | `mitapivat_minimum_packet_readiness_ready` | The mitapivat question should wait until seven required domains are label-ready and release-checked. |
 
 ## Bring Or Request First
 
@@ -152,6 +153,11 @@ Use the
 only when the clinician is ready to discuss whether the mitapivat lane is worth
 reviewing at all.
 
+Use the
+[case-001 mitapivat minimum-packet readiness note](case-001-mitapivat-minimum-packet-readiness.md)
+before that question. If any of its seven domains is missing or release-blocked,
+do not ask the mitapivat question yet.
+
 ## Public Release Rule
 
 Before adding new case-001 facts to the public repo, use the
@@ -178,6 +184,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
+- [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

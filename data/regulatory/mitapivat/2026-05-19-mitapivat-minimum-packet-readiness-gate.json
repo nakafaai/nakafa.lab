@@ -1,0 +1,98 @@
+{
+  "checked_date": "2026-05-19",
+  "evidence_label": "mitapivat minimum-packet readiness gate, not medical advice",
+  "gate_label": "mitapivat_minimum_packet_readiness_ready",
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 TDT guideline",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614251/",
+      "source_role": "Clinical baseline tying TDT interpretation to diagnosis, transfusion, iron, organ, monitoring, HCT, gene manipulation, and disease-modifying therapy context."
+    },
+    {
+      "source_label": "TIF 2025 blood transfusion chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/",
+      "source_role": "Transfusion context baseline for documenting schedule, burden, products, hemoglobin response, and transfusion-safety context."
+    },
+    {
+      "source_label": "TIF 2025 iron overload chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/",
+      "source_role": "Iron and organ-risk baseline for ferritin trend, liver iron, cardiac T2*, chelation, and monitoring context."
+    },
+    {
+      "source_label": "FDA AQVESME label",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf",
+      "source_role": "Adult-label, liver-safety, REMS, and interaction boundary for mitapivat."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07506863",
+      "source_url": "https://clinicaltrials.gov/study/NCT07506863",
+      "source_role": "Pediatric TDT watchlist record with no posted results in the current check."
+    }
+  ],
+  "packet_domains": [
+    {
+      "domain_label": "diagnosis_genotype_context",
+      "minimum_public_state": "ready_label_only_or_missing_label",
+      "minimum_private_evidence": "Subtype wording, hemoglobin fraction context, HBB/HBA/HPFH or modifier records when available.",
+      "blocks_if_missing": "Subtype and trial-context interpretation."
+    },
+    {
+      "domain_label": "age_weight_context",
+      "minimum_public_state": "age_weight_band_ready_or_missing",
+      "minimum_private_evidence": "Age band and weight band, not exact birth date or raw growth records.",
+      "blocks_if_missing": "Adult-label versus pediatric-trial separation."
+    },
+    {
+      "domain_label": "transfusion_burden_context",
+      "minimum_public_state": "transfusion_burden_quantified_or_unquantified",
+      "minimum_private_evidence": "Generalized transfusion interval, units or volume, body weight, pre/post hemoglobin context, reaction labels, and annual ml/kg/year if clinic-calculated.",
+      "blocks_if_missing": "Any interpretation of transfusion-reduction endpoints."
+    },
+    {
+      "domain_label": "iron_organ_context",
+      "minimum_public_state": "iron_organ_packet_ready_or_missing",
+      "minimum_private_evidence": "Ferritin trend, liver iron, cardiac T2*, chelation identity, and organ-monitoring labels.",
+      "blocks_if_missing": "Safety, organ-risk, and advanced-option discussion."
+    },
+    {
+      "domain_label": "liver_safety_context",
+      "minimum_public_state": "liver_safety_review_ready_or_missing",
+      "minimum_private_evidence": "Liver test trend and hepatobiliary context labels.",
+      "blocks_if_missing": "Mitapivat safety-context discussion."
+    },
+    {
+      "domain_label": "medication_interaction_context",
+      "minimum_public_state": "medication_review_ready_or_missing",
+      "minimum_private_evidence": "Current medicine categories and interaction-review owner labels.",
+      "blocks_if_missing": "Interaction and safety owner routing."
+    },
+    {
+      "domain_label": "local_access_context",
+      "minimum_public_state": "access_owner_context_ready_or_missing",
+      "minimum_private_evidence": "Owner category labels for regulatory, pharmacy, trial, payer, and affordability constraints.",
+      "blocks_if_missing": "Access-owner routing after clinician review."
+    }
+  ],
+  "readiness_decision": [
+    {
+      "state_label": "packet_not_ready",
+      "rule": "One or more required domains is missing or unreviewed.",
+      "allowed_public_action": "Record missing-domain labels only.",
+      "blocked_action": "Do not ask for a mitapivat decision."
+    },
+    {
+      "state_label": "packet_ready_for_clinician_question",
+      "rule": "All seven domains have at least label-level private evidence and no public-release blocker.",
+      "allowed_public_action": "Ask the May 17 review-readiness question through the clinician.",
+      "blocked_action": "Do not ask for dosing, treatment change, trial screening, import, or access instruction."
+    },
+    {
+      "state_label": "packet_private_release_blocked",
+      "rule": "Any domain contains raw identifiers, exact private dates, screenshots, raw messages, or patient-specific instructions.",
+      "allowed_public_action": "Record release_blocked only.",
+      "blocked_action": "Do not publish the domain content."
+    }
+  ],
+  "release_policy": "Public artifacts may include domain labels, readiness labels, owner categories, and public source URLs only. Raw records, exact dates, screenshots, names, contact details, doctor messages, owner replies, and patient-specific instructions stay out of Git.",
+  "decision_rule": "The mitapivat question is allowed only after all seven domains are label-ready and release-checked. This gate does not decide treatment or eligibility."
+}

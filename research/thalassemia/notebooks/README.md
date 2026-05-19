@@ -117,6 +117,9 @@ Current notebooks:
 - `2026-05-18-case001-mitapivat-clinician-answer-action-ladder.ipynb` -
   de-identified action ladder that maps each allowed hematologist response
   label to a private action, public action, and next state.
+- `2026-05-19-case001-mitapivat-minimum-packet-readiness-gate.ipynb` -
+  de-identified readiness gate that checks the seven minimum packet domains
+  before asking the May 17 hematologist question.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

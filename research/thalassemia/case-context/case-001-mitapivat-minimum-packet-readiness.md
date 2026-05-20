@@ -38,6 +38,7 @@ instructions.
 
 ## Source-Backed Gates
 
+- [Case-001 mitapivat seven-domain owner action map](case-001-mitapivat-seven-domain-owner-action-map.md)
 - [Case-001 mitapivat minimum-packet readiness gate](../findings/2026-05-19-case001-mitapivat-minimum-packet-readiness-gate.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
 - [Case-001 mitapivat clinician-answer action ladder](case-001-mitapivat-clinician-answer-action-ladder.md)

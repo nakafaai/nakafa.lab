@@ -120,6 +120,10 @@ Current notebooks:
 - `2026-05-19-case001-mitapivat-minimum-packet-readiness-gate.ipynb` -
   de-identified readiness gate that checks the seven minimum packet domains
   before asking the May 17 hematologist question.
+- `2026-05-20-case001-mitapivat-seven-domain-owner-action-map.ipynb` -
+  de-identified owner-action gate that maps each required mitapivat packet
+  domain to a clinical owner category, public-safe label, and missing-data
+  blocker.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

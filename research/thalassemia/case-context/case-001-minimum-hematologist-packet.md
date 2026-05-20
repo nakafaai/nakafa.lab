@@ -185,6 +185,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
 - [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
+- [Case-001 mitapivat seven-domain owner action map](case-001-mitapivat-seven-domain-owner-action-map.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

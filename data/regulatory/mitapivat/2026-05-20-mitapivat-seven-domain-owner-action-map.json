@@ -1,0 +1,104 @@
+{
+  "checked_date": "2026-05-20",
+  "evidence_label": "mitapivat seven-domain owner action map, not medical advice",
+  "gate_label": "mitapivat_seven_domain_owner_action_map_ready",
+  "upstream_gate": "mitapivat_minimum_packet_readiness_ready",
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 TDT guideline",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614251/",
+      "source_role": "Confirms that TDT review spans diagnosis, transfusion, iron, organ monitoring, multidisciplinary care, HCT, gene manipulation, and disease-modifying agents."
+    },
+    {
+      "source_label": "TIF 2025 blood transfusion chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/",
+      "source_role": "Supports transfusion-burden, matching, antibody, reaction, and hemoglobin-response record ownership."
+    },
+    {
+      "source_label": "TIF 2025 iron overload chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/",
+      "source_role": "Supports ferritin, liver iron, cardiac T2*, chelation, and organ-risk record ownership."
+    },
+    {
+      "source_label": "FDA AQVESME label",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf",
+      "source_role": "Adult-label, liver-injury, REMS, hepatic-impairment, and interaction boundary for mitapivat."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07506863",
+      "source_url": "https://clinicaltrials.gov/study/NCT07506863",
+      "source_role": "Pediatric TDT mitapivat watchlist record; API check showed not-yet-recruiting, no posted results, last update 2026-04-08, version 2026-05-19."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07517133",
+      "source_url": "https://clinicaltrials.gov/study/NCT07517133",
+      "source_role": "Pediatric NTDT mitapivat watchlist record; API check showed not-yet-recruiting, no posted results, last update 2026-04-08, version 2026-05-19."
+    }
+  ],
+  "domain_owner_matrix": [
+    {
+      "domain_label": "diagnosis_genotype_context",
+      "primary_owner": "hematologist_or_genetics_lab",
+      "minimum_private_evidence": "Subtype wording, hemoglobin fraction context, and HBB/HBA/HPFH or modifier records when available.",
+      "owner_question": "Which diagnosis and genotype records are sufficient before any mitapivat review-readiness question?",
+      "public_safe_label": "diagnosis_genotype_label_ready_or_missing",
+      "blocks_if_missing": "Subtype and trial-context interpretation."
+    },
+    {
+      "domain_label": "age_weight_context",
+      "primary_owner": "treating_hematologist",
+      "minimum_private_evidence": "Age band and weight band only; no exact birth date or raw growth record in public Git.",
+      "owner_question": "Which age and weight band is safe to use for adult-label versus pediatric-watchlist separation?",
+      "public_safe_label": "age_weight_band_ready_or_missing",
+      "blocks_if_missing": "Adult-label versus pediatric-watchlist separation."
+    },
+    {
+      "domain_label": "transfusion_burden_context",
+      "primary_owner": "hematologist_or_transfusion_medicine",
+      "minimum_private_evidence": "Interval pattern, units or volume, body weight, pre/post hemoglobin context, reaction labels, and clinic-calculated annual ml/kg/year if available.",
+      "owner_question": "Is transfusion burden quantified enough to interpret any transfusion-reduction endpoint?",
+      "public_safe_label": "transfusion_burden_ready_or_unquantified",
+      "blocks_if_missing": "Any interpretation of transfusion-reduction endpoints."
+    },
+    {
+      "domain_label": "iron_organ_context",
+      "primary_owner": "hematologist_or_iron_organ_monitoring_owner",
+      "minimum_private_evidence": "Ferritin trend, liver iron concentration, cardiac T2*, chelation identity, and organ-monitoring labels.",
+      "owner_question": "Are iron and organ records complete enough for safety-context review?",
+      "public_safe_label": "iron_organ_packet_ready_or_missing",
+      "blocks_if_missing": "Safety, organ-risk, and advanced-option discussion."
+    },
+    {
+      "domain_label": "liver_safety_context",
+      "primary_owner": "hematologist_or_hepatology_owner",
+      "minimum_private_evidence": "Liver test trend and hepatobiliary context labels.",
+      "owner_question": "Is liver-safety context adequate for a clinician-only mitapivat review question?",
+      "public_safe_label": "liver_safety_review_ready_or_missing",
+      "blocks_if_missing": "Mitapivat safety-context discussion."
+    },
+    {
+      "domain_label": "medication_interaction_context",
+      "primary_owner": "hematologist_or_clinical_pharmacist",
+      "minimum_private_evidence": "Current medicine categories and interaction-review owner labels.",
+      "owner_question": "Who should review current medicines for CYP3A, UGT1A1, P-gp, and narrow-therapeutic-index interaction context?",
+      "public_safe_label": "medication_review_ready_or_missing",
+      "blocks_if_missing": "Interaction and safety owner routing."
+    },
+    {
+      "domain_label": "local_access_context",
+      "primary_owner": "hematologist_then_regulatory_pharmacy_trial_payer_owner",
+      "minimum_private_evidence": "Owner category labels for regulatory, pharmacy, trial, payer, and affordability constraints.",
+      "owner_question": "If the hematologist says review is worth continuing, which non-clinical owner should receive which access question?",
+      "public_safe_label": "access_owner_context_ready_or_missing",
+      "blocks_if_missing": "Access-owner routing after clinician review."
+    }
+  ],
+  "allowed_next_states": [
+    "domain_missing_private_record_request",
+    "domain_label_ready_private",
+    "domain_release_blocked_public_label_only",
+    "all_domains_ready_for_clinician_question"
+  ],
+  "release_policy": "Public artifacts may include domain labels, owner categories, public-safe questions, next-state labels, and source URLs only. Raw records, exact dates, contact details, screenshots, doctor messages, owner replies, and patient-specific instructions stay out of Git.",
+  "decision_rule": "Ask the May 17 clinician-review question only when every domain is either privately label-ready and public-release checked, with no raw data placed in the public repo."
+}

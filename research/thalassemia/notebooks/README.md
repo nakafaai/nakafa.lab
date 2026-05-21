@@ -124,6 +124,10 @@ Current notebooks:
   de-identified owner-action gate that maps each required mitapivat packet
   domain to a clinical owner category, public-safe label, and missing-data
   blocker.
+- `2026-05-21-case001-mitapivat-clinician-conversation-sequence-gate.ipynb` -
+  de-identified sequence gate that keeps the mitapivat clinician conversation
+  ordered from scope and core labels through seven-domain readiness before the
+  review-readiness question.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

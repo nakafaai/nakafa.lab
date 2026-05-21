@@ -158,6 +158,12 @@ Use the
 before that question. If any of its seven domains is missing or release-blocked,
 do not ask the mitapivat question yet.
 
+Use the
+[case-001 mitapivat clinician conversation sequence](case-001-mitapivat-clinician-conversation-sequence.md)
+when the packet is ready enough to ask the doctor in order. It keeps the
+mitapivat question after scope, core labels, missing records, and seven-domain
+readiness.
+
 ## Public Release Rule
 
 Before adding new case-001 facts to the public repo, use the
@@ -186,6 +192,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
 - [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Case-001 mitapivat seven-domain owner action map](case-001-mitapivat-seven-domain-owner-action-map.md)
+- [Case-001 mitapivat clinician conversation sequence](case-001-mitapivat-clinician-conversation-sequence.md)
 - [Advanced therapy referral readiness template](../../../templates/advanced-therapy-referral-readiness-template.md)
 - [Public case data release gate](../findings/2026-04-28-public-case-data-release-gate.md)
 - [Case-001 research routing matrix](case-001-research-routing-v0.md)

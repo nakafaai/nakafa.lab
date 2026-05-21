@@ -737,6 +737,7 @@ data/regulatory/mitapivat/2026-05-17-mitapivat-clinician-review-readiness-map.js
 data/regulatory/mitapivat/2026-05-18-mitapivat-clinician-answer-action-ladder.json
 data/regulatory/mitapivat/2026-05-19-mitapivat-minimum-packet-readiness-gate.json
 data/regulatory/mitapivat/2026-05-20-mitapivat-seven-domain-owner-action-map.json
+data/regulatory/mitapivat/2026-05-21-mitapivat-clinician-conversation-sequence-gate.json
 research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md
 research/thalassemia/assays/2026-04-27-dual-hbf-alpha-autophagy-assay-spec-v0.md
 research/thalassemia/assays/2026-04-27-pf-06409577-prkab1-quote-addendum-v0.md
@@ -770,6 +771,7 @@ research/thalassemia/notebooks/2026-05-17-case001-mitapivat-clinician-review-rea
 research/thalassemia/notebooks/2026-05-18-case001-mitapivat-clinician-answer-action-ladder.ipynb
 research/thalassemia/notebooks/2026-05-19-case001-mitapivat-minimum-packet-readiness-gate.ipynb
 research/thalassemia/notebooks/2026-05-20-case001-mitapivat-seven-domain-owner-action-map.ipynb
+research/thalassemia/notebooks/2026-05-21-case001-mitapivat-clinician-conversation-sequence-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -791,6 +793,7 @@ research/thalassemia/case-context/case-001-mitapivat-clinician-review-readiness.
 research/thalassemia/case-context/case-001-mitapivat-clinician-answer-action-ladder.md
 research/thalassemia/case-context/case-001-mitapivat-minimum-packet-readiness.md
 research/thalassemia/case-context/case-001-mitapivat-seven-domain-owner-action-map.md
+research/thalassemia/case-context/case-001-mitapivat-clinician-conversation-sequence.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
 research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
@@ -813,6 +816,7 @@ research/thalassemia/findings/2026-05-17-case001-mitapivat-clinician-review-read
 research/thalassemia/findings/2026-05-18-case001-mitapivat-clinician-answer-action-ladder.md
 research/thalassemia/findings/2026-05-19-case001-mitapivat-minimum-packet-readiness-gate.md
 research/thalassemia/findings/2026-05-20-case001-mitapivat-seven-domain-owner-action-map.md
+research/thalassemia/findings/2026-05-21-case001-mitapivat-clinician-conversation-sequence-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
 templates/public-collaborator-intake-template.md

@@ -39,6 +39,7 @@ question yet. Return to private record retrieval or private owner review.
 
 ## Source-Backed Gates
 
+- [Case-001 mitapivat clinician conversation sequence](case-001-mitapivat-clinician-conversation-sequence.md)
 - [Case-001 mitapivat seven-domain owner action map](../findings/2026-05-20-case001-mitapivat-seven-domain-owner-action-map.md)
 - [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)

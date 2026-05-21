@@ -1,0 +1,97 @@
+{
+  "checked_date": "2026-05-21",
+  "evidence_label": "mitapivat clinician conversation sequence gate, not medical advice",
+  "gate_label": "mitapivat_clinician_conversation_sequence_ready",
+  "upstream_gate": "mitapivat_seven_domain_owner_action_map_ready",
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 blood transfusion chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/",
+      "source_role": "Supports starting with clinical category, transfusion decision context, patient blood management, and transfusion-burden questions before advanced-option review."
+    },
+    {
+      "source_label": "TIF 2025 iron overload chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/",
+      "source_role": "Supports asking iron, liver, cardiac, chelation, and organ-risk questions before disease-modifying drug discussion."
+    },
+    {
+      "source_label": "FDA AQVESME label",
+      "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/216196s003lbl.pdf",
+      "source_role": "Adult-label, hepatocellular-injury, REMS, hepatic-impairment, and interaction boundary for mitapivat discussion."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07506863",
+      "source_url": "https://clinicaltrials.gov/study/NCT07506863",
+      "source_role": "Pediatric TDT watchlist record; API check showed not-yet-recruiting, no posted results, last update 2026-04-08, version 2026-05-20."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT07517133",
+      "source_url": "https://clinicaltrials.gov/study/NCT07517133",
+      "source_role": "Pediatric NTDT watchlist record; API check showed not-yet-recruiting, no posted results, last update 2026-04-08, version 2026-05-20."
+    },
+    {
+      "source_label": "ClinicalTrials.gov NCT04770779",
+      "source_url": "https://clinicaltrials.gov/study/NCT04770779",
+      "source_role": "Adult TDT benchmark record; API check showed active-not-recruiting, posted results, last update 2026-04-24, version 2026-05-20."
+    }
+  ],
+  "conversation_sequence": [
+    {
+      "step_label": "open_scope",
+      "question_intent": "State that the visit asks for label validation and missing-record routing, not treatment change.",
+      "allowed_public_output": "scope_confirmed_or_corrected",
+      "stop_if": "clinician_redirects_to_basic_case_packet"
+    },
+    {
+      "step_label": "validate_core_case_labels",
+      "question_intent": "Ask whether the current public-safe labels for diagnosis category, transfusion dependence, transfusion burden, immune/transfusion, iron/organ, and referral readiness are correct, wrong, or unconfirmable.",
+      "allowed_public_output": "core_labels_confirmed_corrected_or_unconfirmable",
+      "stop_if": "core_category_unclear"
+    },
+    {
+      "step_label": "close_missing_records",
+      "question_intent": "Ask which missing records should be requested first and which owner should provide them.",
+      "allowed_public_output": "missing_record_owner_labels_only",
+      "stop_if": "any_required_domain_missing"
+    },
+    {
+      "step_label": "confirm_seven_domain_readiness",
+      "question_intent": "Ask whether the seven mitapivat domains are privately label-ready and release-checked.",
+      "allowed_public_output": "seven_domain_readiness_label",
+      "stop_if": "any_domain_missing_or_release_blocked"
+    },
+    {
+      "step_label": "ask_mitapivat_review_readiness",
+      "question_intent": "Ask only whether mitapivat is clinically worth reviewing at all, or whether the lane should stay paused.",
+      "allowed_public_output": "one_allowed_clinician_response_label",
+      "stop_if": "clinician_requests_safety_or_specialist_review_first"
+    },
+    {
+      "step_label": "route_after_answer",
+      "question_intent": "Reduce any clinician answer to the May 18 action ladder before public documentation.",
+      "allowed_public_output": "next_research_state_label_only",
+      "stop_if": "answer_contains_raw_private_material_or_patient_specific_instruction"
+    }
+  ],
+  "allowed_clinician_response_labels": [
+    "review_not_ready_missing_records",
+    "not_clinically_relevant_now",
+    "review_with_hematologist_only",
+    "refer_to_trial_or_access_owner_after_clinician_review",
+    "safety_review_required_before_any_discussion",
+    "lane_paused_until_pediatric_results_or_recruitment"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "exact_private_dates",
+    "screenshots",
+    "doctor_messages",
+    "owner_replies",
+    "contact_details",
+    "patient_specific_treatment_instructions",
+    "dose_or_dosing_requests",
+    "access_import_or_travel_instructions",
+    "trial_screening_instruction"
+  ],
+  "decision_rule": "The mitapivat review-readiness question is step five, not step one. Stop at the first missing, corrected, or release-blocked prerequisite and record only public-safe labels."
+}

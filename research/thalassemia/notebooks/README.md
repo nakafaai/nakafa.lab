@@ -128,6 +128,10 @@ Current notebooks:
   de-identified sequence gate that keeps the mitapivat clinician conversation
   ordered from scope and core labels through seven-domain readiness before the
   review-readiness question.
+- `2026-05-22-case001-clinician-confirmation-packet-index-gate.ipynb` -
+  de-identified packet-index gate that keeps the doctor-facing handoff first,
+  private records outside Git, mitapivat downstream, and the main paper
+  appendix-only.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

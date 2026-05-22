@@ -29,6 +29,10 @@ Use this order for a doctor conversation:
    autoimmune records;
 4. the main paper only as an optional research appendix.
 
+If the clinician asks what exactly should be confirmed, use the
+[case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
+to keep the packet in order.
+
 ## Output Needed From The Doctor
 
 Please return a short answer in this structure:
@@ -115,6 +119,7 @@ Nakafa Lab can continue non-clinical work in parallel:
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Case-001 no-lab completion tracker](case-001-no-lab-completion-tracker.md)
 - [Case-001 minimum hematologist packet](case-001-minimum-hematologist-packet.md)
+- [Case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
 - [Doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Transfusion burden readiness gate](../findings/2026-05-01-case001-transfusion-burden-readiness-gate.md)
 - [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/)

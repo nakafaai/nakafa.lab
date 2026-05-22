@@ -1,0 +1,93 @@
+{
+  "checked_date": "2026-05-22",
+  "evidence_label": "case-001 clinician confirmation packet index gate, not medical advice",
+  "gate_label": "case001_clinician_confirmation_packet_index_ready",
+  "upstream_gates": [
+    "minimum_hematologist_packet_ready_for_review",
+    "mitapivat_clinician_conversation_sequence_ready"
+  ],
+  "source_checks": [
+    { "source_label": "TIF 2025 blood transfusion chapter", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/", "source_role": "Transfusion category, burden, response, and adverse-event context." },
+    { "source_label": "TIF 2025 iron overload chapter", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/", "source_role": "Ferritin trend, LIC, cardiac T2*, chelation, and organ-risk context." },
+    { "source_label": "TIF 2025 monitoring recommendations", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614248/", "source_role": "Routine monitoring domains before disease-modifying therapy questions." },
+    { "source_label": "GeneReviews beta-thalassemia", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1426/", "source_role": "Genotype, phenotype, and diagnostic-confirmation framing." },
+    { "source_label": "ClinicalTrials.gov NCT07506863", "source_url": "https://clinicaltrials.gov/study/NCT07506863", "source_role": "May 22 API check: pediatric TDT mitapivat remains not yet recruiting with no posted results." },
+    { "source_label": "ClinicalTrials.gov NCT07517133", "source_url": "https://clinicaltrials.gov/study/NCT07517133", "source_role": "May 22 API check: pediatric NTDT mitapivat remains not yet recruiting with no posted results." },
+    { "source_label": "ClinicalTrials.gov NCT04770779", "source_url": "https://clinicaltrials.gov/study/NCT04770779", "source_role": "May 22 API check: adult TDT mitapivat has posted results; benchmark context only." }
+  ],
+  "packet_order": [
+    {
+      "step_label": "send_one_page_handoff_first",
+      "deliverable": "case-001 doctor handoff brief or compiled doctor handoff PDF",
+      "doctor_intent": "Confirm what should be validated and which records are missing.",
+      "public_output": "scope_confirmed_or_corrected",
+      "stop_if": "clinician_cannot_identify_confirmation_scope"
+    },
+    {
+      "step_label": "attach_private_original_records",
+      "deliverable": "private lab and screening PDFs plus current private records",
+      "doctor_intent": "Let the clinician review source records outside the public repo.",
+      "public_output": "private_records_attached_label_only",
+      "stop_if": "records_are_missing_or_not_release_reviewed"
+    },
+    {
+      "step_label": "validate_core_labels",
+      "deliverable": "current public-safe working-label table",
+      "doctor_intent": "Mark each public-safe label as correct, wrong, or not confirmable.",
+      "public_output": "labels_confirmed_corrected_or_unconfirmable",
+      "stop_if": "diagnosis_or_transfusion_category_unclear"
+    },
+    {
+      "step_label": "name_missing_records_and_owner",
+      "deliverable": "record request matrix and owner category labels",
+      "doctor_intent": "Name the first missing records and the right hospital, lab, blood-bank, or specialist owner.",
+      "public_output": "missing_record_owner_labels_only",
+      "stop_if": "missing_record_owner_unknown"
+    },
+    {
+      "step_label": "classify_advanced_review_readiness",
+      "deliverable": "advanced-therapy and trial readiness labels",
+      "doctor_intent": "State whether specialist screening is ready, data-missing, medically unsuitable, access-blocked, or under review.",
+      "public_output": "advanced_review_readiness_label",
+      "stop_if": "core_packet_not_ready"
+    },
+    {
+      "step_label": "route_mitapivat_only_after_prerequisites",
+      "deliverable": "mitapivat clinician conversation sequence",
+      "doctor_intent": "Ask whether mitapivat is worth clinical review only after scope, labels, records, and seven domains pass.",
+      "public_output": "one_allowed_mitapivat_clinician_response_label",
+      "stop_if": "any_prerequisite_missing_or_release_blocked"
+    },
+    {
+      "step_label": "offer_main_paper_as_appendix_only",
+      "deliverable": "main research paper",
+      "doctor_intent": "Use the long paper only if the clinician asks for the broader evidence map.",
+      "public_output": "appendix_requested_or_not_needed",
+      "stop_if": "doctor_is_trying_to_parse_main_paper_as_first_packet"
+    }
+  ],
+  "allowed_public_response_labels": [
+    "scope_confirmed_or_corrected",
+    "labels_confirmed_corrected_or_unconfirmable",
+    "missing_record_owner_labels_only",
+    "advanced_review_readiness_label",
+    "one_allowed_mitapivat_clinician_response_label",
+    "appendix_requested_or_not_needed",
+    "release_blocked_private_material"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "exact_private_dates",
+    "screenshots",
+    "doctor_messages",
+    "clinician_names",
+    "hospital_names",
+    "owner_replies",
+    "contact_details",
+    "patient_specific_treatment_instructions",
+    "dose_or_dosing_requests",
+    "access_import_or_travel_instructions",
+    "trial_screening_instruction"
+  ],
+  "decision_rule": "The doctor-facing packet starts with a one-page confirmation request. The main paper is appendix-only. The mitapivat lane is downstream of label validation, missing-record closure, and seven-domain readiness."
+}

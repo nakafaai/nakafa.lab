@@ -143,6 +143,10 @@ Use the [case-001 doctor handoff brief](case-001-doctor-handoff-brief.md) as
 the first doctor-facing document. Use the main paper only as a research appendix
 for clinicians or collaborators who ask for the broader evidence map.
 
+Use the
+[case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
+when the clinician asks what exactly should be confirmed.
+
 Use the [case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 when the first doctor cannot close every domain or redirects part of the packet
 to transfusion medicine, genetics, iron/organ monitoring, transplant, gene-cell
@@ -187,6 +191,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 record request matrix](case-001-record-request-matrix.md)
 - [Case-001 record request matrix gate](../findings/2026-04-29-case001-record-request-matrix-gate.md)
 - [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
+- [Case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
 - [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)

@@ -11,6 +11,9 @@ Use this after a doctor replies to the handoff brief. The goal is to turn the
 reply into labels, missing records, and next clinical owners without converting
 private clinical advice into public repo claims.
 
+If the reply follows the May 22 packet index, use the May 23 response
+label-capture guide before updating any public case files.
+
 ## First Pass
 
 Classify each doctor answer into one of five outcomes:
@@ -70,6 +73,7 @@ before writing public case labels.
 
 - [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
 - [Case-001 doctor response triage gate](../findings/2026-05-02-case001-doctor-response-triage-gate.md)
+- [Case-001 clinician response label capture](case-001-clinician-response-label-capture.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 owner response capture](case-001-owner-response-capture.md)
 - [Public case data release checklist](../../../templates/public-case-data-release-checklist.md)

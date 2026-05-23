@@ -18,6 +18,7 @@ docs/zed-latex.md
 .zed/tasks.json
 data/README.md
 data/workflows/case-001/2026-05-22-clinician-confirmation-packet-index.json
+data/workflows/case-001/2026-05-23-clinician-response-label-capture.json
 data/literature/pubmed/2026-04-26-bcl11a-hbf-beta-thalassemia.json
 data/literature/pubmed/2026-04-26-hbf-assay-screening.json
 data/literature/pubmed/2026-04-26-hemolysis-assay-safety.json
@@ -774,6 +775,7 @@ research/thalassemia/notebooks/2026-05-19-case001-mitapivat-minimum-packet-readi
 research/thalassemia/notebooks/2026-05-20-case001-mitapivat-seven-domain-owner-action-map.ipynb
 research/thalassemia/notebooks/2026-05-21-case001-mitapivat-clinician-conversation-sequence-gate.ipynb
 research/thalassemia/notebooks/2026-05-22-case001-clinician-confirmation-packet-index-gate.ipynb
+research/thalassemia/notebooks/2026-05-23-case001-clinician-response-label-capture-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -797,6 +799,7 @@ research/thalassemia/case-context/case-001-mitapivat-minimum-packet-readiness.md
 research/thalassemia/case-context/case-001-mitapivat-seven-domain-owner-action-map.md
 research/thalassemia/case-context/case-001-mitapivat-clinician-conversation-sequence.md
 research/thalassemia/case-context/case-001-clinician-confirmation-packet-index.md
+research/thalassemia/case-context/case-001-clinician-response-label-capture.md
 research/thalassemia/findings/2026-04-29-case001-record-request-matrix-gate.md
 research/thalassemia/findings/2026-04-30-case001-doctor-handoff-sprint-gate.md
 research/thalassemia/findings/2026-05-01-case001-transfusion-burden-readiness-gate.md
@@ -821,6 +824,7 @@ research/thalassemia/findings/2026-05-19-case001-mitapivat-minimum-packet-readin
 research/thalassemia/findings/2026-05-20-case001-mitapivat-seven-domain-owner-action-map.md
 research/thalassemia/findings/2026-05-21-case001-mitapivat-clinician-conversation-sequence-gate.md
 research/thalassemia/findings/2026-05-22-case001-clinician-confirmation-packet-index-gate.md
+research/thalassemia/findings/2026-05-23-case001-clinician-response-label-capture-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
 templates/public-collaborator-intake-template.md

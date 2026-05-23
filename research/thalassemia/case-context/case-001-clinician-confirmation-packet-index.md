@@ -33,6 +33,7 @@ Public output should be labels only.
 ## Source-Backed Gates
 
 - [Case-001 clinician confirmation packet index gate](../findings/2026-05-22-case001-clinician-confirmation-packet-index-gate.md)
+- [Case-001 clinician response label capture](case-001-clinician-response-label-capture.md)
 - [Case-001 doctor handoff brief](case-001-doctor-handoff-brief.md)
 - [Case-001 minimum hematologist packet](case-001-minimum-hematologist-packet.md)
 - [Case-001 mitapivat clinician conversation sequence](case-001-mitapivat-clinician-conversation-sequence.md)

@@ -1,0 +1,93 @@
+{
+  "checked_date": "2026-05-23",
+  "evidence_label": "case-001 clinician response label-capture gate, not medical advice",
+  "gate_label": "case001_clinician_response_label_capture_ready",
+  "upstream_gates": [
+    "case001_clinician_confirmation_packet_index_ready",
+    "doctor_response_triage_ready",
+    "mitapivat_clinician_conversation_sequence_ready"
+  ],
+  "source_checks": [
+    { "source_label": "TIF 2025 blood transfusion chapter", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/", "source_role": "Transfusion category, burden, response, and adverse-event context must be clinician-validated before advanced-option interpretation." },
+    { "source_label": "TIF 2025 iron overload chapter", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/", "source_role": "Iron, liver, cardiac, chelation, and organ-risk context must remain separate from treatment-lane enthusiasm." },
+    { "source_label": "GeneReviews beta-thalassemia", "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK1426/", "source_role": "Genotype, phenotype, and diagnostic confirmation remain upstream of case-specific treatment relevance." },
+    { "source_label": "FDA AQVESME approval page", "source_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder", "source_role": "Adult thalassemia regulatory context; not proof of individual fit, local access, affordability, or safety fit." },
+    { "source_label": "FDA AQVESME approval letter", "source_url": "https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/216196Orig1s002,s003ltr.pdf", "source_role": "Approval and REMS/safety context for clinician-only review boundaries." },
+    { "source_label": "Agios EU approval announcement", "source_url": "https://investor.agios.com/news-releases/news-release-details/european-commission-approves-agios-pyrukyndr-mitapivat-first", "source_role": "May 22, 2026 company announcement of European Commission adult thalassemia approval; local access still requires owner confirmation." },
+    { "source_label": "ClinicalTrials.gov NCT07506863", "source_url": "https://clinicaltrials.gov/study/NCT07506863", "source_role": "May 23 API check: pediatric TDT mitapivat remains not yet recruiting with no posted results." },
+    { "source_label": "ClinicalTrials.gov NCT07517133", "source_url": "https://clinicaltrials.gov/study/NCT07517133", "source_role": "May 23 API check: pediatric NTDT mitapivat remains not yet recruiting with no posted results." },
+    { "source_label": "ClinicalTrials.gov NCT04770779", "source_url": "https://clinicaltrials.gov/study/NCT04770779", "source_role": "May 23 API check: adult TDT mitapivat remains active-not-recruiting with posted results; benchmark context only until clinician review." }
+  ],
+  "capture_flow": [
+    {
+      "step_label": "store_raw_reply_private_only",
+      "private_action": "Save the original clinician reply only in the private workspace.",
+      "public_output": "raw_reply_received_private_only",
+      "stop_if": "reply_contains_private_identifiers_or_patient_specific_instructions"
+    },
+    {
+      "step_label": "extract_domain_answered",
+      "private_action": "Mark which domain the clinician answered: diagnosis, transfusion dependence, burden, immune/blood-bank, iron/organ, referral, mitapivat, or owner routing.",
+      "public_output": "domain_label_only",
+      "stop_if": "domain_cannot_be_identified"
+    },
+    {
+      "step_label": "classify_response_type",
+      "private_action": "Map the answer to confirmed, corrected, not confirmable, not applicable, or under specialist review.",
+      "public_output": "response_type_label_only",
+      "stop_if": "answer_is_free_text_without_a_safe_label"
+    },
+    {
+      "step_label": "map_missing_records_and_owner",
+      "private_action": "Capture missing record categories and owner categories without naming people, hospitals, phone numbers, or exact dates.",
+      "public_output": "missing_record_owner_labels_only",
+      "stop_if": "owner_or_record_category_is_unclear"
+    },
+    {
+      "step_label": "map_mitapivat_context_if_mentioned",
+      "private_action": "If mitapivat is mentioned, classify it as adult-label context, adult-trial benchmark, pediatric-watchlist context, local-access owner question, safety-owner question, or not clinically relevant now.",
+      "public_output": "mitapivat_context_label_only",
+      "stop_if": "answer_requests_dose_access_import_travel_or_trial_screening_action"
+    },
+    {
+      "step_label": "release_public_label_only",
+      "private_action": "Run public release review and update Git only with labels, missing categories, owner categories, and next gate.",
+      "public_output": "public_label_release_ready",
+      "stop_if": "release_review_fails"
+    }
+  ],
+  "allowed_response_types": [
+    "confirmed",
+    "corrected",
+    "not_confirmable_missing_records",
+    "not_applicable",
+    "under_specialist_review",
+    "release_blocked_private_material",
+    "patient_specific_instruction_private_only"
+  ],
+  "allowed_public_fields": [
+    "domain_label",
+    "response_type",
+    "confidence_label",
+    "missing_record_category",
+    "owner_category",
+    "mitapivat_context_label",
+    "readiness_label",
+    "next_gate"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "exact_private_dates",
+    "screenshots",
+    "doctor_messages",
+    "clinician_names",
+    "hospital_names",
+    "owner_replies",
+    "contact_details",
+    "patient_specific_treatment_instructions",
+    "dose_or_dosing_requests",
+    "access_import_or_travel_instructions",
+    "trial_screening_instruction"
+  ],
+  "decision_rule": "A clinician answer changes the private work queue first. The public repository receives labels only. Adult mitapivat approvals and adult trial results update clinician-review context, but they do not close diagnosis, transfusion, safety, access, affordability, or individual-fit gates."
+}

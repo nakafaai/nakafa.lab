@@ -136,6 +136,9 @@ Current notebooks:
   de-identified response-capture gate that turns clinician replies into
   public-safe labels, missing-record categories, owner categories, and next
   gates.
+- `2026-05-24-case001-mitapivat-indonesia-access-evidence-gap.ipynb` -
+  de-identified access evidence-gap gate that keeps BPOM and trial-geography
+  checks as owner-verification labels, not access or import instructions.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

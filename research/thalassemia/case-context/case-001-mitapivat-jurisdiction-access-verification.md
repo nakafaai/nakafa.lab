@@ -41,6 +41,7 @@ Current label: `mitapivat_jurisdiction_access_verification_ready`
 - `trial_country_context`;
 - `local_registration_unverified`;
 - `local_access_unverified`;
+- `mitapivat_indonesia_access_evidence_gap_ready`;
 - `owner_review_needed`;
 - `not_case_eligibility`;
 - `not_relevant_now`;
@@ -49,6 +50,7 @@ Current label: `mitapivat_jurisdiction_access_verification_ready`
 ## Source-Backed Gates
 
 - [Case-001 mitapivat jurisdiction access verification gate](../findings/2026-05-12-case001-mitapivat-jurisdiction-access-verification-gate.md)
+- [Case-001 mitapivat Indonesia access evidence gap](case-001-mitapivat-indonesia-access-evidence-gap.md)
 - [Case-001 mitapivat owner routing](case-001-mitapivat-owner-routing.md)
 - [Case-001 mitapivat boundary and access inquiry](case-001-mitapivat-boundary-access-inquiry.md)
 - [Mitapivat access inquiry template](../../../templates/mitapivat-access-inquiry-template.md)

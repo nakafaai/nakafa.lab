@@ -23,6 +23,8 @@ Current label: `case001_clinician_response_label_capture_ready`
 5. If mitapivat is mentioned, classify the context before any action:
    adult-label, adult-trial benchmark, pediatric-watchlist, access owner,
    safety owner, or not clinically relevant now.
+   If local Indonesia access is mentioned, use the May 24 access evidence-gap
+   guide before any owner outreach.
 6. Release only labels after public release review passes.
 
 ## Stop Rule
@@ -38,3 +40,4 @@ private and ask for a label or owner clarification.
 - [Case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
 - [Case-001 doctor response triage](case-001-doctor-response-triage.md)
 - [Case-001 mitapivat clinician conversation sequence](case-001-mitapivat-clinician-conversation-sequence.md)
+- [Case-001 mitapivat Indonesia access evidence gap](case-001-mitapivat-indonesia-access-evidence-gap.md)

@@ -1,0 +1,70 @@
+{
+  "checked_date": "2026-05-24",
+  "evidence_label": "mitapivat Indonesia access evidence-gap gate, not medical advice",
+  "gate_label": "mitapivat_indonesia_access_evidence_gap_ready",
+  "upstream_gates": [
+    "mitapivat_jurisdiction_access_verification_ready",
+    "case001_clinician_response_label_capture_ready"
+  ],
+  "source_checks": [
+    { "source_label": "BPOM Drug Registration portal", "source_url": "https://registrasiobat.pom.go.id/en", "source_role": "Official Indonesian drug-registration portal; points public users to Cek BPOM product checks." },
+    { "source_label": "Cek BPOM medicine search", "source_url": "https://cekbpom.pom.go.id/produk-obat", "source_role": "Public medicine-search endpoint used for product, brand, and ingredient checks." },
+    { "source_label": "FDA AQVESME approval page", "source_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-oral-treatment-anemia-thalassemia-inherited-blood-disorder", "source_role": "United States adult thalassemia approval context; not local Indonesia access." },
+    { "source_label": "Agios EU approval announcement", "source_url": "https://investor.agios.com/news-releases/news-release-details/agios-pyrukyndr-mitapivat-approved-european-union-adults", "source_role": "May 22, 2026 company announcement of EU adult thalassemia approval; not local Indonesia access." },
+    { "source_label": "Agios UAE approval announcement", "source_url": "https://investor.agios.com/news-releases/news-release-details/agios-pyrukyndr-mitapivat-approved-adults-thalassemia-united", "source_role": "UAE adult thalassemia approval context; not local Indonesia access." },
+    { "source_label": "SFDA Pyrukynd product page", "source_url": "https://www.sfda.gov.sa/en/node/5014016", "source_role": "Saudi product-registration context already separated from Indonesia access." },
+    { "source_label": "ClinicalTrials.gov NCT04770753", "source_url": "https://clinicaltrials.gov/study/NCT04770753", "source_role": "Adult NTDT mitapivat benchmark with posted results and Asia locations, but no Indonesia location in the May 24 API parse." },
+    { "source_label": "ClinicalTrials.gov NCT04770779", "source_url": "https://clinicaltrials.gov/study/NCT04770779", "source_role": "Adult TDT mitapivat benchmark with posted results and Asia locations, but no Indonesia location in the May 24 API parse." },
+    { "source_label": "ClinicalTrials.gov NCT07506863 and NCT07517133", "source_url": "https://clinicaltrials.gov", "source_role": "Pediatric TDT and NTDT watchlist records remain not yet recruiting with no posted results in the May 24 API parse." }
+  ],
+  "bpom_public_query_checks": [
+    { "portal": "Cek BPOM medicine search", "query_field": "ingredients", "query": "mitapivat", "records_filtered": 0 },
+    { "portal": "Cek BPOM medicine search", "query_field": "product_name", "query": "mitapivat", "records_filtered": 0 },
+    { "portal": "Cek BPOM medicine search", "query_field": "product_brand", "query": "Pyrukynd", "records_filtered": 0 },
+    { "portal": "Cek BPOM medicine search", "query_field": "product_brand", "query": "Aqvesme", "records_filtered": 0 }
+  ],
+  "clinicaltrials_query_summary": {
+    "query": "mitapivat thalassemia",
+    "records_returned": 6,
+    "records_with_indonesia_location": 0,
+    "asia_locations_seen": [
+      "Malaysia",
+      "Saudi Arabia",
+      "Taiwan",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "direct_indonesia_query_records": 0,
+    "southeast_asia_query_records": 0
+  },
+  "allowed_public_labels": [
+    "bpom_public_search_no_record_found",
+    "local_access_unverified",
+    "foreign_approval_context_only",
+    "regional_trial_context_no_indonesia_location",
+    "owner_verification_required",
+    "release_blocked_private_material"
+  ],
+  "owner_verification_order": [
+    "treating_hematologist",
+    "hospital_pharmacy",
+    "regulatory_affairs_or_bpom_facing_owner",
+    "manufacturer_medical_information",
+    "payer_or_financial_assistance_owner"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "screenshots",
+    "exact_private_dates",
+    "doctor_messages",
+    "clinician_names",
+    "hospital_names",
+    "owner_replies",
+    "contact_details",
+    "patient_specific_treatment_instructions",
+    "dose_or_dosing_requests",
+    "access_import_or_travel_instructions",
+    "trial_screening_instruction"
+  ],
+  "decision_rule": "The May 24 public pass did not find a public BPOM/CekBPOM mitapivat, Pyrukynd, or Aqvesme medicine record and did not find Indonesia locations in the current mitapivat-thalassemia ClinicalTrials.gov query. This is an evidence gap, not proof of non-registration or non-access. The next action is owner verification through clinicians, hospital pharmacy, regulatory, manufacturer, or payer owners."
+}

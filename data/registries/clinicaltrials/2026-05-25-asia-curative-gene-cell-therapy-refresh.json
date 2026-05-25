@@ -1,0 +1,125 @@
+{
+  "checked_date": "2026-05-25",
+  "evidence_label": "asia_curative_gene_cell_therapy_registry_refresh",
+  "status": "public registry synthesis, not treatment advice",
+  "scope": [
+    "ClinicalTrials.gov active and recently completed beta-thalassemia gene-cell therapy benchmarks",
+    "Asia and nearby-country trial geography for thalassemia",
+    "case-001 referral-readiness labels only"
+  ],
+  "source_queries": {
+    "gene_therapy_beta_thalassemia": {
+      "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=gene+therapy&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING%2CCOMPLETED&pageSize=20&countTotal=true",
+      "total_count": 49,
+      "records_reviewed_on_first_page": 20
+    },
+    "editing_hbf_beta_thalassemia": {
+      "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=beta+thalassemia&query.term=CRISPR+OR+base+editing+OR+BCL11A+OR+HBG&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CACTIVE_NOT_RECRUITING%2CCOMPLETED&pageSize=20&countTotal=true",
+      "total_count": 18,
+      "records_reviewed_on_first_page": 18
+    }
+  },
+  "active_thalassemia_country_counts": {
+    "Indonesia": 0,
+    "China": 36,
+    "Singapore": 1,
+    "Malaysia": 7,
+    "Thailand": 8,
+    "Japan": 2,
+    "South Korea": 2,
+    "Russia": 1,
+    "India": 5,
+    "Pakistan": 3,
+    "Saudi Arabia": 6,
+    "United Arab Emirates": 2
+  },
+  "curated_registry_signals": [
+    {
+      "nct_id": "NCT07489196",
+      "intervention": "CS-101 injection",
+      "country_signal": ["China"],
+      "status": "NOT_YET_RECRUITING",
+      "phase": ["PHASE2"],
+      "last_update": "2026-03-24",
+      "why_it_matters": "CS-101 moved from early benchmark into a registered phase 2 path with 12-month transfusion-independence and transplant-safety endpoints."
+    },
+    {
+      "nct_id": "NCT06479616",
+      "intervention": "CS-101",
+      "country_signal": ["China"],
+      "status": "RECRUITING",
+      "phase": ["NA"],
+      "last_update": "2025-09-10",
+      "why_it_matters": "Long-term follow-up keeps malignancy, hematologic disorder, all-cause death, and 12-month transfusion-independence monitoring visible."
+    },
+    {
+      "nct_id": "NCT07190001",
+      "intervention": "YOLT-204",
+      "country_signal": ["China"],
+      "status": "NOT_YET_RECRUITING",
+      "phase": ["EARLY_PHASE1"],
+      "last_update": "2025-09-24",
+      "why_it_matters": "YOLT-204 is an editing-era China watchlist record with adverse-event, transfusion-reduction, and HbF endpoints."
+    },
+    {
+      "nct_id": "NCT05762510",
+      "intervention": "GMCN-508B (LentiRed)",
+      "country_signal": ["China"],
+      "status": "RECRUITING",
+      "phase": ["EARLY_PHASE1"],
+      "last_update": "2023-05-09",
+      "why_it_matters": "Lentiviral gene-addition style record with transfusion-independence and hemoglobin endpoint language."
+    },
+    {
+      "nct_id": "NCT06280378",
+      "intervention": "KL003 Cell Injection Drug Product",
+      "country_signal": ["China"],
+      "status": "RECRUITING",
+      "phase": ["PHASE1", "PHASE2"],
+      "last_update": "2025-03-10",
+      "why_it_matters": "KL003 adds engraftment, survival, adverse-event, clonal-dominance, secondary-tumor, and replication-competent lentivirus monitoring to the benchmark map."
+    },
+    {
+      "nct_id": "NCT06308159",
+      "intervention": "Vebeglogene autotemcel",
+      "country_signal": ["China"],
+      "status": "RECRUITING",
+      "phase": ["PHASE1", "PHASE2"],
+      "last_update": "2025-11-25",
+      "why_it_matters": "China gene-therapy product record uses hemoglobin without red-cell infusion as a key durability endpoint."
+    },
+    {
+      "nct_id": "NCT06041620",
+      "intervention": "VGB-Ex01",
+      "country_signal": ["China"],
+      "status": "RECRUITING",
+      "phase": ["NA"],
+      "last_update": "2023-10-17",
+      "why_it_matters": "CRISPR-Cas12b edited HSC record strengthens the China editing benchmark set."
+    },
+    {
+      "nct_id": "NCT05477563",
+      "intervention": "CTX001",
+      "country_signal": ["Germany", "Italy", "Saudi Arabia", "United States"],
+      "status": "RECRUITING",
+      "phase": ["PHASE3"],
+      "last_update": "2026-03-23",
+      "why_it_matters": "Regional exa-cel context exists in Saudi Arabia, but this does not establish Indonesia access or case eligibility."
+    }
+  ],
+  "operational_labels": [
+    "asia_curative_gene_cell_therapy_refresh_ready",
+    "china_curative_registry_cluster_active",
+    "indonesia_active_thalassemia_registry_evidence_absent_current_pass",
+    "case001_advanced_therapy_referral_packet_missing",
+    "specialist_screening_required"
+  ],
+  "blocked_public_content": [
+    "trial enrollment instructions",
+    "eligibility screening for a person",
+    "travel or import advice",
+    "treatment choice or dosing",
+    "raw records, owner replies, identifiers, or screenshots"
+  ],
+  "decision_rule": "Registry geography can update benchmark and owner questions, but it cannot establish patient eligibility, local access, affordability, or medical suitability."
+}

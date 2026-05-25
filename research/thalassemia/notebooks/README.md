@@ -139,6 +139,9 @@ Current notebooks:
 - `2026-05-24-case001-mitapivat-indonesia-access-evidence-gap.ipynb` -
   de-identified access evidence-gap gate that keeps BPOM and trial-geography
   checks as owner-verification labels, not access or import instructions.
+- `2026-05-25-case001-asia-curative-trial-geography-gate.ipynb` -
+  de-identified registry-geography gate that keeps Asia curative gene-cell
+  therapy signals as benchmark evidence, not trial-screening instructions.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

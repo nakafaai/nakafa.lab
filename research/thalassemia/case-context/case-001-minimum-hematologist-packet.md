@@ -153,6 +153,11 @@ to transfusion medicine, genetics, iron/organ monitoring, transplant, gene-cell
 therapy, or a trial team.
 
 Use the
+[case-001 curative trial geography watchlist](case-001-curative-trial-geography-watchlist.md)
+when advanced-therapy benchmarks come up. It keeps China and regional registry
+signals as benchmark context, not trial-screening or access instructions.
+
+Use the
 [case-001 mitapivat clinician-review readiness note](case-001-mitapivat-clinician-review-readiness.md)
 only when the clinician is ready to discuss whether the mitapivat lane is worth
 reviewing at all.
@@ -194,6 +199,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
 - [Case-001 doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
+- [Case-001 curative trial geography watchlist](case-001-curative-trial-geography-watchlist.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
 - [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Case-001 mitapivat seven-domain owner action map](case-001-mitapivat-seven-domain-owner-action-map.md)

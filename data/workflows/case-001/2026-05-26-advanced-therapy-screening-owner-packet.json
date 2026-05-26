@@ -1,0 +1,105 @@
+{
+  "checked_date": "2026-05-26",
+  "evidence_label": "case-001 advanced-therapy screening owner packet gate, not medical advice",
+  "gate_label": "case001_advanced_therapy_screening_owner_packet_ready",
+  "upstream_gates": [
+    "asia_curative_gene_cell_therapy_refresh_ready",
+    "case001_advanced_therapy_referral_packet_missing",
+    "case001_clinician_response_label_capture_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 HSCT chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/",
+      "source_role": "Frames HCT as curative but dependent on donor route, iron and organ workup, conditioning, fertility assessment, follow-up, and thalassemia-expert transplant centers."
+    },
+    {
+      "source_label": "TIF 2025 gene manipulation chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "source_role": "Frames gene addition and gene editing as reshaping curative options while preserving specialist selection, age, donor, access, and long-term evidence boundaries."
+    },
+    {
+      "source_label": "FDA CASGEVY product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "source_role": "Regulator anchor for exagamglogene autotemcel in TDT patients 12 years and older; not local access or individual suitability."
+    },
+    {
+      "source_label": "FDA ZYNTEGLO product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/zynteglo",
+      "source_role": "Regulator anchor for betibeglogene autotemcel in beta-thalassemia requiring regular RBC transfusions; not local access or individual suitability."
+    },
+    {
+      "source_label": "May 25 Asia curative gene-cell therapy registry refresh",
+      "source_url": "../../../data/registries/clinicaltrials/2026-05-25-asia-curative-gene-cell-therapy-refresh.json",
+      "source_role": "Benchmark geography and registry context only; cannot establish case eligibility, travel, import, access, or treatment choice."
+    }
+  ],
+  "owner_domains": [
+    {
+      "domain": "diagnosis_genotype",
+      "owner_category": "hematologist_or_genetics_owner",
+      "label_needed": "diagnosis_genotype_owner_labeled",
+      "missing_data_blocker": "No advanced-therapy screening question should proceed without clinician-confirmed disease category and genotype context."
+    },
+    {
+      "domain": "transfusion_burden",
+      "owner_category": "hematologist_or_transfusion_service",
+      "label_needed": "transfusion_burden_owner_labeled",
+      "missing_data_blocker": "Reported regular transfusion must be converted into interval, units or volume, body weight, pre-transfusion Hb, response, and annual burden labels."
+    },
+    {
+      "domain": "immune_blood_bank",
+      "owner_category": "blood_bank_or_transfusion_medicine_owner",
+      "label_needed": "immune_blood_bank_owner_labeled",
+      "missing_data_blocker": "Antibody, DAT, matching, reaction, phenotype or genotype, and crossmatch context must be owner-labeled before transplant or gene-cell discussion."
+    },
+    {
+      "domain": "iron_organ_chelation",
+      "owner_category": "hematology_with_organ_specialists_as_needed",
+      "label_needed": "iron_organ_chelation_owner_labeled",
+      "missing_data_blocker": "Ferritin trend, LIC, cardiac T2*, chelation, toxicity monitoring, and organ-risk labels are still needed."
+    },
+    {
+      "domain": "infection_fertility_transplant_readiness",
+      "owner_category": "transplant_or_advanced_therapy_referral_team",
+      "label_needed": "infection_fertility_transplant_readiness_owner_labeled",
+      "missing_data_blocker": "Infection, vaccination, fertility preservation, conditioning risk, and follow-up capacity belong to specialist review."
+    },
+    {
+      "domain": "donor_hla_context",
+      "owner_category": "hematologist_or_transplant_center",
+      "label_needed": "donor_hla_context_owner_labeled",
+      "missing_data_blocker": "HLA or donor discussion must remain private and clinician-led; the public repo can only record safe labels."
+    },
+    {
+      "domain": "access_center_payer",
+      "owner_category": "referral_coordinator_center_or_payer_owner",
+      "label_needed": "access_center_payer_owner_labeled",
+      "missing_data_blocker": "Center availability, payer, affordability, and geography must be separated from biology and confirmed by owners."
+    }
+  ],
+  "allowed_public_labels": [
+    "advanced_therapy_referral_packet_missing",
+    "advanced_therapy_referral_packet_partial",
+    "advanced_therapy_referral_packet_ready_for_specialist_screening",
+    "under_specialist_review",
+    "medically_unsuitable",
+    "access_blocked",
+    "release_blocked_private_material"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "screenshots",
+    "doctor_messages",
+    "clinician_names",
+    "hospital_names",
+    "owner_replies",
+    "contact_details",
+    "exact_private_dates",
+    "patient_specific_treatment_selection",
+    "dose_or_dosing_requests",
+    "trial_screening_instruction",
+    "travel_or_import_instruction"
+  ],
+  "decision_rule": "Curative biology is real, but case-001 remains advanced-therapy-packet-missing until all seven owner domains are label-ready and a qualified specialist decides whether screening is reasonable."
+}

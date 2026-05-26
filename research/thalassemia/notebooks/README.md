@@ -142,6 +142,9 @@ Current notebooks:
 - `2026-05-25-case001-asia-curative-trial-geography-gate.ipynb` -
   de-identified registry-geography gate that keeps Asia curative gene-cell
   therapy signals as benchmark evidence, not trial-screening instructions.
+- `2026-05-26-case001-advanced-therapy-screening-owner-packet-gate.ipynb` -
+  de-identified owner-packet gate that keeps advanced-therapy screening
+  dependent on seven owner-labeled domains and privacy-safe output labels.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

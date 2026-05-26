@@ -32,6 +32,11 @@ Allowed public labels:
 Which records must be complete before a hematologist or referral center can
 decide whether advanced-therapy screening is reasonable?
 
+Use the
+[advanced-therapy screening owner packet](case-001-advanced-therapy-screening-owner-packet.md)
+to assign those records to owner categories before the screening question is
+asked.
+
 Keep this separate from:
 
 - trial enrollment;

@@ -1,0 +1,103 @@
+{
+  "checked_date": "2026-05-27",
+  "evidence_label": "case-001 advanced-therapy clinician-answer ladder, not medical advice",
+  "gate_label": "case001_advanced_therapy_clinician_answer_ladder_ready",
+  "upstream_gates": [
+    "case001_advanced_therapy_screening_owner_packet_ready",
+    "case001_clinician_response_label_capture_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 HSCT chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/",
+      "source_role": "HCT is curative for selected TDT patients, but pre-transplant workup, iron and organ status, donor route, fertility, conditioning, and expert-center review remain gating factors."
+    },
+    {
+      "source_label": "TIF 2025 gene manipulation chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "source_role": "Gene addition and gene editing are curative benchmark categories, but specialist selection, mechanism boundaries, and long-term evidence remain separate from case action."
+    },
+    {
+      "source_label": "FDA CASGEVY product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "source_role": "Regulator product-category anchor for TDT patients 12 years and older; not proof of local access or individual suitability."
+    },
+    {
+      "source_label": "FDA ZYNTEGLO product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/zynteglo",
+      "source_role": "Regulator product-category anchor for beta-thalassemia requiring regular RBC transfusions; not proof of local access or individual suitability."
+    },
+    {
+      "source_label": "May 26 advanced-therapy screening owner packet",
+      "source_url": "../../../research/thalassemia/case-context/case-001-advanced-therapy-screening-owner-packet.md",
+      "source_role": "Defines the seven owner domains that must be label-ready before a screening decision can be interpreted."
+    }
+  ],
+  "answer_ladder": [
+    {
+      "answer_label": "domain_confirmed_record_present",
+      "private_action": "Mark the domain as present in the private work queue and store raw evidence privately.",
+      "public_output": "owner_domain_labeled_present",
+      "next_state": "continue_until_all_seven_domains_are_label_ready"
+    },
+    {
+      "answer_label": "domain_missing_record_requested",
+      "private_action": "Request or retrieve the missing record privately and keep exact dates, names, and files out of Git.",
+      "public_output": "owner_domain_missing_record_requested",
+      "next_state": "advanced_therapy_referral_packet_partial"
+    },
+    {
+      "answer_label": "domain_not_applicable_clinician_confirmed",
+      "private_action": "Store the clinician's rationale privately and reduce it to a not-applicable domain label.",
+      "public_output": "owner_domain_not_applicable",
+      "next_state": "continue_until_all_required_or_not_applicable_domains_are_label_ready"
+    },
+    {
+      "answer_label": "specialist_screening_reasonable",
+      "private_action": "Route to specialist review privately only after all seven domains are label-ready.",
+      "public_output": "advanced_therapy_referral_packet_ready_for_specialist_screening",
+      "next_state": "under_specialist_review"
+    },
+    {
+      "answer_label": "screening_not_reasonable_medical",
+      "private_action": "Store the clinician's medical rationale privately and publish only the category if release-safe.",
+      "public_output": "medically_unsuitable",
+      "next_state": "patient_relevance_blocked"
+    },
+    {
+      "answer_label": "access_blocked_owner_confirmed",
+      "private_action": "Separate access, center, payer, geography, or affordability blockers from biology.",
+      "public_output": "access_blocked",
+      "next_state": "access_route_research_only"
+    },
+    {
+      "answer_label": "private_or_patient_specific_instruction",
+      "private_action": "Keep the instruction private and do not convert it into public treatment, dosing, trial, travel, or import guidance.",
+      "public_output": "release_blocked_private_material",
+      "next_state": "public_release_blocked"
+    }
+  ],
+  "advancement_requirements": [
+    "all seven owner domains are labeled present, not applicable, or owner-confirmed missing",
+    "no raw records, owner replies, identifiers, HLA details, or exact private dates are released",
+    "a qualified specialist explicitly says screening is reasonable before the public state can become ready for specialist screening",
+    "access blockers are not interpreted as medical unsuitability",
+    "medical unsuitability is not interpreted as product failure or research failure"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "screenshots",
+    "doctor_messages",
+    "clinician_names",
+    "hospital_names",
+    "owner_replies",
+    "contact_details",
+    "exact_private_dates",
+    "hla_or_donor_details",
+    "patient_specific_treatment_selection",
+    "dose_or_dosing_requests",
+    "trial_screening_instruction",
+    "travel_or_import_instruction"
+  ],
+  "decision_rule": "A clinician answer changes public state only through allowed labels. It never directly creates treatment advice, trial-screening advice, access advice, or a cure claim."
+}

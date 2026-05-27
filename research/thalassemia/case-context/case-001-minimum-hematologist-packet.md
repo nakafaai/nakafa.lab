@@ -163,6 +163,11 @@ when the doctor asks what must be confirmed before any HSCT, gene-cell therapy,
 CRISPR therapy, or trial-screening discussion can be judged by a specialist.
 
 Use the
+[case-001 advanced-therapy clinician-answer ladder](case-001-advanced-therapy-clinician-answer-ladder.md)
+after a doctor or specialist answers, so the response becomes labels before it
+changes any research state.
+
+Use the
 [case-001 mitapivat clinician-review readiness note](case-001-mitapivat-clinician-review-readiness.md)
 only when the clinician is ready to discuss whether the mitapivat lane is worth
 reviewing at all.
@@ -206,6 +211,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 specialist owner routing](case-001-specialist-owner-routing.md)
 - [Case-001 curative trial geography watchlist](case-001-curative-trial-geography-watchlist.md)
 - [Case-001 advanced-therapy screening owner packet](case-001-advanced-therapy-screening-owner-packet.md)
+- [Case-001 advanced-therapy clinician-answer ladder](case-001-advanced-therapy-clinician-answer-ladder.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
 - [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Case-001 mitapivat seven-domain owner action map](case-001-mitapivat-seven-domain-owner-action-map.md)

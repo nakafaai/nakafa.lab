@@ -59,9 +59,15 @@ Raw records, screenshots, doctor messages, names, hospitals, contact details,
 exact private dates, owner replies, HLA details, and patient-specific
 instructions stay outside Git.
 
+Use the
+[advanced-therapy clinician-answer ladder](case-001-advanced-therapy-clinician-answer-ladder.md)
+after a doctor or specialist responds. It decides which public-safe label, if
+any, can change state.
+
 ## Sources
 
 - [May 26 owner-packet finding](../findings/2026-05-26-case001-advanced-therapy-screening-owner-packet-gate.md)
+- [May 27 clinician-answer ladder](case-001-advanced-therapy-clinician-answer-ladder.md)
 - [May 26 workflow map](../../../data/workflows/case-001/2026-05-26-advanced-therapy-screening-owner-packet.json)
 - [Curative trial geography watchlist](case-001-curative-trial-geography-watchlist.md)
 - [Minimum hematologist packet](case-001-minimum-hematologist-packet.md)

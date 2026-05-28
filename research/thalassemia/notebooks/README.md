@@ -148,6 +148,9 @@ Current notebooks:
 - `2026-05-27-case001-advanced-therapy-clinician-answer-ladder-gate.ipynb` -
   de-identified answer-ladder gate that reduces doctor or specialist replies
   to safe labels before any advanced-therapy state changes.
+- `2026-05-28-case001-advanced-therapy-route-triage-gate.ipynb` -
+  de-identified route-triage gate that separates HSCT, gene-cell,
+  non-curative drug, stabilization, and registry branches before selection.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

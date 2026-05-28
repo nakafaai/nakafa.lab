@@ -1,0 +1,92 @@
+{
+  "checked_date": "2026-05-28",
+  "evidence_label": "case-001 advanced-therapy route triage, not medical advice",
+  "gate_label": "case001_advanced_therapy_route_triage_ready",
+  "upstream_gates": [
+    "case001_advanced_therapy_screening_owner_packet_ready",
+    "case001_advanced_therapy_clinician_answer_ladder_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 HSCT chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/",
+      "source_role": "Defines allogeneic HCT as a curative benchmark that depends on donor route, pre-transplant workup, iron and organ status, fertility, conditioning, follow-up, and expert thalassemia-transplant centers."
+    },
+    {
+      "source_label": "TIF 2025 gene manipulation chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "source_role": "Defines gene addition and gene editing as autologous HSPC-based curative benchmark routes with collection, manufacturing or editing, myeloablation, infusion, monitoring, and long-term follow-up boundaries."
+    },
+    {
+      "source_label": "FDA CASGEVY product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "source_role": "Regulator anchor for exagamglogene autotemcel as a gene-edited cell therapy category for TDT patients 12 years and older."
+    },
+    {
+      "source_label": "FDA ZYNTEGLO product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/zynteglo",
+      "source_role": "Regulator anchor for betibeglogene autotemcel as a gene-addition product category for beta-thalassemia requiring regular RBC transfusions."
+    },
+    {
+      "source_label": "May 27 advanced-therapy clinician-answer ladder",
+      "source_url": "../../../research/thalassemia/case-context/case-001-advanced-therapy-clinician-answer-ladder.md",
+      "source_role": "Requires any doctor or specialist reply to become public-safe labels before changing state."
+    }
+  ],
+  "route_branches": [
+    {
+      "route_label": "allogeneic_hsct_branch_owner_question",
+      "owner_question": "Does an HLA/donor-based transplant evaluation belong in scope after the seven owner domains are label-ready?",
+      "must_remain_private": ["hla_details", "donor_details", "family_identifiers"],
+      "public_state": "route_question_only"
+    },
+    {
+      "route_label": "autologous_gene_cell_branch_owner_question",
+      "owner_question": "Does an autologous gene-addition or gene-editing center consider screening reasonable after packet review?",
+      "must_remain_private": ["center_messages", "manufacturing_or_product_access_replies"],
+      "public_state": "route_question_only"
+    },
+    {
+      "route_label": "disease_modifying_noncurative_branch_owner_question",
+      "owner_question": "Should non-curative disease-modifying drugs be reviewed separately from curative-route screening?",
+      "must_remain_private": ["dose_or_patient_specific_drug_instruction"],
+      "public_state": "noncurative_branch_separate"
+    },
+    {
+      "route_label": "standard_care_stabilization_first",
+      "owner_question": "Do iron, immune, infection, organ, or transfusion blockers need stabilization before any advanced-route question?",
+      "must_remain_private": ["raw_labs", "doctor_messages", "exact_private_dates"],
+      "public_state": "advanced_route_blocked_until_stabilization_labels"
+    },
+    {
+      "route_label": "trial_registry_benchmark_only",
+      "owner_question": "Is a registry record being used only as benchmark context unless a specialist asks a specific screening question?",
+      "must_remain_private": ["trial_screening_messages", "travel_or_import_discussion"],
+      "public_state": "registry_benchmark_only"
+    }
+  ],
+  "allowed_public_labels": [
+    "case001_advanced_therapy_route_triage_ready",
+    "allogeneic_hsct_branch_owner_question",
+    "autologous_gene_cell_branch_owner_question",
+    "disease_modifying_noncurative_branch_owner_question",
+    "standard_care_stabilization_first",
+    "trial_registry_benchmark_only",
+    "route_selection_blocked_until_specialist_review",
+    "release_blocked_private_material"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "doctor_messages",
+    "clinician_names",
+    "hospital_names",
+    "owner_replies",
+    "exact_private_dates",
+    "hla_or_donor_details",
+    "dose_or_dosing_requests",
+    "patient_specific_treatment_selection",
+    "trial_screening_instruction",
+    "travel_or_import_instruction"
+  ],
+  "decision_rule": "Route triage can name which specialist branch should be asked about, but it cannot select a therapy, infer eligibility, infer access, or bypass clinician review."
+}

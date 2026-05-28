@@ -33,8 +33,12 @@ Only the label and broad domain category can enter the public repo. Raw records,
 screenshots, doctor messages, names, hospitals, contacts, exact private dates,
 HLA or donor details, and patient-specific instructions stay private.
 
+Use the [advanced-therapy route triage](case-001-advanced-therapy-route-triage.md)
+if a reply is about which advanced-therapy branch belongs in scope.
+
 ## Sources
 
 - [May 27 clinician-answer ladder gate](../findings/2026-05-27-case001-advanced-therapy-clinician-answer-ladder-gate.md)
+- [May 28 route triage](case-001-advanced-therapy-route-triage.md)
 - [May 27 workflow map](../../../data/workflows/case-001/2026-05-27-advanced-therapy-clinician-answer-ladder.json)
 - [May 26 owner packet](case-001-advanced-therapy-screening-owner-packet.md)

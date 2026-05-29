@@ -1,0 +1,136 @@
+{
+  "checked_date": "2026-05-29",
+  "evidence_label": "case-001 curative affordability gap matrix, not medical advice",
+  "gate_label": "case001_curative_affordability_gap_matrix_ready",
+  "upstream_gates": [
+    "case001_advanced_therapy_route_triage_ready",
+    "case001_advanced_therapy_clinician_answer_ladder_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "TIF 2025 HSCT chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/",
+      "source_role": "Allogeneic HCT is the curative transplant benchmark and requires donor-route review, pre-transplant workup, myeloablative conditioning, expert-center care, and follow-up."
+    },
+    {
+      "source_label": "TIF 2025 gene manipulation chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "source_role": "Autologous gene addition and gene editing require HSPC collection, product manipulation, myeloablation, infusion, monitoring, and long-term follow-up."
+    },
+    {
+      "source_label": "FDA CASGEVY product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "source_role": "Regulator anchor for exagamglogene autotemcel as a gene-edited cell therapy category for TDT patients 12 years and older."
+    },
+    {
+      "source_label": "FDA ZYNTEGLO product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/zynteglo",
+      "source_role": "Regulator anchor for betibeglogene autotemcel as a gene-addition product category for beta-thalassemia requiring regular RBC transfusions."
+    },
+    {
+      "source_label": "NICE exagamglogene autotemcel appraisal",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK610907/",
+      "source_role": "Managed-access appraisal anchor for remaining uncertainty around durability, complications, withdrawal before infusion, standard-care modeling, and cost effectiveness."
+    },
+    {
+      "source_label": "May 28 advanced-therapy route triage",
+      "source_url": "../../../research/thalassemia/case-context/case-001-advanced-therapy-route-triage.md",
+      "source_role": "Keeps HSCT, autologous gene-cell therapy, non-curative drugs, stabilization, and registry benchmarks separate before specialist discussion."
+    }
+  ],
+  "gap_axes": [
+    "cost",
+    "center_infrastructure",
+    "myeloablation_or_conditioning_burden",
+    "monitoring_and_long_term_follow_up",
+    "local_access_and_payer",
+    "safety_and_fertility_risk",
+    "assay_feasibility"
+  ],
+  "route_gap_matrix": [
+    {
+      "route_label": "allogeneic_hsct",
+      "benchmark_role": "curative transplant benchmark",
+      "main_gaps": [
+        "hla_or_donor_route",
+        "expert_thalassemia_transplant_center",
+        "conditioning_toxicity",
+        "gvhd_infection_fertility_and_organ_risk",
+        "post_transplant_follow_up",
+        "local_access_and_payer"
+      ],
+      "research_use": "Use as the affordability and durability benchmark. Do not infer case suitability."
+    },
+    {
+      "route_label": "autologous_gene_cell_therapy",
+      "benchmark_role": "curative autologous gene-addition or gene-editing benchmark",
+      "main_gaps": [
+        "cd34_collection_and_manufacturing",
+        "myeloablation",
+        "product_and_center_access",
+        "long_term_follow_up",
+        "durability_and_safety_uncertainty",
+        "high_cost_or_managed_access_dependency"
+      ],
+      "research_use": "Use as the closest biology benchmark. Do not infer access, screening, or eligibility."
+    },
+    {
+      "route_label": "disease_modifying_noncurative_drugs",
+      "benchmark_role": "transfusion-reduction benchmark, not cure",
+      "main_gaps": [
+        "subtype_and_age_scope",
+        "safety_monitoring",
+        "durability_of_transfusion_reduction",
+        "local_access_and_payer",
+        "not_curative"
+      ],
+      "research_use": "Use only to benchmark burden reduction, not cure."
+    },
+    {
+      "route_label": "standard_care_stabilization",
+      "benchmark_role": "required safety baseline before advanced-route review",
+      "main_gaps": [
+        "iron_organ_records",
+        "immune_blood_bank_records",
+        "infection_and_vaccination_context",
+        "chelation_toxicity_monitoring",
+        "transfusion_burden_quantification"
+      ],
+      "research_use": "Use to identify missing records and stabilization blockers."
+    },
+    {
+      "route_label": "registry_trial_benchmark",
+      "benchmark_role": "public benchmark context",
+      "main_gaps": [
+        "registry_record_disambiguation",
+        "country_and_center_availability",
+        "screening_not_inferred",
+        "travel_or_import_not_in_scope",
+        "specialist_question_required"
+      ],
+      "research_use": "Use as public benchmark context only until a specialist asks a specific screening question."
+    }
+  ],
+  "allowed_public_labels": [
+    "case001_curative_affordability_gap_matrix_ready",
+    "curative_biology_exists_access_gap_open",
+    "affordable_cure_research_gap_open",
+    "route_cost_infrastructure_gap",
+    "route_monitoring_gap",
+    "route_safety_fertility_gap",
+    "case_relevance_blocked_until_specialist_review",
+    "release_blocked_private_material"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "doctor_messages",
+    "owner_replies",
+    "exact_private_dates",
+    "hla_or_donor_details",
+    "patient_specific_treatment_selection",
+    "trial_screening_instruction",
+    "travel_or_import_instruction",
+    "dose_or_dosing_requests"
+  ],
+  "decision_rule": "The affordable-cure research lane may prioritize explicit benchmark gaps, but it cannot recommend therapy, imply case eligibility, imply access, or bypass qualified specialist review."
+}

@@ -8,6 +8,11 @@ Status: public-safe branch map, not treatment advice
 Use this only after the May 26 owner packet and May 27 answer ladder. It keeps
 advanced-therapy discussion from mixing different routes.
 
+Use the
+[case-001 curative affordability gap matrix](case-001-curative-affordability-gap-matrix.md)
+after this route triage when the discussion shifts from "which branch is in
+scope?" to "which benchmark gap blocks realistic cure access?"
+
 ## Branch Questions
 
 | Branch | Ask this owner question |

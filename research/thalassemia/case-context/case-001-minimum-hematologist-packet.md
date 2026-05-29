@@ -174,6 +174,12 @@ non-curative drugs, stabilization, or registry benchmarking is the right branch
 to discuss.
 
 Use the
+[case-001 curative affordability gap matrix](case-001-curative-affordability-gap-matrix.md)
+after route triage when the conversation needs to name the cost,
+infrastructure, conditioning, monitoring, access, safety, fertility, or assay
+gap that Nakafa Lab is trying to solve. It does not choose a treatment.
+
+Use the
 [case-001 mitapivat clinician-review readiness note](case-001-mitapivat-clinician-review-readiness.md)
 only when the clinician is ready to discuss whether the mitapivat lane is worth
 reviewing at all.
@@ -219,6 +225,7 @@ Raw records, scans, photos, identifiers, and local file paths stay outside Git.
 - [Case-001 advanced-therapy screening owner packet](case-001-advanced-therapy-screening-owner-packet.md)
 - [Case-001 advanced-therapy clinician-answer ladder](case-001-advanced-therapy-clinician-answer-ladder.md)
 - [Case-001 advanced-therapy route triage](case-001-advanced-therapy-route-triage.md)
+- [Case-001 curative affordability gap matrix](case-001-curative-affordability-gap-matrix.md)
 - [Case-001 mitapivat clinician-review readiness](case-001-mitapivat-clinician-review-readiness.md)
 - [Case-001 mitapivat minimum-packet readiness](case-001-mitapivat-minimum-packet-readiness.md)
 - [Case-001 mitapivat seven-domain owner action map](case-001-mitapivat-seven-domain-owner-action-map.md)

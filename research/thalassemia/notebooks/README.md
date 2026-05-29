@@ -151,6 +151,10 @@ Current notebooks:
 - `2026-05-28-case001-advanced-therapy-route-triage-gate.ipynb` -
   de-identified route-triage gate that separates HSCT, gene-cell,
   non-curative drug, stabilization, and registry branches before selection.
+- `2026-05-29-case001-curative-affordability-gap-matrix-gate.ipynb` -
+  de-identified gap-matrix gate that checks affordability, infrastructure,
+  conditioning, monitoring, access, safety, fertility, and assay-feasibility
+  blockers before candidate promotion.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

@@ -120,6 +120,11 @@ Promotion requires at least one clear `affordability_gap`, `safety_gap`, or
 `integrated_assay_gap` compared with the closest editing and non-editing
 benchmarks.
 
+After the May 29 gap matrix, promotion also requires the
+[Affordable-cure candidate promotion gate](2026-05-30-affordable-cure-candidate-promotion-gate.md):
+named benchmark gap, closest benchmarks, measurable endpoint set, safety stop,
+access boundary, falsification test, and a case-relevance block when relevant.
+
 The first applied label map is
 [HPFH-like candidate labels V0](2026-04-27-hpfh-like-candidate-labels-v0.md).
 The key result is that current small-molecule and natural-product candidates

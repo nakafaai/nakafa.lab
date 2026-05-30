@@ -28,6 +28,9 @@ tumor-vaccine target. The active adaptation is tracked in
 [AI-assisted cancer vaccine method as research pattern](../research/thalassemia/findings/2026-04-27-ai-assisted-cancer-vaccine-method.md).
 Candidate lanes are compared in
 [candidate scoring V0](../research/thalassemia/prioritization/2026-04-27-candidate-scoring-v0.md).
+Candidate promotion now also requires the
+[affordable-cure candidate promotion gate](../research/thalassemia/prioritization/2026-05-30-affordable-cure-candidate-promotion-gate.md):
+gap, benchmark, endpoint, safety stop, and falsification before promotion.
 
 ## Cure-Oriented Endpoint Priority
 

@@ -1,0 +1,113 @@
+{
+  "checked_date": "2026-05-30",
+  "evidence_label": "case-001 affordable-cure candidate promotion gate, not medical advice",
+  "gate_label": "case001_affordable_cure_candidate_promotion_gate_ready",
+  "upstream_gates": [
+    "case001_curative_affordability_gap_matrix_ready",
+    "case001_advanced_therapy_route_triage_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "May 29 curative affordability gap matrix",
+      "source_url": "../../../research/thalassemia/case-context/case-001-curative-affordability-gap-matrix.md",
+      "source_role": "Defines cost, infrastructure, conditioning, monitoring, access, safety, fertility, and assay-feasibility gaps."
+    },
+    {
+      "source_label": "Candidate scoring V0",
+      "source_url": "../../../research/thalassemia/prioritization/2026-04-27-candidate-scoring-v0.md",
+      "source_role": "Existing score model for endpoint fit, human evidence, safety, access, and assay readiness."
+    },
+    {
+      "source_label": "Proximity novelty gate V0",
+      "source_url": "../../../research/thalassemia/prioritization/2026-04-28-proximity-novelty-gate-v0.md",
+      "source_role": "Requires comparison against close editing and non-editing benchmarks before novelty claims."
+    },
+    {
+      "source_label": "PubMed PMID 41955126",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41955126/",
+      "source_role": "2026 exa-cel cost-effectiveness model projecting favorable US value versus standard care; use with sponsor-affiliation caution."
+    },
+    {
+      "source_label": "CDA-AMC exa-cel TDT pharmacoeconomic review",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK616627/",
+      "source_role": "Official pharmacoeconomic review highlighting comparative-evidence uncertainty, high acquisition-cost sensitivity, and price-reduction dependency."
+    },
+    {
+      "source_label": "ClinicalTrials.gov benchmark refresh",
+      "source_url": "https://clinicaltrials.gov/",
+      "source_role": "Current API check: CS-101 phase 1 completed, CS-101 phase 2 not yet recruiting, VGB-Ex01 recruiting, luspatercept plus thalidomide recruiting, AND017 recruiting."
+    }
+  ],
+  "required_promotion_fields": [
+    "candidate_category",
+    "target_gap_axis",
+    "closest_curative_benchmark",
+    "closest_noncurative_benchmark",
+    "endpoint_set",
+    "safety_stop_rule",
+    "access_claim_status",
+    "falsification_test",
+    "case_relevance_label"
+  ],
+  "promotion_decision_rules": [
+    {
+      "decision": "promote_to_gap_review",
+      "required_state": "Named benchmark gap, measurable endpoint set, explicit safety stop, no patient-specific claim, and falsification test present."
+    },
+    {
+      "decision": "hold_for_endpoint_or_identity_gap",
+      "required_state": "Mechanism is plausible but endpoint, material identity, assay owner, or comparator is incomplete."
+    },
+    {
+      "decision": "benchmark_only",
+      "required_state": "Evidence is strong but mainly defines the comparison standard rather than an affordable discovery candidate."
+    },
+    {
+      "decision": "reject_hazard_or_unmeasured_claim",
+      "required_state": "Safety, reproducibility, identity, or endpoint failure is clear."
+    },
+    {
+      "decision": "case_relevance_blocked_until_specialist_review",
+      "required_state": "Any claim would affect case-001 clinical interpretation."
+    }
+  ],
+  "current_lane_labels": [
+    {
+      "lane": "approved_or_late_gene_cell_therapy",
+      "promotion_state": "benchmark_only",
+      "reason": "Defines curative biology and endpoint standards but does not solve access, center, conditioning, or cost gaps."
+    },
+    {
+      "lane": "hydroxyurea",
+      "promotion_state": "affordable_clinical_comparator",
+      "reason": "Useful low-cost HbF comparator; not a cure claim and not case-specific."
+    },
+    {
+      "lane": "sirolimus_prkab1_autophagy_tbdmc_resveratrol",
+      "promotion_state": "hold_for_endpoint_or_identity_gap",
+      "reason": "Assay-only discovery lanes until identity, HbF, chain-balance, hemolysis, viability, and safety endpoints are present."
+    },
+    {
+      "lane": "thalidomide_class_or_melittin_hazard_lanes",
+      "promotion_state": "reject_hazard_or_unmeasured_claim",
+      "reason": "Safety boundary blocks therapeutic promotion without a new safety-resolution package."
+    },
+    {
+      "lane": "and017_luspatercept_mitapivat_noncurative_benchmarks",
+      "promotion_state": "benchmark_only",
+      "reason": "Useful for transfusion-burden or red-cell-metabolism comparison, not cure."
+    }
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "doctor_messages",
+    "owner_replies",
+    "exact_private_dates",
+    "hla_or_donor_details",
+    "patient_specific_treatment_selection",
+    "trial_screening_instruction",
+    "travel_or_import_instruction",
+    "dose_or_dosing_requests"
+  ],
+  "decision_rule": "A candidate cannot be promoted by excitement alone. It must name the benchmark gap, endpoint set, stop rule, and falsification test while keeping case relevance blocked until qualified specialist review."
+}

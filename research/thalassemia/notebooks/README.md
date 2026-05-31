@@ -158,6 +158,9 @@ Current notebooks:
 - `2026-05-30-case001-affordable-cure-candidate-promotion-gate.ipynb` -
   de-identified promotion gate that checks required candidate fields, decision
   labels, and blocked public content before any affordable-cure lane moves up.
+- `2026-05-31-case001-minimum-assay-readiness-gate.ipynb` - de-identified
+  assay-readiness gate that checks identity, model, controls, endpoints, stop
+  rules, raw-data plan, and privacy boundaries before lab quote.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

@@ -64,3 +64,4 @@ safety controls before they can be compared with known drugs.
 
 - [Epigenetic HbF screen V0](../research/thalassemia/assays/2026-04-27-epigenetic-hbf-screen-v0.md)
 - [Hepcidin-ferroportin iron-restriction axis](../research/thalassemia/findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
+- [Minimum assay readiness gate](../research/thalassemia/assays/2026-05-31-minimum-assay-readiness-gate.md)

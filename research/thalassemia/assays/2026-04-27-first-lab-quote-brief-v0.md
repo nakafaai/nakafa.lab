@@ -12,6 +12,10 @@ explicit founder approval and only without private patient records.
 The ask is feasibility and pricing for a preclinical assay panel. It is not a
 request for patient treatment, supplement approval, or off-label prescribing.
 
+Use the [minimum assay readiness gate](2026-05-31-minimum-assay-readiness-gate.md)
+before sending any quote request. It requires candidate identity, model,
+controls, endpoints, stop rules, raw-data plan, and privacy boundaries.
+
 ## One-Paragraph Lab Ask
 
 Nakafa Lab is building an open, source-backed thalassemia research program. We

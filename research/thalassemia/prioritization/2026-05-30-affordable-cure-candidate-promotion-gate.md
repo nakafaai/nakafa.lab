@@ -49,6 +49,10 @@ Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
 
+After a candidate passes this promotion test, use the
+[minimum assay readiness gate](../assays/2026-05-31-minimum-assay-readiness-gate.md)
+before lab quote or partner outreach.
+
 ## Islamic Motivation Boundary
 
 Quran 13:17 supports disciplined attrition: benefit remains and foam is

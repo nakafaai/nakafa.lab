@@ -8,6 +8,10 @@ Status: lab-readiness gate, not treatment advice and not contact permission
 This gate turns the May 30 candidate promotion rule into a lab-readable minimum
 package. A candidate can be interesting and still not be assay-ready.
 
+Use the
+[first quote panel assay readiness audit](2026-06-01-first-quote-panel-assay-readiness-audit.md)
+for the first applied panel-level result.
+
 Current operational label:
 
 `case001_minimum_assay_readiness_gate_ready`

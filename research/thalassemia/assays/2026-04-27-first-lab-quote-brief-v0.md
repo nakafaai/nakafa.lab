@@ -15,6 +15,9 @@ request for patient treatment, supplement approval, or off-label prescribing.
 Use the [minimum assay readiness gate](2026-05-31-minimum-assay-readiness-gate.md)
 before sending any quote request. It requires candidate identity, model,
 controls, endpoints, stop rules, raw-data plan, and privacy boundaries.
+Use the
+[first quote panel assay readiness audit](2026-06-01-first-quote-panel-assay-readiness-audit.md)
+to decide which panel items are quote-ready, held, or benchmark-only.
 
 ## One-Paragraph Lab Ask
 

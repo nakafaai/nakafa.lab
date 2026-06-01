@@ -161,6 +161,9 @@ Current notebooks:
 - `2026-05-31-case001-minimum-assay-readiness-gate.ipynb` - de-identified
   assay-readiness gate that checks identity, model, controls, endpoints, stop
   rules, raw-data plan, and privacy boundaries before lab quote.
+- `2026-06-01-case001-first-quote-panel-assay-readiness-audit.ipynb` -
+  de-identified applied audit of the first quote panel and PubChem identity
+  refresh before lab quote.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

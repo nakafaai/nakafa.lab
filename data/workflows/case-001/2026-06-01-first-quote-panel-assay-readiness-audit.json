@@ -1,0 +1,119 @@
+{
+  "checked_date": "2026-06-01",
+  "evidence_label": "case-001 first quote panel assay readiness audit, not medical advice",
+  "gate_label": "case001_first_quote_panel_assay_readiness_audit_ready",
+  "upstream_gates": [
+    "case001_minimum_assay_readiness_gate_ready",
+    "case001_affordable_cure_candidate_promotion_gate_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "May 31 minimum assay readiness gate",
+      "source_url": "../../../research/thalassemia/assays/2026-05-31-minimum-assay-readiness-gate.md",
+      "source_role": "Defines required identity, model, controls, endpoint, stop-rule, raw-data, and privacy fields before lab quote."
+    },
+    {
+      "source_label": "First lab quote brief V0",
+      "source_url": "../../../research/thalassemia/assays/2026-04-27-first-lab-quote-brief-v0.md",
+      "source_role": "Defines the first quote panel: hydroxyurea, purified resveratrol, sirolimus, standardized 6-shogaol-rich ginger extract, and melittin hazard control."
+    },
+    {
+      "source_label": "PubChem PUG REST identity refresh",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/",
+      "source_role": "Checked current PubChem compound identity fields for panel controls, seeds, hazard control, and PF-06409577 expansion probe."
+    }
+  ],
+  "identity_refresh": [
+    {
+      "item": "hydroxyurea",
+      "pubchem_cid": 3657,
+      "inchikey": "VSNHCAURESNICA-UHFFFAOYSA-N",
+      "identity_state": "exact_compound_identity_resolved"
+    },
+    {
+      "item": "resveratrol",
+      "pubchem_cid": 445154,
+      "inchikey": "LUKBXSAWLPMMSZ-OWOJBTEDSA-N",
+      "identity_state": "exact_compound_identity_resolved"
+    },
+    {
+      "item": "sirolimus",
+      "pubchem_cid": 5284616,
+      "inchikey": "QFJCIRLUMZQUOT-HPLJOQBZSA-N",
+      "identity_state": "exact_compound_identity_resolved"
+    },
+    {
+      "item": "6-shogaol",
+      "pubchem_cid": 5281794,
+      "inchikey": "OQWKEEOHDMUXEO-BQYQJAHWSA-N",
+      "identity_state": "marker_compound_identity_resolved_but_extract_standardization_needed"
+    },
+    {
+      "item": "melittin",
+      "pubchem_cid": 16133648,
+      "inchikey": "VDXZNPDIRNWWCW-JFTDCZMZSA-N",
+      "identity_state": "hazard_control_identity_resolved"
+    },
+    {
+      "item": "PF-06409577",
+      "pubchem_cid": 71748255,
+      "inchikey": "FHQXLWCFSUSXBF-UHFFFAOYSA-N",
+      "identity_state": "expansion_probe_identity_resolved"
+    }
+  ],
+  "panel_readiness": [
+    {
+      "item": "hydroxyurea",
+      "role": "positive HbF comparator",
+      "readiness_label": "benchmark_only",
+      "next_action": "Use only as positive control if the lab can run HbF/HBG and safety readouts."
+    },
+    {
+      "item": "purified resveratrol",
+      "role": "HbF seed candidate",
+      "readiness_label": "assay_ready_for_quote",
+      "next_action": "Quote only with purity, batch, vehicle, HbF/HBG, maturation, viability, hemolysis, and chain-balance readouts."
+    },
+    {
+      "item": "sirolimus",
+      "role": "mTOR/autophagy comparator",
+      "readiness_label": "assay_ready_for_quote",
+      "next_action": "Quote as comparator with autophagy, HbF/HBG, viability, maturation, and hemolysis boundaries."
+    },
+    {
+      "item": "standardized 6-shogaol-rich ginger extract",
+      "role": "red-cell support comparator",
+      "readiness_label": "hold_for_model_or_endpoint_gap",
+      "next_action": "Resolve extract standardization, marker assay, batch controls, and support-only endpoint wording."
+    },
+    {
+      "item": "melittin",
+      "role": "hemolysis hazard control",
+      "readiness_label": "benchmark_only",
+      "next_action": "Use only if the lab accepts hazard calibration and keeps it out of therapy framing."
+    },
+    {
+      "item": "PF-06409577",
+      "role": "PRKAB1 expansion probe",
+      "readiness_label": "assay_ready_for_quote",
+      "next_action": "Keep expansion-only; require exact material, AMPK beta1 context, HbF/HBG, autophagy, viability, and hemolysis readouts."
+    },
+    {
+      "item": "T-BDMC-like curcuminoid analog",
+      "role": "curcuminoid expansion seed",
+      "readiness_label": "hold_for_model_or_endpoint_gap",
+      "next_action": "Do not quote until exact structure, procurement identity, and batch control are resolved."
+    }
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "patient_samples_without_ethics",
+    "doctor_messages",
+    "owner_replies",
+    "patient_specific_treatment_selection",
+    "dose_or_dosing_requests",
+    "trial_screening_instruction",
+    "travel_or_import_instruction"
+  ],
+  "decision_rule": "The first quote panel may proceed only as preclinical assay feasibility. It cannot be framed as treatment validation, case-specific recommendation, dosing guidance, or patient access instruction."
+}

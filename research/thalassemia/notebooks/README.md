@@ -164,6 +164,9 @@ Current notebooks:
 - `2026-06-01-case001-first-quote-panel-assay-readiness-audit.ipynb` -
   de-identified applied audit of the first quote panel and PubChem identity
   refresh before lab quote.
+- `2026-06-02-case001-first-quote-request-table-gate.ipynb` -
+  de-identified quote-table gate that checks included items, held items, lab
+  capabilities, and blocked public content before any quote outreach.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

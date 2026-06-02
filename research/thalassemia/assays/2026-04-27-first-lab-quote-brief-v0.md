@@ -18,6 +18,9 @@ controls, endpoints, stop rules, raw-data plan, and privacy boundaries.
 Use the
 [first quote panel assay readiness audit](2026-06-01-first-quote-panel-assay-readiness-audit.md)
 to decide which panel items are quote-ready, held, or benchmark-only.
+Use the
+[first quote request table](2026-06-02-first-quote-request-table.md) as the
+public-safe lab-readable quote draft; it is not contact permission.
 
 ## One-Paragraph Lab Ask
 

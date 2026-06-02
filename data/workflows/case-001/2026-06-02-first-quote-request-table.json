@@ -1,0 +1,160 @@
+{
+  "checked_date": "2026-06-02",
+  "evidence_label": "case-001 first quote request table, not medical advice",
+  "gate_label": "case001_first_quote_request_table_ready",
+  "upstream_gates": [
+    "case001_first_quote_panel_assay_readiness_audit_ready",
+    "case001_minimum_assay_readiness_gate_ready"
+  ],
+  "quote_scope": "public-safe preclinical assay quote draft only; not contact permission, treatment validation, patient-sample permission, or patient-specific action",
+  "source_checks": [
+    {
+      "source_label": "June 1 first quote panel assay readiness audit",
+      "source_url": "../../../research/thalassemia/assays/2026-06-01-first-quote-panel-assay-readiness-audit.md",
+      "source_role": "Separates first quote items into benchmark-only, assay-ready, and held states."
+    },
+    {
+      "source_label": "May 31 minimum assay readiness gate",
+      "source_url": "../../../research/thalassemia/assays/2026-05-31-minimum-assay-readiness-gate.md",
+      "source_role": "Requires identity, model, controls, endpoints, stop rules, raw data, and privacy boundaries before quote movement."
+    },
+    {
+      "source_label": "Private case intake threat model",
+      "source_url": "../../../docs/private-case-intake-threat-model.md",
+      "source_role": "Keeps raw records, identifiers, exact private dates, and patient-specific action out of public artifacts."
+    },
+    {
+      "source_label": "PubChem compound identity pages",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/",
+      "source_role": "Checked current compound identity pages for hydroxyurea, resveratrol, sirolimus, melittin, and PF-06409577."
+    },
+    {
+      "source_label": "PubMed PMID 41259521",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/41259521/",
+      "source_role": "Current AMPK beta1 / PF-06409577 HbF mechanism source; use only as expansion-probe evidence, not beta-thalassemia clinical evidence."
+    },
+    {
+      "source_label": "PubMed PMID 36769243",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/36769243/",
+      "source_role": "Hemolysis assay optimization source for mature red-cell cytotoxicity screening."
+    }
+  ],
+  "included_quote_items": [
+    {
+      "item": "hydroxyurea",
+      "quote_role": "positive HbF comparator",
+      "quote_decision": "benchmark_only",
+      "material_requirement": "lab-standard comparator with identity and vehicle documented",
+      "requested_model_readouts": [
+        "HbF or HBG1/HBG2 positive-control response",
+        "erythroid maturation",
+        "viability or apoptosis"
+      ],
+      "stop_condition": "Do not frame as a new cure candidate or patient-specific option.",
+      "boundary": "comparator only"
+    },
+    {
+      "item": "purified resveratrol",
+      "quote_role": "HbF and erythroid-maturation seed",
+      "quote_decision": "assay_ready_for_quote",
+      "material_requirement": "purified compound with supplier, batch, purity, certificate of analysis if available, and vehicle documented",
+      "requested_model_readouts": [
+        "endogenous HbF or HBG1/HBG2",
+        "HbF protein or F-cell percentage if available",
+        "erythroid maturation",
+        "viability or apoptosis",
+        "mature red-cell hemolysis or membrane damage",
+        "alpha/non-alpha or free alpha-globin context if available"
+      ],
+      "stop_condition": "Hold or reject if identity, viability, hemolysis, or maturation boundaries fail.",
+      "boundary": "preclinical seed only"
+    },
+    {
+      "item": "sirolimus",
+      "quote_role": "mTOR/autophagy comparator",
+      "quote_decision": "assay_ready_for_quote",
+      "material_requirement": "exact compound identity, supplier, batch, purity, and vehicle documented",
+      "requested_model_readouts": [
+        "endogenous HbF or HBG1/HBG2",
+        "autophagy readout such as ULK1, p62/SQSTM1, or lab-validated equivalent",
+        "erythroid maturation",
+        "viability or apoptosis",
+        "mature red-cell hemolysis or membrane damage"
+      ],
+      "stop_condition": "Hold or reject if immune-active comparator status is blurred into patient-facing therapy language.",
+      "boundary": "preclinical comparator only"
+    },
+    {
+      "item": "melittin",
+      "quote_role": "hemolysis hazard control",
+      "quote_decision": "benchmark_only",
+      "material_requirement": "use only if the lab accepts it as a hazard-calibration control and documents biosafety handling",
+      "requested_model_readouts": [
+        "mature red-cell hemolysis or membrane damage",
+        "assay rejection threshold calibration"
+      ],
+      "stop_condition": "Exclude if the lab cannot safely handle it or if it risks therapy framing.",
+      "boundary": "hazard control only"
+    },
+    {
+      "item": "PF-06409577",
+      "quote_role": "PRKAB1 / AMPK beta1 expansion probe",
+      "quote_decision": "optional_assay_ready_for_quote",
+      "material_requirement": "exact PF-06409577 identity, supplier, batch, purity, and vehicle documented",
+      "requested_model_readouts": [
+        "endogenous HbF or HBG1/HBG2",
+        "AMPK beta1 or downstream target-engagement readout if available",
+        "autophagy readout such as ULK1, p62/SQSTM1, or lab-validated equivalent",
+        "erythroid maturation",
+        "viability or apoptosis",
+        "mature red-cell hemolysis or membrane damage"
+      ],
+      "stop_condition": "Keep expansion-only unless the lab can support AMPK beta1 and autophagy context without patient-facing claims.",
+      "boundary": "expansion probe only"
+    }
+  ],
+  "held_out_items": [
+    {
+      "item": "standardized 6-shogaol-rich ginger extract",
+      "reason": "extract standardization, marker assay, batch controls, and support-only endpoint wording are not ready enough for first quote"
+    },
+    {
+      "item": "T-BDMC-like curcuminoid analog",
+      "reason": "exact structure, procurement identity, and batch control remain unresolved for this quote"
+    }
+  ],
+  "requested_lab_capabilities": [
+    "HUDEP2, endogenous HbF reporter, CD34+ erythroid differentiation, beta-thalassemia/HbE cells, or another explicitly validated erythroid model",
+    "endogenous HbF or HBG1/HBG2",
+    "HbF protein or F-cell percentage if available",
+    "erythroid maturation markers such as CD71 and CD235a",
+    "viability or apoptosis",
+    "mature red-cell hemolysis or membrane damage",
+    "alpha/non-alpha globin balance or free alpha-globin burden if available",
+    "autophagy readouts for sirolimus and PF-06409577 if available",
+    "raw data export"
+  ],
+  "requested_quote_fields": [
+    "model_available",
+    "controls_available",
+    "per_item_cost",
+    "per_readout_cost",
+    "replicate_plan",
+    "timeline",
+    "material_requirements",
+    "raw_data_format",
+    "known_limitations",
+    "ethics_or_biosafety_constraints"
+  ],
+  "blocked_public_content": [
+    "raw_records",
+    "patient_samples_without_ethics",
+    "doctor_messages",
+    "owner_replies",
+    "patient_specific_treatment_selection",
+    "dose_or_dosing_requests",
+    "trial_screening_instruction",
+    "travel_or_import_instruction"
+  ],
+  "decision_rule": "This table can be used only as a public-safe preclinical quote request draft. It does not authorize outreach, treatment validation, patient sample use, dosing, trial screening, travel, import, or patient-specific action."
+}

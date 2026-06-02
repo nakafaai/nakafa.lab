@@ -9,6 +9,10 @@ This audit applies the May 31 minimum assay readiness gate to the first quote
 panel. It separates quote-ready comparators or seeds from identity, model, and
 endpoint holds.
 
+Use the
+[June 2 first quote request table](2026-06-02-first-quote-request-table.md)
+for the compact lab-readable quote draft after this audit.
+
 Current operational label:
 
 `case001_first_quote_panel_assay_readiness_audit_ready`

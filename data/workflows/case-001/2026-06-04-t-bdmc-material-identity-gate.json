@@ -1,0 +1,64 @@
+{
+  "checked_date": "2026-06-04",
+  "evidence_label": "case-001 T-BDMC material identity gate, not medical advice",
+  "gate_label": "case001_t_bdmc_material_identity_gate_hold",
+  "upstream_gates": [
+    "case001_first_quote_request_table_ready",
+    "case001_first_quote_panel_assay_readiness_audit_ready",
+    "case001_minimum_assay_readiness_gate_ready"
+  ],
+  "source_checks": [
+    {
+      "source_label": "PubChem PUG current check",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/10447050",
+      "source_role": "Resolved T-BDMC structure as CID 10447050 with formula C19H16O3 and InChIKey PALMCMYYFAHUGA-BPTNNVFMSA-N."
+    },
+    {
+      "source_label": "ChEMBL current molecule check",
+      "source_url": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL469419/",
+      "source_role": "Resolved the same InChIKey and formula as CHEMBL469419; ChEMBL does not mark it as an approved or therapeutic compound."
+    },
+    {
+      "source_label": "ChEMBL current activity check",
+      "source_url": "https://www.ebi.ac.uk/chembl/g/#browse/activities/filter/molecule_chembl_id%3ACHEMBL469419",
+      "source_role": "Recovered KB IC50 5750 nM, Vero IC50 9650 nM, and selectivity index 1.68 from ChEMBL3286273, keeping cytotoxicity and safety-window gates mandatory."
+    },
+    {
+      "source_label": "PubMed focused search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33879818/",
+      "source_role": "Focused T-BDMC or trienone-curcuminoid plus HbF/thalassemia search still recovered Nuamsee 2021 as the direct HbF-thalassemia source."
+    },
+    {
+      "source_label": "PubMed PMID 24857542",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/24857542/",
+      "source_role": "Synthesis and cytotoxicity source for trienone analogues of curcuminoids."
+    }
+  ],
+  "resolved_identity": {
+    "item": "T-BDMC",
+    "pubchem_cid": 10447050,
+    "chembl_id": "CHEMBL469419",
+    "formula": "C19H16O3",
+    "inchikey": "PALMCMYYFAHUGA-BPTNNVFMSA-N",
+    "canonical_smiles": "O=C(/C=C/C=C/c1ccc(O)cc1)/C=C/c1ccc(O)cc1"
+  },
+  "material_state": "hold_for_procurement_batch_and_safety_window",
+  "material_requirements_before_quote": [
+    "supplier or synthesis partner names exact T-BDMC, PubChem CID 10447050, ChEMBL469419, or the matching InChIKey",
+    "certificate of analysis or equivalent batch record includes identity, purity, lot, method, vehicle or solvent, and storage conditions",
+    "no substitution with turmeric, curcumin, BDMC, generic curcuminoids, HHBDMC, T-Cur, T-DMC, or unnamed T-BDMC-like material",
+    "qualified lab accepts mature red-cell hemolysis plus erythroid viability and maturation as mandatory safety-window readouts"
+  ],
+  "quote_state": "exclude_from_first_quote_until_material_requirements_pass",
+  "blocked_public_content": [
+    "raw_records",
+    "patient_samples_without_ethics",
+    "doctor_messages",
+    "owner_replies",
+    "patient_specific_treatment_selection",
+    "dose_or_dosing_requests",
+    "trial_screening_instruction",
+    "travel_or_import_instruction"
+  ],
+  "decision_rule": "T-BDMC exact database identity is resolved, but the quote state remains hold until procurement identity, batch purity, vehicle, storage, and hemolysis/viability safety-window requirements are explicit."
+}

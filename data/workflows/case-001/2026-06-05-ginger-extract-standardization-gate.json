@@ -1,0 +1,103 @@
+{
+  "checked_date": "2026-06-05",
+  "evidence_label": "case-001 ginger extract standardization gate, not treatment advice",
+  "gate_label": "case001_ginger_extract_standardization_gate_hold",
+  "upstream_gates": [
+    "case001_minimum_assay_readiness_gate_ready",
+    "case001_first_quote_panel_assay_readiness_audit_ready",
+    "case001_first_quote_request_table_ready"
+  ],
+  "source_checks": [
+    {
+      "source": "PubChem PUG REST",
+      "checked_on": "2026-06-05",
+      "result": "6-shogaol CID 5281794, formula C17H24O3, InChIKey OQWKEEOHDMUXEO-BQYQJAHWSA-N",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281794"
+    },
+    {
+      "source": "PubChem PUG REST",
+      "checked_on": "2026-06-05",
+      "result": "6-gingerol CID 442793, formula C17H26O4, InChIKey NLDDIKRKFXEWBK-AWEZNQCLSA-N",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/442793"
+    },
+    {
+      "source": "PubMed E-utilities",
+      "checked_on": "2026-06-05",
+      "result": "PMID 40938906, DOI 10.1371/journal.pone.0332386, PLOS One 2025 ex vivo beta-thalassemia red-cell support paper",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40938906/"
+    },
+    {
+      "source": "PubMed E-utilities",
+      "checked_on": "2026-06-05",
+      "result": "Focused ginger, Zingiber, 6-shogaol, 6-gingerol plus fetal hemoglobin, gamma-globin, HBG1, or HBG2 query returned 0 records",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/"
+    },
+    {
+      "source": "ClinicalTrials.gov API v2",
+      "checked_on": "2026-06-05",
+      "result": "ginger thalassemia and Zingiber thalassemia queries returned no studies",
+      "url": "https://clinicaltrials.gov/"
+    },
+    {
+      "source": "Quran 76:17 structured note",
+      "checked_on": "2026-06-05",
+      "result": "Ginger remains an Islamic motivation anchor only, not biomedical proof",
+      "url": "https://quran.com/76/17"
+    }
+  ],
+  "standardized_material": {
+    "item": "standardized 6-shogaol-rich ginger extract",
+    "material_state": "hold_for_extract_process_marker_assay_batch_control_and_support_endpoint_wording",
+    "required_material_fields": [
+      "extract process, with PEF or equivalent process named",
+      "quantified 6-shogaol and 6-gingerol content by HPLC, LC-MS, or equivalent method",
+      "batch or lot identifier",
+      "solvent, excipient, and vehicle records",
+      "storage and stability context",
+      "microbial, contaminant, or matrix-control context if available"
+    ],
+    "marker_compounds": [
+      {
+        "compound": "6-shogaol",
+        "pubchem_cid": 5281794,
+        "formula": "C17H24O3",
+        "inchikey": "OQWKEEOHDMUXEO-BQYQJAHWSA-N"
+      },
+      {
+        "compound": "6-gingerol",
+        "pubchem_cid": 442793,
+        "formula": "C17H26O4",
+        "inchikey": "NLDDIKRKFXEWBK-AWEZNQCLSA-N"
+      }
+    ]
+  },
+  "support_only_endpoint_set": [
+    "mature red-cell hemolysis",
+    "oxidative hemolysis challenge if the lab supports it",
+    "lipid peroxidation or TBARS",
+    "red-cell membrane non-heme iron if the lab supports it",
+    "osmotic fragility or red-cell deformability if available",
+    "methemoglobin or membrane-damage context if available"
+  ],
+  "blocked_endpoint_claims": [
+    "HbF induction",
+    "HBG1 or HBG2 induction",
+    "transfusion reduction",
+    "chelation replacement",
+    "curative effect",
+    "patient supplementation"
+  ],
+  "quote_state": "exclude_from_first_quote_until_standardization_and_support_endpoint_requirements_pass",
+  "blocked_public_content": [
+    "raw clinical records",
+    "patient samples without ethics and clinician review",
+    "doctor messages",
+    "owner replies",
+    "direct identifiers",
+    "patient-specific treatment selection",
+    "dose or dosing requests",
+    "trial-screening instruction",
+    "travel or import instruction"
+  ],
+  "decision_rule": "Move ginger extract from held to quote-candidate only when the material is standardized, marker compounds are quantified, matrix and vehicle controls are explicit, and the lab accepts support-only red-cell endpoints without HbF, cure, supplementation, or patient-action framing."
+}

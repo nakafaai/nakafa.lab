@@ -34,6 +34,9 @@ Current operational label:
 | Standardized 6-shogaol-rich ginger extract | Extract standardization, marker assay, batch controls, and support-only endpoint wording are not ready enough for first quote. |
 | `T-BDMC`-like curcuminoid analog | Exact structure, procurement identity, and batch control remain unresolved for this quote. |
 
+Use the [ginger extract standardization gate](2026-06-05-ginger-extract-standardization-gate.md)
+before moving any standardized 6-shogaol-rich ginger extract toward quote.
+
 Use the [T-BDMC material identity gate](2026-06-04-t-bdmc-material-identity-gate.md)
 before moving any `T-BDMC` material toward quote.
 

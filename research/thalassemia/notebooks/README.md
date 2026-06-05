@@ -170,6 +170,10 @@ Current notebooks:
 - `2026-06-04-case001-t-bdmc-material-identity-gate.ipynb` -
   de-identified material gate that keeps `T-BDMC` held until procurement,
   batch, and safety-window requirements pass.
+- `2026-06-05-case001-ginger-extract-standardization-gate.ipynb` -
+  de-identified material and endpoint gate that keeps standardized
+  6-shogaol-rich ginger extract held until marker, batch, matrix-control, and
+  support-only red-cell endpoint requirements pass.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

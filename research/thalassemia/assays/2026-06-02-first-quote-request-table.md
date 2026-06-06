@@ -39,6 +39,8 @@ before moving any standardized 6-shogaol-rich ginger extract toward quote.
 
 Use the [T-BDMC material identity gate](2026-06-04-t-bdmc-material-identity-gate.md)
 before moving any `T-BDMC` material toward quote.
+Then use the [T-BDMC catalog feasibility gate](2026-06-06-t-bdmc-catalog-feasibility-gate.md)
+before treating any catalog lead as quote-safe.
 
 ## Lab Questions
 

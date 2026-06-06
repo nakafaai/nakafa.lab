@@ -1,0 +1,84 @@
+{
+  "checked_date": "2026-06-06",
+  "evidence_label": "case-001 T-BDMC catalog feasibility gate, not treatment advice",
+  "gate_label": "case001_t_bdmc_catalog_feasibility_gate_hold",
+  "upstream_gates": [
+    "case001_t_bdmc_material_identity_gate_hold",
+    "case001_first_quote_request_table_ready"
+  ],
+  "source_checks": [
+    {
+      "source": "PubChem PUG REST",
+      "result": "Exact target remains CID 10447050, formula C19H16O3, InChIKey PALMCMYYFAHUGA-BPTNNVFMSA-N.",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/10447050"
+    },
+    {
+      "source": "PubChem PUG REST",
+      "result": "Name-adjacent stereoisomer CID 131752971 has the same formula but InChIKey PALMCMYYFAHUGA-ZRFKDBLFSA-N.",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/131752971"
+    },
+    {
+      "source": "PubChem PUG REST",
+      "result": "CAS 149732-52-5 and HY-N11902 resolve to target CID 10447050.",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/"
+    },
+    {
+      "source": "ChEMBL API",
+      "result": "CHEMBL469419 matches target InChIKey and has no approved therapeutic status.",
+      "url": "https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL469419/"
+    },
+    {
+      "source": "MCE product page",
+      "result": "MCE lists HY-N11902, CAS 149732-52-5, purity 95.51%, and batch documentation links including COA, CNMR, RP-HPLC, and MS.",
+      "url": "https://www.medchemexpress.com/1-7-bis-4-hydroxyphenyl-1-4-6-heptatrien-3-one.html"
+    },
+    {
+      "source": "Namiki Shoji product page",
+      "result": "Namiki lists HY-N11902 from MedChemExpress, CAS 149732-52-5, formula C19H16O3, molecular weight 292.33, purity greater than 98%, and research-reagent-only language.",
+      "url": "https://www.namiki-s.co.jp/compound/compound_detail.php?code=HY-N11902"
+    },
+    {
+      "source": "PubMed E-utilities",
+      "result": "Focused T-BDMC/HbF/thalassemia search still returns Nuamsee 2021, PMID 33879818; synthesis source is PMID 24857542.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33879818/"
+    }
+  ],
+  "catalog_lead": {
+    "vendor_label": "MedChemExpress",
+    "catalog_number": "HY-N11902",
+    "cas": "149732-52-5",
+    "target_pubchem_cid": 10447050,
+    "target_chembl_id": "CHEMBL469419",
+    "target_inchikey": "PALMCMYYFAHUGA-BPTNNVFMSA-N",
+    "catalog_state": "material_lead_found_but_not_quote_safe_until_batch_identity_review"
+  },
+  "stereochemistry_trap": {
+    "wrong_or_adjacent_pubchem_cid": 131752971,
+    "wrong_or_adjacent_inchikey": "PALMCMYYFAHUGA-ZRFKDBLFSA-N",
+    "rule": "Do not accept a name-only, formula-only, or CAS-only match when the intended assay seed is the target InChIKey."
+  },
+  "purity_conflict_rule": "MCE and Namiki display different purity values; treat batch-specific COA and HPLC documents as controlling before quote.",
+  "minimum_material_packet_before_quote": [
+    "supplier or distributor URL",
+    "catalog number and CAS",
+    "batch number",
+    "certificate of analysis",
+    "HPLC purity report",
+    "NMR or MS identity report",
+    "exact InChIKey or structure match to PubChem CID 10447050 or CHEMBL469419",
+    "storage and handling conditions",
+    "solvent or vehicle recommendation",
+    "qualified-lab confirmation that hemolysis, erythroid viability, and maturation safety-window readouts will be run"
+  ],
+  "quote_state": "hold_from_first_quote_until_material_packet_and_safety_window_pass",
+  "blocked_public_content": [
+    "patient_purchase_or_import_instruction",
+    "patient_specific_procurement",
+    "dose_or_dosing_requests",
+    "clinical_treatment_framing",
+    "raw_records",
+    "doctor_messages",
+    "owner_replies"
+  ],
+  "decision_rule": "A catalog lead now exists, but T-BDMC remains held until exact batch identity, stereochemistry, purity, storage, vehicle, and safety-window assay acceptance are explicit."
+}

@@ -42,6 +42,10 @@ Keep `T-BDMC` out of the first quote. The exact database identity is resolved,
 but procurement identity, batch purity, vehicle, storage, and safety-window
 requirements are not ready.
 
+The June 6 catalog feasibility gate found a material lead but keeps `T-BDMC`
+held until exact batch identity, stereochemistry, purity, and safety-window
+requirements pass.
+
 ## Boundary
 
 This gate does not recommend patient use, dosing, supplements, transfusion
@@ -57,6 +61,7 @@ measured claims. These are research-method anchors, not biomedical evidence for
 ## Sources
 
 - [June 4 workflow map](../../../data/workflows/case-001/2026-06-04-t-bdmc-material-identity-gate.json)
+- [June 6 catalog feasibility gate](2026-06-06-t-bdmc-catalog-feasibility-gate.md)
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [T-BDMC cytotoxicity boundary](../findings/2026-04-27-t-bdmc-cytotoxicity-boundary.md)
 - [Curcuminoid analog assay map](../findings/2026-04-27-curcuminoid-analog-assay-map.md)

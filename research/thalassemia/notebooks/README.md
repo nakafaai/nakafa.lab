@@ -174,6 +174,10 @@ Current notebooks:
   de-identified material and endpoint gate that keeps standardized
   6-shogaol-rich ginger extract held until marker, batch, matrix-control, and
   support-only red-cell endpoint requirements pass.
+- `2026-06-06-case001-t-bdmc-catalog-feasibility-gate.ipynb` -
+  de-identified catalog feasibility gate that checks `HY-N11902` is a material
+  lead only, with exact stereochemistry and safety-window requirements still
+  blocking quote movement.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

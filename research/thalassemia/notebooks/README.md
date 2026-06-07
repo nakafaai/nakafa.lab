@@ -178,6 +178,10 @@ Current notebooks:
   de-identified catalog feasibility gate that checks `HY-N11902` is a material
   lead only, with exact stereochemistry and safety-window requirements still
   blocking quote movement.
+- `2026-06-07-case001-lab-outreach-approval-gate.ipynb` - de-identified
+  approval gate that checks no lab contact occurs without founder approval,
+  quote lines stay scoped, held addenda stay excluded, and private or
+  patient-specific content stays blocked.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

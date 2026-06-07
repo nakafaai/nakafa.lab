@@ -17,6 +17,9 @@ Current operational label:
 
 `case001_first_quote_request_table_ready`
 
+Use the [lab outreach approval gate](2026-06-07-lab-outreach-approval-gate.md)
+before sending or adapting this table for any external contact.
+
 ## Quote Request Table
 
 | Item | Quote role | Material ask | Readout ask | Stop condition | Boundary |

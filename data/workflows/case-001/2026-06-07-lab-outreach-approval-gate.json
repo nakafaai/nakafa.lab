@@ -1,0 +1,62 @@
+{
+  "checked_date": "2026-06-07",
+  "evidence_label": "case-001 lab outreach approval gate, not contact permission and not treatment advice",
+  "gate_label": "case001_lab_outreach_approval_gate_hold",
+  "upstream_gates": [
+    "case001_first_quote_request_table_ready",
+    "case001_ginger_extract_standardization_gate_hold",
+    "case001_t_bdmc_catalog_feasibility_gate_hold"
+  ],
+  "source_checks": [
+    {
+      "source": "PubMed E-utilities",
+      "result": "PMIDs 41259521, 36769243, 40938906, 33879818, and 24857542 resolved on 2026-06-07.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/"
+    },
+    {
+      "source": "PubChem PUG REST",
+      "result": "Hydroxyurea, resveratrol, sirolimus, melittin, PF-06409577, T-BDMC, and 6-shogaol CID identity checks resolved on 2026-06-07.",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/"
+    },
+    {
+      "source": "ClinicalTrials.gov API v2",
+      "result": "thalassemia resveratrol and PF-06409577 thalassemia searches returned no studies on 2026-06-07.",
+      "url": "https://clinicaltrials.gov/"
+    },
+    {
+      "source": "Quran 13:17 and 55:7-9 structured notes",
+      "result": "Islamic anchors remain research-method motivation only, not biomedical evidence.",
+      "url": "https://quran.com/"
+    }
+  ],
+  "approval_state": "blocked_until_explicit_founder_approval",
+  "send_packet_if_approved": [
+    "public-safe preclinical lab quote context",
+    "June 2 first quote request table",
+    "lab capability questions for erythroid model, HbF/HBG, maturation, viability, hemolysis, autophagy, cost, timeline, and raw-data format",
+    "source links only, not private records"
+  ],
+  "first_quote_items": [
+    "hydroxyurea positive HbF comparator",
+    "purified resveratrol preclinical seed",
+    "sirolimus mTOR/autophagy comparator",
+    "melittin hemolysis hazard control only if accepted",
+    "PF-06409577 PRKAB1 expansion probe"
+  ],
+  "held_not_quote_lines": [
+    "standardized 6-shogaol-rich ginger extract",
+    "T-BDMC or HY-N11902 catalog lead"
+  ],
+  "blocked_public_content": [
+    "raw clinical records",
+    "patient samples",
+    "doctor messages",
+    "owner replies",
+    "names or direct identifiers",
+    "patient-specific treatment selection",
+    "dose or dosing requests",
+    "trial-screening requests",
+    "travel, import, purchase, or procurement requests"
+  ],
+  "decision_rule": "Do not contact a lab until explicit founder approval is recorded. If approved, send only the public-safe preclinical quote packet and keep ginger and T-BDMC as held addenda, not quote lines."
+}

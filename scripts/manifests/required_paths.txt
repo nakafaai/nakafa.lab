@@ -17,6 +17,7 @@ docs/status/2026-06-04.md
 docs/status/2026-06-05.md
 docs/status/2026-06-06.md
 docs/status/2026-06-07.md
+docs/status/2026-06-08.md
 docs/status/daily-summary-automation.md
 docs/repo-hygiene.md
 docs/private-case-intake-threat-model.md
@@ -40,6 +41,7 @@ data/workflows/case-001/2026-06-04-t-bdmc-material-identity-gate.json
 data/workflows/case-001/2026-06-05-ginger-extract-standardization-gate.json
 data/workflows/case-001/2026-06-06-t-bdmc-catalog-feasibility-gate.json
 data/workflows/case-001/2026-06-07-lab-outreach-approval-gate.json
+data/workflows/case-001/2026-06-08-lab-recipient-qualification-gate.json
 data/literature/pubmed/2026-04-26-bcl11a-hbf-beta-thalassemia.json
 data/literature/pubmed/2026-04-26-hbf-assay-screening.json
 data/literature/pubmed/2026-04-26-hemolysis-assay-safety.json
@@ -813,6 +815,7 @@ research/thalassemia/notebooks/2026-06-04-case001-t-bdmc-material-identity-gate.
 research/thalassemia/notebooks/2026-06-05-case001-ginger-extract-standardization-gate.ipynb
 research/thalassemia/notebooks/2026-06-06-case001-t-bdmc-catalog-feasibility-gate.ipynb
 research/thalassemia/notebooks/2026-06-07-case001-lab-outreach-approval-gate.ipynb
+research/thalassemia/notebooks/2026-06-08-case001-lab-recipient-qualification-gate.ipynb
 research/thalassemia/case-context/case-001-record-request-matrix.md
 research/thalassemia/case-context/case-001-doctor-handoff-brief.md
 research/thalassemia/case-context/case-001-doctor-response-triage.md
@@ -882,6 +885,7 @@ research/thalassemia/findings/2026-06-04-case001-t-bdmc-material-identity-gate.m
 research/thalassemia/findings/2026-06-05-case001-ginger-extract-standardization-gate.md
 research/thalassemia/findings/2026-06-06-case001-t-bdmc-catalog-feasibility-gate.md
 research/thalassemia/findings/2026-06-07-case001-lab-outreach-approval-gate.md
+research/thalassemia/findings/2026-06-08-case001-lab-recipient-qualification-gate.md
 research/thalassemia/prioritization/2026-05-30-affordable-cure-candidate-promotion-gate.md
 research/thalassemia/assays/2026-05-31-minimum-assay-readiness-gate.md
 research/thalassemia/assays/2026-06-01-first-quote-panel-assay-readiness-audit.md
@@ -890,6 +894,7 @@ research/thalassemia/assays/2026-06-04-t-bdmc-material-identity-gate.md
 research/thalassemia/assays/2026-06-05-ginger-extract-standardization-gate.md
 research/thalassemia/assays/2026-06-06-t-bdmc-catalog-feasibility-gate.md
 research/thalassemia/assays/2026-06-07-lab-outreach-approval-gate.md
+research/thalassemia/assays/2026-06-08-lab-recipient-qualification-gate.md
 templates/clinical-owner-response-capture-template.md
 templates/clinical-owner-follow-up-log-template.md
 templates/public-collaborator-intake-template.md

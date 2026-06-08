@@ -1,0 +1,55 @@
+{
+  "checked_date": "2026-06-08",
+  "evidence_label": "case-001 lab recipient qualification gate, not contact permission and not treatment advice",
+  "gate_label": "case001_lab_recipient_qualification_gate_hold",
+  "upstream_gates": [
+    "case001_lab_outreach_approval_gate_hold",
+    "case001_first_quote_request_table_ready"
+  ],
+  "source_checks": [
+    {
+      "source": "PubMed E-utilities",
+      "result": "A 2024-2026 thalassemia plus HUDEP2/CD34/erythroid/HbF/HBG query returned 246 records on 2026-06-08.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/"
+    },
+    {
+      "source": "PubMed E-utilities",
+      "result": "PMIDs 41259521, 39108322, 39504332, 36769243, 33879818, and 15163316 resolved for assay-model and readout anchors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/"
+    },
+    {
+      "source": "ClinicalTrials.gov API v2",
+      "result": "The thalassemia fetal hemoglobin CD34 query returned gene-cell therapy benchmark records, not a preclinical lab-recipient list.",
+      "url": "https://clinicaltrials.gov/"
+    },
+    {
+      "source": "Quran 13:17 and 55:7-9 structured notes",
+      "result": "Islamic anchors remain research-method motivation only, not biomedical evidence or outreach permission.",
+      "url": "https://quran.com/"
+    }
+  ],
+  "recipient_classes": [
+    "quote_admin_or_cro_feasibility",
+    "erythroid_hbf_screening_lab",
+    "primary_erythroid_or_disease_model_lab",
+    "mature_red_cell_safety_lab",
+    "clinical_trial_or_therapy_center"
+  ],
+  "qualification_requirements": [
+    "can receive only public-safe preclinical context before ethics review",
+    "can state available model and sample requirements",
+    "can measure HbF or HBG plus maturation and viability",
+    "can separate HbF signal from toxic or maturation-blocking artifacts",
+    "can provide raw data, method metadata, controls, replicate plan, cost, and timeline",
+    "can identify ethics, biosafety, MTA, import, or sample constraints without requesting private records"
+  ],
+  "reject_or_hold_conditions": [
+    "requests raw patient records before approved clinical context",
+    "requests patient samples before ethics approval, consent, biosafety review, and clinician oversight",
+    "cannot export raw or summarized data",
+    "cannot document controls, vehicle, batch, or viability",
+    "treats quote request as treatment selection, dosing, trial screening, travel, import, purchase, or procurement guidance",
+    "is a therapy or trial center being approached as if it were a preclinical assay lab"
+  ],
+  "decision_rule": "Keep lab recipient selection on hold until founder approval exists and at least one recipient class passes the qualification requirements without triggering reject or hold conditions."
+}

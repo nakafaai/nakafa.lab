@@ -33,6 +33,9 @@ The outgoing packet may include only:
   viability, hemolysis, autophagy, cost, timeline, and raw-data format;
 - public source links.
 
+Use the [lab recipient qualification gate](2026-06-08-lab-recipient-qualification-gate.md)
+before selecting any recipient.
+
 First quote items remain:
 
 - hydroxyurea positive HbF comparator;

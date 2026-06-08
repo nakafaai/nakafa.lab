@@ -1,6 +1,6 @@
 # Lab Quote Request Template
 
-Status: outreach template, not contact permission
+Status: approval-gated outreach template, not contact permission
 
 Subject: Feasibility quote for preclinical thalassemia HbF and red-cell safety panel
 
@@ -15,13 +15,19 @@ This is not a patient-treatment request. We will not send identifiable patient
 data, raw medical records, or patient samples unless ethics approval, consent,
 biosafety review, and clinician oversight are already in place.
 
+Use the June 7 lab outreach approval gate and the June 8 lab recipient
+qualification gate before adapting or sending this template.
+
 The first quote panel is:
 
 - hydroxyurea as a positive HbF comparator;
 - purified resveratrol as an HbF seed tested against HPFH-like readouts;
 - sirolimus as an mTOR/autophagy comparator;
-- standardized 6-shogaol-rich ginger extract as a red-cell support comparator;
-- melittin only as a hemolysis hazard control.
+- melittin only as a hemolysis hazard control;
+- PF-06409577 only as a `PRKAB1` / AMPK beta1 expansion probe.
+
+Standardized 6-shogaol-rich ginger extract and `T-BDMC` / `HY-N11902` are held
+addenda, not active first-quote lines.
 
 Could you quote or comment on feasibility for:
 

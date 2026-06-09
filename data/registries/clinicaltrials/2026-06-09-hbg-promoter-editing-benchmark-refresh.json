@@ -1,0 +1,66 @@
+{
+  "checked_date": "2026-06-09",
+  "evidence_label": "compact ClinicalTrials.gov benchmark refresh, not trial-screening or treatment advice",
+  "source": "ClinicalTrials.gov API v2",
+  "records": [
+    {
+      "country": "China",
+      "intervention": "CS-101 injection",
+      "last_update": "2026-05-15",
+      "nct_id": "NCT06065189",
+      "phase": "EARLY_PHASE1",
+      "primary_outcome_themes": [
+        "adverse events",
+        "engraftment",
+        "transfusion reduction"
+      ],
+      "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT06065189&pageSize=1&countTotal=true",
+      "status": "COMPLETED",
+      "title": "Base-edited Autologous Hematopoietic Stem Cell Transplantation in Treating Patients With beta-thalassemia Major"
+    },
+    {
+      "country": "China",
+      "intervention": "CS-101",
+      "last_update": "2026-02-12",
+      "nct_id": "NCT06024876",
+      "phase": "EARLY_PHASE1",
+      "primary_outcome_themes": [
+        "adverse events",
+        "engraftment",
+        "transfusion independence"
+      ],
+      "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT06024876&pageSize=1&countTotal=true",
+      "status": "COMPLETED",
+      "title": "A Clinical Study Evaluating the Safety and Efficacy of CS-101 in Treating Subjects With beta-thalassemia"
+    },
+    {
+      "country": "China",
+      "intervention": "CS-101 injection",
+      "last_update": "2026-03-24",
+      "nct_id": "NCT07489196",
+      "phase": "PHASE2",
+      "primary_outcome_themes": [
+        "adverse events",
+        "survival",
+        "12-month transfusion independence"
+      ],
+      "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT07489196&pageSize=1&countTotal=true",
+      "status": "NOT_YET_RECRUITING",
+      "title": "A Phase 2 Safety and Efficacy Study Evaluating CS-101 in Participants With beta-Thalassemia Major"
+    },
+    {
+      "country": "China",
+      "intervention": "VGB-Ex01",
+      "last_update": "2023-10-17",
+      "nct_id": "NCT06041620",
+      "phase": "NA",
+      "primary_outcome_themes": [
+        "adverse events",
+        "neutrophil implantation"
+      ],
+      "query_url": "https://clinicaltrials.gov/api/v2/studies?query.id=NCT06041620&pageSize=1&countTotal=true",
+      "status": "RECRUITING",
+      "title": "Safety and Efficacy Evaluation of Autologous CRISPR-Cas12b Edited Hematopoietic Stem Cells"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "checked_date": "2026-06-09",
+  "workflow_id": "case001_hbg_promoter_editing_benchmark_refresh",
+  "evidence_label": "benchmark refresh and novelty gate, not treatment advice",
+  "current_label": "hbg_promoter_editing_benchmark_refresh_active",
+  "source_checks": [
+    {
+      "source": "PubMed E-utilities",
+      "artifact": "data/literature/pubmed/2026-06-09-hbg-promoter-editing-benchmark-refresh.json"
+    },
+    {
+      "source": "ClinicalTrials.gov API v2",
+      "artifact": "data/registries/clinicaltrials/2026-06-09-hbg-promoter-editing-benchmark-refresh.json"
+    },
+    {
+      "source": "Quran 13:17 local note",
+      "artifact": "research/islamic/quran/013-ar-rad/017.md"
+    }
+  ],
+  "benchmark_set": [
+    {
+      "label": "EDIT-301 / reni-cel Cas12a HBG promoter editing",
+      "source_ids": [
+        "PMID:41931048"
+      ],
+      "role": "global clinical HBG1/HBG2 promoter editing benchmark"
+    },
+    {
+      "label": "CS-101 base-edited autologous CD34+ cells",
+      "source_ids": [
+        "PMID:41951736",
+        "NCT06024876",
+        "NCT06065189",
+        "NCT07489196"
+      ],
+      "role": "China and Asia base-editing benchmark"
+    },
+    {
+      "label": "VGB-Ex01 Cas12b HBG promoter editing",
+      "source_ids": [
+        "NCT06041620"
+      ],
+      "role": "registry comparator for HBG promoter editing and HbF logic"
+    }
+  ],
+  "blocked_claims": [
+    "HbF rescue is novel by itself",
+    "HBG promoter editing is unexplored",
+    "A non-editing candidate is cure-oriented evidence only because it may raise HbF"
+  ],
+  "required_non_editing_gap": [
+    "affordability or lower-infrastructure rationale",
+    "non-editing or simpler validation path",
+    "HbF or HBG plus alpha-globin or autophagy readouts",
+    "erythroid maturation and viability",
+    "mature red-cell hemolysis or membrane-safety stop",
+    "clinician-reviewed relevance before patient-specific claims"
+  ],
+  "decision_rule": "Any candidate that only claims HbF induction or HBG/HbF restoration is novelty-blocked. Keep only candidates that answer the affordability or low-infrastructure gap and can pass multi-endpoint assay gates.",
+  "public_boundary": "This workflow does not provide diagnosis, dosing, eligibility, referral, trial-screening, import, purchase, or treatment advice."
+}

@@ -185,6 +185,10 @@ Current notebooks:
 - `2026-06-08-case001-lab-recipient-qualification-gate.ipynb` -
   de-identified recipient gate that separates preclinical quote recipients
   from clinical therapy or trial centers before any approved packet is routed.
+- `2026-06-09-hbg-promoter-editing-benchmark-refresh.ipynb` -
+  benchmark-refresh gate that classifies HbF-only candidate claims as
+  novelty-blocked unless they add affordability, lower infrastructure, and
+  multi-endpoint assay value beyond current HBG promoter editing evidence.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

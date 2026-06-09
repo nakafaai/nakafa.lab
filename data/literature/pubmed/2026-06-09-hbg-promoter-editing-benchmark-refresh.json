@@ -1,0 +1,36 @@
+{
+  "checked_date": "2026-06-09",
+  "evidence_label": "curated PubMed E-utilities benchmark refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary",
+  "query": "(beta-thalassemia OR thalassemia) AND (HBG1 OR HBG2 OR HBG promoter OR fetal hemoglobin) AND (CRISPR OR Cas12a OR base editing OR gene editing) AND 2026[pdat]",
+  "records": [
+    {
+      "doi": "10.1056/NEJMoa2501277",
+      "journal": "N Engl J Med",
+      "pmid": "41931048",
+      "pubdate": "2026 Apr 2",
+      "role": "global clinical Cas12a HBG1/HBG2 promoter-editing benchmark",
+      "title": "CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat beta-Thalassemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931048/"
+    },
+    {
+      "doi": "10.1038/s41586-026-10342-9",
+      "journal": "Nature",
+      "pmid": "41951736",
+      "pubdate": "2026 May",
+      "role": "CS-101 clinical base-editing benchmark",
+      "title": "Clinical application of base editing for treating beta-thalassaemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41951736/"
+    },
+    {
+      "doi": "10.1007/s12015-026-11132-6",
+      "journal": "Stem Cell Rev Rep",
+      "pmid": "42024260",
+      "pubdate": "2026 Jul",
+      "role": "2026 gene-therapy strategy-review context",
+      "title": "New Gene Therapy Strategy for beta-Thalassemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42024260/"
+    }
+  ],
+  "decision_use": "These records raise the novelty bar for HbF-only or HBG promoter-editing claims. They do not establish patient-specific relevance or access."
+}

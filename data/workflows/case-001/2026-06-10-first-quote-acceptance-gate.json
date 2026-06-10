@@ -1,0 +1,34 @@
+{
+  "checked_date": "2026-06-10",
+  "workflow_id": "case001_first_quote_acceptance_gate",
+  "evidence_label": "lab quote acceptance gate, not treatment advice or contact permission",
+  "current_label": "case001_first_quote_acceptance_gate_ready",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-10-first-quote-acceptance-gate-refresh.json",
+    "research/thalassemia/findings/2026-06-09-hbg-promoter-editing-benchmark-refresh.md",
+    "research/thalassemia/assays/2026-06-02-first-quote-request-table.md",
+    "research/islamic/quran/013-ar-rad/017.md"
+  ],
+  "minimum_acceptance_fields": [
+    "recipient class passes the June 8 qualification gate",
+    "model and disease relevance are stated",
+    "HbF or HBG readout is available",
+    "maturation and viability readouts are available",
+    "alpha-globin burden or autophagy readout is available or explicitly priced as unavailable",
+    "mature red-cell hemolysis or membrane-safety stop is available",
+    "raw data, cost, timeline, ethics, biosafety, and material constraints are stated",
+    "no private records, patient samples, treatment selection, trial screening, purchase, import, or procurement routing"
+  ],
+  "decision_labels": {
+    "pass": "quote_acceptance_ready",
+    "hold": "quote_acceptance_partial_endpoint_hold",
+    "reject": "quote_acceptance_rejected"
+  },
+  "reject_if": [
+    "offer is HbF-only after June 9 benchmark refresh",
+    "offer asks for raw private records or patient samples",
+    "offer shifts into treatment, trial, purchase, import, or procurement advice",
+    "offer cannot state model, controls, raw-data format, cost, timeline, or safety stop"
+  ],
+  "public_boundary": "This gate only classifies preclinical quote offers. It does not authorize outreach or provide patient-specific medical advice."
+}

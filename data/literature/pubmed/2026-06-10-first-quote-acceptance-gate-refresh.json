@@ -1,0 +1,62 @@
+{
+  "checked_date": "2026-06-10",
+  "evidence_label": "curated PubMed E-utilities quote-acceptance refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary",
+  "records": [
+    {
+      "doi": "10.1002/advs.202513469",
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "role": "2026 non-editing HbF pharmacology signal; high-caution assay benchmark only",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating beta-Thalassemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347631/"
+    },
+    {
+      "doi": "10.1186/s10020-026-01421-8",
+      "journal": "Mol Med",
+      "pmid": "41555220",
+      "pubdate": "2026 Jan 20",
+      "role": "beta-thalassemia/HbE erythroid progenitor HbF induction benchmark",
+      "title": "Enhanced induction of fetal hemoglobin by the combination of decitabine with RN-1 in beta-thalassemia/HbE erythroid progenitor cells",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41555220/"
+    },
+    {
+      "doi": "10.1007/s00018-026-06165-6",
+      "journal": "Cell Mol Life Sci",
+      "pmid": "41790270",
+      "pubdate": "2026 Mar 6",
+      "role": "erythropoiesis and gamma-globin mechanism context",
+      "title": "Circ_0001428 regulates erythropoiesis and gamma-globin expression via activating the ATF4-BCL11A axis in beta-thalassemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41790270/"
+    },
+    {
+      "doi": "10.1038/s41598-026-54128-5",
+      "journal": "Sci Rep",
+      "pmid": "42162272",
+      "pubdate": "2026 May 20",
+      "role": "Southeast Asia alpha-thalassemia erythroid model context",
+      "title": "Establishment of an immortalized erythroid model for Hb Bart's hydrops fetalis with homozygous alpha(0)-thalassemia Southeast Asian deletion",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42162272/"
+    },
+    {
+      "doi": "10.1002/ajh.70314",
+      "journal": "Am J Hematol",
+      "pmid": "42020947",
+      "pubdate": "2026 Jul",
+      "role": "plasma heme assay context for hemolysis and severity markers",
+      "title": "A Novel Plasma Heme Assay Reveals Disease Severity in Beta-Thalassemia and Sickle Cell Anemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42020947/"
+    },
+    {
+      "doi": "10.1007/s40291-026-00852-7",
+      "journal": "Mol Diagn Ther",
+      "pmid": "42174368",
+      "pubdate": "2026 May 22",
+      "role": "phenotype-marker context, not first-quote efficacy readout",
+      "title": "Extracellular Vesicles in Beta-Thalassemia: Phenotype-Specific Profiles and Potential Clinical Associations",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42174368/"
+    }
+  ],
+  "decision_use": "Current sources support stricter assay acceptance, not clinical use. HbF-only or high-caution epigenetic signals remain benchmark/probe context unless full safety and multi-endpoint gates are available."
+}

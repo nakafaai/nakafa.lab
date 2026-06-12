@@ -189,6 +189,10 @@ Current notebooks:
   benchmark-refresh gate that classifies HbF-only candidate claims as
   novelty-blocked unless they add affordability, lower infrastructure, and
   multi-endpoint assay value beyond current HBG promoter editing evidence.
+- `2026-06-10-case001-first-quote-acceptance-gate.ipynb` -
+  de-identified quote-acceptance gate that rejects HbF-only offers, holds
+  partial endpoint offers, and passes only complete public-safe preclinical
+  quote offers.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

@@ -971,3 +971,11 @@ scripts/helpers/manifest.py
 scripts/manifests/required_paths.txt
 scripts/selftest_repo_checks.py
 scripts/selftest_transfusion_burden.py
+docs/status/2026-06-10.md
+docs/status/2026-06-11.md
+docs/status/2026-06-12.md
+data/workflows/case-001/2026-06-10-first-quote-acceptance-gate.json
+data/literature/pubmed/2026-06-10-first-quote-acceptance-gate-refresh.json
+data/literature/pubmed/2026-06-12-quote-gate-cohesion-refresh.json
+research/thalassemia/assays/2026-06-10-first-quote-acceptance-gate.md
+research/thalassemia/notebooks/2026-06-10-case001-first-quote-acceptance-gate.ipynb

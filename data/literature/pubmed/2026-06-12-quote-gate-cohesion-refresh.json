@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-06-12",
+  "evidence_label": "compact PubMed quote-gate cohesion refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary plus direct PubMed page checks",
+  "query_focus": "2026 thalassemia HbF/HBG, assay, erythroid, and benchmark context",
+  "records": [
+    {
+      "doi": "10.1056/NEJMoa2501277",
+      "journal": "N Engl J Med",
+      "pmid": "41931048",
+      "pubdate": "2026 Apr 2",
+      "role": "HBG promoter-editing benchmark; supports rejecting HbF-only novelty claims",
+      "title": "CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat beta-Thalassemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931048/"
+    },
+    {
+      "doi": "10.1038/s41586-026-10342-9",
+      "journal": "Nature",
+      "pmid": "41951736",
+      "pubdate": "2026 May",
+      "role": "CS-101 base-editing benchmark; keeps HbF restoration from being treated as novel by itself",
+      "title": "Clinical application of base editing for treating beta-thalassaemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41951736/"
+    },
+    {
+      "doi": "10.1182/blood.2025031153",
+      "journal": "Blood",
+      "pmid": "41587075",
+      "pubdate": "2026 Mar 26",
+      "role": "HBG promoter methylation biology; strengthens HbF mechanism context but not quote sufficiency",
+      "title": "DNA methylation matters: methylation of the gamma-globin (HBG) gene promoters is required for postnatal silencing of HbF",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41587075/"
+    },
+    {
+      "doi": "10.1002/advs.202513469",
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "role": "non-editing HbF pharmacology signal; high-caution assay benchmark only",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating beta-Thalassemia",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347631/"
+    },
+    {
+      "doi": "10.1182/blood.2025028895",
+      "journal": "Blood",
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "gamma-globin regulation context; reinforces mechanism diversity behind HbF signals",
+      "title": "p27Kip1 regulates gamma-globin production",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "doi": "10.1186/s12863-026-01436-4",
+      "journal": "BMC Genom Data",
+      "pmid": "42237232",
+      "pubdate": "2026 Jun 3",
+      "role": "newer HbF-modifier genetics context; background only for quote acceptance",
+      "title": "Genetic polymorphism of SNPs rs9399137 and rs4895441in HBS1L-MYB and SNP rs766432 in BCL11A among beta-thalassemia Egyptian patients",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42237232/"
+    }
+  ],
+  "decision_use": "The June 12 check found no reason to loosen the June 10 quote gate. HbF or HBG remains necessary but insufficient without maturation, viability, alpha-globin or autophagy, hemolysis or membrane-safety, raw-data, cost, timeline, ethics, biosafety, and material constraints."
+}

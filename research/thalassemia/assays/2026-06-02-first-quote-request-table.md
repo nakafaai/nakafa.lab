@@ -20,6 +20,10 @@ Current operational label:
 Use the [lab outreach approval gate](2026-06-07-lab-outreach-approval-gate.md)
 before sending or adapting this table for any external contact.
 
+Use the [first quote acceptance gate](2026-06-10-first-quote-acceptance-gate.md)
+before treating any lab reply as usable. HbF-only or `HBG`-only offers are not
+enough after the June 9 benchmark refresh.
+
 ## Quote Request Table
 
 | Item | Quote role | Material ask | Readout ask | Stop condition | Boundary |

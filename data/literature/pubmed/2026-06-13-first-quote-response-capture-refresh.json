@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-06-13",
+  "evidence_label": "compact PubMed response-capture refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary",
+  "query": "(thalassemia) AND (HBG1 OR HBG2 OR fetal hemoglobin OR BCL11A OR HBS1L-MYB OR DNMT1 OR erythroid) AND 2026[pdat]",
+  "records": [
+    {
+      "doi": "10.1016/j.tcb.2025.10.001",
+      "journal": "Trends Cell Biol",
+      "pmid": "41184165",
+      "pubdate": "2026 Jun",
+      "role": "erythroid metabolism context; supports keeping model and endpoint detail explicit in lab replies",
+      "title": "Understanding and targeting erythroid cell metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41184165/"
+    },
+    {
+      "doi": "10.1056/NEJMoa2501277",
+      "journal": "N Engl J Med",
+      "pmid": "41931048",
+      "pubdate": "2026 Apr 2",
+      "role": "HBG promoter-editing benchmark; supports keeping HbF-only quote replies insufficient",
+      "title": "CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat beta-Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931048/"
+    },
+    {
+      "doi": "10.1002/advs.202513469",
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "role": "non-editing HbF pharmacology signal; high-caution benchmark context only",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating beta-Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347631/"
+    },
+    {
+      "doi": "10.1182/blood.2025028895",
+      "journal": "Blood",
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "gamma-globin regulation context; reinforces that HbF signals need mechanism and safety context",
+      "title": "p27Kip1 regulates gamma-globin production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "doi": "10.1038/s41551-025-01480-y",
+      "journal": "Nat Biomed Eng",
+      "pmid": "40796944",
+      "pubdate": "2026 Mar",
+      "role": "genome-editing delivery benchmark; not a first-quote action route",
+      "title": "In vivo genome editing of human haematopoietic stem cells for treatment of blood disorders using mRNA delivery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40796944/"
+    },
+    {
+      "doi": "10.1007/s12033-025-01368-x",
+      "journal": "Mol Biotechnol",
+      "pmid": "39794549",
+      "pubdate": "2026 Jan",
+      "role": "clinical-trial editing review context; benchmark only, not lab-quote routing",
+      "title": "CRISPR/Cas9 System as a Promising Therapy in Thalassemia and Sickle Cell Disease: A Systematic Review of Clinical Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39794549/"
+    }
+  ],
+  "decision_use": "The June 13 check supports strict response capture: a lab reply must be reduced to public-safe model, endpoint, missing-field, boundary, cost/timeline, and next-state labels before any repo update. The source refresh does not authorize lab outreach or clinical action."
+}

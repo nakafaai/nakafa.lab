@@ -54,6 +54,10 @@ gate and June 8 recipient gate. Do not send raw records, patient samples,
 doctor messages, treatment-selection requests, trial-screening requests,
 purchase requests, import requests, or procurement requests.
 
+If a lab reply arrives, use the
+[first quote response-capture gate](2026-06-13-first-quote-response-capture-gate.md)
+before applying this acceptance gate to public repo updates.
+
 ## Islamic Motivation Boundary
 
 Quran 13:17 supports discarding weak signals. Here that means rejecting HbF-only

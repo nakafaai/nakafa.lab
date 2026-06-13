@@ -1,0 +1,47 @@
+{
+  "checked_date": "2026-06-13",
+  "workflow_id": "case001_first_quote_response_capture_gate",
+  "evidence_label": "lab quote response-capture gate, not treatment advice or contact permission",
+  "current_label": "case001_first_quote_response_capture_gate_ready",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-13-first-quote-response-capture-refresh.json",
+    "research/thalassemia/assays/2026-06-10-first-quote-acceptance-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md"
+  ],
+  "private_only_inputs": [
+    "raw lab reply",
+    "attachments",
+    "sender and contact details",
+    "exact private dates",
+    "pricing documents unless explicitly public",
+    "patient-specific comments"
+  ],
+  "public_capture_fields": [
+    "response alias",
+    "recipient class label",
+    "model label",
+    "endpoint labels",
+    "missing endpoint labels",
+    "blocked route labels",
+    "cost/timeline present-or-missing labels",
+    "ethics/biosafety/material-constraint labels",
+    "next state"
+  ],
+  "output_labels": {
+    "pending": "quote_response_pending",
+    "pass": "quote_response_acceptance_ready",
+    "hold": "quote_response_partial_endpoint_hold",
+    "reject": "quote_response_rejected",
+    "release_blocked": "quote_response_release_blocked",
+    "follow_up": "quote_response_follow_up_needed"
+  },
+  "release_block_if": [
+    "raw reply text is included",
+    "private contact details are included",
+    "patient identifiers or raw records are included",
+    "patient samples are requested",
+    "treatment, trial, purchase, import, or procurement advice appears",
+    "free-text claims cannot be reduced to allowed labels"
+  ],
+  "decision_rule": "A future lab reply may enter the public repo only as labels. Run the June 10 acceptance gate after response capture; do not paste raw replies or private details."
+}

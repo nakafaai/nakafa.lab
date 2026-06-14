@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-06-14",
+  "evidence_label": "compact PubMed erythroid-metabolism endpoint refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary plus direct PubMed page checks",
+  "query": "(thalassemia OR beta-thalassemia) AND (erythroid metabolism OR ATP OR glycolysis OR pyruvate kinase OR mitapivat OR AMPK OR oxidative stress OR autophagy) AND 2026[pdat]",
+  "records": [
+    {
+      "doi": "10.1080/03630269.2026.2682386",
+      "journal": "Hemoglobin",
+      "pmid": "42261266",
+      "pubdate": "2026 Jun 9",
+      "role": "current pyruvate-kinase activation benchmark; supports metabolism as context, not first-quote replacement",
+      "title": "Pyruvate Kinase Activation in the Management of Thalassemia and Sickle Cell Disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42261266/"
+    },
+    {
+      "doi": "10.1016/j.tcb.2025.10.001",
+      "journal": "Trends Cell Biol",
+      "pmid": "41184165",
+      "pubdate": "2026 Jun",
+      "role": "erythroid metabolism review; supports optional ATP/glycolysis context when model and endpoint labels are explicit",
+      "title": "Understanding and targeting erythroid cell metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41184165/"
+    },
+    {
+      "doi": "10.1016/S0140-6736(26)00150-9",
+      "journal": "Lancet",
+      "pmid": "41833294",
+      "pubdate": "2026 Apr 4",
+      "role": "pyruvate-kinase activator clinical-potential context; benchmark only",
+      "title": "Pyruvate kinase activators in hereditary haemolytic anaemias: current evidence and clinical potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41833294/"
+    },
+    {
+      "doi": "10.1182/blood.2025028895",
+      "journal": "Blood",
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "gamma-globin regulation context; metabolism add-ons must not displace HbF/HBG readouts",
+      "title": "p27Kip1 regulates gamma-globin production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "doi": "10.1002/advs.202513469",
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "role": "non-editing HbF pharmacology benchmark; high-caution source only",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating beta-Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347631/"
+    },
+    {
+      "doi": "10.1182/bloodadvances.2025017090",
+      "journal": "Blood Adv",
+      "pmid": "41115240",
+      "pubdate": "2026 Jan 13",
+      "role": "transfusion-efficiency context; clinical benchmark, not preclinical quote endpoint",
+      "title": "Short- and long-term effects of transfusion in beta-thalassemia: a longitudinal study of transfusion efficiency factors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41115240/"
+    }
+  ],
+  "decision_use": "Metabolism readouts may be useful optional add-ons for red-cell survival and mechanism context, but they must not replace the core quote endpoints: HbF/HBG, maturation, viability, alpha-globin/autophagy, hemolysis or membrane safety, raw data, cost, timeline, ethics, biosafety, and material constraints."
+}

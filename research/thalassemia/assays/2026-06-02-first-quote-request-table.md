@@ -24,6 +24,10 @@ Use the [first quote acceptance gate](2026-06-10-first-quote-acceptance-gate.md)
 before treating any lab reply as usable. HbF-only or `HBG`-only offers are not
 enough after the June 9 benchmark refresh.
 
+Use the [erythroid metabolism endpoint addendum](2026-06-14-erythroid-metabolism-endpoint-addendum.md)
+only for cheap optional add-ons. Metabolism readouts must not replace core quote
+endpoints.
+
 ## Quote Request Table
 
 | Item | Quote role | Material ask | Readout ask | Stop condition | Boundary |

@@ -196,6 +196,9 @@ Current notebooks:
 - `2026-06-13-case001-first-quote-response-capture-gate.ipynb` -
   de-identified response-capture gate that blocks raw private lab replies and
   classifies public-safe reply labels before quote acceptance.
+- `2026-06-14-case001-erythroid-metabolism-endpoint-addendum.ipynb` -
+  endpoint addendum gate that keeps ATP/glycolysis and related metabolism
+  readouts optional, additive, and blocked from treatment or procurement scope.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

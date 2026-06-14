@@ -1,0 +1,37 @@
+{
+  "checked_date": "2026-06-14",
+  "workflow_id": "case001_erythroid_metabolism_endpoint_addendum",
+  "evidence_label": "optional metabolism endpoint addendum, not treatment advice",
+  "current_label": "case001_metabolism_endpoint_optional_addendum_ready",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-14-erythroid-metabolism-endpoint-refresh.json",
+    "research/thalassemia/findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md",
+    "research/thalassemia/findings/2026-04-27-ampkb1-autophagy-hbf-bridge.md",
+    "research/islamic/quran/055-ar-rahman/007-009.md"
+  ],
+  "core_gate_must_remain_first": [
+    "HbF or HBG",
+    "erythroid maturation",
+    "viability or apoptosis",
+    "alpha-globin burden or autophagy",
+    "hemolysis or membrane safety"
+  ],
+  "optional_metabolism_addons": [
+    "ATP or glycolysis-linked readout",
+    "oxidative-stress marker",
+    "pyruvate-kinase or red-cell metabolism context",
+    "low marginal cost and raw-data label"
+  ],
+  "reject_if": [
+    "metabolism endpoint replaces a core endpoint",
+    "reply becomes mitapivat, dosing, trial, purchase, import, or procurement advice",
+    "endpoint cannot be reported as public-safe labels",
+    "cost or timeline impact is unclear"
+  ],
+  "decision_labels": {
+    "optional": "metabolism_addon_optional",
+    "hold": "metabolism_addon_hold",
+    "reject": "metabolism_addon_reject",
+    "core_first": "core_gate_first"
+  }
+}

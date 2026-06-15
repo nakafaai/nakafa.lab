@@ -17,6 +17,8 @@ biosafety review, and clinician oversight are already in place.
 
 Use the June 7 lab outreach approval gate and the June 8 lab recipient
 qualification gate before adapting or sending this template.
+Use the June 15 outbound packet gate before assembling this template for
+founder review.
 
 The first quote panel is:
 

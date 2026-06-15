@@ -989,3 +989,8 @@ data/workflows/case-001/2026-06-14-erythroid-metabolism-endpoint-addendum.json
 data/literature/pubmed/2026-06-14-erythroid-metabolism-endpoint-refresh.json
 research/thalassemia/assays/2026-06-14-erythroid-metabolism-endpoint-addendum.md
 research/thalassemia/notebooks/2026-06-14-case001-erythroid-metabolism-endpoint-addendum.ipynb
+docs/status/2026-06-15.md
+data/workflows/case-001/2026-06-15-first-quote-outbound-packet-gate.json
+data/literature/pubmed/2026-06-15-first-quote-outbound-packet-refresh.json
+research/thalassemia/assays/2026-06-15-first-quote-outbound-packet-gate.md
+research/thalassemia/notebooks/2026-06-15-case001-first-quote-outbound-packet-gate.ipynb

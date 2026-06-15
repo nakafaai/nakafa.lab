@@ -1,0 +1,40 @@
+{
+  "checked_date": "2026-06-15",
+  "workflow_id": "case001_first_quote_outbound_packet_gate",
+  "evidence_label": "outbound packet assembly gate, not contact permission or treatment advice",
+  "current_label": "case001_first_quote_outbound_packet_gate_ready_for_founder_review",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-15-first-quote-outbound-packet-refresh.json",
+    "templates/lab-quote-request-template.md",
+    "research/thalassemia/assays/2026-06-02-first-quote-request-table.md",
+    "research/thalassemia/assays/2026-06-07-lab-outreach-approval-gate.md",
+    "research/thalassemia/assays/2026-06-08-lab-recipient-qualification-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md"
+  ],
+  "required_components": [
+    "founder approval state",
+    "recipient qualification label",
+    "public-safe cover note",
+    "June 2 quote table",
+    "held-addenda statement",
+    "capability questions",
+    "public source links",
+    "blocked-content statement",
+    "response-capture path"
+  ],
+  "decision_labels": {
+    "founder_review": "packet_ready_for_founder_review",
+    "send_blocked": "packet_send_blocked_no_approval",
+    "hold": "packet_hold_missing_component",
+    "reject": "packet_reject_private_or_clinical_scope"
+  },
+  "release_block_if": [
+    "raw records or patient identifiers are included",
+    "patient samples are requested",
+    "doctor messages or owner replies are included",
+    "treatment, dosing, trial, travel, purchase, import, or procurement language appears",
+    "recipient qualification is missing",
+    "response-capture path is missing"
+  ],
+  "decision_rule": "A packet can be assembled for founder review without authorizing contact. It cannot be sent until explicit founder approval and recipient qualification are recorded."
+}

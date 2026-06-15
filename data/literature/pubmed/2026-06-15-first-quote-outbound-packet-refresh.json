@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-06-15",
+  "evidence_label": "compact PubMed outbound-packet refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary",
+  "query": "(thalassemia OR beta-thalassemia) AND (HUDEP2 OR CD34 OR erythroid OR HBG OR HbF OR hemolysis OR autophagy) AND 2026[pdat]",
+  "records": [
+    {
+      "doi": "10.1182/blood.2025028895",
+      "journal": "Blood",
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "gamma-globin regulation context; keeps HBG/HbF readouts explicit in any packet",
+      "title": "p27Kip1 regulates gamma-globin production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "doi": "10.1038/s41551-025-01480-y",
+      "journal": "Nat Biomed Eng",
+      "pmid": "40796944",
+      "pubdate": "2026 Mar",
+      "role": "editing delivery benchmark; not a preclinical quote action route",
+      "title": "In vivo genome editing of human haematopoietic stem cells for treatment of blood disorders using mRNA delivery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40796944/"
+    },
+    {
+      "doi": "10.1016/j.tcb.2025.10.001",
+      "journal": "Trends Cell Biol",
+      "pmid": "41184165",
+      "pubdate": "2026 Jun",
+      "role": "erythroid metabolism context; optional endpoint addendum only",
+      "title": "Understanding and targeting erythroid cell metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41184165/"
+    },
+    {
+      "doi": "10.1002/advs.202513469",
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "role": "non-editing HbF pharmacology benchmark; high-caution source only",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating beta-Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347631/"
+    },
+    {
+      "doi": "10.1007/s12015-026-11132-6",
+      "journal": "Stem Cell Rev Rep",
+      "pmid": "42024260",
+      "pubdate": "2026 Jul",
+      "role": "gene-therapy strategy benchmark; not first-quote routing",
+      "title": "New Gene Therapy Strategy for beta-Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42024260/"
+    },
+    {
+      "doi": "10.2174/0118715230416604251029062751",
+      "journal": "Antiinflamm Antiallergy Agents Med Chem",
+      "pmid": "41487000",
+      "pubdate": "2026 Jan 2",
+      "role": "ligand-trap clinical context; not first-quote routing",
+      "title": "Clinical Applications of Ligand Traps Targeting Activin Type II Receptors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41487000/"
+    }
+  ],
+  "decision_use": "No source found on June 15 changes the first quote packet. The outbound packet should remain public-safe, preclinical, approval-gated, and limited to model, endpoint, controls, raw-data, cost, timeline, ethics, biosafety, and material-constraint questions."
+}

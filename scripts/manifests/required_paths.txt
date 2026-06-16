@@ -994,3 +994,9 @@ data/workflows/case-001/2026-06-15-first-quote-outbound-packet-gate.json
 data/literature/pubmed/2026-06-15-first-quote-outbound-packet-refresh.json
 research/thalassemia/assays/2026-06-15-first-quote-outbound-packet-gate.md
 research/thalassemia/notebooks/2026-06-15-case001-first-quote-outbound-packet-gate.ipynb
+docs/status/2026-06-16.md
+data/workflows/case-001/2026-06-16-founder-approval-record-gate.json
+data/literature/pubmed/2026-06-16-founder-approval-record-refresh.json
+research/thalassemia/assays/2026-06-16-founder-approval-record-gate.md
+research/thalassemia/notebooks/2026-06-16-case001-founder-approval-record-gate.ipynb
+templates/lab-outreach-approval-record-template.md

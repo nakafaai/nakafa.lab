@@ -1,0 +1,64 @@
+{
+  "checked_date": "2026-06-16",
+  "evidence_label": "current literature refresh for approval-record gate, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary plus one direct publisher page check",
+  "pubmed_query": "(thalassemia OR beta-thalassemia) AND (HBG OR HbF OR erythroid OR hemolysis OR autophagy OR pyruvate kinase OR metabolism) AND 2026[pdat]",
+  "pubmed_records": [
+    {
+      "doi": "10.1080/03630269.2026.2682386",
+      "journal": "Hemoglobin",
+      "pmid": "42261266",
+      "pubdate": "2026 Jun 9",
+      "role": "current pyruvate-kinase activation review; supports metabolism as optional context, not an approval or outreach route",
+      "title": "Pyruvate Kinase Activation in the Management of Thalassemia and Sickle Cell Disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42261266/"
+    },
+    {
+      "doi": "10.1182/blood.2025028895",
+      "journal": "Blood",
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "gamma-globin regulation context; keeps HBG and HbF endpoints explicit",
+      "title": "p27Kip1 regulates gamma-globin production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "doi": "10.1016/j.tcb.2025.10.001",
+      "journal": "Trends Cell Biol",
+      "pmid": "41184165",
+      "pubdate": "2026 Jun",
+      "role": "erythroid metabolism review; supports ATP and glycolysis as optional endpoint addenda only",
+      "title": "Understanding and targeting erythroid cell metabolism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41184165/"
+    },
+    {
+      "doi": "10.1038/s41551-025-01480-y",
+      "journal": "Nat Biomed Eng",
+      "pmid": "40796944",
+      "pubdate": "2026 Mar",
+      "role": "in vivo HBG promoter editing benchmark; not a first-quote action route",
+      "title": "In vivo genome editing of human haematopoietic stem cells for treatment of blood disorders using mRNA delivery.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40796944/"
+    },
+    {
+      "doi": "10.1002/advs.202513469",
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "role": "non-editing HbF pharmacology benchmark; high-caution source only",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating beta-Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41347631/"
+    }
+  ],
+  "direct_publisher_checks": [
+    {
+      "doi": "10.3389/fphar.2026.1719328",
+      "journal": "Frontiers in Pharmacology",
+      "pubdate": "2026 Apr 23",
+      "role": "Guangxi ex vivo pyruvate-kinase activator source; supports optional metabolism-readout watch, not treatment or procurement scope",
+      "title": "SNH-119014, a novel pyruvate kinase activator, enhances ATP production and reduces oxidative stress in erythroid cells from patients with beta-thalassemia major",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1719328/full"
+    }
+  ],
+  "decision_use": "The June 16 source check does not change the first quote or approval boundary. It strengthens the need to keep metabolism sources labelable and optional, while keeping founder approval, recipient qualification, privacy, and response capture as separate operational blockers."
+}

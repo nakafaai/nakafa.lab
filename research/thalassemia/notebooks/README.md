@@ -202,6 +202,10 @@ Current notebooks:
 - `2026-06-15-case001-first-quote-outbound-packet-gate.ipynb` -
   outbound packet gate that separates founder-review readiness from send
   permission and blocks private or clinical scope.
+- `2026-06-16-case001-founder-approval-record-gate.ipynb` -
+  approval-record gate that reduces founder approval state to public-safe labels
+  while keeping contact blocked until recipient qualification and packet checks
+  also pass.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

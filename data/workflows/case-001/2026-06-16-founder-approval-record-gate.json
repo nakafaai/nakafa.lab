@@ -1,0 +1,56 @@
+{
+  "checked_date": "2026-06-16",
+  "workflow_id": "case001_founder_approval_record_gate",
+  "evidence_label": "founder approval record gate, not contact permission or treatment advice",
+  "current_label": "case001_founder_approval_record_gate_ready",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-16-founder-approval-record-refresh.json",
+    "research/thalassemia/assays/2026-06-15-first-quote-outbound-packet-gate.md",
+    "research/thalassemia/assays/2026-06-07-lab-outreach-approval-gate.md",
+    "research/thalassemia/assays/2026-06-08-lab-recipient-qualification-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/005-al-maidah/002.md"
+  ],
+  "allowed_public_labels": [
+    "approval_not_recorded",
+    "approval_denied",
+    "founder_review_only",
+    "approval_scope_public_safe_quote_only",
+    "approval_expired_or_superseded",
+    "approval_release_blocked"
+  ],
+  "private_only_fields": [
+    "raw approval message",
+    "founder name or contact detail",
+    "sender name or contact detail",
+    "recipient name or contact detail",
+    "exact private send date",
+    "legal notes",
+    "private doctor or lab reply text"
+  ],
+  "required_for_scoped_public_label": [
+    "approval was recorded outside the public repo",
+    "founder identity stays private",
+    "packet version is labeled",
+    "scope is limited to public-safe preclinical quote content",
+    "recipient qualification remains required",
+    "response capture remains required",
+    "blocked content was acknowledged"
+  ],
+  "release_block_if": [
+    "raw message or private contact details appear in public files",
+    "patient records or patient samples are included",
+    "treatment, dosing, trial-screening, purchase, import, or procurement scope appears",
+    "approval scope is ambiguous",
+    "recipient qualification is skipped",
+    "outbound packet gate is skipped"
+  ],
+  "send_can_proceed_only_if": [
+    "approval label is approval_scope_public_safe_quote_only",
+    "recipient has passed the June 8 qualification gate",
+    "outbound packet passed the June 15 gate",
+    "sender and recipient details are stored outside the public repo",
+    "future replies use the June 13 response-capture gate"
+  ],
+  "decision_rule": "The public repo records approval state as labels only. A scoped approval label permits only a later private workflow check; it does not select a recipient, send a message, request samples, or authorize clinical action."
+}

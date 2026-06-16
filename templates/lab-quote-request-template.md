@@ -19,6 +19,8 @@ Use the June 7 lab outreach approval gate and the June 8 lab recipient
 qualification gate before adapting or sending this template.
 Use the June 15 outbound packet gate before assembling this template for
 founder review.
+Use the June 16 approval-record gate before treating any private approval as a
+public-safe workflow label.
 
 The first quote panel is:
 

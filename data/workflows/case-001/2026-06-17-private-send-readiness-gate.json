@@ -1,0 +1,41 @@
+{
+  "checked_date": "2026-06-17",
+  "workflow_id": "case001_private_send_readiness_gate",
+  "evidence_label": "private-send readiness gate, not contact permission or treatment advice",
+  "current_label": "case001_private_send_readiness_hold_missing_approval_or_recipient",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-17-private-send-readiness-refresh.json",
+    "data/workflows/case-001/2026-06-16-founder-approval-record-gate.json",
+    "data/workflows/case-001/2026-06-15-first-quote-outbound-packet-gate.json",
+    "data/workflows/case-001/2026-06-13-first-quote-response-capture-gate.json",
+    "data/workflows/case-001/2026-06-08-lab-recipient-qualification-gate.json",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/005-al-maidah/002.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "required_before_private_execution_check": [
+    "approval label is approval_scope_public_safe_quote_only",
+    "recipient class passed the June 8 qualification gate",
+    "outbound packet passed the June 15 packet gate",
+    "sender and recipient details stay outside the public repo",
+    "response capture is ready before any reply is received",
+    "no clinical, sample, trial, purchase, import, or procurement scope is present"
+  ],
+  "decision_labels": {
+    "ready": "private_send_ready_for_private_execution_check",
+    "hold_no_approval": "private_send_hold_missing_scoped_approval",
+    "hold_no_recipient": "private_send_hold_missing_recipient_qualification",
+    "hold_no_packet": "private_send_hold_missing_packet_pass",
+    "hold_no_response_capture": "private_send_hold_missing_response_capture",
+    "reject": "private_send_reject_public_or_clinical_scope"
+  },
+  "release_block_if": [
+    "raw approval message appears in public files",
+    "sender or recipient identity appears in public files",
+    "patient records or patient samples appear",
+    "treatment, dosing, trial-screening, purchase, import, or procurement scope appears",
+    "response-capture path is missing before send",
+    "recipient qualification is skipped or ambiguous"
+  ],
+  "decision_rule": "The public repo can declare readiness labels only. Even a ready label means only that a private execution check may be considered; it does not contact anyone or authorize clinical action."
+}

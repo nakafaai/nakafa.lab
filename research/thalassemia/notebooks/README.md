@@ -206,6 +206,10 @@ Current notebooks:
   approval-record gate that reduces founder approval state to public-safe labels
   while keeping contact blocked until recipient qualification and packet checks
   also pass.
+- `2026-06-17-case001-private-send-readiness-gate.ipynb` -
+  whole-workflow gate that keeps private send readiness on hold until approval,
+  recipient qualification, packet pass, response capture, and private handling
+  all pass together.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

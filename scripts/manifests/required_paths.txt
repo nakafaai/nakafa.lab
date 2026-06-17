@@ -1000,3 +1000,8 @@ data/literature/pubmed/2026-06-16-founder-approval-record-refresh.json
 research/thalassemia/assays/2026-06-16-founder-approval-record-gate.md
 research/thalassemia/notebooks/2026-06-16-case001-founder-approval-record-gate.ipynb
 templates/lab-outreach-approval-record-template.md
+docs/status/2026-06-17.md
+data/workflows/case-001/2026-06-17-private-send-readiness-gate.json
+data/literature/pubmed/2026-06-17-private-send-readiness-refresh.json
+research/thalassemia/assays/2026-06-17-private-send-readiness-gate.md
+research/thalassemia/notebooks/2026-06-17-case001-private-send-readiness-gate.ipynb

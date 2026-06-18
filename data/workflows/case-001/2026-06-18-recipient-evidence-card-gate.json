@@ -1,0 +1,39 @@
+{
+  "checked_date": "2026-06-18",
+  "workflow_id": "case001_recipient_evidence_card_gate",
+  "evidence_label": "recipient evidence card gate, not contact permission or treatment advice",
+  "current_label": "case001_recipient_evidence_card_template_ready_no_recipient_selected",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-18-recipient-evidence-card-refresh.json",
+    "data/workflows/case-001/2026-06-08-lab-recipient-qualification-gate.json",
+    "data/workflows/case-001/2026-06-17-private-send-readiness-gate.json",
+    "templates/lab-recipient-evidence-card-template.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "required_public_fields": [
+    "recipient alias, not real name",
+    "recipient class label",
+    "public source URLs",
+    "model capability label",
+    "HbF or HBG capability label",
+    "maturation and viability capability label",
+    "hemolysis or heme-safety capability label",
+    "raw-data export label",
+    "cost, timeline, ethics, biosafety, and material-constraint labels"
+  ],
+  "decision_labels": {
+    "ready": "recipient_evidence_card_preclinical_quote_candidate",
+    "hold": "recipient_evidence_card_hold_missing_capability",
+    "wrong_owner": "recipient_evidence_card_wrong_owner_hold",
+    "release_blocked": "recipient_evidence_card_release_blocked"
+  },
+  "release_block_if": [
+    "real recipient name or contact detail appears",
+    "raw private reply appears",
+    "patient records or patient samples appear",
+    "treatment, trial-screening, purchase, import, or procurement scope appears",
+    "public source URLs are missing"
+  ],
+  "decision_rule": "A public recipient evidence card can classify a future recipient alias by capability, but it cannot select, name, contact, endorse, or clinically route any organization."
+}

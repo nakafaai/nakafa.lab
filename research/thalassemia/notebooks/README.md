@@ -210,6 +210,9 @@ Current notebooks:
   whole-workflow gate that keeps private send readiness on hold until approval,
   recipient qualification, packet pass, response capture, and private handling
   all pass together.
+- `2026-06-18-case001-recipient-evidence-card-gate.ipynb` -
+  recipient evidence-card gate that classifies future lab or CRO candidates by
+  public capabilities without naming, contacting, or endorsing any organization.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

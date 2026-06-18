@@ -1,0 +1,64 @@
+{
+  "checked_date": "2026-06-18",
+  "evidence_label": "assay-source refresh for recipient evidence card gate, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary plus current web search",
+  "current_query": "(thalassemia OR beta-thalassemia) AND (HUDEP2 OR CD34 OR erythroid OR HbF OR HBG OR hemolysis OR heme assay OR reporter)",
+  "targeted_query": "23861885[uid] OR 39108322[uid] OR 39504332[uid] OR 36769243[uid] OR 15163316[uid] OR 42020947[uid]",
+  "records": [
+    {
+      "doi": "10.1002/hem3.139",
+      "journal": "Hemasphere",
+      "pmid": "39108322",
+      "pubdate": "2024 Aug",
+      "role": "HUDEP2-linked endogenous HbF reporter context; supports asking whether a recipient can measure HbF or HBG without patient data",
+      "title": "A cellular reporter system to evaluate endogenous fetal hemoglobin induction and screen for therapeutic compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39108322/"
+    },
+    {
+      "doi": "10.1371/journal.pone.0307049",
+      "journal": "PLoS One",
+      "pmid": "39504332",
+      "pubdate": "2024",
+      "role": "small-molecule HbF screening context; supports model, control, and raw-data capability questions",
+      "title": "Identification of small molecule agonists of fetal hemoglobin expression for the treatment of sickle cell disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39504332/"
+    },
+    {
+      "doi": "10.1371/journal.pone.0068307",
+      "journal": "PLoS One",
+      "pmid": "23861885",
+      "pubdate": "2013",
+      "role": "CD34+ synthetic beta-thalassemia erythropoiesis model; supports recipient model-evidence requirements",
+      "title": "A synthetic model of human beta-thalassemia erythropoiesis using CD34+ cells from healthy adult donors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23861885/"
+    },
+    {
+      "doi": "10.1111/j.1365-2257.2004.00606.x",
+      "journal": "Clin Lab Haematol",
+      "pmid": "15163316",
+      "pubdate": "2004 Jun",
+      "role": "flow cytometry HbF context; supports explicit HbF or F-cell measurement capability",
+      "title": "Flow cytometric analysis of fetal hemoglobin in erythroid precursors of beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15163316/"
+    },
+    {
+      "doi": "10.3390/ijms24032914",
+      "journal": "Int J Mol Sci",
+      "pmid": "36769243",
+      "pubdate": "2023 Feb 2",
+      "role": "hemolysis cytotoxicity assay context; supports red-cell safety capability questions",
+      "title": "Optimization of the Hemolysis Assay for the Assessment of Cytotoxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36769243/"
+    },
+    {
+      "doi": "10.1002/ajh.70314",
+      "journal": "Am J Hematol",
+      "pmid": "42020947",
+      "pubdate": "2026 Jul",
+      "role": "current PubMed heme-assay record; optional hemolysis/severity context only",
+      "title": "A Novel Plasma Heme Assay Reveals Disease Severity in Beta-Thalassemia and Sickle Cell Anemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42020947/"
+    }
+  ],
+  "decision_use": "A recipient evidence card should require public source URLs, model capability, HbF or HBG measurement, maturation or viability, hemolysis or heme safety, raw-data export, cost and timeline labels, and ethics or biosafety constraints. No real recipient is selected or contacted."
+}

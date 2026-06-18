@@ -1005,3 +1005,9 @@ data/workflows/case-001/2026-06-17-private-send-readiness-gate.json
 data/literature/pubmed/2026-06-17-private-send-readiness-refresh.json
 research/thalassemia/assays/2026-06-17-private-send-readiness-gate.md
 research/thalassemia/notebooks/2026-06-17-case001-private-send-readiness-gate.ipynb
+docs/status/2026-06-18.md
+data/workflows/case-001/2026-06-18-recipient-evidence-card-gate.json
+data/literature/pubmed/2026-06-18-recipient-evidence-card-refresh.json
+research/thalassemia/assays/2026-06-18-recipient-evidence-card-gate.md
+research/thalassemia/notebooks/2026-06-18-case001-recipient-evidence-card-gate.ipynb
+templates/lab-recipient-evidence-card-template.md

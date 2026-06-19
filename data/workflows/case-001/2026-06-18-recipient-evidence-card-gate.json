@@ -3,6 +3,7 @@
   "workflow_id": "case001_recipient_evidence_card_gate",
   "evidence_label": "recipient evidence card gate, not contact permission or treatment advice",
   "current_label": "case001_recipient_evidence_card_template_ready_no_recipient_selected",
+  "refined_by": "data/workflows/case-001/2026-06-19-recipient-source-privacy-gate.json",
   "source_artifacts": [
     "data/literature/pubmed/2026-06-18-recipient-evidence-card-refresh.json",
     "data/workflows/case-001/2026-06-08-lab-recipient-qualification-gate.json",
@@ -14,7 +15,7 @@
   "required_public_fields": [
     "recipient alias, not real name",
     "recipient class label",
-    "public source URLs",
+    "source evidence reference, with raw candidate URLs kept private after the June 19 refinement",
     "model capability label",
     "HbF or HBG capability label",
     "maturation and viability capability label",
@@ -33,7 +34,7 @@
     "raw private reply appears",
     "patient records or patient samples appear",
     "treatment, trial-screening, purchase, import, or procurement scope appears",
-    "public source URLs are missing"
+    "source bundle reference or allowed non-identifying public source evidence is missing"
   ],
   "decision_rule": "A public recipient evidence card can classify a future recipient alias by capability, but it cannot select, name, contact, endorse, or clinically route any organization."
 }

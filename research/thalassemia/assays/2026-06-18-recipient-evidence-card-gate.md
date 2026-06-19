@@ -17,11 +17,15 @@ Current operational label:
 
 ## Required Public Fields
 
+June 19 refinement: for a real future recipient candidate, raw source URLs that
+identify the organization belong in a private source index. The public card
+should use a `source_bundle_ref` plus capability labels.
+
 | Field | Requirement |
 | --- | --- |
 | Recipient alias | De-identified candidate label only. |
 | Recipient class | Preclinical quote, erythroid/HbF, disease-model, or red-cell safety class. |
-| Public sources | URLs only; no private messages. |
+| Public sources | Source-bundle refs or non-identifying generic sources; no raw candidate URLs or private messages. |
 | Model capability | HUDEP2-like, CD34 erythroid, disease model, mature red-cell only, or unclear. |
 | Core endpoints | HbF or HBG, maturation, viability, and hemolysis or heme safety. |
 | Execution metadata | Raw data, controls, replicate plan, cost, timeline, ethics, biosafety, and material constraints. |

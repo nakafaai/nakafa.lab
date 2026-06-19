@@ -13,7 +13,9 @@ in the public repository.
 | --- | --- |
 | Recipient alias | `recipient-candidate-001` or similar |
 | Recipient class | `quote_admin_or_cro_feasibility`, `erythroid_hbf_screening_lab`, `primary_erythroid_or_disease_model_lab`, or `mature_red_cell_safety_lab` |
-| Public source URLs | URLs only, no private messages |
+| Source bundle ref | `private-source-bundle-001`; raw candidate URLs stay outside Git |
+| Source-kind labels | publication, method page, capability page, registry, or unclear |
+| Source-count label | count or range, without naming the candidate |
 | Model capability | `HUDEP2_like`, `CD34_erythroid`, `disease_model`, `mature_red_cell_only`, or `unclear` |
 | HbF or HBG capability | `present`, `missing`, or `unclear` |
 | Maturation and viability | `present`, `missing`, or `unclear` |
@@ -25,10 +27,22 @@ in the public repository.
 ## Release Blockers
 
 - real recipient identity or contact details;
+- raw candidate source URLs that identify a real lab or CRO;
 - raw private replies or attachments;
 - patient records or sample identifiers;
 - treatment, dosing, trial-screening, purchase, import, or procurement language;
 - source-free capability claims.
+
+## Source Handling
+
+Real candidate names, domains, pages, people, emails, phone numbers, addresses,
+private replies, quotes, and business terms belong in a private source index
+outside Git. The public card should only include a `source_bundle_ref`,
+source-kind labels, source-count label, capability labels, and the final
+decision label.
+
+Generic assay literature, guidelines, or method pages that do not identify a
+future recipient candidate may still be cited publicly.
 
 Public output:
 

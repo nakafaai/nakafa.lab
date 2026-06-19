@@ -1,0 +1,41 @@
+{
+  "checked_date": "2026-06-19",
+  "workflow_id": "case001_recipient_source_privacy_gate",
+  "evidence_label": "recipient source privacy gate, not contact permission or treatment advice",
+  "current_label": "case001_recipient_source_private_index_required",
+  "supersedes_or_refines": [
+    "data/workflows/case-001/2026-06-18-recipient-evidence-card-gate.json",
+    "templates/lab-recipient-evidence-card-template.md"
+  ],
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-19-recipient-source-privacy-refresh.json",
+    "templates/lab-recipient-evidence-card-template.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "public_allowed_fields": [
+    "recipient alias",
+    "source bundle reference, not raw candidate URL",
+    "source-kind labels",
+    "source-count label",
+    "model capability label",
+    "endpoint capability label",
+    "raw-data export label",
+    "cost, timeline, ethics, biosafety, and material-constraint labels"
+  ],
+  "private_only_fields": [
+    "real organization names",
+    "raw candidate source URLs",
+    "people names, emails, phone numbers, and addresses",
+    "raw private replies or attachments",
+    "patient records, identifiers, or sample identifiers",
+    "prices, scheduling details, business terms, purchase, import, or procurement scope"
+  ],
+  "decision_labels": {
+    "ready": "recipient_source_privacy_public_card_ready",
+    "missing_private_index": "recipient_source_privacy_hold_missing_private_index",
+    "source_free": "recipient_source_privacy_hold_source_free",
+    "release_blocked": "recipient_source_privacy_release_blocked_identifying_source"
+  },
+  "decision_rule": "A public recipient evidence card can cite a private source-bundle reference and capability labels. It must not publish raw source URLs or details that identify a real candidate recipient."
+}

@@ -213,6 +213,9 @@ Current notebooks:
 - `2026-06-18-case001-recipient-evidence-card-gate.ipynb` -
   recipient evidence-card gate that classifies future lab or CRO candidates by
   public capabilities without naming, contacting, or endorsing any organization.
+- `2026-06-19-case001-recipient-source-privacy-gate.ipynb` -
+  source-privacy gate that keeps raw candidate URLs and identities in a private
+  source index while public cards use bundle refs and capability labels.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

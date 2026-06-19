@@ -1011,3 +1011,8 @@ data/literature/pubmed/2026-06-18-recipient-evidence-card-refresh.json
 research/thalassemia/assays/2026-06-18-recipient-evidence-card-gate.md
 research/thalassemia/notebooks/2026-06-18-case001-recipient-evidence-card-gate.ipynb
 templates/lab-recipient-evidence-card-template.md
+docs/status/2026-06-19.md
+data/workflows/case-001/2026-06-19-recipient-source-privacy-gate.json
+data/literature/pubmed/2026-06-19-recipient-source-privacy-refresh.json
+research/thalassemia/assays/2026-06-19-recipient-source-privacy-gate.md
+research/thalassemia/notebooks/2026-06-19-case001-recipient-source-privacy-gate.ipynb

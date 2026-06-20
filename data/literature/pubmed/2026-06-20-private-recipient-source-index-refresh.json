@@ -1,0 +1,101 @@
+{
+  "checked_date": "2026-06-20",
+  "evidence_label": "private recipient source-index readiness refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary plus current web source checks",
+  "current_query": "(thalassemia OR beta-thalassemia) AND (gamma-globin OR HbF OR fetal hemoglobin OR HUDEP2 OR CD34 OR erythroid OR hemolysis) AND (2025:2026[pdat])",
+  "targeted_query": "31424735[uid] OR 41411145[uid] OR 39108322[uid] OR 23861885[uid] OR 36769243[uid] OR 42020947[uid] OR 41348010[uid] OR 39794549[uid]",
+  "records": [
+    {
+      "journal": "NCBI Bookshelf",
+      "pmid": "31424735",
+      "pubdate": "2026 Jan",
+      "role": "current thalassemia clinical-context record; keeps source-index work separate from clinical advice",
+      "title": "Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31424735/"
+    },
+    {
+      "doi": "10.1182/blood.2025028895",
+      "journal": "Blood",
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "current gamma-globin biology context; supports endpoint-specific capability mapping",
+      "title": "p27Kip1 regulates gamma-globin production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "doi": "10.1002/hem3.139",
+      "journal": "Hemasphere",
+      "pmid": "39108322",
+      "pubdate": "2024 Aug",
+      "role": "HUDEP2-linked endogenous HbF reporter context; supports model and endpoint capability labels",
+      "title": "A cellular reporter system to evaluate endogenous fetal hemoglobin induction and screen for therapeutic compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39108322/"
+    },
+    {
+      "doi": "10.1371/journal.pone.0068307",
+      "journal": "PLoS One",
+      "pmid": "23861885",
+      "pubdate": "2013",
+      "role": "CD34+ beta-thalassemia erythropoiesis model context; supports disease-model capability labels",
+      "title": "A synthetic model of human beta-thalassemia erythropoiesis using CD34+ cells from healthy adult donors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23861885/"
+    },
+    {
+      "doi": "10.3390/ijms24032914",
+      "journal": "Int J Mol Sci",
+      "pmid": "36769243",
+      "pubdate": "2023 Feb 2",
+      "role": "hemolysis cytotoxicity context; supports red-cell safety capability mapping",
+      "title": "Optimization of the Hemolysis Assay for the Assessment of Cytotoxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36769243/"
+    },
+    {
+      "doi": "10.1182/hematology.2025000716",
+      "journal": "Hematology Am Soc Hematol Educ Program",
+      "pmid": "41348010",
+      "pubdate": "2025 Dec 5",
+      "role": "current thalassemia complication context; supports separating assay-source evidence from patient routing",
+      "title": "Thalassemia and hypercoagulability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41348010/"
+    },
+    {
+      "doi": "10.1007/s12033-025-01368-x",
+      "journal": "Mol Biotechnol",
+      "pmid": "39794549",
+      "pubdate": "2026 Jan",
+      "role": "current editing-trial review context; supports classifying therapy/trial owners separately from preclinical recipients",
+      "title": "CRISPR/Cas9 System as a Promising Therapy in Thalassemia and Sickle Cell Disease: A Systematic Review of Clinical Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39794549/"
+    },
+    {
+      "doi": "10.1002/ajh.70314",
+      "journal": "Am J Hematol",
+      "pmid": "42020947",
+      "pubdate": "2026 Jul",
+      "role": "current PubMed heme-assay record; optional heme-safety context only",
+      "title": "A Novel Plasma Heme Assay Reveals Disease Severity in Beta-Thalassemia and Sickle Cell Anemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42020947/"
+    }
+  ],
+  "web_sources": [
+    {
+      "checked_date": "2026-06-20",
+      "role": "privacy and de-identification process anchor for keeping identifying details outside public output",
+      "title": "HHS Guidance Regarding Methods for De-identification of Protected Health Information",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html"
+    },
+    {
+      "checked_date": "2026-06-20",
+      "role": "privacy-rule context for minimum necessary handling and protected information boundaries",
+      "title": "HHS Summary of the HIPAA Privacy Rule",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html"
+    },
+    {
+      "checked_date": "2026-06-20",
+      "role": "current HUDEP-2 source context; useful for generic capability mapping, not real recipient selection",
+      "title": "RIKEN BRC Cell Bank RCB4557: HUDEP-2",
+      "url": "https://cellbank.brc.riken.jp/cell_bank/CellInfo/?cellNo=RCB4557"
+    }
+  ],
+  "decision_use": "The private source index should map real candidate sources to capability labels outside Git. Public files should expose only aliases, source-bundle references, source-kind labels, source-count labels, and decision labels."
+}

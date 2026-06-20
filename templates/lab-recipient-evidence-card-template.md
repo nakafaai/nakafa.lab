@@ -41,6 +41,9 @@ outside Git. The public card should only include a `source_bundle_ref`,
 source-kind labels, source-count label, capability labels, and the final
 decision label.
 
+Use `templates/private-recipient-source-index-template.csv` as the private
+index schema. Completed copies must stay under ignored private storage.
+
 Generic assay literature, guidelines, or method pages that do not identify a
 future recipient candidate may still be cited publicly.
 

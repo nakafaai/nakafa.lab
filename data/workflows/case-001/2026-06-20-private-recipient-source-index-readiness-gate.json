@@ -1,0 +1,44 @@
+{
+  "checked_date": "2026-06-20",
+  "workflow_id": "case001_private_recipient_source_index_readiness_gate",
+  "evidence_label": "private recipient source-index readiness gate, not contact permission or treatment advice",
+  "current_label": "case001_private_source_index_template_ready_no_real_sources",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-20-private-recipient-source-index-refresh.json",
+    "data/workflows/case-001/2026-06-19-recipient-source-privacy-gate.json",
+    "templates/private-recipient-source-index-template.csv",
+    "docs/private-recipient-source-index.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "private_index_required_fields": [
+    "recipient_alias",
+    "source_bundle_ref",
+    "raw_source_url",
+    "candidate_identity_private",
+    "source_kind_label",
+    "capability_mapping",
+    "checked_date",
+    "public_card_alias",
+    "public_card_source_bundle_ref",
+    "privacy_review_label",
+    "consent_or_terms_label",
+    "owner_scope_label",
+    "notes_private"
+  ],
+  "public_release_fields": [
+    "recipient alias",
+    "source bundle reference",
+    "source-kind labels",
+    "source-count label",
+    "capability labels",
+    "decision label"
+  ],
+  "decision_labels": {
+    "ready": "private_recipient_source_index_ready",
+    "missing_source": "private_recipient_source_index_hold_missing_source",
+    "mapping_incomplete": "private_recipient_source_index_hold_mapping_incomplete",
+    "release_blocked": "private_recipient_source_index_release_blocked_public_leak"
+  },
+  "decision_rule": "The repo can publish the private-index template and readiness labels, but any real source index must stay under ignored private storage and must not be committed."
+}

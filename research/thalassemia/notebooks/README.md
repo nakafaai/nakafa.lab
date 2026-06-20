@@ -216,6 +216,9 @@ Current notebooks:
 - `2026-06-19-case001-recipient-source-privacy-gate.ipynb` -
   source-privacy gate that keeps raw candidate URLs and identities in a private
   source index while public cards use bundle refs and capability labels.
+- `2026-06-20-case001-private-recipient-source-index-readiness-gate.ipynb` -
+  private-index readiness gate that checks ignored source rows can support
+  public source-bundle labels without leaking raw candidate details.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

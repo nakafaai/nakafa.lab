@@ -1016,3 +1016,10 @@ data/workflows/case-001/2026-06-19-recipient-source-privacy-gate.json
 data/literature/pubmed/2026-06-19-recipient-source-privacy-refresh.json
 research/thalassemia/assays/2026-06-19-recipient-source-privacy-gate.md
 research/thalassemia/notebooks/2026-06-19-case001-recipient-source-privacy-gate.ipynb
+docs/status/2026-06-20.md
+docs/private-recipient-source-index.md
+templates/private-recipient-source-index-template.csv
+data/workflows/case-001/2026-06-20-private-recipient-source-index-readiness-gate.json
+data/literature/pubmed/2026-06-20-private-recipient-source-index-refresh.json
+research/thalassemia/assays/2026-06-20-private-recipient-source-index-readiness-gate.md
+research/thalassemia/notebooks/2026-06-20-case001-private-recipient-source-index-readiness-gate.ipynb

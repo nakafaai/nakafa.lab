@@ -1023,3 +1023,10 @@ data/workflows/case-001/2026-06-20-private-recipient-source-index-readiness-gate
 data/literature/pubmed/2026-06-20-private-recipient-source-index-refresh.json
 research/thalassemia/assays/2026-06-20-private-recipient-source-index-readiness-gate.md
 research/thalassemia/notebooks/2026-06-20-case001-private-recipient-source-index-readiness-gate.ipynb
+docs/status/2026-06-21.md
+scripts/project_recipient_card.py
+scripts/selftest_project_recipient_card.py
+data/workflows/case-001/2026-06-21-public-recipient-card-projection-gate.json
+data/literature/pubmed/2026-06-21-public-recipient-card-projection-refresh.json
+research/thalassemia/assays/2026-06-21-public-recipient-card-projection-gate.md
+research/thalassemia/notebooks/2026-06-21-case001-public-recipient-card-projection-gate.ipynb

@@ -41,7 +41,11 @@ Public files must not carry:
    cost, timeline, ethics, biosafety, or material constraints.
 4. Publish only the alias, `source_bundle_ref`, source-kind labels, source-count
    label, capability labels, and decision label.
-5. Run `uv run python scripts/check_public_repo.py` before any public commit.
+5. From the repo root, project a public-safe card:
+
+   `uv run python scripts/project_recipient_card.py private/recipient-source-index/recipient-sources.csv`
+
+6. Run `uv run python scripts/check_public_repo.py` before any public commit.
 
 ## Boundaries
 

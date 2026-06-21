@@ -1,0 +1,56 @@
+{
+  "checked_date": "2026-06-21",
+  "evidence_label": "public recipient-card projection refresh, not treatment advice",
+  "source": "NCBI PubMed ESearch and ESummary plus current web source checks",
+  "current_query": "31424735[uid] OR 41411145[uid] OR 39108322[uid] OR 23861885[uid] OR 36769243[uid]",
+  "records": [
+    {
+      "pmid": "31424735",
+      "pubdate": "2026 Jan",
+      "role": "current thalassemia clinical context; keeps projection output separate from clinical advice",
+      "title": "Thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31424735/"
+    },
+    {
+      "pmid": "41411145",
+      "pubdate": "2026 Feb 26",
+      "role": "current gamma-globin biology context; supports endpoint labels",
+      "title": "p27Kip1 regulates gamma-globin production.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41411145/"
+    },
+    {
+      "pmid": "39108322",
+      "pubdate": "2024 Aug",
+      "role": "HUDEP2-linked endogenous HbF reporter context; supports model and endpoint labels",
+      "title": "A cellular reporter system to evaluate endogenous fetal hemoglobin induction and screen for therapeutic compounds.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39108322/"
+    },
+    {
+      "pmid": "23861885",
+      "pubdate": "2013",
+      "role": "CD34+ beta-thalassemia erythropoiesis model context; supports disease-model labels",
+      "title": "A synthetic model of human beta-thalassemia erythropoiesis using CD34+ cells from healthy adult donors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23861885/"
+    },
+    {
+      "pmid": "36769243",
+      "pubdate": "2023 Feb 2",
+      "role": "hemolysis cytotoxicity context; supports red-cell safety labels",
+      "title": "Optimization of the Hemolysis Assay for the Assessment of Cytotoxicity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36769243/"
+    }
+  ],
+  "web_sources": [
+    {
+      "role": "de-identification process anchor for projecting public labels without identifying details",
+      "title": "HHS de-identification guidance",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html"
+    },
+    {
+      "role": "minimum-necessary privacy context for output projection",
+      "title": "HHS Privacy Rule summary",
+      "url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html"
+    }
+  ],
+  "decision_use": "Projection should turn ignored private source-index rows into public recipient-card labels without carrying raw source URLs, candidate identity, private replies, patient material, or procurement scope."
+}

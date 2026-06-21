@@ -1,0 +1,40 @@
+{
+  "checked_date": "2026-06-21",
+  "workflow_id": "case001_public_recipient_card_projection_gate",
+  "evidence_label": "public recipient-card projection gate, not contact permission or treatment advice",
+  "current_label": "case001_public_card_projection_tool_ready_synthetic_only",
+  "source_artifacts": [
+    "scripts/project_recipient_card.py",
+    "scripts/selftest_project_recipient_card.py",
+    "data/literature/pubmed/2026-06-21-public-recipient-card-projection-refresh.json",
+    "docs/private-recipient-source-index.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "public_projection_fields": [
+    "recipient_alias",
+    "source_bundle_ref",
+    "source_count",
+    "source_kind_labels",
+    "capability_labels",
+    "privacy_review_labels",
+    "consent_or_terms_labels",
+    "owner_scope_labels",
+    "decision_label"
+  ],
+  "blocked_projection_fields": [
+    "raw_source_url",
+    "candidate_identity_private",
+    "notes_private",
+    "contacts",
+    "private replies",
+    "patient material",
+    "treatment, trial, purchase, import, or procurement scope"
+  ],
+  "decision_labels": {
+    "ready": "public_recipient_card_projection_ready",
+    "blocked": "public_recipient_card_projection_blocked_private_field",
+    "invalid": "public_recipient_card_projection_invalid_private_index"
+  },
+  "decision_rule": "The projection tool may be committed because it only emits public-safe labels from private rows. Completed private source indexes remain ignored and must not be committed."
+}

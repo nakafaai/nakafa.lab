@@ -1,0 +1,36 @@
+{
+  "checked_date": "2026-06-22",
+  "workflow_id": "case001_current_curative_evidence_radar_gate",
+  "current_label": "case001_curative_evidence_radar_ready_general_only",
+  "evidence_label": "general curative-route radar, not treatment advice",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json",
+    "research/thalassemia/findings/2026-06-22-current-curative-evidence-radar.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "route_labels": [
+    "autologous_gene_cell_curative_benchmark",
+    "allogeneic_hsct_curative_comparator",
+    "gene_therapy_long_term_follow_up",
+    "asia_autologous_gene_cell_watch",
+    "disease_modifying_metabolism_comparator",
+    "affordability_benchmark_only"
+  ],
+  "doctor_conversation_use": [
+    "ask which curative branch belongs in scope after packet review",
+    "ask whether genotype, age, organ status, immune status, HLA, donor, and center access are sufficient for a specialist to screen",
+    "ask which route is benchmark-only versus clinically actionable"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "raw private record",
+    "doctor or family private message"
+  ],
+  "decision_rule": "The radar can update the public research map because it records current general evidence and route labels only. Case-specific interpretation remains blocked until qualified clinician review and private packet completion."
+}

@@ -1030,3 +1030,8 @@ data/workflows/case-001/2026-06-21-public-recipient-card-projection-gate.json
 data/literature/pubmed/2026-06-21-public-recipient-card-projection-refresh.json
 research/thalassemia/assays/2026-06-21-public-recipient-card-projection-gate.md
 research/thalassemia/notebooks/2026-06-21-case001-public-recipient-card-projection-gate.ipynb
+docs/status/2026-06-22.md
+data/workflows/case-001/2026-06-22-current-curative-evidence-radar-gate.json
+data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json
+research/thalassemia/findings/2026-06-22-current-curative-evidence-radar.md
+research/thalassemia/notebooks/2026-06-22-current-curative-evidence-radar.ipynb

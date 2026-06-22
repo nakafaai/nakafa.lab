@@ -1,0 +1,128 @@
+{
+  "checked_date": "2026-06-22",
+  "evidence_label": "current curative evidence radar, not treatment advice",
+  "pubmed_query": "(thalassemia[Title/Abstract]) AND (2026[dp]) AND (gene therapy OR exagamglogene OR exa-cel OR hematopoietic cell transplantation OR pyruvate kinase OR fetal hemoglobin OR BCL11A OR gamma-globin)",
+  "pubmed_records": [
+    {
+      "pmid": "42274009",
+      "pubdate": "2026 Jun 11",
+      "lane": "autologous_gene_cell_curative_benchmark",
+      "title": "Exa-cel in children with transfusion-dependent beta-thalassemia or sickle cell disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274009/"
+    },
+    {
+      "pmid": "42252696",
+      "pubdate": "2026 Jun 7",
+      "lane": "post_exa_cel_iron_and_erythropoiesis_benchmark",
+      "title": "Correction of ineffective erythropoiesis and normalization of iron homeostasis after exagamglogene autotemcel in transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252696/"
+    },
+    {
+      "pmid": "42091200",
+      "pubdate": "2026 Jun 10",
+      "lane": "pediatric_gene_therapy_collection_feasibility_context",
+      "title": "Experience with stem cell collection for children with transfusion-dependent thalassemia undergoing gene therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42091200/"
+    },
+    {
+      "pmid": "42261266",
+      "pubdate": "2026 Jun 9",
+      "lane": "disease_modifying_metabolism_comparator",
+      "title": "Pyruvate kinase activation in the management of thalassemia and sickle cell disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42261266/"
+    },
+    {
+      "pmid": "41947014",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Apr 7",
+      "lane": "allogeneic_hsct_curative_comparator",
+      "title": "Second allogeneic hematopoietic cell transplantation after graft failure as a curative option in children with hemoglobinopathies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41947014/"
+    },
+    {
+      "pmid": "41955126",
+      "pubdate": "2026 Dec",
+      "epubdate": "2026 Apr 9",
+      "lane": "exa_cel_affordability_benchmark",
+      "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in transfusion-dependent beta-thalassemia in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955126/"
+    },
+    {
+      "pmid": "42054156",
+      "pubdate": "2026 Dec",
+      "epubdate": "2026 Apr 29",
+      "lane": "allogeneic_hsct_burden_benchmark",
+      "title": "Clinical burden and healthcare resource utilization after allogeneic hematopoietic stem cell transplant for sickle cell disease or beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42054156/"
+    },
+    {
+      "pmid": "42024260",
+      "pubdate": "2026 Jul",
+      "epubdate": "2026 Apr 23",
+      "lane": "gene_therapy_strategy_review",
+      "title": "New gene therapy strategy for beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42024260/"
+    }
+  ],
+  "registry_records": [
+    {
+      "nct_id": "NCT05356195",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE3",
+      "lane": "pediatric_ctx001_exa_cel_benchmark",
+      "countries": ["Canada", "Germany", "Italy", "United Kingdom", "United States"],
+      "url": "https://clinicaltrials.gov/study/NCT05356195"
+    },
+    {
+      "nct_id": "NCT05477563",
+      "status": "RECRUITING",
+      "phase": "PHASE3",
+      "lane": "ctx001_exa_cel_registry_watch",
+      "countries": ["Germany", "Italy", "Saudi Arabia", "United States"],
+      "url": "https://clinicaltrials.gov/study/NCT05477563"
+    },
+    {
+      "nct_id": "NCT06465550",
+      "status": "RECRUITING",
+      "phase": "PHASE1",
+      "lane": "china_autologous_gene_cell_watch",
+      "countries": ["China"],
+      "url": "https://clinicaltrials.gov/study/NCT06465550"
+    },
+    {
+      "nct_id": "NCT04211480",
+      "status": "COMPLETED",
+      "phase": "NA",
+      "lane": "china_gamma_globin_reactivation_benchmark",
+      "countries": ["China"],
+      "url": "https://clinicaltrials.gov/study/NCT04211480"
+    },
+    {
+      "nct_id": "NCT02633943",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "long_term_follow_up",
+      "lane": "gene_therapy_long_term_follow_up",
+      "countries": ["Australia", "France", "Germany", "Greece", "Italy", "Thailand", "United Kingdom", "United States"],
+      "url": "https://clinicaltrials.gov/study/NCT02633943"
+    }
+  ],
+  "regulatory_sources": [
+    {
+      "label": "FDA_CASGEVY",
+      "content_current_as_of": "2026-06-16",
+      "role": "approved autologous CRISPR gene-cell benchmark for TDT age 12 years and older",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/casgevy"
+    },
+    {
+      "label": "FDA_ZYNTEGLO",
+      "content_current_as_of": "2022-09-19",
+      "role": "approved lentiviral gene-addition benchmark for beta-thalassemia requiring regular RBC transfusions",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/zynteglo"
+    }
+  ],
+  "quran_process_anchors": [
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "boundary": "These sources update the general evidence radar only. They do not determine Case-001 eligibility, access, timing, risk, referral, travel, import, purchase, or treatment action."
+}

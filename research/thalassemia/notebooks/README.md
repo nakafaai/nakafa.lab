@@ -222,6 +222,9 @@ Current notebooks:
 - `2026-06-21-case001-public-recipient-card-projection-gate.ipynb` -
   projection-gate notebook that smoke-tests synthetic private rows into
   public-safe recipient-card labels without private-field leakage.
+- `2026-06-22-current-curative-evidence-radar.ipynb` - route-separation smoke
+  test for current curative evidence records, keeping patient-specific action
+  blocked.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

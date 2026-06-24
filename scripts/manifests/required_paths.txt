@@ -1035,3 +1035,8 @@ data/workflows/case-001/2026-06-22-current-curative-evidence-radar-gate.json
 data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json
 research/thalassemia/findings/2026-06-22-current-curative-evidence-radar.md
 research/thalassemia/notebooks/2026-06-22-current-curative-evidence-radar.ipynb
+docs/status/2026-06-24.md
+data/workflows/case-001/2026-06-24-curative-branch-doctor-question-gate.json
+data/literature/pubmed/2026-06-24-curative-branch-question-refresh.json
+research/thalassemia/case-context/case-001-curative-branch-doctor-question-gate.md
+research/thalassemia/notebooks/2026-06-24-case001-curative-branch-doctor-question-gate.ipynb

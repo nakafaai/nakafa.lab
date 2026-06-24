@@ -1,0 +1,56 @@
+{
+  "checked_date": "2026-06-24",
+  "workflow_id": "case001_curative_branch_doctor_question_gate",
+  "current_label": "case001_curative_branch_doctor_question_ready_general_only",
+  "evidence_label": "doctor-facing branch question gate, not treatment advice",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-24-curative-branch-question-refresh.json",
+    "research/thalassemia/case-context/case-001-curative-branch-doctor-question-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "question_sequence": [
+    {
+      "step": "packet_readiness",
+      "question": "Is the private packet sufficient for any advanced-therapy branch discussion?",
+      "required_private_domains": ["diagnosis", "genotype", "transfusion burden", "immune history", "iron and organ status"]
+    },
+    {
+      "step": "stabilization_first",
+      "question": "Are any standard-care, iron, immune, organ, infection, or safety blockers urgent before branch screening?",
+      "owner": "qualified hematologist"
+    },
+    {
+      "step": "branch_scope",
+      "question": "Which branch is in scope to discuss: allogeneic HCT, autologous gene-cell therapy, non-curative disease modification, standard-care stabilization, or benchmark-only tracking?",
+      "owner": "qualified hematologist or advanced-therapy specialist"
+    },
+    {
+      "step": "route_owner",
+      "question": "Which owner should answer next: transplant center, gene-cell therapy center, pharmacy/regulatory owner, payer, or standard-care hematology team?",
+      "owner": "qualified clinician"
+    }
+  ],
+  "public_allowed_outputs": [
+    "branch_question_ready_general_only",
+    "packet_not_ready",
+    "standard_care_stabilization_first",
+    "allogeneic_hct_branch_owner_question",
+    "autologous_gene_cell_branch_owner_question",
+    "disease_modifying_noncurative_branch_owner_question",
+    "benchmark_only_tracking"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "sample routing",
+    "raw private record",
+    "doctor or family private message"
+  ],
+  "decision_rule": "The gate may be shared as a doctor-question frame only. It does not move Case-001 into any therapy, referral, trial, procurement, or sample workflow."
+}

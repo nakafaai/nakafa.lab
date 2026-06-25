@@ -228,6 +228,9 @@ Current notebooks:
 - `2026-06-24-case001-curative-branch-doctor-question-gate.ipynb` -
   doctor-question gate that checks curative branch outputs remain question
   labels and never patient-specific action labels.
+- `2026-06-25-case001-branch-review-minimum-packet-gate.ipynb` - packet gate
+  that keeps branch review blocked until all private packet domains are
+  label-ready.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

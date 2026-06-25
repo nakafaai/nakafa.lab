@@ -1,0 +1,44 @@
+{
+  "checked_date": "2026-06-25",
+  "workflow_id": "case001_branch_review_minimum_packet_gate",
+  "current_label": "case001_branch_review_packet_not_ready_public_only",
+  "evidence_label": "minimum private packet gate, not treatment advice",
+  "source_artifacts": [
+    "data/literature/pubmed/2026-06-25-branch-review-minimum-packet-refresh.json",
+    "research/thalassemia/case-context/case-001-branch-review-minimum-packet-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "minimum_private_domains": [
+    "diagnosis_genotype_phenotype",
+    "transfusion_burden_response",
+    "blood_bank_immune_history",
+    "iron_organ_chelation_status",
+    "hct_gene_cell_access_context",
+    "consent_ethics_private_owner_review"
+  ],
+  "public_allowed_outputs": [
+    "branch_review_packet_not_ready_public_only",
+    "branch_review_packet_ready_for_private_clinician_review",
+    "missing_diagnosis_genotype_phenotype",
+    "missing_transfusion_burden_response",
+    "missing_blood_bank_immune_history",
+    "missing_iron_organ_chelation_status",
+    "missing_hct_gene_cell_access_context",
+    "missing_consent_ethics_private_owner_review"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "sample routing",
+    "raw private record",
+    "doctor or family private message"
+  ],
+  "decision_rule": "The public repo can say which private packet domains are missing or ready for private clinician review. It cannot decide branch suitability or patient action."
+}

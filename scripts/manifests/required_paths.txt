@@ -1045,3 +1045,10 @@ data/workflows/case-001/2026-06-25-branch-review-minimum-packet-gate.json
 data/literature/pubmed/2026-06-25-branch-review-minimum-packet-refresh.json
 research/thalassemia/case-context/case-001-branch-review-minimum-packet-gate.md
 research/thalassemia/notebooks/2026-06-25-case001-branch-review-minimum-packet-gate.ipynb
+docs/status/2026-06-27.md
+scripts/check_branch_review_packet.py
+templates/branch-review-minimum-packet-template.csv
+data/workflows/case-001/2026-06-27-branch-review-packet-checker-gate.json
+data/literature/pubmed/2026-06-27-branch-review-packet-checker-refresh.json
+research/thalassemia/case-context/case-001-branch-review-packet-checker-gate.md
+research/thalassemia/notebooks/2026-06-27-case001-branch-review-packet-checker-gate.ipynb

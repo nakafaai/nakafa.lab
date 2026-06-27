@@ -231,6 +231,9 @@ Current notebooks:
 - `2026-06-25-case001-branch-review-minimum-packet-gate.ipynb` - packet gate
   that keeps branch review blocked until all private packet domains are
   label-ready.
+- `2026-06-27-case001-branch-review-packet-checker-gate.ipynb` - synthetic
+  smoke test for a private branch-review packet checker that emits only
+  ready/missing public labels.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

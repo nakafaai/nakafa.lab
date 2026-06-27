@@ -1,0 +1,47 @@
+{
+  "checked_date": "2026-06-27",
+  "workflow_id": "case001_branch_review_packet_checker_gate",
+  "evidence_label": "branch-review packet checker gate, not treatment advice",
+  "current_label": "case001_branch_review_packet_checker_ready_synthetic_only",
+  "source_artifacts": [
+    "scripts/check_branch_review_packet.py",
+    "templates/branch-review-minimum-packet-template.csv",
+    "data/literature/pubmed/2026-06-27-branch-review-packet-checker-refresh.json",
+    "research/thalassemia/case-context/case-001-branch-review-packet-checker-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "required_private_domains": [
+    "diagnosis_genotype_phenotype",
+    "transfusion_burden_response",
+    "blood_bank_immune_history",
+    "iron_organ_chelation_status",
+    "hct_gene_cell_access_context",
+    "consent_ethics_private_owner_review"
+  ],
+  "public_output_fields": [
+    "current_label",
+    "ready_domains",
+    "missing_domains",
+    "public_labels",
+    "blocked_outputs"
+  ],
+  "private_only_fields": [
+    "private_record_ref",
+    "notes_private"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "sample routing",
+    "raw private record",
+    "doctor or family private message"
+  ],
+  "decision_rule": "The checker may read a private owner-maintained CSV, but the public output is limited to ready or missing packet labels. It cannot decide branch suitability or patient action."
+}

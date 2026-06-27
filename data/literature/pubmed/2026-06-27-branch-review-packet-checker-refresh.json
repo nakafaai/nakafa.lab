@@ -1,0 +1,129 @@
+{
+  "checked_date": "2026-06-27",
+  "evidence_label": "branch-review packet checker refresh, not treatment advice",
+  "pubmed_query": "(transfusion-dependent beta-thalassemia OR transfusion dependent thalassemia) AND (gene therapy OR hematopoietic cell transplantation OR monitoring OR iron overload OR transfusion burden) AND (2025:2026[dp])",
+  "guideline_sources": [
+    {
+      "label": "TIF_2025_diagnosis",
+      "role": "supports diagnosis, genotype, and phenotype as a required private packet domain before branch interpretation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614253/"
+    },
+    {
+      "label": "TIF_2025_transfusion",
+      "role": "supports transfusion burden, blood-bank, antibody, reaction, and response context as required private packet domains",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/"
+    },
+    {
+      "label": "TIF_2025_iron_overload",
+      "role": "supports ferritin, liver iron, cardiac T2*, chelation, and organ-risk context before branch review",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/"
+    },
+    {
+      "label": "TIF_2025_monitoring",
+      "role": "supports monitoring discipline before any case-specific branch interpretation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614248/"
+    },
+    {
+      "label": "TIF_2025_hct",
+      "role": "supports keeping allogeneic HCT as a qualified branch-review question with donor, center, and risk context",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/"
+    },
+    {
+      "label": "TIF_2025_gene_manipulation",
+      "role": "supports keeping gene-cell therapy as a separate qualified branch-review question with collection, conditioning, and follow-up context",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/"
+    }
+  ],
+  "pubmed_records": [
+    {
+      "pmid": "40058646",
+      "lane": "gene_therapy_best_practices_context",
+      "title": "Best practices in gene therapy for sickle cell disease and transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40058646/"
+    },
+    {
+      "pmid": "42274009",
+      "lane": "pediatric_exa_cel_benchmark",
+      "title": "Exa-cel in children with transfusion-dependent beta-thalassemia or sickle cell disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274009/"
+    },
+    {
+      "pmid": "42091200",
+      "lane": "stem_cell_collection_context",
+      "title": "Experience with stem cell collection for children with transfusion-dependent thalassemia undergoing gene therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42091200/"
+    },
+    {
+      "pmid": "42252696",
+      "lane": "post_exa_cel_iron_and_erythropoiesis_context",
+      "title": "Correction of ineffective erythropoiesis and normalization of iron homeostasis after exagamglogene autotemcel in transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252696/"
+    },
+    {
+      "pmid": "41947014",
+      "lane": "allogeneic_hct_curative_comparator",
+      "title": "Second allogeneic hematopoietic cell transplantation after graft failure is an effective curative option in children with hemoglobinopathies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41947014/"
+    },
+    {
+      "pmid": "41955126",
+      "lane": "exa_cel_affordability_context",
+      "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in patients with transfusion-dependent beta-thalassemia in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955126/"
+    },
+    {
+      "pmid": "42362985",
+      "lane": "organ_risk_current_watch",
+      "title": "Assessment of hepatic fibrosis in Egyptian children and adolescents with beta thalassemia major: a single center study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362985/"
+    },
+    {
+      "pmid": "42360912",
+      "lane": "organ_risk_current_watch",
+      "title": "Dapagliflozin in patients with homozygous beta-thalassemia and albuminuria.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42360912/"
+    }
+  ],
+  "registry_records": [
+    {
+      "nct_id": "NCT05356195",
+      "lane": "exa_cel_pediatric_benchmark",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "version_holder": "2026-06-26",
+      "url": "https://clinicaltrials.gov/study/NCT05356195"
+    },
+    {
+      "nct_id": "NCT05477563",
+      "lane": "exa_cel_registry_watch",
+      "status": "RECRUITING",
+      "version_holder": "2026-06-26",
+      "url": "https://clinicaltrials.gov/study/NCT05477563"
+    },
+    {
+      "nct_id": "NCT06280378",
+      "lane": "china_kl003_watch",
+      "status": "RECRUITING",
+      "version_holder": "2026-06-26",
+      "url": "https://clinicaltrials.gov/study/NCT06280378"
+    },
+    {
+      "nct_id": "NCT05577312",
+      "lane": "china_brl101_watch",
+      "status": "ENROLLING_BY_INVITATION",
+      "version_holder": "2026-06-26",
+      "url": "https://clinicaltrials.gov/study/NCT05577312"
+    },
+    {
+      "nct_id": "NCT05762510",
+      "lane": "china_lentired_watch",
+      "status": "RECRUITING",
+      "version_holder": "2026-06-26",
+      "url": "https://clinicaltrials.gov/study/NCT05762510"
+    }
+  ],
+  "quran_process_anchors": [
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "checker_use": "The source refresh supports a label-only private packet checker. It does not support diagnosis, therapy selection, eligibility, referral, trial screening, travel, import, purchase, dosing, transfusion changes, chelation changes, lab contact, private-message routing, or sample routing."
+}

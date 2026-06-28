@@ -1,0 +1,114 @@
+{
+  "checked_date": "2026-06-28",
+  "evidence_label": "branch-review response capture refresh, not treatment advice",
+  "pubmed_query": "(transfusion-dependent beta-thalassemia OR transfusion dependent thalassemia) AND (clinician decision OR eligibility OR gene therapy OR hematopoietic cell transplantation OR exagamglogene OR iron homeostasis OR cost-effectiveness) AND (2025:2026[dp])",
+  "guideline_sources": [
+    {
+      "label": "TIF_2025_hct",
+      "role": "supports allogeneic HCT as a specialist branch question, not a public eligibility label",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/"
+    },
+    {
+      "label": "TIF_2025_gene_manipulation",
+      "role": "supports gene-cell therapy as a distinct branch question requiring expert review and follow-up context",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/"
+    },
+    {
+      "label": "TIF_2025_transfusion",
+      "role": "supports transfusion burden and response labels before branch interpretation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/"
+    },
+    {
+      "label": "TIF_2025_iron_overload",
+      "role": "supports iron and organ-risk labels before branch interpretation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/"
+    }
+  ],
+  "pubmed_records": [
+    {
+      "pmid": "42252696",
+      "lane": "post_exa_cel_iron_and_erythropoiesis_context",
+      "title": "Correction of ineffective erythropoiesis and normalization of iron homeostasis after exagamglogene autotemcel in transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252696/"
+    },
+    {
+      "pmid": "41955126",
+      "lane": "exa_cel_cost_effectiveness_context",
+      "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in patients with transfusion-dependent beta-thalassemia in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955126/"
+    },
+    {
+      "pmid": "42274009",
+      "lane": "pediatric_exa_cel_benchmark",
+      "title": "Exa-cel in children with transfusion-dependent beta-thalassemia or sickle cell disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274009/"
+    },
+    {
+      "pmid": "40058646",
+      "lane": "gene_therapy_best_practices_context",
+      "title": "Best practices in gene therapy for sickle cell disease and transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40058646/"
+    },
+    {
+      "pmid": "41919270",
+      "lane": "gene_therapy_landscape_context",
+      "title": "Current therapeutic landscape of beta-thalassemia: focus on gene therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41919270/"
+    },
+    {
+      "pmid": "40862696",
+      "lane": "exa_cel_quality_of_life_context",
+      "title": "Improvements in health-related quality of life in patients with transfusion-dependent beta-thalassemia after exagamglogene autotemcel.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40862696/"
+    },
+    {
+      "pmid": "38657265",
+      "lane": "exa_cel_benchmark",
+      "title": "Exagamglogene autotemcel for transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38657265/"
+    },
+    {
+      "pmid": "42091200",
+      "lane": "stem_cell_collection_context",
+      "title": "Experience with stem cell collection for children with transfusion-dependent thalassemia undergoing gene therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42091200/"
+    },
+    {
+      "pmid": "41947014",
+      "lane": "allogeneic_hct_comparator",
+      "title": "Second allogeneic hematopoietic cell transplantation after graft failure is an effective curative option in children with hemoglobinopathies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41947014/"
+    },
+    {
+      "pmid": "42054156",
+      "lane": "allogeneic_hct_resource_context",
+      "title": "Clinical burden and healthcare resource utilization after allogeneic hematopoietic stem cell transplant for sickle cell disease or beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42054156/"
+    }
+  ],
+  "registry_records": [
+    {
+      "label": "ClinicalTrials.gov_TDT_gene_cell_search",
+      "query": "transfusion dependent beta thalassemia AND CTX001 OR exagamglogene OR gene therapy OR hematopoietic stem cell transplantation",
+      "returned_records": 10,
+      "available_records": 39,
+      "truncated": true,
+      "source": "https://clinicaltrials.gov/"
+    },
+    {
+      "nct_id": "NCT05356195",
+      "lane": "exa_cel_pediatric_benchmark",
+      "url": "https://clinicaltrials.gov/study/NCT05356195"
+    },
+    {
+      "nct_id": "NCT05477563",
+      "lane": "exa_cel_registry_watch",
+      "url": "https://clinicaltrials.gov/study/NCT05477563"
+    }
+  ],
+  "quran_process_anchors": [
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "decision_use": "These sources support reducing clinician branch replies to public-safe labels. They do not support public diagnosis, eligibility, therapy selection, referral, trial screening, travel, import, purchase, dosing, transfusion changes, chelation changes, lab contact, private-message routing, or sample routing."
+}

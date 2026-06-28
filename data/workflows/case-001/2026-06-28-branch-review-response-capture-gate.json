@@ -1,0 +1,49 @@
+{
+  "checked_date": "2026-06-28",
+  "workflow_id": "case001_branch_review_response_capture_gate",
+  "evidence_label": "branch-review response capture gate, not treatment advice",
+  "current_label": "case001_branch_review_response_capture_ready_synthetic_only",
+  "source_artifacts": [
+    "scripts/capture_branch_review_response.py",
+    "templates/branch-review-response-capture-template.csv",
+    "data/literature/pubmed/2026-06-28-branch-review-response-capture-refresh.json",
+    "research/thalassemia/case-context/case-001-branch-review-response-capture-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "allowed_response_labels": [
+    "missing_packet_domain",
+    "branch_in_scope_for_private_review",
+    "branch_out_of_scope_for_private_review",
+    "stabilization_first_private_review",
+    "benchmark_only_private_review",
+    "cannot_answer_from_packet",
+    "release_blocked_private_material"
+  ],
+  "public_output_fields": [
+    "current_label",
+    "captured_labels",
+    "missing_domains",
+    "branch_scope_labels",
+    "blocked_outputs"
+  ],
+  "private_only_fields": [
+    "private_response_ref",
+    "notes_private"
+  ],
+  "blocked_outputs": [
+    "raw clinician message",
+    "private response reference",
+    "doctor or hospital identity",
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "sample routing"
+  ],
+  "decision_rule": "The public repo may record only allowed response labels from a private clinician answer. The labels do not create treatment, eligibility, referral, trial, access, or sample-routing instructions."
+}

@@ -1,0 +1,67 @@
+{
+  "checked_date": "2026-06-30",
+  "workflow_id": "case001_branch_review_handoff_status_gate",
+  "evidence_label": "branch-review handoff status gate, not treatment advice",
+  "current_label": "case001_branch_review_handoff_status_ready_synthetic_only",
+  "source_artifacts": [
+    "scripts/check_branch_review_packet.py",
+    "scripts/capture_branch_review_response.py",
+    "scripts/summarize_branch_review_handoff.py",
+    "data/literature/pubmed/2026-06-30-branch-review-handoff-status-refresh.json",
+    "research/thalassemia/case-context/case-001-branch-review-handoff-status-gate.md",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md"
+  ],
+  "input_gate_labels": {
+    "packet": [
+      "branch_review_packet_not_ready_public_only",
+      "branch_review_packet_ready_for_private_clinician_review"
+    ],
+    "response": [
+      "branch_review_response_captured_public_labels_only",
+      "branch_review_response_needs_private_followup",
+      "branch_review_response_release_blocked_private_material"
+    ]
+  },
+  "handoff_labels": [
+    "branch_review_handoff_packet_incomplete",
+    "branch_review_handoff_ready_for_private_clinician_question",
+    "branch_review_handoff_needs_private_followup",
+    "branch_review_handoff_release_blocked_private_material",
+    "branch_review_handoff_response_captured_public_only"
+  ],
+  "public_output_fields": [
+    "current_label",
+    "packet_label",
+    "response_label",
+    "missing_domains",
+    "branch_scope_labels",
+    "next_public_step_label",
+    "blocked_outputs"
+  ],
+  "private_only_fields": [
+    "private_record_ref",
+    "notes_private",
+    "private_response_ref",
+    "raw_clinician_message",
+    "doctor_identity",
+    "hospital_identity"
+  ],
+  "blocked_outputs": [
+    "raw private record",
+    "raw clinician message",
+    "private response reference",
+    "doctor or hospital identity",
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "lab contact permission",
+    "sample routing"
+  ],
+  "decision_rule": "The handoff gate summarizes already-public packet and response labels into one status label. It cannot read raw records or clinician messages and cannot decide branch suitability or patient action."
+}

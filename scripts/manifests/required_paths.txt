@@ -1058,3 +1058,9 @@ data/workflows/case-001/2026-06-28-branch-review-response-capture-gate.json
 data/literature/pubmed/2026-06-28-branch-review-response-capture-refresh.json
 research/thalassemia/case-context/case-001-branch-review-response-capture-gate.md
 research/thalassemia/notebooks/2026-06-28-case001-branch-review-response-capture-gate.ipynb
+scripts/summarize_branch_review_handoff.py
+data/literature/pubmed/2026-06-30-branch-review-handoff-status-refresh.json
+data/workflows/case-001/2026-06-30-branch-review-handoff-status-gate.json
+docs/status/2026-06-30.md
+research/thalassemia/case-context/case-001-branch-review-handoff-status-gate.md
+research/thalassemia/notebooks/2026-06-30-case001-branch-review-handoff-status-gate.ipynb

@@ -240,6 +240,9 @@ Current notebooks:
 - `2026-06-30-case001-branch-review-handoff-status-gate.ipynb` - synthetic
   smoke test for collapsing packet-checker and response-capture outputs into
   one public-safe handoff label.
+- `2026-07-02-case001-branch-review-clinician-brief-gate.ipynb` - synthetic
+  sequencing check that keeps the doctor brief packet-first, branch-second,
+  and response-label-only.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

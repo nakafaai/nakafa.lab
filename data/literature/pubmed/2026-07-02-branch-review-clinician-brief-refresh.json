@@ -1,0 +1,125 @@
+{
+  "checked_date": "2026-07-02",
+  "evidence_label": "branch-review clinician brief refresh, not treatment advice",
+  "pubmed_query": "(transfusion-dependent beta-thalassemia OR transfusion dependent thalassemia) AND (exagamglogene OR gene therapy OR hematopoietic cell transplantation OR allogeneic OR iron overload OR transfusion burden OR cost-effectiveness) AND (2025:2026[dp])",
+  "guideline_sources": [
+    {
+      "label": "TIF_2025_hct",
+      "role": "supports asking a hematologist to separate allogeneic HCT discussion from other branches and to check donor, iron, organ, and follow-up context",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/"
+    },
+    {
+      "label": "TIF_2025_gene_manipulation",
+      "role": "supports asking a hematologist to separate autologous gene-cell therapy from HCT and to check transfusion, iron, organ, fertility, collection, and access context",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/"
+    },
+    {
+      "label": "TIF_2025_transfusion",
+      "role": "supports bringing transfusion burden and response records before interpreting branch suitability",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614240/"
+    },
+    {
+      "label": "TIF_2025_iron_overload",
+      "role": "supports bringing ferritin, liver iron, cardiac T2*, chelator, and organ-risk context before branch interpretation",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614244/"
+    }
+  ],
+  "pubmed_records": [
+    {
+      "pmid": "42274009",
+      "lane": "pediatric_exa_cel_benchmark",
+      "title": "Exa-cel in children with transfusion-dependent beta-thalassemia or sickle cell disease.",
+      "source": "The New England Journal of Medicine",
+      "pubdate": "2026-06-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42274009/"
+    },
+    {
+      "pmid": "42252696",
+      "lane": "post_exa_cel_iron_and_erythropoiesis_context",
+      "title": "Correction of ineffective erythropoiesis and normalization of iron homeostasis after exagamglogene autotemcel in transfusion-dependent beta-thalassemia.",
+      "source": "American Journal of Hematology",
+      "pubdate": "2026-06-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252696/"
+    },
+    {
+      "pmid": "41955126",
+      "lane": "exa_cel_cost_effectiveness_context",
+      "title": "Cost-effectiveness of exagamglogene autotemcel gene-edited therapy in patients with transfusion-dependent beta-thalassemia in the United States.",
+      "source": "Journal of Medical Economics",
+      "pubdate": "2026-04-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955126/"
+    },
+    {
+      "pmid": "41919270",
+      "lane": "gene_therapy_landscape_context",
+      "title": "Current therapeutic landscape of beta-thalassemia: focus on gene therapy.",
+      "source": "Therapeutic Advances in Rare Disease",
+      "pubdate": "2026-03-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41919270/"
+    },
+    {
+      "pmid": "42091200",
+      "lane": "stem_cell_collection_context",
+      "title": "Experience with stem cell collection for children with transfusion-dependent thalassemia undergoing gene therapy.",
+      "source": "Zhonghua Yi Xue Yi Chuan Xue Za Zhi",
+      "pubdate": "2026-06-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42091200/"
+    },
+    {
+      "pmid": "41947014",
+      "lane": "allogeneic_hct_comparator",
+      "title": "Second allogeneic hematopoietic cell transplantation after graft failure is an effective curative option in children with hemoglobinopathies.",
+      "source": "American Journal of Hematology",
+      "pubdate": "2026-04-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41947014/"
+    },
+    {
+      "pmid": "42362985",
+      "lane": "iron_organ_risk_context",
+      "title": "Assessment of hepatic fibrosis in Egyptian children and adolescents with beta thalassemia major: a single center study.",
+      "source": "European Journal of Pediatrics",
+      "pubdate": "2026-06-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42362985/"
+    },
+    {
+      "pmid": "40058646",
+      "lane": "gene_therapy_best_practices_context",
+      "title": "Best practices in gene therapy for sickle cell disease and transfusion-dependent beta-thalassemia.",
+      "source": "Transplantation and Cellular Therapy",
+      "pubdate": "2025-03-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40058646/"
+    }
+  ],
+  "registry_records": [
+    {
+      "nct_id": "NCT06328764",
+      "lane": "china_base_editing_hbg_promoter_benchmark",
+      "public_status_checked": "ClinicalTrials.gov API version holder 2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06328764"
+    },
+    {
+      "nct_id": "NCT06041620",
+      "lane": "china_crispr_cas12b_hbg_promoter_benchmark",
+      "public_status_checked": "ClinicalTrials.gov API version holder 2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT06041620"
+    },
+    {
+      "nct_id": "NCT04390971",
+      "lane": "china_bcl11a_autologous_gene_cell_benchmark",
+      "public_status_checked": "ClinicalTrials.gov API version holder 2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT04390971"
+    },
+    {
+      "nct_id": "NCT05773729",
+      "lane": "china_lentiviral_autologous_gene_cell_benchmark",
+      "public_status_checked": "ClinicalTrials.gov API version holder 2026-07-01",
+      "url": "https://clinicaltrials.gov/study/NCT05773729"
+    }
+  ],
+  "quran_process_anchors": [
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md",
+    "research/islamic/quran/016-an-nahl/043.md"
+  ],
+  "decision_use": "These sources support a narrow clinician brief: verify six packet domains, then ask one private branch-scope question, then capture only public-safe labels. They do not support public diagnosis, eligibility, therapy selection, referral, trial screening, travel, import, purchase, dosing, transfusion changes, chelation changes, lab contact, private-message routing, or sample routing."
+}

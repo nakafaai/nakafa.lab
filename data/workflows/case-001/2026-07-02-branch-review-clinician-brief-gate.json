@@ -1,0 +1,67 @@
+{
+  "checked_date": "2026-07-02",
+  "workflow_id": "case001_branch_review_clinician_brief_gate",
+  "evidence_label": "branch-review clinician brief gate, not treatment advice",
+  "current_label": "case001_branch_review_clinician_brief_ready_general_only",
+  "source_artifacts": [
+    "paper/case-001-doctor-handoff.tex",
+    "research/thalassemia/case-context/case-001-doctor-handoff-brief.md",
+    "research/thalassemia/case-context/case-001-branch-review-clinician-brief-gate.md",
+    "data/literature/pubmed/2026-07-02-branch-review-clinician-brief-refresh.json",
+    "data/workflows/case-001/2026-06-30-branch-review-handoff-status-gate.json",
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md",
+    "research/islamic/quran/016-an-nahl/043.md"
+  ],
+  "conversation_order": [
+    "send_concise_doctor_handoff_before_main_paper",
+    "verify_private_packet_six_domains",
+    "ask_one_branch_scope_question_only_if_packet_ready",
+    "capture_response_as_public_safe_labels_only",
+    "keep_main_paper_as_appendix_only"
+  ],
+  "required_private_packet_domains": [
+    "diagnosis_genotype_phenotype",
+    "transfusion_burden_response",
+    "blood_bank_immune_history",
+    "iron_organ_chelation_status",
+    "hct_gene_cell_access_context",
+    "consent_ethics_private_owner_review"
+  ],
+  "allowed_branch_scope_labels": [
+    "allogeneic_hct_private_review",
+    "autologous_gene_cell_private_review",
+    "noncurative_disease_modification_private_review",
+    "standard_care_stabilization_first_private_review",
+    "benchmark_only_tracking_private_review",
+    "cannot_answer_until_packet_complete"
+  ],
+  "public_output_fields": [
+    "current_label",
+    "conversation_order",
+    "required_private_packet_domains",
+    "allowed_branch_scope_labels",
+    "blocked_outputs"
+  ],
+  "private_only_fields": [
+    "raw private record",
+    "raw clinician message",
+    "private response reference",
+    "doctor identity",
+    "hospital identity",
+    "private notes"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "lab contact permission",
+    "sample routing"
+  ],
+  "decision_rule": "The clinician brief is an agenda and packet-ordering aid. It can ask what the clinician can or cannot answer, but it cannot answer branch suitability itself."
+}

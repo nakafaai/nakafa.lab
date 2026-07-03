@@ -1,6 +1,6 @@
 \documentclass[11pt]{article}
 
-\usepackage[margin=0.75in]{geometry}
+\usepackage[margin=0.72in]{geometry}
 \usepackage{array}
 \usepackage{booktabs}
 \usepackage{enumitem}
@@ -20,78 +20,99 @@
 \setlist[enumerate]{leftmargin=*, itemsep=2pt, topsep=3pt}
 \emergencystretch=3em
 
-\title{Case-001 Doctor Handoff}
+\title{Case-001 Branch-Review Doctor Handoff}
 \author{Nakafa Lab}
-\date{Prepared 2026-05-22}
+\date{Prepared 2026-07-02}
 
 \begin{document}
 
 \maketitle
 
 \noindent\textbf{Status:} de-identified clinician conversation aid, not
-medical advice. No raw records, identifiers, exact dates, local file paths, or
-patient-specific treatment instructions are included.
+medical advice. No raw records, identifiers, exact dates, local file paths,
+doctor identity, hospital identity, contact details, or patient-specific
+treatment instructions are included.
 
 \section*{Why We Are Asking}
 
 The family is not asking for treatment changes from this document. The request
-is to confirm labels, name missing records, and decide whether the case is
-ready for specialist screening or still data-missing.
+is narrower: confirm whether the private packet is complete enough for branch
+review, name missing records, and identify the next clinical owner.
 
-\section*{How To Use This Packet}
+\section*{Use This Before The Main Paper}
 
 \begin{enumerate}
-  \item Read this one-page handoff first.
+  \item Read this handoff first.
   \item Review original medical records privately; do not put raw records in
   the public repository.
-  \item Confirm, correct, or mark unconfirmable the working labels below.
-  \item Name the first missing records and the right clinical owner for each
-  one.
+  \item Mark each packet domain below as ready, missing, or not applicable.
+  \item If the packet is complete enough, answer the one branch-scope question.
   \item Treat the longer Nakafa Lab main paper as an appendix only if the
   clinician asks for the broader evidence map.
 \end{enumerate}
 
-\section*{What To Confirm}
+\section*{Current Public State}
 
-\begin{enumerate}
-  \item What is the current diagnosis category: TDT, NTDT with regular
-  transfusion, HbE/beta-thalassemia, alpha-thalassemia, mixed disease, or
-  another label?
-  \item What molecular records are available or missing: \texttt{HBB},
-  \texttt{HBA1/HBA2}, HPFH/delta-beta-thalassemia, and HbF modifier context?
-  \item Why is transfusion frequent: high annual requirement, small per-visit
-  volume, low Hb increment, shortened red-cell survival, spleen or
-  hypersplenism, alloantibody or autoantibody issue, matching issue,
-  scheduling, or another cause?
-  \item Are iron, chelation, cardiac, liver, endocrine, kidney, bone, spleen,
-  immune, and blood-bank records complete enough to interpret risk?
-  \item Is the case ready for specialist screening for HSCT, gene-cell therapy,
-  disease-modifying drugs, or trials; or is it still data-missing, medically
-  unsuitable, access-blocked, or already under review?
-  \item If mitapivat is raised, should it stay paused until diagnosis,
-  transfusion burden, iron/organ context, liver safety, medicines, and local
-  owner constraints are complete enough for hematologist review?
-\end{enumerate}
+Current public-safe handoff label:
+\texttt{branch\_review\_handoff\_packet\_incomplete}.
 
-\section*{Current Public-Safe Labels}
+\medskip
 
-\begin{tabularx}{\textwidth}{@{}p{0.28\textwidth}Y@{}}
+\noindent This means the public repo cannot yet ask for a branch decision. The
+first useful clinical answer is which packet domains are missing and who owns
+them.
+
+\section*{Six Packet Domains To Confirm}
+
+\begin{tabularx}{\textwidth}{@{}p{0.26\textwidth}Y@{}}
 \toprule
-Area & Current label to validate \\
+Domain & What needs private clinical validation \\
 \midrule
-Clinical dependence & \texttt{transfusion\_dependent\_reported} \\
-Diagnosis & \texttt{phenotype\_only} \\
-Transfusion burden & \texttt{transfusion\_dependent\_burden\_unquantified} \\
-Immune and blood-bank & \texttt{immune\_transfusion\_packet\_missing} \\
-Iron, chelation, and organ risk & \texttt{iron\_packet\_missing} \\
-Referral readiness & \texttt{advanced\_therapy\_referral\_packet\_missing} \\
+Diagnosis, genotype, phenotype & Diagnosis category, molecular subtype, and
+whether HbF/HPFH or alpha-globin context changes interpretation. \\
+Transfusion burden and response & Dates, volume, body weight, product type,
+pre-transfusion Hb, Hb increment, interval, and annualized burden. \\
+Blood-bank and immune history & Antibody screen, DAT/direct Coombs context,
+red-cell phenotype/genotype, matching policy, reactions, spleen context, and
+hemolysis workup. \\
+Iron, organ-risk, chelation status & Ferritin trend, liver iron MRI, cardiac
+\texttt{T2*}, chelator identity, toxicity monitoring, and organ-risk notes. \\
+HCT/gene-cell access context & HLA/donor context, transplant or gene-cell
+center access, payer path, geography, travel constraints, and fertility
+counseling status. \\
+Consent, ethics, owner review & Family consent boundaries, private-record
+handling, and the qualified owner for each branch question. \\
 \bottomrule
 \end{tabularx}
+
+\section*{One Branch-Scope Question}
+
+Only after the packet is complete enough for review, please answer:
+
+\begin{quote}
+Are any domains still missing before you can answer whether Case-001 belongs
+in allogeneic HCT discussion, autologous gene-cell therapy discussion,
+non-curative disease modification, standard-care stabilization first, or
+benchmark-only tracking?
+\end{quote}
+
+\section*{Answer Format Requested}
+
+\begin{enumerate}
+  \item Packet state: complete enough, incomplete, or cannot assess.
+  \item Missing domains and first records the family should request.
+  \item Branch-scope label if answerable: allogeneic HCT discussion,
+  autologous gene-cell therapy discussion, non-curative disease modification,
+  standard-care stabilization first, benchmark-only tracking, or cannot answer
+  from packet.
+  \item Next clinical owner: hematology, transfusion medicine, genetics,
+  iron/organ-risk specialist, transplant or gene-cell center, or another
+  service.
+\end{enumerate}
 
 \section*{Records To Attach Or Request}
 
 \begin{itemize}
-  \item Private historical thalassemia screening and early hematology PDFs.
   \item Current diagnosis note, current HPLC/electrophoresis, and molecular
   testing if available.
   \item Transfusion dates, body weight, blood volume, product type,
@@ -102,36 +123,23 @@ Referral readiness & \texttt{advanced\_therapy\_referral\_packet\_missing} \\
   crossmatch problems, and hemolysis workup.
   \item Ferritin trend, liver iron concentration MRI, cardiac \texttt{T2*},
   chelator name, dose, schedule, adherence, side effects, and monitoring.
-  \item Autoimmune diagnosis, spleen status, infection/hepatitis context,
-  organ-risk monitoring, and any prior referral or advanced-therapy discussion.
+  \item HLA/donor context, prior referral or rejection, access barriers,
+  fertility counseling, and any advanced-therapy or trial discussion.
 \end{itemize}
-
-\section*{Answer Format Requested}
-
-\begin{enumerate}
-  \item Corrected diagnosis/category label.
-  \item Which public-safe labels above are correct, wrong, or not confirmable.
-  \item First missing records the family should request.
-  \item Whether specialist screening is ready, data-missing, medically
-  unsuitable, access-blocked, or already under review.
-  \item Which clinical owner should review the next packet: hematology,
-  transfusion medicine, genetics, iron/organ-risk specialist, transplant
-  center, or another service.
-\end{enumerate}
 
 \section*{Boundary}
 
 Do not change transfusion, chelation, immune medicines, supplements, diet,
 referral plan, or trial enrollment based on this handoff. Clinical decisions
-belong to licensed clinicians. The longer Nakafa Lab main paper is a research
-appendix, not the first doctor-facing document. After a doctor replies, map the
-response into labels and missing records before writing any public case update.
+belong to licensed clinicians. After a doctor replies, map the response into
+public-safe labels before writing any public case update.
 
-\section*{Mitapivat Boundary}
+\section*{Source Anchors}
 
-Mitapivat is not the opening question. It should be handled only after the
-basic labels, missing records, and seven-domain readiness checks are complete.
-Do not ask this handoff to decide dosing, access, import, travel, or trial
-screening.
+This handoff follows the July 2 branch-review clinician brief gate, TIF 2025
+transfusion, iron-overload, HCT, and gene-manipulation chapters, current
+PubMed 2025--2026 gene-cell and HCT benchmarks, and the Nakafa Lab rule that
+Quran anchors support verification and expert routing only, not biomedical
+claims.
 
 \end{document}

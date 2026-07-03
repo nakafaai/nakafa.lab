@@ -1,18 +1,19 @@
 # Case-001 Doctor Handoff Brief
 
-Date: 2026-04-30
-Status: de-identified doctor-facing brief, not treatment advice
+Date updated: 2026-07-02
+Status: de-identified doctor-facing branch-review brief, not treatment advice
 Privacy: no raw records, identifiers, local paths, contact details, exact dates,
 or patient-specific treatment instructions
 
 ## Purpose
 
 This brief is for a hematologist or thalassemia clinician. It turns Nakafa Lab's
-case-001 work into a short clinical validation request.
+case-001 work into one ordered clinical validation request.
 
-The goal is not to ask the doctor to approve Nakafa Lab as a research program.
-The goal is to ask the doctor to validate labels, identify missing records, and
-state whether the case is ready for specialist or advanced-therapy review.
+The goal is not to ask the doctor to approve Nakafa Lab as a research program
+or choose a treatment from the public repo. The goal is to ask the doctor to
+validate whether the private packet is complete enough for branch review, name
+missing records, and state which clinical owner should review the next packet.
 
 ## Send This First
 
@@ -29,55 +30,50 @@ Use this order for a doctor conversation:
    autoimmune records;
 4. the main paper only as an optional research appendix.
 
-If the clinician asks what exactly should be confirmed, use the
-[case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
-to keep the packet in order.
+If the clinician asks what exactly should be confirmed, use this order:
 
-## Output Needed From The Doctor
+1. Are the six private packet domains complete enough to review?
+2. If not, which domains are missing and who owns them?
+3. If complete, which branch is in scope to discuss privately?
+4. If a reply is given, reduce it to public-safe labels before any repo update.
 
-Please return a short answer in this structure:
+## Current Public Handoff State
 
-1. corrected diagnosis and category label;
-2. which current labels below are correct, wrong, or impossible to confirm;
-3. which records are missing and where the family should request them;
-4. whether specialist, transplant, gene-cell therapy, disease-modifying drug, or
-   trial screening is ready now, data-missing, medically unsuitable,
-   access-blocked, or already under review;
-5. which clinical owner should review the next packet: hematology,
-   transfusion medicine, genetics, iron/organ-risk specialist, transplant
-   center, or another service.
+Current public-safe handoff label:
 
-After the doctor replies, use the
-[case-001 doctor response triage](case-001-doctor-response-triage.md) to map
-the response into labels and missing records. Do not publish raw chat text,
-screenshots, clinician names, hospital names, or patient-specific treatment
-instructions.
+`branch_review_handoff_packet_incomplete`
 
-## Current Public-Safe Working Labels
+That means the public repo cannot yet ask for a branch decision. The useful
+doctor question is whether the private packet is complete enough, and if not,
+which exact domains must be completed first.
 
-| Area | Current label | What needs validation |
+## Six Packet Domains To Confirm
+
+| Domain | Public label if missing | What needs validation |
 | --- | --- | --- |
-| Clinical dependence | `transfusion_dependent_reported` | Confirm whether the current clinical label should be TDT, NTDT with regular transfusion, HbE/beta-thalassemia, or another label. |
-| Diagnosis | `phenotype_only` | Historical hemoglobin analysis supports beta-thalassemia phenotype, but molecular subtype is not documented in the public packet. |
-| Transfusion burden | `transfusion_dependent_burden_unquantified` | Weekly transfusion is reported, but annual `ml/kg/year`, pure red-cell volume, Hb increment, and iron input are not quantified. |
-| Immune and blood-bank | `immune_transfusion_packet_missing` | Antibody screen, DAT/direct Coombs specificity, red-cell phenotype/genotype, matching policy, and hemolysis workup are not yet packeted. |
-| Iron, chelation, and organ risk | `iron_packet_missing` | Daily chelation is reported, but ferritin trend, LIC MRI, cardiac `T2*`, chelator monitoring, and organ-risk screen are not yet packeted. |
-| Referral readiness | `advanced_therapy_referral_packet_missing` | HSCT, gene therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trial review cannot be judged from the public packet. |
+| Diagnosis, genotype, phenotype | `missing_diagnosis_genotype_phenotype` | Confirm diagnosis category, molecular subtype, and whether HbF/HPFH or alpha-globin context changes interpretation. |
+| Transfusion burden and response | `missing_transfusion_burden_response` | Confirm dates, volume, body weight, product type, pre-transfusion Hb, Hb increment, interval, and annualized burden. |
+| Blood-bank and immune history | `missing_blood_bank_immune_history` | Confirm antibody screen, DAT/direct Coombs context, red-cell phenotype/genotype, matching policy, reactions, spleen context, and hemolysis workup. |
+| Iron, organ-risk, chelation status | `missing_iron_organ_chelation_status` | Confirm ferritin trend, LIC MRI, cardiac `T2*`, chelator identity, toxicity monitoring, and organ-risk notes. |
+| HCT/gene-cell access context | `missing_hct_gene_cell_access_context` | Confirm HLA/donor context, transplant or gene-cell center access, payer path, geography, travel constraints, and fertility counseling status. |
+| Consent, ethics, owner review | `missing_consent_ethics_private_owner_review` | Confirm family consent boundaries, private-record handling, and which qualified owner can answer each branch question. |
 
 ## Doctor Validation Request
 
-Please help answer these labels, not treatment changes:
+Please help answer the packet and branch-review state, not treatment changes:
 
-1. What is the current best diagnosis label and subtype?
-2. Is the current state best described as TDT, NTDT with regular transfusion, or
-   another category?
-3. Why is the current transfusion interval so short: high total requirement,
-   small per-visit volume, poor Hb increment, hemolysis, spleen/hypersplenism,
-   antibody/crossmatch issue, scheduling, or another cause?
-4. Which missing records should be requested first from the hospital, blood
-   bank, or laboratory?
-5. Is the case ready for advanced-therapy or trial specialist screening, or is
-   it still data-missing?
+1. Which of the six packet domains are complete enough for review?
+2. Which domains are missing, and where should the family request those
+   records?
+3. If the packet is complete enough, are any branches in scope for private
+   specialist discussion: allogeneic HCT, autologous gene-cell therapy,
+   non-curative disease modification, standard-care stabilization first, or
+   benchmark-only tracking?
+4. If the packet is not complete, should standard-care stabilization or a
+   safety issue be reviewed first?
+5. Which clinical owner should review the next packet: hematology, transfusion
+   medicine, genetics, iron/organ-risk specialist, transplant or gene-cell
+   center, or another service?
 
 ## Records To Bring Or Request
 
@@ -92,8 +88,26 @@ Please help answer these labels, not treatment changes:
 - Ferritin trend, LIC MRI, cardiac `T2*`, chelator name, prescribed schedule,
   adherence notes, side effects, and kidney/liver/blood-count/hearing/eye/GI,
   endocrine, bone, cardiac, liver, and infection monitoring as applicable.
-- Any prior discussion, referral, rejection, or access barrier for HSCT, gene
-  therapy, CRISPR therapy, luspatercept, mitapivat, hydroxyurea, or trials.
+- Any prior discussion, referral, rejection, or access barrier for HSCT,
+  gene-cell therapy, CRISPR/base-editing therapy, luspatercept, mitapivat,
+  hydroxyurea, or trials.
+
+## Output Needed From The Doctor
+
+Please return a short answer using labels or brief notes:
+
+1. packet complete enough for branch discussion, or packet incomplete;
+2. missing domains, if any;
+3. branch in scope for private specialist review, branch out of scope,
+   stabilization first, benchmark-only, or cannot answer from packet;
+4. first missing records the family should request;
+5. next clinical owner.
+
+After the doctor replies, use the
+[branch review response capture gate](case-001-branch-review-response-capture-gate.md)
+and [handoff status gate](case-001-branch-review-handoff-status-gate.md) before
+any public update. Do not publish raw chat text, screenshots, clinician names,
+hospital names, or patient-specific treatment instructions.
 
 ## What We Are Not Asking
 
@@ -116,15 +130,17 @@ Nakafa Lab can continue non-clinical work in parallel:
 
 ## Source-Backed Gates
 
-- [Case-001 record request matrix](case-001-record-request-matrix.md)
-- [Case-001 no-lab completion tracker](case-001-no-lab-completion-tracker.md)
 - [Case-001 minimum hematologist packet](case-001-minimum-hematologist-packet.md)
 - [Case-001 clinician confirmation packet index](case-001-clinician-confirmation-packet-index.md)
+- [Case-001 branch review minimum packet gate](case-001-branch-review-minimum-packet-gate.md)
+- [Case-001 branch review handoff status gate](case-001-branch-review-handoff-status-gate.md)
+- [Case-001 branch review clinician brief gate](case-001-branch-review-clinician-brief-gate.md)
 - [Doctor handoff sprint gate](../findings/2026-04-30-case001-doctor-handoff-sprint-gate.md)
-- [Transfusion burden readiness gate](../findings/2026-05-01-case001-transfusion-burden-readiness-gate.md)
 - [TIF 2025 blood transfusion chapter](https://www.ncbi.nlm.nih.gov/books/NBK614240/)
 - [TIF 2025 iron overload chapter](https://www.ncbi.nlm.nih.gov/books/NBK614244/)
-- [TIF 2025 monitoring recommendations](https://www.ncbi.nlm.nih.gov/books/NBK614248/)
-- [GeneReviews beta-thalassemia](https://www.ncbi.nlm.nih.gov/books/NBK1426/)
+- [TIF 2025 HCT chapter](https://www.ncbi.nlm.nih.gov/books/NBK614242/)
+- [TIF 2025 gene manipulation chapter](https://www.ncbi.nlm.nih.gov/books/NBK614241/)
+- [July 2 branch-review clinician brief refresh](../../../data/literature/pubmed/2026-07-02-branch-review-clinician-brief-refresh.json)
 - [Quran 16:43 expert-consultation anchor](../../islamic/quran/016-an-nahl/043.md)
-- [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)
+- [Quran 49:6 verification anchor](../../islamic/quran/049-al-hujurat/006.md)
+- [Quran 4:58 owner-routing anchor](../../islamic/quran/004-an-nisa/058.md)

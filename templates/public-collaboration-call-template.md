@@ -20,23 +20,27 @@ doctor messages, exact dates, or patient-specific treatment instructions
 Short version:
 
 > Nakafa Lab is organizing source-backed thalassemia research. We have not found
-> a cure, and we are not asking the public for treatment advice. We need
-> qualified help in bounded roles: clinicians, transfusion medicine, molecular
-> genetics, iron/organ monitoring, advanced-therapy access, wet-lab assays,
-> privacy-safe software, access mapping, and Islamic ethics review. Please do
-> not send raw patient records in public replies. If you can help, reply with
-> your role and the specific domain you can review.
+> a cure, and we are not asking the public for treatment advice. The current
+> blocker is routing: a transfusion-dependent thalassemia branch-review packet
+> needs qualified, role-bounded review. We need help from clinicians,
+> transfusion medicine, molecular genetics, iron/organ monitoring, HCT or
+> gene-cell pathway experts, wet-lab assay reviewers, privacy-safe software
+> builders, access mappers, funders, and Islamic ethics reviewers. Please do
+> not post raw records or treatment suggestions. If you can help, reply with
+> your role, narrow domain, and any public source or registry ID.
 
 Long version:
 
 > Nakafa Lab is an open, source-backed research effort focused on thalassemia.
-> A transfusion-dependent thalassemia case cannot be reviewed as one broad
-> question. We need role-bounded help across diagnosis/genetics, transfusion
-> burden, blood-bank records, iron/organ monitoring, advanced-therapy screening,
-> assay feasibility, privacy-safe tooling, access mapping, and Islamic ethics.
-> This is not public treatment advice, and we have not found a cure. Please do
-> not post raw records, screenshots, doctor messages, names, hospitals, exact
-> dates, or private contact details.
+> A transfusion-dependent thalassemia branch-review packet cannot be reviewed as
+> one broad internet question. We need role-bounded help across
+> diagnosis/genetics, transfusion burden, blood-bank records, iron/organ
+> monitoring, HCT and gene-cell pathway explanation, clinical-trial or registry
+> disambiguation, assay feasibility, privacy-safe tooling, access mapping,
+> funding, and Islamic ethics. This is not public treatment advice, and we have
+> not found a cure. Please do not post raw records, screenshots, doctor
+> messages, names, hospitals, exact dates, private contact details, eligibility
+> claims, referral instructions, or treatment suggestions.
 
 ## Blocked Content Check
 
@@ -45,6 +49,8 @@ Long version:
   accession numbers, or local paths.
 - No patient-specific treatment advice.
 - No cure claim.
+- No eligibility, referral, trial-screening, lab-contact, or sample-routing
+  instruction.
 
 ## Intake Decision
 

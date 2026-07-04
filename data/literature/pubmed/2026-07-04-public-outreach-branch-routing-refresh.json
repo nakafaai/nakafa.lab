@@ -1,0 +1,75 @@
+{
+  "checked_date": "2026-07-04",
+  "evidence_label": "public outreach branch routing refresh, not treatment advice",
+  "pubmed_query": "(transfusion-dependent beta-thalassemia OR transfusion dependent thalassemia OR beta thalassemia) AND (gene therapy OR gene editing OR hematopoietic cell transplantation OR exagamglogene OR mitapivat OR luspatercept OR iron overload) AND 2026[pdat]",
+  "clinicaltrials_query": "ClinicalTrials.gov API v2: beta thalassemia + gene therapy/gene editing/CRISPR/HBG promoter; targeted branch IDs checked",
+  "guideline_sources": [
+    {
+      "label": "TIF_2025_hct",
+      "role": "route HCT questions to qualified owners, not public eligibility claims",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614242/"
+    },
+    {
+      "label": "TIF_2025_gene_manipulation",
+      "role": "treat autologous gene-cell therapy as a specialist pathway with collection, conditioning, organ, fertility, follow-up, and access constraints",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/"
+    },
+    {
+      "label": "GeneReviews_beta_thalassemia",
+      "role": "frame diagnosis, transfusion, chelation, luspatercept, mitapivat, and monitoring as clinician-owned domains",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK1426/"
+    }
+  ],
+  "pubmed_records": [
+    {
+      "pmid": "41919270",
+      "lane": "gene_therapy_landscape",
+      "title": "Current therapeutic landscape of beta-thalassemia: focus on gene therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41919270/"
+    },
+    {
+      "pmid": "42096248",
+      "lane": "gene_therapy_cure_language_boundary",
+      "title": "Is gene therapy a cure for beta-thalassemia?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096248/"
+    },
+    {
+      "pmid": "41726390",
+      "lane": "luspatercept_management_context",
+      "title": "How I manage luspatercept in transfusion-dependent beta-thalassemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41726390/"
+    }
+  ],
+  "registry_records": [
+    {
+      "nct_id": "NCT05356195",
+      "lane": "exa_cel_pediatric_benchmark",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "last_update": "2026-07-01",
+      "countries": ["Canada", "Germany", "Italy", "United Kingdom", "United States"],
+      "url": "https://clinicaltrials.gov/study/NCT05356195"
+    },
+    {
+      "nct_id": "NCT05477563",
+      "lane": "exa_cel_recruiting_benchmark",
+      "status": "RECRUITING",
+      "last_update": "2026-03-23",
+      "countries": ["Germany", "Italy", "Saudi Arabia", "United States"],
+      "url": "https://clinicaltrials.gov/study/NCT05477563"
+    },
+    {
+      "nct_id": "NCT06328764",
+      "lane": "china_cs101_hbg_promoter_benchmark",
+      "status": "ENROLLING_BY_INVITATION",
+      "last_update": "2026-06-09",
+      "countries": ["China"],
+      "url": "https://clinicaltrials.gov/study/NCT06328764"
+    }
+  ],
+  "quran_process_anchors": [
+    "research/islamic/quran/049-al-hujurat/006.md",
+    "research/islamic/quran/004-an-nisa/058.md",
+    "research/islamic/quran/016-an-nahl/043.md"
+  ],
+  "decision_use": "Supports public role/source/registry routing only; blocks public diagnosis, eligibility, treatment selection, referral, trial screening, travel, import, purchase, dosing, transfusion or chelation changes, lab contact, private-message routing, and sample routing."
+}

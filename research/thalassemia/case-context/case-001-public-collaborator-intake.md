@@ -1,6 +1,6 @@
 # Case-001 Public Collaborator Intake
 
-Date: 2026-05-07
+Date updated: 2026-07-04
 Status: de-identified public-collaborator intake guide, not treatment advice
 Privacy: no raw records, screenshots, identifiers, exact dates, clinician names,
 hospital names, phone numbers, local paths, or patient-specific treatment
@@ -12,12 +12,12 @@ Use this when Nakafa Lab is shared publicly and people offer help. The goal is
 to route each offer to a bounded task without exposing private case data or
 creating public medical advice.
 
-Use the public share kit before posting a public call:
+Use the public share kit and branch-routing gate before posting a public call:
 [Case-001 public share kit](case-001-public-share-kit.md).
 
 ## Current Intake Label
 
-`public_collaborator_intake_ready`
+`case001_public_outreach_branch_routing_ready_general_only`
 
 ## Public-Safe Intake States
 
@@ -40,7 +40,8 @@ A safe public call should ask for help with roles, not treatment decisions:
 - transfusion medicine or blood-bank record needs;
 - molecular genetics record needs;
 - iron, MRI, cardiology, endocrine, or organ-monitoring packet review;
-- transplant, gene-cell therapy, or trial screening pathway explanation;
+- transplant, gene-cell therapy, or trial pathway explanation without
+  eligibility screening;
 - wet-lab assay feasibility review;
 - data, software, reproducibility, and privacy tooling;
 - funding, logistics, and access mapping;
@@ -50,11 +51,13 @@ A safe public call should ask for help with roles, not treatment decisions:
 
 1. Record the inquiry privately by alias.
 2. Classify the role and whether the scope matches a current gate.
-3. Do not request or accept raw private records in public channels.
-4. Route qualified clinical roles to the owner outreach packet.
-5. Route non-clinical roles to scoped repo tasks, assay review, privacy review,
+3. Ask for public sources, PMIDs, guideline URLs, or registry IDs when a reply
+   mentions a pathway.
+4. Do not request or accept raw private records in public channels.
+5. Route qualified clinical roles to the owner outreach packet.
+6. Route non-clinical roles to scoped repo tasks, assay review, privacy review,
    access mapping, or Islamic ethics review.
-6. Block public medical advice and keep patient-specific treatment comments
+7. Block public medical advice and keep patient-specific treatment comments
    private.
 
 ## Do Not Ask The Public To Decide
@@ -71,6 +74,7 @@ barriers.
 
 ## Source-Backed Gates
 
+- [Case-001 public outreach branch routing gate](case-001-public-outreach-branch-routing-gate.md)
 - [Case-001 public share kit](case-001-public-share-kit.md)
 - [Case-001 public collaborator intake gate](../findings/2026-05-07-case001-public-collaborator-intake-gate.md)
 - [Case-001 owner outreach packet](case-001-owner-outreach-packet.md)

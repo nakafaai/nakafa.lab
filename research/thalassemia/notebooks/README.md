@@ -243,6 +243,9 @@ Current notebooks:
 - `2026-07-02-case001-branch-review-clinician-brief-gate.ipynb` - synthetic
   sequencing check that keeps the doctor brief packet-first, branch-second,
   and response-label-only.
+- `2026-07-04-case001-public-outreach-branch-routing-gate.ipynb` - synthetic
+  routing check that keeps public outreach role-bounded, source-backed, and
+  blocked from medical-action outputs.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

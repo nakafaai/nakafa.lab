@@ -1,0 +1,54 @@
+{
+  "checked_date": "2026-07-04",
+  "workflow_id": "case001_public_outreach_branch_routing_gate",
+  "evidence_label": "public outreach branch routing gate, not treatment advice",
+  "current_label": "case001_public_outreach_branch_routing_ready_general_only",
+  "source_artifacts": [
+    "research/thalassemia/case-context/case-001-public-share-kit.md",
+    "research/thalassemia/case-context/case-001-public-outreach-branch-routing-gate.md",
+    "data/literature/pubmed/2026-07-04-public-outreach-branch-routing-refresh.json"
+  ],
+  "public_call_order": [
+    "state_no_cure_claim_and_no_treatment_advice",
+    "ask_for_role_domain_and_public_source",
+    "block_raw_records_and_patient_specific_instructions",
+    "route_each_reply_before_private_follow_up"
+  ],
+  "allowed_public_requests": [
+    "claimed role",
+    "narrow review domain",
+    "public source URL",
+    "public registry ID",
+    "general pathway explanation",
+    "assay feasibility without patient samples",
+    "repo task without private records",
+    "funding logistics or access mapping offer",
+    "Islamic ethics or tafsir boundary review"
+  ],
+  "blocked_public_requests": [
+    "raw private records",
+    "doctor message",
+    "patient identifier",
+    "case-specific diagnosis",
+    "eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "lab contact permission",
+    "private-message routing",
+    "sample routing"
+  ],
+  "reply_routes": {
+    "clinical_role_with_packet_domain": "role_scope_check_needed",
+    "hct_gene_cell_or_trial_pathway": "registry_or_pathway_disambiguation_needed",
+    "wet_lab_or_assay_offer": "assay_feasibility_scope_needed",
+    "software_data_privacy_source_mapping": "repo_task_scope_needed",
+    "funding_logistics_access_offer": "access_mapping_scope_needed",
+    "islamic_ethics_or_tafsir_offer": "ethics_scope_needed",
+    "request_for_raw_records": "blocked_raw_record_request",
+    "public_treatment_advice": "blocked_treatment_advice"
+  },
+  "decision_rule": "Public replies can move only to role/source-routing states, never to Case-001 diagnosis, eligibility, referral, treatment, trial screening, lab contact, or sample routing."
+}

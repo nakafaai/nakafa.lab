@@ -1075,3 +1075,7 @@ data/workflows/case-001/2026-07-04-public-outreach-branch-routing-gate.json
 docs/status/2026-07-04.md
 research/thalassemia/case-context/case-001-public-outreach-branch-routing-gate.md
 research/thalassemia/notebooks/2026-07-04-case001-public-outreach-branch-routing-gate.ipynb
+data/literature/pubmed/2026-07-06-asia-registry-source-radar.json
+docs/status/2026-07-06.md
+research/thalassemia/findings/2026-07-06-asia-registry-source-radar.md
+research/thalassemia/notebooks/2026-07-06-case001-asia-registry-source-radar.ipynb

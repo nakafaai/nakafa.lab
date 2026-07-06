@@ -246,6 +246,8 @@ Current notebooks:
 - `2026-07-04-case001-public-outreach-branch-routing-gate.ipynb` - synthetic
   routing check that keeps public outreach role-bounded, source-backed, and
   blocked from medical-action outputs.
+- `2026-07-06-case001-asia-registry-source-radar.ipynb` - compact ranking
+  check for Asia-facing public source follow-up without eligibility outputs.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

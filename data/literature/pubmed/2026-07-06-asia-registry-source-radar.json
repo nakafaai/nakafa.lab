@@ -1,0 +1,80 @@
+{
+  "checked_date": "2026-07-06",
+  "evidence_label": "Asia registry source radar, benchmark-only, not treatment advice",
+  "clinicaltrials_queries": [
+    "ClinicalTrials.gov API v2: beta thalassemia + gene therapy/gene editing/CRISPR/HBG promoter/autologous",
+    "ClinicalTrials.gov API v2: targeted IDs NCT07489196,NCT06328764,NCT06024876,NCT06717932,NCT06065189,NCT06465550,NCT05762510,NCT06308159,NCT07292259,NCT06490601,NCT06146478,NCT05477563"
+  ],
+  "pubmed_query": "(beta thalassemia OR transfusion-dependent beta-thalassemia) AND (China OR Asia OR Japan OR Korea OR Singapore OR Indonesia OR Pakistan OR India OR Russia) AND (gene therapy OR gene editing OR transplantation OR thalidomide OR hydroxyurea) AND 2026[pdat]",
+  "pubmed_records": [
+    {
+      "pmid": "41951736",
+      "lane": "china_base_editing_clinical_application",
+      "title": "Clinical application of base editing for treating beta-thalassaemia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41951736/"
+    },
+    {
+      "pmid": "41482447",
+      "lane": "limited_resource_prioritization_matrix",
+      "title": "Management of transfusion-dependent beta-thalassaemia in the era of novel therapies: a prioritisation-based matrix for settings with limited resources.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41482447/"
+    },
+    {
+      "pmid": "42399579",
+      "lane": "thalidomide_after_luspatercept_failure_benchmark",
+      "title": "Low- to moderate-dose thalidomide combination rescue after luspatercept failure in transfusion-dependent beta-thalassemia: a real-world cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399579/"
+    }
+  ],
+  "registry_records": [
+    {
+      "nct_id": "NCT07489196",
+      "country": "China",
+      "lane": "CS-101 phase 2 base-editing benchmark",
+      "status": "NOT_YET_RECRUITING",
+      "last_update": "2026-03-24",
+      "url": "https://clinicaltrials.gov/study/NCT07489196"
+    },
+    {
+      "nct_id": "NCT06328764",
+      "country": "China",
+      "lane": "CS-101 invitation-only benchmark",
+      "status": "ENROLLING_BY_INVITATION",
+      "last_update": "2026-06-09",
+      "url": "https://clinicaltrials.gov/study/NCT06328764"
+    },
+    {
+      "nct_id": "NCT06717932",
+      "country": "China",
+      "lane": "CS-101 long-term follow-up benchmark",
+      "status": "ENROLLING_BY_INVITATION",
+      "last_update": "2026-02-10",
+      "url": "https://clinicaltrials.gov/study/NCT06717932"
+    },
+    {
+      "nct_id": "NCT06465550",
+      "country": "China",
+      "lane": "BD211 gene-modified autologous benchmark",
+      "status": "RECRUITING",
+      "last_update": "2024-06-24",
+      "url": "https://clinicaltrials.gov/study/NCT06465550"
+    },
+    {
+      "nct_id": "NCT05477563",
+      "country": "Saudi Arabia plus Germany, Italy, United States",
+      "lane": "CTX001 regional-access benchmark",
+      "status": "RECRUITING",
+      "last_update": "2026-03-23",
+      "url": "https://clinicaltrials.gov/study/NCT05477563"
+    },
+    {
+      "nct_id": "NCT07292259",
+      "country": "Pakistan",
+      "lane": "thalidomide plus hydroxyurea benchmark",
+      "status": "COMPLETED",
+      "last_update": "2026-05-05",
+      "url": "https://clinicaltrials.gov/study/NCT07292259"
+    }
+  ],
+  "decision_use": "Use these records to ask public helpers for source disambiguation and pathway explanation only. Do not use them for Case-001 eligibility, referral, trial screening, travel, import, purchase, dosing, transfusion or chelation changes, lab contact, private-message routing, or sample routing."
+}

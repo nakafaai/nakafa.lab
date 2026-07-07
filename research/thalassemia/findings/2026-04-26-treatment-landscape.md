@@ -44,6 +44,13 @@ therapies have been fully reviewed.
   12 years and older. It requires autologous stem-cell collection, genome
   editing, myeloablative conditioning, and specialist infrastructure.
 
+2026-07-07 update: the FDA Casgevy product page now lists `STN 125787` for
+patients aged 2 years and older with transfusion-dependent beta-thalassemia.
+The older 12 years and older statement above should be read as the historical
+state of this April note, not the current FDA benchmark. This update still does
+not establish Indonesia access, reimbursement, patient suitability, referral,
+travel, import, purchase, or treatment guidance.
+
 ## Gene Therapy Access Frontier
 
 The 2026-04-27 deep dive reframes gene therapy as proof of cure biology, not as
@@ -86,4 +93,5 @@ maturation, red-cell survival, or transfusion burden.
 - [FDA Reblozyl approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia)
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [July 2026 FDA Casgevy age-expansion benchmark](./2026-07-07-casgevy-age-expansion-benchmark.md)
 - [Gene therapy access frontier note](./2026-04-27-gene-therapy-access-frontier.md)

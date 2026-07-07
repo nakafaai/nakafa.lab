@@ -1,0 +1,63 @@
+{
+  "checked_date": "2026-07-07",
+  "workflow_id": "casgevy_fda_age_expansion_benchmark",
+  "current_label": "casgevy_fda_age_expansion_benchmark_only",
+  "evidence_label": "FDA regulatory benchmark update, not treatment advice",
+  "sources": [
+    {
+      "source_label": "FDA CASGEVY product page",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "checked_date": "2026-07-07",
+      "source_role": "FDA product page lists STN 125787 for patients aged 2 years and older with transfusion-dependent beta-thalassemia and SCD; it also preserves STN 125785 for the earlier 12 years and older indication."
+    },
+    {
+      "source_label": "FDA July 1 2026 supplemental approval press announcement",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
+      "checked_date": "2026-07-07",
+      "source_role": "FDA states the supplemental approval covers Casgevy for patients aged 2 years and older with either SCD with recurrent VOCs or TDT, and describes pediatric TDT trial and extrapolation context."
+    },
+    {
+      "source_label": "TIF 2025 gene manipulation chapter",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "checked_date": "2026-07-07",
+      "source_role": "Clinical guideline anchor for gene addition and gene editing context, including autologous HSPC collection, conditioning, infusion, follow-up, cost, and long-term surveillance."
+    }
+  ],
+  "benchmark_interpretation": [
+    {
+      "claim": "The public FDA regulatory benchmark for Casgevy now includes patients aged 2 years and older with TDT under STN 125787.",
+      "evidence_state": "official regulator source",
+      "case001_use": "benchmark_only"
+    },
+    {
+      "claim": "The update does not establish Indonesia availability, reimbursement, center access, private patient suitability, or a referral path.",
+      "evidence_state": "access gap remains unresolved",
+      "case001_use": "blocked_until_private_clinician_review"
+    },
+    {
+      "claim": "The branch-review blocker remains the private six-domain packet, not the existence of an FDA-approved gene-editing benchmark.",
+      "evidence_state": "workflow rule",
+      "case001_use": "keep_branch_review_handoff_packet_incomplete"
+    }
+  ],
+  "allowed_public_outputs": [
+    "casgevy_fda_age_expansion_benchmark_only",
+    "ask_for_public_regulatory_source_disambiguation",
+    "ask_private_clinician_whether_gene_cell_branch_owner_is_relevant_after_packet_review"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "lab contact permission",
+    "sample routing",
+    "raw private record",
+    "doctor or family private message"
+  ],
+  "decision_rule": "Record the July 2026 FDA age-expansion as a current benchmark and source-map update only. Do not use it to change Case-001 branch state without private packet review by qualified clinical owners."
+}

@@ -1079,3 +1079,6 @@ data/literature/pubmed/2026-07-06-asia-registry-source-radar.json
 docs/status/2026-07-06.md
 research/thalassemia/findings/2026-07-06-asia-registry-source-radar.md
 research/thalassemia/notebooks/2026-07-06-case001-asia-registry-source-radar.ipynb
+data/regulatory/casgevy/2026-07-07-fda-age-expansion-benchmark.json
+docs/status/2026-07-07.md
+research/thalassemia/findings/2026-07-07-casgevy-age-expansion-benchmark.md

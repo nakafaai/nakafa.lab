@@ -122,6 +122,7 @@ Checked on 2026-04-26 unless noted.
 | Gene therapy | [Betibeglogene autotemcel, PubMed PMID 34891223](https://pubmed.ncbi.nlm.nih.gov/34891223/) | Clinical evidence for lentiviral beta-globin gene addition in beta-thalassemia. |
 | Gene therapy | [Betibeglogene autotemcel value summary, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10372978/) | Evidence and cost-effectiveness uncertainty for lentiviral beta-globin gene addition. |
 | Gene editing | [Casgevy FDA product page](https://www.fda.gov/vaccines-blood-biologics/casgevy) | FDA-regulated CRISPR cell therapy reference. |
+| Gene editing | [July 7 Casgevy FDA age-expansion benchmark](../../../data/regulatory/casgevy/2026-07-07-fda-age-expansion-benchmark.json) | Checked 2026-07-07; records FDA `STN 125787` as a 2 years and older TDT benchmark while keeping Case-001 eligibility, access, referral, travel, import, purchase, and treatment decisions blocked. |
 | Gene editing | [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/) | Clinical evidence for CRISPR-edited autologous cells in TDT. |
 | Gene editing | [NICE exagamglogene autotemcel appraisal](https://www.ncbi.nlm.nih.gov/books/NBK610907/) | Managed-access recommendation, access limitations, and cost-effectiveness uncertainty. |
 | Gene therapy | [Gene-therapy PubMed exa-cel snapshot](../../../data/literature/pubmed/2026-04-27-exagamglogene-autotemcel-beta-thalassemia.json) | Reproducible PubMed query snapshot for exa-cel in beta-thalassemia. |

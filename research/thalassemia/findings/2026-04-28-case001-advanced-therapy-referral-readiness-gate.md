@@ -33,7 +33,7 @@ The stronger question is:
 | --- | --- | --- |
 | HSCT | TIF 2025 frames HCT as curative for selected TDT patients, but dependent on donor route, iron/organ workup, conditioning, follow-up, and expert centers. | Ask whether evaluation is appropriate only after subtype, donor, organ-risk, infection, fertility, and access records are organized. |
 | Gene addition | FDA lists Zynteglo for beta-thalassemia patients requiring regular RBC transfusions; TIF gene-manipulation guidance frames it as autologous HSPC collection, manufacturing, myeloablation, infusion, and follow-up. | Product indication does not equal local availability or patient eligibility. |
-| Gene editing / CRISPR | FDA lists Casgevy for TDT in patients 12 years and older; NICE keeps exa-cel under managed-access and uncertainty boundaries. | Treat as a referral-center question, not a repo decision. |
+| Gene editing / CRISPR | FDA lists Casgevy for TDT; the current FDA benchmark is 2 years and older under `STN 125787`, while NICE keeps exa-cel under managed-access and uncertainty boundaries for people 12 years and over. | Treat as a referral-center question, not a repo decision. |
 | Disease-modifying drugs | FDA luspatercept approval and phase 3 evidence support adult beta-thalassemia transfusion-burden reduction; mitapivat remains a benchmark with monitoring constraints. | Requires confirmed subtype, baseline burden, spleen/immune context, response definition, monitoring, and access review. |
 | Asia signals | A 2026 China multicenter HSCT trial plus China gene-therapy registry records show strong regional activity. | Continue Asia-aware scouting, but do not infer case-specific eligibility. |
 
@@ -80,6 +80,7 @@ are not biomedical evidence for any therapy.
 - [TIF 2025 HSCT chapter](https://www.ncbi.nlm.nih.gov/books/NBK614242/)
 - [TIF 2025 gene manipulation chapter](https://www.ncbi.nlm.nih.gov/books/NBK614241/)
 - [FDA Casgevy](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [July 2026 Casgevy source consistency gate](./2026-07-08-casgevy-source-consistency-gate.md)
 - [FDA Zynteglo](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA luspatercept beta-thalassemia approval](https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-luspatercept-aamt-anemia-patients-beta-thalassemia)
 - [NICE exagamglogene autotemcel appraisal](https://www.ncbi.nlm.nih.gov/books/NBK610907/)

@@ -1082,3 +1082,7 @@ research/thalassemia/notebooks/2026-07-06-case001-asia-registry-source-radar.ipy
 data/regulatory/casgevy/2026-07-07-fda-age-expansion-benchmark.json
 docs/status/2026-07-07.md
 research/thalassemia/findings/2026-07-07-casgevy-age-expansion-benchmark.md
+data/regulatory/casgevy/2026-07-08-source-consistency-gate.json
+docs/status/2026-07-08.md
+research/thalassemia/findings/2026-07-08-casgevy-source-consistency-gate.md
+research/thalassemia/notebooks/2026-07-08-casgevy-source-consistency-gate.ipynb

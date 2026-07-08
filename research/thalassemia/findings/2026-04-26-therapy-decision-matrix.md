@@ -19,7 +19,7 @@ organ status, immune status, access, and cost.
 | Mitapivat | Improve anemia via red-cell metabolism | Adults with alpha- or beta-thalassemia anemia | Liver monitoring, REMS, drug interactions, access |
 | HSCT | Potential cure | Suitable donor and acceptable transplant risk | Donor, conditioning toxicity, infection, GVHD, cost |
 | Zynteglo | Autologous gene addition | Beta-thalassemia requiring regular transfusion | Infrastructure, conditioning, individualized manufacturing, eligibility |
-| Casgevy | CRISPR HbF reactivation | TDT beta-thalassemia age 12+ in approved settings | Infrastructure, conditioning, individualized manufacturing, long-term follow-up |
+| Casgevy | CRISPR HbF reactivation | TDT beta-thalassemia in approved settings; current FDA benchmark is 2 years and older under `STN 125787` | Infrastructure, conditioning, individualized manufacturing, long-term follow-up |
 
 ## Data Needed Before Applying Matrix To A Patient
 
@@ -55,3 +55,4 @@ erythroid correction.
 - [Exagamglogene autotemcel, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
 - [Gene therapy access frontier note](./2026-04-27-gene-therapy-access-frontier.md)
+- [July 2026 Casgevy source consistency gate](./2026-07-08-casgevy-source-consistency-gate.md)

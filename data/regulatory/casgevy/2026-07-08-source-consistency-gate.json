@@ -1,0 +1,96 @@
+{
+  "checked_date": "2026-07-08",
+  "workflow_id": "casgevy_source_consistency_gate",
+  "current_label": "casgevy_source_consistency_ready_current_benchmark_only",
+  "evidence_label": "source consistency gate, not treatment advice",
+  "current_source_state": [
+    {
+      "source_label": "FDA CASGEVY product page",
+      "url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "current_public_benchmark": "STN 125787 lists patients aged 2 years and older with transfusion-dependent beta-thalassemia."
+    },
+    {
+      "source_label": "NICE exagamglogene autotemcel appraisal",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK610907/",
+      "current_public_benchmark": "NICE managed-access recommendation remains for people 12 years and over in the cited UK appraisal."
+    },
+    {
+      "source_label": "TIF 2025 gene manipulation chapter",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "current_public_benchmark": "Gene manipulation remains specialist-owned and infrastructure-heavy, regardless of regulator age wording."
+    }
+  ],
+  "consistency_actions": [
+    {
+      "path": "research/thalassemia/findings/2026-04-26-therapy-decision-matrix.md",
+      "action": "patched_current_note",
+      "reason": "The decision matrix is a compact explanatory artifact likely to be read as a current comparison."
+    },
+    {
+      "path": "research/thalassemia/findings/2026-04-27-gene-therapy-access-frontier.md",
+      "action": "patched_current_note",
+      "reason": "The access-frontier note is a live source map for approved advanced-therapy benchmarks."
+    },
+    {
+      "path": "research/thalassemia/findings/2026-04-27-curative-options-eligibility-gate.md",
+      "action": "patched_current_note",
+      "reason": "The eligibility gate feeds clinician-facing packet logic and should show the current FDA benchmark."
+    },
+    {
+      "path": "research/thalassemia/findings/2026-04-28-case001-advanced-therapy-referral-readiness-gate.md",
+      "action": "patched_current_note",
+      "reason": "The referral-readiness gate is a live packet-readiness artifact and should show the current FDA benchmark."
+    },
+    {
+      "path": "data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json",
+      "action": "historical_snapshot_do_not_rewrite",
+      "reason": "Dated source snapshot captured the source state before the July 2026 FDA expansion."
+    },
+    {
+      "path": "data/literature/pubmed/2026-06-24-curative-branch-question-refresh.json",
+      "action": "historical_snapshot_do_not_rewrite",
+      "reason": "Dated source snapshot captured the source state before the July 2026 FDA expansion."
+    },
+    {
+      "path": "data/workflows/case-001/2026-05-26-advanced-therapy-screening-owner-packet.json",
+      "action": "historical_snapshot_do_not_rewrite",
+      "reason": "Workflow JSON remains historical; current interpretation is superseded by July 7 and July 8 gates."
+    },
+    {
+      "path": "data/workflows/case-001/2026-05-27-advanced-therapy-clinician-answer-ladder.json",
+      "action": "historical_snapshot_do_not_rewrite",
+      "reason": "Workflow JSON remains historical; current interpretation is superseded by July 7 and July 8 gates."
+    },
+    {
+      "path": "data/workflows/case-001/2026-05-28-advanced-therapy-route-triage.json",
+      "action": "historical_snapshot_do_not_rewrite",
+      "reason": "Workflow JSON remains historical; current interpretation is superseded by July 7 and July 8 gates."
+    },
+    {
+      "path": "data/workflows/case-001/2026-05-29-curative-affordability-gap-matrix.json",
+      "action": "historical_snapshot_do_not_rewrite",
+      "reason": "Workflow JSON remains historical; current interpretation is superseded by July 7 and July 8 gates."
+    }
+  ],
+  "allowed_public_outputs": [
+    "source_consistency_ready_current_benchmark_only",
+    "historical_snapshot_do_not_rewrite",
+    "patched_current_note",
+    "ask_private_clinician_after_packet_readiness"
+  ],
+  "blocked_outputs": [
+    "patient-specific eligibility claim",
+    "therapy selection",
+    "trial-screening instruction",
+    "referral instruction",
+    "travel or import plan",
+    "purchase or procurement route",
+    "dose or treatment recommendation",
+    "transfusion or chelation change",
+    "lab contact permission",
+    "sample routing",
+    "raw private record",
+    "doctor or family private message"
+  ],
+  "decision_rule": "Use the July 2026 FDA 2 years and older language for current U.S. Casgevy benchmark statements, preserve dated snapshots as historical source state, and keep all Case-001 action blocked until private packet review by qualified clinical owners."
+}

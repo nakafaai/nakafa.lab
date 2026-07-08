@@ -14,7 +14,7 @@ affordable than specialist autologous cell therapy.
 ## What Is Already Validated
 
 - Casgevy is listed by the FDA for transfusion-dependent beta-thalassemia
-  (TDT) in patients 12 years and older.
+  (TDT); the current FDA benchmark is 2 years and older under `STN 125787`.
 - Zynteglo is listed by the FDA for adult and pediatric beta-thalassemia
   patients who require regular red blood cell transfusions.
 - Exa-cel validates the HbF-reactivation strategy: edited autologous stem cells
@@ -77,6 +77,7 @@ correct interpretation is:
 ## Sources
 
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [July 2026 Casgevy source consistency gate](./2026-07-08-casgevy-source-consistency-gate.md)
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [Exagamglogene autotemcel for TDT, PubMed PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/)
 - [Betibeglogene autotemcel for non-beta0/beta0 beta-thalassemia, PubMed PMID 34891223](https://pubmed.ncbi.nlm.nih.gov/34891223/)

@@ -27,7 +27,7 @@ for a licensed specialist to evaluate the path.
 | PMID `41730859` | A 2026 multicenter phase 4 trial reported high 2-year survival and event-free survival across matched sibling, matched unrelated, and haploidentical donor groups, with higher GVHD burden in alternative donors. | Alternative donors may expand the pool, but GVHD and center expertise remain major gates. |
 | PMID `27909215` | HSCT can have high cure rates when accessible; best results are linked to earlier treatment before end-organ damage; access remains limited by donors, services, and cost. | Older review, but its access and timing boundary remains relevant. |
 | PMID `41753067` | Curative approaches need criteria for selecting patients between allo-HSCT and gene therapy; gene therapy remains limited by technology, infrastructure, and cost. | Selection criteria must be individualized by specialists. |
-| FDA Casgevy page | Casgevy is listed for transfusion-dependent beta-thalassemia in patients 12 years and older. | FDA indication does not equal Indonesian availability or patient eligibility. |
+| FDA Casgevy page | Casgevy is listed for transfusion-dependent beta-thalassemia; the current FDA benchmark is 2 years and older under `STN 125787`. | FDA indication does not equal Indonesian availability or patient eligibility. |
 | FDA Zynteglo page | Zynteglo is listed for adult and pediatric beta-thalassemia patients requiring regular RBC transfusions. | FDA indication does not equal Indonesian availability or patient eligibility. |
 | PMID `39527960` | Beti-cel HGB-212 studied severe genotypes and used transfusion history, mobilization, busulfan conditioning, and long-term follow-up gates. | Autologous gene therapy still requires myeloablation, manufacturing, and specialist follow-up. |
 | PMID `38657265` and PMID `34891223` | Exa-cel and earlier beti-cel studies benchmark transfusion-independence endpoints. | Cure-like endpoints remain infrastructure-heavy. |
@@ -86,6 +86,7 @@ This gate protects two things at once:
 - [Gene-therapy eligibility PubMed snapshot](../../../data/literature/pubmed/2026-04-27-gene-therapy-eligibility-beta-thalassemia-search.json)
 - [TIF 2025 HSCT chapter, NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK614242/)
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [July 2026 Casgevy source consistency gate](./2026-07-08-casgevy-source-consistency-gate.md)
 - [FDA Zynteglo product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [HSCT in thalassemia, PMID 36907612](https://pubmed.ncbi.nlm.nih.gov/36907612/)
 - [Multicenter allo-HSCT TDT trial, PMID 41730859](https://pubmed.ncbi.nlm.nih.gov/41730859/)

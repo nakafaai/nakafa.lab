@@ -251,6 +251,9 @@ Current notebooks:
 - `2026-07-08-casgevy-source-consistency-gate.ipynb` - consistency check that
   current Casgevy notes use the FDA 2+ benchmark while older JSON and journal
   snapshots remain historical.
+- `2026-07-09-bpom-access-refresh-gate.ipynb` - BPOM access refresh gate that
+  keeps advanced benchmark therapies in public-registry-not-found status and
+  hydroxyurea as a sanity-check product hit only.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

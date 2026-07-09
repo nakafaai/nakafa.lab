@@ -17,6 +17,9 @@ access question, not an assumption.
   records for Reblozyl/luspatercept, Aqvesme/mitapivat, Zynteglo/betibeglogene,
   or Casgevy/exagamglogene, while finding `HYDROXYUREA MEDAC` as a sanity-check
   comparator.
+- A 2026-07-09 BPOM refresh found the same public-registry pattern: no public
+  registered-drug records for the advanced benchmark terms and two
+  `HYDROXYUREA MEDAC` product-name records for the hydroxyurea sanity check.
 - RSAB Harapan Kita's 2025-2029 business plan lists thalassemia variant
   detection, a GenoArray detection kit for the Indonesian population, and
   coordination with the Ministry of Health and P2PTM for gene therapy.
@@ -55,3 +58,4 @@ access question, not an assumption.
 - [FDA Casgevy product page](https://www.fda.gov/vaccines-blood-biologics/casgevy)
 - [Indonesia access deep dive](./2026-04-27-indonesia-access-deep-dive.md)
 - [BPOM advanced therapy product search](./2026-04-27-bpom-advanced-therapy-product-search.md)
+- [July 2026 BPOM advanced therapy access refresh](./2026-07-09-bpom-advanced-therapy-access-refresh.md)

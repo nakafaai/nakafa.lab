@@ -1,0 +1,256 @@
+{
+  "count": 10,
+  "query": "(beta thalassemia OR beta-thalassaemia OR transfusion-dependent beta-thalassemia) AND (China OR Asia OR Japan OR Korea OR Singapore OR Indonesia OR Pakistan OR India OR Russia) AND (gene therapy OR gene editing OR base editing OR transplantation OR thalidomide OR hydroxyurea OR luspatercept) AND 2026[pdat]",
+  "results": [
+    {
+      "article_ids": [
+        {
+          "idtype": "bookaccession",
+          "idtypen": 8,
+          "value": "NBK482164"
+        },
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "29489205"
+        }
+      ],
+      "journal": "",
+      "pmid": "29489205",
+      "pubdate": "2026 Jan",
+      "title": "Sickle Cell Anemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40796944"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41551-025-01480-y"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41551-025-01480-y"
+        }
+      ],
+      "journal": "Nat Biomed Eng",
+      "pmid": "40796944",
+      "pubdate": "2026 Mar",
+      "title": "In vivo genome editing of human haematopoietic stem cells for treatment of blood disorders using mRNA delivery."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41951736"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41586-026-10342-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41586-026-10342-9"
+        }
+      ],
+      "journal": "Nature",
+      "pmid": "41951736",
+      "pubdate": "2026 May",
+      "title": "Clinical application of base editing for treating \u03b2-thalassaemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42024260"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12015-026-11132-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12015-026-11132-6"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13241422"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13241422;"
+        }
+      ],
+      "journal": "Stem Cell Rev Rep",
+      "pmid": "42024260",
+      "pubdate": "2026 Jul",
+      "title": "New Gene Therapy Strategy for \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42350673"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00277-026-07151-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00277-026-07151-5"
+        }
+      ],
+      "journal": "Ann Hematol",
+      "pmid": "42350673",
+      "pubdate": "2026 Jun 25",
+      "title": "Outcomes with luspatercept in patients with \u03b2-thalassemia: a systematic review and meta-analysis."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41347631"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12931175"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12931175;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/advs.202513469"
+        }
+      ],
+      "journal": "Adv Sci (Weinh)",
+      "pmid": "41347631",
+      "pubdate": "2026 Feb",
+      "title": "Discovery of a Novel DNMT1 Inhibitor with Improved Efficacy in Treating \u03b2-Thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41487000"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/0118715230416604251029062751"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "AIAAMC-EPUB-152197"
+        }
+      ],
+      "journal": "Antiinflamm Antiallergy Agents Med Chem",
+      "pmid": "41487000",
+      "pubdate": "2026 Jan 2",
+      "title": "Clinical Applications of Ligand Traps Targeting Activin Type II Receptors."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41482447"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/S2352-3026(25)00320-5"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2352-3026(25)00320-5"
+        }
+      ],
+      "journal": "Lancet Haematol",
+      "pmid": "41482447",
+      "pubdate": "2026 Jan",
+      "title": "Management of transfusion-dependent \u03b2-thalassaemia in the era of novel therapies: a prioritisation-based matrix for settings with limited resources."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41790270"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13003087"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13003087;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00018-026-06165-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00018-026-06165-6"
+        }
+      ],
+      "journal": "Cell Mol Life Sci",
+      "pmid": "41790270",
+      "pubdate": "2026 Mar 6",
+      "title": "Circ_0001428 regulates erythropoiesis and \u03b3-globin expression via activating the ATF4-BCL11A axis in \u03b2-thalassemia."
+    },
+    {
+      "article_ids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "41456781"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijbiomac.2025.149932"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0141-8130(25)10489-3"
+        }
+      ],
+      "journal": "Int J Biol Macromol",
+      "pmid": "41456781",
+      "pubdate": "2026 Jan",
+      "title": "Targeting LncRNAs with CRISPR/Cas9 for Kidney Therapeutics: A Review."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "next_page_token": null,
+  "ok": true,
+  "pages_fetched": 1,
+  "query_url": "https://clinicaltrials.gov/api/v2/studies?query.cond=transfusion+dependent+beta+thalassemia&query.locn=Asia&filter.overallStatus=RECRUITING%2CNOT_YET_RECRUITING%2CENROLLING_BY_INVITATION&countTotal=true&pageSize=20",
+  "records": [],
+  "total_count": 0
+}

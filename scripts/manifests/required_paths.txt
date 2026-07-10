@@ -1090,3 +1090,10 @@ data/regulatory/bpom/2026-07-09-thalassemia-advanced-therapy-product-search-refr
 docs/status/2026-07-09.md
 research/thalassemia/findings/2026-07-09-bpom-advanced-therapy-access-refresh.md
 research/thalassemia/notebooks/2026-07-09-bpom-access-refresh-gate.ipynb
+data/registries/clinicaltrials/2026-07-10-china-active-beta-thalassemia-refresh.json
+data/registries/clinicaltrials/2026-07-10-cs101-clinicaltrials-refresh.json
+data/registries/clinicaltrials/2026-07-10-asia-location-query-null.json
+data/literature/pubmed/2026-07-10-asia-thalassemia-current-therapy-refresh.json
+docs/status/2026-07-10.md
+research/thalassemia/findings/2026-07-10-active-registry-refresh-gate.md
+research/thalassemia/notebooks/2026-07-10-case001-active-registry-gate.ipynb

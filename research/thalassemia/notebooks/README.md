@@ -257,6 +257,9 @@ Current notebooks:
 - `2026-07-10-case001-active-registry-gate.ipynb` - active registry refresh
   gate that classifies China and CS-101 source snapshots while blocking
   eligibility, referral, trial-screening, and treatment outputs.
+- `2026-07-11-case001-country-registry-sweep-gate.ipynb` - country-specific
+  ClinicalTrials.gov sweep gate that deduplicates active beta-thalassemia
+  source IDs while keeping zero-country results as query labels only.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

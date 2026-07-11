@@ -1097,3 +1097,7 @@ data/literature/pubmed/2026-07-10-asia-thalassemia-current-therapy-refresh.json
 docs/status/2026-07-10.md
 research/thalassemia/findings/2026-07-10-active-registry-refresh-gate.md
 research/thalassemia/notebooks/2026-07-10-case001-active-registry-gate.ipynb
+data/registries/clinicaltrials/2026-07-11-country-active-beta-thalassemia-sweep.json
+docs/status/2026-07-11.md
+research/thalassemia/findings/2026-07-11-country-registry-sweep-gate.md
+research/thalassemia/notebooks/2026-07-11-case001-country-registry-sweep-gate.ipynb

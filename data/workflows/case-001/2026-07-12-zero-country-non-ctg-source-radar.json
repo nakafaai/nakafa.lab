@@ -1,0 +1,152 @@
+{
+  "checked_date": "2026-07-12",
+  "objective": "Map non-ClinicalTrials.gov source routes for country labels that returned zero active-status ClinicalTrials.gov records on 2026-07-11.",
+  "prior_input": {
+    "clinicaltrials_gov_snapshot": "data/registries/clinicaltrials/2026-07-11-country-active-beta-thalassemia-sweep.json",
+    "zero_country_labels": [
+      "Hong Kong",
+      "Indonesia",
+      "Singapore",
+      "Iran",
+      "Russia"
+    ]
+  },
+  "current_label": "zero_country_non_ctg_source_radar_ready_benchmark_only",
+  "case001_state": "branch_review_handoff_packet_incomplete",
+  "source_routes": [
+    {
+      "country": "Indonesia",
+      "route_id": "INA_REGISTRY_CENTER",
+      "route_type": "national_trial_registry_route",
+      "source_url": "https://ina-registry.org/index.php?act=news&id=6",
+      "source_strength": "primary registry page",
+      "public_signal": "Indonesia Registry Center publishes the WHO-style minimum 20-item registration data set fields.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Indonesia",
+      "route_id": "INDONESIA_GENE_THERAPY_CASE_REPORT_2026",
+      "route_type": "current_literature_route",
+      "source_url": "https://www.mdpi.com/2039-4365/16/1/1",
+      "doi": "10.3390/thalassrep16010001",
+      "source_strength": "peer-reviewed case report",
+      "public_signal": "A 2026 case report describes the first Indonesian pediatric thalassemia patient to undergo gene therapy and reports six-month transfusion independence; it is a single case and not proof of local availability or Case-001 fit.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Indonesia",
+      "route_id": "BPOM_ATMP_CURRENT_SECONDARY_SIGNAL",
+      "route_type": "regulatory_context_route",
+      "source_url": "https://en.antaranews.com/news/421567/indonesia-aims-atmp-hub-for-asia-pacific",
+      "source_strength": "current secondary news quoting BPOM leadership",
+      "public_signal": "July 2026 reporting says BPOM is strengthening ATMP regulation and references a 2025 ATMP assessment regulation; this is not thalassemia-specific access evidence.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Singapore",
+      "route_id": "HSA_CLINICAL_TRIALS_REGISTER",
+      "route_type": "national_trial_registry_route",
+      "source_url": "https://www.hsa.gov.sg/other-regulations/clinical-trials/clinical-trials-register/",
+      "source_strength": "regulator register page",
+      "public_signal": "HSA lists ongoing clinical trials in its applications database and states local sponsors maintain entries at least every six months.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Singapore",
+      "route_id": "HSA_CTGTP_REGULATORY_OVERVIEW",
+      "route_type": "cell_gene_therapy_regulatory_route",
+      "source_url": "https://www.hsa.gov.sg/ctgtp/overview/regulatory-overview/",
+      "source_strength": "regulator overview page",
+      "public_signal": "Singapore regulates cell, tissue, and gene therapy products, including gene-modified cells, under CTGTP pathways.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Singapore",
+      "route_id": "SINGHEALTH_NATIONAL_THALASSAEMIA_REGISTRY",
+      "route_type": "disease_registry_route",
+      "source_url": "https://www.singhealth.com.sg/symptoms-treatments/thalassaemia-childhood-illnesses",
+      "source_strength": "public health-system patient information",
+      "public_signal": "SingHealth describes Singapore's National Thalassaemia Registry as a genetic-counselling and family-screening route, not a treatment-access registry.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Singapore",
+      "route_id": "SINGAPORE_NTR_2025_PUBMED",
+      "route_type": "current_literature_route",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39911648/",
+      "pmid": "39911648",
+      "source_strength": "PubMed-indexed publication",
+      "public_signal": "The National Thalassemia Registry publication is a disease-prevention and carrier-screening source route, not an active therapy registry.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Hong Kong",
+      "route_id": "HKUCTR",
+      "route_type": "local_trial_registry_route",
+      "source_url": "https://www.hkuctr.com/home/about",
+      "source_strength": "registry page",
+      "public_signal": "HKUCTR states it is not a WHO ICTRP Primary Registry but can increase awareness of Hong Kong clinical trial activity and recruitment.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Hong Kong",
+      "route_id": "CUHK_WHO_PARTNER_REGISTRY",
+      "route_type": "partner_registry_route",
+      "source_url": "https://www.who.int/tools/clinical-trials-registry-platform/network/partner-registries/centre-for-clinical-trials-clinical-trials-registry---chinese-university-of-hong-kong",
+      "source_strength": "WHO partner-registry profile",
+      "public_signal": "WHO lists the Chinese University of Hong Kong Centre for Clinical Trials registry as a partner registry affiliated with ChiCTR.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Iran",
+      "route_id": "IRCT20090613002027N16",
+      "route_type": "national_trial_record",
+      "source_url": "https://en.irct.ir/trial/33008",
+      "source_strength": "IRCT trial record",
+      "public_signal": "Completed beta-thalassemia amlodipine crossover record; supportive/iron-risk context only.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Iran",
+      "route_id": "IRCT20090613002027N15",
+      "route_type": "national_trial_record",
+      "source_url": "https://en.irct.ir/trial/33014",
+      "source_strength": "IRCT trial record",
+      "public_signal": "Completed beta-thalassemia cardiac iron/function crossover record; supportive/iron-risk context only.",
+      "patient_action_claim": false
+    },
+    {
+      "country": "Russia",
+      "route_id": "WHO_OTHER_REGISTRY_RUSSIAN_STATE_REGISTER",
+      "route_type": "other_registry_route",
+      "source_url": "https://www.who.int/tools/clinical-trials-registry-platform/network/other-registries",
+      "source_strength": "WHO other-registry page",
+      "public_signal": "WHO lists the Russian State Register of Medicines as an other registry and notes these registries are not ICMJE/Primary Registry routes by themselves.",
+      "patient_action_claim": false
+    }
+  ],
+  "supporting_pmids": {
+    "indonesia_context": ["35950580", "41883840", "35911837"],
+    "singapore_registry": ["39911648"],
+    "iran_context": ["31272240"],
+    "russia_context": ["39143497"]
+  },
+  "allowed_outputs": [
+    "source_route_needed",
+    "owner_verification_required",
+    "registry_query_not_patient_action",
+    "case_report_not_access_proof"
+  ],
+  "blocked_outputs": [
+    "diagnosis",
+    "eligibility",
+    "trial_screening",
+    "referral",
+    "travel",
+    "import",
+    "purchase",
+    "dosing",
+    "treatment_selection",
+    "sample_routing"
+  ]
+}

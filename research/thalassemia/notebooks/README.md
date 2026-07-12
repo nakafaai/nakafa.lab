@@ -260,6 +260,10 @@ Current notebooks:
 - `2026-07-11-case001-country-registry-sweep-gate.ipynb` - country-specific
   ClinicalTrials.gov sweep gate that deduplicates active beta-thalassemia
   source IDs while keeping zero-country results as query labels only.
+- `2026-07-12-case001-zero-country-non-ctg-source-radar.ipynb` -
+  non-ClinicalTrials.gov source-route check for the July 11 zero-country
+  labels, keeping the Indonesian gene-therapy case report as owner context
+  only.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

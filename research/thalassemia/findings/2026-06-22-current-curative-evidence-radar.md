@@ -1,26 +1,53 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
+Last evidence update: 2026-07-13
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
 
-The June 22 update does not change Case-001 action status. It updates the
-general curative-route radar so doctor conversations can distinguish approved
-gene-cell benchmarks, active registry watch items, HSCT comparators, and
-non-curative disease-modifying comparators.
+The July 13 evidence update does not change Case-001 action status. It adds two
+current registry signals to the general curative-route radar so research can
+distinguish approved gene-cell benchmarks, pre-efficacy pipeline entries, HSCT
+conditioning comparators, and non-curative disease-modifying comparators.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 13 Evidence Delta
+
+Decision: `hold_registry_watch`
+
+- **Fact:** `NCT07680803` was posted on July 2, 2026 as a planned nine-person
+  phase 2b study of FT007, autologous CD34+ cells transduced with an improved
+  GLOBE beta-globin lentiviral vector. Its status is not yet recruiting. This is
+  a pipeline signal, not evidence of safety, efficacy, durability, access, or
+  affordability.
+- **Fact:** `NCT07599176` was updated on July 9, 2026 and is listed as recruiting.
+  The phase 1/2 NIH study includes severe beta-thalassemia in a matched-related
+  donor hematopoietic-cell transplant protocol using alemtuzumab, 400 cGy total
+  body irradiation, and abatacept. It is a conditioning and HSCT comparator,
+  not a patient route.
+- **Fact:** the FDA Casgevy age expansion is already captured by the
+  [July 7 benchmark](./2026-07-07-casgevy-age-expansion-benchmark.md) and
+  [July 8 consistency update](./2026-07-08-casgevy-source-consistency-gate.md).
+- **Interpretation:** both new registry records expand the set of curative
+  approaches worth monitoring, but neither changes the current candidate or
+  access decision.
+- **Open question:** will either study produce peer-reviewed transfusion
+  independence, toxicity, long-term engraftment, and delivered-cost evidence
+  strong enough to change `hold_registry_watch`?
 
 ## Route Read
 
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
 | Autologous gene-cell therapy | FDA CASGEVY page, pediatric exa-cel PubMed record, CTX001 registry records | Strong curative benchmark, not patient eligibility or access. |
+| Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Not-yet-recruiting pipeline signal; no outcome evidence. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor/HLA/organ-risk data are private blockers. |
+| Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | China BD211 recruiting record and China gamma-globin autologous HSC benchmark | Useful regional radar, not a referral instruction. |
 | Metabolism comparator | Pyruvate-kinase activation review | Disease-modifying context, not a cure route. |
 
@@ -55,6 +82,8 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [ClinicalTrials.gov NCT05356195](https://clinicaltrials.gov/study/NCT05356195)
 - [ClinicalTrials.gov NCT05477563](https://clinicaltrials.gov/study/NCT05477563)
 - [ClinicalTrials.gov NCT06465550](https://clinicaltrials.gov/study/NCT06465550)
+- [ClinicalTrials.gov NCT07599176](https://clinicaltrials.gov/study/NCT07599176)
+- [ClinicalTrials.gov NCT07680803](https://clinicaltrials.gov/study/NCT07680803)
 - [PubMed PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [PubMed PMID 42252696](https://pubmed.ncbi.nlm.nih.gov/42252696/)
 - [PubMed PMID 42091200](https://pubmed.ncbi.nlm.nih.gov/42091200/)

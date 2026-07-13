@@ -1,18 +1,30 @@
 {
   "checked_date": "2026-07-13",
   "workflow_id": "indonesia_gene_therapy_owner_verification_gate",
-  "current_label": "indonesia_gene_therapy_owner_verification_gate_ready_public_only",
-  "evidence_label": "owner-verification matrix, not treatment advice",
+  "current_label": "indonesia_cross_border_gene_therapy_case_deprioritized_for_local_access",
+  "evidence_label": "cross-border evidence decision, not treatment advice",
+  "decision": {
+    "state": "deprioritize",
+    "candidate": "single case report as evidence of local Indonesian access, affordability, established safety, or durable cure",
+    "retained_use": "cross-border proof-of-execution and owner-verification source only",
+    "falsification_criterion": "Require a named authorization or registry identifier, a reproducible Indonesian delivery route, at least 12 continuous months of transfusion independence with safety follow-up, and total delivered-cost evidence."
+  },
   "upstream_state": {
     "source_radar": "data/workflows/case-001/2026-07-12-zero-country-non-ctg-source-radar.json",
     "case001_state": "branch_review_handoff_packet_incomplete",
-    "reason": "The Indonesian case report is concrete enough to ask qualified owners how the route worked, but not enough to infer Case-001 access, eligibility, referral, travel, import, purchase, or treatment selection."
+    "reason": "The primary report says the procedure occurred at Kunming Hope of Health Hospital and gene therapy was unavailable in Indonesia. It supports cross-border owner verification, not local access, affordability, Case-001 eligibility, or durable-cure claims."
   },
   "source_checks": [
     {
       "source_label": "Indonesian pediatric thalassemia gene-therapy case report",
       "source_url": "https://www.mdpi.com/2039-4365/16/1/1",
-      "source_role": "Reports screening, apheresis and cell manufacturing, conditioning, cell infusion, and six-month follow-up for one Indonesian pediatric case using autologous CD34+ HSPCs modified with a lentiviral beta-globin vector.",
+      "stable_id": "doi:10.3390/thalassrep16010001",
+      "checked_date": "2026-07-13",
+      "study_design_population": "Single retrospective case report of one 15-year-old Indonesian patient with a transfusion-dependent phenotype and Hb Malay / IVS1-nt5 compound-heterozygous HBB variants.",
+      "endpoint": "Reported transfusion independence through six months with serial blood counts and ferritin.",
+      "limitations": "No comparator, registry ID, named authorization ID, delivered cost, payer path, or follow-up beyond six months; one-patient generalizability only.",
+      "conflicts": "The report says gene therapy was unavailable in Indonesia and the procedure occurred in Kunming, while its conclusion suggests future Indonesian expansion. It reports no significant complications, while month-six leukocytes were 3.4 x 10^9/L and platelets were 56 x 10^9/L.",
+      "source_role": "Supports the cross-border mechanism, genotype and phenotype scope, six-month endpoint, and limits recorded in the linked canonical finding.",
       "case001_use": "owner_verification_question_source_only"
     },
     {
@@ -65,7 +77,7 @@
     },
     {
       "owner_role": "advanced_therapy_center_or_transplant_cell_therapy_owner",
-      "one_question": "Was the reported route local, cross-border, research-only, commercial, or otherwise exceptional, and which parts are reproducible for other Indonesian patients?",
+      "one_question": "Which phases, if any, occurred in Indonesia, and which parts of the reported Kunming route are independently documented and reproducible?",
       "source_labels": [
         "Indonesian pediatric thalassemia gene-therapy case report",
         "TIF 2025 TDT gene manipulation chapter"
@@ -75,7 +87,7 @@
     },
     {
       "owner_role": "regulator_or_regulatory_affairs_owner",
-      "one_question": "Which authorization, assessment, import, research, or hospital-governance route applied to the reported case, if any?",
+      "one_question": "Which named Chinese authorization and ethics identifiers applied, and was any Indonesian cross-border governance involved?",
       "source_labels": [
         "ANTARA BPOM ATMP report",
         "HSA CTGTP regulatory overview",
@@ -107,7 +119,7 @@
     },
     {
       "owner_role": "long_term_follow_up_owner",
-      "one_question": "What follow-up protocol is required beyond the six-month report, including blood, organ-iron, adverse-event, and long-term safety surveillance?",
+      "one_question": "What do 12-month-or-longer blood-count, transfusion, organ-iron, adverse-event, and clonal-surveillance records show?",
       "source_labels": [
         "Indonesian pediatric thalassemia gene-therapy case report",
         "TIF 2025 TDT gene manipulation chapter",
@@ -125,7 +137,9 @@
     "manufacturing_owner_review_needed",
     "financial_owner_review_needed",
     "followup_owner_review_needed",
-    "case_report_not_access_proof"
+    "case_report_not_access_proof",
+    "cross_border_case_only",
+    "local_indonesia_route_deprioritized"
   ],
   "blocked_outputs": [
     "diagnosis",
@@ -142,5 +156,5 @@
     "raw_private_record",
     "doctor_or_family_private_message"
   ],
-  "decision_rule": "Use the Indonesian case report to ask one owner-bounded question at a time. Do not move Case-001 out of branch_review_handoff_packet_incomplete until private packet readiness and qualified clinician review change."
+  "decision_rule": "Keep the case report deprioritized as local-access or durable-cure evidence unless the falsification criterion is met. Do not move Case-001 out of branch_review_handoff_packet_incomplete until private packet readiness and qualified clinician review change."
 }

@@ -19,16 +19,19 @@ Current operational label:
 
 Decision: `hold_registry_watch`
 
-- **Fact:** `NCT07680803` was posted on July 2, 2026 as a planned nine-person
-  phase 2b study of FT007, autologous CD34+ cells transduced with an improved
-  GLOBE beta-globin lentiviral vector. Its status is not yet recruiting. This is
-  a pipeline signal, not evidence of safety, efficacy, durability, access, or
-  affordability.
-- **Fact:** `NCT07599176` was updated on July 9, 2026 and is listed as recruiting.
+- **Fact:** ClinicalTrials.gov version 2026-07-13 lists `NCT07680803` as a
+  planned nine-person phase 2b study of FT007, autologous `CD34+` cells
+  transduced with an improved GLOBE beta-globin lentiviral vector. Its status
+  remains not yet recruiting, its start date remains estimated, and it has no
+  posted results. This is a pipeline and endpoint-design signal, not evidence
+  of safety, efficacy, durability, access, or affordability.
+- **Fact:** ClinicalTrials.gov version 2026-07-13 lists `NCT07599176` as
+  recruiting, with status verified July 7 and actual start July 8. The record's
+  last update was submitted July 10, correcting the earlier July 9 wording.
   The phase 1/2 NIH study includes severe beta-thalassemia in a matched-related
   donor hematopoietic-cell transplant protocol using alemtuzumab, 400 cGy total
-  body irradiation, and abatacept. It is a conditioning and HSCT comparator,
-  not a patient route.
+  body irradiation, and abatacept. It has no posted results and remains a
+  conditioning and HSCT comparator, not a patient route.
 - **Fact:** the FDA Casgevy age expansion is already captured by the
   [July 7 benchmark](./2026-07-07-casgevy-age-expansion-benchmark.md) and
   [July 8 consistency update](./2026-07-08-casgevy-source-consistency-gate.md).

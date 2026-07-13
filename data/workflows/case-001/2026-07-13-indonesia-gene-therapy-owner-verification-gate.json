@@ -1,0 +1,146 @@
+{
+  "checked_date": "2026-07-13",
+  "workflow_id": "indonesia_gene_therapy_owner_verification_gate",
+  "current_label": "indonesia_gene_therapy_owner_verification_gate_ready_public_only",
+  "evidence_label": "owner-verification matrix, not treatment advice",
+  "upstream_state": {
+    "source_radar": "data/workflows/case-001/2026-07-12-zero-country-non-ctg-source-radar.json",
+    "case001_state": "branch_review_handoff_packet_incomplete",
+    "reason": "The Indonesian case report is concrete enough to ask qualified owners how the route worked, but not enough to infer Case-001 access, eligibility, referral, travel, import, purchase, or treatment selection."
+  },
+  "source_checks": [
+    {
+      "source_label": "Indonesian pediatric thalassemia gene-therapy case report",
+      "source_url": "https://www.mdpi.com/2039-4365/16/1/1",
+      "source_role": "Reports screening, apheresis and cell manufacturing, conditioning, cell infusion, and six-month follow-up for one Indonesian pediatric case using autologous CD34+ HSPCs modified with a lentiviral beta-globin vector.",
+      "case001_use": "owner_verification_question_source_only"
+    },
+    {
+      "source_label": "TIF 2025 TDT gene manipulation chapter",
+      "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK614241/",
+      "source_role": "Current guideline chapter explaining gene addition and gene editing as specialist-owned TDT approaches requiring autologous HSC collection, ex vivo modification, myeloablative conditioning, reinfusion, and follow-up.",
+      "case001_use": "clinical_infrastructure_benchmark_only"
+    },
+    {
+      "source_label": "FDA CASGEVY product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/casgevy",
+      "source_role": "Official current U.S. gene-editing benchmark for TDT, including STN 125787 for patients aged 2 years and older.",
+      "case001_use": "foreign_regulatory_benchmark_only"
+    },
+    {
+      "source_label": "FDA ZYNTEGLO product page",
+      "source_url": "https://www.fda.gov/vaccines-blood-biologics/zynteglo",
+      "source_role": "Official U.S. gene-addition benchmark for adult and pediatric beta-thalassemia patients requiring regular RBC transfusions.",
+      "case001_use": "foreign_regulatory_benchmark_only"
+    },
+    {
+      "source_label": "HSA CTGTP regulatory overview",
+      "source_url": "https://www.hsa.gov.sg/ctgtp/overview/regulatory-overview/",
+      "source_role": "Singapore regulator context for cell, tissue, and gene therapy clinical trials, notification or registration, dealing, adverse-event, and defect-reporting obligations.",
+      "case001_use": "regional_regulatory_comparator_only"
+    },
+    {
+      "source_label": "ANTARA BPOM ATMP report",
+      "source_url": "https://en.antaranews.com/news/421567/indonesia-aims-atmp-hub-for-asia-pacific",
+      "source_role": "Current secondary report quoting BPOM leadership on ATMP regulation, GMP capacity, scientific evidence, process consistency, and long-term safety monitoring.",
+      "case001_use": "indonesia_regulatory_context_only"
+    },
+    {
+      "source_label": "PubMed PMID 35267028",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35267028/",
+      "source_role": "Access-hurdle review noting gene-therapy efficacy signals but emphasizing safety, commercialization, and cost barriers.",
+      "case001_use": "access_hurdle_benchmark_only"
+    }
+  ],
+  "owner_questions": [
+    {
+      "owner_role": "treating_hematologist",
+      "one_question": "Which private record domains must be complete before any advanced-therapy relevance question is clinically meaningful?",
+      "source_labels": [
+        "Indonesian pediatric thalassemia gene-therapy case report",
+        "TIF 2025 TDT gene manipulation chapter"
+      ],
+      "safe_state": "clinical_owner_review_needed",
+      "blocked_jump": "Do not infer diagnosis, genotype interpretation, conditioning fitness, or therapy selection from the public case report."
+    },
+    {
+      "owner_role": "advanced_therapy_center_or_transplant_cell_therapy_owner",
+      "one_question": "Was the reported route local, cross-border, research-only, commercial, or otherwise exceptional, and which parts are reproducible for other Indonesian patients?",
+      "source_labels": [
+        "Indonesian pediatric thalassemia gene-therapy case report",
+        "TIF 2025 TDT gene manipulation chapter"
+      ],
+      "safe_state": "center_route_owner_review_needed",
+      "blocked_jump": "Do not treat a single published case as a referral path or access guarantee."
+    },
+    {
+      "owner_role": "regulator_or_regulatory_affairs_owner",
+      "one_question": "Which authorization, assessment, import, research, or hospital-governance route applied to the reported case, if any?",
+      "source_labels": [
+        "ANTARA BPOM ATMP report",
+        "HSA CTGTP regulatory overview",
+        "FDA CASGEVY product page",
+        "FDA ZYNTEGLO product page"
+      ],
+      "safe_state": "regulatory_owner_review_needed",
+      "blocked_jump": "Do not convert foreign approvals or ATMP policy context into Indonesian legal access instructions."
+    },
+    {
+      "owner_role": "cell_manufacturing_or_gmp_owner",
+      "one_question": "Which collection, vector or cell-processing, release-testing, chain-of-identity, chain-of-custody, and product-return steps were required?",
+      "source_labels": [
+        "Indonesian pediatric thalassemia gene-therapy case report",
+        "TIF 2025 TDT gene manipulation chapter"
+      ],
+      "safe_state": "manufacturing_owner_review_needed",
+      "blocked_jump": "Do not request samples, contact labs, or infer manufacturing feasibility from public text."
+    },
+    {
+      "owner_role": "payer_or_financial_access_owner",
+      "one_question": "What payer, sponsor, charity, self-pay, hospital, or exceptional funding path made the reported case possible?",
+      "source_labels": [
+        "Indonesian pediatric thalassemia gene-therapy case report",
+        "PubMed PMID 35267028"
+      ],
+      "safe_state": "financial_owner_review_needed",
+      "blocked_jump": "Do not treat a reported case as affordability, reimbursement, or procurement evidence."
+    },
+    {
+      "owner_role": "long_term_follow_up_owner",
+      "one_question": "What follow-up protocol is required beyond the six-month report, including blood, organ-iron, adverse-event, and long-term safety surveillance?",
+      "source_labels": [
+        "Indonesian pediatric thalassemia gene-therapy case report",
+        "TIF 2025 TDT gene manipulation chapter",
+        "ANTARA BPOM ATMP report"
+      ],
+      "safe_state": "followup_owner_review_needed",
+      "blocked_jump": "Do not call six-month transfusion independence a durable cure without qualified long-term follow-up review."
+    }
+  ],
+  "allowed_public_outputs": [
+    "owner_verification_question_source_only",
+    "clinical_owner_review_needed",
+    "center_route_owner_review_needed",
+    "regulatory_owner_review_needed",
+    "manufacturing_owner_review_needed",
+    "financial_owner_review_needed",
+    "followup_owner_review_needed",
+    "case_report_not_access_proof"
+  ],
+  "blocked_outputs": [
+    "diagnosis",
+    "patient_specific_eligibility",
+    "therapy_selection",
+    "trial_screening_instruction",
+    "referral_instruction",
+    "travel_or_import_plan",
+    "purchase_or_procurement_route",
+    "dosing",
+    "transfusion_or_chelation_change",
+    "lab_contact_permission",
+    "sample_routing",
+    "raw_private_record",
+    "doctor_or_family_private_message"
+  ],
+  "decision_rule": "Use the Indonesian case report to ask one owner-bounded question at a time. Do not move Case-001 out of branch_review_handoff_packet_incomplete until private packet readiness and qualified clinician review change."
+}

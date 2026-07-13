@@ -264,6 +264,9 @@ Current notebooks:
   non-ClinicalTrials.gov source-route check for the July 11 zero-country
   labels, keeping the Indonesian gene-therapy case report as owner context
   only.
+- `2026-07-13-case001-indonesia-gene-therapy-owner-verification-gate.ipynb` -
+  owner-verification gate that turns the Indonesian gene-therapy case-report
+  signal into six public-safe owner questions while blocking patient action.
 - `2026-04-28-public-case-data-release-gate.ipynb` - privacy and public-release
   gate that blocks raw records, identifiers, local paths, and patient-specific
   treatment claims before case data enters the public repo.

@@ -1105,3 +1105,7 @@ data/workflows/case-001/2026-07-12-zero-country-non-ctg-source-radar.json
 docs/status/2026-07-12.md
 research/thalassemia/findings/2026-07-12-zero-country-non-ctg-source-radar.md
 research/thalassemia/notebooks/2026-07-12-case001-zero-country-non-ctg-source-radar.ipynb
+data/workflows/case-001/2026-07-13-indonesia-gene-therapy-owner-verification-gate.json
+docs/status/2026-07-13.md
+research/thalassemia/findings/2026-07-13-indonesia-gene-therapy-owner-verification-gate.md
+research/thalassemia/notebooks/2026-07-13-case001-indonesia-gene-therapy-owner-verification-gate.ipynb

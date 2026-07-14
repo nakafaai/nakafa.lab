@@ -58,6 +58,26 @@ route credible enough to promote as affordable?
 **Decision:** `hold_for_regulatory_safety_and_cost_evidence`. The gene-editing
 lanes remain `benchmark_only`; no candidate score changes.
 
+**Mechanism and scope:** The closest Asia benchmark is CS-101: ex vivo base
+editing of autologous `CD34+` hematopoietic stem and progenitor cells at the
+`HBG` promoter BCL11A-binding site to reactivate gamma-globin. The current
+registry scope covers beta-thalassemia, including beta-thalassemia major; this
+does not establish genotype-specific eligibility or Case-001 relevance.
+
+**Evidence tier:** Official draft regulatory guidance plus official clinical-
+trial registry records. No newly posted trial result changes the clinical-
+outcome tier.
+
+**Registry design and limitation:** `NCT06024876` is a completed, open-label,
+single-arm early phase 1 study with five participants aged 6-35 and beta-
+thalassemia genotype examples including beta+/beta0, betaE/beta0, and
+beta0/beta0. `NCT07489196` is a not-yet-recruiting, open-label, single-arm phase
+2 study planning 20 participants aged 12-35 with beta-thalassemia major. Their
+registered endpoints cover adverse events, engraftment, transplant-related
+mortality, transfusion independence, hemoglobin, and HbF, but neither record has
+posted results. Registry design is not outcome evidence and does not resolve
+safety, durability, access, or cost.
+
 - **Fact:** The April 2026 FDA draft is nonbinding and not for implementation.
   It recommends NGS and bioinformatics studies for on-target outcomes,
   off-target editing, and genomic integrity. For ex vivo products, the sample
@@ -72,14 +92,23 @@ lanes remain `benchmark_only`; no candidate score changes.
   off-target results are generally not transferable across different guide
   RNAs or sequence-recognition components, and on-target or genomic-integrity
   results are generally not transferable across different genomic targets.
-- **Interpretation:** A credible lower-cost editing route still needs
-  product-specific safety evidence, reproducible sequencing and bioinformatics,
-  representative human-cell evidence, and manufacturing-change control.
-  Platform reuse may reduce this burden, but it does not erase it.
-- **Contradiction:** FDA's flexibility pathway means the April draft cannot be
-  used to claim that every safety assay must be built from scratch or that NGS
-  alone makes editing unaffordable. Neither document provides a delivered-cost
-  estimate.
+- **Resolved contradiction:** Reuse and product specificity apply at different
+  layers. FDA allows reuse of suitable analytical methods, NGS strategies,
+  bioinformatics tools and pipelines, and some platform CMC knowledge. It
+  generally does not support transferring off-target results across different
+  guide RNAs, on-target outcomes across different genomic targets, or genomic-
+  integrity results across different edited loci. Therefore, the evidence does
+  not support either extreme: every assay is new, or platform reuse removes the
+  product-specific safety burden.
+- **Interpretation:** The hold is caused by missing owner-validated evidence,
+  not by an assumption that NGS itself makes editing unaffordable. A credible
+  lower-cost route needs a regulator-accepted split between reusable methods
+  and product-specific results, plus representative-cell evidence,
+  manufacturing-change control, and total delivered cost.
+- **Safety risk:** Off-target editing, unintended on-target outcomes, and loss
+  of genomic integrity remain material product-specific risks. Conditioning,
+  collection, manufacturing, and long-term follow-up remain separate delivered-
+  route risks outside the two draft-guidance documents.
 - **Confidence:** High for the current FDA draft recommendations; low for their
   cost effect in Indonesia or any specific product because no owner-validated
   assay scope, regulator-accepted plan, or quote is available.
@@ -88,14 +117,22 @@ lanes remain `benchmark_only`; no candidate score changes.
   cells, on-target and off-target assays, genomic integrity, population-aware
   analysis, raw-data and software traceability, and repeat work after relevant
   manufacturing changes.
+- **Access impact:** No public source establishes regulator-accepted reuse,
+  manufacturing capacity, total delivered cost, or a payer path for Indonesia.
+  The existing CS-101 access score remains `0`; the route stays a benchmark.
 - **Falsification criterion:** Replace this hold only if a qualified regulatory
   and manufacturing owner documents which safety elements can be reused, which
   remain product-specific, the regulator-accepted evidence plan, and the total
-  delivered cost. A final guidance that materially removes these product-
-  specific elements would also require reassessment.
-- **Next decisive action:** Obtain one owner-validated safety-package scope and
-  cost breakdown for the closest Asia editing benchmark; do not start an NGS
-  analysis without real inputs and essential metadata.
+  delivered cost, and that cost meets a recorded program affordability
+  threshold. A final guidance that materially removes these product-specific
+  elements would also require reassessment.
+- **Next decisive owner action:** The cure-program owner should use CS-101 as
+  the named reference and obtain one public-safe matrix, validated jointly by a
+  qualified regulatory owner and manufacturing/analytics owner, that separates
+  reusable methods and platform knowledge from product-specific results,
+  identifies required bridging data, and prices total delivered capacity. The
+  same request must state the program's affordability threshold. Do not start
+  an NGS analysis without real inputs and essential metadata.
 
 After a candidate passes this promotion test, use the
 [minimum assay readiness gate](../assays/2026-05-31-minimum-assay-readiness-gate.md)

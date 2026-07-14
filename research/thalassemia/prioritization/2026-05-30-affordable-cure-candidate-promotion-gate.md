@@ -1,6 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
+Last evidence update: 2026-07-14
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -49,6 +50,53 @@ Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
 
+## July 14 Genome-Editing Safety And Affordability Delta
+
+**Question:** Does current FDA genome-editing guidance make an ex vivo editing
+route credible enough to promote as affordable?
+
+**Decision:** `hold_for_regulatory_safety_and_cost_evidence`. The gene-editing
+lanes remain `benchmark_only`; no candidate score changes.
+
+- **Fact:** The April 2026 FDA draft is nonbinding and not for implementation.
+  It recommends NGS and bioinformatics studies for on-target outcomes,
+  off-target editing, and genomic integrity. For ex vivo products, the sample
+  should match the edited drug-product cell type, use biological replicates,
+  and achieve on-target editing comparable to the final product. It also
+  recommends analysis of human genetic variation and, where relevant,
+  chromosomal translocations before an original IND submission, while noting
+  that variation analysis may not be necessary at that stage in some
+  ultra-rare or single-patient programs.
+- **Fact:** The June 2026 FDA draft allows prior public or platform knowledge to
+  reduce duplicated methods, pipelines, and some validation work. It also says
+  off-target results are generally not transferable across different guide
+  RNAs or sequence-recognition components, and on-target or genomic-integrity
+  results are generally not transferable across different genomic targets.
+- **Interpretation:** A credible lower-cost editing route still needs
+  product-specific safety evidence, reproducible sequencing and bioinformatics,
+  representative human-cell evidence, and manufacturing-change control.
+  Platform reuse may reduce this burden, but it does not erase it.
+- **Contradiction:** FDA's flexibility pathway means the April draft cannot be
+  used to claim that every safety assay must be built from scratch or that NGS
+  alone makes editing unaffordable. Neither document provides a delivered-cost
+  estimate.
+- **Confidence:** High for the current FDA draft recommendations; low for their
+  cost effect in Indonesia or any specific product because no owner-validated
+  assay scope, regulator-accepted plan, or quote is available.
+- **Affordability implication:** Do not promote an editing route on reagent or
+  product price alone. Require a public-safe, costed scope for representative
+  cells, on-target and off-target assays, genomic integrity, population-aware
+  analysis, raw-data and software traceability, and repeat work after relevant
+  manufacturing changes.
+- **Falsification criterion:** Replace this hold only if a qualified regulatory
+  and manufacturing owner documents which safety elements can be reused, which
+  remain product-specific, the regulator-accepted evidence plan, and the total
+  delivered cost. A final guidance that materially removes these product-
+  specific elements would also require reassessment.
+- **Next decisive action:** Obtain one owner-validated safety-package scope and
+  cost breakdown for the closest Asia editing benchmark; do not start an NGS
+  analysis without real inputs and essential metadata.
+
 After a candidate passes this promotion test, use the
 [minimum assay readiness gate](../assays/2026-05-31-minimum-assay-readiness-gate.md)
 before lab quote or partner outreach.
@@ -73,5 +121,7 @@ anchors, not biomedical evidence for any candidate.
   [NCT06041620](https://clinicaltrials.gov/study/NCT06041620),
   [NCT07338344](https://clinicaltrials.gov/study/NCT07338344),
   [NCT06302491](https://clinicaltrials.gov/study/NCT06302491)
+- [FDA April 2026 genome-editing NGS safety draft](https://www.fda.gov/media/191966/download)
+- [FDA June 2026 prior-knowledge draft](https://www.fda.gov/media/192810/download)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

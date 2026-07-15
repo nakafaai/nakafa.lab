@@ -29,7 +29,13 @@ Last evidence update: 2026-07-15
   sapablursen phase 2a study, 29 adults with `NTDT` received active treatment
   in open-label dose cohorts; the primary hemoglobin endpoint and secondary
   hemoglobin and liver-iron endpoints were not met, and serum hepcidin did not
-  increase consistently.
+  increase consistently. Individual liver-iron threshold responses occurred,
+  but no evaluable participant met the week-53 hemoglobin threshold and there
+  was no untreated comparator.
+- Successor evidence: `NCT06421636` is an active, not recruiting,
+  placebo-controlled phase 2 REGN7999 study with 19 participants and no posted
+  results. Its liver-iron, hemoglobin, and transfusion endpoints are the next
+  named human test of the broader `TMPRSS6` lane.
 - Preclinical evidence: mouse beta-thalassemia models support ferroportin
   inhibition, `TMPRSS6` inhibition, minihepcidins, and `ERFE` manipulation as
   ways to modify iron overload and ineffective erythropoiesis. A 2026 companion
@@ -37,8 +43,9 @@ Last evidence update: 2026-07-15
   effects in mice despite similar target reduction.
 - Contradictory evidence: prior model and non-thalassemia pharmacodynamic
   evidence did not translate into consistent hepcidin induction or clinical
-  benefit in the sapablursen `NTDT` study. No source proves durable transfusion
-  independence or root correction of beta-globin production for this lane.
+  endpoint success in the sapablursen `NTDT` study. No source proves durable
+  transfusion independence or root correction of beta-globin production for
+  this lane.
 
 ## Safety
 
@@ -68,8 +75,8 @@ Last evidence update: 2026-07-15
 - Falsification criteria: no directional pharmacodynamic response, no
   hemoglobin or transfusion benefit, worse anemia or transfusion burden,
   unacceptable safety, or inability to distinguish intervention effect from
-  chelation or transfusion changes. Sapablursen already meets the no-benefit
-  criterion for this `NTDT` program.
+  chelation or transfusion changes. Sapablursen already meets the prespecified
+  clinical-efficacy failure criterion for this `NTDT` program.
 - Clinician reviewer: hematologist required before patient-specific discussion.
 
 ## Affordability
@@ -97,4 +104,5 @@ requires balance and measurement because iron overload can be dangerous.
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [Sapablursen trial `NCT04059406`](https://clinicaltrials.gov/study/NCT04059406)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
+- [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [Quran 57:25 structured note](../../islamic/quran/057-al-hadid/025.md)

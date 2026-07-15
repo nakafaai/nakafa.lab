@@ -44,7 +44,7 @@ modalities remain comparators until they show human thalassemia efficacy.
 | Ferroportin inhibition / vamifeport | preclinical beta-thalassemia model evidence; 2025 randomized phase 2a `NTDT` safety and pharmacodynamic study | disease-modifying signal, not transfusion-independence proof |
 | `TMPRSS6` inhibition / sapablursen | 2026 open-label phase 2a result in 29 adults with `NTDT`; hemoglobin and liver-iron endpoints failed and serum hepcidin did not increase consistently | deprioritized monotherapy; result does not falsify every `TMPRSS6` or iron-axis modality |
 | `TMPRSS6` inhibition / SLN124 | mouse beta-thalassemia plus deferiprone evidence; healthy-volunteer phase 1 hepcidin and plasma-iron pharmacodynamics | thalassemia patient translation remains early |
-| `TMPRSS6` inhibition / REGN7999 | 2025 mouse beta-thalassemia and healthy-human iron-reduction report; recruiting `NTDT` iron-overload trial | early clinical lane, not approved thalassemia therapy |
+| `TMPRSS6` inhibition / REGN7999 | 2025 mouse beta-thalassemia and healthy-human iron-reduction report; active, not recruiting `NTDT` iron-overload trial with no posted results | early clinical lane, not approved thalassemia therapy |
 | Hepcidin agonism / minihepcidin | mouse adult beta-thalassemia major model improved ineffective erythropoiesis and splenomegaly | preclinical tool, not a patient protocol |
 | Erythroferrone biology | mouse beta-thalassemia work links `ERFE` to hepcidin suppression and iron overload | target/biomarker lane, not a retail supplement lane |
 
@@ -59,8 +59,8 @@ iron-overload-adjacent records:
   beta-thalassemia and low-risk `MDS`.
 - `NCT04176653`: withdrawn SLN124 beta-thalassemia or `MDS` study.
 - `NCT04059406`: terminated sapablursen / IONIS-TMPRSS6-LRx study.
-- `NCT06421636`: recruiting REGN7999 phase 2 `NTDT` iron-overload study using
-  MRI iron endpoints.
+- `NCT06421636`: active, not recruiting REGN7999 phase 2 `NTDT` iron-overload
+  study; 19 participants, placebo control, and no posted results.
 - `NCT03381833`: terminated LJPC-401 myocardial-iron-overload `TDT` study.
 - `NCT03165864`: completed healthy-volunteer IONIS TMPRSS6-LRx phase 1 study.
 
@@ -75,21 +75,36 @@ as an active affordable route toward durable transfusion independence?
 **Decision:** `deprioritize_sapablursen_monotherapy`. Keep the broader
 hepcidin-ferroportin axis as `comparator_only`.
 
-- **Fact:** The industry-sponsored study enrolled 29 adults with genotypically
-  confirmed `NTDT` into three open-label active-dose cohorts. Sapablursen was
-  given subcutaneously every four weeks at initial doses of 30, 50, or 80 mg,
-  later increased to as much as 160 mg. There was no placebo cohort.
+- **Mechanism and scope:** Sapablursen is an antisense oligonucleotide intended
+  to reduce hepatic `TMPRSS6` and raise hepcidin. This study covers adults with
+  genotypically confirmed `NTDT`; it does not establish a genotype-specific
+  response, a `TDT` result, or a cure outcome.
+- **Evidence tier:** The negative efficacy decision is human phase 2a evidence.
+  The `ERFE` and iron-loading resistance explanation is mouse-model evidence.
+- **Fact:** The industry-sponsored study enrolled 29 adults randomized among
+  three open-label active-dose cohorts. Sapablursen was given subcutaneously
+  every four weeks at initial doses of 30, 50, or 80 mg, later increased to as
+  much as 160 mg. Every participant received sapablursen; there was no placebo
+  or untreated comparator.
 - **Fact:** The study did not meet its primary hemoglobin endpoint at week 27
   or its secondary hemoglobin and liver iron concentration endpoints at week
   53. The publication reports no consistent dose-dependent serum-hepcidin
   increase. The registry says development in this population stopped because
   efficacy did not meet the sponsor's minimum target product profile.
+- **Fact:** Registry threshold responses were 0/6, 0/6, and 1/15 for week-27
+  hemoglobin; 0/6, 0/6, and 0/14 for week-53 hemoglobin; and 2/6, 3/6, and 4/14
+  for week-53 liver iron across the three cohorts.
 - **Safety boundary:** The paper describes generally favorable tolerability,
   and the registry reports no deaths. Three participants had serious adverse
   events across the dose cohorts, but the registry display does not establish
   that those events were caused by sapablursen. The small, uncontrolled design
   cannot establish comparative safety.
-- **Contradiction:** Earlier mouse studies and studies in healthy volunteers or
+- **Resolved contradiction:** “Randomized” refers to allocation among active
+  doses, not to an untreated control. Endpoint failure also does not mean zero
+  individual liver-iron responses. Those responses do not establish efficacy
+  because the prespecified endpoints failed, no evaluable week-53 hemoglobin
+  response was reported, and the small study had no comparator.
+- **Conflict:** Earlier mouse studies and studies in healthy volunteers or
   polycythemia vera supported hepcidin induction. That pharmacodynamic effect
   did not translate consistently in this `NTDT` cohort.
 - **Hypothesis:** In the companion mouse study, high `ERFE` or
@@ -106,8 +121,9 @@ hepcidin-ferroportin axis as `comparator_only`.
   durable transfusion independence.
 - **Affordability and access:** Repeated injectable antisense therapy plus
   hepcidin, iron, anemia, and MRI monitoring is not a low-infrastructure cure
-  path. With no demonstrated clinical benefit in this study, there is no
-  evidence-backed affordability case for sapablursen in thalassemia.
+  path. Without demonstrated program-level efficacy or a durable cure endpoint,
+  there is no evidence-backed affordability case for sapablursen in
+  thalassemia.
 - **Falsification criterion:** Restore a `TMPRSS6` modality only if a human
   thalassemia study shows target engagement plus prespecified hepcidin or iron
   improvement and hemoglobin or transfusion benefit, with resistance assessed
@@ -118,9 +134,10 @@ hepcidin-ferroportin axis as `comparator_only`.
   resistance and produce both pharmacodynamic and clinical benefit in human
   thalassemia?
 - **Next decisive action:** Do not allocate Nakafa assay or outreach effort to
-  sapablursen-specific work. Reassess the broader lane only when another
-  modality reports human thalassemia outcomes with both pharmacodynamic and
-  clinical endpoints.
+  sapablursen-specific work. At the first results posting for `NCT06421636`, the
+  cure-program evidence owner should compare REGN7999 with placebo for liver
+  iron, hemoglobin, and transfusion independence before reconsidering the
+  broader lane.
 
 ## Assay And Endpoint Gates
 
@@ -179,6 +196,7 @@ map as an `iron-restriction comparator`:
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [Sapablursen trial `NCT04059406`](https://clinicaltrials.gov/study/NCT04059406)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
+- [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [Vamifeport ChEMBL search](../../../data/chemistry/chembl/iron-axis/2026-04-27-vamifeport-search.json)
 - [Vamifeport PubChem properties](../../../data/chemistry/pubchem/iron-axis/2026-04-27-vamifeport-properties.json)
 - [Rusfertide ChEMBL search](../../../data/chemistry/chembl/iron-axis/2026-04-27-rusfertide-search.json)

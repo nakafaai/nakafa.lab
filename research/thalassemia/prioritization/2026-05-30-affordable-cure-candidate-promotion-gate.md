@@ -57,6 +57,14 @@ candidate; it does not falsify every `TMPRSS6`, ferroportin, or hepcidin
 modality. Any successor must show target engagement and hemoglobin or
 transfusion benefit in human thalassemia before promotion.
 
+The posted results resolve an apparent contradiction: endpoint failure did not
+mean zero individual liver-iron threshold responses, but no evaluable
+participant met the week-53 hemoglobin threshold and the study had no untreated
+comparator.
+`NCT06421636` is now the named successor evidence trigger. It is active, not
+recruiting, placebo-controlled, and has no posted results; its liver-iron,
+hemoglobin, and transfusion endpoints cannot support promotion until reported.
+
 ## July 14 Genome-Editing Safety And Affordability Delta
 
 **Question:** Does current FDA genome-editing guidance make an ex vivo editing
@@ -169,5 +177,6 @@ anchors, not biomedical evidence for any candidate.
 - [FDA June 2026 prior-knowledge draft](https://www.fda.gov/media/192810/download)
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
+- [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

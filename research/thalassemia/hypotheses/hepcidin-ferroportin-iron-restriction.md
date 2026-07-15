@@ -1,5 +1,7 @@
 # Hypothesis Card: Hepcidin-Ferroportin Iron Restriction
 
+Last evidence update: 2026-07-15
+
 ## Claim
 
 - Short hypothesis: In selected beta-thalassemia patients, controlled iron
@@ -7,7 +9,8 @@
   overload and ineffective erythropoiesis markers without worsening anemia.
 - Evidence label: disease-modifying comparator, not cure and not treatment
   advice.
-- Status: active research hypothesis.
+- Status: broader axis remains active as a comparator; sapablursen monotherapy
+  is deprioritized.
 
 ## Mechanism
 
@@ -21,17 +24,21 @@
 
 ## Evidence
 
-- Human evidence: Clinical-stage programs exist for vamifeport, SLN124 /
-  sapablursen-class `TMPRSS6` inhibition, REGN7999, and hepcidin mimetic /
-  agonist concepts. The current registry snapshot includes completed,
-  withdrawn, terminated, and recruiting studies, so the lane is real but not
-  clinically settled.
+- Human evidence: Clinical-stage programs exist for vamifeport, SLN124,
+  REGN7999, and hepcidin mimetic or agonist concepts. In the published
+  sapablursen phase 2a study, 29 adults with `NTDT` received active treatment
+  in open-label dose cohorts; the primary hemoglobin endpoint and secondary
+  hemoglobin and liver-iron endpoints were not met, and serum hepcidin did not
+  increase consistently.
 - Preclinical evidence: mouse beta-thalassemia models support ferroportin
   inhibition, `TMPRSS6` inhibition, minihepcidins, and `ERFE` manipulation as
-  ways to modify iron overload and ineffective erythropoiesis.
-- Contradictory evidence: the trial landscape is mixed, and no retrieved source
-  proves durable transfusion independence or root correction of beta-globin
-  production.
+  ways to modify iron overload and ineffective erythropoiesis. A 2026 companion
+  study found that high `ERFE` or iron loading blunted `Tmprss6` antisense
+  effects in mice despite similar target reduction.
+- Contradictory evidence: prior model and non-thalassemia pharmacodynamic
+  evidence did not translate into consistent hepcidin induction or clinical
+  benefit in the sapablursen `NTDT` study. No source proves durable transfusion
+  independence or root correction of beta-globin production for this lane.
 
 ## Safety
 
@@ -55,17 +62,23 @@
 - Minimum useful effect: improved iron-burden or erythropoiesis markers without
   lower pre-transfusion hemoglobin, higher transfusion need, or worse organ
   safety.
-- Falsification criteria: no directional improvement in iron-burden endpoints,
-  worse anemia or transfusion burden, unacceptable safety signal, or inability
-  to distinguish intervention effect from chelation/transfusion changes.
+- Resistance-aware requirement: pair target engagement with hepcidin, `ERFE`,
+  baseline iron burden, and a clinical erythroid endpoint. Target reduction
+  alone is not a pass.
+- Falsification criteria: no directional pharmacodynamic response, no
+  hemoglobin or transfusion benefit, worse anemia or transfusion burden,
+  unacceptable safety, or inability to distinguish intervention effect from
+  chelation or transfusion changes. Sapablursen already meets the no-benefit
+  criterion for this `NTDT` program.
 - Clinician reviewer: hematologist required before patient-specific discussion.
 
 ## Affordability
 
-- Cost driver: investigational biologics, siRNA, antibody therapy, MRI iron
-  monitoring, and repeated laboratory endpoints.
+- Cost driver: repeated injectable oligonucleotide, biologic, siRNA, or antibody
+  therapy; MRI iron monitoring; and repeated laboratory endpoints.
 - Lower-cost path: use the axis first as a benchmark for cheaper candidates and
-  for optimizing standard iron monitoring, not as a retail-product route.
+  for optimizing standard iron monitoring, not as a retail-product route. Do
+  not treat a lower acquisition price as affordability without clinical effect.
 - Indonesia access notes: prioritize practical measurement of ferritin,
   transferrin saturation, chelation adherence, liver/cardiac MRI access, and
   referral pathways before considering advanced investigational agents.
@@ -81,4 +94,7 @@ requires balance and measurement because iron overload can be dangerous.
 - [Hepcidin-ferroportin iron-restriction finding](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
 - [Hepcidin-axis ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-hepcidin-axis-thalassemia-trials.json)
 - [Selected hepcidin-axis PubMed abstracts](../../../data/literature/pubmed/2026-04-27-hepcidin-axis-selected-abstracts.xml)
+- [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
+- [Sapablursen trial `NCT04059406`](https://clinicaltrials.gov/study/NCT04059406)
+- [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
 - [Quran 57:25 structured note](../../islamic/quran/057-al-hadid/025.md)

@@ -1,6 +1,7 @@
 # Finding: Hepcidin-Ferroportin Iron-Restriction Axis
 
 Date checked: 2026-04-27
+Last evidence update: 2026-07-15
 Evidence label: disease-modifying iron-axis lane, not cure and not patient advice
 
 ## Working Conclusion
@@ -21,6 +22,11 @@ non-transfusion-dependent beta-thalassemia (`NTDT`), the fit is more direct
 because ineffective erythropoiesis suppresses hepcidin and drives intestinal
 iron absorption.
 
+The 2026 sapablursen result narrows this conclusion. `TMPRSS6` inhibition is
+not one interchangeable class: sapablursen monotherapy failed its hemoglobin
+and liver-iron endpoints in `NTDT` and is now deprioritized. Other iron-axis
+modalities remain comparators until they show human thalassemia efficacy.
+
 ## Mechanism Map
 
 | Node | Disease role | Research implication |
@@ -36,6 +42,7 @@ iron absorption.
 | Intervention class | Retrieved evidence | Boundary |
 | --- | --- | --- |
 | Ferroportin inhibition / vamifeport | preclinical beta-thalassemia model evidence; 2025 randomized phase 2a `NTDT` safety and pharmacodynamic study | disease-modifying signal, not transfusion-independence proof |
+| `TMPRSS6` inhibition / sapablursen | 2026 open-label phase 2a result in 29 adults with `NTDT`; hemoglobin and liver-iron endpoints failed and serum hepcidin did not increase consistently | deprioritized monotherapy; result does not falsify every `TMPRSS6` or iron-axis modality |
 | `TMPRSS6` inhibition / SLN124 | mouse beta-thalassemia plus deferiprone evidence; healthy-volunteer phase 1 hepcidin and plasma-iron pharmacodynamics | thalassemia patient translation remains early |
 | `TMPRSS6` inhibition / REGN7999 | 2025 mouse beta-thalassemia and healthy-human iron-reduction report; recruiting `NTDT` iron-overload trial | early clinical lane, not approved thalassemia therapy |
 | Hepcidin agonism / minihepcidin | mouse adult beta-thalassemia major model improved ineffective erythropoiesis and splenomegaly | preclinical tool, not a patient protocol |
@@ -59,6 +66,61 @@ iron-overload-adjacent records:
 
 The pattern is important: the biology is strong enough for clinical programs,
 but the trial landscape is mixed, early, and not yet a cure claim.
+
+## July 15 Sapablursen Result
+
+**Question:** Does the published phase 2a result justify retaining sapablursen
+as an active affordable route toward durable transfusion independence?
+
+**Decision:** `deprioritize_sapablursen_monotherapy`. Keep the broader
+hepcidin-ferroportin axis as `comparator_only`.
+
+- **Fact:** The industry-sponsored study enrolled 29 adults with genotypically
+  confirmed `NTDT` into three open-label active-dose cohorts. Sapablursen was
+  given subcutaneously every four weeks at initial doses of 30, 50, or 80 mg,
+  later increased to as much as 160 mg. There was no placebo cohort.
+- **Fact:** The study did not meet its primary hemoglobin endpoint at week 27
+  or its secondary hemoglobin and liver iron concentration endpoints at week
+  53. The publication reports no consistent dose-dependent serum-hepcidin
+  increase. The registry says development in this population stopped because
+  efficacy did not meet the sponsor's minimum target product profile.
+- **Safety boundary:** The paper describes generally favorable tolerability,
+  and the registry reports no deaths. Three participants had serious adverse
+  events across the dose cohorts, but the registry display does not establish
+  that those events were caused by sapablursen. The small, uncontrolled design
+  cannot establish comparative safety.
+- **Contradiction:** Earlier mouse studies and studies in healthy volunteers or
+  polycythemia vera supported hepcidin induction. That pharmacodynamic effect
+  did not translate consistently in this `NTDT` cohort.
+- **Hypothesis:** In the companion mouse study, high `ERFE` or
+  severe iron loading blunted the hepcidin, erythroid, and iron response to a
+  `Tmprss6` antisense oligonucleotide despite similar target reduction. This
+  makes disease-state resistance plausible; it does not prove that baseline
+  `ERFE` or liver iron concentration predicts human response.
+- **Interpretation:** The human endpoint failure is enough to deprioritize
+  sapablursen monotherapy, while the model-only resistance explanation is not
+  enough to reject every `TMPRSS6` or iron-axis modality.
+- **Confidence:** High that sapablursen missed the prespecified clinical
+  endpoints in this small `NTDT` study; moderate that `ERFE` and iron loading
+  explain the failure; low for extrapolation to other modalities, `TDT`, or
+  durable transfusion independence.
+- **Affordability and access:** Repeated injectable antisense therapy plus
+  hepcidin, iron, anemia, and MRI monitoring is not a low-infrastructure cure
+  path. With no demonstrated clinical benefit in this study, there is no
+  evidence-backed affordability case for sapablursen in thalassemia.
+- **Falsification criterion:** Restore a `TMPRSS6` modality only if a human
+  thalassemia study shows target engagement plus prespecified hepcidin or iron
+  improvement and hemoglobin or transfusion benefit, with resistance assessed
+  against baseline `ERFE` and iron burden. Promotion into the cure lane would
+  additionally require durable transfusion independence and a documented total
+  delivered-cost path.
+- **Open question:** Can another modality overcome high-`ERFE` or high-iron
+  resistance and produce both pharmacodynamic and clinical benefit in human
+  thalassemia?
+- **Next decisive action:** Do not allocate Nakafa assay or outreach effort to
+  sapablursen-specific work. Reassess the broader lane only when another
+  modality reports human thalassemia outcomes with both pharmacodynamic and
+  clinical endpoints.
 
 ## Assay And Endpoint Gates
 
@@ -99,6 +161,8 @@ map as an `iron-restriction comparator`:
 - above generic antioxidant claims because it has a strong causal iron-biology
   model and named clinical-stage interventions;
 - useful for `NTDT` iron-overload hypotheses and for `TDT` adjunct comparison;
+- sapablursen monotherapy is `deprioritized` after endpoint failure and lack of
+  consistent hepcidin induction in the 2026 phase 2a result;
 - mandatory hematologist review before any patient-facing interpretation.
 
 ## Sources
@@ -112,6 +176,9 @@ map as an `iron-restriction comparator`:
 - [Erythroferrone beta-thalassemia hepcidin search](../../../data/literature/pubmed/2026-04-27-erythroferrone-beta-thalassemia-hepcidin-search.json)
 - [REGN7999/TMPRSS6 beta-thalassemia PubMed search](../../../data/literature/pubmed/2026-04-27-regn7999-tmprss6-beta-thalassemia-search.json)
 - [Hepcidin-axis ClinicalTrials.gov snapshot](../../../data/registries/clinicaltrials/2026-04-27-hepcidin-axis-thalassemia-trials.json)
+- [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
+- [Sapablursen trial `NCT04059406`](https://clinicaltrials.gov/study/NCT04059406)
+- [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
 - [Vamifeport ChEMBL search](../../../data/chemistry/chembl/iron-axis/2026-04-27-vamifeport-search.json)
 - [Vamifeport PubChem properties](../../../data/chemistry/pubchem/iron-axis/2026-04-27-vamifeport-properties.json)
 - [Rusfertide ChEMBL search](../../../data/chemistry/chembl/iron-axis/2026-04-27-rusfertide-search.json)

@@ -1,6 +1,7 @@
 # Candidate Ranking
 
 Date checked: 2026-04-26
+Last evidence update: 2026-07-15
 Scope: affordable cure-oriented research, not treatment advice
 
 ## Ranking
@@ -13,7 +14,7 @@ Scope: affordable cure-oriented research, not treatment advice
 | 4 | Epigenetic HbF target discovery | `MBD2-NuRD`, `LSD1`, `DNMT1`, and `NRF2/BACH1` make the assay screen mechanistic | toxicity and selectivity |
 | 5 | Curcuminoid analog HbF bridge | natural-product-adjacent analogs have direct HbF literature | not the same as ordinary curcumin; needs defined analog and safety |
 | 6 | Assay-ready HbF screen | directly tests cure-like endpoint | needs lab partner and assay access |
-| 7 | Hepcidin-ferroportin-`TMPRSS6` iron-restriction comparator | strong disease biology plus clinical-stage intervention classes | not HbF, not `HBB` correction, and not proven transfusion independence |
+| 7 | Hepcidin-ferroportin-`TMPRSS6` iron-restriction comparator | strong disease biology plus clinical-stage intervention classes | sapablursen missed human `NTDT` hemoglobin and liver-iron endpoints; no transfusion-independence proof |
 | 8 | EGCG / green-tea extract adjunct comparator | randomized TDT human data for erythropoiesis, oxidative-stress, platelet, and coagulation endpoints | no HbF, transfusion-independence, or cure evidence; concentrated GTE also needs liver-safety and standardization gates |
 | 9 | Propolis red-cell oxidative-stress lane | red-cell oxidative-stress evidence exists | no direct HbF or thalassemia evidence yet |
 | 10 | Royal jelly oxidative-stress lane | general oxidative/inflammation evidence exists | no direct HbF or thalassemia evidence yet |
@@ -71,6 +72,15 @@ erythropoiesis. It stays below HbF and curative lanes because it does not fix
 globin production and cannot be treated as transfusion replacement without
 clinical proof.
 
+The July 2026 sapablursen publication narrows rank 7. Sapablursen monotherapy is
+now `deprioritized`: 29 adults with `NTDT` received active treatment in
+open-label dose cohorts, but the study missed its hemoglobin and liver-iron
+endpoints and did not show consistent hepcidin induction. The broader axis
+stays at rank 7 as a comparator because this result does not falsify ferroportin,
+hepcidin agonism, or every `TMPRSS6` modality. A new modality must demonstrate
+target engagement and clinical benefit in human thalassemia before the lane can
+move upward.
+
 The first numeric scoring model is now tracked in
 [Candidate scoring V0](2026-04-27-candidate-scoring-v0.md). It does not replace
 this ranking; it makes endpoint fit, human evidence, safety, access, and assay
@@ -92,6 +102,8 @@ This is a research ranking. It is not a patient treatment ranking.
 - [T-BDMC identity resolution](../findings/2026-04-27-t-bdmc-identity-resolution.md)
 - [Natural-product HbF expansion map](../findings/2026-04-27-natural-product-hbf-expansion-map.md)
 - [Hepcidin-ferroportin iron-restriction axis](../findings/2026-04-27-hepcidin-ferroportin-iron-restriction-axis.md)
+- [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
+- [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
 - [EGCG TDT clinical adjunct boundary](../findings/2026-04-27-egcg-tdt-clinical-adjunct-boundary.md)
 - [EGCG safety and standardization gate](../findings/2026-04-27-egcg-safety-standardization-gate.md)
 - [Propolis cytoprotective activity in human erythrocytes, PubMed PMID 32957629](https://pubmed.ncbi.nlm.nih.gov/32957629/)

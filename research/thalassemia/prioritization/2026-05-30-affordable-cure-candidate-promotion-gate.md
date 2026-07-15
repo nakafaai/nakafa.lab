@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-14
+Last evidence update: 2026-07-15
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -35,6 +35,7 @@ answers:
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
 | Thalidomide class or melittin hazard lanes | `reject_hazard_or_unmeasured_claim` | Safety boundary blocks therapeutic promotion without a new safety-resolution package. |
 | AND017, luspatercept, mitapivat | `benchmark_only` | Useful for transfusion-burden or red-cell-metabolism comparison, not cure. |
+| Hepcidin-ferroportin-`TMPRSS6` axis | `comparator_only`; sapablursen `deprioritized` | The 2026 sapablursen phase 2a `NTDT` study missed hemoglobin and liver-iron endpoints and did not consistently raise hepcidin. |
 
 ## Current Research Read
 
@@ -49,6 +50,12 @@ luspatercept plus thalidomide, and AND017.
 Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
+
+The July 2026 sapablursen result applies that rule to the iron axis. Endpoint
+failure falsifies sapablursen monotherapy as an active affordable-cure
+candidate; it does not falsify every `TMPRSS6`, ferroportin, or hepcidin
+modality. Any successor must show target engagement and hemoglobin or
+transfusion benefit in human thalassemia before promotion.
 
 ## July 14 Genome-Editing Safety And Affordability Delta
 
@@ -160,5 +167,7 @@ anchors, not biomedical evidence for any candidate.
   [NCT06302491](https://clinicaltrials.gov/study/NCT06302491)
 - [FDA April 2026 genome-editing NGS safety draft](https://www.fda.gov/media/191966/download)
 - [FDA June 2026 prior-knowledge draft](https://www.fda.gov/media/192810/download)
+- [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
+- [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

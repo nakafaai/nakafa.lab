@@ -1,6 +1,7 @@
 # HPFH-Like Candidate Labels V0
 
 Date: 2026-04-27
+Last evidence update: 2026-07-16
 Scope: research triage labels, not treatment advice
 
 ## Purpose
@@ -21,7 +22,8 @@ each lane gets one current label and one reason.
 | Alpha-globin rebalancing / `HBA` reduction | `not_hbf_lane` | root-cause-adjacent chain-balance benchmark; advanced RNA/vector/HSC/editing delivery, not a first affordable lead |
 | Delta-globin / HbA2 induction | `not_hbf_lane` | non-beta-globin compensation benchmark through `HBD`, not HbF; current support is mouse, editing, interferon, and screening-stage |
 | Thalidomide / CRBN class | `blocked` | strong HbF/transfusion signal but safety boundary is too hard for promotion |
-| Decitabine / DNMT1 depletion | `blocked` | strong HbF biology but cytotoxic and marrow-safety boundary is high |
+| Decitabine / nucleoside `DNMT1` depletion | `blocked` | strong HbF biology but cytotoxic and marrow-safety boundary is high |
+| DMT207 / non-nucleoside `DNMT1` inhibition | `partial_hbf` | direct HUDEP2, primary erythroblast, two same-genotype beta-thalassemia donor cultures, and short mouse evidence; reproduction-only until material, long-term safety, delivery, and cost gaps close |
 | `MBD2-NuRD`, `LSD1`, HDAC target discovery | `partial_hbf` | assay-design lane, not direct treatment lead |
 | `T-BDMC` trienone analog | `partial_hbf` | best natural-product-adjacent HbF seed, still needs hemolysis and batch gates |
 | Resveratrol | `partial_hbf` | beta-thalassemia erythroid precursor HbF signal, needs repeat safety ladder |
@@ -52,6 +54,8 @@ can be tested against the HPFH-like signature:
 - `AMPKB1` / `ULK1` / `NRF2` / autophagy as a dual HbF and alpha-globin
   cleanup target-discovery bridge;
 - epigenetic target lanes as assay controls;
+- DMT207 as a named `DNMT1` reproduction candidate held outside the first quote
+  panel until material identity and cost are resolved;
 - `T-BDMC`, resveratrol, and `HHBDMC` as natural-product-adjacent HbF seeds.
 
 Everything labeled `not_hbf_lane` can still matter, but it should not be sold
@@ -102,3 +106,4 @@ thalidomide, or known HbF-inducer classes.
 - [Alpha-globin rebalancing gate](../findings/2026-04-27-alpha-globin-rebalancing-gate.md)
 - [Delta-globin / HbA2 induction gate](../findings/2026-04-27-delta-globin-hba2-induction-gate.md)
 - [Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md)
+- [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)

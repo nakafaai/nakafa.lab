@@ -1,6 +1,7 @@
 # Assay Plan: Epigenetic HbF Screen V0
 
 Date checked: 2026-04-27
+Last evidence update: 2026-07-16
 Status: experiment design note, not an unsupervised wet-lab protocol
 
 ## Goal
@@ -82,10 +83,39 @@ Reject or hold a candidate if any of these occur:
 | --- | --- |
 | `MBD2-NuRD` | only if there is a plausible interaction-disruption or chromatin-target rationale |
 | `LSD1/KDM1A` | prioritize reversible or non-covalent approaches over irreversible inhibitors |
-| `DNMT1` | treat as proof-of-biology and safety boundary, not a casual candidate |
+| decitabine / nucleoside `DNMT1` depletion | treat as proof-of-biology and a cytotoxic safety boundary, not a candidate |
+| DMT207 / non-nucleoside `DNMT1` inhibition | reproduction-only after exact material identity, synthesis provenance, purity, batch analysis, and cost are resolved |
 | `NRF2/BACH1` | require HbF endpoint plus viability, not just antioxidant activity |
 | curcuminoid/trienone analogs | require defined chemistry, HbF endpoint, and beta-thalassemia/HbE endpoint replication |
 | bee-derived materials | require batch identity, allergy screen plan, and hemolysis-first triage |
+
+## DMT207 Reproduction Gate
+
+DMT207 is `partial_hbf_reproduction_only`, not a first-quote item. The 2026
+primary study crossed HUDEP2, adult primary erythroblast, two same-genotype
+beta-thalassemia donor cultures, and short mouse-model boundaries. It did not
+establish
+total-hemoglobin improvement, transfusion independence, diverse-genotype
+response, long-term safety, a practical exposure route, or affordability.
+
+Before entry, require:
+
+- a structure-linked synthesis or supplier record, purity, certificate or
+  equivalent analytical identity, batch, vehicle, and cost per assay run;
+- vehicle, hydroxyurea, and decitabine comparators;
+- `DNMT1`, `HBG1/HBG2`, HbF protein, F-cells, gamma/total beta-like and
+  alpha/non-alpha globin balance;
+- `CD71`/`CD235a`, enucleation, viability/apoptosis, gamma-H2AX, and mature
+  red-cell hemolysis;
+- qualified replication across at least three genetically distinct beta-
+  thalassemia donor cultures.
+
+Stop if identity or batch analysis fails; if no dose raises both HbF protein
+and F-cell percentage over vehicle while retaining at least 80%
+vehicle-normalized viability across independent runs; or if DNA damage,
+apoptosis, maturation, enucleation, or hemolysis approaches the decitabine
+safety boundary. The detailed evidence and affordability boundary are in the
+[epigenetic HbF target drilldown](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md).
 
 For curcuminoid analog work, `T-BDMC` is the first high-priority seed. Its
 structure now resolves to PubChem `CID 10447050` and ChEMBL `CHEMBL469419`, but
@@ -161,3 +191,4 @@ Lab-partner readiness is tracked in
 - [Endogenous HbF reporter system, PubMed PMID 39108322](https://pubmed.ncbi.nlm.nih.gov/39108322/)
 - [Small molecule HbF screen, PubMed PMID 39504332](https://pubmed.ncbi.nlm.nih.gov/39504332/)
 - [Hemolysis assay optimization, PubMed PMID 36769243](https://pubmed.ncbi.nlm.nih.gov/36769243/)
+- [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)

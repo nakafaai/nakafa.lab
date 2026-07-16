@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-15
+Last evidence update: 2026-07-16
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -32,6 +32,7 @@ answers:
 | --- | --- | --- |
 | Approved or late gene-cell therapy | `benchmark_only` | Defines curative biology and endpoint standards but does not solve access, center, conditioning, or cost gaps. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
+| Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
 | Thalidomide class or melittin hazard lanes | `reject_hazard_or_unmeasured_claim` | Safety boundary blocks therapeutic promotion without a new safety-resolution package. |
 | AND017, luspatercept, mitapivat | `benchmark_only` | Useful for transfusion-burden or red-cell-metabolism comparison, not cure. |
@@ -64,6 +65,14 @@ comparator.
 `NCT06421636` is now the named successor evidence trigger. It is active, not
 recruiting, placebo-controlled, and has no posted results; its liver-iron,
 hemoglobin, and transfusion endpoints cannot support promotion until reported.
+
+The July 2026 DMT207 review splits the epigenetic lane without promoting a cure
+claim. Decitabine remains a cytotoxic `DNMT1` proof-of-biology comparator.
+DMT207 moves to `partial_hbf_reproduction_only` because it has HbF protein,
+F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
+outside the first quote panel until a qualified material-identity and cost
+packet exists, and it cannot move beyond preclinical reproduction without
+long-term safety plus total-hemoglobin or transfusion evidence.
 
 ## July 14 Genome-Editing Safety And Affordability Delta
 
@@ -178,5 +187,7 @@ anchors, not biomedical evidence for any candidate.
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
+- [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
+- [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

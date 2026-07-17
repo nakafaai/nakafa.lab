@@ -1,19 +1,64 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-13
+Last evidence update: 2026-07-17
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
 
-The July 13 evidence update does not change Case-001 action status. It adds two
-current registry signals to the general curative-route radar so research can
-distinguish approved gene-cell benchmarks, pre-efficacy pipeline entries, HSCT
-conditioning comparators, and non-curative disease-modifying comparators.
+The pediatric exa-cel result confirms a strong transfusion-independence
+benchmark but does not make ex vivo editing an affordable-cure candidate. The
+reported conditioning-related fatality makes route efficacy, editing safety,
+and myeloablative safety inseparable in promotion decisions.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 17 Pediatric Exa-Cel Decision
+
+**Question:** Does current pediatric exa-cel outcome evidence justify promoting
+ex vivo gene editing from curative benchmark to affordable-cure candidate?
+
+**Decision:** `hold_exa_cel_benchmark_only_conditioning_not_separable`.
+
+- **Fact:** The primary phase 3 report treated 15 children with TDT. At its data
+  cutoff, all 8 with at least 16 months of follow-up met 12-month transfusion
+  independence; 7 were not yet evaluable. Across the parallel TDT and SCD
+  cohorts, all 26 children had at least one grade 3 or 4 adverse event. Two
+  children with TDT had severe hepatic veno-occlusive disease attributed to
+  busulfan conditioning, and one died.
+- **Fact:** FDA's later July 1 analysis reports that 8 of 9 efficacy-evaluable
+  children with TDT met 12-month transfusion independence, with a median
+  independence duration of 20.1 months. FDA also states that full myeloablative
+  conditioning precedes Casgevy.
+- **Resolved contradiction:** `8/8` in the paper and `8/9` in the FDA release
+  are different analysis sets or data cuts. They should not be merged into one
+  response rate. The current registry lists 16 actual enrollees, remains active
+  but not recruiting, and has no posted results.
+- **Interpretation:** The efficacy signal is high-confidence for the evaluable
+  children at each source's cutoff. Durability for the full cohort, why the
+  ninth FDA-evaluable child did not meet the endpoint, long-term safety,
+  delivered cost, and transferability to other editing products remain
+  unresolved.
+- **Current-source check:** An exact PubMed July 16-17 entry-date query returned
+  two non-curative records about beta-thalassemia trait iron and TDT
+  dysglycemia. Exact ClinicalTrials.gov beta-thalassemia queries found no result
+  first posted or study update from July 16 onward. These are query-bounded
+  negatives, not proof that no relevant evidence exists elsewhere.
+- **Affordability and access:** The route still requires individualized cell
+  collection, editing, release, full myeloablation, infusion, and specialist
+  follow-up. Exact `CASGEVY` and `exagamglogene` BPOM product-name and ingredient
+  searches returned no public record on July 17. That bounded negative does not
+  prove absence, unavailability, or ineligibility.
+- **Falsification criterion:** An ex vivo editing route fails affordable-cure
+  promotion while it retains full myeloablation and individualized external
+  manufacturing without owner-validated evidence of materially lower serious
+  toxicity and total delivered cost below a recorded program threshold.
+- **Next decisive action:** Require every proposed affordable curative route to
+  state whether it removes full myeloablation. If it does not, keep it
+  `benchmark_only` until route-level safety and total delivered cost are
+  independently documented.
 
 ## July 13 Evidence Delta
 
@@ -46,7 +91,7 @@ Decision: `hold_registry_watch`
 
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
-| Autologous gene-cell therapy | FDA CASGEVY page, pediatric exa-cel PubMed record, CTX001 registry records | Strong curative benchmark, not patient eligibility or access. |
+| Autologous gene-cell therapy | FDA CASGEVY page, pediatric exa-cel primary result, CTX001 registry records | Strong curative benchmark; full myeloablation and the reported busulfan-related fatality block affordable-route promotion. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Not-yet-recruiting pipeline signal; no outcome evidence. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor/HLA/organ-risk data are private blockers. |
@@ -88,6 +133,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [ClinicalTrials.gov NCT07599176](https://clinicaltrials.gov/study/NCT07599176)
 - [ClinicalTrials.gov NCT07680803](https://clinicaltrials.gov/study/NCT07680803)
 - [PubMed PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
+- [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)
+- [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
+- [PubMed July 16-17 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=%28beta+thalassemia%5BTitle%2FAbstract%5D+OR+beta-thalassemia%5BTitle%2FAbstract%5D%29+AND+2026%2F07%2F16%3A2026%2F07%2F17%5BEDAT%5D)
+- [ClinicalTrials.gov July 16 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F16%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
+- [ClinicalTrials.gov July 16 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F16%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=LastUpdatePostDate%3Adesc)
 - [PubMed PMID 42252696](https://pubmed.ncbi.nlm.nih.gov/42252696/)
 - [PubMed PMID 42091200](https://pubmed.ncbi.nlm.nih.gov/42091200/)
 - [PubMed PMID 42261266](https://pubmed.ncbi.nlm.nih.gov/42261266/)

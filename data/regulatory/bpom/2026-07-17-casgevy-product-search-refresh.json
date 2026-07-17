@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-07-17",
+  "queries": [
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24404,
+      "search_field": "product_name",
+      "term": "CASGEVY"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24404,
+      "search_field": "ingredients",
+      "term": "CASGEVY"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24404,
+      "search_field": "product_name",
+      "term": "exagamglogene"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24404,
+      "search_field": "ingredients",
+      "term": "exagamglogene"
+    }
+  ],
+  "source_endpoint": "https://cekbpom.pom.go.id/produk-dt/01",
+  "source_page": "https://cekbpom.pom.go.id/produk-obat"
+}

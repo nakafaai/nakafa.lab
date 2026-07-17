@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-16
+Last evidence update: 2026-07-17
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -30,7 +30,7 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
-| Approved or late gene-cell therapy | `benchmark_only` | Defines curative biology and endpoint standards but does not solve access, center, conditioning, or cost gaps. |
+| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation and a reported fatal busulfan-related event leave conditioning, access, center, and cost gaps open. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
@@ -73,6 +73,36 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 17 Pediatric Exa-Cel Conditioning Boundary
+
+**Question:** Does pediatric exa-cel efficacy make ex vivo editing an
+affordable-cure candidate rather than a benchmark?
+
+**Decision:** `hold_exa_cel_benchmark_only_conditioning_not_separable`.
+
+The primary report found 12-month transfusion independence in all 8 children
+with TDT evaluable at its cutoff. Across the parallel TDT and SCD cohorts, all
+26 children had a grade 3 or 4 adverse event. Two children with TDT developed
+severe hepatic veno-occlusive disease attributed to busulfan conditioning, and
+one died. FDA's later analysis reported 8 of 9 evaluable children meeting the
+same endpoint. These denominators reflect different analysis sets or cutoffs
+and must stay separate.
+
+This result strengthens the curative benchmark while tightening the affordable
+route rule: editing efficacy cannot compensate for unpriced full myeloablation,
+individualized manufacturing, and specialist-center risk. Exact July 17 BPOM
+searches found no public `CASGEVY` or `exagamglogene` record; that bounded
+negative does not establish legal status, availability, or patient fit.
+
+**Kill criterion:** keep any ex vivo editing proposal `benchmark_only` if it
+retains full myeloablation and individualized external manufacturing without
+independent evidence of materially lower serious toxicity and a total delivered
+cost below a recorded program threshold.
+
+**Next action:** make removal or material reduction of full myeloablation an
+explicit affordable-route discriminator before investing in product-specific
+editing optimization.
 
 ## July 14 Genome-Editing Safety And Affordability Delta
 
@@ -189,5 +219,9 @@ anchors, not biomedical evidence for any candidate.
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
+- [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
+- [Pediatric exa-cel trial `NCT05356195`](https://clinicaltrials.gov/study/NCT05356195)
+- [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)
+- [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

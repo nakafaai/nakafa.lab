@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-17
+Last evidence update: 2026-07-18
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -31,6 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation and a reported fatal busulfan-related event leave conditioning, access, center, and cost gaps open. |
+| `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
@@ -73,6 +74,53 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 18 Conditioning-Route Decision
+
+**Question:** Does `CD117` epitope shielding resolve the full-myeloablation
+blocker well enough to promote gene-cell therapy as an affordable-cure
+candidate?
+
+**Decision:** `promote_cd117_shielding_to_preclinical_conditioning_benchmark_only`.
+The approved gene-cell lane remains `benchmark_only`.
+
+- **Fact:** A non-peer-reviewed primary preprint combined the `CIM058`
+  `CD117`-blocking antibody with healthy-donor `CD34+` HSPCs prime-edited to
+  carry the antibody-resistant `CD117 E73K` variant. In NBSGW mice humanized
+  with beta-thalassemia HSPCs of the homozygous `IVS1-110/IVS1-110` genotype,
+  pre- and post-transplant antibody exposure enriched shielded cells and
+  improved globin-chain balance and erythroid maturation, reduced
+  reticulocytosis and splenic iron, and reduced spleen size. The methods report
+  two same-genotype donor sources; the study did not test patients, transfusion
+  independence, or total delivered cost.
+- **Interpretation:** This directly addresses the conditioning bottleneck
+  exposed by pediatric exa-cel without resolving it clinically. The model is
+  immunodeficient, permits human HSPC engraftment without conditioning, and
+  partially rescued the phenotype without `CIM058`. The authors also identify
+  durability after antibody withdrawal as a critical open question.
+- **Safety risk:** The route adds a second genome edit and repeated antibody
+  exposure. The reported prime-editing checks were favorable but not a full
+  genomic-safety assessment. Long-term multilineage fitness, immune effects,
+  graft rejection or graft-versus-host disease for the allogeneic route, and
+  clinical conditioning toxicity remain unresolved.
+- **Affordability and access:** Removing busulfan could reduce a major safety
+  and supportive-care burden, but prime editing, cell manufacture, antibody
+  production and dosing, transplant infrastructure, and follow-up remain.
+  The preprint supplies no delivered-cost or Indonesia-access evidence. A new
+  EHA/EBMT consensus separately identifies price, availability, and resource
+  allocation as gene-therapy selection constraints; it is guidance, not new
+  outcome evidence.
+- **Falsification criterion:** Deprioritize this conditioning route if an
+  immunocompetent large-animal study cannot maintain clinically relevant,
+  multilineage chimerism after antibody withdrawal without genotoxic
+  conditioning or if full genomic, hematologic, and immune safety or total
+  delivered cost fails the program threshold.
+- **Next decisive action:** A transplant-conditioning owner should obtain the
+  complete nonhuman-primate dataset cited only as preliminary support and
+  require a controlled antibody-withdrawal study with durable multilineage
+  engraftment, marrow and immune safety, genomic-integrity analysis, supportive-
+  care use, and a costed autologous-versus-allogeneic process map before any
+  clinical or affordable-cure promotion.
 
 ## July 17 Pediatric Exa-Cel Conditioning Boundary
 
@@ -223,5 +271,7 @@ anchors, not biomedical evidence for any candidate.
 - [Pediatric exa-cel trial `NCT05356195`](https://clinicaltrials.gov/study/NCT05356195)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
+- [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
+- [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

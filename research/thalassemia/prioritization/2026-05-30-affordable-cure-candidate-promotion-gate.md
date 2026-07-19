@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-18
+Last evidence update: 2026-07-19
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -30,6 +30,7 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
+| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. Matched-sibling restriction, multi-drug conditioning, transplant mortality and toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation and a reported fatal busulfan-related event leave conditioning, access, center, and cost gaps open. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -74,6 +75,59 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 19 Matched-Sibling HSCT Route Decision
+
+**Question:** Does a new multicenter LMIC matched-sibling transplant cohort move
+this route above gene-cell therapy as the leading affordable-curative benchmark?
+
+**Decision:** `promote_msd_hsct_to_leading_affordable_curative_route_benchmark_only`.
+The route moves above ex vivo gene-cell therapy on current affordability
+evidence, but it is not promoted as broadly accessible or suitable.
+
+- **Fact:** The primary report includes 176 consecutive first matched-sibling
+  bone marrow transplants in children under 14 across centers in India,
+  Pakistan, Vietnam, Uzbekistan, and Iraq. Entry required a fully matched
+  sibling, stable organ function, no active infection, and low- or intermediate-
+  risk features after optimization.
+- **Fact:** At median follow-up of 11.35 months, 164 of 176 were thalassemia-free
+  and 169 were alive. Six transplant-related deaths, five graft failures, 13
+  veno-occlusive disease or sinusoidal obstruction syndrome events, 33 CMV
+  reactivations, and 18 ICU admissions keep the route-level burden visible.
+- **Fact:** The paper reports mean cost per transplant, including follow-up, as
+  USD 8,000-10,000. It does not itemize the cost method, time horizon, subsidy,
+  currency year, or what would transfer to Indonesia.
+- **Resolved contradiction:** The manuscript reports 93.2% thalassemia-free
+  survival in its results and table versus 93.4% in its abstract and figure,
+  and 3.4% transplant-related mortality in its results and table versus 3.8% in
+  its figure. The table reports 169 overall survivors, which does not reconcile
+  with 176 participants and six reported deaths. Several other rates differ
+  slightly, the methods institution list omits a Pakistan center present in
+  Table 4, and
+  the methods and discussion conflict on whether the busulfan quantity is daily
+  or total. Preserve the reported counts and ranges without forcing
+  reconciliation, and do not operationalize the regimen from this paper.
+- **Hypothesis:** A standardized matched-sibling route using generally available
+  medicines plus remote quality support can preserve high thalassemia-free
+  survival while remaining below the program's delivered-cost threshold in an
+  independently run LMIC network.
+- **Interpretation:** This is the strongest current affordable-curative route
+  evidence because it combines clinical cure-oriented outcomes with a direct
+  cost range. Confidence is moderate for the short-term result and low for long-
+  term durability, broad transferability, or Indonesia affordability. The three
+  startup centers contributed only 15 patients, and no Indonesia site or payer
+  evidence is present.
+- **Open question:** Will independent three- to five-year follow-up preserve
+  thalassemia-free survival while resolving late graft failure, fertility,
+  endocrine, infection, and cost-transferability gaps?
+- **Falsification criterion:** Remove the leading-route label if independent
+  long-term results show unacceptable mortality, graft failure, late toxicity,
+  infection burden, or if an itemized Indonesia-relevant delivered cost exceeds
+  the program threshold.
+- **Next decisive action:** A transplant-program and health-economics owner
+  should itemize the reported USD 8,000-10,000 route, test the required center
+  capacity and payer assumptions against Indonesia, and pair that analysis with
+  independent long-term outcome data.
 
 ## July 18 Conditioning-Route Decision
 
@@ -267,6 +321,8 @@ anchors, not biomedical evidence for any candidate.
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
+- [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
+- [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
 - [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [Pediatric exa-cel trial `NCT05356195`](https://clinicaltrials.gov/study/NCT05356195)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)

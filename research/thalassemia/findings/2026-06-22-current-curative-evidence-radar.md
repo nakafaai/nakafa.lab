@@ -1,19 +1,80 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-18
+Last evidence update: 2026-07-19
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
 
-The pediatric exa-cel result confirms a strong transfusion-independence
-benchmark but does not make ex vivo editing an affordable-cure candidate. A
-new `CD117` epitope-shielding preprint makes reduced-toxicity conditioning a
-testable preclinical route, not a resolved clinical or affordability claim.
+Matched-sibling HSCT is now the leading affordable-curative route benchmark for
+the narrow pediatric population studied in a new LMIC cohort. It remains
+`benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
+transplant mortality, infection and ICU burden, and unverified Indonesia
+delivery prevent general affordable-cure promotion. Ex vivo editing remains a
+strong curative benchmark, while `CD117` epitope shielding remains a testable
+preclinical conditioning route.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 19 Matched-Sibling HSCT Decision
+
+**Question:** Does the new multicenter LMIC matched-sibling transplant cohort
+justify making this route the program's leading affordable-curative benchmark?
+
+**Decision:** `promote_msd_hsct_to_leading_affordable_curative_route_benchmark_only`.
+This changes route ranking, not patient selection or local-access status.
+
+- **Fact:** A 2026 primary report followed 176 consecutive first matched-sibling
+  bone marrow transplants in children under 14 across centers in India,
+  Pakistan, Vietnam, Uzbekistan, and Iraq. The cohort required a fully matched
+  sibling, stable organ function, no active infection, and low- or intermediate-
+  risk features after pre-transplant optimization.
+- **Fact:** At a median 11.35 months of follow-up, the paper reports 171 of 176
+  engrafted, 164 thalassemia-free survivors, 169 overall survivors, six
+  transplant-related deaths, five graft failures, 13 cases of veno-occlusive
+  disease or sinusoidal obstruction syndrome, 33 CMV reactivations, and 18 ICU
+  admissions. It reports a mean per-transplant cost, including follow-up, in a
+  USD 8,000-10,000 range.
+- **Resolved contradiction:** The manuscript contains small denominator or
+  rounding conflicts: thalassemia-free survival is 93.2% in the results and
+  table but 93.4% in the abstract and figure; transplant-related mortality is
+  3.4% in the results and table but 3.8% in the figure. The table reports 169
+  overall survivors, which does not reconcile with 176 participants and six
+  reported deaths. Other abstract-versus-body rates differ slightly, and the
+  methods institution list omits a Pakistan center present in Table 4. The methods and
+  discussion also conflict on whether the busulfan quantity is daily or total.
+  Preserve the reported counts and ranges without forcing reconciliation, and
+  do not operationalize regimen details from this paper.
+- **Hypothesis:** A standardized matched-sibling transplant program using
+  widely available medicines, remote expert support, nurse training, and daily
+  quality data can reproduce high thalassemia-free survival at an all-in cost
+  below individualized gene-cell routes in additional LMIC centers.
+- **Interpretation:** This is the first current source in the radar to join a
+  cure-oriented clinical outcome with a route-level cost range in multiple
+  lower-resource centers. It therefore becomes the leading affordable-curative
+  route benchmark. It does not establish broad accessibility: the three startup
+  centers contributed only 15 patients, the cost methods are not itemized, and
+  no Indonesia center, payer, capacity, or cost result is reported.
+- **Open question:** Do three- to five-year thalassemia-free survival, late graft
+  failure, fertility and endocrine outcomes, infection burden, and fully
+  itemized delivered cost remain acceptable when this protocol is implemented
+  in a larger independent LMIC network?
+- **Current-source check:** On 2026-07-19, an exact PubMed thalassemia entry-date
+  query for July 18-19 returned this transplant paper and one non-curative bone-
+  microarchitecture study. Exact ClinicalTrials.gov beta-thalassemia queries
+  found no result or study update posted from July 18 onward. These are query-
+  bounded results.
+- **Falsification criterion:** Remove the leading-route label if independent
+  three- to five-year follow-up does not sustain clinically credible
+  thalassemia-free survival without unacceptable mortality, late graft failure,
+  infertility or endocrine harm, infection burden, or if an itemized Indonesia-
+  relevant delivered cost exceeds the program threshold.
+- **Next decisive action:** A transplant-program and health-economics owner
+  should reproduce the paper's USD 8,000-10,000 scope as an itemized Indonesia-
+  relevant cost and capacity model, then pair it with independent long-term
+  outcome data before any promotion beyond `benchmark_only`.
 
 ## July 18 Conditioning-Route Decision
 
@@ -140,7 +201,8 @@ Decision: `hold_registry_watch`
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Not-yet-recruiting pipeline signal; no outcome evidence. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor/HLA/organ-risk data are private blockers. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
+| Alternative-donor allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor route, GVHD, infection, center, and long-term outcome gaps remain. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | China BD211 recruiting record and China gamma-globin autologous HSC benchmark | Useful regional radar, not a referral instruction. |
 | Metabolism comparator | Pyruvate-kinase activation review | Disease-modifying context, not a cure route. |
@@ -184,6 +246,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [Preprint full text, DOI 10.64898/2026.07.07.736903](https://doi.org/10.64898/2026.07.07.736903)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
+- [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
+- [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [PubMed July 18-19 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=thalassemia%5BTitle%2FAbstract%5D+AND+2026%2F07%2F18%3A2026%2F07%2F19%5BEDAT%5D)
+- [ClinicalTrials.gov July 18 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F18%2F2026%2C%20MAX%5D&pageSize=20&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
+- [ClinicalTrials.gov July 18 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F18%2F2026%2C%20MAX%5D&pageSize=20&countTotal=true&sort=LastUpdatePostDate%3Adesc)
 - [PubMed July 17-18 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=%28beta+thalassemia%5BTitle%2FAbstract%5D+OR+beta-thalassemia%5BTitle%2FAbstract%5D%29+AND+2026%2F07%2F17%3A2026%2F07%2F18%5BEDAT%5D)
 - [PubMed July 16-17 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=%28beta+thalassemia%5BTitle%2FAbstract%5D+OR+beta-thalassemia%5BTitle%2FAbstract%5D%29+AND+2026%2F07%2F16%3A2026%2F07%2F17%5BEDAT%5D)
 - [ClinicalTrials.gov July 16 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F16%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)

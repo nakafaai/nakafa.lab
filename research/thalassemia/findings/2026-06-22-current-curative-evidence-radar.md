@@ -12,12 +12,63 @@ the narrow pediatric population studied in a new LMIC cohort. It remains
 transplant mortality, infection and ICU burden, and unverified Indonesia
 delivery prevent general affordable-cure promotion. Ex vivo editing remains a
 strong curative benchmark, but FDA's 15-year postmarketing requirement makes
-its long-term genomic-safety evidence gap explicit. `CD117` epitope shielding
-remains a testable preclinical conditioning route.
+its long-term genomic-safety evidence gap explicit. BRL-101 has closed
+recruitment and opened long-term follow-up without posting outcomes, so it
+remains an Asia registry benchmark. `CD117` epitope shielding remains a
+testable preclinical conditioning route.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 21 BRL-101 Registry Decision
+
+**Question:** Do closed BRL-101 recruitment and recruiting long-term follow-up
+justify promotion beyond an Asia gene-editing registry benchmark?
+
+**Decision:** `hold_brl101_at_registry_benchmark_until_cohort_outcomes`.
+This does not change route ranking or access status.
+
+- **Fact:** ClinicalTrials.gov version 2026-07-21 changed phase 1/2
+  `NCT05577312` from enrolling by invitation with 39 estimated participants to
+  active, not recruiting with 39 actual participants. The open-label,
+  single-arm study gives autologous CRISPR-Cas9-edited `CD34+` HSPCs targeting
+  the erythroid `BCL11A` enhancer after myeloablative conditioning. Actual
+  enrollment is not a treated or outcome-evaluable denominator.
+- **Scope:** The registered population is age 3-35 with TDT and includes listed
+  beta-zero/beta-zero, beta-plus/beta-plus, beta-plus/beta-zero, and
+  beta-E/beta-zero genotypes. Seven study locations are in China.
+- **Fact:** Prospective follow-up `NCT06298630` changed from not yet recruiting
+  to recruiting. It plans 45 participants previously treated with BRL-101 and
+  follows hematologic malignancies for up to 15 years and serious adverse
+  events from years 2-5. Both records have no posted results.
+- **Resolved contradiction:** Closed recruitment and active follow-up show
+  operational maturity, not efficacy, safety, durability, or genomic integrity.
+  The follow-up estimate of 45 is neither an observed denominator nor proof that
+  every participant from the 39-person phase 1/2 record transferred.
+- **Interpretation:** Evidence remains official registry design and status,
+  below a posted result or primary full-cohort report. BRL-101 stays an Asia
+  curative benchmark, not an affordable-cure candidate. An exact PubMed search
+  for BRL-101 or either NCT ID returned zero records; that does not exclude
+  related `BCL11A`-editing literature.
+- **Safety, affordability, and access:** Myeloablation, individualized
+  manufacture, short-term adverse events, malignancy surveillance, and other
+  long-term genomic risks remain unresolved. No reviewed source supplies
+  delivered cost or Indonesia capacity, authorization, payer, or access data.
+- **Hypothesis:** The treated cohort can retain engraftment and durable
+  transfusion independence without unacceptable treatment-related or long-term
+  serious harm, but treatment and outcome denominators remain unreported.
+- **Open question:** What are the complete-cohort engraftment, transfusion-
+  independence, hemoglobin/HbF, adverse-event, death, editing-persistence,
+  off-target, and long-term malignancy results?
+- **Falsification criterion:** Deprioritize BRL-101 as a curative benchmark if
+  complete-cohort evidence shows unacceptable mortality, serious toxicity,
+  malignancy, graft failure, or non-durable transfusion independence. Keep it
+  outside affordable-route promotion unless itemized delivered cost meets the
+  program threshold.
+- **Next decisive action:** The evidence owner should capture the first posted
+  results or primary full-cohort report and reconcile all denominators before a
+  health-economics owner models complete delivery.
 
 ## July 21 Exa-Cel Long-Term Safety Decision
 
@@ -50,10 +101,10 @@ This does not change the route ranking.
   level study or establishes which monitoring costs apply to every treated
   person. No Indonesia surveillance or payer path is shown, and US approval is
   not Indonesia access evidence.
-- **Current-source check:** On July 21, a PubMed thalassemia entry-date query for
-  July 20-21 returned one non-curative diagnostic study. Exact
-  ClinicalTrials.gov beta-thalassemia queries found no study, result, or update
-  first posted from July 19 onward. These are query-bounded results.
+- **Current-source check:** The evening rerun of the July 20-21 PubMed query
+  returned two non-curative records. ClinicalTrials.gov still returned no new
+  study or first-posted result from July 19 onward, but the update query returned
+  the two BRL-101 records above. This supersedes the morning zero-update result.
 - **Open question:** Will the required TDT cohort show acceptable secondary-
   malignancy, off-target, and other long-term safety outcomes, and what does
   the sponsor study and routine long-term follow-up each add to cost and
@@ -253,7 +304,7 @@ Decision: `hold_registry_watch`
 | Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
 | Alternative-donor allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor route, GVHD, infection, center, and long-term outcome gaps remain. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
-| Asia watch | China BD211 recruiting record and China gamma-globin autologous HSC benchmark | Useful regional radar, not a referral instruction. |
+| Asia watch | BRL-101 phase 1/2 has 39 actual enrollees and recruiting 15-year follow-up; China BD211 and gamma-globin autologous HSC records remain comparators | Operationally mature regional radar without posted BRL-101 outcomes, delivered cost, Indonesia access, or referral relevance. |
 | Metabolism comparator | Pyruvate-kinase activation review | Disease-modifying context, not a cure route. |
 
 ## What This Means For Doctor Conversation
@@ -289,6 +340,9 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [ClinicalTrials.gov NCT06465550](https://clinicaltrials.gov/study/NCT06465550)
 - [ClinicalTrials.gov NCT07599176](https://clinicaltrials.gov/study/NCT07599176)
 - [ClinicalTrials.gov NCT07680803](https://clinicaltrials.gov/study/NCT07680803)
+- [ClinicalTrials.gov NCT05577312](https://clinicaltrials.gov/study/NCT05577312)
+- [ClinicalTrials.gov NCT06298630](https://clinicaltrials.gov/study/NCT06298630)
+- [Exact BRL-101 and NCT ID PubMed query](https://pubmed.ncbi.nlm.nih.gov/?term=%22BRL-101%22+OR+%22NCT05577312%22+OR+%22NCT06298630%22)
 - [PubMed PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)
 - [FDA July 1 Casgevy supplement approval letter](https://www.fda.gov/media/193444/download)

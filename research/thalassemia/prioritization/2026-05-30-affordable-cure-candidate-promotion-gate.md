@@ -31,7 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. Matched-sibling restriction, multi-drug conditioning, transplant mortality and toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
-| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and an FDA-required 15-year postmarketing study of secondary malignancy, off-target, and long-term safety risks leave conditioning, safety, access, center, and cost gaps open. |
+| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 now has 39 actual phase 1/2 enrollees and recruiting 15-year follow-up, but no posted results or delivered-cost evidence. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
@@ -75,6 +75,38 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 21 BRL-101 Registry Decision
+
+**Decision:** `hold_brl101_at_registry_benchmark_until_cohort_outcomes`.
+
+- **Mechanism and scope:** `NCT05577312` is a single-arm phase 1/2 study of
+  autologous `CD34+` HSPCs edited by CRISPR-Cas9 at the erythroid `BCL11A`
+  enhancer after myeloablative conditioning. Its TDT population is age 3-35 and
+  lists beta-zero/beta-zero, beta-plus/beta-plus, beta-plus/beta-zero, and
+  beta-E/beta-zero genotypes.
+- **Evidence tier:** The July 21 registry version changes 39 participants from
+  estimated to actual and the study to active, not recruiting. BRL-101
+  follow-up `NCT06298630` is now recruiting, with 45 estimated
+  participants and hematologic-malignancy observation up to 15 years. Neither
+  record has posted results, and actual enrollment is not a treated or outcome-
+  evaluable denominator.
+- **Resolved contradiction:** Closed recruitment and active surveillance
+  increase operational maturity but do not demonstrate efficacy, safety,
+  durability, genomic integrity, or successful transfer of all phase 1/2
+  participants into follow-up.
+- **Safety risk:** Myeloablation, treatment-related adverse events, graft
+  failure, malignancy, and other long-term genomic risks remain unresolved.
+- **Affordability and access:** Individualized manufacture and specialist
+  follow-up remain necessary. The China-only records contain no total delivered
+  cost, Indonesia capacity, authorization, payer, or access evidence.
+- **Falsification criterion:** Deprioritize BRL-101 as a curative benchmark if
+  complete-cohort results show unacceptable mortality, serious toxicity,
+  malignancy, graft failure, or non-durable transfusion independence. Do not
+  promote it as affordable without itemized cost below a recorded threshold.
+- **Next decisive action:** The evidence owner should capture the first posted
+  results or primary phase 1/2 cohort report, reconcile efficacy and safety
+  denominators, and only then hand the full route to a health-economics owner.
 
 ## July 21 Exa-Cel Regulatory Safety Decision
 

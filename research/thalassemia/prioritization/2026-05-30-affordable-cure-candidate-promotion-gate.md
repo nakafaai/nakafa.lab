@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-19
+Last evidence update: 2026-07-21
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -31,7 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. Matched-sibling restriction, multi-drug conditioning, transplant mortality and toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
-| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation and a reported fatal busulfan-related event leave conditioning, access, center, and cost gaps open. |
+| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and an FDA-required 15-year postmarketing study of secondary malignancy, off-target, and long-term safety risks leave conditioning, safety, access, center, and cost gaps open. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
@@ -75,6 +75,48 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 21 Exa-Cel Regulatory Safety Decision
+
+**Question:** Does FDA's expanded pediatric Casgevy approval resolve exa-cel's
+long-term safety gap well enough to promote it beyond `benchmark_only`?
+
+**Decision:** `hold_exa_cel_benchmark_only_pending_conditioning_cost_and_15_year_safety_evidence`.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark.
+
+- **Fact:** The July 1 FDA supplement expanded the US TDT indication to ages 2
+  years and older and replaced an earlier SCD-only postmarketing requirement.
+  Protocol `VX22-290-101` must now include 250 people with SCD and 150 with TDT,
+  follow each participant for 15 years, complete by December 31, 2045, and
+  report by December 31, 2046.
+- **Fact:** FDA says spontaneous reports and routine pharmacovigilance are
+  insufficient to assess the unexpected serious risk of secondary malignancies
+  and off-target effects after exa-cel genome editing. The protocol must also
+  assess long-term safety.
+- **Resolved contradiction:** A favorable approval decision does not close the
+  long-term safety question, while a required study does not prove the named
+  harms occurred. The letter defines a regulator-required uncertainty.
+- **Interpretation:** The approval does not change candidate ranking. Confidence
+  is high about the evidence requirement and low about eventual risk magnitude
+  because no postmarketing outcomes are reported.
+- **Safety risk:** Secondary malignancy, off-target effects, and other long-term
+  outcomes require systematic 15-year observation. Full myeloablative
+  conditioning remains a separate near-term route risk.
+- **Affordability and access:** The 150-person TDT postmarketing cohort adds an
+  unpriced sponsor-level monitoring and data-infrastructure obligation. The
+  letter does not establish which costs apply to every treated person and
+  provides no total delivered cost, Indonesia capacity, payer, or access
+  evidence.
+- **Open question:** What are the TDT cohort's long-term safety results and the
+  complete delivered cost of conditioning and individualized manufacture? What
+  do the sponsor study and routine long-term follow-up each add?
+- **Falsification criterion:** Deprioritize exa-cel as an affordable-curative
+  route if the required study shows unacceptable serious long-term risk or the
+  complete route cannot meet the program's delivered-cost threshold.
+- **Next decisive action:** Track annual `VX22-290-101` status and TDT safety
+  reporting. Before reconsidering promotion, require cost comparisons to
+  separate the sponsor's postmarketing study from routine long-term follow-up
+  and price each included component explicitly.
 
 ## July 19 Matched-Sibling HSCT Route Decision
 
@@ -326,6 +368,7 @@ anchors, not biomedical evidence for any candidate.
 - [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [Pediatric exa-cel trial `NCT05356195`](https://clinicaltrials.gov/study/NCT05356195)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)
+- [FDA July 1 Casgevy supplement approval letter](https://www.fda.gov/media/193444/download)
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)

@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-19
+Last evidence update: 2026-07-21
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -11,12 +11,61 @@ the narrow pediatric population studied in a new LMIC cohort. It remains
 `benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
 transplant mortality, infection and ICU burden, and unverified Indonesia
 delivery prevent general affordable-cure promotion. Ex vivo editing remains a
-strong curative benchmark, while `CD117` epitope shielding remains a testable
-preclinical conditioning route.
+strong curative benchmark, but FDA's 15-year postmarketing requirement makes
+its long-term genomic-safety evidence gap explicit. `CD117` epitope shielding
+remains a testable preclinical conditioning route.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 21 Exa-Cel Long-Term Safety Decision
+
+**Question:** Does FDA's expanded pediatric Casgevy approval resolve exa-cel's
+long-term safety gap well enough to move it beyond a curative benchmark?
+
+**Decision:** `hold_exa_cel_benchmark_only_pending_conditioning_cost_and_15_year_safety_evidence`.
+This does not change the route ranking.
+
+- **Fact:** FDA's July 1 supplement expanded the US TDT indication to ages 2
+  years and older. The approval letter also replaced an earlier 250-person SCD
+  postmarketing requirement with protocol `VX22-290-101`: 250 people with SCD
+  and 150 with TDT, each followed for 15 years. Study completion is scheduled
+  for December 31, 2045, and the final report for December 31, 2046.
+- **Fact:** FDA states that spontaneous adverse-event reports and its routine
+  pharmacovigilance system are insufficient to assess the unexpected serious
+  risk of secondary malignancies and off-target effects after exa-cel genome
+  editing. The required study must also assess long-term safety.
+- **Resolved contradiction:** Approval for a younger population is a regulatory
+  benefit-risk decision, not proof that long-term genomic safety is resolved.
+  Conversely, the postmarketing requirement does not show that a secondary
+  malignancy or off-target clinical harm occurred; it defines risks that need
+  systematic follow-up.
+- **Interpretation:** Confidence is high about the regulator-defined evidence
+  gap and low about its eventual clinical magnitude because the postmarketing
+  study has not reported outcomes. Exa-cel remains a strong curative benchmark,
+  below matched-sibling HSCT on current affordability evidence.
+- **Affordability and access:** The requirement creates a 15-year evidence-
+  generation burden for 150 TDT participants. No source prices that sponsor-
+  level study or establishes which monitoring costs apply to every treated
+  person. No Indonesia surveillance or payer path is shown, and US approval is
+  not Indonesia access evidence.
+- **Current-source check:** On July 21, a PubMed thalassemia entry-date query for
+  July 20-21 returned one non-curative diagnostic study. Exact
+  ClinicalTrials.gov beta-thalassemia queries found no study, result, or update
+  first posted from July 19 onward. These are query-bounded results.
+- **Open question:** Will the required TDT cohort show acceptable secondary-
+  malignancy, off-target, and other long-term safety outcomes, and what does
+  the sponsor study and routine long-term follow-up each add to cost and
+  infrastructure?
+- **Falsification criterion:** Deprioritize exa-cel as an affordable-curative
+  route if the postmarketing evidence shows unacceptable serious long-term risk
+  or if conditioning, individualized manufacture, and surveillance cannot meet
+  the program's delivered-cost threshold.
+- **Next decisive action:** Track FDA's annual `VX22-290-101` status for TDT
+  accrual and safety reporting. Any exa-cel cost comparison should separate the
+  sponsor's postmarketing-study burden from routine long-term patient follow-up
+  instead of silently pricing either as zero.
 
 ## July 19 Matched-Sibling HSCT Decision
 
@@ -242,12 +291,17 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [ClinicalTrials.gov NCT07680803](https://clinicaltrials.gov/study/NCT07680803)
 - [PubMed PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)
+- [FDA July 1 Casgevy supplement approval letter](https://www.fda.gov/media/193444/download)
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [Preprint full text, DOI 10.64898/2026.07.07.736903](https://doi.org/10.64898/2026.07.07.736903)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [PubMed July 20-21 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=thalassemia%5BTitle%2FAbstract%5D+AND+2026%2F07%2F20%3A2026%2F07%2F21%5BEDAT%5D)
+- [ClinicalTrials.gov July 19 onward new-study query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BStudyFirstPostDate%5DRANGE%5B07%2F19%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=StudyFirstPostDate%3Adesc)
+- [ClinicalTrials.gov July 19 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F19%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
+- [ClinicalTrials.gov July 19 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F19%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=LastUpdatePostDate%3Adesc)
 - [PubMed July 18-19 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=thalassemia%5BTitle%2FAbstract%5D+AND+2026%2F07%2F18%3A2026%2F07%2F19%5BEDAT%5D)
 - [ClinicalTrials.gov July 18 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F18%2F2026%2C%20MAX%5D&pageSize=20&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
 - [ClinicalTrials.gov July 18 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F18%2F2026%2C%20MAX%5D&pageSize=20&countTotal=true&sort=LastUpdatePostDate%3Adesc)

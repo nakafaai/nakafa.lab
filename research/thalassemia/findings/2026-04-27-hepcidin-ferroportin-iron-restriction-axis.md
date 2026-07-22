@@ -1,7 +1,7 @@
 # Finding: Hepcidin-Ferroportin Iron-Restriction Axis
 
 Date checked: 2026-04-27
-Last evidence update: 2026-07-15
+Last evidence update: 2026-07-22
 Evidence label: disease-modifying iron-axis lane, not cure and not patient advice
 
 ## Working Conclusion
@@ -27,6 +27,13 @@ not one interchangeable class: sapablursen monotherapy failed its hemoglobin
 and liver-iron endpoints in `NTDT` and is now deprioritized. Other iron-axis
 modalities remain comparators until they show human thalassemia efficacy.
 
+A July 2026 familial case series adds a human-genetics safety boundary. A
+likely pathogenic homozygous `TMPRSS6` variant co-occurred with a homozygous
+`HBB` promoter variant in relatives with low ferritin and persistent microcytic
+anemia. This is evidence that an intrinsic iron-restricted state can coexist
+with beta-thalassemia; it is not evidence that pharmacologic `TMPRSS6`
+inhibition corrects beta-globin production or causes transfusion independence.
+
 ## Mechanism Map
 
 | Node | Disease role | Research implication |
@@ -45,6 +52,7 @@ modalities remain comparators until they show human thalassemia efficacy.
 | `TMPRSS6` inhibition / sapablursen | 2026 open-label phase 2a result in 29 adults with `NTDT`; hemoglobin and liver-iron endpoints failed and serum hepcidin did not increase consistently | deprioritized monotherapy; result does not falsify every `TMPRSS6` or iron-axis modality |
 | `TMPRSS6` inhibition / SLN124 | mouse beta-thalassemia plus deferiprone evidence; healthy-volunteer phase 1 hepcidin and plasma-iron pharmacodynamics | thalassemia patient translation remains early |
 | `TMPRSS6` inhibition / REGN7999 | 2025 mouse beta-thalassemia and healthy-human iron-reduction report; active, not recruiting `NTDT` iron-overload trial with no posted results | early clinical lane, not approved thalassemia therapy |
+| Human `TMPRSS6` / `HBB` co-inheritance | 2026 familial case series with a likely pathogenic homozygous `TMPRSS6` variant, homozygous `HBB` promoter variant, low ferritin, and microcytic anemia | human-genetics safety and diagnostic boundary, not an intervention or therapeutic-rescue result |
 | Hepcidin agonism / minihepcidin | mouse adult beta-thalassemia major model improved ineffective erythropoiesis and splenomegaly | preclinical tool, not a patient protocol |
 | Erythroferrone biology | mouse beta-thalassemia work links `ERFE` to hepcidin suppression and iron overload | target/biomarker lane, not a retail supplement lane |
 
@@ -60,7 +68,9 @@ iron-overload-adjacent records:
 - `NCT04176653`: withdrawn SLN124 beta-thalassemia or `MDS` study.
 - `NCT04059406`: terminated sapablursen / IONIS-TMPRSS6-LRx study.
 - `NCT06421636`: active, not recruiting REGN7999 phase 2 `NTDT` iron-overload
-  study; 19 participants, placebo control, and no posted results.
+  study; 19 actual participants, placebo control, and no posted results. It
+  requires liver iron concentration at least 5 mg Fe/g dry weight and ferritin
+  at least 300 ng/mL and excludes screening hemoglobin at or below 8 g/dL.
 - `NCT03381833`: terminated LJPC-401 myocardial-iron-overload `TDT` study.
 - `NCT03165864`: completed healthy-volunteer IONIS TMPRSS6-LRx phase 1 study.
 
@@ -153,6 +163,12 @@ erythroid endpoints:
   burden;
 - liver, kidney, infection, anemia-worsening, and drug-interaction safety.
 
+Intrinsic iron restriction, persistently low ferritin, or unresolved mixed
+microcytic-anemia genetics is a stop for therapeutic inference, not a positive
+`TMPRSS6` response signal. Future human evidence must keep the iron-overloaded
+`NTDT` trial population separate from IRIDA-like states and must show that any
+iron reduction does not worsen hemoglobin or transfusion burden.
+
 This is not a supplement pathway. Iron restriction can help only when the
 patient's iron physiology and anemia severity make it safe under clinical
 supervision.
@@ -196,6 +212,7 @@ map as an `iron-restriction comparator`:
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [Sapablursen trial `NCT04059406`](https://clinicaltrials.gov/study/NCT04059406)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
+- [`TMPRSS6`-related IRIDA with beta-thalassemia, PMID 42479051](https://pubmed.ncbi.nlm.nih.gov/42479051/)
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [Vamifeport ChEMBL search](../../../data/chemistry/chembl/iron-axis/2026-04-27-vamifeport-search.json)
 - [Vamifeport PubChem properties](../../../data/chemistry/pubchem/iron-axis/2026-04-27-vamifeport-properties.json)

@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-21
+Last evidence update: 2026-07-22
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -38,7 +38,7 @@ answers:
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
 | Thalidomide class or melittin hazard lanes | `reject_hazard_or_unmeasured_claim` | Safety boundary blocks therapeutic promotion without a new safety-resolution package. |
 | AND017, luspatercept, mitapivat | `benchmark_only` | Useful for transfusion-burden or red-cell-metabolism comparison, not cure. |
-| Hepcidin-ferroportin-`TMPRSS6` axis | `comparator_only`; sapablursen `deprioritized` | The 2026 sapablursen phase 2a `NTDT` study missed hemoglobin and liver-iron endpoints and did not consistently raise hepcidin. |
+| Hepcidin-ferroportin-`TMPRSS6` axis | `iron_overloaded_ntdt_comparator_only`; sapablursen `deprioritized` | Sapablursen missed hemoglobin and liver-iron endpoints. Human `TMPRSS6`-related IRIDA co-inheritance defines a low-iron safety boundary, not therapeutic rescue. |
 
 ## Current Research Read
 
@@ -75,6 +75,47 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 22 TMPRSS6 Human-Genetics Decision
+
+**Question:** Does the new beta-thalassemia and IRIDA family provide human
+evidence for promoting `TMPRSS6` inhibition as an affordable disease-modifying
+route?
+
+**Decision:** `hold_tmprss6_inhibition_at_iron_overloaded_ntdt_comparator_only`.
+The cure-route ranking does not change.
+
+- **Fact:** An ahead-of-print familial case series reports relatives with a
+  homozygous `HBB` promoter variant and a novel homozygous `TMPRSS6` missense
+  variant that the authors classified as likely pathogenic for IRIDA. The
+  reported phenotype included persistent microcytic anemia, low ferritin, and
+  only a partial transient response to intravenous iron.
+- **Resolved contradiction:** The paper reports that two relatives had
+  unnecessary transfusions stopped after molecular confirmation. That is
+  diagnostic reclassification, not transfusion independence caused by a
+  `TMPRSS6` intervention, and it cannot support a cure or efficacy claim.
+- **Scope and safety:** The current REGN7999 trial `NCT06421636` studies the
+  opposite iron context: iron-overloaded `NTDT`, with liver iron concentration
+  at least 5 mg Fe/g dry weight and ferritin at least 300 ng/mL. It excludes
+  screening hemoglobin at or below 8 g/dL. IRIDA-like low-iron states are
+  therefore outside the current therapeutic evidence scope.
+- **Evidence tier and confidence:** The genetic report is an uncontrolled
+  family case series, not an intervention study. Confidence is high that it
+  establishes a diagnostic and anemia-safety boundary and low that it predicts
+  the efficacy or safety of partial pharmacologic `TMPRSS6` inhibition.
+- **Affordability and access:** Genotype and iron-state classification plus MRI
+  and anemia monitoring add delivery requirements. No reviewed source provides
+  an itemized Indonesia cost or access path, and no efficacy result justifies
+  an affordable-route claim.
+- **Falsification criterion:** Deprioritize the broader `TMPRSS6` lane if
+  placebo-controlled REGN7999 results fail to improve liver iron without
+  worsening hemoglobin or transfusion burden, or show unacceptable safety.
+  Cure promotion additionally requires durable transfusion independence caused
+  by treatment, not diagnostic reclassification.
+- **Next decisive action:** At the first `NCT06421636` results posting, extract
+  randomized denominators, baseline iron and hemoglobin scope, liver-iron
+  effect, hemoglobin, transfusions, and adverse events before reconsidering the
+  lane.
 
 ## July 21 BRL-101 Registry Decision
 
@@ -392,6 +433,7 @@ anchors, not biomedical evidence for any candidate.
 - [FDA June 2026 prior-knowledge draft](https://www.fda.gov/media/192810/download)
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
+- [`TMPRSS6`-related IRIDA with beta-thalassemia, PMID 42479051](https://pubmed.ncbi.nlm.nih.gov/42479051/)
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)

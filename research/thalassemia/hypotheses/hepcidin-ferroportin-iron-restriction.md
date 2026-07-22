@@ -1,6 +1,6 @@
 # Hypothesis Card: Hepcidin-Ferroportin Iron Restriction
 
-Last evidence update: 2026-07-15
+Last evidence update: 2026-07-22
 
 ## Claim
 
@@ -34,8 +34,16 @@ Last evidence update: 2026-07-15
   was no untreated comparator.
 - Successor evidence: `NCT06421636` is an active, not recruiting,
   placebo-controlled phase 2 REGN7999 study with 19 participants and no posted
-  results. Its liver-iron, hemoglobin, and transfusion endpoints are the next
-  named human test of the broader `TMPRSS6` lane.
+  results. It requires liver iron concentration at least 5 mg Fe/g dry weight
+  and ferritin at least 300 ng/mL and excludes screening hemoglobin at or below
+  8 g/dL. Its liver-iron, hemoglobin, and transfusion endpoints are the next
+  named human test of the broader `TMPRSS6` lane in iron-overloaded `NTDT`.
+- Human-genetics boundary: a 2026 familial case series reports a likely
+  pathogenic homozygous `TMPRSS6` variant together with a homozygous `HBB`
+  promoter variant in relatives with low ferritin and persistent microcytic
+  anemia. Transfusions described as unnecessary were stopped after molecular
+  reclassification, not after a `TMPRSS6`-directed intervention. This does not
+  establish therapeutic rescue or durable transfusion independence.
 - Preclinical evidence: mouse beta-thalassemia models support ferroportin
   inhibition, `TMPRSS6` inhibition, minihepcidins, and `ERFE` manipulation as
   ways to modify iron overload and ineffective erythropoiesis. A 2026 companion
@@ -55,10 +63,10 @@ Last evidence update: 2026-07-15
 - Interaction concerns: transfusion schedule, chelation regimen, ferritin trend,
   liver iron concentration, cardiac `T2*`, autoimmune disease, splenectomy,
   anticoagulants, and pregnancy status.
-- Patients to exclude from any future protocol without specialist approval:
-  unstable anemia, active infection/inflammation, severe organ dysfunction,
-  pregnancy, unclear diagnosis, missing iron-burden data, or missing chelation
-  history.
+- States outside the current evidence scope: intrinsic iron restriction,
+  persistently low ferritin, possible IRIDA, unstable anemia, active
+  infection/inflammation, severe organ dysfunction, pregnancy, unclear
+  diagnosis, missing iron-burden data, or missing chelation history.
 
 ## Validation
 
@@ -72,6 +80,9 @@ Last evidence update: 2026-07-15
 - Resistance-aware requirement: pair target engagement with hepcidin, `ERFE`,
   baseline iron burden, and a clinical erythroid endpoint. Target reduction
   alone is not a pass.
+- Scope-aware requirement: separate iron-overloaded `NTDT` from IRIDA-like or
+  otherwise iron-restricted states. Diagnostic reclassification is not an
+  intervention response and cannot count as transfusion independence.
 - Falsification criteria: no directional pharmacodynamic response, no
   hemoglobin or transfusion benefit, worse anemia or transfusion burden,
   unacceptable safety, or inability to distinguish intervention effect from
@@ -104,5 +115,6 @@ requires balance and measurement because iron overload can be dangerous.
 - [Sapablursen phase 2a result, PMID 42241700](https://pubmed.ncbi.nlm.nih.gov/42241700/)
 - [Sapablursen trial `NCT04059406`](https://clinicaltrials.gov/study/NCT04059406)
 - [`Tmprss6` resistance study, PMID 41954608](https://pubmed.ncbi.nlm.nih.gov/41954608/)
+- [`TMPRSS6`-related IRIDA with beta-thalassemia, PMID 42479051](https://pubmed.ncbi.nlm.nih.gov/42479051/)
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [Quran 57:25 structured note](../../islamic/quran/057-al-hadid/025.md)

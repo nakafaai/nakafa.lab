@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-21
+Last evidence update: 2026-07-23
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -10,16 +10,60 @@ Matched-sibling HSCT is now the leading affordable-curative route benchmark for
 the narrow pediatric population studied in a new LMIC cohort. It remains
 `benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
 transplant mortality, infection and ICU burden, and unverified Indonesia
-delivery prevent general affordable-cure promotion. Ex vivo editing remains a
-strong curative benchmark, but FDA's 15-year postmarketing requirement makes
-its long-term genomic-safety evidence gap explicit. BRL-101 has closed
-recruitment and opened long-term follow-up without posting outcomes, so it
-remains an Asia registry benchmark. `CD117` epitope shielding remains a
+delivery prevent general affordable-cure promotion. New EBMT GRADE guidance
+supplies the independent protocol source needed to resolve conditioning
+implementation, but not new outcome or Indonesia cost evidence. Ex vivo
+editing remains a strong curative benchmark, but FDA's 15-year postmarketing
+requirement makes its long-term genomic-safety evidence gap explicit. BRL-101
+has closed recruitment and opened long-term follow-up without posting outcomes,
+so it remains an Asia registry benchmark. `CD117` epitope shielding remains a
 testable preclinical conditioning route.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 23 EBMT Conditioning Decision
+
+**Question:** Does new EBMT conditioning guidance close the implementation gap
+for the leading matched-sibling HSCT benchmark?
+
+**Decision:** `hold_msd_hsct_at_leading_affordable_curative_route_benchmark_only`.
+This sharpens the owner action without changing route ranking.
+
+- **Fact:** The EBMT Practice Harmonisation and Guidelines Committee published
+  TDT conditioning recommendations after a structured literature review and
+  expert workshop. Recommendations used GRADE and received panel and external
+  review.
+- **Scope:** The guidance covers pre-transplant optimization, conditioning by
+  age and donor type, iron overload, ineffective erythropoiesis, alternative
+  donors, and gene therapy for children and adults with TDT, including
+  resource-limited settings.
+- **Evidence boundary:** This is expert guidance, not a new outcome cohort. The
+  public publisher preview does not expose the exact recommendations, so
+  regimen details must not be reconstructed from the reference list.
+- **Resolved contradiction:** The 176-child LMIC cohort still conflicts on
+  whether its busulfan quantity is daily or total, and no PubMed/Crossref
+  correction was present on July 23. The cohort supports outcomes and a
+  cost-range benchmark, but not an operational regimen. The full EBMT guidance
+  is now the named independent source for protocol extraction.
+- **Interpretation:** An explicit resource-limited aim does not establish
+  Indonesia capacity, affordability, authorization, payer coverage, or local
+  outcomes. The leading-route label stays limited to the cohort's under-14,
+  fully matched-sibling, low/intermediate-risk TDT scope.
+- **Safety and affordability:** Conditioning toxicity, graft failure,
+  transplant mortality, veno-occlusive disease or sinusoidal obstruction
+  syndrome, infection, GVHD, fertility or endocrine harm, and ICU burden remain
+  material. The USD 8,000-10,000 figure remains non-itemized.
+- **Falsification criterion:** Remove the leading-route label if independent
+  long-term outcomes show unacceptable mortality, graft failure, late toxicity,
+  infection, or loss of thalassemia-free survival, or if a guideline-concordant
+  Indonesia delivery model exceeds the program threshold.
+- **Next decisive action:** A transplant-program owner should extract the full
+  EBMT recommendations and map their conditioning, monitoring, supportive-care,
+  iron-management, donor, and age requirements to Indonesia capacity. A
+  health-economics owner should price that mapped route before reconsidering
+  promotion.
 
 ## July 21 BRL-101 Registry Decision
 
@@ -301,7 +345,7 @@ Decision: `hold_registry_watch`
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Not-yet-recruiting pipeline signal; no outcome evidence. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
 | Alternative-donor allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor route, GVHD, infection, center, and long-term outcome gaps remain. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | BRL-101 phase 1/2 has 39 actual enrollees and recruiting 15-year follow-up; China BD211 and gamma-globin autologous HSC records remain comparators | Operationally mature regional radar without posted BRL-101 outcomes, delivered cost, Indonesia access, or referral relevance. |
@@ -352,6 +396,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [EBMT TDT conditioning guideline, PMID 42486915](https://pubmed.ncbi.nlm.nih.gov/42486915/)
+- [EBMT guideline publisher record, DOI 10.1038/s41409-026-02977-z](https://doi.org/10.1038/s41409-026-02977-z)
+- [PubMed July 22-23 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=thalassemia%5BTitle%2FAbstract%5D+AND+2026%2F07%2F22%3A2026%2F07%2F23%5BEDAT%5D)
+- [ClinicalTrials.gov July 22 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F22%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
+- [ClinicalTrials.gov July 22 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F22%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=LastUpdatePostDate%3Adesc)
 - [PubMed July 20-21 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=thalassemia%5BTitle%2FAbstract%5D+AND+2026%2F07%2F20%3A2026%2F07%2F21%5BEDAT%5D)
 - [ClinicalTrials.gov July 19 onward new-study query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BStudyFirstPostDate%5DRANGE%5B07%2F19%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=StudyFirstPostDate%3Adesc)
 - [ClinicalTrials.gov July 19 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F19%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)

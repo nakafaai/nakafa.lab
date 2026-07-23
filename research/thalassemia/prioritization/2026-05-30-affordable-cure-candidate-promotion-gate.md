@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-22
+Last evidence update: 2026-07-23
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -30,7 +30,7 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
-| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. Matched-sibling restriction, multi-drug conditioning, transplant mortality and toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
+| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. New EBMT GRADE guidance supplies the protocol authority for conditioning review, but matched-sibling restriction, toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 now has 39 actual phase 1/2 enrollees and recruiting 15-year follow-up, but no posted results or delivered-cost evidence. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -75,6 +75,46 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 23 EBMT Conditioning Decision
+
+**Question:** Does new EBMT conditioning guidance resolve the regimen and
+delivery gaps well enough to move matched-sibling HSCT beyond the leading
+affordable-curative route benchmark?
+
+**Decision:** `hold_msd_hsct_at_leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Allogeneic matched-sibling HCT replaces ineffective
+  recipient hematopoiesis with donor hematopoiesis after conditioning. The
+  outcome evidence remains the narrow under-14, fully matched-sibling,
+  low/intermediate-risk TDT cohort. The EBMT guideline addresses conditioning
+  by age and donor type for children and adults with TDT, but does not expand
+  the outcome population of that cohort.
+- **Evidence tier:** The new EBMT document used a structured literature review,
+  consensus sessions, GRADE, panel approval, and external review. It is
+  practice guidance, not a new efficacy, safety, or cost cohort.
+- **Resolved contradiction:** The LMIC cohort still conflicts on whether its
+  busulfan quantity is daily or total, and PubMed/Crossref show no correction.
+  The regimen must not be operationalized from that paper. EBMT guidance is the
+  correct independent protocol source, but its public preview does not expose
+  the recommendation text, so exact regimens are not imported from citations
+  or inferred.
+- **Safety risk:** Conditioning toxicity, graft failure, transplant mortality,
+  veno-occlusive disease or sinusoidal obstruction syndrome, infection, GVHD,
+  fertility or endocrine harm, and ICU burden remain route-level risks.
+- **Affordability and access:** A stated aim to support resource-limited
+  settings is not evidence of Indonesia capacity, authorization, payer
+  coverage, or affordability. The reported USD 8,000-10,000 cohort cost remains
+  non-itemized and cannot price a guideline-concordant local route.
+- **Falsification criterion:** Remove the leading-route label if independent
+  three-to-five-year outcomes show unacceptable mortality, graft failure, late
+  toxicity, infection, or loss of thalassemia-free survival, or if a
+  guideline-concordant Indonesia delivery model exceeds the program threshold.
+- **Next decisive action:** A transplant-program owner should obtain the full
+  EBMT recommendation text and map its age-, donor-, conditioning-, monitoring-,
+  supportive-care-, and iron-management requirements to Indonesia capacity.
+  A health-economics owner should then price that mapped route and its
+  uncertainties before any promotion beyond `benchmark_only`.
 
 ## July 22 TMPRSS6 Human-Genetics Decision
 

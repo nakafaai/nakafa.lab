@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-23
+Last evidence update: 2026-07-24
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -17,11 +17,72 @@ editing remains a strong curative benchmark, but FDA's 15-year postmarketing
 requirement makes its long-term genomic-safety evidence gap explicit. BRL-101
 has closed recruitment and opened long-term follow-up without posting outcomes,
 so it remains an Asia registry benchmark. `CD117` epitope shielding remains a
-testable preclinical conditioning route.
+testable preclinical conditioning route. A newly posted HGI-001 phase 2 record
+adds a Hong Kong-sponsored lentiviral gene-addition benchmark, but it has not
+recruited or posted results and does not resolve conditioning or cost.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 24 HGI-001 Phase 2 Decision
+
+**Question:** Does the newly posted HGI-001 phase 2 record justify promoting
+lentiviral gene addition as an affordable Asian cure route?
+
+**Decision:**
+`hold_hgi001_at_asia_phase2_registry_benchmark_only_pending_source_linked_outcomes_and_cost`.
+The gene-cell route ranking does not change.
+
+- **Fact:** `NCT07721480` was first posted on July 23, 2026. It is a
+  not-yet-recruiting, single-arm phase 2 study with six estimated participants
+  aged 12-45 and a Prince of Wales Hospital, Hong Kong lead sponsor. The record
+  describes autologous `CD34+` cells transduced with the lentiviral
+  `LentiHBBT87Q` vector, busulfan myeloablation, and a primary endpoint of at
+  least 12 months without red-cell transfusion while maintaining weighted
+  average hemoglobin of at least 9 g/dL.
+- **Evidence boundary:** The new record has no posted results. Its summary says
+  five people in an earlier China study achieved transfusion independence,
+  four for more than two years, with no severe adverse events. It does not link
+  a full report for those five people.
+- **Resolved provenance gap:** The closest public primary report is a
+  non-peer-reviewed preprint linked to `NCT05745532`. It reports only two
+  non-beta-zero/beta-zero participants, with 24 and 21 months of transfusion
+  independence at its cutoff. It says most adverse events were related to
+  myeloablative conditioning and reports no serious product-related adverse
+  event, clonal dominance, or replication-competent lentivirus during that
+  limited follow-up. The five-person registry statement and two-person preprint
+  must not be merged into a complete efficacy or safety denominator.
+- **Mechanism:** HGI-001 adds an erythroid-expressed beta-globin transgene to
+  autologous hematopoietic stem and progenitor cells ex vivo. This can restore
+  beta-like globin production without donor GVHD, but it retains mobilization,
+  apheresis, individualized manufacture, busulfan conditioning, transplant-unit
+  care, and long-term integration-site surveillance.
+- **Interpretation and confidence:** Confidence is high that the phase 2 record
+  is a new institutional development and low that it changes efficacy,
+  durability, safety, or access because enrollment is estimated and no results
+  are posted. A Hong Kong sponsor affiliation does not establish an operational
+  study location, Indonesia access, authorization, or payer coverage; the
+  record currently lists no study location.
+- **Affordability:** No reviewed source supplies product, manufacturing,
+  conditioning, inpatient, surveillance, or total delivered cost. The route
+  therefore cannot displace the matched-sibling HSCT benchmark on
+  affordability.
+- **Hypothesis:** A complete six-person phase 2 cohort could strengthen the
+  Asian lentiviral gene-addition benchmark if it reproduces durable
+  transfusion independence with complete conditioning, adverse-event,
+  integration-site, and manufacturing data.
+- **Open question:** What are the source-linked outcomes for all five earlier
+  participants, and what complete delivered-cost and manufacturing model will
+  be used for the phase 2 cohort?
+- **Falsification criterion:** Deprioritize HGI-001 if a complete treated
+  denominator shows non-durable transfusion independence, unacceptable
+  conditioning or product toxicity, clonal dominance, replication-competent
+  lentivirus, manufacturing failure, or a delivered cost outside the program
+  threshold.
+- **Next decisive action:** Capture the first actual enrollment, posted result,
+  or peer-reviewed full-cohort report. Reconcile treated, evaluable, and
+  transfusion-independent denominators before any health-economic comparison.
 
 ## July 23 EBMT Conditioning Decision
 
@@ -344,6 +405,7 @@ Decision: `hold_registry_watch`
 | Autologous gene-cell therapy | FDA CASGEVY page, pediatric exa-cel primary result, CTX001 registry records | Strong curative benchmark; full myeloablation and the reported busulfan-related fatality block affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Not-yet-recruiting pipeline signal; no outcome evidence. |
+| HGI-001 lentiviral gene addition | `NCT07721480` phase 2 record plus two-person preprint | Asia phase 2 registry benchmark only; the five-person historical claim lacks a linked full report, and conditioning, complete safety, manufacturing, and cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
 | Alternative-donor allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor route, GVHD, infection, center, and long-term outcome gaps remain. |

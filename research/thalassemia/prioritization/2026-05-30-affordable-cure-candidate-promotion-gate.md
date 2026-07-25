@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-24
+Last evidence update: 2026-07-25
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -31,7 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. New EBMT GRADE guidance supplies the protocol authority for conditioning review, but matched-sibling restriction, toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
-| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. A new HGI-001 phase 2 record remains not yet recruiting, has no posted results, and does not source-link its five-person historical claim to a complete report. |
+| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
@@ -76,51 +76,53 @@ outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
 
-## July 24 HGI-001 Phase 2 Decision
+## July 25 HGI-001 Evidence Correction
 
-**Question:** Does the newly posted HGI-001 phase 2 record close enough outcome,
-delivery, and cost gaps to promote lentiviral gene addition as an affordable
-Asian cure route?
+**Question:** Does the source-linked five-person HGI-001 paper close enough
+outcome, delivery, and cost gaps to promote lentiviral gene addition as an
+affordable Asian cure route?
 
 **Decision:**
-`hold_hgi001_at_asia_phase2_registry_benchmark_only_pending_source_linked_outcomes_and_cost`.
+`hold_hgi001_at_early_clinical_benchmark_only_pending_larger_cohort_safety_durability_and_cost`.
 
-- **Fact and endpoint:** `NCT07721480` is a not-yet-recruiting, single-arm phase
-  2 record with six estimated participants aged 12-45. It uses autologous
-  `LentiHBBT87Q`-transduced `CD34+` cells after busulfan myeloablation. Its
-  primary endpoint requires at least 12 months without red-cell transfusion and
-  weighted average hemoglobin of at least 9 g/dL.
-- **Evidence tier:** This is registry design and status, not an outcome. The
-  record's statement that five earlier participants achieved transfusion
-  independence is not linked to a complete report. The closest primary
-  preprint reports only two non-beta-zero/beta-zero participants at 24 and 21
-  months of transfusion independence.
-- **Resolved provenance gap:** The five-person registry statement may include
-  later participants, but it cannot be combined with the two-person preprint
-  into a verified full-cohort denominator. No HGI-001 ClinicalTrials.gov record
-  has posted results, and an exact PubMed query for the product and trial IDs
-  returned no record on July 24.
+- **Fact and endpoint:** PMID `41693207` reports five treated children with TDT,
+  including three with beta-zero/beta-zero genotypes. All five remained
+  transfusion independent for more than 26 months, with median independence of
+  34.3 months and median follow-up of 34.7 months.
+- **Evidence tier:** This is a peer-reviewed, single-center, single-arm early
+  clinical pilot. It is not a randomized or independent replication, and three
+  authors disclose a related patent while one is Hemogen's founder.
+- **Resolved provenance gap:** Hemogen identifies paper product hemo-cel as
+  HGI-001. The sponsor's publication page links the paper to `NCT04592458`,
+  which ClinicalTrials.gov lists as an alias of `NCT05745532`. The earlier
+  two-person preprint is a prior data cut, not two extra participants.
+- **Unresolved conflict:** The paper calls the study phase 1/2 and reports five
+  treated participants. The aliased registry record labels it early phase 1,
+  estimates ten participants, remains recruiting, and has no posted results.
+  The new phase 2 narrative's no-severe-adverse-event wording is broader than
+  the paper abstract's no-unexpected-event statement and must not erase serious
+  conditioning events described in the sponsor's publication summary.
 - **Mechanism and safety:** Lentiviral beta-globin addition can restore
   beta-like globin production without donor GVHD. The route still requires
   mobilization, apheresis, individualized cell manufacture, busulfan
   myeloablation, inpatient transplant support, and long-term vector
-  integration surveillance. The two-person preprint attributes most adverse
-  events to myeloablation, so absence of reported serious product-related harm
-  does not remove conditioning risk.
-- **Affordability and access:** A Prince of Wales Hospital, Hong Kong lead
-  sponsor broadens the institutional benchmark beyond the existing Shenzhen
-  records. The new record lists no study location and does not establish
-  recruitment, Indonesia availability, authorization, payer coverage,
-  manufacturing transfer, or delivered cost.
+  integration surveillance. Five participants at about three years cannot
+  resolve rare, late, or route-level harm.
+- **Affordability and access:** Sponsor pages describe localized manufacturing,
+  but no reviewed source itemizes technology transfer, product, conditioning,
+  inpatient, surveillance, or total delivered cost. The Hong Kong phase 2
+  record remains not yet recruiting with no listed site or posted results.
+  Neither point establishes Indonesia authorization, payer coverage, access, or
+  affordability.
 - **Falsification criterion:** Deprioritize HGI-001 if complete-cohort evidence
   shows non-durable transfusion independence, unacceptable conditioning or
   product toxicity, clonal dominance, replication-competent lentivirus,
   manufacturing failure, or delivered cost outside the program threshold.
-- **Next decisive action:** Capture a source-linked full report for the five
-  earlier participants or the first complete phase 2 result. Reconcile treated,
-  evaluable, and transfusion-independent denominators and price manufacturing,
-  conditioning, inpatient care, and surveillance before reconsidering the
-  route.
+- **Next decisive action:** Obtain the full paper and supplement through an
+  approved route, reconcile treated and evaluable denominators with the aliased
+  registry, and extract serious events by conditioning versus product
+  attribution. Require a larger prospective cohort plus itemized manufacturing,
+  conditioning, inpatient, and surveillance cost before reconsidering the route.
 
 ## July 23 EBMT Conditioning Decision
 

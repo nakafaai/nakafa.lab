@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-25
+Last evidence update: 2026-07-27
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -12,11 +12,15 @@ the narrow pediatric population studied in a new LMIC cohort. It remains
 transplant mortality, infection and ICU burden, and unverified Indonesia
 delivery prevent general affordable-cure promotion. New EBMT GRADE guidance
 supplies the independent protocol source needed to resolve conditioning
-implementation, but not new outcome or Indonesia cost evidence. Ex vivo
-editing remains a strong curative benchmark, but FDA's 15-year postmarketing
-requirement makes its long-term genomic-safety evidence gap explicit. BRL-101
-has closed recruitment and opened long-term follow-up without posting outcomes,
-so it remains an Asia registry benchmark. `CD117` epitope shielding remains a
+implementation, but not new outcome or Indonesia cost evidence. A prospective
+29-person haploidentical-HSCT cohort now supports an alternative-donor
+conditioning benchmark, but not an affordable-route promotion: it is
+single-center, lacks itemized cost and complete safety attribution, and is not
+confirmed as independent from an earlier multicenter cohort. Ex vivo editing
+remains a strong curative benchmark, but FDA's 15-year postmarketing requirement
+makes its long-term genomic-safety evidence gap explicit. BRL-101 has closed
+recruitment and opened long-term follow-up without posting outcomes, so it
+remains an Asia registry benchmark. `CD117` epitope shielding remains a
 testable preclinical conditioning route. A peer-reviewed five-child HGI-001
 pilot now source-links the earlier clinical signal, but the small single-center
 cohort, busulfan conditioning, unresolved registry-publication differences, and
@@ -25,6 +29,69 @@ missing delivered cost prevent broader promotion.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 27 Haploidentical-HSCT Conditioning Decision
+
+**Question:** Does the new prospective F-BMT haploidentical-HSCT cohort resolve
+the matched-sibling donor bottleneck well enough to become an affordable
+curative route?
+
+**Decision:**
+`promote_f_bmt_haplo_hsct_to_conditioning_benchmark_only_pending_independent_comparison_safety_and_cost`.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark
+only.
+
+- **Fact:** PMID `42489576` reports a prospective, single-center cohort of 29
+  people aged at least seven years with TDT who received haploidentical HSCT
+  after fludarabine, busulfan, thiotepa, and melphalan conditioning. Two-year
+  thalassemia-free and overall survival were both 93.1%; all participants
+  engrafted, with no reported graft failure or mixed chimerism.
+- **Fact:** Grade II-IV acute GVHD occurred in 17.2% and chronic GVHD in 6.9%.
+  The abstract reports one sinusoidal obstruction syndrome event and three
+  hemorrhagic-cystitis events, all resolved with supportive care.
+- **Evidence tier:** Peer-reviewed prospective outcome evidence, but
+  single-center, non-randomized, and reviewed at abstract level. The abstract
+  does not give the number or causes of deaths, infection burden, severe chronic
+  GVHD definition, ICU use, fertility or endocrine outcomes, or delivered cost.
+- **Registry conflict:** WHO ICTRP's `ChiCTR2300071890` mirror targets 30
+  participants aged 3-25 and lists one- and two-year survival as primary
+  outcomes. The paper reports 29 participants aged at least seven and a
+  two-year thalassemia-free-survival primary endpoint. The registry mirror was
+  last refreshed on 2023-06-12 and has no posted results, so target, treated,
+  and evaluable populations remain separate.
+- **Independence gap:** The earlier 823-person multicenter trial included the
+  same center and enrolled through 2023-07-31; the new study began on
+  2023-06-01. The indexed abstract does not resolve participant overlap, so the
+  new result cannot yet be counted as fully independent replication.
+- **Interpretation:** Haploidentical donation can reduce the matched-sibling
+  bottleneck, and this regimen-specific result is strong enough to benchmark a
+  prospective alternative-donor comparison. It does not establish lower
+  toxicity than the earlier protocol because conditioning, GVHD prophylaxis,
+  endpoint definitions, centers, and populations differ.
+- **Affordability and access:** The route retains HLA and donor workup,
+  four-drug myeloablation, post-transplant cyclophosphamide, in vivo T-cell
+  depletion, immunosuppression, infection support, and transplant-center care.
+  No reviewed source itemizes these costs or establishes Indonesia capacity,
+  payer coverage, access, or affordability.
+- **Hypothesis:** In an independently enrolled, multicenter haploidentical
+  cohort, F-BMT plus the reported GVHD prophylaxis will preserve two-year
+  thalassemia-free survival while improving GVHD-free survival relative to the
+  haploidentical protocol in PMID `41730859`, without increasing death, graft
+  failure, infection, organ toxicity, or delivered cost.
+- **Open question:** Are the 29 participants independent of the earlier
+  multicenter cohort, and what complete death, severe-event, infection,
+  hospitalization, late-toxicity, and cost denominators accompany the 93.1%
+  estimate?
+- **Falsification criterion:** Deprioritize this conditioning benchmark if an
+  independent prospective comparison fails to preserve thalassemia-free
+  survival, does not improve GVHD-free survival, increases mortality, graft
+  failure, infection or organ toxicity, or exceeds the program's delivered-cost
+  threshold.
+- **Next decisive action:** Obtain the full paper and supplement through an
+  approved route, reconcile the registry population and endpoints, and
+  determine overlap with PMID `41730859`. Then compare complete two-year
+  survival, GVHD-free survival, graft failure, infection, organ toxicity,
+  hospitalization, and itemized delivered cost across protocols.
 
 ## July 25 HGI-001 Evidence Correction
 
@@ -431,7 +498,7 @@ Decision: `hold_registry_watch`
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
-| Alternative-donor allogeneic HSCT | 2026 HSCT burden and second-HSCT records | Curative comparator, but donor route, GVHD, infection, center, and long-term outcome gaps remain. |
+| Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | BRL-101 phase 1/2 has 39 actual enrollees and recruiting 15-year follow-up; China BD211 and gamma-globin autologous HSC records remain comparators | Operationally mature regional radar without posted BRL-101 outcomes, delivered cost, Indonesia access, or referral relevance. |
 | Metabolism comparator | Pyruvate-kinase activation review | Disease-modifying context, not a cure route. |
@@ -483,6 +550,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
 - [EBMT TDT conditioning guideline, PMID 42486915](https://pubmed.ncbi.nlm.nih.gov/42486915/)
 - [EBMT guideline publisher record, DOI 10.1038/s41409-026-02977-z](https://doi.org/10.1038/s41409-026-02977-z)
+- [F-BMT haploidentical-HSCT cohort, PMID 42489576](https://pubmed.ncbi.nlm.nih.gov/42489576/)
+- [F-BMT paper DOI 10.1002/1545-5017.70563](https://doi.org/10.1002/1545-5017.70563)
+- [WHO ICTRP mirror for ChiCTR2300071890](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300071890)
+- [Multicenter allo-HSCT comparator, PMID 41730859](https://pubmed.ncbi.nlm.nih.gov/41730859/)
 - [PubMed July 22-23 entry-date query](https://pubmed.ncbi.nlm.nih.gov/?term=thalassemia%5BTitle%2FAbstract%5D+AND+2026%2F07%2F22%3A2026%2F07%2F23%5BEDAT%5D)
 - [ClinicalTrials.gov July 22 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F22%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
 - [ClinicalTrials.gov July 22 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F22%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=LastUpdatePostDate%3Adesc)

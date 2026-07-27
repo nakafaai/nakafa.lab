@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-25
+Last evidence update: 2026-07-27
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -31,6 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. New EBMT GRADE guidance supplies the protocol authority for conditioning review, but matched-sibling restriction, toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
+| F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -75,6 +76,49 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 27 Haploidentical-HSCT Conditioning Decision
+
+**Question:** Does the new prospective F-BMT haploidentical-HSCT cohort close
+the matched-sibling donor gap enough to become an affordable curative route?
+
+**Decision:**
+`promote_f_bmt_haplo_hsct_to_conditioning_benchmark_only_pending_independent_comparison_safety_and_cost`.
+
+- **Fact and endpoint:** PMID `42489576` reports 29 participants aged at least
+  seven with TDT. Two-year thalassemia-free and overall survival were 93.1%;
+  all engrafted, with no reported graft failure or mixed chimerism.
+- **Safety boundary:** Grade II-IV acute GVHD was 17.2% and chronic GVHD 6.9%.
+  One sinusoidal obstruction syndrome event and three hemorrhagic-cystitis
+  events resolved. The abstract does not report causes of death, complete
+  infections, severe chronic GVHD, ICU use, fertility or endocrine outcomes.
+- **Evidence and independence boundary:** This is prospective peer-reviewed
+  evidence, but single-center and non-randomized. The same center participated
+  in the earlier 823-person trial, and enrollment windows overlap from June to
+  July 2023. Participant independence is unresolved.
+- **Registry conflict:** WHO ICTRP's `ChiCTR2300071890` mirror targets 30 people
+  aged 3-25 and lists survival endpoints; the paper reports 29 aged at least
+  seven and makes two-year thalassemia-free survival primary. The registry
+  mirror was last refreshed in June 2023 and posts no results.
+- **Interpretation:** The result supports a regimen-specific alternative-donor
+  comparison, not a broad low-toxicity, affordable, or Indonesia-access claim.
+  Cross-study GVHD percentages are not directly comparable because the
+  conditioning, prophylaxis, endpoint definitions, centers, and populations
+  differ.
+- **Affordability and access:** Four-drug myeloablation, HLA and donor workup,
+  post-transplant cyclophosphamide, in vivo T-cell depletion, immunosuppression,
+  infection support, and transplant-unit care remain unpriced. No reviewed
+  source establishes Indonesia capacity, payer coverage, access, or
+  affordability.
+- **Falsification criterion:** Deprioritize F-BMT as a conditioning benchmark if
+  an independent prospective comparison fails to preserve thalassemia-free
+  survival, does not improve GVHD-free survival, increases mortality, graft
+  failure, infection or organ toxicity, or exceeds the delivered-cost threshold.
+- **Next decisive action:** Obtain the full report, reconcile the registry
+  population and endpoints, and exclude participant overlap with PMID
+  `41730859`. Compare complete survival, GVHD-free survival, graft failure,
+  infection, organ toxicity, hospitalization, and itemized two-year cost across
+  protocols before changing the route ranking.
 
 ## July 25 HGI-001 Evidence Correction
 
@@ -534,5 +578,9 @@ anchors, not biomedical evidence for any candidate.
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
+- [F-BMT haploidentical-HSCT cohort, PMID 42489576](https://pubmed.ncbi.nlm.nih.gov/42489576/)
+- [F-BMT paper DOI 10.1002/1545-5017.70563](https://doi.org/10.1002/1545-5017.70563)
+- [WHO ICTRP mirror for ChiCTR2300071890](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300071890)
+- [Multicenter allo-HSCT comparator, PMID 41730859](https://pubmed.ncbi.nlm.nih.gov/41730859/)
 - [Quran 13:17 benefit-versus-foam anchor](../../islamic/quran/013-ar-rad/017.md)
 - [Quran 55:7-9 mizan anchor](../../islamic/quran/055-ar-rahman/007-009.md)

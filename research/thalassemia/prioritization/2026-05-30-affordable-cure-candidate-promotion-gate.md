@@ -32,6 +32,7 @@ answers:
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. New EBMT GRADE guidance supplies the protocol authority for conditioning review, but matched-sibling restriction, toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
+| FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -76,6 +77,44 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 27 FT007 Registry Decision
+
+**Question:** Does FT007's move from not yet recruiting to recruiting close
+enough evidence gaps for promotion beyond a registry benchmark?
+
+**Decision:**
+`hold_ft007_at_active_registry_benchmark_only_pending_treated_outcomes_safety_durability_and_cost`.
+
+- **Fact and scope:** ClinicalTrials.gov version 2026-07-27 changes
+  `NCT07680803` to recruiting at two Italian sites and records an actual
+  2026-07-06 start. The single-arm phase 2b study still estimates nine people
+  aged 3-35 with TDT, including at least two with a beta-zero/beta-zero or
+  beta-zero/beta-zero-like genotype.
+- **Mechanism and endpoint:** FT007 uses autologous `CD34+` hematopoietic stem
+  and progenitor cells transduced ex vivo with a GLOBE lentiviral vector
+  encoding human beta-globin. Its primary endpoint remains 12 continuous months
+  without transfusion and weighted average hemoglobin of at least 9.0 g/dL
+  within 24-month follow-up.
+- **Evidence tier:** Active registry design only. Official version history shows
+  that design, intervention, enrollment, eligibility, and outcomes are
+  unchanged; only status, actual start, and site recruitment changed. No results
+  are posted.
+- **Safety boundary:** The planned safety endpoints cover harvesting,
+  conditioning, product adverse events, engraftment, insertional mutagenesis,
+  clonal dominance, immune reconstitution, and multilineage vector integration.
+  They are not observed safety results.
+- **Affordability and access:** Individualized cell collection, manufacture,
+  conditioning, infusion, and surveillance remain unpriced. Recruiting in Rome
+  and Milan does not establish Indonesia authorization, manufacturing, center
+  capacity, payer coverage, access, affordability, or suitability.
+- **Falsification criterion:** Deprioritize FT007 if the complete treated
+  denominator fails the registered endpoint, lacks durable polyclonal
+  engraftment, shows clonal proliferation or unacceptable serious toxicity, or
+  cannot meet the delivered-cost threshold.
+- **Next decisive action:** Preserve the registry version change and require a
+  complete treated denominator with 24-month outcome, safety, manufacturing, and
+  delivered-cost evidence before reconsidering promotion.
 
 ## July 27 Haploidentical-HSCT Conditioning Decision
 
@@ -578,6 +617,8 @@ anchors, not biomedical evidence for any candidate.
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
+- [FT007 phase 2b registry record, NCT07680803](https://clinicaltrials.gov/study/NCT07680803)
+- [FT007 record history, version 1](https://clinicaltrials.gov/study/NCT07680803?a=1&tab=history)
 - [F-BMT haploidentical-HSCT cohort, PMID 42489576](https://pubmed.ncbi.nlm.nih.gov/42489576/)
 - [F-BMT paper DOI 10.1002/1545-5017.70563](https://doi.org/10.1002/1545-5017.70563)
 - [WHO ICTRP mirror for ChiCTR2300071890](https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2300071890)

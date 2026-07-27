@@ -461,6 +461,54 @@ ex vivo gene editing from curative benchmark to affordable-cure candidate?
   `benchmark_only` until route-level safety and total delivered cost are
   independently documented.
 
+## July 27 FT007 Registry Decision
+
+**Question:** Does FT007's move from not yet recruiting to recruiting promote it
+beyond a registry benchmark?
+
+**Decision:**
+`hold_ft007_at_active_registry_benchmark_only_pending_treated_outcomes_safety_durability_and_cost`.
+
+- **Fact and scope:** ClinicalTrials.gov version 2026-07-27 changes
+  `NCT07680803` to recruiting at its Rome and Milan sites and replaces an
+  estimated July start with an actual start on 2026-07-06. The planned
+  single-arm phase 2b study still estimates nine people aged 3-35 with TDT; at
+  least two must have a beta-zero/beta-zero or beta-zero/beta-zero-like
+  genotype.
+- **Mechanism and endpoint:** FT007 is autologous `CD34+` hematopoietic stem and
+  progenitor cells transduced ex vivo with a GLOBE lentiviral vector encoding
+  human beta-globin. The primary endpoint remains 12 continuous months without
+  transfusion and weighted average hemoglobin of at least 9.0 g/dL within
+  24-month follow-up.
+- **Evidence tier and resolved contradiction:** This is active registry design
+  evidence only. Official version history shows no change to study design,
+  intervention, enrollment, eligibility, or outcomes; only status, actual start,
+  and site recruitment fields changed. No results are posted, so recruitment
+  does not add efficacy, safety, durability, or affordability evidence.
+- **Safety boundary:** Harvesting-, conditioning-, and product-related adverse
+  events, engraftment, insertional mutagenesis, clonal dominance, immune
+  reconstitution, and multilineage vector integration are planned measurements,
+  not observed safety results.
+- **Affordability and access:** Two recruiting Italian sites do not establish
+  Indonesia authorization, manufacturing, transplant capacity, payer coverage,
+  access, suitability, or delivered cost. Individualized collection,
+  manufacture, conditioning, infusion, and long-term surveillance remain
+  unpriced.
+- **Hypothesis:** The improved transduction protocol could reach the registered
+  transfusion-independence endpoint with stable polyclonal, multilineage
+  engraftment across the enrolled genotype scope without unacceptable
+  procedure, conditioning, product, or clonal toxicity.
+- **Open question:** Will the complete treated denominator reach durable
+  transfusion independence without manufacturing failure, clonal dominance,
+  serious toxicity, or delivered cost above the program threshold?
+- **Falsification criterion:** Deprioritize FT007 if the complete treated
+  denominator fails the registered endpoint, lacks durable polyclonal
+  engraftment, shows clonal proliferation or unacceptable serious toxicity, or
+  cannot meet the delivered-cost threshold.
+- **Next decisive action:** Preserve the registry version change and require a
+  complete treated denominator with 24-month outcome and safety reporting before
+  reconsidering promotion.
+
 ## July 13 Evidence Delta
 
 Decision: `hold_registry_watch`
@@ -468,9 +516,10 @@ Decision: `hold_registry_watch`
 - **Fact:** ClinicalTrials.gov version 2026-07-13 lists `NCT07680803` as a
   planned nine-person phase 2b study of FT007, autologous `CD34+` cells
   transduced with an improved GLOBE beta-globin lentiviral vector. Its status
-  remains not yet recruiting, its start date remains estimated, and it has no
-  posted results. This is a pipeline and endpoint-design signal, not evidence
-  of safety, efficacy, durability, access, or affordability.
+  was not yet recruiting and its start date was estimated. The July 27 section
+  above supersedes those status fields; no results are posted. This remains a
+  pipeline and endpoint-design signal, not evidence of safety, efficacy,
+  durability, access, or affordability.
 - **Fact:** ClinicalTrials.gov version 2026-07-13 lists `NCT07599176` as
   recruiting, with status verified July 7 and actual start July 8. The record's
   last update was submitted July 10, correcting the earlier July 9 wording.
@@ -494,7 +543,7 @@ Decision: `hold_registry_watch`
 | --- | --- | --- |
 | Autologous gene-cell therapy | FDA CASGEVY page, pediatric exa-cel primary result, CTX001 registry records | Strong curative benchmark; full myeloablation and the reported busulfan-related fatality block affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
-| Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Not-yet-recruiting pipeline signal; no outcome evidence. |
+| Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |

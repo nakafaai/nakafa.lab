@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-27
+Last evidence update: 2026-07-28
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -30,7 +30,7 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
-| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. New EBMT GRADE guidance supplies the protocol authority for conditioning review, but matched-sibling restriction, toxicity, short follow-up, and missing Indonesia delivery evidence block broader promotion. |
+| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. EBMT GRADE guidance supplies protocol authority, while a new 119-person pre-HSCT TDT fertility cohort found no significant association between anti-Mullerian hormone and primordial follicle density. Matched-sibling restriction, toxicity, short follow-up, baseline-adjusted fertility outcomes, and Indonesia delivery remain unresolved. |
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
@@ -77,6 +77,60 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 28 HSCT Fertility-Evidence Decision
+
+**Question:** Does a new 119-person pre-HSCT fertility cohort close the
+fertility-safety gap enough to promote matched-sibling HSCT beyond the leading
+affordable-curative route benchmark?
+
+**Decision:** `hold_msd_hsct_at_leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Allogeneic matched-sibling HCT replaces ineffective
+  recipient hematopoiesis with donor hematopoiesis after conditioning. The
+  leading-route outcome evidence remains limited to under-14, fully
+  matched-sibling, low- or intermediate-risk TDT. PMID `42515819` instead
+  supplies baseline fertility-measurement evidence from 119 pediatric and
+  adolescent girls with TDT before HSCT; the indexed abstract does not identify
+  genotype, donor type, conditioning regimen, or subsequent transplant outcome.
+- **Fact and endpoint:** In the retrospective cohort, preoperative
+  anti-Mullerian hormone was not significantly associated with primordial
+  follicle density (coefficient -0.04, 95% CI -0.12 to 0.03; `p=0.262`). Each
+  1 ng/mL increase was associated with a higher oocyte yield (incidence rate
+  ratio 1.14, 95% CI 1.08-1.20) and maturation rate (coefficient 3.50, 95% CI
+  1.10-5.90).
+- **Evidence tier:** Peer-reviewed human measurement evidence before HSCT, not
+  post-HSCT fertility, conditioning-safety, transplant-efficacy, or cost
+  evidence. The disease-specific retrospective cohort has no healthy comparator.
+- **Resolved measurement contradiction:** Anti-Mullerian hormone may inform
+  oocyte yield and maturation in this cohort, but it did not measure the
+  primordial follicle pool. It cannot alone close the baseline gap or attribute
+  a later change to conditioning.
+- **Safety risk:** Conditioning-related ovarian, fertility, and endocrine harm
+  remains unresolved. Age was independently associated with follicle density,
+  oocyte yield, and maturation in this cohort, so it is an observed baseline
+  covariate rather than a post-conditioning outcome.
+- **Affordability and access:** Baseline assessment, any fertility-preservation
+  component, and longitudinal follow-up remain unpriced in the reported
+  USD 8,000-10,000 route. The study does not establish Indonesia capacity,
+  payer coverage, access, or affordability.
+- **Hypothesis:** A prospective multicenter cohort using a
+  fertility-specialist-defined baseline that does not treat anti-Mullerian
+  hormone as a proxy for primordial follicle density can separate baseline TDT
+  effects from conditioning-related ovarian and endocrine outcomes.
+- **Open question:** After baseline adjustment, what three- to five-year
+  ovarian, endocrine, and fertility outcomes accompany each matched-sibling and
+  alternative-donor conditioning protocol?
+- **Falsification criterion:** Remove the leading-route label if independent
+  baseline-adjusted follow-up shows unacceptable mortality, graft failure,
+  infection, fertility or endocrine harm, loss of thalassemia-free survival, or
+  an itemized Indonesia-relevant delivered cost above the program threshold.
+- **Next decisive action:** A transplant-program owner and reproductive
+  endocrinology research owner should define one prospective baseline and
+  longitudinal outcome set that states what anti-Mullerian hormone can and
+  cannot measure, records conditioning exposure, and follows ovarian,
+  endocrine, and fertility outcomes for three to five years. A
+  health-economics owner should price those route components.
 
 ## July 27 FT007 Registry Decision
 
@@ -610,6 +664,8 @@ anchors, not biomedical evidence for any candidate.
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [Pre-HSCT TDT fertility cohort, PMID 42515819](https://pubmed.ncbi.nlm.nih.gov/42515819/)
+- [Fertility cohort DOI 10.1093/humrep/deag117](https://doi.org/10.1093/humrep/deag117)
 - [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [Pediatric exa-cel trial `NCT05356195`](https://clinicaltrials.gov/study/NCT05356195)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)

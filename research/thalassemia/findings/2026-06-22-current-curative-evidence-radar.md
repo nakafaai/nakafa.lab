@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-27
+Last evidence update: 2026-07-28
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -9,26 +9,94 @@ Status: general evidence radar, not treatment advice
 Matched-sibling HSCT is now the leading affordable-curative route benchmark for
 the narrow pediatric population studied in a new LMIC cohort. It remains
 `benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
-transplant mortality, infection and ICU burden, and unverified Indonesia
-delivery prevent general affordable-cure promotion. New EBMT GRADE guidance
-supplies the independent protocol source needed to resolve conditioning
-implementation, but not new outcome or Indonesia cost evidence. A prospective
-29-person haploidentical-HSCT cohort now supports an alternative-donor
-conditioning benchmark, but not an affordable-route promotion: it is
-single-center, lacks itemized cost and complete safety attribution, and is not
-confirmed as independent from an earlier multicenter cohort. Ex vivo editing
-remains a strong curative benchmark, but FDA's 15-year postmarketing requirement
-makes its long-term genomic-safety evidence gap explicit. BRL-101 has closed
-recruitment and opened long-term follow-up without posting outcomes, so it
-remains an Asia registry benchmark. `CD117` epitope shielding remains a
-testable preclinical conditioning route. A peer-reviewed five-child HGI-001
-pilot now source-links the earlier clinical signal, but the small single-center
-cohort, busulfan conditioning, unresolved registry-publication differences, and
-missing delivered cost prevent broader promotion.
+transplant mortality, infection and ICU burden, unresolved baseline-adjusted
+fertility outcomes, and unverified Indonesia delivery prevent general
+affordable-cure promotion. In a new 119-person pre-HSCT TDT fertility cohort,
+anti-Mullerian hormone was not significantly associated with primordial
+follicle density. This tightens the baseline and follow-up requirement without
+adding post-transplant fertility outcomes. New EBMT GRADE guidance supplies the
+independent protocol source needed to resolve conditioning implementation, but
+not new outcome or Indonesia cost evidence. A prospective 29-person
+haploidentical-HSCT cohort now supports an alternative-donor conditioning
+benchmark, but not an affordable-route promotion: it is single-center, lacks
+itemized cost and complete safety attribution, and is not confirmed as
+independent from an earlier multicenter cohort. Ex vivo editing remains a strong
+curative benchmark, but FDA's 15-year postmarketing requirement makes its
+long-term genomic-safety evidence gap explicit. BRL-101 has closed recruitment
+and opened long-term follow-up without posting outcomes, so it remains an Asia
+registry benchmark. `CD117` epitope shielding remains a testable preclinical
+conditioning route. A peer-reviewed five-child HGI-001 pilot now source-links
+the earlier clinical signal, but the small single-center cohort, busulfan
+conditioning, unresolved registry-publication differences, and missing
+delivered cost prevent broader promotion.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 28 HSCT Fertility-Evidence Decision
+
+**Question:** Does a new 119-person pre-HSCT fertility cohort close the
+fertility-safety gap enough to promote matched-sibling HSCT beyond the leading
+affordable-curative route benchmark?
+
+**Decision:** `hold_msd_hsct_at_leading_affordable_curative_route_benchmark_only`.
+The route ranking is unchanged, but the next decisive evidence requirement is
+more specific.
+
+- **Fact and study design:** PMID `42515819` is a retrospective cohort of 119
+  pediatric and adolescent girls with TDT who underwent ovarian tissue
+  cryopreservation before HSCT between July 2021 and February 2025.
+- **Fact and endpoint:** The study tested associations between preoperative
+  serum anti-Mullerian hormone, primordial follicle density, oocyte yield, and
+  in vitro maturation. Anti-Mullerian hormone was not significantly associated
+  with primordial follicle density (coefficient -0.04, 95% CI -0.12 to 0.03;
+  `p=0.262`). Each 1 ng/mL increase was associated with a higher oocyte yield
+  (incidence rate ratio 1.14, 95% CI 1.08-1.20) and maturation rate
+  (coefficient 3.50, 95% CI 1.10-5.90).
+- **Evidence tier and limitation:** This is peer-reviewed human
+  fertility-measurement evidence before HSCT, not post-HSCT fertility,
+  conditioning-safety, transplant-efficacy, or cost evidence. The retrospective,
+  disease-specific cohort has no healthy comparator. The indexed abstract does
+  not identify genotype, donor type, conditioning regimen, or subsequent
+  transplant outcome.
+- **Resolved measurement contradiction:** Anti-Mullerian hormone may inform
+  oocyte yield and maturation in this cohort, but it did not measure the
+  primordial follicle pool. It cannot alone close the pre-conditioning baseline
+  gap or support attribution of a later change to conditioning.
+- **Mechanism and scope:** Allogeneic matched-sibling HCT replaces ineffective
+  recipient hematopoiesis with donor hematopoiesis after conditioning. The
+  leading-route outcome evidence remains limited to under-14, fully
+  matched-sibling, low- or intermediate-risk TDT. The new study does not expand
+  that phenotype, genotype, donor, or regimen scope.
+- **Interpretation:** The study strengthens a measurement requirement. It does
+  not show that HSCT preserved or impaired fertility, and it does not compare
+  conditioning regimens.
+- **Safety risk:** Conditioning-related ovarian, fertility, and endocrine harm
+  remains unresolved. Age was independently associated with follicle density,
+  oocyte yield, and maturation in this cohort, so it is an observed baseline
+  covariate rather than a post-conditioning outcome.
+- **Affordability and access:** Baseline assessment, any fertility-preservation
+  component, and longitudinal follow-up remain unpriced in the reported
+  USD 8,000-10,000 transplant range. A China cohort does not establish
+  Indonesia capacity, payer coverage, access, or affordability.
+- **Hypothesis:** A prospective multicenter cohort using a
+  fertility-specialist-defined baseline that does not treat anti-Mullerian
+  hormone as a proxy for primordial follicle density can separate baseline TDT
+  effects from conditioning-related ovarian and endocrine outcomes.
+- **Open question:** After baseline adjustment, what three- to five-year
+  ovarian, endocrine, and fertility outcomes accompany each matched-sibling and
+  alternative-donor conditioning protocol?
+- **Falsification criterion:** Remove the leading-route label if independent
+  baseline-adjusted follow-up shows unacceptable mortality, graft failure,
+  infection, fertility or endocrine harm, loss of thalassemia-free survival, or
+  an itemized Indonesia-relevant delivered cost above the program threshold.
+- **Next decisive action:** A transplant-program owner and reproductive
+  endocrinology research owner should define one prospective baseline and
+  longitudinal outcome set that states what anti-Mullerian hormone can and
+  cannot measure, records conditioning exposure, and follows ovarian,
+  endocrine, and fertility outcomes for three to five years. A
+  health-economics owner should price those route components.
 
 ## July 27 Haploidentical-HSCT Conditioning Decision
 
@@ -546,7 +614,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort plus TIF and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, toxicity, center capacity, and Indonesia cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, pre-HSCT fertility cohort, TIF, and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, baseline-adjusted fertility outcomes, center capacity, and Indonesia cost keep it `benchmark_only`. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | BRL-101 phase 1/2 has 39 actual enrollees and recruiting 15-year follow-up; China BD211 and gamma-globin autologous HSC records remain comparators | Operationally mature regional radar without posted BRL-101 outcomes, delivered cost, Indonesia access, or referral relevance. |
@@ -597,6 +665,8 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [Pre-HSCT TDT fertility cohort, PMID 42515819](https://pubmed.ncbi.nlm.nih.gov/42515819/)
+- [Fertility cohort DOI 10.1093/humrep/deag117](https://doi.org/10.1093/humrep/deag117)
 - [EBMT TDT conditioning guideline, PMID 42486915](https://pubmed.ncbi.nlm.nih.gov/42486915/)
 - [EBMT guideline publisher record, DOI 10.1038/s41409-026-02977-z](https://doi.org/10.1038/s41409-026-02977-z)
 - [F-BMT haploidentical-HSCT cohort, PMID 42489576](https://pubmed.ncbi.nlm.nih.gov/42489576/)

@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-28
+Last evidence update: 2026-07-29
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -11,12 +11,17 @@ the narrow pediatric population studied in a new LMIC cohort. It remains
 `benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
 transplant mortality, infection and ICU burden, unresolved baseline-adjusted
 fertility outcomes, and unverified Indonesia delivery prevent general
-affordable-cure promotion. In a new 119-person pre-HSCT TDT fertility cohort,
-anti-Mullerian hormone was not significantly associated with primordial
-follicle density. This tightens the baseline and follow-up requirement without
-adding post-transplant fertility outcomes. New EBMT GRADE guidance supplies the
-independent protocol source needed to resolve conditioning implementation, but
-not new outcome or Indonesia cost evidence. A prospective 29-person
+affordable-cure promotion. A newly indexed long-term meta-analysis and its
+strongest primary cohort add 15- to 39-year survival and late-effect evidence,
+but do not justify broader promotion. The synthesis mixes time horizons,
+contains denominator conflicts, and appears to include overlapping Pescara
+cohorts. Its 39-year primary cohort reports meaningful survival and cure
+alongside non-negligible mortality, recurrence, gonadal dysfunction, and
+secondary solid cancer. A new 119-person pre-HSCT TDT fertility cohort tightens
+the baseline and follow-up requirement without adding post-transplant fertility
+outcomes. EBMT GRADE guidance supplies the independent protocol source needed
+to resolve conditioning implementation, but not modern long-term outcome or
+Indonesia cost evidence. A prospective 29-person
 haploidentical-HSCT cohort now supports an alternative-donor conditioning
 benchmark, but not an affordable-route promotion: it is single-center, lacks
 itemized cost and complete safety attribution, and is not confirmed as
@@ -33,6 +38,83 @@ delivered cost prevent broader promotion.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 29 Long-Term HSCT Outcome Decision
+
+**Question:** Does a newly indexed long-term HSCT meta-analysis close the
+durability and late-safety gaps enough to promote matched-sibling HSCT beyond
+the leading affordable-curative route benchmark?
+
+**Decision:** `hold_msd_hsct_at_leading_affordable_curative_route_benchmark_only`.
+The evidence adds a long-term comparator and a stronger late-safety requirement,
+not a broader cure, affordability, access, or suitability claim.
+
+- **Fact and synthesis result:** PMID `42520329` reviewed four observational
+  reports and states that 616 transplanted participants contributed 15-, 20-,
+  30-, or 39-year overall-survival estimates. The pooled overall-survival
+  estimate was 85% (95% CI 81%-89%; `I2=40%`). The search ended on
+  2024-07-10, so it does not include the 2026 multicenter LMIC cohort that
+  currently anchors the affordable-route ranking.
+- **Fact and primary long-term result:** The most detailed included primary
+  report, PMID `36002533`, followed 137 consecutive people transplanted at one
+  Pescara center from 1983 through 2018. Ninety-three percent received a
+  genotypically HLA-identical sibling graft. At final follow-up, 114 were living
+  and 108 were living and cured; 39-year overall survival was 81.4% and
+  disease-free survival was 74.5%.
+- **Fact and late-safety denominator:** The Pescara cohort reports 13 early
+  transplant-related deaths, one late transplant-related death, 12 thalassemia
+  recurrences, and 15 secondary solid cancers, with a 39-year cumulative
+  secondary-solid-cancer incidence of 16.4%. Azoospermia was reported in 22 of
+  42 evaluated males and primary or secondary amenorrhea in 32 of 62 evaluated
+  females. These are observed late-effect denominators, not proof that one
+  conditioning component caused each event.
+- **Evidence tier and era limit:** The synthesis is peer-reviewed secondary
+  evidence built from observational cohorts. The primary long-term cohort is
+  direct human evidence, but 112 of 137 participants were transplanted in the
+  1980s or 1990s. It cannot estimate outcomes for a modern EBMT-aligned LMIC
+  protocol, the narrow 2026 pediatric cohort, or an Indonesia delivery route.
+- **Denominator contradiction:** The meta-analysis states a total of 616, but
+  its four study sizes sum to 618. Its narrative reports 522 matched-sibling and
+  96 unrelated-donor recipients, also totaling 618, while its study table sums
+  to 504 matched siblings, 95 unrelated donors, and 19 other related donors.
+  These counts must remain unresolved rather than be silently reconciled.
+- **Cohort-independence gap:** The 2008 115-person report and the 2022
+  137-person report both come from the Pescara program, share authors, and cover
+  1983-2006 versus 1983-2018. The earlier cohort therefore appears nested in the
+  later cohort, but the meta-analysis does not report a participant-overlap
+  decision. Its pooled denominator cannot be treated as 616 or 618 confirmed
+  independent people.
+- **Interpretation:** Pooling 15-, 20-, 30-, and 39-year estimates produces a
+  general historical survival signal, not a survival probability at one common
+  time point. The primary cohort shows that short-term cure cannot be
+  extrapolated to lifetime cure without recurrence, death, endocrine,
+  fertility, and secondary-cancer follow-up.
+- **Confidence:** Confidence is high that this evidence does not support
+  broader promotion. Confidence is low that the pooled 85% estimate predicts a
+  contemporary LMIC or Indonesia route because of era, donor, regimen, time
+  horizon, count, and possible overlap limitations.
+- **Affordability and access:** Neither source reports itemized contemporary
+  delivered cost, Indonesia transplant capacity, authorization, payer coverage,
+  or access. Long-term cancer, endocrine, fertility, recurrence, and organ
+  surveillance remain unpriced in the reported USD 8,000-10,000 LMIC route.
+- **Hypothesis:** An independently enrolled, contemporary matched-sibling
+  pediatric cohort using one protocol and one time-specific endpoint can
+  preserve five-year thalassemia-free survival while reducing the historical
+  recurrence, mortality, endocrine, fertility, and secondary-cancer burden.
+- **Open question:** What donor-specific, era-specific five-year
+  thalassemia-free survival and complete late-safety denominators accompany the
+  modern LMIC protocol, and what does lifetime surveillance add to delivered
+  cost?
+- **Falsification criterion:** Remove the leading-route label if independent
+  modern follow-up shows material loss of thalassemia-free survival, excess
+  death, recurrence, graft failure, infection, GVHD, endocrine or fertility
+  harm, or secondary malignancy, or if the itemized Indonesia-relevant route
+  exceeds the program's delivered-cost threshold.
+- **Next decisive action:** Do not use the pooled denominator until the Pescara
+  overlap and all study counts are reconciled. Obtain an independent,
+  contemporary five-year matched-sibling cohort with one time-specific
+  thalassemia-free-survival endpoint, complete late-safety denominators, and an
+  itemized lifetime Indonesia delivery model.
 
 ## July 28 HSCT Fertility-Evidence Decision
 
@@ -614,7 +696,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, pre-HSCT fertility cohort, TIF, and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope; short follow-up, multi-drug conditioning, donor restriction, baseline-adjusted fertility outcomes, center capacity, and Indonesia cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TIF, and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, modern five-year outcomes, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | BRL-101 phase 1/2 has 39 actual enrollees and recruiting 15-year follow-up; China BD211 and gamma-globin autologous HSC records remain comparators | Operationally mature regional radar without posted BRL-101 outcomes, delivered cost, Indonesia access, or referral relevance. |
@@ -665,6 +747,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [Long-term HSCT meta-analysis, PMID 42520329](https://pubmed.ncbi.nlm.nih.gov/42520329/)
+- [Long-term HSCT meta-analysis full text, DOI 10.1016/j.htct.2026.106490](https://www.htct.com.br/en-long-term-survival-rates-thalassemia-patients-articulo-S2531137926002373)
+- [Pescara 39-year HSCT cohort, PMID 36002533](https://pubmed.ncbi.nlm.nih.gov/36002533/)
+- [Pescara primary full text, PMC9400570](https://pmc.ncbi.nlm.nih.gov/articles/PMC9400570/)
 - [Pre-HSCT TDT fertility cohort, PMID 42515819](https://pubmed.ncbi.nlm.nih.gov/42515819/)
 - [Fertility cohort DOI 10.1093/humrep/deag117](https://doi.org/10.1093/humrep/deag117)
 - [EBMT TDT conditioning guideline, PMID 42486915](https://pubmed.ncbi.nlm.nih.gov/42486915/)

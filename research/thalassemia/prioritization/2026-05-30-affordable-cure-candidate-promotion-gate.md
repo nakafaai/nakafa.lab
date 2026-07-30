@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-29
+Last evidence update: 2026-07-30
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -38,7 +38,8 @@ answers:
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
-| Thalidomide class or melittin hazard lanes | `reject_hazard_or_unmeasured_claim` | Safety boundary blocks therapeutic promotion without a new safety-resolution package. |
+| Thalidomide class | `high_caution_response_benchmark_only` | A 2026 GRADE synthesis supports on-treatment HbF, hemoglobin, and transfusion-response signals, but low-certainty response evidence, extreme heterogeneity, cohort overlap, adverse-event underreporting, thrombosis, regulator-label hazards, and missing delivered cost block therapeutic promotion. |
+| Melittin hazard lane | `reject_hazard_or_unmeasured_claim` | Hemolysis and anaphylaxis risk block therapeutic promotion without a new safety-resolution package. |
 | AND017, luspatercept, mitapivat | `benchmark_only` | Useful for transfusion-burden or red-cell-metabolism comparison, not cure. |
 | Hepcidin-ferroportin-`TMPRSS6` axis | `iron_overloaded_ntdt_comparator_only`; sapablursen `deprioritized` | Sapablursen missed hemoglobin and liver-iron endpoints. Human `TMPRSS6`-related IRIDA co-inheritance defines a low-iron safety boundary, not therapeutic rescue. |
 
@@ -77,6 +78,59 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## July 30 Thalidomide Response-Benchmark Decision
+
+**Question:** Does the 2026 GRADE meta-analysis support promoting thalidomide
+from a high-caution HbF comparator to an affordable disease-modifying route?
+
+**Decision:** `hold_thalidomide_at_high_caution_response_benchmark_only`.
+
+- **Fact:** PMID `42136903` describes 26 studies with 2,422 people with TDT,
+  including five randomized trials. One 99-person randomized trial supplied
+  the response-rate comparison (`RR=6.95`, 95% CI `2.96-16.27`, low
+  certainty). Five randomized trials supported a hemoglobin signal and three
+  supported an HbF signal, both graded moderate certainty.
+- **Primary evidence:** PMID `42333196` reports that 10 of 25 participants with
+  TDT in a prospective single-center cohort were transfusion-independent after
+  24 weeks. The study was not randomized and did not establish off-treatment
+  or long-term durability.
+- **Safety:** Four randomized trials reported more adverse drug events with
+  thalidomide (`RR=1.94`, 95% CI `1.64-2.29`). Seven thromboses across one
+  randomized and four pre-post studies all led to discontinuation. The review
+  states that adverse events were underreported in some studies.
+- **Contradictions:** The review refers to both 26 and 21 included studies,
+  defines major and overall response with the same formula despite reporting
+  different pooled estimates, and identifies overlap among several follow-up
+  cohorts. Its 2,422-person total is not a confirmed independent denominator.
+- **Regulatory boundary:** The current DailyMed label retains boxed warnings
+  for embryo-fetal toxicity and venous thromboembolism and warns that
+  peripheral neuropathy may be severe and irreversible. The label is not a
+  thalassemia-specific incidence source.
+- **Interpretation:** Thalidomide now has a distinct high-caution human response
+  benchmark label. It should no longer be conflated with the melittin reject
+  lane, but it does not become an affordable route, a cure, or a patient-facing
+  candidate.
+- **Affordability and access:** No reviewed source provides an itemized drug,
+  monitoring, risk-control, or adverse-event cost or establishes Indonesia
+  authorization, access, or a locally governed safety system.
+- **Confidence:** Moderate that an on-treatment response signal exists. High
+  that affordable-route promotion is unsupported.
+- **Hypothesis:** A prospectively defined responder subgroup may sustain
+  clinically meaningful transfusion reduction if genotype, baseline HbF,
+  spleen status, dose, and co-interventions are separated from response and
+  serious safety events are completely captured.
+- **Open question:** Can an independent controlled cohort reproduce a
+  standardized response for 12 to 24 months, test post-withdrawal durability,
+  and deliver complete safety controls at an itemized Indonesia-relevant cost?
+- **Falsification criterion:** Deprioritize the lane even as a response
+  benchmark if independent controlled evidence does not reproduce hemoglobin,
+  HbF, or transfusion benefit, or if serious adverse events and required risk
+  controls make the delivered route infeasible.
+- **Next decisive action:** Require a prospectively registered controlled study
+  with standardized response definitions, complete participant and safety
+  denominators, post-withdrawal observation, responder strata, and itemized
+  drug plus monitoring cost.
 
 ## July 29 Long-Term HSCT Outcome Decision
 

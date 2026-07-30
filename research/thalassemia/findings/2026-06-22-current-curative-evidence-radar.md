@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-29
+Last evidence update: 2026-07-30
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -33,11 +33,75 @@ registry benchmark. `CD117` epitope shielding remains a testable preclinical
 conditioning route. A peer-reviewed five-child HGI-001 pilot now source-links
 the earlier clinical signal, but the small single-center cohort, busulfan
 conditioning, unresolved registry-publication differences, and missing
-delivered cost prevent broader promotion.
+delivered cost prevent broader promotion. A 2026 thalidomide GRADE synthesis
+now separates that class from the melittin reject lane: it supports a
+high-caution on-treatment HbF and transfusion-response benchmark, but not a
+durable cure or affordable route. Low-certainty response evidence, cohort
+overlap, adverse-event underreporting, thrombosis, regulator-label hazards, and
+missing delivered cost keep therapeutic promotion blocked.
 
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 30 Thalidomide Response-Benchmark Decision
+
+**Question:** Does the 2026 GRADE meta-analysis support promoting thalidomide
+from a high-caution HbF comparator to an affordable disease-modifying route?
+
+**Decision:** `hold_thalidomide_at_high_caution_response_benchmark_only`.
+The evidence supports a human response benchmark, not a cure, durable
+transfusion independence, affordability, Indonesia access, or suitability.
+
+- **Fact and synthesis:** PMID `42136903` describes 26 studies involving 2,422
+  people with TDT. Only one 99-person randomized trial supplied the
+  response-rate comparison (`RR=6.95`, 95% CI `2.96-16.27`, low certainty).
+  Five randomized trials with 285 participants supported a hemoglobin signal,
+  and three with 179 supported an HbF signal; both were graded moderate
+  certainty.
+- **Primary evidence:** PMID `42333196` prospectively treated 61 people for 24
+  weeks without randomization. Its abstract reports that 10 of 25 participants
+  with TDT became transfusion-independent at six months. It does not report
+  durable off-treatment independence.
+- **Safety:** Four randomized trials with 259 participants reported more
+  adverse drug events with thalidomide (`RR=1.94`, 95% CI `1.64-2.29`).
+  Seven thromboses across one randomized and four pre-post studies all led to
+  discontinuation. Only three studies reported Grade III or IV events, and the
+  synthesis states that adverse events were underreported in some studies.
+- **Contradictions and independence:** The review refers to both 26 and 21
+  included studies, defines major and overall response with the same formula
+  despite reporting different pooled estimates, and identifies overlap among
+  follow-up cohorts. Its 2,422-person total is not a confirmed independent
+  denominator.
+- **Regulatory boundary:** The current DailyMed label retains boxed warnings
+  for embryo-fetal toxicity and venous thromboembolism and states that
+  peripheral neuropathy can be severe and irreversible. These hazards are not
+  thalassemia-specific incidence estimates.
+- **Interpretation:** Thalidomide should be tracked as a high-caution HbF and
+  transfusion-response benchmark, separately from the rejected melittin hazard
+  lane. On-treatment response does not establish cure or post-withdrawal
+  durability.
+- **Confidence:** Moderate that an on-treatment response signal exists. High
+  that affordable disease-modifying promotion is unsupported.
+- **Affordability and access:** No reviewed source provides itemized
+  acquisition, monitoring, risk-control, or adverse-event cost or establishes
+  Indonesia authorization, access, or a locally governed safety system.
+- **Hypothesis:** A prospectively defined responder subgroup may sustain a
+  clinically meaningful transfusion reduction if genotype, baseline HbF,
+  spleen status, dose, and co-interventions are separated from response and
+  serious safety events are completely captured.
+- **Open question:** Can an independent controlled cohort reproduce a
+  standardized response for 12 to 24 months, test what persists after drug
+  withdrawal, and deliver complete safety controls at an itemized
+  Indonesia-relevant cost?
+- **Falsification criterion:** Deprioritize thalidomide even as a response
+  benchmark if independent controlled evidence does not reproduce hemoglobin,
+  HbF, or transfusion benefit, or if serious adverse events and required risk
+  controls make the delivered route infeasible.
+- **Next decisive action:** Require a prospectively registered controlled study
+  with standardized response definitions, complete participant and safety
+  denominators, post-withdrawal observation, responder strata, and itemized
+  drug plus monitoring cost.
 
 ## July 29 Long-Term HSCT Outcome Decision
 

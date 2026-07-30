@@ -81,8 +81,9 @@ long-term safety plus total-hemoglobin or transfusion evidence.
 
 ## July 30 Thalidomide Response-Benchmark Decision
 
-**Question:** Does the 2026 GRADE meta-analysis support promoting thalidomide
-from a high-caution HbF comparator to an affordable disease-modifying route?
+**Question:** Do two 2026 meta-analyses, a genotype-response cohort, and a new
+case report support promoting thalidomide from a high-caution HbF comparator to
+an affordable disease-modifying route?
 
 **Decision:** `hold_thalidomide_at_high_caution_response_benchmark_only`.
 
@@ -95,6 +96,19 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   TDT in a prospective single-center cohort were transfusion-independent after
   24 weeks. The study was not randomized and did not establish off-treatment
   or long-term durability.
+- **Independent synthesis:** PMID `41933128` reviewed 19 studies with 1,731
+  people with beta-thalassemia or HbE/beta-thalassemia across TDT and NTDT.
+  Only two studies were randomized. TDT pooled single-arm response proportions
+  were 0.76 for at least a 50% transfusion reduction and 0.55 for complete
+  transfusion cessation, with high heterogeneity. These are not controlled or
+  durable effects.
+- **Genotype and phenotype scope:** PMID `42415097` associates `HBG2`
+  `rs7482144`, `BCL11A` `rs766432`, and `HBS1L-MYB` `rs9399137` with excellent
+  response in a three-month, uncontrolled, single-center cohort of 100 people
+  with TDT in Karachi. It is an early unedited responder hypothesis, not a
+  validated predictor or eligibility rule. PMID `42526830` is one pediatric
+  NTDT case with autoimmune hemolytic anemia and no numeric abstract endpoint,
+  follow-up, or safety denominator.
 - **Safety:** Four randomized trials reported more adverse drug events with
   thalidomide (`RR=1.94`, 95% CI `1.64-2.29`). Seven thromboses across one
   randomized and four pre-post studies all led to discontinuation. The review
@@ -103,6 +117,12 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   defines major and overall response with the same formula despite reporting
   different pooled estimates, and identifies overlap among several follow-up
   cohorts. Its 2,422-person total is not a confirmed independent denominator.
+- **Second-review conflict:** PMID `41933128` excludes two overlapping
+  Chen-cohort papers but reports incompatible safety denominators of 1,124,
+  1,670, and `n=1,620`. It describes adverse events as transient and reversible
+  despite discontinuations after seizures and thrombotic or cerebrovascular
+  events. It does not reconcile the broader review or establish long-term
+  safety.
 - **Regulatory boundary:** The current DailyMed label retains boxed warnings
   for embryo-fetal toxicity and venous thromboembolism and warns that
   peripheral neuropathy may be severe and irreversible. The label is not a
@@ -117,9 +137,10 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
 - **Confidence:** Moderate that an on-treatment response signal exists. High
   that affordable-route promotion is unsupported.
 - **Hypothesis:** A prospectively defined responder subgroup may sustain
-  clinically meaningful transfusion reduction if genotype, baseline HbF,
-  spleen status, dose, and co-interventions are separated from response and
-  serious safety events are completely captured.
+  clinically meaningful transfusion reduction if controlled evidence
+  independently validates `HBG2`, `BCL11A`, and `HBS1L-MYB` markers while
+  separating genotype, baseline HbF, spleen status, dose, and co-interventions
+  from response and completely captures serious safety events.
 - **Open question:** Can an independent controlled cohort reproduce a
   standardized response for 12 to 24 months, test post-withdrawal durability,
   and deliver complete safety controls at an itemized Indonesia-relevant cost?
@@ -127,10 +148,12 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   benchmark if independent controlled evidence does not reproduce hemoglobin,
   HbF, or transfusion benefit, or if serious adverse events and required risk
   controls make the delivered route infeasible.
-- **Next decisive action:** Require a prospectively registered controlled study
-  with standardized response definitions, complete participant and safety
-  denominators, post-withdrawal observation, responder strata, and itemized
-  drug plus monitoring cost.
+- **Next decisive action:** A clinical-research owner and independent
+  biostatistics/genomics owner should preregister one controlled multicenter TDT
+  study with standardized response definitions, complete participant and
+  safety denominators, 12- to 24-month and post-withdrawal follow-up,
+  prespecified `HBG2`, `BCL11A`, and `HBS1L-MYB` validation, and itemized drug
+  plus monitoring cost.
 
 ## July 29 Long-Term HSCT Outcome Decision
 
@@ -777,6 +800,10 @@ anchors, not biomedical evidence for any candidate.
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
+- [Thalidomide GRADE meta-analysis, PMID 42136903](https://pubmed.ncbi.nlm.nih.gov/42136903/)
+- [Second thalidomide meta-analysis, PMID 41933128](https://pubmed.ncbi.nlm.nih.gov/41933128/)
+- [Three-month genotype-response cohort, PMID 42415097](https://pubmed.ncbi.nlm.nih.gov/42415097/)
+- [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
 - [Long-term HSCT meta-analysis, PMID 42520329](https://pubmed.ncbi.nlm.nih.gov/42520329/)

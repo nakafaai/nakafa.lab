@@ -33,12 +33,13 @@ registry benchmark. `CD117` epitope shielding remains a testable preclinical
 conditioning route. A peer-reviewed five-child HGI-001 pilot now source-links
 the earlier clinical signal, but the small single-center cohort, busulfan
 conditioning, unresolved registry-publication differences, and missing
-delivered cost prevent broader promotion. A 2026 thalidomide GRADE synthesis
-now separates that class from the melittin reject lane: it supports a
-high-caution on-treatment HbF and transfusion-response benchmark, but not a
-durable cure or affordable route. Low-certainty response evidence, cohort
-overlap, adverse-event underreporting, thrombosis, regulator-label hazards, and
-missing delivered cost keep therapeutic promotion blocked.
+delivered cost prevent broader promotion. Two 2026 thalidomide syntheses now
+separate that class from the melittin reject lane: they support a high-caution
+on-treatment HbF and transfusion-response benchmark, but not a durable cure or
+affordable route. Low-certainty controlled response evidence, cohort overlap,
+incompatible safety denominators, adverse-event underreporting, thrombosis,
+regulator-label hazards, and missing delivered cost keep therapeutic promotion
+blocked.
 
 Current operational label:
 
@@ -46,8 +47,9 @@ Current operational label:
 
 ## July 30 Thalidomide Response-Benchmark Decision
 
-**Question:** Does the 2026 GRADE meta-analysis support promoting thalidomide
-from a high-caution HbF comparator to an affordable disease-modifying route?
+**Question:** Do two 2026 meta-analyses, a genotype-response cohort, and a new
+case report support promoting thalidomide from a high-caution HbF comparator to
+an affordable disease-modifying route?
 
 **Decision:** `hold_thalidomide_at_high_caution_response_benchmark_only`.
 The evidence supports a human response benchmark, not a cure, durable
@@ -63,6 +65,21 @@ transfusion independence, affordability, Indonesia access, or suitability.
   weeks without randomization. Its abstract reports that 10 of 25 participants
   with TDT became transfusion-independent at six months. It does not report
   durable off-treatment independence.
+- **Independent synthesis:** PMID `41933128` reviewed 19 studies with 1,731
+  people with beta-thalassemia or HbE/beta-thalassemia across TDT and NTDT.
+  Only two studies were randomized. The TDT pooled single-arm proportions for
+  at least a 50% transfusion reduction and complete transfusion cessation were
+  0.76 and 0.55, with `I2=84.2%` and `85.1%`. These are heterogeneous,
+  uncontrolled response proportions, not comparative or durable effects.
+- **Genotype scope:** PMID `42415097` is a three-month, single-center,
+  uncontrolled cohort of 100 people with TDT in Karachi.
+  Minor-allele-containing genotypes at `HBG2` `rs7482144`, `BCL11A` `rs766432`,
+  and `HBS1L-MYB` `rs9399137` were associated with excellent response. The
+  early unedited result is a responder hypothesis, not a validated predictor or
+  genotype eligibility rule.
+- **Phenotype boundary:** PMID `42526830` is one pediatric NTDT case with
+  autoimmune hemolytic anemia and no numeric abstract endpoint, follow-up, or
+  safety denominator. It does not expand the TDT evidence or support cure.
 - **Safety:** Four randomized trials with 259 participants reported more
   adverse drug events with thalidomide (`RR=1.94`, 95% CI `1.64-2.29`).
   Seven thromboses across one randomized and four pre-post studies all led to
@@ -73,6 +90,12 @@ transfusion independence, affordability, Indonesia access, or suitability.
   despite reporting different pooled estimates, and identifies overlap among
   follow-up cohorts. Its 2,422-person total is not a confirmed independent
   denominator.
+- **Second-review conflict:** PMID `41933128` explicitly excluded two
+  overlapping Chen-cohort papers, but its safety reporting gives incompatible
+  participant denominators of 1,124, 1,670, and `n=1,620`. It describes adverse
+  events as transient and reversible despite reporting discontinuations after
+  seizures and thrombotic or cerebrovascular events. This does not reconcile
+  the broader review or override DailyMed's permanent-neuropathy warning.
 - **Regulatory boundary:** The current DailyMed label retains boxed warnings
   for embryo-fetal toxicity and venous thromboembolism and states that
   peripheral neuropathy can be severe and irreversible. These hazards are not
@@ -87,9 +110,10 @@ transfusion independence, affordability, Indonesia access, or suitability.
   acquisition, monitoring, risk-control, or adverse-event cost or establishes
   Indonesia authorization, access, or a locally governed safety system.
 - **Hypothesis:** A prospectively defined responder subgroup may sustain a
-  clinically meaningful transfusion reduction if genotype, baseline HbF,
-  spleen status, dose, and co-interventions are separated from response and
-  serious safety events are completely captured.
+  clinically meaningful transfusion reduction if controlled evidence
+  independently validates `HBG2`, `BCL11A`, and `HBS1L-MYB` markers while
+  separating genotype, baseline HbF, spleen status, dose, and co-interventions
+  from response and completely captures serious safety events.
 - **Open question:** Can an independent controlled cohort reproduce a
   standardized response for 12 to 24 months, test what persists after drug
   withdrawal, and deliver complete safety controls at an itemized
@@ -98,10 +122,12 @@ transfusion independence, affordability, Indonesia access, or suitability.
   benchmark if independent controlled evidence does not reproduce hemoglobin,
   HbF, or transfusion benefit, or if serious adverse events and required risk
   controls make the delivered route infeasible.
-- **Next decisive action:** Require a prospectively registered controlled study
-  with standardized response definitions, complete participant and safety
-  denominators, post-withdrawal observation, responder strata, and itemized
-  drug plus monitoring cost.
+- **Next decisive action:** A clinical-research owner and independent
+  biostatistics/genomics owner should preregister one controlled multicenter TDT
+  study with standardized response definitions, complete participant and
+  safety denominators, 12- to 24-month and post-withdrawal follow-up,
+  prespecified `HBG2`, `BCL11A`, and `HBS1L-MYB` validation, and itemized drug
+  plus monitoring cost.
 
 ## July 29 Long-Term HSCT Outcome Decision
 
@@ -809,6 +835,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [Preprint full text, DOI 10.64898/2026.07.07.736903](https://doi.org/10.64898/2026.07.07.736903)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
+- [Thalidomide GRADE meta-analysis, PMID 42136903](https://pubmed.ncbi.nlm.nih.gov/42136903/)
+- [Second thalidomide meta-analysis, PMID 41933128](https://pubmed.ncbi.nlm.nih.gov/41933128/)
+- [Three-month genotype-response cohort, PMID 42415097](https://pubmed.ncbi.nlm.nih.gov/42415097/)
+- [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
 - [Long-term HSCT meta-analysis, PMID 42520329](https://pubmed.ncbi.nlm.nih.gov/42520329/)

@@ -22,8 +22,9 @@ Indonesia-access route, or a patient-specific option.
 
 ## July 30 Evidence Decision
 
-**Question:** Does the 2026 GRADE meta-analysis support promoting thalidomide
-from a high-caution HbF comparator to an affordable disease-modifying route?
+**Question:** Do two 2026 meta-analyses, a genotype-response cohort, and a new
+case report support promoting thalidomide from a high-caution HbF comparator to
+an affordable disease-modifying route?
 
 **Decision:** `hold_thalidomide_at_high_caution_response_benchmark_only`.
 
@@ -43,6 +44,24 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   25 participants with TDT became transfusion-independent at six months. The
   short, single-center, uncontrolled result is a response benchmark, not
   durable or off-treatment transfusion-independence evidence.
+- **Fact and independent synthesis:** PMID `41933128` reviewed 19 studies with
+  1,731 people with beta-thalassemia or HbE/beta-thalassemia across TDT and
+  NTDT. Only two studies were randomized. In TDT, pooled single-arm proportions
+  were 0.76 (95% CI `0.67-0.83`) for at least a 50% transfusion reduction and
+  0.55 (95% CI `0.47-0.63`) for complete transfusion cessation, with high
+  heterogeneity (`I2=84.2%` and `85.1%`).
+- **Fact and genotype scope:** PMID `42415097` prospectively observed 100
+  people with TDT at one Karachi center for three months without a concurrent
+  control. Minor-allele-containing genotypes at `HBG2` `rs7482144`, `BCL11A`
+  `rs766432`, and `HBS1L-MYB` `rs9399137` were associated with excellent
+  response. The early unedited single-cohort result is a responder hypothesis,
+  not a validated predictor, genotype eligibility rule, safety result, or
+  durable response result.
+- **Fact and phenotype boundary:** PMID `42526830` describes one pediatric
+  patient with NTDT and autoimmune hemolytic anemia. Its abstract reports a
+  significant clinical response without a numeric endpoint, follow-up
+  duration, or safety denominator. It cannot expand the TDT evidence or support
+  a cure claim.
 - **Fact and safety:** Four randomized trials with 259 participants reported
   more adverse drug events with thalidomide (`RR=1.94`, 95% CI `1.64-2.29`).
   The synthesis identified seven thromboses across one randomized and four
@@ -61,6 +80,14 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   29 participants in one 2024 cohort were enrolled in the 2021 trial. The
   resulting 2,422-person total cannot be treated as 2,422 confirmed independent
   participants.
+- **Independent extraction and safety conflict:** PMID `41933128` explicitly
+  excluded two overlapping Chen-cohort papers, reinforcing the need for cohort
+  deduplication without reconciling the broader review's denominator. It also
+  gives incompatible safety denominators of 1,124, 1,670, and `n=1,620`, and
+  calls adverse events transient and reversible despite reporting
+  discontinuations after seizures and thrombotic or cerebrovascular events.
+  DailyMed's permanent-neuropathy warning prevents a reassuring long-term
+  safety inference.
 - **Endpoint boundary:** No included study reported the review's planned liver
   iron concentration outcome. Most observational response estimates had
   `I2` above 90%, no outcome was high certainty, and the pooled randomized
@@ -79,7 +106,8 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   High that promotion to an affordable disease-modifying route is unsupported.
 - **Hypothesis:** A prospectively defined thalidomide-responder subgroup may
   sustain clinically meaningful transfusion reduction, but only if controlled
-  evidence separates baseline HbF, genotype, spleen status, dose, and
+  evidence independently validates `HBG2`, `BCL11A`, and `HBS1L-MYB` markers
+  while separating baseline HbF, genotype, spleen status, dose, and
   co-interventions from response and fully measures serious safety events.
 - **Open question:** Can an independent controlled cohort reproduce a
   standardized transfusion response for at least 12 to 24 months, show what
@@ -90,10 +118,12 @@ from a high-caution HbF comparator to an affordable disease-modifying route?
   benchmark if independent controlled evidence does not reproduce hemoglobin,
   HbF, or transfusion benefit, or if serious adverse events and required risk
   controls make the delivered route infeasible.
-- **Next decisive action:** Require one prospectively registered controlled
+- **Next decisive action:** A clinical-research owner and independent
+  biostatistics/genomics owner should preregister one controlled multicenter TDT
   study with a standardized response definition, complete participant and
   safety denominators, 12- to 24-month follow-up, post-withdrawal observation,
-  genotype and baseline-HbF strata, and itemized drug plus monitoring cost.
+  prespecified `HBG2`, `BCL11A`, and `HBS1L-MYB` validation, and itemized drug
+  plus monitoring cost.
 
 ## Human Evidence
 
@@ -159,7 +189,11 @@ hematologist leads the risk review and a regulator-grade safety process exists.
 
 - [2026 thalidomide GRADE meta-analysis, PMID 42136903](https://pubmed.ncbi.nlm.nih.gov/42136903/)
 - [Meta-analysis full text, PMC13170816](https://pmc.ncbi.nlm.nih.gov/articles/PMC13170816/)
+- [Second 2026 thalidomide meta-analysis, PMID 41933128](https://pubmed.ncbi.nlm.nih.gov/41933128/)
+- [Second meta-analysis full text, PMC13194658](https://pmc.ncbi.nlm.nih.gov/articles/PMC13194658/)
 - [Prospective 61-person cohort, PMID 42333196](https://pubmed.ncbi.nlm.nih.gov/42333196/)
+- [Three-month genotype-response cohort, PMID 42415097](https://pubmed.ncbi.nlm.nih.gov/42415097/)
+- [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Thalidomide randomized TDT trial, PubMed PMID 34795208](https://pubmed.ncbi.nlm.nih.gov/34795208/)
 - [Hydroxyurea versus thalidomide trial, PubMed PMID 36620489](https://pubmed.ncbi.nlm.nih.gov/36620489/)
 - [Thalidomide non-randomized TDT trial, PubMed PMID 40446669](https://pubmed.ncbi.nlm.nih.gov/40446669/)

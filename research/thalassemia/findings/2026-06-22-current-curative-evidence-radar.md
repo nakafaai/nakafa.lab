@@ -117,6 +117,15 @@ only.
   with five-year survival, number-at-risk, complete death, graft-failure, GVHD,
   infection, organ-toxicity, hospitalization, late-safety, and itemized-cost
   denominators.
+- **Late same-day source recheck:** The July 31 PubMed entry-date query later
+  returned PMID `42534224`, a two-case inflammatory-bowel-disease report, and
+  PMID `42532492`, a 100-patient and 40-control IL-10 and hepcidin association
+  study. Neither has a curative endpoint. ClinicalTrials.gov versions 52 of the
+  phase 3 mitapivat studies `NCT04770753` and `NCT04770779` changed only status
+  verification and submission or posting dates from versions 51; both remained
+  active, not recruiting. A fully paginated July 31 preprint screen found no
+  thalassemia or TTF conditioning evidence. These sources correct the morning
+  zero-hit statements but do not change the TTF benchmark decision.
 
 ## July 30 Thalidomide Response-Benchmark Decision
 
@@ -917,6 +926,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
 - [TTF pediatric TDT cohort, PMID 42467967](https://pubmed.ncbi.nlm.nih.gov/42467967/)
 - [TTF cohort DOI 10.1097/MPH.0000000000003246](https://doi.org/10.1097/MPH.0000000000003246)
+- [IBD and beta-thalassemia major case report, PMID 42534224](https://pubmed.ncbi.nlm.nih.gov/42534224/)
+- [IL-10 and hepcidin case-control study, PMID 42532492](https://pubmed.ncbi.nlm.nih.gov/42532492/)
+- [ENERGIZE NTDT registry record, NCT04770753](https://clinicaltrials.gov/study/NCT04770753)
+- [ENERGIZE-T TDT registry record, NCT04770779](https://clinicaltrials.gov/study/NCT04770779)
 - [BPOM public product registry](https://cekbpom.pom.go.id/produk-obat)
 - [Long-term HSCT meta-analysis, PMID 42520329](https://pubmed.ncbi.nlm.nih.gov/42520329/)
 - [Long-term HSCT meta-analysis full text, DOI 10.1016/j.htct.2026.106490](https://www.htct.com.br/en-long-term-survival-rates-thalassemia-patients-articulo-S2531137926002373)

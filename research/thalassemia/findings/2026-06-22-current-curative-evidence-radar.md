@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-30
+Last evidence update: 2026-07-31
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -21,7 +21,12 @@ secondary solid cancer. A new 119-person pre-HSCT TDT fertility cohort tightens
 the baseline and follow-up requirement without adding post-transplant fertility
 outcomes. EBMT GRADE guidance supplies the independent protocol source needed
 to resolve conditioning implementation, but not modern long-term outcome or
-Indonesia cost evidence. A prospective 29-person
+Indonesia cost evidence. A new 74-child Indian cohort promotes
+treosulfan-thiotepa-fludarabine to a matched-family donor conditioning benchmark
+only. It does not establish reduced toxicity or donor-agnostic use because it
+has no concurrent busulfan comparator, and the reported five-year overall and
+thalassemia-free survival estimates were 57.3% in the combined
+matched-unrelated and haploidentical group. A prospective 29-person
 haploidentical-HSCT cohort now supports an alternative-donor conditioning
 benchmark, but not an affordable-route promotion: it is single-center, lacks
 itemized cost and complete safety attribution, and is not confirmed as
@@ -44,6 +49,74 @@ blocked.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## July 31 TTF Conditioning Decision
+
+**Question:** Does a new 74-child treosulfan-thiotepa-fludarabine cohort support
+promoting TTF as a reduced-toxicity affordable conditioning route across donor
+types in TDT?
+
+**Decision:**
+`promote_ttf_to_matched_family_donor_conditioning_benchmark_only_pending_adjusted_comparison_safety_and_cost`.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark
+only.
+
+- **Fact and cohort:** PMID `42467967` retrospectively analyzed 74 children with
+  TDT transplanted at one Indian center from January 2017 through May 2025.
+  Median age was 6.2 years. Donors were 45 matched siblings, 4 other matched
+  relatives, 16 matched-unrelated donors, and 9 haploidentical donors. All
+  grafts used peripheral blood stem cells.
+- **Overall outcome:** At median follow-up of 45.2 months, five-year overall
+  survival was 82.2% and thalassemia-free survival was 77.7%.
+- **Donor-stratified outcome:** Five-year overall survival was 95% in the
+  combined matched-family group and 57.3% in the combined alternative-donor
+  group. Thalassemia-free survival was 88.3% and 57.3%, respectively.
+- **Graft and safety outcome:** Four children had primary graft failure. Ten
+  had mixed chimerism, including two with secondary graft failure and
+  autologous recovery. Acute GVHD occurred in 25 children, chronic GVHD in 7,
+  CMV reactivation in 42, and veno-occlusive disease in 6.
+- **Risk-class result:** Five-year thalassemia-free survival was 82% for the
+  combined Pesaro class I and II group and 65.5% for class III. Overall
+  survival did not differ significantly by that grouping.
+- **Comparator limitation:** The article calls TTF reduced toxicity and a
+  promising alternative to busulfan, but the abstract reports no concurrent
+  busulfan comparator. It cannot establish a causal toxicity advantage.
+- **Donor-group limitation:** The analysis combines two matched-family donor
+  types and two alternative-donor types. The accessible record does not expose
+  donor-specific adjusted estimates, so the observed difference cannot be
+  attributed to donor type or conditioning alone.
+- **Denominator and safety limits:** Follow-up ranged from 1.5 to 102 months,
+  but the abstract does not report the five-year number at risk. It also omits
+  death count and causes, GVHD grade, complete infection burden, ICU use,
+  hospitalization, fertility, endocrine outcomes, secondary malignancy, and
+  delivered cost. Open full-text routes were unavailable.
+- **Interpretation:** TTF is promoted to a matched-family donor conditioning
+  benchmark only. The same result blocks donor-agnostic promotion and does not
+  establish reduced toxicity, an alternative-donor route, affordability,
+  Indonesia access, or suitability.
+- **Confidence:** Moderate that outcomes differ materially by the combined
+  donor grouping under this program. Low that TTF is superior or affordable.
+- **Affordability and access:** Exact July 31 public BPOM product-name and
+  ingredient searches for treosulfan, Trecondi, thiotepa, Tepadina, fludarabine,
+  and fludarabin returned no record. This is a bounded public-registry gap, not
+  proof of authorization, procurement, unavailability, or affordability.
+- **Hypothesis:** In an independently enrolled matched-family donor pediatric
+  cohort, TTF can preserve five-year thalassemia-free survival within a
+  preregistered non-inferiority margin while reducing a prespecified composite
+  of severe organ toxicity relative to a contemporary busulfan-based protocol.
+- **Open question:** Can a donor-stratified comparison reproduce the
+  matched-family result, explain the alternative-donor result, and show lower
+  severe toxicity at an itemized Indonesia-relevant delivered cost?
+- **Falsification criterion:** Remove the conditioning-benchmark promotion if
+  independent donor-stratified evidence fails the five-year
+  thalassemia-free-survival margin, does not reduce the severe-toxicity
+  endpoint, confirms poor alternative-donor survival, or exceeds the program's
+  delivered-cost threshold.
+- **Next decisive action:** Obtain the full report and define a prospective
+  donor-stratified comparison against one contemporary busulfan-based protocol
+  with five-year survival, number-at-risk, complete death, graft-failure, GVHD,
+  infection, organ-toxicity, hospitalization, late-safety, and itemized-cost
+  denominators.
 
 ## July 30 Thalidomide Response-Benchmark Decision
 
@@ -786,7 +859,8 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TIF, and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, modern five-year outcomes, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. TTF adds a matched-family conditioning benchmark, but not a pure matched-sibling estimate. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
+| TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
 | Asia watch | BRL-101 phase 1/2 has 39 actual enrollees and recruiting 15-year follow-up; China BD211 and gamma-globin autologous HSC records remain comparators | Operationally mature regional radar without posted BRL-101 outcomes, delivered cost, Indonesia access, or referral relevance. |
@@ -841,6 +915,9 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [TTF pediatric TDT cohort, PMID 42467967](https://pubmed.ncbi.nlm.nih.gov/42467967/)
+- [TTF cohort DOI 10.1097/MPH.0000000000003246](https://doi.org/10.1097/MPH.0000000000003246)
+- [BPOM public product registry](https://cekbpom.pom.go.id/produk-obat)
 - [Long-term HSCT meta-analysis, PMID 42520329](https://pubmed.ncbi.nlm.nih.gov/42520329/)
 - [Long-term HSCT meta-analysis full text, DOI 10.1016/j.htct.2026.106490](https://www.htct.com.br/en-long-term-survival-rates-thalassemia-patients-articulo-S2531137926002373)
 - [Pescara 39-year HSCT cohort, PMID 36002533](https://pubmed.ncbi.nlm.nih.gov/36002533/)

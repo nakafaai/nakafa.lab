@@ -37,6 +37,7 @@ answers:
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
+| GATAD2A-CHD4 interface within `MBD2-NuRD` | `preclinical_hbf_probe_benchmark_only` | A structure-defined interaction now has genetic and lentiviral peptide HbF evidence in HUDEP-2 and primary adult erythroid cells. No cell-active therapeutic molecule, beta-thalassemia donor-cell result, long-term safety, delivery, manufacturing, cost, or access path supports further promotion. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
 | Sirolimus, `PRKAB1`/autophagy, `T-BDMC` | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
 | Resveratrol | `ntdt_iron_overload_comparator_only`; HbF quote `deprioritized` | A small randomized 2026 abstract reports lower six-month serum ferritin, but not HbF, hemoglobin, transfusion burden, organ iron, durability, or delivered cost. Earlier randomized evidence does not establish a decision-useful HbF or transfusion effect. |
@@ -80,6 +81,70 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## August 1 GATAD2A-CHD4 Interface Decision
+
+**Question:** Does the newly indexed structure and erythroid-cell evidence
+resolve enough of the MBD2-NuRD target blocker to justify a candidate-specific
+affordable-cure experiment?
+
+**Decision:**
+`promote_gatad2a_chd4_interface_to_preclinical_hbf_probe_benchmark_only`.
+
+The decision promotes a target-specific probe experiment, not a molecule,
+treatment, or cure candidate. Matched-sibling HSCT remains the leading
+affordable-curative route benchmark only.
+
+- **Fact - mechanism and endpoint:** PMID `42539289` maps the GATAD2A CR2 helix
+  to the CHD4 C-terminal domain. GATAD2A `L387P/L390P` prime editing in HUDEP-2
+  cells produced 39% HbF by HPLC versus 7% in the prime-editing control.
+  Lentiviral intracellular expression of the CR2 helix in primary adult
+  CD34-positive HSPC-derived erythroid cells produced 74% HbF versus 8.9% with
+  the mutant peptide control.
+- **Fact - genotype and phenotype scope:** The paper does not state the
+  primary-cell donor count and does not test beta-thalassemia donor cells, TDT,
+  NTDT, transfusion burden, total hemoglobin, or clinical benefit. Application
+  to beta-thalassemia is a mechanistic hypothesis.
+- **Resolved contradiction:** The abstract describes about 40% HbF versus less
+  than 1% in control HUDEP-2 cells, while Figure 3F reports 39% versus 7% by
+  HPLC. The figure-bound values define the quantitative comparison.
+- **Fact - modality:** The functional peptide was expressed by lentivirus.
+  Companion PMID `42282813` reports low-nanomolar macrocyclic binders in
+  purified biochemical assays, but no cell permeability or cellular HbF result.
+- **Evidence tier:** Unreviewed preclinical structure, biophysics, genetic
+  perturbation, lentiviral peptide expression, and short human erythroid-cell
+  evidence.
+- **Safety risk:** Short differentiation-marker results do not resolve broad
+  chromatin-complex risk. Edited HUDEP-2 cells had about 50% lower `HBB` RNA,
+  and RNA sequencing found 89 upregulated and 35 downregulated genes, including
+  embryonic globins `HBE1` and `HBZ`. Long-term marrow, organ, genotoxicity, and
+  in vivo safety were not tested.
+- **Hypothesis:** A selective, cell-permeant inhibitor can reproduce HbF
+  protein and F-cell induction in genetically distinct beta-thalassemia donor
+  erythroid cultures while preserving globin balance, viability, maturation,
+  and enucleation.
+- **Interpretation:** The structure-defined interface resolves the broad-target
+  blocker enough for probe development. It does not resolve disease-cell,
+  safety, delivery, durability, manufacturing, affordability, or access gaps.
+- **Open question:** Can a chemically defined inhibitor enter erythroid cells
+  and reproduce the HbF effect without broad NuRD or embryonic-gene
+  derepression?
+- **Affordability and access:** No administered product, scalable synthesis,
+  pharmacokinetic route, manufacturing package, delivered cost, or Indonesia
+  access path is reported. Avoiding ex vivo therapy remains a future
+  hypothesis, not an affordability result.
+- **Falsification criterion:** Deprioritize if a chemically verified,
+  cell-permeant inhibitor cannot raise HbF protein and F-cell percentage in at
+  least three genetically distinct beta-thalassemia donor cultures while
+  preserving viability, maturation, enucleation, and alpha/non-alpha globin
+  balance, or if transcriptome, safety, manufacturing, or cost boundaries fail.
+- **Next decisive action:** Medicinal chemistry must supply one identity-,
+  purity-, permeability-, and cost-qualified cell-active probe. Erythroid
+  biology must then run a dose-response comparison against vehicle, mutant
+  control, and hydroxyurea in at least three genetically distinct
+  beta-thalassemia donor cultures with HbF HPLC, F-cells, `HBG1/HBG2`, total
+  hemoglobin, globin balance, viability, apoptosis, `CD71/CD235a`, enucleation,
+  hemolysis, and off-target RNA sequencing.
 
 ## August 1 Resveratrol Decision
 
@@ -919,6 +984,12 @@ anchors, not biomedical evidence for any candidate.
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
+- [GATAD2A-CHD4 HbF preprint, PMID 42539289](https://pubmed.ncbi.nlm.nih.gov/42539289/)
+- [GATAD2A-CHD4 open full text, PMC13419836](https://pmc.ncbi.nlm.nih.gov/articles/PMC13419836/)
+- [CHD4 macrocycle preprint, PMID 42282813](https://pubmed.ncbi.nlm.nih.gov/42282813/)
+- [CHD4 macrocycle open full text, PMC13252415](https://pmc.ncbi.nlm.nih.gov/articles/PMC13252415/)
+- [GATAD2A-CHD4 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#gatad2a-chd4-interface-decision)
+- [GATAD2A-CHD4 thalassemia trial query](https://clinicaltrials.gov/search?term=%28GATAD2A%20OR%20CHD4%20OR%20MBD2-NuRD%29%20AND%20%28thalassemia%20OR%20thalassaemia%20OR%20beta-thalassemia%29)
 - [Resveratrol HbF and iron-overload evidence](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [Randomized NTDT trial, PMID 29926158](https://pubmed.ncbi.nlm.nih.gov/29926158/)
 - [Cochrane HbF-inducer review, PMID 36637054](https://pubmed.ncbi.nlm.nih.gov/36637054/)

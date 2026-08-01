@@ -1,7 +1,7 @@
 # Finding: Epigenetic HbF Target Drilldown
 
 Date checked: 2026-04-27
-Last evidence update: 2026-07-16
+Last evidence update: 2026-08-01
 Evidence label: translational target triage, not treatment advice
 
 ## Working Conclusion
@@ -30,12 +30,74 @@ The curcuminoid branch is now tracked separately in
 
 | Rank | Target lane | Why it matters | Main blocker |
 | --- | --- | --- | --- |
-| 1 | `MBD2-NuRD` disruption | Human erythroid cell work shows strong HbF derepression when `MBD2` is depleted or its NuRD interactions are disrupted. | No simple approved drug path yet; broad chromatin biology needs safety control. |
+| 1 | `MBD2-NuRD` disruption | Human erythroid cell work now links a structure-defined GATAD2A-CHD4 interface to high HbF after genetic or lentiviral peptide perturbation. | No chemically defined cell-active inhibitor, beta-thalassemia donor-cell result, long-term safety, delivery, or cost path yet. |
 | 2 | `LSD1/KDM1A` inhibition | LSD1 is druggable and has beta-thalassemia/HbE cell evidence plus newer oral-inhibitor animal evidence. | Hematopoietic lineage toxicity and irreversible-inhibitor adverse effects remain major concerns. |
 | 3 | `DNMT1` inhibition | Decitabine supplies human proof of biology. DMT207 adds HUDEP2, adult primary erythroblast, two same-genotype beta-thalassemia donor cultures, and short mouse evidence. | DMT207 still lacks an independent material route, diverse-genotype replication, pharmacokinetics, long-term safety, and a transfusion or total-hemoglobin benefit. |
 | 4 | `NRF2/BACH1` stress response | Mechanistically links gamma-globin induction, oxidative stress, heme handling, and possible natural-product screens. | Broad pathway; activation can reduce viability or create non-specific stress effects. |
 | 5 | HDAC/NuRD-associated enzymes | HDAC and NuRD biology supports fetal globin silencing mechanisms. | Broad HDAC inhibition is not selective enough for a safe chronic anemia strategy. |
 | 6 | Curcuminoid/trienone analogs | Primary beta-thalassemia/HbE erythroid progenitor data show HbF induction signal. | Not a clinical claim; needs identity, potency, bioavailability, and hemolysis/immune safety work. |
+
+## GATAD2A-CHD4 Interface Decision
+
+**Question:** Does the newly indexed structure and erythroid-cell evidence
+resolve enough of the `MBD2-NuRD` blocker to justify an affordable-cure
+experiment?
+
+**Decision:**
+`promote_gatad2a_chd4_interface_to_preclinical_hbf_probe_benchmark_only`.
+
+This promotes a target-specific probe experiment, not a molecule, treatment,
+or cure candidate. Matched-sibling HSCT remains the leading
+affordable-curative route benchmark only.
+
+- **Fact - mechanism:** The primary preprint maps a GATAD2A CR2 helix to the
+  CHD4 C-terminal domain. GATAD2A `L387P/L390P` prime editing or enforced
+  intracellular CR2-helix expression disrupted CHD4 recruitment to MBD2-NuRD
+  and increased gamma-globin and HbF.
+- **Fact - model and endpoint:** HUDEP-2 editing reached 39% HbF by HPLC versus
+  7% in the prime-editing control. Lentiviral CR2-helix expression in primary
+  adult CD34-positive HSPC-derived erythroid cells reached 74% HbF versus 8.9%
+  with the mutant peptide control. The paper does not state the primary-cell
+  donor count and does not test beta-thalassemia donor cells.
+- **Resolved contradiction:** The abstract describes about 40% HbF versus less
+  than 1% in control HUDEP-2 cells, but Figure 3F reports 39% versus 7% by HPLC.
+  Use the figure-bound HPLC values for the quantitative comparison.
+- **Fact - modality:** The functional peptide was expressed intracellularly by
+  lentivirus. Companion PMID `42282813` supplies low-nanomolar biochemical
+  macrocycle binders, not a cell-permeant or erythroid-active molecule.
+- **Fact - safety:** Short `CD71/CD235a` differentiation readouts were not
+  materially changed. However, edited HUDEP-2 cells had about 50% lower `HBB`
+  RNA, and RNA sequencing found 89 upregulated and 35 downregulated genes,
+  including `HBE1` and `HBZ`. No long-term marrow, organ, genotoxicity, or in
+  vivo safety result is available.
+- **Evidence tier:** Unreviewed preclinical structure, biophysics, genetic
+  perturbation, lentiviral peptide expression, and short human erythroid-cell
+  evidence. It is not beta-thalassemia genotype, TDT, NTDT, transfusion,
+  clinical efficacy, or durability evidence.
+- **Hypothesis:** A selective, cell-permeant GATAD2A-CHD4 inhibitor can
+  reproduce HbF protein and F-cell induction in genetically distinct
+  beta-thalassemia donor erythroid cultures without disrupting globin balance,
+  viability, maturation, or enucleation.
+- **Interpretation:** The structure-defined interface is sufficiently specific
+  for probe development. It does not establish an affordable therapeutic path.
+- **Open question:** Can a chemically defined inhibitor enter erythroid cells
+  and reproduce the effect without broad NuRD or embryonic-gene derepression?
+- **Affordability and access:** The evidence has no administered product,
+  scalable synthesis, pharmacokinetic route, manufacturing package, delivered
+  cost, or Indonesia access path. A possible oral or systemic format remains a
+  hypothesis.
+- **Falsification criterion:** Deprioritize if a chemically verified,
+  cell-permeant inhibitor cannot raise HbF protein and F-cell percentage in at
+  least three genetically distinct beta-thalassemia donor cultures while
+  preserving viability, maturation, enucleation, and alpha/non-alpha globin
+  balance, or if transcriptome, safety, manufacturing, or cost boundaries fail.
+- **Next decisive action:** Medicinal chemistry must deliver one
+  identity-, purity-, permeability-, and cost-qualified cell-active probe.
+  Erythroid biology must then run a dose-response comparison against vehicle,
+  mutant control, and hydroxyurea in at least three genetically distinct
+  beta-thalassemia donor cultures with HbF HPLC, F-cells, `HBG1/HBG2`, total
+  hemoglobin, globin balance, viability, apoptosis, `CD71/CD235a`, enucleation,
+  hemolysis, and off-target RNA sequencing.
 
 ## DMT207 Decision
 
@@ -160,6 +222,12 @@ red-cell, and safety gates as synthetic small molecules.
 ## Sources
 
 - [MBD2-NuRD fetal hemoglobin silencing, PubMed PMID 31004025](https://pubmed.ncbi.nlm.nih.gov/31004025/)
+- [GATAD2A-CHD4 HbF preprint, PMID 42539289](https://pubmed.ncbi.nlm.nih.gov/42539289/)
+- [GATAD2A-CHD4 open full text, PMC13419836](https://pmc.ncbi.nlm.nih.gov/articles/PMC13419836/)
+- [GATAD2A-CHD4 DOI 10.64898/2026.07.17.739209](https://doi.org/10.64898/2026.07.17.739209)
+- [CHD4 macrocycle preprint, PMID 42282813](https://pubmed.ncbi.nlm.nih.gov/42282813/)
+- [CHD4 macrocycle open full text, PMC13252415](https://pmc.ncbi.nlm.nih.gov/articles/PMC13252415/)
+- [CHD4 macrocycle DOI 10.64898/2026.06.03.728223](https://doi.org/10.64898/2026.06.03.728223)
 - [LSD1 as fetal hemoglobin target, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5512162/)
 - [LSD1 inhibition in beta0-thalassemia/HbE erythroid cells, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8672213/)
 - [Oral LSD1 inhibitors and HbF, PubMed PMID 40332031](https://pubmed.ncbi.nlm.nih.gov/40332031/)

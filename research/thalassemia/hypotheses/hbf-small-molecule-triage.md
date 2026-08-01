@@ -2,6 +2,7 @@
 
 Status: exploratory
 Evidence label: hypothesis group, not treatment claim
+Last evidence update: 2026-08-01
 
 ## Goal
 
@@ -16,7 +17,7 @@ manufacturing, or ex vivo gene editing.
 | Hydroxyurea | Human thalassemia studies and low-cost access | Variable response and monitoring needs | High for evidence review |
 | Sirolimus | Repurposing and HbF clinical-trial interest | Immunosuppression and monitoring | Medium-high |
 | `AMPKB1` / `ULK1` / `NRF2` / autophagy bridge | Connects HbF induction with alpha-globin cleanup biology | Mostly target-discovery evidence; no beta-thalassemia patient treatment proof | Medium-high for assay design |
-| `MBD2-NuRD` disruptors | Strong human erythroid HbF derepression biology | No simple approved drug path; broad chromatin safety | Medium-high for discovery |
+| GATAD2A-CHD4 interface within `MBD2-NuRD` | Structure-defined interaction; genetic and lentiviral peptide perturbation produced high HbF in HUDEP-2 and primary adult erythroid cells | No cell-active therapeutic molecule, beta-thalassemia donor-cell result, long-term safety, delivery, or cost path | High for probe development only |
 | `LSD1/KDM1A` inhibitors | Druggable HbF target with beta-thalassemia/HbE cell evidence | Hematopoietic lineage toxicity and inhibitor safety | Medium-high for discovery |
 | Decitabine/azacitidine | Strong HbF epigenetic biology | Cytotoxicity and dosing complexity | Medium, high caution |
 | `NRF2/BACH1` modulators | Links HbF, oxidative stress, and heme biology | Broad pathway and viability risks | Medium for assay design |
@@ -42,8 +43,8 @@ A candidate can become its own hypothesis card only if it has:
 1. Hydroxyurea evidence map by genotype and TDT/NTDT status.
 2. Sirolimus evidence map and trial status.
 3. `AMPKB1` / `ULK1` / `NRF2` / autophagy dual-readout assay design.
-4. Epigenetic HbF target drilldown: `MBD2-NuRD`, `LSD1/KDM1A`, `DNMT1`,
-   `NRF2/BACH1`, and HDAC-linked regulation.
+4. GATAD2A-CHD4 probe development followed by a bounded dose-response assay in
+   at least three genetically distinct beta-thalassemia donor cultures.
 5. Apply HPFH-like signature labels to every existing HbF seed.
 6. Decitabine/azacitidine mechanism and safety boundary.
 7. Bee-derived material screen only after checking HbF or erythroid endpoint

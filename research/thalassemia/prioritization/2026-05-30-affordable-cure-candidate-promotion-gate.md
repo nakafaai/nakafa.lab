@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-07-31
+Last evidence update: 2026-08-01
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -38,7 +38,8 @@ answers:
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
-| Sirolimus, `PRKAB1`/autophagy, `T-BDMC`, resveratrol | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
+| Sirolimus, `PRKAB1`/autophagy, `T-BDMC` | `hold_for_endpoint_or_identity_gap` | Assay-only until identity, HbF, chain balance, hemolysis, viability, and safety endpoints are present. |
+| Resveratrol | `ntdt_iron_overload_comparator_only`; HbF quote `deprioritized` | A small randomized 2026 abstract reports lower six-month serum ferritin, but not HbF, hemoglobin, transfusion burden, organ iron, durability, or delivered cost. Earlier randomized evidence does not establish a decision-useful HbF or transfusion effect. |
 | Thalidomide class | `high_caution_response_benchmark_only` | A 2026 GRADE synthesis supports on-treatment HbF, hemoglobin, and transfusion-response signals, but low-certainty response evidence, extreme heterogeneity, cohort overlap, adverse-event underreporting, thrombosis, regulator-label hazards, and missing delivered cost block therapeutic promotion. |
 | Melittin hazard lane | `reject_hazard_or_unmeasured_claim` | Hemolysis and anaphylaxis risk block therapeutic promotion without a new safety-resolution package. |
 | AND017, luspatercept, mitapivat | `benchmark_only` | Useful for transfusion-burden or red-cell-metabolism comparison, not cure. |
@@ -79,6 +80,65 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## August 1 Resveratrol Decision
+
+**Question:** Does the 2026 randomized Thailand ferritin result, read with the
+earlier human resveratrol trial, justify keeping purified resveratrol in the
+first affordable-cure HbF quote panel?
+
+**Decision:**
+`deprioritize_resveratrol_from_first_affordable_cure_hbf_panel_to_ntdt_iron_overload_comparator_only`.
+
+The decision changes experimental priority, not the curative-route ranking.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark
+only.
+
+- **Fact:** EHA-3064 reports 30 randomized adults with NTDT on stable iron
+  chelation: resveratrol `n=10`, omeprazole `n=11`, and placebo `n=9`. Median
+  six-month serum-ferritin change was -116, -8, and +8 ng/mL, respectively.
+  Resveratrol differed from omeprazole (`P=0.016`) and placebo (`P=0.012`).
+- **Fact:** The conference abstract reports three adverse events in the
+  resveratrol group. It does not report HbF, hemoglobin, transfusion
+  burden, liver iron concentration, labile plasma iron, non-transferrin-bound
+  iron, chelation changes, follow-up after withdrawal, or cost.
+- **Fact:** ISRCTN `73258526` planned 60 participants and registered labile
+  plasma iron, non-transferrin-bound iron, erythroferrone, hepcidin, and an HbF
+  association as secondary measures. The registry remained recruiting or
+  ongoing when checked and does not reconcile its target with the 30-person
+  conference report.
+- **Fact:** PMID `29926158` randomized 54 adults with NTDT to hydroxyurea,
+  resveratrol plus piperine, or their combination. The abstract reports no
+  significant response-rate difference. The 2023 Cochrane synthesis reports a
+  hydroxyurea-versus-resveratrol hemoglobin mean difference of -0.30 g/dL,
+  95% CI -1.14 to 0.54, in 34 participants, with low-certainty evidence. HbF
+  was not reported for the comparison, and transfusion frequency or interval
+  was not available.
+- **Contradiction:** The 2018 human formulation included piperine and cannot
+  validate purified resveratrol. The 2026 registry target and conference cohort
+  also differ. Registered HbF and labile-iron measures remain unreported.
+- **Hypothesis:** The ferritin signal is an iron-axis adjunct effect distinct
+  from HbF induction. It becomes credible only if organ iron or registered
+  labile-iron biomarkers improve with stable chelation and no worsening of
+  hemoglobin or transfusion burden.
+- **Interpretation:** Remove purified resveratrol from the active first HbF
+  quote and retain it only as an NTDT iron-overload comparator pending complete
+  randomized outcomes.
+- **Open question:** Does the complete trial reconcile enrollment and show
+  organ-iron or labile-iron benefit without anemia, transfusion, or safety
+  tradeoffs?
+- **Affordability and access:** No source reports itemized product, chelation,
+  monitoring, adverse-event, or total delivered cost. Oral administration does
+  not establish affordability, availability, or an Indonesia access path.
+- **Falsification criterion:** Reconsider HbF-panel priority only if a complete
+  controlled report shows reproducible HbF protein or F-cell improvement plus
+  hemoglobin or transfusion benefit, acceptable safety, durability, and
+  delivered cost. If the complete iron study does not reproduce ferritin with
+  organ-iron or labile-iron improvement, deprioritize the iron-comparator lane.
+- **Next decisive action:** Monitor the EHA report and ISRCTN record for the
+  full cohort, registered biomarkers, HbF, hemoglobin, transfusion outcomes,
+  chelation stability, complete adverse events, follow-up, and itemized cost.
+  Do not spend first-quote capacity on resveratrol before that result.
 
 ## July 31 TTF Conditioning Decision
 
@@ -859,6 +919,11 @@ anchors, not biomedical evidence for any candidate.
 - [REGN7999 trial `NCT06421636`](https://clinicaltrials.gov/study/NCT06421636)
 - [DMT207 primary study, PMID 41347631](https://pubmed.ncbi.nlm.nih.gov/41347631/)
 - [DMT207 evidence decision](../findings/2026-04-27-epigenetic-hbf-target-drilldown.md#dmt207-decision)
+- [Resveratrol HbF and iron-overload evidence](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
+- [Randomized NTDT trial, PMID 29926158](https://pubmed.ncbi.nlm.nih.gov/29926158/)
+- [Cochrane HbF-inducer review, PMID 36637054](https://pubmed.ncbi.nlm.nih.gov/36637054/)
+- [EHA-3064 conference abstract](https://library.ehaweb.org/eha/2026/eha-2026/4208939/)
+- [ISRCTN73258526 registry record](https://doi.org/10.1186/ISRCTN73258526)
 - [Thalidomide GRADE meta-analysis, PMID 42136903](https://pubmed.ncbi.nlm.nih.gov/42136903/)
 - [Second thalidomide meta-analysis, PMID 41933128](https://pubmed.ncbi.nlm.nih.gov/41933128/)
 - [Three-month genotype-response cohort, PMID 42415097](https://pubmed.ncbi.nlm.nih.gov/42415097/)

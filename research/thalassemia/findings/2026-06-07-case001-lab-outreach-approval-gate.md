@@ -1,6 +1,6 @@
 # Finding: Case-001 Lab Outreach Approval Gate
 
-Date checked: 2026-06-07
+Date checked: 2026-08-01
 Evidence label: outreach approval and public-safety gate, not contact
 permission and not treatment advice
 
@@ -10,9 +10,10 @@ Do not contact a lab yet. The June 2 first quote request table remains the
 active draft, but outbound contact is still blocked until explicit founder
 approval is recorded.
 
-The June 7 source refresh did not change the quote posture. The included panel
-items remain quote-draft items, while standardized ginger extract and `T-BDMC`
-/ `HY-N11902` stay held addenda.
+The August 1 resveratrol evidence correction changes the quote posture without
+changing the outreach hold. Purified resveratrol is no longer an active quote
+line. It joins standardized ginger extract and `T-BDMC` / `HY-N11902` as a held
+item.
 
 ## Result
 
@@ -20,8 +21,8 @@ items remain quote-draft items, while standardized ginger extract and `T-BDMC`
 | --- | --- | --- |
 | Can the lab be contacted now? | No explicit founder approval is recorded. | Do not send. |
 | What is the active packet? | June 2 first quote request table. | Use only after approval. |
-| Which items are quote lines? | Hydroxyurea, resveratrol, sirolimus, melittin hazard control, PF-06409577. | Keep scoped. |
-| Which items are held? | Standardized ginger extract and `T-BDMC` / `HY-N11902`. | Do not quote as active lines. |
+| Which items are quote lines? | Hydroxyurea, sirolimus, melittin hazard control, PF-06409577. | Keep scoped. |
+| Which items are held? | Resveratrol, standardized ginger extract, and `T-BDMC` / `HY-N11902`. | Do not quote as active lines. |
 | Can patient data be sent? | No. | Public-safe research context only. |
 
 ## Approval Rule
@@ -45,6 +46,7 @@ contact permission.
 - [June 2 first quote request table](../assays/2026-06-02-first-quote-request-table.md)
 - [June 5 ginger gate](../assays/2026-06-05-ginger-extract-standardization-gate.md)
 - [June 6 T-BDMC catalog gate](../assays/2026-06-06-t-bdmc-catalog-feasibility-gate.md)
+- [Resveratrol HbF and iron-overload evidence](2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - [ClinicalTrials.gov](https://clinicaltrials.gov/)

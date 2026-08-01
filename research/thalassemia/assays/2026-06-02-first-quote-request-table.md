@@ -1,6 +1,6 @@
 # First Quote Request Table
 
-Date checked: 2026-06-02
+Date checked: 2026-08-01
 Status: public-safe preclinical quote draft, not treatment advice and not
 contact permission
 
@@ -16,6 +16,9 @@ trial screening, travel, import, or patient-specific action.
 Current operational label:
 
 `case001_first_quote_request_table_ready`
+
+The August 1 evidence correction removes purified resveratrol from the active
+quote. The other quote items and controls are unchanged.
 
 Use the [lab outreach approval gate](2026-06-07-lab-outreach-approval-gate.md)
 before sending or adapting this table for any external contact.
@@ -33,7 +36,6 @@ endpoints.
 | Item | Quote role | Material ask | Readout ask | Stop condition | Boundary |
 | --- | --- | --- | --- | --- | --- |
 | Hydroxyurea | Positive HbF comparator | Lab-standard comparator with identity and vehicle documented. | HbF/HBG response, maturation, viability. | Do not frame as a new cure candidate. | Comparator only. |
-| Purified resveratrol | HbF and erythroid-maturation seed | Purified compound with supplier, batch, purity, certificate of analysis if available, and vehicle documented. | HbF/HBG, HbF protein or F-cell percentage if available, maturation, viability, hemolysis, alpha/non-alpha or free alpha-globin context if available. | Hold or reject if identity, viability, hemolysis, or maturation boundaries fail. | Preclinical seed only. |
 | Sirolimus | mTOR/autophagy comparator | Exact compound identity, supplier, batch, purity, and vehicle documented. | HbF/HBG, ULK1, p62/SQSTM1 or lab equivalent, maturation, viability, hemolysis. | Hold or reject if immune-active comparator status is blurred into patient-facing therapy language. | Preclinical comparator only. |
 | Melittin | Hemolysis hazard control | Use only if the lab accepts it as a hazard-calibration control and documents biosafety handling. | Mature red-cell hemolysis or membrane damage; rejection threshold calibration. | Exclude if safe handling is unavailable or if therapy framing appears. | Hazard control only. |
 | PF-06409577 | `PRKAB1` / AMPK beta1 expansion probe | Exact identity, supplier, batch, purity, and vehicle documented. | HbF/HBG, AMPK beta1 or downstream target engagement if available, ULK1, p62/SQSTM1 or lab equivalent, maturation, viability, hemolysis. | Keep expansion-only unless the lab can support AMPK beta1 and autophagy context without patient-facing claims. | Expansion probe only. |
@@ -42,6 +44,7 @@ endpoints.
 
 | Item | Reason |
 | --- | --- |
+| Purified resveratrol | Human randomized evidence does not provide a decision-useful HbF or transfusion-burden result. The 2026 ferritin abstract supports an NTDT iron-overload comparator only, pending complete registered outcomes. |
 | Standardized 6-shogaol-rich ginger extract | Extract standardization, marker assay, batch controls, and support-only endpoint wording are not ready enough for first quote. |
 | `T-BDMC`-like curcuminoid analog | Exact structure, procurement identity, and batch control remain unresolved for this quote. |
 
@@ -93,6 +96,11 @@ item.
 - [June 1 assay readiness audit](2026-06-01-first-quote-panel-assay-readiness-audit.md)
 - [May 31 minimum assay readiness gate](2026-05-31-minimum-assay-readiness-gate.md)
 - [First lab quote brief V0](2026-04-27-first-lab-quote-brief-v0.md)
+- [Resveratrol HbF and iron-overload evidence](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
+- [Randomized NTDT trial, PMID 29926158](https://pubmed.ncbi.nlm.nih.gov/29926158/)
+- [Cochrane HbF-inducer review, PMID 36637054](https://pubmed.ncbi.nlm.nih.gov/36637054/)
+- [EHA-3064 conference abstract](https://library.ehaweb.org/eha/2026/eha-2026/4208939/)
+- [ISRCTN73258526 registry record](https://doi.org/10.1186/ISRCTN73258526)
 - [PubMed PMID 41259521](https://pubmed.ncbi.nlm.nih.gov/41259521/)
 - [PubMed PMID 36769243](https://pubmed.ncbi.nlm.nih.gov/36769243/)
 - [PubChem hydroxyurea CID 3657](https://pubchem.ncbi.nlm.nih.gov/compound/3657)

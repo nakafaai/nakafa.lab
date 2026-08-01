@@ -1,6 +1,6 @@
 # Lab Outreach Approval Gate
 
-Date checked: 2026-06-07
+Date checked: 2026-08-01
 Status: approval gate, not contact permission and not treatment advice
 
 ## Purpose
@@ -18,8 +18,8 @@ Current operational label:
 | Layer | Result | Send meaning |
 | --- | --- | --- |
 | Source freshness | PubMed IDs `41259521`, `36769243`, `40938906`, `33879818`, and `24857542` resolved on 2026-06-07 | The evidence trail still resolves. |
-| Compound identity | PubChem resolved hydroxyurea, resveratrol, sirolimus, melittin, PF-06409577, `T-BDMC`, and 6-shogaol CIDs | Material names can stay in the quote table. |
-| Registry sanity check | ClinicalTrials.gov searches for thalassemia resveratrol and PF-06409577 thalassemia returned no studies | Do not frame these as clinical access or trial lanes. |
+| Compound identity | PubChem resolved hydroxyurea, resveratrol, sirolimus, melittin, PF-06409577, `T-BDMC`, and 6-shogaol CIDs | Identity alone does not keep a material in the active quote. |
+| Resveratrol evidence correction | Randomized human NTDT evidence now exists, but it does not supply a decision-useful HbF or transfusion result. A 2026 abstract reports serum ferritin only. | Remove resveratrol from active quote lines and retain it as a held NTDT iron-overload comparator. |
 | Held-item cleanup | Ginger and `T-BDMC` now have separate held gates | Keep them out of the first quote lines. |
 | Approval | No founder approval is recorded in the repo | Do not contact a lab. |
 
@@ -39,13 +39,14 @@ before selecting any recipient.
 First quote items remain:
 
 - hydroxyurea positive HbF comparator;
-- purified resveratrol preclinical seed;
 - sirolimus mTOR/autophagy comparator;
 - melittin hemolysis hazard control only if the lab accepts it;
 - PF-06409577 `PRKAB1` expansion probe.
 
 Held addenda, not quote lines:
 
+- purified resveratrol, pending complete randomized iron, HbF, hemoglobin,
+  transfusion, safety, and cost outcomes;
 - standardized 6-shogaol-rich ginger extract;
 - `T-BDMC` or `HY-N11902` catalog lead.
 
@@ -75,6 +76,9 @@ quote item or outreach decision.
 - [June 2 first quote request table](2026-06-02-first-quote-request-table.md)
 - [June 5 ginger extract standardization gate](2026-06-05-ginger-extract-standardization-gate.md)
 - [June 6 T-BDMC catalog feasibility gate](2026-06-06-t-bdmc-catalog-feasibility-gate.md)
+- [Resveratrol HbF and iron-overload evidence](../findings/2026-04-27-resveratrol-hbf-beta-thalassemia-seed.md)
+- [EHA-3064 conference abstract](https://library.ehaweb.org/eha/2026/eha-2026/4208939/)
+- [ISRCTN73258526 registry record](https://doi.org/10.1186/ISRCTN73258526)
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 - [ClinicalTrials.gov](https://clinicaltrials.gov/)

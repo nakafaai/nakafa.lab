@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-08-02",
+  "queries": [
+    {
+      "records": [
+        {
+          "manufacturer_country": "-",
+          "manufacturer_name": "OTSUKA INDONESIA - Indonesia",
+          "product_brand": "-",
+          "product_date": "2024-03-01",
+          "product_expired": "2029-03-01",
+          "product_name": "BUSULFEX",
+          "product_package": "DUS, 1 VIAL @ 10 ML",
+          "product_register": "DKI1905000743A1",
+          "status": "Berlaku"
+        },
+        {
+          "manufacturer_country": "-",
+          "manufacturer_name": "OTSUKA INDONESIA - Indonesia",
+          "product_brand": "-",
+          "product_date": "2024-03-01",
+          "product_expired": "2029-03-01",
+          "product_name": "BUSULFEX",
+          "product_package": "DUS, 8 DUS @ 1 VIAL @ 10 ML (BULK)",
+          "product_register": "DKI1905000743A1",
+          "status": "Berlaku"
+        }
+      ],
+      "records_filtered": 2,
+      "records_total": 24544,
+      "search_field": "product_name",
+      "term": "BUSULFEX"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24544,
+      "search_field": "ingredients",
+      "term": "BUSULFEX"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24544,
+      "search_field": "product_name",
+      "term": "busulfan"
+    },
+    {
+      "records": [],
+      "records_filtered": 0,
+      "records_total": 24544,
+      "search_field": "ingredients",
+      "term": "busulfan"
+    }
+  ],
+  "source_endpoint": "https://cekbpom.pom.go.id/produk-dt/01",
+  "source_page": "https://cekbpom.pom.go.id/produk-obat"
+}

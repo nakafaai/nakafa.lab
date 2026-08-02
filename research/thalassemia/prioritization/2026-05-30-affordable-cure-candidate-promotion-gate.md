@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-01
+Last evidence update: 2026-08-02
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -31,6 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A new long-term synthesis and its 39-year primary cohort add historical survival, recurrence, endocrine, fertility, and secondary-cancer evidence, but contain count and possible cohort-overlap limitations. Matched-sibling restriction, modern five-year outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
+| BUSULFEX conditioning input | `indonesia_registered_conditioning_product_benchmark_only` | A current official BPOM record confirms one valid intravenous busulfan product registration and an Indonesian importer and repacker. The approved product information is not thalassemia-specific and provides no hospital stock, procurement, monitoring-capacity, payer, or delivered-cost evidence. |
 | Treosulfan-thiotepa-fludarabine HSCT | `matched_family_donor_conditioning_benchmark_only` | A retrospective 74-child Indian cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in a combined matched-family group, compared with 57.3% for both estimates in a combined alternative-donor group. No concurrent busulfan comparator, adjusted donor-specific result, complete safety denominator, itemized cost, or Indonesia access supports reduced-toxicity, donor-agnostic, or affordable-route promotion. |
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
@@ -81,6 +82,69 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+## August 2 BPOM BUSULFEX Conditioning-Input Decision
+
+**Question:** Does the current BPOM BUSULFEX record close the Indonesia
+conditioning-access gap enough to promote matched-sibling HSCT beyond a
+benchmark-only route?
+
+**Decision:**
+`promote_busulfex_to_indonesia_registered_conditioning_product_benchmark_only`.
+
+This is a component-level regulatory finding. Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+The evidence is newly integrated into the repo, not a new 2026 approval.
+
+- **Fact - public registration:** The August 2 CekBPOM product-name query
+  returns BUSULFEX registration `DKI1905000743A1` with status `Berlaku`, a
+  product date of 2024-03-01, expiry of 2029-03-01, and Otsuka Indonesia as the
+  named manufacturer entry.
+- **Fact - product identity:** BPOM-approved product information identifies a
+  6 mg/mL intravenous busulfan product manufactured in Germany and imported
+  and repacked by PT Otsuka Indonesia. The document was approved on 2024-02-27.
+- **Indication boundary:** The approved product information describes
+  conditioning before allogeneic transplantation for chronic myelogenous
+  leukemia. It does not establish a thalassemia indication, protocol, or
+  patient route.
+- **Safety and infrastructure boundary:** The product information requires
+  experienced transplant supervision, adequate diagnostic and treatment
+  facilities, pharmacokinetic monitoring, and intensive support for profound
+  myelosuppression and other serious toxicities. Product registration does not
+  resolve conditioning safety or center capacity.
+- **Resolved search contradiction:** Searching the public database by product
+  name returned two BUSULFEX package rows, while searching product name or
+  ingredient for `busulfan` returned zero. Ingredient-only negative searches
+  therefore cannot support a general absence claim.
+- **Interpretation:** The product-identity and public-registration gap for one
+  busulfan conditioning input is narrower than the prior generic Indonesia
+  access statement implied. The route-level access, safety, and affordability
+  gates remain open.
+- **Confidence:** High that a current public BPOM record exists for the named
+  product. Low that the record translates into thalassemia use, current stock,
+  procurement, monitoring capacity, payer coverage, or affordable delivery.
+- **Hypothesis:** A governed Indonesian transplant program can include a
+  BPOM-registered intravenous busulfan input only if a qualified center can
+  verify institutional availability, thalassemia-specific protocol governance,
+  pharmacokinetic monitoring, supportive-care capacity, and itemized total
+  delivered cost.
+- **Open question:** Can one Indonesian transplant center verify all of those
+  capabilities without exceeding the program's delivered-cost threshold?
+- **Affordability and access:** The public sources contain no price, stock,
+  procurement lead time, hospital formulary, pharmacokinetic assay price,
+  supportive-care cost, complication cost, or payer decision. Registration is
+  not availability or affordability.
+- **Falsification criterion:** Remove even the component-level access bridge if
+  qualified center and pharmacy verification cannot confirm institutional
+  availability and pharmacokinetic monitoring, or if the itemized route cost
+  exceeds the program threshold. Do not promote the HSCT route beyond
+  `benchmark_only` without independent modern outcomes and center-level
+  capacity and cost evidence.
+- **Next decisive action:** A transplant-program and health-economics owner
+  should produce one public-safe Indonesia center-capacity and itemized-cost
+  dataset covering product availability, pharmacokinetic monitoring,
+  transplant staffing, supportive care, complication management, and
+  follow-up. No patient routing or treatment recommendation follows.
 
 ## August 1 GATAD2A-CHD4 Interface Decision
 

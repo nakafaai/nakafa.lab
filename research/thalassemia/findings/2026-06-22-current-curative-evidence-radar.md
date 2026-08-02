@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-07-31
+Last evidence update: 2026-08-02
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -17,11 +17,15 @@ but do not justify broader promotion. The synthesis mixes time horizons,
 contains denominator conflicts, and appears to include overlapping Pescara
 cohorts. Its 39-year primary cohort reports meaningful survival and cure
 alongside non-negligible mortality, recurrence, gonadal dysfunction, and
-secondary solid cancer. A new 119-person pre-HSCT TDT fertility cohort tightens
-the baseline and follow-up requirement without adding post-transplant fertility
-outcomes. EBMT GRADE guidance supplies the independent protocol source needed
-to resolve conditioning implementation, but not modern long-term outcome or
-Indonesia cost evidence. A new 74-child Indian cohort promotes
+secondary solid cancer. A current BPOM record now confirms one registered
+intravenous busulfan conditioning product and an Indonesian importer and
+repacker. This narrows a product-level regulatory identity gap but does not
+establish a thalassemia indication, hospital availability, monitoring capacity,
+affordability, or route delivery. A new 119-person pre-HSCT TDT fertility
+cohort tightens the baseline and follow-up requirement without adding
+post-transplant fertility outcomes. EBMT GRADE guidance supplies the
+independent protocol source needed to resolve conditioning implementation, but
+not modern long-term outcome or Indonesia cost evidence. A new 74-child Indian cohort promotes
 treosulfan-thiotepa-fludarabine to a matched-family donor conditioning benchmark
 only. It does not establish reduced toxicity or donor-agnostic use because it
 has no concurrent busulfan comparator, and the reported five-year overall and
@@ -49,6 +53,51 @@ blocked.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 2 BPOM BUSULFEX Conditioning-Input Decision
+
+**Question:** Does the current BPOM BUSULFEX record close the Indonesia
+conditioning-access gap enough to promote matched-sibling HSCT beyond a
+benchmark-only route?
+
+**Decision:**
+`promote_busulfex_to_indonesia_registered_conditioning_product_benchmark_only`.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark
+only.
+
+- **Fact:** CekBPOM currently returns BUSULFEX registration
+  `DKI1905000743A1` with status `Berlaku`, a 2024-03-01 product date, a
+  2029-03-01 expiry, and Otsuka Indonesia as the named manufacturer entry.
+- **Fact:** BPOM-approved product information identifies intravenous busulfan
+  6 mg/mL, German manufacture, and import and repacking by PT Otsuka Indonesia.
+  The document was approved on 2024-02-27.
+- **Scope contradiction:** The public record establishes a registered
+  conditioning product, but the approved indication is conditioning before
+  allogeneic transplantation for chronic myelogenous leukemia, not
+  thalassemia. It cannot establish a thalassemia protocol or route.
+- **Search contradiction:** BUSULFEX returned two product-package rows by
+  product name, while `busulfan` returned zero by both product-name and
+  ingredient fields. An ingredient-only negative search would have missed the
+  current record.
+- **Safety and capacity:** The approved information requires an experienced
+  transplant physician, adequate diagnostic and treatment facilities,
+  pharmacokinetic monitoring, and intensive support for profound
+  myelosuppression and other serious toxicities. Registration does not resolve
+  those requirements.
+- **Interpretation:** One busulfan product's Indonesian regulatory identity is
+  now verified. The matched-sibling HSCT route remains `benchmark_only` because
+  thalassemia indication, hospital stock, procurement, monitoring capacity,
+  center outcomes, payer coverage, and itemized delivered cost remain open.
+- **Confidence:** High for the current public product record. Low for real-world
+  thalassemia access or affordability.
+- **Falsification criterion:** Remove the component-level access bridge if a
+  qualified center and pharmacy cannot verify institutional availability and
+  pharmacokinetic monitoring, or if a complete route cost exceeds the program
+  threshold.
+- **Next decisive action:** A transplant-program and health-economics owner
+  should produce one public-safe Indonesia center-capacity and itemized-cost
+  dataset covering the conditioning product, pharmacokinetic monitoring,
+  staffing, supportive care, complication management, and follow-up.
 
 ## July 31 TTF Conditioning Decision
 
@@ -868,7 +917,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, and EBMT guidance | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. TTF adds a matched-family conditioning benchmark, but not a pure matched-sibling estimate. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The current BPOM record narrows one conditioning-product regulatory identity gap, but not the thalassemia indication, institutional availability, monitoring, safety, capacity, or cost gaps. TTF adds a matched-family conditioning benchmark, but not a pure matched-sibling estimate. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
@@ -931,6 +980,8 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [ENERGIZE NTDT registry record, NCT04770753](https://clinicaltrials.gov/study/NCT04770753)
 - [ENERGIZE-T TDT registry record, NCT04770779](https://clinicaltrials.gov/study/NCT04770779)
 - [BPOM public product registry](https://cekbpom.pom.go.id/produk-obat)
+- [August 2 BPOM BUSULFEX product-search snapshot](../../../data/regulatory/bpom/2026-08-02-busulfex-conditioning-product-search.json)
+- [BPOM-approved BUSULFEX product information](https://registrasiobat.pom.go.id/files/assesment-reports/01733366559.pdf)
 - [Long-term HSCT meta-analysis, PMID 42520329](https://pubmed.ncbi.nlm.nih.gov/42520329/)
 - [Long-term HSCT meta-analysis full text, DOI 10.1016/j.htct.2026.106490](https://www.htct.com.br/en-long-term-survival-rates-thalassemia-patients-articulo-S2531137926002373)
 - [Pescara 39-year HSCT cohort, PMID 36002533](https://pubmed.ncbi.nlm.nih.gov/36002533/)

@@ -10,8 +10,8 @@ Matched-sibling HSCT is now the leading affordable-curative route benchmark for
 the narrow pediatric population studied in a new LMIC cohort. It remains
 `benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
 transplant mortality, infection and ICU burden, unresolved baseline-adjusted
-fertility outcomes, and unverified Indonesia delivery prevent general
-affordable-cure promotion. A newly indexed long-term meta-analysis and its
+fertility outcomes, and only two-case Indonesia execution evidence prevent
+general affordable-cure promotion. A newly indexed long-term meta-analysis and its
 strongest primary cohort add 15- to 39-year survival and late-effect evidence,
 but do not justify broader promotion. The synthesis mixes time horizons,
 contains denominator conflicts, and appears to include overlapping Pescara
@@ -21,7 +21,12 @@ secondary solid cancer. A current BPOM record now confirms one registered
 intravenous busulfan conditioning product and an Indonesian importer and
 repacker. This narrows a product-level regulatory identity gap but does not
 establish a thalassemia indication, hospital availability, monitoring capacity,
-affordability, or route delivery. A new 119-person pre-HSCT TDT fertility
+affordability, or route delivery. A primary APBMT conference report now confirms
+two pediatric matched-sibling beta-thalassemia major transplants at one Jakarta
+center. Both reached 100% donor chimerism at day 28 and both developed
+veno-occlusive disease. The two selected cases establish local execution, not
+transfusion independence, durability, routine availability, scale, safety, or
+affordability. A new 119-person pre-HSCT TDT fertility
 cohort tightens the baseline and follow-up requirement without adding
 post-transplant fertility outcomes. EBMT GRADE guidance supplies the
 independent protocol source needed to resolve conditioning implementation, but
@@ -53,6 +58,71 @@ blocked.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 2 Indonesia Pediatric HSCT Execution Decision
+
+**Question:** Do the Jakarta two-case report, current center page, and hospital
+cost range close enough of the Indonesia delivery gap to promote
+matched-sibling HSCT beyond a benchmark-only route?
+
+**Decision:**
+`promote_tzu_chi_pediatric_msd_hsct_to_indonesia_execution_benchmark_only`.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark
+only.
+
+- **Fact - mechanism and scope:** APBMT abstract `A-198` reports two pediatric
+  beta-thalassemia major cases treated with allogeneic HSCT at Tzu Chi Hospital
+  Jakarta. Both donors were HLA-matched brothers. The report does not state
+  `HBB` genotype or current TDT classification.
+- **Fact - regimen and endpoint:** The report states `Bu4Cy2+ATG` for one case
+  and `Bu4Cy4+ATG` for the other. Neutrophil engraftment occurred on days 11
+  and 12, platelet engraftment on days 43 and 25, and both had 100% donor
+  chimerism at day 28. These regimen strings are reported evidence, not a
+  protocol recommendation.
+- **Safety risk:** Both cases developed veno-occlusive disease despite
+  ursodeoxycholic-acid prophylaxis and received defibrotide plus
+  low-molecular-weight heparin. Two events among two selected cases are a
+  center-level safety signal, not a stable incidence estimate.
+- **Evidence tier:** Primary two-case conference report with no comparator,
+  complete attempted denominator, or reported transfusion-independence,
+  mortality, graft-failure, infection, GVHD, fertility, endocrine, organ,
+  quality-of-life, or cost outcome beyond the short engraftment window.
+- **Resolved source overlap:** The 2023 APBMT abstract describes the first case
+  during pre-HSCT screening. The 2024 report includes two transplanted cases.
+  These are sequential reports with at least one overlapping case, not three
+  independent transplants.
+- **Fact - current facility signal:** The hospital's current facility page
+  lists a pediatric blood-stem-cell transplant unit with trained specialist
+  staff, apheresis equipment, sterile recovery rooms, and diagnostic support.
+  It does not publish current case volume or outcomes.
+- **Affordability and access:** A September 2025 hospital article gives a
+  general Indonesian HSCT estimate of Rp800 million to Rp2 billion. It is not
+  itemized, thalassemia-specific, a center quote, or a payer decision. It is not
+  directly comparable with the 2026 LMIC cohort's USD 8,000-10,000 mean because
+  setting, included services, and follow-up differ or are unstated.
+- **Hypothesis:** A governed Indonesian pediatric matched-sibling HSCT program
+  can reproduce durable transfusion independence with acceptable toxicity only
+  if the complete attempted denominator, pharmacokinetic monitoring, long-term
+  outcomes, and delivered cost are measured prospectively.
+- **Interpretation:** Local execution is now established at two-case resolution.
+  The two VOD events and missing denominator, durability, capacity, and cost
+  evidence block route promotion.
+- **Open question:** Since the first 2023 case, how many children have been
+  screened, conditioned, transplanted, engrafted, and followed, and what are
+  their complete one-, two-, and five-year outcomes and costs?
+- **Falsification criterion:** Remove the execution benchmark if the center
+  cannot confirm an ongoing governed service or complete attempted denominator.
+  Remove the leading affordable-route label if modern follow-up shows
+  unacceptable death, graft failure, VOD, infection, GVHD, endocrine or
+  fertility harm, loss of transfusion independence, or itemized Indonesia cost
+  above the program threshold.
+- **Next decisive action:** A transplant-program owner should produce one
+  public-safe center dataset with screened, conditioned, transplanted, and
+  followed denominators; phenotype, genotype, donor and regimen scope;
+  busulfan pharmacokinetic monitoring; engraftment, transfusion, survival,
+  VOD, infection, GVHD, organ, endocrine, and fertility outcomes; and follow-up
+  dates. A health-economics owner should reconcile it with an itemized hospital
+  and payer cost model. No patient routing follows.
 
 ## August 2 BPOM BUSULFEX Conditioning-Input Decision
 
@@ -917,7 +987,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The current BPOM record narrows one conditioning-product regulatory identity gap, but not the thalassemia indication, institutional availability, monitoring, safety, capacity, or cost gaps. TTF adds a matched-family conditioning benchmark, but not a pure matched-sibling estimate. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The Jakarta report establishes two-case local execution, but both cases developed VOD and no complete denominator, transfusion-independence, long-term outcome, or itemized cost is reported. The current BPOM record narrows one conditioning-product regulatory identity gap, but not the thalassemia indication, institutional availability, monitoring, safety, capacity, or cost gaps. TTF adds a matched-family conditioning benchmark, but not a pure matched-sibling estimate. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
@@ -973,6 +1043,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [APBMT 2024 abstract book, abstract A-198](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2024.pdf)
+- [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
+- [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)
+- [Tzu Chi Hospital HSCT cost article](https://tzuchihospital.co.id/article/transpalantasi-sumsum-tulang)
 - [TTF pediatric TDT cohort, PMID 42467967](https://pubmed.ncbi.nlm.nih.gov/42467967/)
 - [TTF cohort DOI 10.1097/MPH.0000000000003246](https://doi.org/10.1097/MPH.0000000000003246)
 - [IBD and beta-thalassemia major case report, PMID 42534224](https://pubmed.ncbi.nlm.nih.gov/42534224/)

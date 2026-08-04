@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-02
+Last evidence update: 2026-08-04
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -26,7 +26,12 @@ two pediatric matched-sibling beta-thalassemia major transplants at one Jakarta
 center. Both reached 100% donor chimerism at day 28 and both developed
 veno-occlusive disease. The two selected cases establish local execution, not
 transfusion independence, durability, routine availability, scale, safety, or
-affordability. A new 119-person pre-HSCT TDT fertility
+affordability. A June 2026 Ministry of Health field verification at RSUP Dr.
+Kariadi adds a government-hospital capacity-development signal. The verification
+covered staffing, infrastructure, governance, and quality systems as part of a
+licensing assessment, but the public source gives no decision, license identifier,
+thalassemia-specific scope, outcome denominator, or cost. A new 119-person
+pre-HSCT TDT fertility
 cohort tightens the baseline and follow-up requirement without adding
 post-transplant fertility outcomes. EBMT GRADE guidance supplies the
 independent protocol source needed to resolve conditioning implementation, but
@@ -58,6 +63,68 @@ blocked.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 4 RSUP Dr. Kariadi HSCT Capacity Decision
+
+**Question:** Does the Ministry of Health field verification at RSUP Dr. Kariadi
+establish a government-channel thalassemia HSCT route strongly enough to promote
+matched-sibling HSCT beyond `benchmark_only`?
+
+**Decision:**
+`promote_kariadi_to_government_hsct_capacity_development_benchmark_only`.
+Matched-sibling HSCT remains the leading affordable-curative route benchmark
+only.
+
+- **Fact - licensing step:** A Ministry of Health article dated 2026-06-18 says
+  a national verification team, the National Transplant Committee, and local
+  health authorities conducted an on-site conformity assessment for RSUP Dr.
+  Kariadi's bone-marrow-transplant service license. The assessment covered human
+  resources, infrastructure, service governance, and quality assurance.
+- **Fact - current facility listing:** The current Ministry of Health SIRS
+  profile for facility `3374010` lists bone marrow transplantation and cell or
+  stem-cell therapy among the hospital's services, with pediatric and adult
+  hematology-oncology capacity. This is a public facility listing, not a
+  thalassemia program or outcome dataset.
+- **Resolved source tension:** Ministry pages from 2023 and 2025 describe an
+  existing transplant team and bone marrow transplantation for hematologic
+  malignancies, while the 2026 article describes a licensing conformity
+  assessment. The sources do not state whether the later assessment is a new
+  license, renewal, scope expansion, or other administrative step. Do not infer
+  a completed authorization from the verification event.
+- **Evidence tier:** Current official government facility and licensing-process
+  evidence. No public license identifier, decision, effective date,
+  thalassemia-specific authorization, case denominator, transplant protocol,
+  outcome, safety, or cost was found.
+- **Hypothesis:** A government referral hospital can become a second governed
+  Indonesia matched-sibling HSCT execution site only if its authorization scope,
+  thalassemia protocol, complete attempted denominator, long-term outcomes, and
+  delivered cost are independently documented.
+- **Interpretation:** The evidence narrows the Indonesia capacity gap from one
+  private pediatric execution signal to an additional government capacity-
+  development signal. It does not establish thalassemia execution, routine
+  access, safety, affordability, payer coverage, or transfusion independence.
+- **Confidence:** High that the field verification occurred and that current
+  SIRS data list bone marrow transplantation. Low that these records establish a
+  completed license or a thalassemia service.
+- **Open question:** What formal decision followed the June 2026 assessment, and
+  does its scope include governed pediatric or adult allogeneic HSCT for
+  thalassemia?
+- **Affordability and access:** The official sources provide no thalassemia case
+  volume, waiting time, itemized price, BPJS decision, complication cost, or
+  follow-up cost. A government-hospital signal is not a payer or affordability
+  result.
+- **Falsification criterion:** Remove the capacity-development benchmark if the
+  formal decision denies or defers authorization, or if the center cannot
+  document the required service scope and quality system. Do not promote it to
+  an execution benchmark without a complete thalassemia denominator and
+  outcomes. Do not promote the route beyond `benchmark_only` without acceptable
+  long-term safety, durable transfusion independence, and itemized delivered
+  cost.
+- **Next decisive action:** A regulatory owner should obtain the public-safe
+  license decision, identifier, effective date, and scope. A transplant-program
+  and health-economics owner should then obtain thalassemia-specific screened,
+  conditioned, transplanted, and followed denominators, safety and durability
+  outcomes, and itemized payer-relevant cost. No patient routing follows.
 
 ## August 2 Indonesia Pediatric HSCT Execution Decision
 

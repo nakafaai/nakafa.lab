@@ -26,11 +26,13 @@ two pediatric matched-sibling beta-thalassemia major transplants at one Jakarta
 center. Both reached 100% donor chimerism at day 28 and both developed
 veno-occlusive disease. The two selected cases establish local execution, not
 transfusion independence, durability, routine availability, scale, safety, or
-affordability. A June 2026 Ministry of Health field verification at RSUP Dr.
-Kariadi adds a government-hospital capacity-development signal. The verification
-covered staffing, infrastructure, governance, and quality systems as part of a
-licensing assessment, but the public source gives no decision, license identifier,
-thalassemia-specific scope, outcome denominator, or cost. A new 119-person
+affordability. Two 2026 primary studies move RSUP Dr. Kariadi beyond a capacity
+signal by documenting 45 adult malignant-disease HSCT procedures from 2013-2023
+and three allogeneic acute-leukemia donor-recipient pairs from 2023-2024. The
+cost study maps transplant phases but contains two incompatible calculation
+sets, so Kariadi is an execution-and-cost-audit benchmark, not a thalassemia,
+safety, affordability, or payer result. A June 2026 licensing assessment still
+has no public decision identifier or thalassemia-specific scope. A new 119-person
 pre-HSCT TDT fertility
 cohort tightens the baseline and follow-up requirement without adding
 post-transplant fertility outcomes. EBMT GRADE guidance supplies the
@@ -64,67 +66,72 @@ Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
 
-## August 4 RSUP Dr. Kariadi HSCT Capacity Decision
+## August 4 RSUP Dr. Kariadi HSCT Execution And Cost Decision
 
-**Question:** Does the Ministry of Health field verification at RSUP Dr. Kariadi
-establish a government-channel thalassemia HSCT route strongly enough to promote
-matched-sibling HSCT beyond `benchmark_only`?
+**Question:** Do two 2026 primary studies resolve the morning capacity-only
+classification strongly enough to promote RSUP Dr. Kariadi as an Indonesia HSCT
+execution and cost benchmark?
 
 **Decision:**
-`promote_kariadi_to_government_hsct_capacity_development_benchmark_only`.
+`promote_kariadi_to_adult_malignancy_hsct_execution_and_cost_audit_benchmark_only`.
 Matched-sibling HSCT remains the leading affordable-curative route benchmark
 only.
 
-- **Fact - licensing step:** A Ministry of Health article dated 2026-06-18 says
-  a national verification team, the National Transplant Committee, and local
-  health authorities conducted an on-site conformity assessment for RSUP Dr.
-  Kariadi's bone-marrow-transplant service license. The assessment covered human
-  resources, infrastructure, service governance, and quality assurance.
-- **Fact - current facility listing:** The current Ministry of Health SIRS
-  profile for facility `3374010` lists bone marrow transplantation and cell or
-  stem-cell therapy among the hospital's services, with pediatric and adult
-  hematology-oncology capacity. This is a public facility listing, not a
-  thalassemia program or outcome dataset.
-- **Resolved source tension:** Ministry pages from 2023 and 2025 describe an
-  existing transplant team and bone marrow transplantation for hematologic
-  malignancies, while the 2026 article describes a licensing conformity
-  assessment. The sources do not state whether the later assessment is a new
-  license, renewal, scope expansion, or other administrative step. Do not infer
-  a completed authorization from the verification event.
-- **Evidence tier:** Current official government facility and licensing-process
-  evidence. No public license identifier, decision, effective date,
-  thalassemia-specific authorization, case denominator, transplant protocol,
-  outcome, safety, or cost was found.
-- **Hypothesis:** A government referral hospital can become a second governed
-  Indonesia matched-sibling HSCT execution site only if its authorization scope,
-  thalassemia protocol, complete attempted denominator, long-term outcomes, and
+- **Fact - execution denominator:** Primary cross-sectional study PMID
+  `42052597` reports 45 adults with malignant diseases who underwent HSCT at
+  Kariadi from 2013 through 2023: 38 autologous and 7 allogeneic procedures. The
+  diagnoses were multiple myeloma, AML, Hodgkin lymphoma, non-Hodgkin lymphoma,
+  ALL, and mixed-phenotype acute leukemia.
+- **Fact - endpoint and design:** PMID `42052597` reports mean neutrophil
+  engraftment at 14.29 days and mean platelet engraftment at 13.53 days. The
+  study selected complete records from one center and did not report a complete
+  attempted denominator, survival, relapse, or long-term safety.
+- **Fact - cost evidence:** Primary mixed-method study PMID `42345166` uses
+  retrospective activity-based cost data for three acute-leukemia
+  donor-recipient pairs who underwent allogeneic HSCT at Kariadi in 2023-2024.
+  Donors were related or haploidentical family members. The endpoint was unit
+  cost, not clinical efficacy or safety.
+- **Mechanism and genotype or phenotype scope:** The studies cover autologous
+  and allogeneic HSCT for adult malignancies. The cost paper describes
+  conditioning plus graft-versus-leukemia activity. Neither study includes
+  thalassemia, an `HBB` genotype, TDT or NTDT classification, donor erythropoiesis,
+  or transfusion independence.
+- **Resolved source tension:** The cohorts establish that Kariadi performed HSCT
+  before the June 2026 licensing assessment. They do not identify whether the
+  later assessment concerned a new license, renewal, scope expansion, or another
+  administrative step. Historical execution is not current authorization.
+- **Unresolved numeric conflict:** The cost paper's abstract and narrative report
+  Rp377,978,399 per case, split into Rp297,063,048 for the recipient and
+  Rp80,915,351 for the donor. Table 1 instead totals Rp439,598,636, split into
+  Rp389,880,946 and Rp49,717,690. Its phase components and tariff cost-recovery
+  ratios also conflict between the abstract, narrative, and tables. Neither set
+  may be selected without a correction.
+- **Evidence tier and safety risk:** This is retrospective, single-center clinical
+  and costing evidence. No complete mortality, graft-failure, VOD, infection,
+  GVHD, endocrine, fertility, organ, or long-term denominator was reported.
+  Technical execution does not establish acceptable safety.
+- **Hypothesis:** Kariadi could support a government thalassemia HSCT route only
+  if current authorization, a thalassemia protocol, complete
+  screened-through-followed denominators, long-term outcomes, and reproducible
   delivered cost are independently documented.
-- **Interpretation:** The evidence narrows the Indonesia capacity gap from one
-  private pediatric execution signal to an additional government capacity-
-  development signal. It does not establish thalassemia execution, routine
-  access, safety, affordability, payer coverage, or transfusion independence.
-- **Confidence:** High that the field verification occurred and that current
-  SIRS data list bone marrow transplantation. Low that these records establish a
-  completed license or a thalassemia service.
-- **Open question:** What formal decision followed the June 2026 assessment, and
-  does its scope include governed pediatric or adult allogeneic HSCT for
-  thalassemia?
-- **Affordability and access:** The official sources provide no thalassemia case
-  volume, waiting time, itemized price, BPJS decision, complication cost, or
-  follow-up cost. A government-hospital signal is not a payer or affordability
-  result.
-- **Falsification criterion:** Remove the capacity-development benchmark if the
-  formal decision denies or defers authorization, or if the center cannot
-  document the required service scope and quality system. Do not promote it to
-  an execution benchmark without a complete thalassemia denominator and
-  outcomes. Do not promote the route beyond `benchmark_only` without acceptable
-  long-term safety, durable transfusion independence, and itemized delivered
-  cost.
-- **Next decisive action:** A regulatory owner should obtain the public-safe
-  license decision, identifier, effective date, and scope. A transplant-program
-  and health-economics owner should then obtain thalassemia-specific screened,
-  conditioned, transplanted, and followed denominators, safety and durability
-  outcomes, and itemized payer-relevant cost. No patient routing follows.
+- **Interpretation:** The lane moves from capacity-only to adult malignancy
+  execution plus cost audit. It does not establish thalassemia execution,
+  durable transfusion independence, routine access, affordability, payer
+  coverage, or suitability.
+- **Affordability and access:** The cost study is more informative than a generic
+  price range, but its arithmetic conflict blocks use as an affordability
+  estimate, hospital quote, or payer amount. Its statement that HSCT was outside
+  national insurance coverage is study context, not a current BPJS decision.
+- **Falsification criterion:** Remove the execution benchmark if the center-level
+  procedure and transplant-type denominators cannot be reproduced. Keep the cost
+  lane audit-only until a correction reconciles phase totals, formulas,
+  inclusions, currency year, and payer scope. Do not promote the thalassemia
+  route without durable transfusion independence, acceptable long-term safety,
+  and reproducible delivered cost in the relevant population.
+- **Next decisive action:** The health-economics owner should ask the authors and
+  journal for a correction plus the de-identified activity-based costing
+  workbook that reconciles the abstract, narrative, and tables. No patient
+  routing follows.
 
 ## August 2 Indonesia Pediatric HSCT Execution Decision
 
@@ -1114,6 +1121,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
 - [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)
 - [Tzu Chi Hospital HSCT cost article](https://tzuchihospital.co.id/article/transpalantasi-sumsum-tulang)
+- [Kariadi adult HSCT cohort, PMID 42052597](https://pubmed.ncbi.nlm.nih.gov/42052597/)
+- [Kariadi adult HSCT cohort full text, PMCID PMC13112098](https://pmc.ncbi.nlm.nih.gov/articles/PMC13112098/)
+- [Kariadi allogeneic HSCT unit-cost study, PMID 42345166](https://pubmed.ncbi.nlm.nih.gov/42345166/)
+- [Kariadi allogeneic HSCT unit-cost study full text, DOI 10.31557/APJCP.2026.27.6.2183](https://journal.waocp.org/article_92240_77debc9614f52edc17165ad00a4137a7.pdf)
 - [TTF pediatric TDT cohort, PMID 42467967](https://pubmed.ncbi.nlm.nih.gov/42467967/)
 - [TTF cohort DOI 10.1097/MPH.0000000000003246](https://doi.org/10.1097/MPH.0000000000003246)
 - [IBD and beta-thalassemia major case report, PMID 42534224](https://pubmed.ncbi.nlm.nih.gov/42534224/)

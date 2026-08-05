@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-04
+Last evidence update: 2026-08-05
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -62,9 +62,77 @@ incompatible safety denominators, adverse-event underreporting, thrombosis,
 regulator-label hazards, and missing delivered cost keep therapeutic promotion
 blocked.
 
+An August 4 bioRxiv preprint adds a practical patient-derived CD34-positive
+HSPC material-source benchmark. Small volumes of clinical apheresis product
+waste yielded a median 4.71 million cells, and recovered cells engrafted NBSGW
+mice. The indexed abstract does not report a beta-thalassemia donor denominator,
+erythroid or globin endpoints, processing cost, or Indonesia access. The route
+therefore enters the assay plan as `preclinical_material_source_benchmark_only`;
+it does not change any therapeutic or curative-route ranking.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 5 Apheresis-Waste CD34-Positive HSPC Source Decision
+
+**Question:** Does the new apheresis-waste preprint close the patient-derived
+cell-source gap enough to promote this route into Nakafa Lab's affordable HbF
+and globin-chain-balance assay plan?
+
+**Decision:**
+`promote_apheresis_waste_cd34_hspcs_to_preclinical_material_source_benchmark_only`.
+All therapeutic and curative-route rankings remain unchanged.
+
+- **Fact - source and design:** BioRxiv version 1, DOI
+  `10.64898/2026.08.02.742313`, reports 14 months of recovery, purification,
+  and banking from clinical apheresis product waste and mobilized peripheral
+  blood that would otherwise be discarded after clinical procedures.
+  Immunomagnetic selection was adapted for hemoglobinopathy specimens, and a
+  separate microfluidic pilot was evaluated.
+- **Fact - yield and function:** Apheresis product waste yielded a median 4.71
+  million CD34-positive cells from 1-2 mL, compared with 6.0 million cells from
+  10-40 times more peripheral-blood waste, with similar reported purity across
+  sources and diagnoses. Avoiding density-gradient steps approximately halved
+  processing time. Recovered cells engrafted NBSGW mice.
+- **Fact - pilot scope:** The microfluidic pilot covered two patients and 11
+  specimens, recovering 2.17 million CD34-positive cells per specimen at more
+  than 90% viability and purity. These values describe the pilot, not a
+  validated program-wide release threshold.
+- **Evidence tier:** This is a version 1, non-peer-reviewed preprint. The
+  indexed abstract does not report how many donors had beta-thalassemia,
+  genotype or phenotype, paired donor-level results, erythroid differentiation,
+  HbF, F-cells, total hemoglobin, globin-chain balance, free alpha-globin,
+  hemolysis, long-term engraftment, processing cost, or Indonesia delivery.
+- **Hypothesis:** A qualified center with existing apheresis infrastructure,
+  compatible consent, ethics approval, and research-only chain of custody can
+  convert otherwise discarded beta-thalassemia product waste into a lower-cost,
+  multi-donor primary-cell model for the Nakafa assay funnel.
+- **Interpretation:** The preprint resolves enough of the practical material
+  source gap to define a reproduction benchmark. It does not demonstrate a
+  therapy, a cure, transfusion independence, affordability, patient access, or
+  clinical suitability.
+- **Affordability and access:** Waste recovery, smaller input volume, and shorter
+  processing are operational signals only. No consumable, labor, storage,
+  quality-control, shipping, failure, or cost-per-qualified-aliquot data are
+  reported. Existing apheresis infrastructure is a prerequisite, and no
+  Indonesia-specific governance or capacity is established.
+- **Open question:** Can the route reproduce usable beta-thalassemia HSPCs from
+  at least three genetically distinct donors while preserving erythroid
+  function and reducing the actual cost per qualified aliquot versus the
+  current material source?
+- **Falsification criterion:** Do not promote beyond the material-source
+  benchmark if beta-thalassemia donor provenance cannot be confirmed, the route
+  cannot reproduce research-grade yield, purity, viability, and erythroid
+  function across at least three donors, the recovered cells materially diverge
+  from the comparator on maturation, globin, or safety endpoints, or the cost
+  per qualified aliquot is not lower.
+- **Next decisive action:** A qualified research center should run a paired
+  feasibility study covering donor provenance, yield, purity, viability,
+  colony formation, erythroid maturation and enucleation, HbF and F-cells,
+  total hemoglobin, globin-chain balance, free alpha-globin, hemolysis, raw-data
+  export, and actual staff, consumable, storage, and failure cost. No patient or
+  sample routing follows.
 
 ## August 4 RSUP Dr. Kariadi HSCT Execution And Cost Decision
 

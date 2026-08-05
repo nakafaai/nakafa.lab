@@ -1,6 +1,7 @@
 # Assay Plan: Lab Partner Requirements
 
 Date checked: 2026-04-27
+Last evidence update: 2026-08-05
 Status: partner-readiness note, not an unsupervised wet-lab protocol
 
 ## Purpose
@@ -22,6 +23,7 @@ erythroid maturation, viability, and mature red-cell safety.
 | Red-cell metabolism or membrane-stress readout | tests pyruvate kinase, ATP, hemolysis, and red-cell-support claims |
 | Alpha-globin burden and autophagy readout | tests whether HbF rescue is paired with free alpha-globin cleanup biology |
 | Batch and identity tracking | keeps natural products and analogs auditable |
+| Donor provenance and research-material chain of custody | keeps patient-derived HSPCs ethically governed, de-identified, and auditable |
 | Basic statistics and raw data export | lets Nakafa Lab compare candidates transparently |
 
 Preferred model order:
@@ -72,6 +74,35 @@ Ask a potential lab partner:
 Indonesian candidate settings are mapped in
 [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md).
 
+## Apheresis-Waste Material-Source Benchmark
+
+BioRxiv version 1, DOI `10.64898/2026.08.02.742313`, supports testing whether
+otherwise discarded clinical apheresis product can become a practical source of
+patient-derived CD34-positive HSPCs. It is a material-source benchmark, not a
+therapy, cure, or sample-routing instruction.
+
+A qualified partner should compare recovered material with its current source
+and report:
+
+- beta-thalassemia donor count, genotype or phenotype, and de-identified
+  provenance;
+- compatible consent, ethics approval, biosafety review, and research-only
+  chain of custody;
+- input volume, recovered-cell yield, purity, viability, colony formation, and
+  failed-run denominator;
+- erythroid differentiation, maturation, enucleation, HbF, F-cells, total
+  hemoglobin, globin-chain balance, free alpha-globin, and hemolysis;
+- staff time, consumables, storage, quality control, and cost per qualified
+  aliquot; and
+- raw data plus the paired comparator definition.
+
+Keep the route at `preclinical_material_source_benchmark_only`. Stop the route
+if beta-thalassemia provenance cannot be confirmed, material quality or
+erythroid function is not reproducible across at least three genetically
+distinct donors, recovered cells materially underperform the comparator on
+globin or safety endpoints, or measured cost per qualified aliquot is not
+lower.
+
 ## Stop Conditions
 
 Stop a candidate before escalation if:
@@ -82,6 +113,11 @@ Stop a candidate before escalation if:
 - mature red-cell hemolysis increases;
 - immune, allergy, liver, kidney, or interaction risk is not reviewable;
 - no qualified clinician or lab partner can audit the result.
+- patient-derived material lacks compatible consent, ethics approval,
+  de-identification, biosafety review, or chain of custody;
+- beta-thalassemia donor material cannot reproduce acceptable cell quality and
+  erythroid function against the partner's current source; or
+- the measured cost per qualified aliquot is not lower than the current source.
 
 ## Linked Evidence
 

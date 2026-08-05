@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-04
+Last evidence update: 2026-08-05
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -39,6 +39,7 @@ answers:
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
+| Apheresis-waste CD34-positive HSPC source | `preclinical_material_source_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its indexed abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. It supports a paired material-source reproduction, not a therapy or cure ranking. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | GATAD2A-CHD4 interface within `MBD2-NuRD` | `preclinical_hbf_probe_benchmark_only` | A structure-defined interaction now has genetic and lentiviral peptide HbF evidence in HUDEP-2 and primary adult erythroid cells. No cell-active therapeutic molecule, beta-thalassemia donor-cell result, long-term safety, delivery, manufacturing, cost, or access path supports further promotion. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
@@ -84,6 +85,57 @@ F-cell, beta-thalassemia donor-cell, and short mouse evidence. It remains
 outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
+
+The August 2026 apheresis-waste preprint narrows a different blocker: access to
+patient-derived CD34-positive HSPCs for preclinical validation. It promotes a
+material-source reproduction only. The route must still establish
+beta-thalassemia donor provenance, erythroid and globin function, safety,
+research governance, and a lower cost per qualified aliquot before it can
+improve the assay-access ranking.
+
+## August 5 Apheresis-Waste CD34-Positive HSPC Source Decision
+
+**Question:** Does the new apheresis-waste preprint close the patient-derived
+cell-source gap enough to promote this route into the affordable HbF and
+globin-chain-balance assay plan?
+
+**Decision:**
+`promote_apheresis_waste_cd34_hspcs_to_preclinical_material_source_benchmark_only`.
+
+This decision changes the preclinical material-source lane only. It does not
+promote a therapeutic candidate or alter the current curative-route ranking.
+
+- **Fact:** BioRxiv version 1, DOI `10.64898/2026.08.02.742313`, reports a
+  median 4.71 million CD34-positive cells recovered from 1-2 mL of clinical
+  apheresis product waste. The reported yield was comparable with 6.0 million
+  cells from 10-40 times more peripheral-blood waste, with similar purity and
+  approximately half the processing time because density-gradient steps were
+  avoided. Recovered cells engrafted NBSGW mice.
+- **Evidence boundary:** The separate microfluidic pilot included two patients
+  and 11 specimens and reported more than 90% viability and purity. The indexed
+  abstract does not give a beta-thalassemia donor denominator, genotype,
+  phenotype, erythroid or globin outcome, processing cost, or Indonesia route.
+- **Hypothesis:** Research-only recovery from otherwise discarded
+  beta-thalassemia apheresis product can provide a lower-cost multi-donor
+  primary-cell model if provenance, ethics, chain of custody, function, and
+  actual cost are independently reproduced.
+- **Interpretation:** Concentrated waste material and shorter processing are
+  credible feasibility signals, not evidence of affordability, access,
+  therapeutic manufacture, or clinical benefit.
+- **Open question:** Across at least three genetically distinct
+  beta-thalassemia donors, does the route preserve colony formation, erythroid
+  maturation, enucleation, HbF, F-cells, total hemoglobin, globin-chain balance,
+  free alpha-globin, viability, and hemolysis relative to the current source?
+- **Falsification criterion:** Keep or remove the benchmark based on confirmed
+  beta-thalassemia provenance and reproducible material quality. Do not promote
+  it if recovered cells materially underperform the comparator on erythroid,
+  globin, or safety endpoints, or if the measured cost per qualified aliquot is
+  not lower.
+- **Next decisive owner action:** A qualified center with existing apheresis
+  infrastructure should price and execute one paired research-material
+  feasibility study with compatible consent, ethics approval, de-identification,
+  biosafety review, chain of custody, raw-data export, and no patient or sample
+  routing by Nakafa Lab.
 
 ## August 4 RSUP Dr. Kariadi HSCT Execution And Cost Decision
 

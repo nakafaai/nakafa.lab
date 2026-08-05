@@ -39,7 +39,7 @@ answers:
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
-| Apheresis-waste CD34-positive HSPC source | `preclinical_material_source_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its indexed abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. It supports a paired material-source reproduction, not a therapy or cure ranking. |
+| Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | GATAD2A-CHD4 interface within `MBD2-NuRD` | `preclinical_hbf_probe_benchmark_only` | A structure-defined interaction now has genetic and lentiviral peptide HbF evidence in HUDEP-2 and primary adult erythroid cells. No cell-active therapeutic molecule, beta-thalassemia donor-cell result, long-term safety, delivery, manufacturing, cost, or access path supports further promotion. |
 | Epigenetic HbF / `DNMT1` | Decitabine `blocked`; DMT207 `partial_hbf_reproduction_only` | DMT207 adds disease-cell and short mouse evidence but lacks a qualified material route, diverse-genotype replication, long-term safety, practical delivery, cost, total-hemoglobin, or transfusion evidence. |
@@ -86,24 +86,26 @@ outside the first quote panel until a qualified material-identity and cost
 packet exists, and it cannot move beyond preclinical reproduction without
 long-term safety plus total-hemoglobin or transfusion evidence.
 
-The August 2026 apheresis-waste preprint narrows a different blocker: access to
-patient-derived CD34-positive HSPCs for preclinical validation. It promotes a
-material-source reproduction only. The route must still establish
-beta-thalassemia donor provenance, erythroid and globin function, safety,
-research governance, and a lower cost per qualified aliquot before it can
-improve the assay-access ranking.
+The August 2026 apheresis-waste preprint narrows a different blocker: recovery
+of patient-derived CD34-positive HSPCs for preclinical validation. It does not
+yet close the beta-thalassemia material-source gap because the verified abstract
+does not provide a diagnosis-specific donor denominator. The route must first
+establish beta-thalassemia donor provenance, then erythroid and globin function,
+safety, research governance, and a lower cost per qualified aliquot before it
+can improve the assay-access ranking.
 
-## August 5 Apheresis-Waste CD34-Positive HSPC Source Decision
+## August 5 Apheresis-Waste CD34-Positive HSPC Recovery Decision
 
-**Question:** Does the new apheresis-waste preprint close the patient-derived
-cell-source gap enough to promote this route into the affordable HbF and
-globin-chain-balance assay plan?
+**Question:** Does the verified apheresis-waste preprint record close the
+beta-thalassemia cell-source gap enough to enter the current affordable HbF and
+globin-chain-balance quote?
 
 **Decision:**
-`promote_apheresis_waste_cd34_hspcs_to_preclinical_material_source_benchmark_only`.
+`hold_apheresis_waste_cd34_hspcs_at_preclinical_hemoglobinopathy_material_recovery_benchmark_only`.
 
-This decision changes the preclinical material-source lane only. It does not
-promote a therapeutic candidate or alter the current curative-route ranking.
+This replaces the morning promotion label after a source-depth audit. It keeps
+the lead outside the current quote, does not promote a therapeutic candidate,
+and does not alter the current curative-route ranking.
 
 - **Fact:** BioRxiv version 1, DOI `10.64898/2026.08.02.742313`, reports a
   median 4.71 million CD34-positive cells recovered from 1-2 mL of clinical
@@ -111,31 +113,42 @@ promote a therapeutic candidate or alter the current curative-route ranking.
   cells from 10-40 times more peripheral-blood waste, with similar purity and
   approximately half the processing time because density-gradient steps were
   avoided. Recovered cells engrafted NBSGW mice.
-- **Evidence boundary:** The separate microfluidic pilot included two patients
-  and 11 specimens and reported more than 90% viability and purity. The indexed
-  abstract does not give a beta-thalassemia donor denominator, genotype,
-  phenotype, erythroid or globin outcome, processing cost, or Indonesia route.
+- **Evidence boundary:** The abstract frames the work around sickle cell
+  disease and beta-thalassemia but does not report total patients, independent
+  donors, diagnosis-specific counts, a beta-thalassemia donor denominator,
+  genotype, phenotype, repeated-specimen structure, erythroid or globin
+  outcomes, processing cost, or an Indonesia route. The separate microfluidic
+  pilot included two patients and 11 specimens and reported more than 90%
+  viability and purity.
+- **Conflict:** The title and conclusion frame a beta-hemoglobinopathy biobank,
+  but "similar across diagnoses" cannot verify a beta-thalassemia material
+  source. The official page and API available to this audit exposed no
+  source-linked donor manifest, full results table, supplement, or donor-level
+  dataset. The article page lists two funders while the API `funder` field is
+  `NA`; the article page declares no competing interest.
 - **Hypothesis:** Research-only recovery from otherwise discarded
   beta-thalassemia apheresis product can provide a lower-cost multi-donor
   primary-cell model if provenance, ethics, chain of custody, function, and
   actual cost are independently reproduced.
 - **Interpretation:** Concentrated waste material and shorter processing are
-  credible feasibility signals, not evidence of affordability, access,
+  credible hemoglobinopathy recovery signals. They do not verify a
+  beta-thalassemia source and are not evidence of affordability, access,
   therapeutic manufacture, or clinical benefit.
 - **Open question:** Across at least three genetically distinct
   beta-thalassemia donors, does the route preserve colony formation, erythroid
   maturation, enucleation, HbF, F-cells, total hemoglobin, globin-chain balance,
   free alpha-globin, viability, and hemolysis relative to the current source?
-- **Falsification criterion:** Keep or remove the benchmark based on confirmed
-  beta-thalassemia provenance and reproducible material quality. Do not promote
-  it if recovered cells materially underperform the comparator on erythroid,
-  globin, or safety endpoints, or if the measured cost per qualified aliquot is
-  not lower.
-- **Next decisive owner action:** A qualified center with existing apheresis
-  infrastructure should price and execute one paired research-material
-  feasibility study with compatible consent, ethics approval, de-identification,
-  biosafety review, chain of custody, raw-data export, and no patient or sample
-  routing by Nakafa Lab.
+- **Falsification criterion:** Do not enter a quote or experiment if
+  beta-thalassemia provenance and the independent-patient and specimen
+  denominators cannot be confirmed. Remove or deprioritize the benchmark if
+  recovered cells materially underperform the comparator on erythroid, globin,
+  or safety endpoints, or if measured cost per qualified aliquot is not lower.
+- **Next decisive owner action:** The research evidence owner should obtain a
+  source-linked full manuscript or supplement, a de-identified diagnosis and
+  donor manifest, independent-patient and specimen denominators, and
+  diagnosis-stratified results. Only after beta-thalassemia material is verified
+  should a lab-operations owner price a paired research-material feasibility
+  line. No outreach or sample routing is authorized here.
 
 ## August 4 RSUP Dr. Kariadi HSCT Execution And Cost Decision
 

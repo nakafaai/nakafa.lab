@@ -1,6 +1,6 @@
 # First Quote Request Table
 
-Date checked: 2026-08-01
+Date checked: 2026-08-05
 Status: public-safe preclinical quote draft, not treatment advice and not
 contact permission
 
@@ -18,7 +18,10 @@ Current operational label:
 `case001_first_quote_request_table_ready`
 
 The August 1 evidence correction removes purified resveratrol from the active
-quote. The other quote items and controls are unchanged.
+quote. The August 5 source-depth audit keeps apheresis-waste CD34-positive HSPCs
+outside the quote because the verified abstract does not report a
+beta-thalassemia donor denominator. The active quote items and controls are
+unchanged.
 
 Use the [lab outreach approval gate](2026-06-07-lab-outreach-approval-gate.md)
 before sending or adapting this table for any external contact.
@@ -45,6 +48,7 @@ endpoints.
 | Item | Reason |
 | --- | --- |
 | Purified resveratrol | Human randomized evidence does not provide a decision-useful HbF or transfusion-burden result. The 2026 ferritin abstract supports an NTDT iron-overload comparator only, pending complete registered outcomes. |
+| Apheresis-waste CD34-positive HSPCs | The verified abstract supports hemoglobinopathy material recovery but does not identify a beta-thalassemia donor, independent-donor denominator, erythroid or globin endpoint, or measured cost per qualified aliquot. Hold outside the quote pending a source-linked manuscript or supplement and diagnosis-stratified donor manifest. |
 | Standardized 6-shogaol-rich ginger extract | Extract standardization, marker assay, batch controls, and support-only endpoint wording are not ready enough for first quote. |
 | `T-BDMC`-like curcuminoid analog | Exact structure, procurement identity, and batch control remain unresolved for this quote. |
 

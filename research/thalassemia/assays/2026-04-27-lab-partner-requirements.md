@@ -74,16 +74,19 @@ Ask a potential lab partner:
 Indonesian candidate settings are mapped in
 [Indonesia lab partner candidate map](2026-04-27-indonesia-lab-partner-candidate-map.md).
 
-## Apheresis-Waste Material-Source Benchmark
+## Apheresis-Waste Hemoglobinopathy Material-Recovery Benchmark
 
-BioRxiv version 1, DOI `10.64898/2026.08.02.742313`, supports testing whether
-otherwise discarded clinical apheresis product can become a practical source of
-patient-derived CD34-positive HSPCs. It is a material-source benchmark, not a
-therapy, cure, or sample-routing instruction.
+BioRxiv version 1, DOI `10.64898/2026.08.02.742313`, supports a
+hemoglobinopathy material-recovery benchmark. The verified abstract does not
+identify a beta-thalassemia donor or diagnosis-specific denominator, so it does
+not yet support a beta-thalassemia material-source claim. Keep it outside the
+current quote. It is not a therapy, cure, or sample-routing instruction.
 
 A qualified partner should compare recovered material with its current source
 and report:
 
+- total patient, independent-donor, specimen, and diagnosis-specific counts,
+  including repeated specimens per donor;
 - beta-thalassemia donor count, genotype or phenotype, and de-identified
   provenance;
 - compatible consent, ethics approval, biosafety review, and research-only
@@ -96,12 +99,14 @@ and report:
   aliquot; and
 - raw data plus the paired comparator definition.
 
-Keep the route at `preclinical_material_source_benchmark_only`. Stop the route
-if beta-thalassemia provenance cannot be confirmed, material quality or
-erythroid function is not reproducible across at least three genetically
-distinct donors, recovered cells materially underperform the comparator on
-globin or safety endpoints, or measured cost per qualified aliquot is not
-lower.
+Hold the route at
+`preclinical_hemoglobinopathy_material_recovery_benchmark_only`. Do not add it
+to a quote or experiment until beta-thalassemia provenance and the
+independent-patient and specimen denominators are confirmed. Stop the route if
+material quality or erythroid function is not reproducible across at least
+three genetically distinct donors, recovered cells materially underperform the
+comparator on globin or safety endpoints, or measured cost per qualified
+aliquot is not lower.
 
 ## Stop Conditions
 
@@ -132,3 +137,5 @@ Stop a candidate before escalation if:
 - [HUDEP2 primary validation boundary](../findings/2026-04-27-hudep2-primary-validation-boundary.md)
 - [HbF responder signature V0](../prioritization/2026-04-27-hbf-responder-signature-v0.md)
 - [Pyruvate kinase red-cell metabolism benchmark](../findings/2026-04-27-pyruvate-kinase-red-cell-metabolism-benchmark.md)
+- [Apheresis-waste CD34-positive HSPC preprint](https://doi.org/10.64898/2026.08.02.742313)
+- [Official bioRxiv API record](https://api.biorxiv.org/details/biorxiv/10.64898/2026.08.02.742313)

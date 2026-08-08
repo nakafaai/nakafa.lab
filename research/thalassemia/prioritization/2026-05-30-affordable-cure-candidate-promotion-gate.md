@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-05
+Last evidence update: 2026-08-08
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -38,6 +38,7 @@ answers:
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
+| EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -93,6 +94,71 @@ does not provide a diagnosis-specific donor denominator. The route must first
 establish beta-thalassemia donor provenance, then erythroid and globin function,
 safety, research governance, and a lower cost per qualified aliquot before it
 can improve the assay-access ranking.
+
+The August 2026 reni-cel correction resolves a source-level contradiction in an
+existing clinical editing benchmark. The corrected record supports day-42
+neutrophil engraftment, not day-42 neutrophil and platelet engraftment, and
+restores the actual common grade 3 or 4 adverse-event denominators. This keeps
+the efficacy signal usable for comparison while strengthening the safety and
+durability hold.
+
+## August 8 Reni-cel Correction Decision
+
+**Question:** Does the formal correction to the nine-person reni-cel report
+support promotion beyond an early clinical HBG-promoter-editing benchmark?
+
+**Decision:**
+`hold_reni_cel_at_corrected_early_clinical_hbg_promoter_editing_benchmark_only`.
+
+- **Fact:** The [primary phase 1-2 report](https://doi.org/10.1056/NEJMoa2501277)
+  covers nine adults with TDT across beta-zero/beta-zero, beta-plus/beta-plus,
+  beta-zero/beta-plus, and HbE/beta-zero genotypes. It used autologous
+  AsCas12a-edited CD34-positive HSPCs to disrupt BCL11A binding sites in the
+  `HBG1` and `HBG2` promoters after myeloablative busulfan conditioning.
+- **Fact:** The [formal correction](https://doi.org/10.1056/NEJMx260013)
+  limits the day-42 claim to neutrophil engraftment. Table 1 reports platelet
+  engraftment from day 23 through day 49.
+- **Fact:** The correction replaces incorrect narrative rates with decreased
+  platelet count in 5 of 9 participants across 13 events, decreased neutrophil
+  count in 5 of 9 across 12 events, and stomatitis in 6 of 9 across 6 events.
+  The report records 69 grade 3 or 4 events and six serious events in four
+  participants.
+- **Evidence tier and phenotype scope:** The sponsor-funded study was
+  multicenter but open-label, single-group, terminated early, and analyzed
+  nonprespecifically. All nine were transfusion-free at their last observed
+  visit, but only six could be evaluated for at least 12 months of transfusion
+  independence. This is adult TDT early clinical evidence, not durable-cure
+  evidence.
+- **Safety risk:** Myeloablative conditioning, cytopenias, stomatitis,
+  infection, pneumonitis, and unresolved late genomic, marrow, malignancy,
+  organ, endocrine, and fertility risks remain route-level constraints. No
+  death or malignancy was reported by the early data cutoff.
+- **Conflict:** The current public
+  [`NCT05444894`](https://clinicaltrials.gov/study/NCT05444894) record remains
+  active, not recruiting, with no posted results, while the paper reports early
+  termination after development was discontinued. The 15-year
+  [`NCT06363760`](https://clinicaltrials.gov/study/NCT06363760) follow-up has no
+  posted results.
+- **Hypothesis:** Corrected long-term follow-up can retain the modality as a
+  mechanism and durability comparator if editing, hematopoiesis, HbF, and
+  transfusion independence remain stable without unacceptable late harm.
+- **Interpretation:** The correction preserves the early efficacy benchmark but
+  materially tightens safety and engraftment traceability. It does not support
+  an active development, clinical route, affordability, access, or safety
+  promotion.
+- **Affordability and access:** No itemized manufacturing cost, scaled
+  commercial manufacturing-failure rate, delivered price, Indonesia
+  authorization, qualified-center capacity, payer coverage, or total follow-up
+  cost is reported. Stopped development blocks a current access-route
+  inference.
+- **Falsification criterion:** Deprioritize even the benchmark if corrected
+  follow-up does not sustain editing, HbF, or transfusion independence, or if
+  death, malignancy, clonal expansion, marrow failure, organ harm, endocrine or
+  fertility harm, or manufacturing failure makes the profile unacceptable.
+- **Next decisive action:** A research evidence owner should reconcile the
+  corrected abstract, Results narrative, Table 1, Table 2, parent registry, and
+  long-term follow-up, then obtain a complete participant-level denominator
+  separating product, busulfan, transplant, and late follow-up harms.
 
 ## August 5 Apheresis-Waste CD34-Positive HSPC Recovery Decision
 

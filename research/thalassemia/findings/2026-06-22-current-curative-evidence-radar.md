@@ -123,13 +123,17 @@ route?
   human donor count, beta-thalassemia diagnosis, genotype, phenotype, or
   diagnosis-stratified result. The study reports no beta-thalassemia anemia,
   ineffective-erythropoiesis, globin-chain-balance, hemolysis, red-cell-lifespan,
-  or transfusion endpoint.
+  or transfusion endpoint. It lists female `HbbTh3/+` beta-thalassemic mice for
+  a separate acute safety experiment, not for the therapeutic HBG experiment.
 - **Safety boundary:** Supplementary Fig. 17 measures indels at a conserved
   intended BCL11A target across organs. It is not an unbiased genome-wide
-  off-target or clonal-integrity analysis. Cytokine sampling ended at 48 hours,
-  and the reported marrow histology ended at one week. These checks do not
-  resolve long-term inflammatory, organ, genomic, clonal, marrow, fertility, or
-  malignancy risk.
+  off-target or clonal-integrity analysis. [Extended Data Fig. 9](https://www.nature.com/articles/s41551-026-01765-w/figures/14)
+  reports serum markers and cytokines through 72 hours after `LNPDP-Luc` dosing
+  in four `HbbTh3/+` mice. Supplementary Fig. 18 instead reports bone-marrow
+  cytokines through 48 hours in humanized NOG mice and histology through one
+  week in C57BL/6J mice. These split-model, luciferase-payload checks do not
+  resolve editor-specific or long-term inflammatory, organ, genomic, clonal,
+  marrow, fertility, or malignancy risk.
 - **Comparator and conflict:** A
   [2025 primary study](https://doi.org/10.1038/s41551-025-01480-y), PMID
   `40796944`, already reports antibody-free intravenous LNP base editing of
@@ -161,8 +165,8 @@ route?
 - **Next decisive action:** Run an independent head-to-head preclinical study of
   CD34-targeted and antibody-free LNPs using the same editor payload, systemic
   route, dose accounting, TDT donor panel, long-term follow-up, broad genomic
-  safety package, and activity-based delivered-cost model. No patient action or
-  sample routing is authorized here.
+  safety package with editor-matched controls, and activity-based delivered-cost
+  model. No patient action or sample routing is authorized here.
 
 ## August 8 Reni-cel Correction Decision
 

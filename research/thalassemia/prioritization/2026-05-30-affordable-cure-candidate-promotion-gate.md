@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-08
+Last evidence update: 2026-08-09
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -39,6 +39,7 @@ answers:
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
+| CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, disease phenotype, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
 | Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -101,6 +102,59 @@ neutrophil engraftment, not day-42 neutrophil and platelet engraftment, and
 restores the actual common grade 3 or 4 adverse-event denominators. This keeps
 the efficacy signal usable for comparison while strengthening the safety and
 durability hold.
+
+The August 2026 CD34-targeted LNP study addresses delivery rather than disease
+efficacy. It shows persistent in vivo editing of human HSPCs in mice, but its
+intrafemoral route, non-TDT model, limited safety package, and missing cost leave
+the ex vivo manufacturing and conditioning gap open. The 2025 antibody-free
+intravenous LNP study remains the closer disease-specific TDT comparator.
+
+## August 9 CD34-Targeted In Vivo HSPC Editing Decision
+
+**Question:** Does CD34-targeted in vivo HSPC editing close the ex vivo
+manufacturing and conditioning gap enough to become an affordable curative
+route?
+
+**Decision:**
+`hold_cd34_lnpdp_at_preclinical_in_vivo_hspc_delivery_benchmark_only`.
+
+- **Fact:** DOI `10.1038/s41551-026-01765-w`, PMID `42557300`, reports
+  anti-CD34-conjugated LNP delivery of SpCas9 messenger RNA and a
+  BCL11A-enhancer guide by bilateral intrafemoral injection in humanized mice.
+  Marrow analysis 12-16 weeks later found persistent editing and increased
+  `HBG/(HBB+HBG)` RNA without a reported change in measured human-cell,
+  lineage, or erythroid fractions.
+- **Evidence tier:** This is peer-reviewed preclinical evidence. No formal
+  sample-size calculation was performed, only female mice were used, and the
+  reporting summary does not identify a beta-thalassemia donor denominator,
+  genotype, or phenotype.
+- **Disease and safety gap:** No beta-thalassemia phenotype, globin-chain
+  balance, hemolysis, red-cell survival, or transfusion endpoint was tested.
+  The supplement's organ-indel assay is not an unbiased genome-wide off-target
+  analysis, while cytokine and marrow-histology checks ended at 48 hours and one
+  week, respectively.
+- **Comparator:** DOI `10.1038/s41551-025-01480-y`, PMID `40796944`, already
+  reports antibody-free intravenous LNP HBG1/HBG2 editing in TDT
+  patient-derived HSPCs in humanized mice with a globin-chain-balance endpoint.
+  The new platform does not displace that comparator.
+- **Hypothesis:** Systemic non-viral delivery could reduce apheresis, ex vivo
+  manufacture, and conditioning if it reaches long-term HSCs at a therapeutic
+  fraction with acceptable genomic, clonal, organ, inflammatory, and
+  reproductive safety.
+- **Interpretation:** Keep CD34/LNPDP as a delivery-platform benchmark only.
+  Intrafemoral administration and antibody-conjugated LNP manufacture do not
+  establish a simpler, scalable, or cheaper route.
+- **Affordability and access:** No GMP release path, manufacturing-failure
+  denominator, dose-scaled cost, procedure cost, authorization, payer evidence,
+  or Indonesia capacity is reported.
+- **Falsification criterion:** Deprioritize if systemic dosing fails to
+  reproduce durable disease-relevant benefit across at least three independent
+  TDT donors, breaches a prespecified genomic, clonal, organ, inflammatory, or
+  hematopoietic safety gate, or does not lower delivered cost and infrastructure
+  against the ex vivo comparator.
+- **Next decisive action:** Compare CD34-targeted and antibody-free LNPs
+  head-to-head with the same editor, systemic route, TDT donor panel, long-term
+  disease and safety endpoints, and an activity-based delivered-cost model.
 
 ## August 8 Reni-cel Correction Decision
 

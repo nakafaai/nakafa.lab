@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-08
+Last evidence update: 2026-08-09
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -69,6 +69,18 @@ target name from GATA1 to BCL11A. The correction preserves an early clinical
 HbF and transfusion-independence signal but strengthens the safety, durability,
 development-status, cost, and access hold.
 
+An August 5 primary study adds a CD34-targeted lipid-nanoparticle delivery
+benchmark for editing human HSPCs in vivo. Intrafemoral delivery in humanized
+mice produced persistent BCL11A-enhancer editing and increased the HBG share of
+beta-like globin RNA without a reported change in the measured human-cell or
+erythroid fractions. The study does not identify beta-thalassemia donor
+provenance, test a beta-thalassemia phenotype, use systemic administration for
+the therapeutic experiment, or report broad genomic safety, large-animal
+validation, delivered cost, or an Indonesia route. A 2025 antibody-free LNP
+study already provides the closer TDT patient-cell and intravenous comparator.
+The new platform therefore remains
+`preclinical_in_vivo_hspc_delivery_benchmark_only`.
+
 An August 4 bioRxiv preprint adds an operational CD34-positive HSPC recovery
 lead. Small volumes of clinical apheresis product waste yielded a median 4.71
 million cells, and recovered cells engrafted NBSGW mice. The verified abstract
@@ -81,6 +93,76 @@ change any therapeutic or curative-route ranking.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 9 CD34-Targeted In Vivo HSPC Editing Decision
+
+**Question:** Does CD34-targeted in vivo HSPC editing close the ex vivo
+manufacturing and conditioning gap enough to become an affordable curative
+route?
+
+**Decision:**
+`hold_cd34_lnpdp_at_preclinical_in_vivo_hspc_delivery_benchmark_only`.
+
+- **Fact - platform and route:** The peer-reviewed
+  [primary study](https://doi.org/10.1038/s41551-026-01765-w), PMID `42557300`,
+  screened 15 LNPs and conjugated its selected formulation to an anti-CD34
+  antibody. The therapeutic experiment used bilateral intrafemoral delivery of
+  SpCas9 messenger RNA and a BCL11A-enhancer guide in humanized NCG-X mice.
+- **Fact - model and follow-up:** Mobilized-peripheral-blood human CD34-positive
+  HSPCs were engrafted before dosing. Bone marrow was analyzed 12-16 weeks after
+  the intrafemoral injection. The official reporting summary states that no
+  sample-size calculation was performed, at least three biological replicates
+  were used, samples were randomized, investigators were blinded, no data were
+  excluded, and only female mice were used.
+- **Fact - endpoint:** The in vivo experiment detected BCL11A-enhancer indels
+  across human HSPCs and downstream lineages and increased
+  `HBG/(HBB+HBG)` messenger RNA in the erythroid compartment. The measured
+  human-cell fraction, lineage distribution, and erythroid-cell fraction did
+  not differ significantly across the reported groups.
+- **Evidence boundary:** The reporting summary does not provide an independent
+  human donor count, beta-thalassemia diagnosis, genotype, phenotype, or
+  diagnosis-stratified result. The study reports no beta-thalassemia anemia,
+  ineffective-erythropoiesis, globin-chain-balance, hemolysis, red-cell-lifespan,
+  or transfusion endpoint.
+- **Safety boundary:** Supplementary Fig. 17 measures indels at a conserved
+  intended BCL11A target across organs. It is not an unbiased genome-wide
+  off-target or clonal-integrity analysis. Cytokine sampling ended at 48 hours,
+  and the reported marrow histology ended at one week. These checks do not
+  resolve long-term inflammatory, organ, genomic, clonal, marrow, fertility, or
+  malignancy risk.
+- **Comparator and conflict:** A
+  [2025 primary study](https://doi.org/10.1038/s41551-025-01480-y), PMID
+  `40796944`, already reports antibody-free intravenous LNP base editing of
+  HBG1/HBG2 in TDT patient-derived HSPCs in humanized mice with a globin-chain
+  balance endpoint. The newer study adds CD34 targeting and longer marrow
+  observation but does not displace that disease-specific route comparator.
+- **Hypothesis:** A non-viral in vivo HSPC-editing route could remove apheresis,
+  ex vivo cell manufacture, and myeloablative conditioning if systemic delivery
+  reaches long-term repopulating HSCs at a therapeutic fraction without
+  unacceptable off-target, organ, inflammatory, clonal, or reproductive harm.
+- **Interpretation:** The result is a credible delivery-platform benchmark, not
+  a cure, disease-phenotype rescue, clinical route, or affordability result.
+  Bilateral intrafemoral administration and antibody-conjugated LNP manufacture
+  preserve substantial procedure and product complexity.
+- **Affordability and access:** Neither study reports a GMP release path,
+  batch-failure denominator, dose-scaled manufacturing cost, hospital procedure
+  cost, Indonesia authorization, qualified-center capacity, payer coverage, or
+  delivered cost. The platform cannot improve the affordability ranking yet.
+- **Open question:** In a powered, genotype-diverse TDT patient-cell model, can
+  systemic delivery outperform the 2025 antibody-free LNP comparator on
+  durable long-term-HSC editing, HbF protein, globin-chain balance, ineffective
+  erythropoiesis, hemolysis, red-cell survival, safety, and cost?
+- **Falsification criterion:** Deprioritize the platform if systemic dosing
+  cannot reproduce durable disease-relevant benefit across at least three
+  independent TDT donors, if sequence-level or tissue-level editing, clonal
+  behavior, inflammation, organ findings, or hematopoietic function breach a
+  prespecified safety gate, or if delivered cost and infrastructure are not
+  lower than the ex vivo comparator.
+- **Next decisive action:** Run an independent head-to-head preclinical study of
+  CD34-targeted and antibody-free LNPs using the same editor payload, systemic
+  route, dose accounting, TDT donor panel, long-term follow-up, broad genomic
+  safety package, and activity-based delivered-cost model. No patient action or
+  sample routing is authorized here.
 
 ## August 8 Reni-cel Correction Decision
 

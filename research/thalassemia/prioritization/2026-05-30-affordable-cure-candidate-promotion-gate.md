@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-09
+Last evidence update: 2026-08-10
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -40,7 +40,7 @@ answers:
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
-| `CD117` epitope-shielded conditioning | `preclinical_conditioning_benchmark_only` | A primary preprint reports antibody conditioning plus shielded-HSPC enrichment and phenotype improvement in a humanized beta-thalassemia mouse model, but durability after antibody withdrawal, clinical safety, and delivered cost are unresolved. |
+| KIT epitope-edited conditioning | `replicated_preclinical_conditioning_benchmark_only` | A peer-reviewed study independently joins the July preprint in supporting antibody selection of KIT-shielded HSPCs. It adds serial repopulation and genomic-safety experiments, but uses healthy-donor and SCD cells in female immunodeficient mice, not beta-thalassemia donor cells or a TDT disease model. BCL11A off-target deamination, PE3 indels and translocations, absent clinical results, and missing delivered cost block further promotion. |
 | Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
 | GATAD2A-CHD4 interface within `MBD2-NuRD` | `preclinical_hbf_probe_benchmark_only` | A structure-defined interaction now has genetic and lentiviral peptide HbF evidence in HUDEP-2 and primary adult erythroid cells. No cell-active therapeutic molecule, beta-thalassemia donor-cell result, long-term safety, delivery, manufacturing, cost, or access path supports further promotion. |
@@ -111,6 +111,62 @@ separate `HbbTh3/+` experiment adds short-window serum safety measurements for
 the base LNP with luciferase payload, not therapeutic editing or disease rescue.
 The 2025 antibody-free intravenous LNP study remains the closer disease-specific
 TDT comparator.
+
+The peer-reviewed KIT epitope-editing study independently strengthens the
+non-genotoxic conditioning concept. Anti-KIT selection preserved shielded,
+multilineage, serially repopulating human hematopoiesis in immunodeficient mice.
+It also exposes an editor-specific safety split: KIT epitope edits were clean in
+the reported candidate-site assays, while BCL11A base editing produced
+off-target deamination and BCL11A PE3 produced high on-target indels plus
+translocation evidence. The study used healthy-donor and SCD cells rather than
+TDT cells, and no clinical or delivered-cost result exists. The lane therefore
+moves from one-study proof of concept to a replicated preclinical benchmark,
+not to an affordable-curative route.
+
+## August 10 KIT Epitope-Editing Conditioning Decision
+
+**Question:** Does peer-reviewed KIT epitope editing independently close the
+conditioning, safety, and affordability gaps enough for promotion beyond a
+preclinical beta-thalassemia benchmark?
+
+**Decision:**
+`hold_kit_epitope_editing_at_replicated_preclinical_conditioning_benchmark_only`.
+
+- **Fact:** DOI `10.1038/s41586-026-10737-8`, PMID `42420446`, reports KIT
+  H378R base editing or KIT D121L prime editing combined with BCL11A-enhancer
+  editing and anti-KIT selection. Shielded HSPCs supported multilineage primary
+  and secondary engraftment after antibody conditioning in female NBSGW mice.
+- **Evidence tier:** This peer-reviewed study is independent from the July
+  `CIM058` beta-thalassemia preprint, so the core platform is now replicated.
+  The reporting summary identifies eight healthy donors and SCD cells, not TDT
+  cells, and no beta-thalassemia disease model.
+- **Safety gate:** Three-donor candidate-site testing found no detected
+  off-target substitution from prime editing, but BCL11A base editing produced
+  off-target deamination. BCL11A PE3 produced on-target indels up to 44.8% in
+  HSPCs, with translocation evidence in two of three donors. Promotion requires
+  an optimized editor and a qualified broad genomic and clonal release package.
+- **Clinical boundary:** `NCT05357482` remains active, not recruiting, with 40
+  actual participants in a study covering sickle cell disease and
+  beta-thalassemia, but no condition-stratified enrollment or posted results.
+  It combines briquilimab with low-dose irradiation and other transplant
+  medicines, not epitope-edited HSPCs or antibody-only conditioning.
+- **Hypothesis:** KIT shielding can replace genotoxic conditioning only if it
+  preserves a diverse long-term graft, rescues beta-thalassemia biology, and
+  reduces total harm without adding prohibitive manufacturing and hospital cost.
+- **Interpretation:** Promote confidence in platform replication, but hold the
+  route at a preclinical conditioning benchmark. Do not infer clinical efficacy,
+  beta-thalassemia cure, lower risk, access, or affordability.
+- **Falsification criterion:** Deprioritize if matched TDT-donor and
+  immunocompetent large-animal comparisons fail disease-relevant rescue or
+  durable multilineage repopulation after antibody withdrawal, breach genomic,
+  clonal, immune, organ, fertility, or hematopoietic safety gates, or fail to
+  improve delivered cost and infrastructure against exa-cel while approaching
+  matched-sibling HSCT.
+- **Next decisive action:** Compare KIT plus therapeutic editing with anti-KIT
+  selection against the same therapeutic edit with conventional conditioning
+  and no-antibody controls. Use at least three genotype-diverse TDT donors, an
+  immunocompetent large-animal arm, broad safety endpoints, batch-failure
+  accounting, and an activity-based delivered-cost model.
 
 ## August 9 CD34-Targeted In Vivo HSPC Editing Decision
 
@@ -1412,6 +1468,10 @@ anchors, not biomedical evidence for any candidate.
 - [FDA July 1 Casgevy supplement approval letter](https://www.fda.gov/media/193444/download)
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
+- [Peer-reviewed KIT epitope-editing study, PMID 42420446](https://pubmed.ncbi.nlm.nih.gov/42420446/)
+- [Peer-reviewed KIT epitope-editing full text, DOI 10.1038/s41586-026-10737-8](https://doi.org/10.1038/s41586-026-10737-8)
+- [Nature reporting summary](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-026-10737-8/MediaObjects/41586_2026_10737_MOESM2_ESM.pdf)
+- [Anti-KIT transplant study NCT05357482](https://clinicaltrials.gov/study/NCT05357482)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [FT007 phase 2b registry record, NCT07680803](https://clinicaltrials.gov/study/NCT07680803)
 - [FT007 record history, version 1](https://clinicaltrials.gov/study/NCT07680803?a=1&tab=history)

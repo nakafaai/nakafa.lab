@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-09
+Last evidence update: 2026-08-10
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -50,8 +50,13 @@ independent from an earlier multicenter cohort. Ex vivo editing remains a strong
 curative benchmark, but FDA's 15-year postmarketing requirement makes its
 long-term genomic-safety evidence gap explicit. BRL-101 has closed recruitment
 and opened long-term follow-up without posting outcomes, so it remains an Asia
-registry benchmark. `CD117` epitope shielding remains a testable preclinical
-conditioning route. A peer-reviewed five-child HGI-001 pilot now source-links
+registry benchmark. `CD117` epitope shielding now has two independent
+preclinical demonstrations, including one peer-reviewed study with serial
+repopulation and genomic-safety experiments. It remains a preclinical
+conditioning route because no beta-thalassemia cell or disease model was
+tested in the peer-reviewed study, and neither study provides clinical or
+delivered-cost evidence. A peer-reviewed five-child HGI-001 pilot now
+source-links
 the earlier clinical signal, but the small single-center cohort, busulfan
 conditioning, unresolved registry-publication differences, and missing
 delivered cost prevent broader promotion. Two 2026 thalidomide syntheses now
@@ -93,6 +98,87 @@ change any therapeutic or curative-route ranking.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 10 KIT Epitope-Editing Conditioning Decision
+
+**Question:** Does peer-reviewed KIT epitope editing independently close the
+conditioning, safety, and affordability gaps enough to promote non-genotoxic
+HSPC replacement beyond a preclinical benchmark for beta-thalassemia?
+
+**Decision:**
+`hold_kit_epitope_editing_at_replicated_preclinical_conditioning_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact - independent platform evidence:** The peer-reviewed Nature study,
+  DOI `10.1038/s41586-026-10737-8` and PMID `42420446`, is independent from the
+  July `CIM058` preprint. It paired KIT epitope editing with BCL11A-enhancer
+  editing and used anti-KIT antibodies to deplete unprotected HSPCs while
+  enriching protected, co-edited hematopoiesis.
+- **Fact - replacement and durability:** In female NBSGW mice pre-engrafted
+  with human HSPCs, two SR-1 doses were followed 12 hours later by a second
+  transplant. KIT D121L plus BCL11A +58 prime-edited cells established a
+  multilineage graft while BCL11A-only cells were depleted. Only the
+  KIT-shielded graft generated substantial secondary engraftment after SR-1
+  conditioning. This strengthens long-term repopulating-HSC evidence in a
+  xenograft, not a clinical durability claim.
+- **Fact - source depth:** The reporting summary identifies eight
+  deidentified healthy donors and sickle-cell-disease cells, only female mice,
+  no formal sample-size calculation, random mouse allocation, and no blinding
+  for objective measurements. It reports no beta-thalassemia donor or
+  beta-thalassemia disease model.
+- **Fact - genomic safety:** Candidate-site panels covered 193 base-editing and
+  111 prime-editing sites in HSPCs from three donors. KIT editing had minimal
+  indels and no detected off-target substitution in the reported assays, but
+  BCL11A base editing produced measurable off-target deamination. BCL11A PE3
+  produced on-target indels up to 44.8% in HSPCs, and UDiTaS detected
+  translocation evidence in two of three PE3-edited donors. These are active
+  safety findings, not a cleared release package.
+- **Contradiction and disease boundary:** The abstract frames a therapeutic
+  threshold for beta-thalassemia, but the disease-derived experiment used SCD
+  HSPCs and measured HbF plus HbS. It did not measure TDT globin-chain balance,
+  ineffective erythropoiesis, hemolysis, red-cell survival, or transfusion
+  independence. The July preprint remains the disease-specific comparator,
+  while the Nature paper provides stronger platform-level replication.
+- **Clinical comparator boundary:** The current NIH record
+  [`NCT05357482`](https://clinicaltrials.gov/study/NCT05357482) lists 40 actual
+  participants in a study covering sickle cell disease and beta-thalassemia,
+  but does not report condition-stratified enrollment or results. It is active
+  but not recruiting and tests briquilimab together with low-dose irradiation
+  and other transplant medicines, not epitope-edited HSPCs or antibody-only
+  conditioning.
+- **Hypothesis:** A KIT-shielded therapeutic HSPC product can replace genotoxic
+  conditioning only if anti-KIT selection preserves a diverse long-term graft,
+  produces disease-relevant beta-thalassemia rescue, and lowers route-level
+  toxicity without adding prohibitive editing, antibody, release-testing, or
+  hospital costs.
+- **Interpretation:** Two independent studies now replicate the core
+  shield-and-select concept. The evidence supports a replicated preclinical
+  conditioning benchmark, not clinical efficacy, a cure, lower risk, or an
+  affordable route.
+- **Affordability and access:** The route could remove busulfan, but it adds a
+  second precise edit, multiplex manufacturing, antibody production and
+  dosing, genomic release tests, transplantation, and long-term surveillance.
+  No source reports GMP batch failure, itemized delivered cost, Indonesia
+  authorization, qualified-center capacity, payer coverage, or a technology
+  transfer path.
+- **Open question:** Against matched busulfan-conditioned BCL11A editing, can
+  KIT epitope editing plus anti-KIT selection preserve durable multilineage
+  function and disease rescue with lower total harm and lower delivered cost?
+- **Falsification criterion:** Deprioritize the route if a prespecified
+  TDT-donor and immunocompetent large-animal program fails durable multilineage
+  repopulation after antibody withdrawal, misses globin-chain and erythroid
+  rescue, breaches genomic, clonal, immune, organ, fertility, or hematopoietic
+  safety gates, or fails to improve delivered cost and infrastructure against
+  exa-cel while approaching the matched-sibling HSCT benchmark.
+- **Next decisive action:** Run a qualified head-to-head program with at least
+  three genotype-diverse TDT donors and an immunocompetent large-animal arm.
+  Compare KIT plus therapeutic editing with anti-KIT selection against the same
+  therapeutic edit with conventional conditioning and no-antibody controls.
+  Measure HbF protein, globin-chain balance, erythroid maturation, hemolysis,
+  long-term multilineage repopulation, clonal diversity, broad genomic safety,
+  antibody immunogenicity, organ and fertility safety, batch failure, and
+  activity-based delivered cost. No patient action or sample routing follows.
 
 ## August 9 CD34-Targeted In Vivo HSPC Editing Decision
 
@@ -1352,6 +1438,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [July 17 BPOM exact-term snapshot](../../../data/regulatory/bpom/2026-07-17-casgevy-product-search-refresh.json)
 - [`CD117` epitope-shielded conditioning preprint, PMID 42465494](https://pubmed.ncbi.nlm.nih.gov/42465494/)
 - [Preprint full text, DOI 10.64898/2026.07.07.736903](https://doi.org/10.64898/2026.07.07.736903)
+- [Peer-reviewed KIT epitope-editing study, PMID 42420446](https://pubmed.ncbi.nlm.nih.gov/42420446/)
+- [Peer-reviewed open full text, DOI 10.1038/s41586-026-10737-8](https://doi.org/10.1038/s41586-026-10737-8)
+- [Nature reporting summary](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41586-026-10737-8/MediaObjects/41586_2026_10737_MOESM2_ESM.pdf)
+- [Anti-KIT transplant study NCT05357482](https://clinicaltrials.gov/study/NCT05357482)
 - [EHA/EBMT gene-therapy selection consensus, PMID 42463828](https://pubmed.ncbi.nlm.nih.gov/42463828/)
 - [Thalidomide GRADE meta-analysis, PMID 42136903](https://pubmed.ncbi.nlm.nih.gov/42136903/)
 - [Second thalidomide meta-analysis, PMID 41933128](https://pubmed.ncbi.nlm.nih.gov/41933128/)

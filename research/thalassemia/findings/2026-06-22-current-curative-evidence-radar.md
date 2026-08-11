@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-10
+Last evidence update: 2026-08-11
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -95,9 +95,103 @@ outside the current quote as
 `preclinical_hemoglobinopathy_material_recovery_benchmark_only`; it does not
 change any therapeutic or curative-route ranking.
 
+A 63-participant long-term beti-cel study now supplies the program's clearest
+autologous gene-addition durability benchmark. At a median 5.9 years of
+follow-up, 15 of 22 phase 1/2 participants and 37 of 41 phase 3 participants had
+achieved transfusion independence and sustained it through last follow-up. No
+malignancy, insertional oncogenesis, or vector-derived replication-competent
+lentivirus was reported. The evidence tier therefore moves to
+`durable_long_term_transfusion_independence_benchmark_only`. It does not become
+an affordable route: the program was nonrandomized, phase 1/2 and phase 3 used
+different manufacturing performance, only two participants had ten years of
+follow-up, full busulfan myeloablation and individualized manufacture remain,
+and no delivered-cost or Indonesia access path is reported.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 11 Long-Term Beti-Cel Decision
+
+**Question:** Does the 63-participant long-term beti-cel study close the
+durability, safety, and affordability gaps enough to promote lentiviral
+beta-globin gene addition from a clinical benchmark to an affordable curative
+route for TDT?
+
+**Decision:**
+`promote_beti_cel_to_durable_long_term_transfusion_independence_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact - denominator and follow-up:** DOI `10.1182/blood.2025029196`, PMID
+  `41525466`, pools 63 treated participants from nonrandomized phase 1/2 and
+  phase 3 parent studies who entered prospective long-term follow-up. Median
+  age was 17 years, range 4 to 35. Median follow-up was 5.9 years, range 2.9 to
+  10.1; 51 participants had at least five years and two had ten years.
+- **Fact - durable endpoint:** Fifteen of 22 phase 1/2 participants, 68.2%, and
+  37 of 41 phase 3 participants, 90.2%, achieved transfusion independence and
+  sustained it through last follow-up. The weighted average hemoglobin during
+  transfusion independence was 10.2 g/dL and 11.2 g/dL, respectively.
+- **Fact - biological endpoints:** Peripheral-blood vector copy number and
+  beta-A-T87Q hemoglobin were stable from month six through last follow-up.
+  Thirty-eight of the 52 participants who achieved transfusion independence,
+  73%, had stopped iron chelation at last follow-up without an increase in
+  liver iron concentration. Reported ineffective-erythropoiesis and quality-of-
+  life measures also improved.
+- **Fact - observed safety:** No malignancy, insertional oncogenesis, or
+  vector-derived replication-competent lentivirus was reported at the February
+  2024 cutoff. This narrows the current signal but does not clear long-latency
+  risk.
+- **Contradiction and denominator boundary:** "Up to ten years" describes two
+  of 63 participants, not the whole cohort. Current `LTF-303`,
+  `NCT02633943`, enrollment is 66 actual, while the paper analyzes 63 people at
+  its cutoff. The registry enrollment must not be substituted for a treated or
+  outcome denominator, and the active registry has no posted results.
+- **Manufacturing boundary:** Phase 3 manufacturing refinements increased
+  transduction efficiency, drug-product vector copy number, beta-A-T87Q
+  hemoglobin, and the transfusion-independence rate relative to phase 1/2. The
+  pooled program therefore does not represent one uniform manufacturing
+  process.
+- **Regulatory safety boundary:** The current FDA label requires mobilization,
+  apheresis, backup-cell collection, individualized manufacture and testing,
+  full busulfan myeloablation, and at least 15 years of annual malignancy
+  monitoring. Its separate 41-person safety cohort reported serious adverse
+  reactions in 37%, including serious hepatic veno-occlusive disease in three
+  participants. The label states that its adverse-event tables include
+  busulfan-associated events, so they cannot be assigned to beti-cel alone.
+- **Hypothesis:** Beti-cel could become a realistic affordable route only if a
+  transferable phase 3-like process preserves durability with low failed-lot
+  and repeat-collection rates, reduces conditioning and hospital burden, and
+  produces a total-cost and capacity advantage over exa-cel while approaching
+  matched-sibling HSCT.
+- **Interpretation:** Promote the evidence tier to a durable long-term
+  transfusion-independence benchmark. Do not promote affordability,
+  comparative safety, local access, or individual suitability.
+- **Affordability and access:** The FDA label describes a target collection of
+  at least 12 million CD34-positive cells per kilogram, possible repeat
+  collection and manufacture, backup-cell storage, full busulfan conditioning,
+  hospital care, and about 70 to 90 days for manufacture and testing. The paper
+  reports no itemized delivered cost, failed-batch denominator, Indonesia
+  authorization, qualified-center capacity, technology transfer, or payer
+  coverage. Exact `ZYNTEGLO` and `betibeglogene` BPOM product-name and
+  ingredient searches returned zero public records on 2026-08-11, a bounded
+  public-database result rather than proof of absence or unavailability.
+- **Open question:** What are the denominator-aligned manufacturing-failure,
+  repeat-collection, bridge-care, admission, complication, fertility,
+  surveillance, and payer costs for a phase 3-like route in an Asian delivery
+  setting?
+- **Falsification criterion:** Deprioritize beti-cel as an affordable-route
+  candidate if a denominator-aligned implementation study fails to preserve
+  durable transfusion independence, reveals unacceptable clonal or malignant
+  risk, cannot reduce conditioning and manufacturing burden, or cannot show a
+  credible total-cost and capacity advantage over exa-cel while approaching
+  matched-sibling HSCT.
+- **Next decisive action:** A qualified manufacturing and transplant owner
+  should provide attempted-collection, repeat-collection, released-lot,
+  failed-lot, release-time, bridge-care, busulfan, admission, complication,
+  fertility, surveillance, and itemized-cost denominators. Compare the same
+  fields with exa-cel and matched-sibling HSCT. No patient action, referral, or
+  sample routing follows.
 
 ## August 10 KIT Epitope-Editing Conditioning Decision
 
@@ -1424,6 +1518,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [June 22 workflow JSON](../../../data/workflows/case-001/2026-06-22-current-curative-evidence-radar-gate.json)
 - [FDA CASGEVY](https://www.fda.gov/vaccines-blood-biologics/casgevy)
 - [FDA ZYNTEGLO](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
+- [FDA ZYNTEGLO package insert](https://www.fda.gov/media/160991/download)
+- [Long-term beti-cel primary paper, PMID 41525466](https://pubmed.ncbi.nlm.nih.gov/41525466/)
+- [Long-term beti-cel full text, DOI 10.1182/blood.2025029196](https://doi.org/10.1182/blood.2025029196)
+- [Long-term beti-cel study NCT02633943](https://clinicaltrials.gov/study/NCT02633943)
 - [ClinicalTrials.gov NCT05356195](https://clinicaltrials.gov/study/NCT05356195)
 - [ClinicalTrials.gov NCT05477563](https://clinicaltrials.gov/study/NCT05477563)
 - [ClinicalTrials.gov NCT06465550](https://clinicaltrials.gov/study/NCT06465550)

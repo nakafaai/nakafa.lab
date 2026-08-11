@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-10
+Last evidence update: 2026-08-11
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -38,6 +38,7 @@ answers:
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
+| Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports sustained transfusion independence in 15 of 22 phase 1/2 and 37 of 41 phase 3 participants at median 5.9 years, with no reported malignancy, insertional oncogenesis, or vector-derived replication-competent lentivirus. Only two participants had ten years of follow-up, manufacturing performance differed by development phase, all parent studies were nonrandomized, and full busulfan conditioning, failed-batch and delivered-cost denominators, Indonesia authorization, center capacity, and payer access remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
 | KIT epitope-edited conditioning | `replicated_preclinical_conditioning_benchmark_only` | A peer-reviewed study independently joins the July preprint in supporting antibody selection of KIT-shielded HSPCs. It adds serial repopulation and genomic-safety experiments, but uses healthy-donor and SCD cells in female immunodeficient mice, not beta-thalassemia donor cells or a TDT disease model. BCL11A off-target deamination, PE3 indels and translocations, absent clinical results, and missing delivered cost block further promotion. |
@@ -122,6 +123,88 @@ translocation evidence. The study used healthy-donor and SCD cells rather than
 TDT cells, and no clinical or delivered-cost result exists. The lane therefore
 moves from one-study proof of concept to a replicated preclinical benchmark,
 not to an affordable-curative route.
+
+The long-term beti-cel paper closes a different gap: durability of autologous
+lentiviral beta-globin gene addition. Fifty-two of 63 participants achieved
+transfusion independence, sustained through last follow-up, and 51 participants
+had at least five years of observation. No malignancy, insertional oncogenesis,
+or vector-derived replication-competent lentivirus was reported. This promotes
+the lane to a durable long-term transfusion-independence benchmark, not an
+affordable route. Only two participants had ten years of follow-up, the phase
+3 process performed better than phase 1/2, the parent studies were
+nonrandomized, and the route still requires individualized manufacture plus
+full busulfan myeloablation. No failed-batch denominator, itemized delivered
+cost, Indonesia authorization, qualified-center capacity, or payer route was
+reported.
+
+## August 11 Long-Term Beti-Cel Decision
+
+**Question:** Does the 63-participant long-term beti-cel study justify promotion
+from a clinical benchmark to an affordable curative route for TDT?
+
+**Decision:**
+`promote_beti_cel_to_durable_long_term_transfusion_independence_benchmark_only`.
+
+- **Fact:** DOI `10.1182/blood.2025029196`, PMID `41525466`, reports 63 treated
+  participants from four nonrandomized phase 1/2 or phase 3 parent studies who
+  entered long-term follow-up. Median age was 17 years and median follow-up was
+  5.9 years, range 2.9 to 10.1.
+- **Durability gate:** Fifteen of 22 phase 1/2 participants, 68.2%, and 37 of 41
+  phase 3 participants, 90.2%, achieved transfusion independence and sustained
+  it through last follow-up. Fifty-one participants had at least five years of
+  follow-up, while only two had ten years.
+- **Biological gate:** Vector copy number and beta-A-T87Q hemoglobin were stable
+  from month six through last follow-up. Thirty-eight of 52 participants who
+  achieved transfusion independence had stopped iron chelation at last
+  follow-up without an increase in liver iron concentration.
+- **Safety gate:** No malignancy, insertional oncogenesis, or vector-derived
+  replication-competent lentivirus was reported at the February 2024 cutoff.
+  The active long-term registry remains incomplete and the FDA label retains a
+  potential insertional-oncogenesis warning plus annual monitoring for at least
+  15 years.
+- **Denominator boundary:** `NCT02633943`, `LTF-303`, currently lists 66 actual
+  enrollees and no posted results. That enrollment is not the paper's treated or
+  outcome denominator and must not be merged with the 63-person analysis.
+- **Manufacturing boundary:** Phase 3 manufacturing increased transduction
+  efficiency, drug-product vector copy number, beta-A-T87Q hemoglobin, and the
+  transfusion-independence rate relative to phase 1/2. The pooled result does
+  not represent one uniform process.
+- **Conditioning boundary:** The FDA label requires mobilization, apheresis,
+  backup-cell collection, individualized manufacture and testing, and full
+  busulfan myeloablation. Its separate 41-person safety cohort reported serious
+  adverse reactions in 37%, including three serious VOD events. The label
+  states that its adverse-event tables include busulfan-associated events, so
+  the route-level burden cannot be assigned to beti-cel alone.
+- **Hypothesis:** A transferable phase 3-like beti-cel process can become an
+  affordable route only if it preserves durability with low repeat-collection
+  and failed-lot rates, reduces conditioning and hospital burden, and improves
+  total delivered cost and capacity against exa-cel while approaching
+  matched-sibling HSCT.
+- **Interpretation:** Promote durability evidence, not affordability,
+  comparative safety, Indonesia access, or individual suitability.
+- **Affordability and access:** The label describes a target collection of at
+  least 12 million CD34-positive cells per kilogram, possible repeat collection
+  and manufacture, backup-cell storage, full busulfan conditioning, hospital
+  care, and about 70 to 90 days for manufacture and testing. The paper reports
+  no itemized delivered cost, manufacturing-failure denominator, Indonesia
+  authorization, qualified-center capacity, technology transfer, or payer
+  coverage. Exact `ZYNTEGLO` and `betibeglogene` BPOM product-name and
+  ingredient searches returned zero public records on 2026-08-11; this is not
+  proof of absence or unavailability.
+- **Open question:** What are the denominator-aligned manufacturing-failure,
+  repeat-collection, bridge-care, admission, complication, fertility,
+  surveillance, and payer costs for a phase 3-like route in an Asian delivery
+  setting?
+- **Falsification criterion:** Deprioritize beti-cel as an affordable-route
+  candidate if a denominator-aligned implementation study fails to preserve
+  durability, reveals unacceptable clonal or malignant risk, cannot reduce
+  conditioning and manufacturing burden, or cannot show a credible total-cost
+  and capacity advantage over exa-cel while approaching matched-sibling HSCT.
+- **Next decisive action:** Obtain one owner-verified dataset covering attempted
+  and repeat collections, released and failed lots, release time, bridge care,
+  conditioning, admission, complications, fertility, surveillance, and
+  payer-relevant cost. Compare the same fields with exa-cel and matched-sibling
+  HSCT. No patient action, referral, or sample routing follows.
 
 ## August 10 KIT Epitope-Editing Conditioning Decision
 
@@ -1462,6 +1545,11 @@ anchors, not biomedical evidence for any candidate.
 - [Pescara primary full text, PMC9400570](https://pmc.ncbi.nlm.nih.gov/articles/PMC9400570/)
 - [Pre-HSCT TDT fertility cohort, PMID 42515819](https://pubmed.ncbi.nlm.nih.gov/42515819/)
 - [Fertility cohort DOI 10.1093/humrep/deag117](https://doi.org/10.1093/humrep/deag117)
+- [Long-term beti-cel primary paper, PMID 41525466](https://pubmed.ncbi.nlm.nih.gov/41525466/)
+- [Long-term beti-cel full text, DOI 10.1182/blood.2025029196](https://doi.org/10.1182/blood.2025029196)
+- [Long-term beti-cel study NCT02633943](https://clinicaltrials.gov/study/NCT02633943)
+- [FDA ZYNTEGLO product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
+- [FDA ZYNTEGLO package insert](https://www.fda.gov/media/160991/download)
 - [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)
 - [Pediatric exa-cel trial `NCT05356195`](https://clinicaltrials.gov/study/NCT05356195)
 - [FDA July 1 pediatric supplemental approval](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease)

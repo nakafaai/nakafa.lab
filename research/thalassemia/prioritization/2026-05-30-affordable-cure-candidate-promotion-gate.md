@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-11
+Last evidence update: 2026-08-12
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -38,7 +38,7 @@ answers:
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
-| Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports sustained transfusion independence in 15 of 22 phase 1/2 and 37 of 41 phase 3 participants at median 5.9 years, with no reported malignancy, insertional oncogenesis, or vector-derived replication-competent lentivirus. Only two participants had ten years of follow-up, manufacturing performance differed by development phase, all parent studies were nonrandomized, and full busulfan conditioning, failed-batch and delivered-cost denominators, Indonesia authorization, center capacity, and payer access remain unresolved. |
+| Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
 | KIT epitope-edited conditioning | `replicated_preclinical_conditioning_benchmark_only` | A peer-reviewed study independently joins the July preprint in supporting antibody selection of KIT-shielded HSPCs. It adds serial repopulation and genomic-safety experiments, but uses healthy-donor and SCD cells in female immunodeficient mice, not beta-thalassemia donor cells or a TDT disease model. BCL11A off-target deamination, PE3 indels and translocations, absent clinical results, and missing delivered cost block further promotion. |
@@ -136,6 +136,54 @@ nonrandomized, and the route still requires individualized manufacture plus
 full busulfan myeloablation. No failed-batch denominator, itemized delivered
 cost, Indonesia authorization, qualified-center capacity, or payer route was
 reported.
+
+## August 12 Beti-Cel Process-Attrition Decision
+
+**Question:** Do denominator-aligned clinical-trial and real-world collection
+data close beti-cel's process and affordability gaps enough for promotion?
+
+**Decision:**
+`hold_beti_cel_at_durable_long_term_transfusion_independence_benchmark_only_after_process_attrition_quantification`.
+
+- **Fact - parent studies:** A pooled conference abstract reports that 52 of 66
+  participants, 78.8%, reached the collection target after one mobilization
+  cycle and 13, 19.7%, after two. One had unsuccessful mobilization and
+  withdrew. An FDA presentation separately accounts for three people not
+  treated among the 66-person intent-to-treat population: inadequate
+  mobilization, pregnancy, and withdrawal of consent. These were not three
+  manufacturing failures.
+- **Fact - German implementation:** A peer-reviewed study reports eight treated
+  among 15 evaluated. Four withdrew by choice, two were excluded for severe
+  hepatic siderosis, and one had collection failure. Seven treated participants
+  required one collection; one required a second after CD34-positive-cell loss
+  during manufacturing. Median apheresis-to-infusion time was 113 days and
+  median discharge was 31.5 days after infusion. All eight were insured; costs
+  exceeded allogeneic HSCT, but no itemized amount was reported.
+- **Fact - United States implementation:** A one-center conference abstract
+  reports ten commercial collections. Eight required one cycle and two needed
+  a second after out-of-specification release testing. Nine had been infused;
+  the abstract does not resolve the tenth person's final status. Early safety
+  included three VOD events and clinically significant bleeding in seven of
+  nine infused participants during prolonged thrombocytopenia.
+- **Interpretation:** Replace the generic collection gap with measured repeat
+  collection, attrition, delay, admission, and complication burdens. Do not
+  promote affordability, comparative safety, Indonesia access, or individual
+  suitability. Matched-sibling HSCT remains the leading affordable-curative
+  benchmark.
+- **Affordability gate:** No source reports a complete commercial
+  referral-to-infusion denominator, final failed-lot denominator, itemized
+  delivered cost, insurance denials, Indonesia delivery, or matched process
+  comparison against exa-cel and matched-sibling HSCT.
+- **Falsification criterion:** Deprioritize beti-cel as an affordable-route
+  candidate if a complete implementation cohort shows persistent collection or
+  release failure, unacceptable conditioning or bleeding burden, or no credible
+  activity-based total-cost and capacity advantage over exa-cel while
+  approaching matched-sibling HSCT.
+- **Next decisive action:** Obtain one owner-verified commercial cohort starting
+  with all referrals and reporting authorization, collection, released and
+  discarded lots, infusion, admission, complications, surveillance, and
+  itemized payer-relevant cost. Compare identical fields across beti-cel,
+  exa-cel, and matched-sibling HSCT. No patient action or sample routing follows.
 
 ## August 11 Long-Term Beti-Cel Decision
 
@@ -1548,6 +1596,11 @@ anchors, not biomedical evidence for any candidate.
 - [Long-term beti-cel primary paper, PMID 41525466](https://pubmed.ncbi.nlm.nih.gov/41525466/)
 - [Long-term beti-cel full text, DOI 10.1182/blood.2025029196](https://doi.org/10.1182/blood.2025029196)
 - [Long-term beti-cel study NCT02633943](https://clinicaltrials.gov/study/NCT02633943)
+- [German real-world beti-cel study, PMID 39418614](https://pubmed.ncbi.nlm.nih.gov/39418614/)
+- [German real-world beti-cel full text, PMCID PMC11732601](https://pmc.ncbi.nlm.nih.gov/articles/PMC11732601/)
+- [Pooled beti-cel mobilization analysis, DOI 10.1016/j.jtct.2023.12.305](https://doi.org/10.1016/j.jtct.2023.12.305)
+- [FDA beti-cel advisory presentation](https://www.fda.gov/media/159126/download)
+- [United States commercial beti-cel abstract, DOI 10.1016/j.jtct.2025.01.386](https://doi.org/10.1016/j.jtct.2025.01.386)
 - [FDA ZYNTEGLO product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA ZYNTEGLO package insert](https://www.fda.gov/media/160991/download)
 - [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)

@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-11
+Last evidence update: 2026-08-12
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -107,9 +107,87 @@ different manufacturing performance, only two participants had ten years of
 follow-up, full busulfan myeloablation and individualized manufacture remain,
 and no delivered-cost or Indonesia access path is reported.
 
+New denominator-aligned process evidence quantifies the burden hidden by the
+63-person treated cohort. Across the parent studies, 13 of 66 participants
+needed two mobilization cycles and three did not proceed to treatment for
+inadequate mobilization, pregnancy, or withdrawal of consent. A peer-reviewed
+German sequence treated eight of 15 evaluated people, with one collection
+failure and one repeat collection after cell loss during manufacturing. A
+separate United States commercial-center abstract reports two repeat
+collections after out-of-specification release testing among ten collected
+people. These data close part of the collection gap but expose attrition,
+delay, admission, and complication burdens. They do not supply a complete
+commercial referral-to-infusion denominator, final failed-lot denominator,
+itemized delivered cost, or Indonesia route.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 12 Beti-Cel Process-Attrition Decision
+
+**Question:** Do denominator-aligned clinical-trial and real-world collection
+data close beti-cel's process and affordability gaps enough for promotion?
+
+**Decision:**
+`hold_beti_cel_at_durable_long_term_transfusion_independence_benchmark_only_after_process_attrition_quantification`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact - parent-study process:** DOI `10.1016/j.jtct.2023.12.305` reports
+  that 52 of 66 participants, 78.8%, reached collection target after one
+  mobilization cycle and 13, 19.7%, after two. One had unsuccessful
+  mobilization and withdrew. An FDA presentation accounts for the other two
+  people not treated as pregnancy and withdrawal of consent, so the three
+  preinfusion discontinuations must not be described as manufacturing failures.
+- **Fact - German implementation:** DOI
+  `10.1182/bloodadvances.2024014104`, PMID `39418614`, reports 15 evaluated,
+  eight treated, four withdrawals by choice, two exclusions for severe hepatic
+  siderosis, and one collection failure. Seven treated participants required
+  one collection and one required a second after CD34-positive-cell loss during
+  manufacturing. Median apheresis-to-infusion time was 113 days, and discharge
+  was a median 31.5 days after infusion. All eight were insured; the authors
+  report costs exceeding allogeneic HSCT without an itemized amount.
+- **Fact - German outcomes and safety:** All eight treated participants were
+  transfusion-independent at median 541.5 days. Five had post-treatment gonadal
+  dysfunction findings, with baseline iron-related dysfunction incompletely
+  excluded. Two could not resume usual work or activities because of fatigue
+  or depression and anxiety. One developed unexplained polycythemia.
+- **Fact - United States implementation:** DOI
+  `10.1016/j.jtct.2025.01.386` reports ten commercial collections at one
+  center. Eight required one collection and two required a second after
+  out-of-specification release testing. Nine had been infused; the abstract
+  does not resolve the tenth person's final status. At short follow-up, three
+  had VOD and seven had clinically significant bleeding during prolonged
+  thrombocytopenia.
+- **Contradiction and evidence boundary:** Collection target, released product,
+  infusion, and durable outcome are different denominators. The parent-study
+  and United States process reports are conference abstracts. The German study
+  is peer-reviewed but small, selected, fully insured, restricted to
+  non-beta-zero/beta-zero genotypes, and affected by a historical marketing
+  suspension.
+- **Hypothesis:** Beti-cel can become a realistic affordable route only if a
+  transferable process reduces screening-to-infusion attrition, repeat
+  collection, out-of-specification release, conditioning toxicity, admission
+  time, and total delivered cost while preserving durable efficacy.
+- **Interpretation:** Keep beti-cel at a durable long-term
+  transfusion-independence benchmark. The measured burdens argue against
+  affordability promotion and do not establish comparative safety, Indonesia
+  access, or individual suitability.
+- **Affordability and access:** No source reports a complete commercial
+  referral denominator, insurance denials, released and discarded lots,
+  activity-based cost, payer payment, Indonesia authorization, local
+  manufacture, or qualified-center capacity.
+- **Falsification criterion:** Deprioritize beti-cel as an affordable-route
+  candidate if a complete implementation cohort shows persistent collection or
+  release failure, unacceptable conditioning or bleeding burden, or no credible
+  total-cost and capacity advantage over exa-cel while approaching
+  matched-sibling HSCT.
+- **Next decisive action:** Obtain one owner-verified commercial cohort starting
+  with all referrals and reporting authorization, collection, released and
+  discarded lots, infusion, admission, complications, surveillance, and
+  itemized payer-relevant cost. Compare identical fields with exa-cel and
+  matched-sibling HSCT. No patient action or sample routing follows.
 
 ## August 11 Long-Term Beti-Cel Decision
 
@@ -1522,6 +1600,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Long-term beti-cel primary paper, PMID 41525466](https://pubmed.ncbi.nlm.nih.gov/41525466/)
 - [Long-term beti-cel full text, DOI 10.1182/blood.2025029196](https://doi.org/10.1182/blood.2025029196)
 - [Long-term beti-cel study NCT02633943](https://clinicaltrials.gov/study/NCT02633943)
+- [German real-world beti-cel study, PMID 39418614](https://pubmed.ncbi.nlm.nih.gov/39418614/)
+- [German real-world beti-cel full text, PMCID PMC11732601](https://pmc.ncbi.nlm.nih.gov/articles/PMC11732601/)
+- [Pooled beti-cel mobilization analysis, DOI 10.1016/j.jtct.2023.12.305](https://doi.org/10.1016/j.jtct.2023.12.305)
+- [FDA beti-cel advisory presentation](https://www.fda.gov/media/159126/download)
+- [United States commercial beti-cel abstract, DOI 10.1016/j.jtct.2025.01.386](https://doi.org/10.1016/j.jtct.2025.01.386)
 - [ClinicalTrials.gov NCT05356195](https://clinicaltrials.gov/study/NCT05356195)
 - [ClinicalTrials.gov NCT05477563](https://clinicaltrials.gov/study/NCT05477563)
 - [ClinicalTrials.gov NCT06465550](https://clinicaltrials.gov/study/NCT06465550)

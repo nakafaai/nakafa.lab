@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-12
+Last evidence update: 2026-08-13
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -37,7 +37,7 @@ answers:
 | Treosulfan-thiotepa-fludarabine HSCT | `matched_family_donor_conditioning_benchmark_only` | A retrospective 74-child Indian cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in a combined matched-family group, compared with 57.3% for both estimates in a combined alternative-donor group. No concurrent busulfan comparator, adjusted donor-specific result, complete safety denominator, itemized cost, or Indonesia access supports reduced-toxicity, donor-agnostic, or affordable-route promotion. |
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
-| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but full myeloablation, a reported fatal busulfan-related event, and required long-term safety surveillance leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
+| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but adult TDT process evidence now adds repeat mobilization, multiple-product-lot use, and an FDA-described relatively high clinical-lot failure rate with redacted counts. Full myeloablation, a reported fatal busulfan-related event, required long-term safety surveillance, incomplete commercial denominators, and missing delivered cost leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
@@ -136,6 +136,64 @@ nonrandomized, and the route still requires individualized manufacture plus
 full busulfan myeloablation. No failed-batch denominator, itemized delivered
 cost, Indonesia authorization, qualified-center capacity, or payer route was
 reported.
+
+The adult exa-cel trial and FDA manufacturing review now close part of the
+comparison gap created by the beti-cel process update. All 59 adult TDT
+participants started mobilization and 52 received exa-cel at the interim
+cutoff. Nineteen percent of infused participants needed more than one
+mobilization cycle, with a range of one to four. FDA's CMC reviewer separately
+described a relatively high clinical-lot failure rate and multiple-lot use, but
+the exact counts and rates are redacted. This rejects an assumed exa-cel
+collection or manufacturing advantage. It does not support a numerical cross-
+product comparison or an affordable-route promotion.
+
+## August 13 Exa-Cel Process-Burden Decision
+
+**Question:** Do adult TDT trial and FDA manufacturing records establish a
+collection or manufacturing advantage for exa-cel over beti-cel that is strong
+enough to change the affordable-curative route ranking?
+
+**Decision:**
+`hold_exa_cel_at_strong_curative_benchmark_only_after_process_burden_quantification`.
+
+- **Fact - process denominator:** In adult trial `NCT03655678`, 59
+  participants started mobilization, 53 started busulfan conditioning, and 52
+  received exa-cel at the January 16, 2023 interim cutoff. Three discontinued
+  after mobilization and before conditioning. The visible review does not
+  provide final dispositions for the other four participants outside the
+  infused and documented-discontinuation groups.
+- **Fact - repeat collection:** Eighty-one percent of the 52 infused
+  participants required one mobilization cycle. The other 19% needed more than
+  one, with a range of one to four. The current FDA label requires backup-cell
+  collection and allows additional cycles when the minimum product dose is not
+  met.
+- **Fact - manufacturing:** FDA's CMC review states that some participants
+  needed multiple product lots. The attempted-lot, rejected-lot, and
+  indication-specific failure counts are redacted, but the reviewer describes
+  a relatively high failure rate and names visible causes including starting-
+  material contamination and inadequate cell number.
+- **Comparator boundary:** Beti-cel's parent-study collection analysis starts
+  with all 66 participants who initiated mobilization, while exa-cel's cycle
+  distribution is reported among the 52 infused participants. These are not
+  denominator-aligned rates and cannot establish equivalence or superiority.
+- **Interpretation:** Exa-cel remains a strong curative benchmark, not an
+  affordable route. Future comparisons must count every attempted product lot,
+  not only accepted and infused product.
+- **Affordability gate:** No reviewed source supplies complete commercial
+  referral-to-infusion throughput, exact exa-cel clinical-lot failure rates,
+  itemized delivered cost, Indonesia manufacture or authorization, center
+  capacity, or payer evidence. Matched-sibling HSCT remains the leading
+  affordable-curative route benchmark for its narrow studied scope.
+- **Falsification criterion:** Deprioritize exa-cel as an affordable-route
+  candidate if a complete commercial cohort shows persistent collection or lot
+  failure, unacceptable conditioning or admission burden, or no credible total-
+  cost and capacity advantage over beti-cel while approaching matched-sibling
+  HSCT.
+- **Next decisive action:** Obtain exa-cel and beti-cel commercial cohorts with
+  identical referral, authorization, collection, attempted-lot, released-lot,
+  rejected-lot, infusion, complication, durable-outcome, and itemized-cost
+  fields. Compare the same fields with the narrow matched-sibling HSCT
+  benchmark. No patient action or sample routing follows.
 
 ## August 12 Beti-Cel Process-Attrition Decision
 
@@ -1549,6 +1607,12 @@ anchors, not biomedical evidence for any candidate.
 - [Proximity novelty gate V0](2026-04-28-proximity-novelty-gate-v0.md)
 - [PubMed PMID 41955126](https://pubmed.ncbi.nlm.nih.gov/41955126/)
 - [CDA-AMC exa-cel TDT pharmacoeconomic review](https://www.ncbi.nlm.nih.gov/books/NBK616627/)
+- [Current FDA CASGEVY label](https://www.fda.gov/media/174615/download)
+- [Adult exa-cel TDT primary report, PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/)
+- [Adult exa-cel TDT full report, DOI 10.1056/NEJMoa2309673](https://doi.org/10.1056/NEJMoa2309673)
+- [FDA Casgevy TDT approval-review archive](https://www.fda.gov/media/176033/download?attachment=)
+- [FDA Casgevy TDT Summary Basis for Regulatory Action](https://www.fda.gov/media/175842/download)
+- [Adult exa-cel TDT trial NCT03655678](https://clinicaltrials.gov/study/NCT03655678)
 - ClinicalTrials.gov benchmark records:
   [NCT06024876](https://clinicaltrials.gov/study/NCT06024876),
   [NCT07489196](https://clinicaltrials.gov/study/NCT07489196),

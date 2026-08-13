@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-12
+Last evidence update: 2026-08-13
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -120,9 +120,92 @@ delay, admission, and complication burdens. They do not supply a complete
 commercial referral-to-infusion denominator, final failed-lot denominator,
 itemized delivered cost, or Indonesia route.
 
+The corresponding exa-cel process review now blocks an assumed nonviral
+manufacturing advantage. In the adult TDT trial, all 59 participants started
+mobilization, 53 started busulfan conditioning, and 52 received exa-cel at the
+interim cutoff. Nineteen percent of infused participants required more than one
+mobilization cycle, with a range of one to four. FDA's CMC reviewer separately
+described a relatively high clinical-lot failure rate and multiple-lot use,
+while redacting the exact counts and rates. This changes exa-cel from a generic
+process gap to an observed collection and manufacturing burden, but does not
+permit a numerical comparison with beti-cel or an affordability claim.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 13 Exa-Cel Process-Burden Decision
+
+**Question:** Do adult TDT trial and FDA manufacturing records establish a
+collection or manufacturing advantage for exa-cel over beti-cel that is strong
+enough to change the affordable-curative route ranking?
+
+**Decision:**
+`hold_exa_cel_at_strong_curative_benchmark_only_after_process_burden_quantification`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact - adult process denominator:** In `NCT03655678`, all 59 participants
+  started mobilization, 53 started busulfan conditioning, and 52 received
+  exa-cel at the January 16, 2023 interim cutoff. The FDA statistical review
+  documents three discontinuations after mobilization and before conditioning:
+  withdrawal of consent for undisclosed reasons, a wish to undergo a second
+  apheresis procedure, and concern about continued participation.
+- **Denominator boundary:** The visible FDA snapshot does not assign a final
+  status to the other four mobilized participants outside the 52 infused and
+  three documented discontinuations. The 52 of 59 ratio is not a final
+  manufacturing-success or treatment-throughput rate.
+- **Fact - repeat collection:** The peer-reviewed adult report states that 81%
+  of the 52 infused participants required one mobilization cycle. The remaining
+  19% needed more than one, with a range of one to four. The current FDA label
+  reports a mean of 1.3 cycles, standard deviation 0.7, and median of one,
+  range one to four, for manufacture and backup-cell collection.
+- **Fact - label requirements:** The current FDA label recommends a total
+  collection target of at least 20 million CD34-positive cells per kilogram,
+  permits up to three consecutive collection days per cycle, requires
+  additional cycles if the minimum exa-cel dose is not met, and requires at
+  least 2 million unmodified backup CD34-positive cells per kilogram before
+  myeloablation.
+- **Fact - manufacturing failure signal:** FDA's CMC review states that some
+  participants required multiple product lots. Exact attempted-lot, rejected-
+  lot, and indication-specific failure counts are redacted. The reviewer
+  nevertheless calls the clinical-lot failure rate relatively high and names
+  visible causes including starting-material contamination and inadequate cell
+  number. Corrected particulate-inspection handling was expected to increase
+  near-term lot failures.
+- **Resolved contradiction:** FDA concluded that the validated manufacturing
+  process and controls can produce consistent-quality product. That conclusion
+  applies to process control and accepted product, not the separate attempted-
+  lot failure denominator. The batch analysis of released and administered
+  lots and the later review of rejected attempts use different denominators.
+- **Comparator boundary:** Beti-cel required two mobilization cycles in 13 of
+  66 parent-study participants and had one unsuccessful mobilization. Exa-cel
+  reports cycle distribution among infused participants. These denominators
+  are not aligned, so the visible similarity cannot establish equivalence or
+  superiority.
+- **Hypothesis:** Exa-cel could improve the affordable-curative ranking only if
+  a transferable commercial process shows lower referral-to-infusion
+  attrition, fewer repeated collections and failed lots, less conditioning and
+  admission burden, and a credible total-cost and capacity advantage over
+  beti-cel while approaching matched-sibling HSCT.
+- **Interpretation:** Keep exa-cel at a strong curative benchmark. The observed
+  process burden rejects an assumed manufacturing advantage and requires
+  attempted-lot, not only released-lot, accounting in future comparisons.
+- **Affordability and access:** Nonviral editing does not remove mobilization,
+  apheresis, backup-cell collection, individualized manufacture, full
+  myeloablation, specialist admission, or long-term surveillance. No reviewed
+  source supplies itemized delivered cost, Indonesia authorization, local
+  manufacture, center capacity, or a payer route.
+- **Falsification criterion:** Deprioritize exa-cel as an affordable-route
+  candidate if a complete commercial referral-to-durable-outcome cohort shows
+  persistent collection or lot failure, unacceptable conditioning or admission
+  burden, or no credible total-cost and capacity advantage over beti-cel while
+  approaching matched-sibling HSCT.
+- **Next decisive action:** Obtain owner-verified exa-cel and beti-cel
+  commercial cohorts using identical referral, authorization, collection,
+  attempted-lot, released-lot, rejected-lot, infusion, complication, durable-
+  outcome, and itemized-cost fields. Compare those with the narrow matched-
+  sibling HSCT benchmark. No patient action or sample routing follows.
 
 ## August 12 Beti-Cel Process-Attrition Decision
 
@@ -1556,7 +1639,7 @@ Decision: `hold_registry_watch`
 
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
-| Autologous gene-cell therapy | FDA CASGEVY page, pediatric exa-cel primary result, CTX001 registry records | Strong curative benchmark; full myeloablation and the reported busulfan-related fatality block affordable-route promotion. |
+| Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records | Strong curative benchmark; repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, and the reported busulfan-related fatality block affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
@@ -1595,6 +1678,12 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [June 22 source JSON](../../../data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json)
 - [June 22 workflow JSON](../../../data/workflows/case-001/2026-06-22-current-curative-evidence-radar-gate.json)
 - [FDA CASGEVY](https://www.fda.gov/vaccines-blood-biologics/casgevy)
+- [Current FDA CASGEVY label](https://www.fda.gov/media/174615/download)
+- [Adult exa-cel TDT primary report, PMID 38657265](https://pubmed.ncbi.nlm.nih.gov/38657265/)
+- [Adult exa-cel TDT full report, DOI 10.1056/NEJMoa2309673](https://doi.org/10.1056/NEJMoa2309673)
+- [FDA Casgevy TDT approval-review archive](https://www.fda.gov/media/176033/download?attachment=)
+- [FDA Casgevy TDT Summary Basis for Regulatory Action](https://www.fda.gov/media/175842/download)
+- [Adult exa-cel TDT trial NCT03655678](https://clinicaltrials.gov/study/NCT03655678)
 - [FDA ZYNTEGLO](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA ZYNTEGLO package insert](https://www.fda.gov/media/160991/download)
 - [Long-term beti-cel primary paper, PMID 41525466](https://pubmed.ncbi.nlm.nih.gov/41525466/)

@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-13
+Last evidence update: 2026-08-14
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -30,7 +30,7 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
-| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A Jakarta conference report now adds two-case local execution, but both cases developed VOD and no complete attempted denominator, transfusion-independence, long-term outcome, or itemized cost is reported. A new long-term synthesis and its 39-year primary cohort add historical survival, recurrence, endocrine, fertility, and secondary-cancer evidence, but contain count and possible cohort-overlap limitations. Matched-sibling restriction, modern five-year outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
+| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A 205-child Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, with 172 alive and transfusion-free at last follow-up. It does not isolate matched-sibling outcomes and contains survival-horizon and graft-failure-label conflicts. Jakarta adds two-case execution, but not routine access or itemized cost. Donor restriction, current-era long-term outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
 | Indonesia pediatric matched-sibling HSCT execution | `indonesia_execution_benchmark_only` | APBMT abstract `A-198` reports two pediatric beta-thalassemia major transplants at one Jakarta center, both with HLA-matched sibling donors, day-28 100% donor chimerism, and VOD despite prophylaxis. A current center page supports a facility signal, while a generic Rp800 million to Rp2 billion hospital range remains non-itemized and non-thalassemia-specific. Two selected cases do not establish routine access, scale, durability, safety, payer coverage, or affordability. |
 | RSUP Dr. Kariadi government HSCT | `adult_malignancy_hsct_execution_and_cost_audit_benchmark_only` | A 45-adult malignant-disease cohort establishes 38 autologous and 7 allogeneic procedures from 2013-2023, while a three-pair acute-leukemia study adds a 2023-2024 allogeneic activity-based cost benchmark. The cost paper contains two incompatible total, phase, and recovery-ratio calculation sets. No thalassemia case, current license decision, complete safety denominator, corrected cost, or payer evidence supports a thalassemia execution or affordability claim. |
 | BUSULFEX conditioning input | `indonesia_registered_conditioning_product_benchmark_only` | A current official BPOM record confirms one valid intravenous busulfan product registration and an Indonesian importer and repacker. The approved product information is not thalassemia-specific and provides no hospital stock, procurement, monitoring-capacity, payer, or delivered-cost evidence. |
@@ -146,6 +146,63 @@ described a relatively high clinical-lot failure rate and multiple-lot use, but
 the exact counts and rates are redacted. This rejects an assumed exa-cel
 collection or manufacturing advantage. It does not support a numerical cross-
 product comparison or an affordable-route promotion.
+
+The full PMID `42587379` report closes a regional long-term source gap for
+allogeneic HSCT. It adds 205 pediatric TDT transplants with median follow-up of
+100 months and 172 participants alive and transfusion-free at last follow-up.
+Most donors were HLA-identical siblings or other relatives. Mixed donor types,
+a 26-year enrollment window, unresolved survival-horizon and graft-failure
+labels, no donor-stratified outcome, and no delivered cost keep the evidence at
+a long-horizon regional durability benchmark only.
+
+## August 14 Regional Long-Horizon Pediatric HSCT Decision
+
+**Question:** Does the full 205-child regional TDT HSCT report justify moving
+matched-sibling HSCT beyond the leading affordable-curative route benchmark?
+
+**Decision:**
+`promote_hla_identical_related_hsct_to_long_horizon_regional_durability_benchmark_only`.
+
+- **Fact - cohort:** The retrospective single-center report covers 205
+  children transplanted from 1998 through 2024. Donors were 158 HLA-identical
+  siblings, 42 HLA-identical other relatives, four related one-antigen mismatch
+  donors, and one HLA-identical unrelated donor.
+- **Durability gate:** At median follow-up of 100 months, 172 of 205 were alive
+  and transfusion-free at last follow-up. Nineteen died and 20 had graft
+  failure after the first transplant. Five received salvage transplants, with
+  four alive and engrafted.
+- **Evidence boundary:** The report gives 90.4% overall survival and 81.5%
+  thalassemia-free survival, but labels them 20-year outcomes in prose and
+  24-year outcomes in Table 1. It also uses different graft-failure labels at
+  day 100, after first transplant, and latest evaluation.
+- **Conditioning boundary:** Reported thalassemia-free survival was 90.5% with
+  busulfan-cyclophosphamide-fludarabine and 76.7% with
+  busulfan-cyclophosphamide with or without ATG, `p=0.041`. Retrospective
+  calendar-era, donor, supportive-care, and selection confounding block causal
+  superiority.
+- **Safety gate:** Acute graft-versus-host disease occurred in 53 participants,
+  chronic graft-versus-host disease in eight of 194 evaluable participants,
+  and early hypertension, mucositis, CMV reactivation, bacterial infection,
+  viral infection, and fungal infection were all observed.
+- **Interpretation:** Promote a regional durability comparator, not the route
+  beyond `benchmark_only`. The source does not establish a matched-sibling-only
+  rate, modern protocol superiority, lifetime safety, affordability, Indonesia
+  access, or individual suitability.
+- **Affordability gate:** No itemized delivered cost, payer result, Indonesia
+  implementation denominator, procurement route, or capacity result is
+  reported. Myeloablation, donor restriction, admission, infection management,
+  and lifetime surveillance remain material.
+- **Falsification criterion:** Remove the new benchmark if a correction changes
+  the outcome denominator or long-horizon estimates materially, or if
+  donor-stratified analysis fails to preserve durable transfusion freedom in
+  the HLA-identical related subgroup. Remove the leading affordable-route label
+  if current-era matched-sibling follow-up shows material loss of five-year
+  thalassemia-free survival, unacceptable graft failure, death, severe
+  toxicity, or no lifetime delivered-cost advantage.
+- **Next decisive action:** Obtain author clarification for the survival
+  horizon, graft-failure labels, and unresolved hemoglobin unit. Then require
+  donor-stratified, calendar-era-stratified, number-at-risk, complete late-
+  safety, and itemized-cost data before broader promotion.
 
 ## August 13 Exa-Cel Process-Burden Decision
 
@@ -1644,6 +1701,8 @@ anchors, not biomedical evidence for any candidate.
 - [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [Regional long-horizon pediatric HSCT cohort, PMID 42587379](https://pubmed.ncbi.nlm.nih.gov/42587379/)
+- [Regional long-horizon pediatric HSCT full text, DOI 10.1002/ajh.70455](https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.70455)
 - [APBMT 2024 abstract book, abstract A-198](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2024.pdf)
 - [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
 - [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)

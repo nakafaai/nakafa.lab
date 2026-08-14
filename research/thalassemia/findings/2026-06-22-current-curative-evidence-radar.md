@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-13
+Last evidence update: 2026-08-14
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -17,8 +17,16 @@ but do not justify broader promotion. The synthesis mixes time horizons,
 contains denominator conflicts, and appears to include overlapping Pescara
 cohorts. Its 39-year primary cohort reports meaningful survival and cure
 alongside non-negligible mortality, recurrence, gonadal dysfunction, and
-secondary solid cancer. A current BPOM record now confirms one registered
-intravenous busulfan conditioning product and an Indonesian importer and
+secondary solid cancer. A new 205-child Saudi Arabian cohort now adds a
+long-horizon regional durability benchmark from a predominantly HLA-identical
+related-donor route. At median follow-up of 100 months, 172 participants were
+alive and transfusion-free at last follow-up. The article reports 90.4% overall
+survival and 81.5% thalassemia-free survival at a long horizon, but calls that
+horizon 20 years in prose and 24 years in Table 1. Mixed donors and eras,
+unresolved graft-failure labels, no donor-stratified outcome, and no delivered
+cost keep the source at a regional durability benchmark only. A current BPOM
+record now confirms one registered intravenous busulfan conditioning product
+and an Indonesian importer and
 repacker. This narrows a product-level regulatory identity gap but does not
 establish a thalassemia indication, hospital availability, monitoring capacity,
 affordability, or route delivery. A primary APBMT conference report now confirms
@@ -133,6 +141,68 @@ permit a numerical comparison with beti-cel or an affordability claim.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 14 Regional Long-Horizon Pediatric HSCT Decision
+
+**Question:** Does the full 205-child regional TDT HSCT report close the
+durability and affordability gaps enough to move matched-sibling HSCT beyond
+the leading affordable-curative route benchmark?
+
+**Decision:**
+`promote_hla_identical_related_hsct_to_long_horizon_regional_durability_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact - cohort and donor scope:** PMID `42587379`, DOI
+  `10.1002/ajh.70455`, retrospectively reports 205 pediatric TDT transplants at
+  one Saudi Arabian center from 1998 through 2024. Donors were 158
+  HLA-identical siblings, 42 HLA-identical other relatives, four related
+  one-antigen mismatch donors, and one HLA-identical unrelated donor. The
+  whole-cohort outcome is not a pure matched-sibling result.
+- **Fact - durable outcome:** After median follow-up of 100 months, 172 of 205
+  participants, 83.9%, were alive and transfusion-free at last follow-up.
+  Nineteen died. Twenty had graft failure after the first transplant; five
+  received salvage transplants and four engrafted and remained alive.
+- **Fact - reported long-horizon estimates:** The report gives 90.4% overall
+  survival and 81.5% thalassemia-free survival. Table 1 labels these 24-year
+  estimates while the prose calls them 20-year estimates. Preserve the result
+  as `long-horizon` pending correction.
+- **Fact - observed burden:** Acute graft-versus-host disease occurred in 53
+  participants, including 16 grade III or IV cases. Chronic graft-versus-host
+  disease occurred in eight of 194 evaluable participants. The first 100 days
+  included 142 hypertension, 53 severe-mucositis, 29 CMV-reactivation, 38
+  bacterial-infection, 37 viral-infection, and eight fungal-infection events.
+- **Conditioning boundary:** All participants received myeloablative
+  conditioning. The report associates busulfan-cyclophosphamide-fludarabine
+  with higher thalassemia-free survival than busulfan-cyclophosphamide with or
+  without ATG, 90.5% versus 76.7%, `p=0.041`. Retrospective calendar-era,
+  donor, supportive-care, and selection confounding block a causal regimen
+  claim.
+- **Resolved claim boundary:** The article reports a median last-follow-up
+  hemoglobin of 113 g/dL, range 91 to 156, without clarifying the unit. Do not
+  silently convert it. The value is excluded pending a publisher or author
+  correction.
+- **Interpretation:** Promote the source to a long-horizon regional durability
+  benchmark only. It strengthens confidence that predominantly
+  HLA-identical-related pediatric HSCT can produce durable transfusion freedom,
+  but does not establish a matched-sibling-specific rate, current-protocol
+  superiority, affordability, Indonesia access, or individual suitability.
+- **Affordability and access:** No itemized delivered cost, payer result,
+  Indonesia implementation denominator, procurement route, or center-capacity
+  result is reported. Myeloablation, donor restriction, transplant admission,
+  infection management, and lifetime surveillance remain material burdens.
+- **Falsification criterion:** Remove this benchmark if a correction materially
+  changes the 205-person outcome denominator or long-horizon estimates, or if
+  donor-stratified analysis shows durable transfusion freedom is not preserved
+  in the HLA-identical related subgroup. Remove the leading affordable-route
+  label if independent current-era matched-sibling follow-up shows material
+  loss of five-year thalassemia-free survival, unacceptable graft failure,
+  mortality, severe toxicity, or no lifetime delivered-cost advantage.
+- **Next decisive action:** Obtain author clarification for the 20-year versus
+  24-year horizon, the day-100, first-transplant, and latest graft-failure
+  labels, and the hemoglobin unit. Then require donor-stratified,
+  calendar-era-stratified, number-at-risk, late-safety, and itemized-cost data
+  before any broader promotion. No patient action or sample routing follows.
 
 ## August 13 Exa-Cel Process-Burden Decision
 
@@ -1644,7 +1714,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The Jakarta report establishes two-case local execution, but both cases developed VOD and no complete denominator, transfusion-independence, long-term outcome, or itemized cost is reported. The current BPOM record narrows one conditioning-product regulatory identity gap, but not the thalassemia indication, institutional availability, monitoring, safety, capacity, or cost gaps. TTF adds a matched-family conditioning benchmark, but not a pure matched-sibling estimate. Historical long-term survival and late effects strengthen the durability and surveillance gate, while synthesis count and overlap conflicts, conditioning, donor restriction, center capacity, and Indonesia lifetime cost keep it `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 205-child Saudi regional cohort, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, mixed donors and eras, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
@@ -1719,6 +1789,8 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Pediatric NTDT case report, PMID 42526830](https://pubmed.ncbi.nlm.nih.gov/42526830/)
 - [Matched-sibling LMIC transplant cohort, PMID 42469166](https://pubmed.ncbi.nlm.nih.gov/42469166/)
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
+- [Regional long-horizon pediatric HSCT cohort, PMID 42587379](https://pubmed.ncbi.nlm.nih.gov/42587379/)
+- [Regional long-horizon pediatric HSCT full text, DOI 10.1002/ajh.70455](https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.70455)
 - [APBMT 2024 abstract book, abstract A-198](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2024.pdf)
 - [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
 - [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)

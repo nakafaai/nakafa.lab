@@ -24,7 +24,12 @@ alive and transfusion-free at last follow-up. The article reports 90.4% overall
 survival and 81.5% thalassemia-free survival at a long horizon, but calls that
 horizon 20 years in prose and 24 years in Table 1. Mixed donors and eras,
 unresolved graft-failure labels, no donor-stratified outcome, and no delivered
-cost keep the source at a regional durability benchmark only. A current BPOM
+cost keep the source at a regional durability benchmark only. Supplementary
+Table S2 adds 28 early sinusoidal obstruction syndrome or veno-occlusive
+disease events, 10 seizures, 20 hemorrhagic cystitis events, and six
+encephalopathy events. Supplementary Table S3 contains 31 cause assignments
+across 19 deaths despite a singular primary-cause heading, so it cannot support
+mutually exclusive cause-specific mortality rates. A current BPOM
 record now confirms one registered intravenous busulfan conditioning product
 and an Indonesian importer and
 repacker. This narrows a product-level regulatory identity gap but does not
@@ -149,10 +154,16 @@ durability and affordability gaps enough to move matched-sibling HSCT beyond
 the leading affordable-curative route benchmark?
 
 **Decision:**
-`promote_hla_identical_related_hsct_to_long_horizon_regional_durability_benchmark_only`.
+`hold_hla_identical_related_hsct_at_long_horizon_regional_durability_benchmark_only_after_supplement_safety_review`.
 Matched-sibling HSCT remains
 `leading_affordable_curative_route_benchmark_only`.
 
+- **Mechanism and scope:** Myeloablative conditioning and allogeneic donor HSPC
+  infusion replace ineffective recipient erythropoiesis with donor
+  hematopoiesis. The observed scope is pediatric TDT without a reported
+  genotype breakdown and with mixed donor types.
+- **Evidence tier:** Direct human outcome evidence from a retrospective,
+  single-center, nonrandomized cohort spanning 26 enrollment years.
 - **Fact - cohort and donor scope:** PMID `42587379`, DOI
   `10.1002/ajh.70455`, retrospectively reports 205 pediatric TDT transplants at
   one Saudi Arabian center from 1998 through 2024. Donors were 158
@@ -169,9 +180,16 @@ Matched-sibling HSCT remains
   as `long-horizon` pending correction.
 - **Fact - observed burden:** Acute graft-versus-host disease occurred in 53
   participants, including 16 grade III or IV cases. Chronic graft-versus-host
-  disease occurred in eight of 194 evaluable participants. The first 100 days
-  included 142 hypertension, 53 severe-mucositis, 29 CMV-reactivation, 38
-  bacterial-infection, 37 viral-infection, and eight fungal-infection events.
+  disease occurred in eight of 194 evaluable participants. [Supplementary Table
+  S2](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fajh.70455&file=ajh70455-sup-0003-TableS2.docx)
+  reports 28 early sinusoidal obstruction syndrome or veno-occlusive disease
+  events, 10 seizures, 20 hemorrhagic cystitis events, six encephalopathy
+  events, and the reported infectious and mucositis burdens.
+- **Resolved denominator boundary:** [Supplementary Table S3](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fajh.70455&file=ajh70455-sup-0004-TableS3.docx)
+  lists 31 cause assignments across 19 deaths under the singular heading
+  `Primary contributing cause`. Treat the categories as overlapping or
+  mislabeled, not as mutually exclusive cause-specific mortality rates. The
+  table also does not quantify time-bounded transplant-related mortality.
 - **Conditioning boundary:** All participants received myeloablative
   conditioning. The report associates busulfan-cyclophosphamide-fludarabine
   with higher thalassemia-free survival than busulfan-cyclophosphamide with or
@@ -182,11 +200,12 @@ Matched-sibling HSCT remains
   hemoglobin of 113 g/dL, range 91 to 156, without clarifying the unit. Do not
   silently convert it. The value is excluded pending a publisher or author
   correction.
-- **Interpretation:** Promote the source to a long-horizon regional durability
-  benchmark only. It strengthens confidence that predominantly
-  HLA-identical-related pediatric HSCT can produce durable transfusion freedom,
-  but does not establish a matched-sibling-specific rate, current-protocol
-  superiority, affordability, Indonesia access, or individual suitability.
+- **Interpretation:** Hold the source at a long-horizon regional durability
+  benchmark after supplement safety review. It strengthens confidence that
+  predominantly HLA-identical-related pediatric HSCT can produce durable
+  transfusion freedom, but does not establish a matched-sibling-specific rate,
+  current-protocol superiority, safety advantage, affordability, Indonesia
+  access, or individual suitability.
 - **Affordability and access:** No itemized delivered cost, payer result,
   Indonesia implementation denominator, procurement route, or center-capacity
   result is reported. Myeloablation, donor restriction, transplant admission,
@@ -198,11 +217,13 @@ Matched-sibling HSCT remains
   label if independent current-era matched-sibling follow-up shows material
   loss of five-year thalassemia-free survival, unacceptable graft failure,
   mortality, severe toxicity, or no lifetime delivered-cost advantage.
-- **Next decisive action:** Obtain author clarification for the 20-year versus
-  24-year horizon, the day-100, first-transplant, and latest graft-failure
-  labels, and the hemoglobin unit. Then require donor-stratified,
-  calendar-era-stratified, number-at-risk, late-safety, and itemized-cost data
-  before any broader promotion. No patient action or sample routing follows.
+- **Next decisive action:** A research evidence owner should obtain author
+  clarification for the 20-year versus 24-year horizon, the day-100,
+  first-transplant, and latest graft-failure labels, the hemoglobin unit, the
+  mucositis severity label, and whether Table S3 categories overlap. Then
+  require donor-stratified, calendar-era-stratified, number-at-risk,
+  time-bounded mortality, late-safety, and itemized-cost data before any
+  broader promotion. No patient action or sample routing follows.
 
 ## August 13 Exa-Cel Process-Burden Decision
 
@@ -1714,7 +1735,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 205-child Saudi regional cohort, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, mixed donors and eras, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 205-child Saudi regional cohort and supplements, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Its supplement quantifies 28 early SOS/VOD events and exposes overlapping or mislabeled death-cause assignments. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, mixed donors and eras, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |

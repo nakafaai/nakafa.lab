@@ -30,7 +30,7 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
-| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A 205-child Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, with 172 alive and transfusion-free at last follow-up. It does not isolate matched-sibling outcomes and contains survival-horizon and graft-failure-label conflicts. Jakarta adds two-case execution, but not routine access or itemized cost. Donor restriction, current-era long-term outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
+| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A 205-child Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, with 172 alive and transfusion-free at last follow-up. Its supplement quantifies 28 early SOS/VOD events and exposes overlapping or mislabeled death-cause assignments. It does not isolate matched-sibling outcomes and contains survival-horizon and graft-failure-label conflicts. Jakarta adds two-case execution, but not routine access or itemized cost. Donor restriction, current-era long-term outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
 | Indonesia pediatric matched-sibling HSCT execution | `indonesia_execution_benchmark_only` | APBMT abstract `A-198` reports two pediatric beta-thalassemia major transplants at one Jakarta center, both with HLA-matched sibling donors, day-28 100% donor chimerism, and VOD despite prophylaxis. A current center page supports a facility signal, while a generic Rp800 million to Rp2 billion hospital range remains non-itemized and non-thalassemia-specific. Two selected cases do not establish routine access, scale, durability, safety, payer coverage, or affordability. |
 | RSUP Dr. Kariadi government HSCT | `adult_malignancy_hsct_execution_and_cost_audit_benchmark_only` | A 45-adult malignant-disease cohort establishes 38 autologous and 7 allogeneic procedures from 2013-2023, while a three-pair acute-leukemia study adds a 2023-2024 allogeneic activity-based cost benchmark. The cost paper contains two incompatible total, phase, and recovery-ratio calculation sets. No thalassemia case, current license decision, complete safety denominator, corrected cost, or payer evidence supports a thalassemia execution or affordability claim. |
 | BUSULFEX conditioning input | `indonesia_registered_conditioning_product_benchmark_only` | A current official BPOM record confirms one valid intravenous busulfan product registration and an Indonesian importer and repacker. The approved product information is not thalassemia-specific and provides no hospital stock, procurement, monitoring-capacity, payer, or delivered-cost evidence. |
@@ -155,14 +155,26 @@ a 26-year enrollment window, unresolved survival-horizon and graft-failure
 labels, no donor-stratified outcome, and no delivered cost keep the evidence at
 a long-horizon regional durability benchmark only.
 
+Official Supplementary Table S2 adds early SOS/VOD, neurologic, bladder, and
+infectious toxicity denominators. Supplementary Table S3 lists 31 cause
+assignments across 19 deaths under a singular primary-cause heading. The
+categories overlap or the heading is incorrect, so they do not support unique
+cause-specific or time-bounded transplant-related mortality rates.
+
 ## August 14 Regional Long-Horizon Pediatric HSCT Decision
 
 **Question:** Does the full 205-child regional TDT HSCT report justify moving
 matched-sibling HSCT beyond the leading affordable-curative route benchmark?
 
 **Decision:**
-`promote_hla_identical_related_hsct_to_long_horizon_regional_durability_benchmark_only`.
+`hold_hla_identical_related_hsct_at_long_horizon_regional_durability_benchmark_only_after_supplement_safety_review`.
 
+- **Mechanism and scope:** Myeloablative conditioning and allogeneic donor HSPC
+  infusion replace ineffective recipient erythropoiesis with donor
+  hematopoiesis. The observed scope is pediatric TDT without a reported
+  genotype breakdown and with mixed donor types.
+- **Evidence tier:** Direct human outcome evidence from a retrospective,
+  single-center, nonrandomized cohort spanning 26 enrollment years.
 - **Fact - cohort:** The retrospective single-center report covers 205
   children transplanted from 1998 through 2024. Donors were 158 HLA-identical
   siblings, 42 HLA-identical other relatives, four related one-antigen mismatch
@@ -180,14 +192,20 @@ matched-sibling HSCT beyond the leading affordable-curative route benchmark?
   busulfan-cyclophosphamide with or without ATG, `p=0.041`. Retrospective
   calendar-era, donor, supportive-care, and selection confounding block causal
   superiority.
-- **Safety gate:** Acute graft-versus-host disease occurred in 53 participants,
-  chronic graft-versus-host disease in eight of 194 evaluable participants,
-  and early hypertension, mucositis, CMV reactivation, bacterial infection,
-  viral infection, and fungal infection were all observed.
-- **Interpretation:** Promote a regional durability comparator, not the route
-  beyond `benchmark_only`. The source does not establish a matched-sibling-only
-  rate, modern protocol superiority, lifetime safety, affordability, Indonesia
-  access, or individual suitability.
+- **Safety gate:** Acute graft-versus-host disease occurred in 53 participants
+  and chronic graft-versus-host disease in eight of 194 evaluable participants.
+  [Supplementary Table S2](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fajh.70455&file=ajh70455-sup-0003-TableS2.docx)
+  adds 28 early SOS/VOD events, 10 seizures, 20 hemorrhagic cystitis events, six
+  encephalopathy events, and the reported infectious and mucositis burdens.
+- **Resolved denominator boundary:** [Supplementary Table S3](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fajh.70455&file=ajh70455-sup-0004-TableS3.docx)
+  lists 31 cause assignments across 19 deaths. Treat them as overlapping or
+  mislabeled, not as mutually exclusive participant counts or cause-specific
+  mortality rates.
+- **Interpretation:** Hold the regional durability comparator after supplement
+  safety review. Do not promote the route beyond `benchmark_only`. The source
+  does not establish a matched-sibling-only rate, modern protocol superiority,
+  a safety advantage, lifetime safety, affordability, Indonesia access, or
+  individual suitability.
 - **Affordability gate:** No itemized delivered cost, payer result, Indonesia
   implementation denominator, procurement route, or capacity result is
   reported. Myeloablation, donor restriction, admission, infection management,
@@ -199,10 +217,12 @@ matched-sibling HSCT beyond the leading affordable-curative route benchmark?
   if current-era matched-sibling follow-up shows material loss of five-year
   thalassemia-free survival, unacceptable graft failure, death, severe
   toxicity, or no lifetime delivered-cost advantage.
-- **Next decisive action:** Obtain author clarification for the survival
-  horizon, graft-failure labels, and unresolved hemoglobin unit. Then require
-  donor-stratified, calendar-era-stratified, number-at-risk, complete late-
-  safety, and itemized-cost data before broader promotion.
+- **Next decisive action:** A research evidence owner should obtain author
+  clarification for the survival horizon, graft-failure labels, hemoglobin
+  unit, mucositis severity label, and whether Table S3 categories overlap.
+  Then require donor-stratified, calendar-era-stratified, number-at-risk,
+  time-bounded mortality, complete late-safety, and itemized-cost data before
+  broader promotion.
 
 ## August 13 Exa-Cel Process-Burden Decision
 

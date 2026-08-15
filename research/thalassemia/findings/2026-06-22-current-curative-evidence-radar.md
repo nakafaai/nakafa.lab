@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-14
+Last evidence update: 2026-08-15
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -29,7 +29,16 @@ Table S2 adds 28 early sinusoidal obstruction syndrome or veno-occlusive
 disease events, 10 seizures, 20 hemorrhagic cystitis events, and six
 encephalopathy events. Supplementary Table S3 contains 31 cause assignments
 across 19 deaths despite a singular primary-cause heading, so it cannot support
-mutually exclusive cause-specific mortality rates. A current BPOM
+mutually exclusive cause-specific mortality rates. A newly integrated Malaysian
+cohort now adds a Southeast Asian long-horizon outcome and observed-burden
+benchmark. It includes 115 consecutive children, 96 with matched-sibling
+donors, followed for a median of 18 years. The full cohort's reported 15-year
+overall survival was 83.5% and thalassemia-free survival was 71.3%, alongside
+18 transplant-related deaths, 30 graft failures, 30 grade II to IV acute
+graft-versus-host disease events, and 32 veno-occlusive disease events. Mixed
+donors, regimens, and eras, absent pharmacokinetic monitoring, no local
+transplant cost, and several denominator and table-to-prose conflicts block
+route or regimen promotion. A current BPOM
 record now confirms one registered intravenous busulfan conditioning product
 and an Indonesian importer and
 repacker. This narrows a product-level regulatory identity gap but does not
@@ -146,6 +155,89 @@ permit a numerical comparison with beti-cel or an affordability claim.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 15 Malaysian Long-Horizon Pediatric HSCT Decision
+
+**Question:** Does the Malaysian 115-child TDT HSCT cohort close the Southeast
+Asian long-term outcome and affordability gaps enough to promote
+matched-sibling HSCT or an ATG-containing conditioning regimen beyond
+benchmark-only status?
+
+**Decision:**
+`promote_malaysia_pediatric_hsct_to_southeast_asian_long_horizon_outcome_and_burden_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Myeloablative conditioning followed by allogeneic
+  donor HSPC infusion replaces ineffective recipient erythropoiesis. The
+  observed population is 115 children with TDT transplanted at one Malaysian
+  center from 1987 through 2023, not a current-protocol or pure matched-sibling
+  cohort.
+- **Evidence tier:** Direct human outcome evidence from a retrospective,
+  single-center, nonrandomized cohort spanning 36 years.
+- **Fact - cohort and donor scope:** PMID `42466977`, DOI
+  `10.4103/singaporemedj.SMJ-2024-235`, reports 115 consecutive children and
+  128 transplant procedures. Ninety-six children received matched-sibling
+  grafts, 13 received matched-unrelated umbilical cord blood, and six received
+  haploidentical family grafts.
+- **Fact - long-horizon outcome:** At median follow-up of 18 years, range 1 to
+  36, the full cohort's reported 15-year overall survival was 83.5% and
+  thalassemia-free survival was 71.3%. Table 2 reports matched-sibling estimates
+  of 86.5% and 72.9%, but provides no calendar-era split or number-at-risk table.
+- **Fact - observed burden:** The report gives 18 transplant-related deaths,
+  including 14 within 100 days; 30 graft failures, including 17 primary and 13
+  secondary; 30 grade II to IV and 10 grade III to IV acute
+  graft-versus-host disease events; 10 chronic graft-versus-host disease
+  events; and 32 veno-occlusive disease events, including seven severe events.
+- **Conditioning boundary:** All participants received myeloablative
+  conditioning and none had pharmacokinetic monitoring. Table 1 lists 62
+  busulfan-cyclophosphamide recipients without ATG, 32 with ATG, and 21 people
+  in other ATG-containing regimens. ATG use followed physician preference.
+  These retrospective associations do not establish causal regimen
+  superiority.
+- **Contradiction - denominator:** The graft-failure section says 30 of 155
+  patients, while the cohort contains 115 and 30 corresponds to the reported
+  26.1% only against 115. The 155 denominator is retained as a source error
+  pending correction.
+- **Contradiction - regimen:** The abstract says 32 of 62
+  busulfan-cyclophosphamide recipients had ATG, while Table 1 lists 62
+  busulfan-cyclophosphamide recipients and a separate 32-person
+  busulfan-cyclophosphamide-ATG group.
+- **Contradiction - statistical reporting:** The graft-failure prose truncates
+  the upper ATG confidence limit to `0.506`; Table 3 and the abstract report
+  `40.506` and `40.51`. The acute graft-versus-host disease prose combines the
+  marrow-source matched-sibling estimate, RR 2.001 with `p=0.211`, with the
+  donor-relationship matched-sibling result, RR 0.112 with `p=0.043`.
+- **Interpretation:** Promote the source only to a Southeast Asian long-horizon
+  outcome and observed-burden benchmark. It strengthens regional execution
+  evidence, but it does not establish a current matched-sibling rate, causal
+  ATG benefit, safety advantage, affordability, Indonesia access, or individual
+  suitability.
+- **Hypothesis:** A current, standardized matched-sibling marrow program in
+  Southeast Asia with regimen-specific pharmacokinetic monitoring can improve
+  graft failure and early mortality relative to this mixed-era benchmark while
+  retaining a delivered-cost advantage over individualized autologous
+  gene-cell therapy.
+- **Affordability and access:** The paper cites a prior Malaysian estimate for
+  lifetime standard care but reports no HSCT delivery cost, payer payment,
+  capacity denominator, or gene-cell comparator using aligned cost fields. It
+  supplies no Indonesia authorization or implementation result.
+- **Falsification criterion:** Remove this benchmark if a correction materially
+  changes the 115-child denominator or the reported 15-year outcomes. Do not
+  advance the ATG association unless corrected, era-adjusted and
+  regimen-aligned analysis reproduces lower graft failure and acute
+  graft-versus-host disease without an unacceptable infection, mortality, or
+  cost penalty. Remove the leading affordable-route label if a current matched-
+  sibling cohort fails the existing durability, severe-toxicity, or lifetime
+  delivered-cost thresholds.
+- **Next decisive action:** Obtain author or publisher correction for the 155
+  denominator, the ATG group denominator, the graft-failure confidence
+  interval, and the acute graft-versus-host disease regression description.
+  Then request current-era matched-sibling number-at-risk, regimen,
+  pharmacokinetic, graft-failure, mortality, late endocrine, fertility,
+  malignancy, organ, and itemized-cost fields for comparison with the 176-child
+  LMIC cohort and the two-case Indonesia execution benchmark. No patient action
+  or sample routing follows.
 
 ## August 14 Regional Long-Horizon Pediatric HSCT Decision
 
@@ -1735,7 +1827,7 @@ Decision: `hold_registry_watch`
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
-| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 205-child Saudi regional cohort and supplements, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. The Saudi cohort adds a long-horizon regional durability signal from predominantly HLA-identical related donors, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Its supplement quantifies 28 early SOS/VOD events and exposes overlapping or mislabeled death-cause assignments. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, mixed donors and eras, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
+| Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 115-child Malaysian and 205-child Saudi regional cohorts, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. Malaysia adds a Southeast Asian median 18-year follow-up signal from a cohort with 96 matched-sibling donors, but its mixed eras, absent pharmacokinetic monitoring, missing transplant cost, and reporting conflicts block route or regimen promotion. The Saudi cohort adds long-horizon regional durability, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
@@ -1812,6 +1904,8 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Matched-sibling LMIC transplant full text, DOI 10.1182/bloodadvances.2025019083](https://doi.org/10.1182/bloodadvances.2025019083)
 - [Regional long-horizon pediatric HSCT cohort, PMID 42587379](https://pubmed.ncbi.nlm.nih.gov/42587379/)
 - [Regional long-horizon pediatric HSCT full text, DOI 10.1002/ajh.70455](https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.70455)
+- [Malaysian pediatric TDT HSCT cohort, PMID 42466977](https://pubmed.ncbi.nlm.nih.gov/42466977/)
+- [Malaysian cohort full text, DOI 10.4103/singaporemedj.SMJ-2024-235](https://www.ovid.com/jnls/smj/fulltext/10.4103/singaporemedj.smj-2024-235~haematopoietic-stem-cell-transplantation-for-children-with)
 - [APBMT 2024 abstract book, abstract A-198](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2024.pdf)
 - [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
 - [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)

@@ -164,8 +164,10 @@ matched-sibling HSCT or an ATG-containing conditioning regimen beyond
 benchmark-only status?
 
 **Decision:**
-`promote_malaysia_pediatric_hsct_to_southeast_asian_long_horizon_outcome_and_burden_benchmark_only`.
-Matched-sibling HSCT remains
+`hold_malaysia_atg_association_at_historical_noncausal_conditioning_comparator_only`.
+The cohort retains
+`southeast_asian_long_horizon_outcome_and_burden_benchmark_only`, and
+matched-sibling HSCT remains
 `leading_affordable_curative_route_benchmark_only`.
 
 - **Mechanism and scope:** Myeloablative conditioning followed by allogeneic
@@ -190,29 +192,38 @@ Matched-sibling HSCT remains
   graft-versus-host disease events; 10 chronic graft-versus-host disease
   events; and 32 veno-occlusive disease events, including seven severe events.
 - **Conditioning boundary:** All participants received myeloablative
-  conditioning and none had pharmacokinetic monitoring. Table 1 lists 62
-  busulfan-cyclophosphamide recipients without ATG, 32 with ATG, and 21 people
-  in other ATG-containing regimens. ATG use followed physician preference.
-  These retrospective associations do not establish causal regimen
-  superiority.
+  conditioning and none had pharmacokinetic monitoring. The Results text and
+  Table 1 both report 53 ATG-exposed children and 62 without ATG. The five
+  regimen counts sum to 115: 62 busulfan-cyclophosphamide, 32
+  busulfan-cyclophosphamide-ATG, 4
+  busulfan-cyclophosphamide-melphalan-ATG, 3 total-body-irradiation-
+  cyclophosphamide-ATG, and 14 busulfan-fludarabine-ATG. ATG use followed
+  physician preference. These retrospective associations do not establish
+  causal regimen superiority.
 - **Contradiction - denominator:** The graft-failure section says 30 of 155
   patients, while the cohort contains 115 and 30 corresponds to the reported
   26.1% only against 115. The 155 denominator is retained as a source error
   pending correction.
-- **Contradiction - regimen:** The abstract says 32 of 62
-  busulfan-cyclophosphamide recipients had ATG, while Table 1 lists 62
-  busulfan-cyclophosphamide recipients and a separate 32-person
-  busulfan-cyclophosphamide-ATG group.
-- **Contradiction - statistical reporting:** The graft-failure prose truncates
-  the upper ATG confidence limit to `0.506`; Table 3 and the abstract report
-  `40.506` and `40.51`. The acute graft-versus-host disease prose combines the
-  marrow-source matched-sibling estimate, RR 2.001 with `p=0.211`, with the
-  donor-relationship matched-sibling result, RR 0.112 with `p=0.043`.
-- **Interpretation:** Promote the source only to a Southeast Asian long-horizon
-  outcome and observed-burden benchmark. It strengthens regional execution
-  evidence, but it does not establish a current matched-sibling rate, causal
-  ATG benefit, safety advantage, affordability, Indonesia access, or individual
-  suitability.
+- **Resolved contradiction - ATG denominator:** The Results text, the five
+  regimen rows, and the explicit Table 1 ATG field align at 53 exposed and 62
+  not exposed. Treat the abstract's `32 of 62` wording as a malformed subgroup
+  statement, not as an alternate denominator.
+- **Resolved numeric boundary:** The graft-failure prose truncates the upper
+  no-ATG confidence limit to `0.506`; Table 3 reports `40.506`, consistent with
+  the abstract's rounded `40.51`. The acute graft-versus-host disease prose
+  still combines the marrow-source matched-sibling estimate, RR 2.001 with
+  `p=0.211`, with the donor-relationship matched-sibling result, RR 0.112 with
+  `p=0.043`. Table 4 separates the numeric rows but does not resolve its
+  variable labels or causal interpretation.
+- **Interpretation:** Hold the Malaysian ATG association at a historical,
+  noncausal conditioning comparator only. The source retains its Southeast
+  Asian long-horizon outcome and observed-burden benchmark, but it does not
+  establish a current matched-sibling rate, causal ATG benefit, safety
+  advantage, affordability, Indonesia access, or individual suitability.
+- **Safety risk:** The observed route burden includes 18 transplant-related
+  deaths, 30 graft failures, 30 grade II to IV acute graft-versus-host disease
+  events, and 32 veno-occlusive disease events. No regimen-aligned infection or
+  ATG-specific harm denominator supports a net safety-benefit claim.
 - **Hypothesis:** A current, standardized matched-sibling marrow program in
   Southeast Asia with regimen-specific pharmacokinetic monitoring can improve
   graft failure and early mortality relative to this mixed-era benchmark while
@@ -223,21 +234,21 @@ Matched-sibling HSCT remains
   capacity denominator, or gene-cell comparator using aligned cost fields. It
   supplies no Indonesia authorization or implementation result.
 - **Falsification criterion:** Remove this benchmark if a correction materially
-  changes the 115-child denominator or the reported 15-year outcomes. Do not
-  advance the ATG association unless corrected, era-adjusted and
-  regimen-aligned analysis reproduces lower graft failure and acute
-  graft-versus-host disease without an unacceptable infection, mortality, or
-  cost penalty. Remove the leading affordable-route label if a current matched-
-  sibling cohort fails the existing durability, severe-toxicity, or lifetime
-  delivered-cost thresholds.
-- **Next decisive action:** Obtain author or publisher correction for the 155
-  denominator, the ATG group denominator, the graft-failure confidence
-  interval, and the acute graft-versus-host disease regression description.
-  Then request current-era matched-sibling number-at-risk, regimen,
-  pharmacokinetic, graft-failure, mortality, late endocrine, fertility,
-  malignancy, organ, and itemized-cost fields for comparison with the 176-child
-  LMIC cohort and the two-case Indonesia execution benchmark. No patient action
-  or sample routing follows.
+  changes the 115-child denominator or the reported 15-year outcomes. Reverse
+  the ATG hold only if corrected, era-adjusted and regimen-aligned analysis
+  independently reproduces lower graft failure and acute graft-versus-host
+  disease without an unacceptable infection, mortality, or cost penalty.
+  Remove the leading affordable-route label if a current matched-sibling cohort
+  fails the existing durability, severe-toxicity, or lifetime delivered-cost
+  thresholds.
+- **Next decisive action:** A research evidence owner should obtain author or
+  publisher correction for the 155 graft-failure denominator and the acute
+  graft-versus-host disease variable labels. The same request should seek a
+  participant-level, calendar-era-stratified table aligning donor, regimen,
+  ATG preparation, infection, graft failure, mortality, late endocrine,
+  fertility, malignancy, organ, and itemized-cost fields for comparison with
+  the 176-child LMIC cohort and the two-case Indonesia execution benchmark. No
+  patient action or sample routing follows.
 
 ## August 14 Regional Long-Horizon Pediatric HSCT Decision
 

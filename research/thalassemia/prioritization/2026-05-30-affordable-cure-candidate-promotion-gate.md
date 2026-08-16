@@ -40,6 +40,7 @@ answers:
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but adult TDT process evidence now adds repeat mobilization, multiple-product-lot use, and an FDA-described relatively high clinical-lot failure rate with redacted counts. Full myeloablation, a reported fatal busulfan-related event, required long-term safety surveillance, incomplete commercial denominators, and missing delivered cost leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
+| Gene-cell therapy HLA class I process risk | `hold_hla_class_i_alloimmunization_at_plausible_gene_therapy_process_risk_signal_only` | A CHOP peer-reviewed cohort associated severe PRA with delayed platelet engraftment and greater transfusion burden, while a separate 24-person TDT conference cohort found no significant association by antibody-positive status. Exposure thresholds, testing strategy, product mix, VOD and splenic handling, and outcome analysis differ. Bleeding remains a route-level burden, but HLA class I is not a validated causal or product-specific predictor. |
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
@@ -159,6 +160,14 @@ the exact counts and rates are redacted. This rejects an assumed exa-cel
 collection or manufacturing advantage. It does not support a numerical cross-
 product comparison or an affordable-route promotion.
 
+Conflicting HLA class I cohorts now prevent a biomarker shortcut within that
+process burden. CHOP associated severe PRA with delayed platelet engraftment
+and greater transfusion requirements in a selected, very small TDT sample. A
+separate Sarah Cannon abstract found no significant association when comparing
+antibody-positive and antibody-negative TDT recipients, while confirming
+substantial bleeding burden. The studies do not use the same antibody threshold
+or confounder handling, so neither can settle independent causality.
+
 The full PMID `42587379` report closes a regional long-term source gap for
 allogeneic HSCT. It adds 205 pediatric TDT transplants with median follow-up of
 100 months and 172 participants alive and transfusion-free at last follow-up.
@@ -172,6 +181,70 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 16 HLA Class I Gene-Therapy Process-Risk Decision
+
+**Question:** Does HLA class I alloimmunization independently predict delayed
+platelet engraftment, transfusion burden, and bleeding after
+busulfan-conditioned autologous gene therapy for TDT strongly enough to become
+a validated process risk marker?
+
+**Decision:**
+`hold_hla_class_i_alloimmunization_at_plausible_gene_therapy_process_risk_signal_only`.
+Beti-cel and exa-cel retain their current benchmark and process-burden holds.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Repeated transfusion can induce HLA class I
+  antibodies that bind transfused platelets and promote splenic clearance. The
+  observed phenotype is TDT undergoing busulfan-conditioned gene-modified HCT.
+  No reviewed source supports a genotype-specific effect.
+- **Evidence tier:** Conflicting retrospective single-center human evidence,
+  consisting of a peer-reviewed brief report and a conference abstract. PMID
+  `42603589` is a separate new journal article, but its methods and results were
+  not available for extraction.
+- **Fact - positive cohort:** PMID `40089998`, PMCID `PMC12824613`, and DOI
+  `10.1182/blood.2024027034` report 18 gene-modified HCT recipients with TDT and
+  PRA testing in 13. Four had PRA reactivity of at least 80%. Reported median
+  platelet engraftment and transfusion burdens were worse than among six
+  low-PRA participants without VOD, but significance followed exclusion of one
+  splenectomized high-PRA participant.
+- **Fact - negative cohort:** DOI `10.1016/j.jtct.2025.12.037` reports 24 TDT
+  recipients, including 13 with HLA class I antibodies. Platelet engraftment
+  was 38.5 versus 35.5 days, `p=0.59`, and platelet transfusions were 14 versus
+  5.5, `p=0.16`, for antibody-positive versus negative groups. Fifteen
+  participants had grade 2 to 4 bleeding, which did not differ significantly by
+  antibody status.
+- **Source-identity boundary:** The late-indexed PMID `42603589`, DOI
+  `10.1016/j.jtct.2026.08.027`, has the same title and overlapping Sarah Cannon
+  authors but a separate DOI and PII. PubMed has no abstract and Crossref has no
+  formal relation to the conference DOI, so the conference results cannot be
+  transferred to it.
+- **Conflict and limitation:** CHOP used a severe-PRA threshold and selectively
+  tested some earlier participants after complications. Sarah Cannon screened
+  before busulfan but compared any antibody positivity with no antibody. The
+  product mix, genotype, VOD, splenic status, cell dose, transfusion practice,
+  and statistical adjustment are not aligned.
+- **Safety and interpretation:** Hold HLA class I as a plausible process-risk
+  signal, not an independent causal or product-specific safety marker. Retain
+  prolonged thrombocytopenia, platelet-support burden, and severe bleeding as
+  route-level implementation risks regardless of antibody status.
+- **Affordability and access:** Neither source reports HLA-laboratory,
+  HLA-selected platelet, admission, complication, or total delivered costs.
+  No affordability, payer, Indonesia access, capacity, or suitability claim
+  follows.
+- **Falsification criterion:** Deprioritize the predictor if a consecutive,
+  product-stratified TDT cohort with universal pre-busulfan testing, a
+  prespecified severe-PRA threshold, aligned endpoints, and adjusted analysis
+  excludes a clinically material association. Promote it only after that
+  design independently reproduces delayed engraftment or transfusion and
+  bleeding burden without complication-triggered testing.
+- **Next decisive action:** A gene-cell therapy center, transfusion-medicine
+  service, and HLA laboratory should obtain the full PMID `42603589` report and
+  build a pooled, de-duplicated table aligning product, genotype, PRA method and
+  severity, splenic status, busulfan exposure, CD34-positive dose, VOD,
+  platelet-support practice, engraftment, bleeding grade, length of stay, and
+  itemized support cost. No patient action or treatment recommendation follows.
 
 ## August 16 Thailand Multicenter Pediatric HSCT Decision
 
@@ -1880,6 +1953,11 @@ anchors, not biomedical evidence for any candidate.
 - [Pooled beti-cel mobilization analysis, DOI 10.1016/j.jtct.2023.12.305](https://doi.org/10.1016/j.jtct.2023.12.305)
 - [FDA beti-cel advisory presentation](https://www.fda.gov/media/159126/download)
 - [United States commercial beti-cel abstract, DOI 10.1016/j.jtct.2025.01.386](https://doi.org/10.1016/j.jtct.2025.01.386)
+- [CHOP HLA alloimmunization cohort, PMID 40089998](https://pubmed.ncbi.nlm.nih.gov/40089998/)
+- [CHOP HLA alloimmunization full text, PMCID PMC12824613](https://pmc.ncbi.nlm.nih.gov/articles/PMC12824613/)
+- [Sarah Cannon HLA class I conference abstract, DOI 10.1016/j.jtct.2025.12.037](https://doi.org/10.1016/j.jtct.2025.12.037)
+- [Late-indexed HLA class I journal article, PMID 42603589](https://pubmed.ncbi.nlm.nih.gov/42603589/)
+- [Late-indexed HLA class I journal article, DOI 10.1016/j.jtct.2026.08.027](https://doi.org/10.1016/j.jtct.2026.08.027)
 - [FDA ZYNTEGLO product page](https://www.fda.gov/vaccines-blood-biologics/zynteglo)
 - [FDA ZYNTEGLO package insert](https://www.fda.gov/media/160991/download)
 - [Pediatric exa-cel primary result, PMID 42274009](https://pubmed.ncbi.nlm.nih.gov/42274009/)

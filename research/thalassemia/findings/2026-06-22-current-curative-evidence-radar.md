@@ -163,9 +163,105 @@ while redacting the exact counts and rates. This changes exa-cel from a generic
 process gap to an observed collection and manufacturing burden, but does not
 permit a numerical comparison with beti-cel or an affordability claim.
 
+Conflicting HLA class I evidence now sharpens the gene-cell implementation
+boundary. A small CHOP peer-reviewed cohort associated severe PRA with delayed
+platelet engraftment and greater transfusion burden after gene-modified HCT for
+TDT. A separate 24-person TDT conference cohort did not find a significant
+association by antibody-positive status, although it reported grade 2 to 4
+bleeding in 15 participants. The studies use different exposure thresholds,
+testing strategies, products, and confounder handling. HLA class I
+alloimmunization therefore remains a plausible process-risk signal, not a
+validated causal or product-specific predictor.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 16 HLA Class I Gene-Therapy Process-Risk Decision
+
+**Question:** Does HLA class I alloimmunization independently predict delayed
+platelet engraftment, transfusion burden, and bleeding after
+busulfan-conditioned autologous gene therapy for TDT strongly enough to become
+a validated process risk marker?
+
+**Decision:**
+`hold_hla_class_i_alloimmunization_at_plausible_gene_therapy_process_risk_signal_only`.
+Beti-cel and exa-cel retain their existing curative-benchmark and
+process-burden holds. Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and phenotype scope:** Repeated transfusion can induce HLA class
+  I antibodies that bind transfused platelets and promote splenic clearance.
+  The observed scope is repeatedly transfused TDT recipients undergoing
+  busulfan-conditioned autologous gene therapy. Neither source supports a
+  genotype-specific effect.
+- **Evidence tier:** Conflicting retrospective single-center human evidence,
+  with one peer-reviewed brief report and one conference abstract. A new
+  journal article is currently title- and metadata-level evidence because its
+  methods and results were not accessible.
+- **Fact - positive cohort:** PMID `40089998`, PMCID `PMC12824613`, and DOI
+  `10.1182/blood.2024027034` report 18 CHOP gene-modified HCT recipients with
+  TDT, of whom 13 had PRA testing. Four had reactivity to at least 80% of
+  potential platelet donors. The report gives median platelet engraftment of
+  75 versus 44 days, 59 versus 24 platelet transfusions, and 18 versus 7
+  red-cell transfusions relative to six low-PRA participants without VOD.
+  Significance at `p=0.02` followed exclusion of one splenectomized high-PRA
+  participant. One participant with 100% PRA had subarachnoid and severe
+  mucocutaneous bleeding.
+- **Fact - negative cohort:** The Sarah Cannon abstract, DOI
+  `10.1016/j.jtct.2025.12.037`, reports 24 TDT gene-therapy recipients, 13 with
+  and 11 without HLA class I antibodies. Median platelet engraftment was 38.5
+  versus 35.5 days, `p=0.59`, and median platelet transfusions were 14 versus
+  5.5, `p=0.16`. Fifteen participants had grade 2 to 4 bleeding, but bleeding
+  did not differ significantly by antibody status. One antibody-positive
+  participant had intracranial hemorrhage.
+- **Source-identity boundary:** PMID `42603589` and DOI
+  `10.1016/j.jtct.2026.08.027` identify a separate August 15 article with the
+  same title and overlapping Sarah Cannon authors. PubMed has no abstract, the
+  publisher exposes metadata but not article text, and Crossref has no formal
+  relation to the conference DOI. Do not transfer the abstract results to the
+  new article.
+- **Contradiction and limitations:** CHOP tested some earlier participants only
+  after delayed engraftment or refractoriness, tested 13 of 18 recipients,
+  separated three low-PRA participants with VOD, and mixed beti-cel with one
+  exa-cel recipient. Sarah Cannon screened before busulfan but compared any
+  positive antibody status with negative status, not the CHOP severe-PRA
+  threshold, and did not report product or genotype strata. These are not
+  denominator-aligned replications.
+- **Safety risk:** Prolonged thrombocytopenia, high platelet-transfusion burden,
+  clinically significant bleeding, and intracranial or subarachnoid hemorrhage
+  remain material process risks. The reviewed evidence does not establish HLA
+  antibodies as their independent cause.
+- **Hypothesis:** Severe pre-busulfan HLA class I alloimmunization increases
+  platelet refractoriness and bleeding burden after gene-modified HCT when
+  product, VOD, splenic status, busulfan exposure, CD34-positive dose, and
+  transfusion practice are aligned.
+- **Interpretation:** Hold HLA class I alloimmunization as a plausible process
+  risk signal only, not a validated causal predictor or product-specific safety
+  marker. Retain bleeding and transfusion support as route-level implementation
+  burdens regardless of antibody status.
+- **Affordability and access:** Neither cohort reports HLA-laboratory,
+  HLA-selected platelet, admission, complication, or total delivered costs.
+  No affordability, payer, capacity, Indonesia access, or individual
+  suitability conclusion follows.
+- **Open question:** Does severe, prospectively measured PRA predict a
+  clinically material delay or transfusion burden within each gene-therapy
+  product after prespecified adjustment for VOD, splenic status, conditioning,
+  cell dose, and center practice?
+- **Falsification criterion:** Deprioritize HLA class I as an independent
+  process predictor if a consecutive, product-stratified TDT cohort with
+  universal pre-busulfan testing, a prespecified severe-PRA threshold, aligned
+  engraftment and bleeding definitions, and adjusted analysis excludes a
+  clinically material association. Promote it only if that design independently
+  reproduces delayed engraftment or transfusion and bleeding burden without
+  selection by an already observed complication.
+- **Next decisive action:** A gene-cell therapy center, transfusion-medicine
+  service, and HLA laboratory should obtain the full PMID `42603589` report and
+  build a pooled, de-duplicated participant table. Align product, genotype,
+  baseline transfusion and alloimmunization history, PRA method and severity,
+  splenic status, busulfan exposure, CD34-positive dose, VOD, platelet-support
+  practice, engraftment, bleeding grade, length of stay, and itemized support
+  cost. No patient action or treatment recommendation follows.
 
 ## August 16 Thailand Multicenter Pediatric HSCT Decision
 
@@ -1987,6 +2083,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Pooled beti-cel mobilization analysis, DOI 10.1016/j.jtct.2023.12.305](https://doi.org/10.1016/j.jtct.2023.12.305)
 - [FDA beti-cel advisory presentation](https://www.fda.gov/media/159126/download)
 - [United States commercial beti-cel abstract, DOI 10.1016/j.jtct.2025.01.386](https://doi.org/10.1016/j.jtct.2025.01.386)
+- [CHOP HLA alloimmunization cohort, PMID 40089998](https://pubmed.ncbi.nlm.nih.gov/40089998/)
+- [CHOP HLA alloimmunization full text, PMCID PMC12824613](https://pmc.ncbi.nlm.nih.gov/articles/PMC12824613/)
+- [Sarah Cannon HLA class I conference abstract, DOI 10.1016/j.jtct.2025.12.037](https://doi.org/10.1016/j.jtct.2025.12.037)
+- [Late-indexed HLA class I journal article, PMID 42603589](https://pubmed.ncbi.nlm.nih.gov/42603589/)
+- [Late-indexed HLA class I journal article, DOI 10.1016/j.jtct.2026.08.027](https://doi.org/10.1016/j.jtct.2026.08.027)
 - [ClinicalTrials.gov NCT05356195](https://clinicaltrials.gov/study/NCT05356195)
 - [ClinicalTrials.gov NCT05477563](https://clinicaltrials.gov/study/NCT05477563)
 - [ClinicalTrials.gov NCT06465550](https://clinicaltrials.gov/study/NCT06465550)

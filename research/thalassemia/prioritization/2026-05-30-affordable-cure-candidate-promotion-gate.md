@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-15
+Last evidence update: 2026-08-16
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -30,8 +30,9 @@ answers:
 
 | Lane | Current label | Why |
 | --- | --- | --- |
-| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A 115-child Malaysian cohort adds a Southeast Asian median 18-year follow-up signal from 96 matched-sibling donors, with 83.5% full-cohort 15-year overall survival and 71.3% thalassemia-free survival. Mixed eras, no pharmacokinetic monitoring, no transplant cost, and denominator and regression-reporting conflicts block route or ATG-regimen promotion. A 205-child Saudi cohort adds a separate long-horizon durability signal, but not donor-stratified outcome or cost. Jakarta adds two-case execution, but not routine access or itemized cost. Donor restriction, current-era long-term outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
+| Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A 115-child Malaysian cohort adds a Southeast Asian median 18-year follow-up signal from 96 matched-sibling donors, with 83.5% full-cohort 15-year overall survival and 71.3% thalassemia-free survival. A five-center Thai cohort adds 249 people, era-stratified outcomes, late-burden reporting, pharmacokinetic-monitoring context, and a historical public payer mechanism. Procedure-based denominators, enrollment ending in 2016, missing itemized cost, and internal table conflicts block route or regimen promotion. A 205-child Saudi cohort adds a separate long-horizon durability signal, but not donor-stratified outcome or cost. Jakarta adds two-case execution, but not routine access or itemized cost. Donor restriction, current-era long-term outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
 | Malaysia pediatric HSCT | `southeast_asian_long_horizon_outcome_and_burden_benchmark_only` | The single-center cohort reports 115 consecutive children, 128 procedures, 96 matched-sibling donors, median 18-year follow-up, 18 transplant-related deaths, 30 graft failures, 30 grade II to IV acute GVHD events, and 32 VOD events. Table 1 and the Results text reconcile 53 ATG-exposed children and 62 without ATG, but the abstract contains malformed subgroup wording. The cohort spans 1987-2023, mixes donor sources and regimens, lacks conditioning pharmacokinetic monitoring and transplant cost, and retains a 155-versus-115 graft-failure error plus unresolved regression labels. It supports regional outcome and burden comparison, not a current route, causal regimen, safety advantage, affordability, Indonesia access, or suitability. |
+| Thailand pediatric HSCT | `southeast_asian_multicenter_outcome_and_payer_path_benchmark_only` | A five-center cohort reports 249 people, 266 procedures, median 102-month follow-up, 91.3% five-year overall survival, and 81.0% event-free survival. Official NHSO evidence shows a thalassemia stem-cell-transplant benefit path added in 2020 and one reimbursed pediatric case. Seventeen second transplants, procedure-based outcomes, enrollment ending in 2016, donor and era mixing, toxicity, late effects, missing current benefit specifications, and no itemized cost or Indonesia path block broader promotion. |
 | Indonesia pediatric matched-sibling HSCT execution | `indonesia_execution_benchmark_only` | APBMT abstract `A-198` reports two pediatric beta-thalassemia major transplants at one Jakarta center, both with HLA-matched sibling donors, day-28 100% donor chimerism, and VOD despite prophylaxis. A current center page supports a facility signal, while a generic Rp800 million to Rp2 billion hospital range remains non-itemized and non-thalassemia-specific. Two selected cases do not establish routine access, scale, durability, safety, payer coverage, or affordability. |
 | RSUP Dr. Kariadi government HSCT | `adult_malignancy_hsct_execution_and_cost_audit_benchmark_only` | A 45-adult malignant-disease cohort establishes 38 autologous and 7 allogeneic procedures from 2013-2023, while a three-pair acute-leukemia study adds a 2023-2024 allogeneic activity-based cost benchmark. The cost paper contains two incompatible total, phase, and recovery-ratio calculation sets. No thalassemia case, current license decision, complete safety denominator, corrected cost, or payer evidence supports a thalassemia execution or affordability claim. |
 | BUSULFEX conditioning input | `indonesia_registered_conditioning_product_benchmark_only` | A current official BPOM record confirms one valid intravenous busulfan product registration and an Indonesian importer and repacker. The approved product information is not thalassemia-specific and provides no hospital stock, procurement, monitoring-capacity, payer, or delivered-cost evidence. |
@@ -67,6 +68,16 @@ luspatercept plus thalidomide, and AND017.
 Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
+
+The Thai multicenter cohort closes part of the Southeast Asian execution and
+payer-path gap. Five centers report an era-stratified outcome across 249 people,
+while official NHSO records establish that thalassemia stem-cell transplant
+entered the Universal Coverage Scheme benefit package in 2020. This promotes
+Thailand to a multicenter outcome-and-payer-path benchmark only. It does not
+change the leading route because the outcome analysis uses 266 procedures,
+includes 17 second transplants, ends enrollment in 2016, contains internal
+late-effect and confidence-interval conflicts, and reports no current itemized
+cost, capacity, or Indonesia transfer path.
 
 The July 2026 sapablursen result applies that rule to the iron axis. Endpoint
 failure falsifies sapablursen monotherapy as an active affordable-cure
@@ -161,6 +172,58 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 16 Thailand Multicenter Pediatric HSCT Decision
+
+**Question:** Does the 249-patient Thai multicenter pediatric TDT HSCT cohort,
+together with official Universal Coverage Scheme evidence, close the Southeast
+Asian outcome and payer gap enough to promote matched-donor HSCT beyond
+benchmark-only status?
+
+**Decision:**
+`promote_thailand_pediatric_hsct_to_southeast_asian_multicenter_outcome_and_payer_path_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact:** PMID `41821157`, PMCID `PMC13076047`, and DOI
+  `10.3345/cep.2025.02173` report 249 people and 266 procedures at five Thai
+  centers, with median follow-up of 102 months. Procedure-based five-year
+  overall and event-free survival were 91.3% and 81.0%. The 2010-2016 period
+  reported 93.0% and 87.2% across 86 procedures.
+- **Fact:** The source reports 31 recurrences, 24 deaths, 33 VOD events, 71
+  acute graft-versus-host disease events, and 39 chronic graft-versus-host
+  disease events. Forty-eight of 211 people thalassemia-free beyond two years
+  had at least one late complication.
+- **Fact:** The NHSO 2022 annual report records the addition of stem-cell
+  transplant for thalassemia to the Universal Coverage Scheme in 2020. An
+  official NHSO account documents one reimbursed pediatric matched-sibling
+  procedure.
+- **Interpretation:** This is a regional multicenter execution and historical
+  payer-path benchmark, not a current route or affordability result. The 17
+  second transplants make procedure-based outcomes non-equivalent to a
+  unique-patient denominator. Donor and era mixing, absent itemized cost, and
+  internal late-effect and confidence-interval conflicts block causal donor,
+  regimen, safety, or cost claims.
+- **Safety and affordability boundary:** Infection accounted for 16 of 24
+  reported deaths, and the study reports recurrence, VOD, graft-versus-host
+  disease, and late endocrine burden. The payer sources establish benefit-path
+  existence, not 2026 criteria, utilization, payment adequacy, capacity,
+  waiting time, family cost, Indonesia access, or suitability.
+- **Hypothesis:** A current standardized matched-sibling program with complete
+  pharmacokinetic, safety, late-effect, payer, and cost capture can reproduce
+  the Thai 2010-2016 event-free survival while reducing severe burdens and
+  retaining a lifetime delivered-cost advantage over autologous gene-cell
+  therapy.
+- **Falsification criterion:** Remove the benchmark if unique-patient
+  reanalysis materially lowers the outcomes or official records show that the
+  payer mechanism was not implemented. Do not promote a route without a
+  current consecutive screening-to-follow-up denominator and itemized payer and
+  family cost.
+- **Next decisive action:** Obtain the 2026 Thai benefit specification and
+  utilization denominator, then request center-stratified unique-patient data
+  aligning first and repeat HSCT, donor, regimen, pharmacokinetic monitoring,
+  infection, graft failure, mortality, late effects, payment, and family cost.
+  Compare identical fields with Malaysian, LMIC, and Indonesia benchmarks.
 
 ## August 15 Malaysian Long-Horizon Pediatric HSCT Decision
 
@@ -1792,6 +1855,10 @@ anchors, not biomedical evidence for any candidate.
 - [Regional long-horizon pediatric HSCT full text, DOI 10.1002/ajh.70455](https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.70455)
 - [Malaysian pediatric TDT HSCT cohort, PMID 42466977](https://pubmed.ncbi.nlm.nih.gov/42466977/)
 - [Malaysian cohort full text, DOI 10.4103/singaporemedj.SMJ-2024-235](https://www.ovid.com/jnls/smj/fulltext/10.4103/singaporemedj.smj-2024-235~haematopoietic-stem-cell-transplantation-for-children-with)
+- [Thai multicenter pediatric TDT HSCT cohort, PMID 41821157](https://pubmed.ncbi.nlm.nih.gov/41821157/)
+- [Thai multicenter cohort full text, PMCID PMC13076047](https://pmc.ncbi.nlm.nih.gov/articles/PMC13076047/)
+- [Thai NHSO 2022 annual report](https://eng.nhso.go.th/assets/portals/1/files/Nhso%20annual%20report%202022.pdf)
+- [Thai NHSO reimbursed pediatric transplant account](https://eng.nhso.go.th/view/1/home/UCS-saves-a-girl-from-thalassemia/143/EN-US)
 - [APBMT 2024 abstract book, abstract A-198](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2024.pdf)
 - [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
 - [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)

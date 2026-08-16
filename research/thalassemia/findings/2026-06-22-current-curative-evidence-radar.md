@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-15
+Last evidence update: 2026-08-16
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -38,7 +38,18 @@ overall survival was 83.5% and thalassemia-free survival was 71.3%, alongside
 graft-versus-host disease events, and 32 veno-occlusive disease events. Mixed
 donors, regimens, and eras, absent pharmacokinetic monitoring, no local
 transplant cost, and several denominator and table-to-prose conflicts block
-route or regimen promotion. A current BPOM
+route or regimen promotion. A five-center Thai cohort now adds a Southeast
+Asian multicenter delivery, era, and late-burden benchmark. It reports 249
+unique patients and 266 procedures, median follow-up of 102 months, five-year
+overall survival of 91.3%, and event-free survival of 81.0%. The 2010-2016
+period reached 93.0% overall survival and 87.2% event-free survival, but the
+analysis is procedure-based, includes 17 second transplants, ends enrollment in
+2016, and has no itemized contemporary cost. Official Thai National Health
+Security Office records confirm that stem-cell transplant for thalassemia
+entered the Universal Coverage Scheme benefit package in 2020 and document one
+reimbursed pediatric case. They do not establish current benefit criteria,
+capacity, complete utilization, waiting time, or transferability to Indonesia.
+A current BPOM
 record now confirms one registered intravenous busulfan conditioning product
 and an Indonesian importer and
 repacker. This narrows a product-level regulatory identity gap but does not
@@ -155,6 +166,94 @@ permit a numerical comparison with beti-cel or an affordability claim.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 16 Thailand Multicenter Pediatric HSCT Decision
+
+**Question:** Does the 249-patient Thai multicenter pediatric TDT HSCT cohort,
+together with official Universal Coverage Scheme evidence, close the Southeast
+Asian outcome and payer gap enough to promote matched-donor HSCT beyond
+benchmark-only status?
+
+**Decision:**
+`promote_thailand_pediatric_hsct_to_southeast_asian_multicenter_outcome_and_payer_path_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Conditioning followed by allogeneic donor HSPC
+  infusion replaces ineffective recipient erythropoiesis. The observed scope is
+  249 people younger than 20 years who underwent 266 related or unrelated HSCT
+  procedures at five Thai centers from 1988 through 2016, with follow-up through
+  2021. Haploidentical procedures were excluded.
+- **Evidence tier:** Direct human outcome evidence from a retrospective,
+  nonrandomized, five-center cohort, paired with official Thai payer records.
+- **Fact - outcome:** PMID `41821157`, PMCID `PMC13076047`, and DOI
+  `10.3345/cep.2025.02173` report median follow-up of 102 months. The study's
+  procedure-based estimates were 91.3% five-year overall survival and 81.0%
+  five-year event-free survival. In the 86 procedures performed from 2010
+  through 2016, the estimates were 93.0% and 87.2%.
+- **Fact - donor scope:** Of 266 procedures, 191 used HLA-matched related
+  donors, 59 matched unrelated donors, nine mismatched related donors, and seven
+  mismatched unrelated donors. The matched-related versus matched-unrelated
+  comparison in 2000-2016 included 135 and 59 procedures. Nonsignificant
+  survival differences do not establish donor equivalence.
+- **Fact - observed burden:** The authors report 31 recurrences and 24 deaths,
+  including 16 infection deaths. Across all procedures they report 33 VOD
+  events, 71 acute graft-versus-host disease events, and 39 chronic
+  graft-versus-host disease events. Among 211 people who remained
+  thalassemia-free for more than two years, 48 had at least one reported late
+  complication.
+- **Fact - payer path:** The Thai National Health Security Office's 2022 annual
+  report records that stem-cell transplant for thalassemia entered the Universal
+  Coverage Scheme benefit package in 2020. An official NHSO account documents
+  one pediatric matched-sibling transplant whose transplant and related medical
+  fees were reimbursed. This establishes a historical payer mechanism, not
+  complete or current access.
+- **Conditioning boundary:** All centers used intravenous rather than oral
+  busulfan from 2010, and the article says most patients had pharmacokinetic
+  monitoring without giving a denominator. Oral busulfan was associated with
+  worse event-free survival in multivariable analysis, but treatment era,
+  supportive care, donor mix, conditioning, and monitoring changed together.
+  Do not infer causal superiority for intravenous busulfan or any regimen.
+- **Contradictions and denominator limits:** Seventeen people underwent a
+  second HSCT, while survival, recurrence, toxicity, and mortality tables use
+  266 procedures rather than 249 unique people. The late-effect prose reports
+  28 endocrine cases while Table 5 reports 29. Table 4 prints an event-free
+  survival confidence interval of `3.08-3.13` around an RIC hazard ratio of
+  `1.09`, which cannot contain its point estimate. These defects block a clean
+  patient-level or causal conditioning comparison.
+- **Interpretation:** Promote the Thai evidence to a Southeast Asian
+  multicenter outcome-and-payer-path benchmark only. It adds multi-center
+  execution, an era-stratified outcome, pharmacokinetic-monitoring context,
+  late-burden reporting, and an official payer mechanism. It does not establish
+  a current matched-sibling rate, donor equivalence, causal regimen benefit,
+  delivered affordability, Indonesia access, or individual suitability.
+- **Safety risk:** Infection accounted for 16 of 24 reported deaths. The study
+  also reports recurrence, VOD, acute and chronic graft-versus-host disease,
+  endocrine disorders, and other late effects. Matched-unrelated procedures had
+  more VOD and acute graft-versus-host disease in the restricted comparison.
+- **Hypothesis:** A standardized Southeast Asian matched-sibling program with
+  complete pharmacokinetic, toxicity, late-effect, payer, and cost capture can
+  reproduce the Thai 2010-2016 event-free survival while lowering infection,
+  VOD, graft-versus-host disease, and recurrence burden and retaining a
+  delivered-cost advantage over individualized autologous gene-cell therapy.
+- **Affordability and access:** NHSO evidence closes the existence of one public
+  payer mechanism, not its current specification or adequacy. Neither source
+  provides a complete referral-to-HSCT denominator, benefit cap, hospital
+  payment, family cost, itemized delivery cost, capacity, waiting time, or
+  Indonesia transfer path.
+- **Falsification criterion:** Remove this benchmark if patient-level
+  reanalysis materially lowers the reported five-year outcomes or official
+  records show the payer path was not implemented. Do not promote a route until
+  a current, consecutive cohort reports complete screening-to-follow-up,
+  severe-toxicity, late-effect, payer, and itemized-cost denominators and meets
+  the existing durability and lifetime delivered-cost thresholds.
+- **Next decisive action:** Obtain a 2026 Thai benefit specification and
+  utilization denominator, then request center-stratified patient-level data
+  that count first and repeat procedures separately and align donor, regimen,
+  pharmacokinetic monitoring, infection, graft failure, mortality, late
+  effects, payer payment, and family cost. Compare identical fields with the
+  Malaysian, LMIC, and Indonesia benchmarks. No patient action or referral
+  follows.
 
 ## August 15 Malaysian Long-Horizon Pediatric HSCT Decision
 
@@ -1917,6 +2016,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Regional long-horizon pediatric HSCT full text, DOI 10.1002/ajh.70455](https://onlinelibrary.wiley.com/doi/full/10.1002/ajh.70455)
 - [Malaysian pediatric TDT HSCT cohort, PMID 42466977](https://pubmed.ncbi.nlm.nih.gov/42466977/)
 - [Malaysian cohort full text, DOI 10.4103/singaporemedj.SMJ-2024-235](https://www.ovid.com/jnls/smj/fulltext/10.4103/singaporemedj.smj-2024-235~haematopoietic-stem-cell-transplantation-for-children-with)
+- [Thai multicenter pediatric TDT HSCT cohort, PMID 41821157](https://pubmed.ncbi.nlm.nih.gov/41821157/)
+- [Thai multicenter cohort full text, PMCID PMC13076047](https://pmc.ncbi.nlm.nih.gov/articles/PMC13076047/)
+- [Thai NHSO 2022 annual report](https://eng.nhso.go.th/assets/portals/1/files/Nhso%20annual%20report%202022.pdf)
+- [Thai NHSO reimbursed pediatric transplant account](https://eng.nhso.go.th/view/1/home/UCS-saves-a-girl-from-thalassemia/143/EN-US)
 - [APBMT 2024 abstract book, abstract A-198](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2024.pdf)
 - [APBMT 2023 abstract book, abstract 44](https://bct.apbmt.org/wordpress/wp-content/uploads/Abstract-Book-2023_final.pdf)
 - [Tzu Chi pediatric blood-stem-cell transplant facility](https://tzuchihospital.co.id/facilities-and-services/hematopoietic-stem-cell-transplantation-center)

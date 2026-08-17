@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-16
+Last evidence update: 2026-08-17
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -153,6 +153,16 @@ delay, admission, and complication burdens. They do not supply a complete
 commercial referral-to-infusion denominator, final failed-lot denominator,
 itemized delivered cost, or Indonesia route.
 
+A corrected official publisher abstract now adds a pediatric implementation
+denominator. In one center, 13 children with TDT underwent 25 stem-cell
+collection procedures: five had one collection, six had two, and two had four.
+Eight children therefore required repeat collection, and one did not obtain
+adequate CD34-positive cells after two procedures. PubMed currently reports
+different collection strata that enumerate only 12 children. The publisher
+denominator is used. The source adds a corrected pediatric process-burden
+benchmark, not a product-specific manufacturing, outcome, safety,
+affordability, or access result.
+
 The corresponding exa-cel process review now blocks an assumed nonviral
 manufacturing advantage. In the adult TDT trial, all 59 participants started
 mobilization, 53 started busulfan conditioning, and 52 received exa-cel at the
@@ -176,6 +186,80 @@ validated causal or product-specific predictor.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 17 Pediatric Gene-Therapy Collection-Burden Decision
+
+**Question:** Does the current 13-child TDT collection series show that
+pediatric ex vivo gene therapy can avoid repeat stem-cell collection and
+support an affordable-curative route promotion?
+
+**Decision:**
+`promote_pediatric_tdt_gene_therapy_collection_to_corrected_process_burden_benchmark_only`.
+Beti-cel and exa-cel retain their existing curative-benchmark and
+process-burden holds. Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Ex vivo gene-cell therapy requires enough autologous
+  HSPCs for the therapeutic product and backup cells. PMID `42091200` and DOI
+  `10.3760/cma.j.cn511374-20250616-00372` report one center's stem-cell
+  collection experience in 13 children with TDT from August 2020 through
+  January 2024.
+- **Evidence tier:** Peer-reviewed single-center human implementation evidence.
+  The current official publisher record exposes a bilingual abstract and
+  introductory text. The full methods, results, tables, and PDF require access.
+- **Fact - corrected collection denominator:** The official publisher abstract
+  reports five children with one collection, six with two, and two with four.
+  These strata sum to 13 children and 25 collection procedures. Eight of 13
+  children underwent repeat collection.
+- **Fact - adequate-cell and bounded safety results:** Twelve children obtained
+  adequate cells. One did not obtain adequate CD34-positive cells after two
+  collections. The authors report no adverse reaction during collection in all
+  13 children, which does not establish mobilization, manufacturing,
+  conditioning, infusion, or long-term safety.
+- **Source contradiction:** PubMed currently reports one child with one
+  collection, nine with two, one with three, and one with four. Those strata
+  enumerate only 12 children and imply 26 procedures without placing the
+  failed thirteenth child. Use the current official publisher denominator and
+  retain PubMed as conflicting metadata. Do not combine the two versions.
+- **Limits:** The accessible record does not identify age distribution,
+  genotype, splenic status, baseline transfusion or iron burden, mobilization
+  details, cell target, per-procedure yield, gene-therapy product, editing
+  modality, manufacturing release, failed lot, infusion, conditioning,
+  transfusion independence, follow-up, delivered cost, payer, or access.
+- **Hypothesis:** A product-stratified pediatric collection workflow using a
+  prespecified adequate-cell threshold and first-collection yield model can
+  reduce repeat procedures and cost per released lot without increasing failed
+  collections or collection adverse events.
+- **Interpretation:** Promote the source to a corrected pediatric
+  process-burden benchmark only. It does not establish a simpler, lower-cost,
+  more available, or safer route than adult gene-cell therapy or
+  matched-sibling HSCT.
+- **Affordability and access:** Twenty-five procedures for 13 children
+  establish repeated resource use, not its price. No itemized collection,
+  manufacturing, failed-lot, payer, family, or total delivered cost and no
+  Indonesia route are reported.
+- **Open question:** Which product, mobilization protocol, cell target, yield,
+  starting denominator, release result, outcome, and cost correspond to each
+  of the 25 procedures?
+- **Confidence:** High for the official publisher arithmetic and the PubMed
+  contradiction. Moderate that repeat collection is a material pediatric
+  capacity burden. Low for product transfer, safety beyond collection,
+  manufacturing success, affordability, access, or clinical outcome.
+- **Falsification criterion:** Revise or remove the benchmark if the full
+  report or an author or publisher correction changes the 13-child,
+  25-procedure, 12-adequate, or one-failure denominators. Do not promote an
+  optimized collection route unless a consecutive, product-stratified cohort
+  reports all screened children, collection attempts and yields, released and
+  failed lots, adverse events, time, and itemized cost and shows fewer repeat
+  procedures without more failure or safety burden than a prespecified
+  same-product comparator.
+- **Next decisive action:** Obtain the full methods, results, and tables or
+  author clarification. Build a de-identified, product-stratified table of all
+  screened children, collection attempts, CD34-positive target and yield,
+  backup-cell requirement, manufacturing release, infusion, adverse events,
+  time, and itemized cost. Compare the same fields with the existing beti-cel
+  and exa-cel process benchmarks. No patient action or treatment recommendation
+  follows.
 
 ## August 16 HLA Class I Gene-Therapy Process-Risk Decision
 
@@ -2165,7 +2249,8 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [ClinicalTrials.gov July 16 onward results query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BResultsFirstPostDate%5DRANGE%5B07%2F16%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=ResultsFirstPostDate%3Adesc)
 - [ClinicalTrials.gov July 16 onward update query](https://clinicaltrials.gov/api/v2/studies?query.cond=beta%20thalassemia&filter.advanced=AREA%5BLastUpdatePostDate%5DRANGE%5B07%2F16%2F2026%2C%20MAX%5D&pageSize=100&countTotal=true&sort=LastUpdatePostDate%3Adesc)
 - [PubMed PMID 42252696](https://pubmed.ncbi.nlm.nih.gov/42252696/)
-- [PubMed PMID 42091200](https://pubmed.ncbi.nlm.nih.gov/42091200/)
+- [Pediatric TDT stem-cell collection report, PMID 42091200](https://pubmed.ncbi.nlm.nih.gov/42091200/)
+- [Official pediatric TDT collection publisher record](https://rs.yiigle.com/cmaid/1678866)
 - [PubMed PMID 42261266](https://pubmed.ncbi.nlm.nih.gov/42261266/)
 - [PubMed PMID 41947014](https://pubmed.ncbi.nlm.nih.gov/41947014/)
 - [Quran 49:6 anchor](../../islamic/quran/049-al-hujurat/006.md)

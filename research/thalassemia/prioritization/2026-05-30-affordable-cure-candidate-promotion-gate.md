@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-16
+Last evidence update: 2026-08-17
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -39,7 +39,7 @@ answers:
 | Treosulfan-thiotepa-fludarabine HSCT | `matched_family_donor_conditioning_benchmark_only` | A retrospective 74-child Indian cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in a combined matched-family group, compared with 57.3% for both estimates in a combined alternative-donor group. No concurrent busulfan comparator, adjusted donor-specific result, complete safety denominator, itemized cost, or Indonesia access supports reduced-toxicity, donor-agnostic, or affordable-route promotion. |
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
-| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but adult TDT process evidence now adds repeat mobilization, multiple-product-lot use, and an FDA-described relatively high clinical-lot failure rate with redacted counts. Full myeloablation, a reported fatal busulfan-related event, required long-term safety surveillance, incomplete commercial denominators, and missing delivered cost leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
+| Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but adult TDT process evidence now adds repeat mobilization, multiple-product-lot use, and an FDA-described relatively high clinical-lot failure rate with redacted counts. A corrected 13-child collection report adds 25 procedures, repeat collection in 8 children, and one failed adequate-cell collection after two procedures without identifying the product, released-lot denominator, or cost. Full myeloablation, a reported fatal busulfan-related event, required long-term safety surveillance, incomplete commercial denominators, and missing delivered cost leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | Gene-cell therapy HLA class I process risk | `hold_hla_class_i_alloimmunization_at_plausible_gene_therapy_process_risk_signal_only` | A CHOP peer-reviewed cohort associated severe PRA with delayed platelet engraftment and greater transfusion burden, while a separate 24-person TDT conference cohort found no significant association by antibody-positive status. Exposure thresholds, testing strategy, product mix, VOD and splenic handling, and outcome analysis differ. Bleeding remains a route-level burden, but HLA class I is not a validated causal or product-specific predictor. |
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
@@ -181,6 +181,51 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 17 Pediatric Gene-Therapy Collection-Burden Decision
+
+**Question:** Does the current 13-child TDT collection series show that
+pediatric ex vivo gene therapy can avoid repeat stem-cell collection and
+support an affordable-curative route promotion?
+
+**Decision:**
+`promote_pediatric_tdt_gene_therapy_collection_to_corrected_process_burden_benchmark_only`.
+Beti-cel and exa-cel retain their current benchmark and process-burden holds.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact - corrected denominator:** The current official publisher abstract for
+  PMID `42091200` and DOI `10.3760/cma.j.cn511374-20250616-00372` reports five
+  children with one collection, six with two, and two with four. That is 25
+  procedures across all 13 children, with repeat collection in 8 children.
+- **Fact - adequate-cell result:** Twelve children obtained adequate cells. One
+  did not obtain adequate CD34-positive cells after two procedures. The report
+  states that no collection adverse reactions occurred among the 13 children.
+- **Source contradiction:** PubMed instead reports collection strata of one,
+  nine, one, and one child, which enumerate only 12 children and imply 26
+  procedures. Use the publisher denominator, retain PubMed as conflicting
+  metadata, and do not pool the versions.
+- **Scope and safety boundary:** The accessible publisher record is limited to
+  a bilingual abstract and introductory text. It does not identify the product,
+  editing modality, cell target or yield, mobilization details, manufacturing
+  release, conditioning, outcome, complete safety, or follow-up.
+- **Interpretation:** Promote the source to a corrected pediatric
+  process-burden benchmark only. It strengthens the collection and capacity
+  hold without establishing a lower-cost, more available, or safer route.
+- **Affordability and access:** Repeat procedures establish resource use, not
+  itemized cost or affordability. No payer, family cost, center throughput,
+  Indonesia access, or patient-suitability conclusion follows.
+- **Falsification criterion:** Revise the benchmark if full methods or an author
+  or publisher correction changes the 13-child, 25-procedure, 12-adequate, or
+  one-failure denominators. Promote an optimized collection workflow only if a
+  consecutive, product-stratified comparison reports fewer repeat procedures
+  and lower cost per released lot without more collection failure or adverse
+  events.
+- **Next decisive action:** Obtain the full report or author clarification and
+  align every screened child, procedure, CD34-positive target and yield,
+  backup-cell requirement, product, released lot, infusion, adverse event,
+  time, and itemized cost with the beti-cel and exa-cel process benchmarks. No
+  patient action or treatment recommendation follows.
 
 ## August 16 HLA Class I Gene-Therapy Process-Risk Decision
 
@@ -1953,6 +1998,8 @@ anchors, not biomedical evidence for any candidate.
 - [Pooled beti-cel mobilization analysis, DOI 10.1016/j.jtct.2023.12.305](https://doi.org/10.1016/j.jtct.2023.12.305)
 - [FDA beti-cel advisory presentation](https://www.fda.gov/media/159126/download)
 - [United States commercial beti-cel abstract, DOI 10.1016/j.jtct.2025.01.386](https://doi.org/10.1016/j.jtct.2025.01.386)
+- [Pediatric TDT stem-cell collection report, PMID 42091200](https://pubmed.ncbi.nlm.nih.gov/42091200/)
+- [Official pediatric TDT collection publisher record](https://rs.yiigle.com/cmaid/1678866)
 - [CHOP HLA alloimmunization cohort, PMID 40089998](https://pubmed.ncbi.nlm.nih.gov/40089998/)
 - [CHOP HLA alloimmunization full text, PMCID PMC12824613](https://pmc.ncbi.nlm.nih.gov/articles/PMC12824613/)
 - [Sarah Cannon HLA class I conference abstract, DOI 10.1016/j.jtct.2025.12.037](https://doi.org/10.1016/j.jtct.2025.12.037)

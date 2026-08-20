@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-17
+Last evidence update: 2026-08-20
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -183,9 +183,85 @@ testing strategies, products, and confounder handling. HLA class I
 alloimmunization therefore remains a plausible process-risk signal, not a
 validated causal or product-specific predictor.
 
+A third YOLT-204 record now changes the registry identity map. Newly posted
+[`NCT07774351`](https://clinicaltrials.gov/study/NCT07774351) plans up to 30
+people aged 14 to 35 with TDT or SCD across four intravenous dose groups. It
+classifies YOLT-204 as a genetic intervention and measures intentionally
+modified alleles in blood and marrow, HbF, F-cells, hemoglobin, transfusion
+reduction, and adverse events through week 52. It remains not yet recruiting
+with no posted results and no TDT-specific diagnostic, genotype, or
+transfusion-burden definition. The new protocol ID and sponsor differ from the
+two existing YOLT-204 records, which also remain not yet recruiting. Without an
+official duplicate, replacement, or extension relation, the three planned
+enrollments cannot be pooled. YOLT-204 therefore remains a pre-results systemic
+genetic-intervention registry benchmark only.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 20 YOLT-204 Third-Record Decision
+
+**Question:** Does the newly posted YOLT-204 record establish an active,
+TDT-defined systemic genetic-intervention route strongly enough to change the
+affordable-cure ranking?
+
+**Decision:**
+`hold_yolt_204_at_three_record_pre_results_systemic_genetic_intervention_benchmark_only_pending_protocol_identity_and_first_dosed_results`.
+CS-101 remains the stronger reported Asia editing benchmark. Matched-sibling
+HSCT remains `leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** `NCT07774351` registers intravenous YOLT-204 as a
+  genetic intervention and plans to measure intentionally modified alleles in
+  peripheral-blood leukocytes and bone-marrow cells. It also measures HbF,
+  F-cells, hemoglobin, and transfusion reduction. The registry does not name the
+  editor, genomic target, complete carrier, preparative regimen, or mechanism of
+  HbF change. The population is mixed TDT and SCD, aged 14 to 35.
+- **Evidence tier:** Official pre-results clinical-registry evidence. The study
+  is not yet recruiting, nonrandomized, open-label, dose-escalating, and has no
+  posted results.
+- **Fact - third record:** The new sponsor and `YOLT-204-IIT-005` protocol plan
+  30 people across 0.6, 1.0, 1.25, and an unresolved mg/kg dose. Existing
+  protocols `YOLT-204-IIT` and `YOLT-204-IIT-002` plan 3 adults and 18 children.
+  All three remain not yet recruiting and expose no official relation.
+- **Conflict - TDT scope:** The new title and summary include TDT, but its
+  eligibility text supplies no TDT diagnostic, transfusion-burden, or genotype
+  definition. `NCT06678165` instead excludes beta-zero/beta-zero, while
+  `NCT07190001` contains SCD-oriented positive genotype criteria. Scope cannot be
+  transferred or pooled across the records.
+- **Hypothesis:** Persistent intended modification in marrow and blood could
+  increase HbF and reduce transfusion burden without autologous collection and
+  individualized ex vivo manufacture. No registered result shows that this
+  occurs.
+- **Interpretation:** Hold YOLT-204 at a three-record systemic
+  genetic-intervention registry benchmark only. Do not promote it as active
+  execution, clinical efficacy, cure, safety, simpler delivery, or an
+  affordable route.
+- **Safety risk:** Eligibility exclusions for oligonucleotide or lipid
+  nanoparticle allergy, infection, bleeding, organ dysfunction, splenomegaly,
+  iron overload, malignancy, and prior advanced therapy are risk controls, not
+  observed safety evidence. The new outcome list does not name off-target,
+  clonal-expansion, malignancy, or long-term genomic-safety endpoints.
+- **Affordability and access:** No product cost, manufacturing yield, monitoring
+  cost, hospital capacity, payer, family cost, Indonesia authorization, or
+  access path is reported. Intravenous dosing alone does not establish a lower
+  delivered cost than ex vivo gene-cell therapy or HSCT.
+- **Open question:** Are the three records independent protocols, sequential
+  expansions, or superseded versions, and which TDT definition, editor, target,
+  carrier, preparative regimen, safety plan, and first-dosed denominator belongs
+  to each?
+- **Falsification criterion:** Revise the three-record label if official history
+  or protocol documentation identifies a duplicate, replacement, or extension.
+  Do not promote the lane until a TDT-specific prospective cohort reports
+  screened, enrolled, dosed, and evaluable denominators; protocol identity;
+  editor, target, carrier, and dose; intended and off-target editing; clonal and
+  malignancy surveillance; adverse-event attribution; transfusion and
+  hemoglobin outcomes; durability; and delivered cost.
+- **Next decisive action:** Obtain public protocols or responsible-party
+  clarification for `YOLT-204-IIT`, `YOLT-204-IIT-002`, and
+  `YOLT-204-IIT-005`. Compare the protocol-identity, TDT-scope, mechanism,
+  first-dose, safety, follow-up, and cost fields without merging planned
+  enrollment. No patient action or treatment recommendation follows.
 
 ## August 17 Pediatric Gene-Therapy Collection-Burden Decision
 

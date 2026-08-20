@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-17
+Last evidence update: 2026-08-20
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -41,6 +41,7 @@ answers:
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but adult TDT process evidence now adds repeat mobilization, multiple-product-lot use, and an FDA-described relatively high clinical-lot failure rate with redacted counts. A corrected 13-child collection report adds 25 procedures, repeat collection in 8 children, and one failed adequate-cell collection after two procedures without identifying the product, released-lot denominator, or cost. Full myeloablation, a reported fatal busulfan-related event, required long-term safety surveillance, incomplete commercial denominators, and missing delivered cost leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
 | Gene-cell therapy HLA class I process risk | `hold_hla_class_i_alloimmunization_at_plausible_gene_therapy_process_risk_signal_only` | A CHOP peer-reviewed cohort associated severe PRA with delayed platelet engraftment and greater transfusion burden, while a separate 24-person TDT conference cohort found no significant association by antibody-positive status. Exposure thresholds, testing strategy, product mix, VOD and splenic handling, and outcome analysis differ. Bleeding remains a route-level burden, but HLA class I is not a validated causal or product-specific predictor. |
+| YOLT-204 systemic genetic intervention | `hold_yolt_204_at_three_record_pre_results_systemic_genetic_intervention_benchmark_only_pending_protocol_identity_and_first_dosed_results` | A third record adds explicit intravenous dose groups, genetic-intervention classification, and intended-modification outcomes in blood and marrow. All three YOLT-204 records remain not yet recruiting with no posted results, different sponsors and protocols, conflicting TDT scope, and no official relation. Planned enrollment must not be summed. Mechanism, safety, efficacy, durability, delivered cost, and Indonesia access remain unresolved. |
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
@@ -117,6 +118,16 @@ restores the actual common grade 3 or 4 adverse-event denominators. This keeps
 the efficacy signal usable for comparison while strengthening the safety and
 durability hold.
 
+The new YOLT-204 record resolves a different traceability gap while opening a
+protocol-identity conflict. `NCT07774351` explicitly plans intravenous dosing,
+classifies YOLT-204 as a genetic intervention, and measures intended allele
+modification in blood and marrow. It is the third YOLT-204 record, has a new
+sponsor and protocol ID, remains not yet recruiting, and does not define its TDT
+population. The two earlier records also remain not yet recruiting after stale
+estimated dates. Without an official relationship or a first-dosed denominator,
+the route remains a three-record pre-results benchmark and the planned
+enrollments must not be pooled.
+
 The August 2026 CD34-targeted LNP study addresses delivery rather than disease
 efficacy. It shows persistent in vivo editing of human HSPCs in mice, but its
 intrafemoral route, non-TDT therapeutic model, limited safety package, and
@@ -181,6 +192,52 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 20 YOLT-204 Third-Record Decision
+
+**Question:** Does the newly posted YOLT-204 record establish an active,
+TDT-defined systemic genetic-intervention route strongly enough to change the
+affordable-cure ranking?
+
+**Decision:**
+`hold_yolt_204_at_three_record_pre_results_systemic_genetic_intervention_benchmark_only_pending_protocol_identity_and_first_dosed_results`.
+CS-101 remains the stronger reported Asia editing benchmark. Matched-sibling
+HSCT remains `leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** [`NCT07774351`](https://clinicaltrials.gov/study/NCT07774351)
+  registers intravenous YOLT-204 as a genetic intervention and plans intended
+  allele-modification, HbF, F-cell, hemoglobin, transfusion, and adverse-event
+  endpoints in people aged 14 to 35 with TDT or SCD. It does not identify the
+  editor, target, complete carrier, preparative regimen, or TDT genotype scope.
+- **Evidence tier:** Official pre-results registry evidence. The record is
+  not yet recruiting, nonrandomized, open-label, and has no posted results.
+- **Fact - record identity:** `YOLT-204-IIT-005` plans 30 people and differs from
+  `YOLT-204-IIT`, which plans 3 adults, and `YOLT-204-IIT-002`, which plans 18
+  children. Sponsors, ages, phase labels, dose detail, and timelines differ.
+  ClinicalTrials.gov exposes no official relation, and all three records remain
+  not yet recruiting.
+- **Conflict - phenotype:** The new record names TDT but does not define its TDT
+  diagnosis, transfusion burden, or genotype. The adult TDT-specific record
+  excludes beta-zero/beta-zero, while the pediatric mixed record supplies
+  SCD-oriented positive genotype criteria. Do not transfer or pool scope.
+- **Interpretation:** The third record strengthens a planned systemic
+  genetic-intervention benchmark, not clinical efficacy, cure, active execution,
+  safer conditioning, simpler delivery, or affordability.
+- **Safety and affordability:** Eligibility risk controls are not observed
+  safety evidence, and the outcome list does not name off-target, clonal,
+  malignancy, or long-term genomic surveillance. No product, manufacturing,
+  monitoring, payer, family, Indonesia, or delivered-cost result is reported.
+- **Falsification criterion:** Revise the three-record label if official history
+  or protocols establish a duplicate, replacement, or extension. Do not promote
+  the lane until a TDT-specific cohort reports screened, enrolled, dosed, and
+  evaluable denominators; protocol identity; editor, target, carrier, and dose;
+  intended and off-target editing; clonal and malignancy surveillance; adverse
+  events; transfusion and hemoglobin outcomes; durability; and delivered cost.
+- **Next decisive action:** Obtain the three public protocols or
+  responsible-party clarification, establish the protocol relation and first
+  TDT dose, and compare mechanism, safety, follow-up, and cost fields without
+  merging planned enrollment. No patient action or treatment recommendation
+  follows.
 
 ## August 17 Pediatric Gene-Therapy Collection-Burden Decision
 

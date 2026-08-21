@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-20
+Last evidence update: 2026-08-21
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -45,6 +45,7 @@ answers:
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
+| Astatine-211 anti-CD45 conditioning | `nonhuman_primate_targeted_conditioning_benchmark_only` | Four healthy rhesus macaques support dose-dependent, stable multilineage engraftment of HBG-promoter and CD33-edited autologous HSPCs for more than 18 months, but the comparison used historical controls. All four animals had weight loss and poor appetite, and only one had reported 12-month nonhematopoietic histology. Independent mouse data show delayed marrow recovery and endothelial-niche remodeling. No TDT phenotype, contemporaneous busulfan comparison, complete long-term safety, delivered cost, or Indonesia route supports clinical or affordable-route promotion. |
 | KIT epitope-edited conditioning | `replicated_preclinical_conditioning_benchmark_only` | A peer-reviewed study independently joins the July preprint in supporting antibody selection of KIT-shielded HSPCs. It adds serial repopulation and genomic-safety experiments, but uses healthy-donor and SCD cells in female immunodeficient mice, not beta-thalassemia donor cells or a TDT disease model. BCL11A off-target deamination, PE3 indels and translocations, absent clinical results, and missing delivered cost block further promotion. |
 | Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -128,6 +129,18 @@ estimated dates. Without an official relationship or a first-dosed denominator,
 the route remains a three-record pre-results benchmark and the planned
 enrollments must not be pooled.
 
+The August 2026 Astatine-211 anti-CD45 paper closes a large-animal feasibility
+gap for targeted conditioning. Four healthy macaques had dose-dependent,
+long-lived multilineage engraftment of edited autologous HSPCs after
+radioimmunotherapy. It also sharpens rather than clears the safety gate. The
+study used historical controls, every animal had weight loss and poor appetite,
+and the only reported 12-month nonhematopoietic histology was in one animal. A
+separate mouse study found marked marrow depletion and endothelial-niche
+remodeling. These results are compatible: durable blood recovery does not prove
+marrow-microenvironment safety. The route therefore moves to a
+nonhuman-primate targeted conditioning benchmark only, pending a contemporaneous
+busulfan comparison and a credible delivered-cost path.
+
 The August 2026 CD34-targeted LNP study addresses delivery rather than disease
 efficacy. It shows persistent in vivo editing of human HSPCs in mice, but its
 intrafemoral route, non-TDT therapeutic model, limited safety package, and
@@ -192,6 +205,67 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 21 Astatine-211 Anti-CD45 Conditioning Decision
+
+**Question:** Does peer-reviewed Astatine-211 anti-CD45 conditioning close the
+conditioning toxicity and engraftment gap enough to promote a TDT
+affordable-curative route?
+
+**Decision:**
+`promote_astatine_211_cd45_rit_to_nonhuman_primate_targeted_conditioning_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Astatine-211-labeled humanized anti-CD45 depletes
+  CD45-positive hematopoietic cells before infusion of edited autologous HSPCs.
+  The four healthy rhesus macaques received HBG-promoter and CD33-edited cells
+  as a monitoring model, not a TDT genotype or phenotype experiment.
+- **Evidence tier:** Peer-reviewed four-animal large-animal preclinical evidence
+  at two doses with historical controls and more than 18 months of engraftment
+  follow-up, supported by peer-reviewed short-term mouse marrow-niche evidence.
+  Study authors disclosed consulting, ownership, research-support, and
+  clinical-trial-support relationships, and four authors filed a patent
+  application related to humanized-BC8 radioimmunotherapy.
+- **Fact:** The macaque study reports stable multilineage engraftment and up to
+  70% combined monoallelic and biallelic editing in blood. All animals had
+  weight loss and poor appetite, and only one higher-dose animal had reported
+  12-month nonhematopoietic histology.
+- **Conflict:** The macaque investigators report no significant
+  treatment-related toxicity, while the mouse study reports delayed marrow
+  recovery and persistent endothelial-niche remodeling. Different species,
+  doses, controls, follow-up, and endpoints prevent a direct comparison. The
+  evidence supports feasibility plus an unresolved niche-safety hazard.
+- **Hypothesis:** Targeted alpha radioimmunotherapy could preserve durable
+  edited-HSPC engraftment while reducing off-target injury from conventional
+  genotoxic conditioning.
+- **Interpretation:** Promote to a nonhuman-primate targeted conditioning
+  benchmark only, not clinical superiority, TDT efficacy, cure, safety,
+  affordability, access, or individual suitability.
+- **Safety risk:** Marrow-niche injury, radiation exposure, organ and fertility
+  injury, clonal selection, and secondary malignancy remain unresolved.
+- **Affordability and access:** The protocol avoids busulfan but requires a
+  cyclotron-produced isotope, radiochemistry, dosimetry, radiation-medicine
+  controls, mobilization, apheresis, editing, and autologous infusion. No
+  delivered cost, payer path, production yield, or Indonesia capacity is
+  reported.
+- **Open question:** At equivalent durable engraftment, does Astatine-211
+  anti-CD45 improve marrow-niche and nonhematopoietic safety relative to
+  busulfan?
+- **Falsification criterion:** Deprioritize the route as a busulfan-alternative
+  benchmark if a contemporaneous comparison using the same edited autologous
+  HSPC product fails to match durable engraftment or improve a prespecified
+  marrow-niche and organ-safety composite, or if longer follow-up identifies
+  persistent niche failure, organ or fertility injury, clonal dominance,
+  malignancy, or an infeasible delivered-cost path.
+- **Next decisive action:** The translational conditioning owner, together with
+  radiopharmacy and HSPC-manufacturing owners, should compare Astatine-211
+  anti-CD45 with busulfan contemporaneously in nonhuman primates using the same
+  HBG-edited autologous HSPC product and cell dose. Prespecify durable
+  multilineage engraftment, marrow endothelial and stromal recovery, organ,
+  fertility and endocrine injury, dosimetry, clonal composition, malignancy
+  surveillance, batch failure, and activity-based delivered cost. No patient
+  action or treatment recommendation follows.
 
 ## August 20 YOLT-204 Third-Record Decision
 
@@ -1983,6 +2057,11 @@ anchors, not biomedical evidence for any candidate.
 
 ## Sources
 
+- [Astatine-211 anti-CD45 macaque study, PMID 42224345](https://pubmed.ncbi.nlm.nih.gov/42224345/)
+- [Astatine-211 anti-CD45 macaque study, DOI 10.1182/blood.2026033789](https://doi.org/10.1182/blood.2026033789)
+- [Anti-CD45 radioimmunotherapy marrow-niche study, PMID 41671449](https://pubmed.ncbi.nlm.nih.gov/41671449/)
+- [Anti-CD45 radioimmunotherapy marrow-niche full text, PMCID PMC13083732](https://pmc.ncbi.nlm.nih.gov/articles/PMC13083732/)
+- [Nonmalignant-disease Astatine-211 transplant study, NCT04083183](https://clinicaltrials.gov/study/NCT04083183)
 - [May 30 workflow map](../../../data/workflows/case-001/2026-05-30-affordable-cure-candidate-promotion-gate.json)
 - [May 29 curative affordability gap matrix](../case-context/case-001-curative-affordability-gap-matrix.md)
 - [Candidate scoring V0](2026-04-27-candidate-scoring-v0.md)

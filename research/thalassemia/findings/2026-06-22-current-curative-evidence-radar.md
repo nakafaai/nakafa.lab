@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-20
+Last evidence update: 2026-08-21
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -196,9 +196,88 @@ official duplicate, replacement, or extension relation, the three planned
 enrollments cannot be pooled. YOLT-204 therefore remains a pre-results systemic
 genetic-intervention registry benchmark only.
 
+A peer-reviewed four-animal rhesus-macaque study now promotes Astatine-211
+anti-CD45 radioimmunotherapy to a
+`nonhuman_primate_targeted_conditioning_benchmark_only`. The higher tested dose
+supported stable multilineage engraftment of HBG-promoter and CD33-edited
+autologous HSPCs for more than 18 months, but comparisons used historical
+controls. All four animals had weight loss and poor appetite, long-term
+nonhematopoietic histology was reported for one animal, and the authors state
+that the cohort cannot define complete long-term safety. A separate
+peer-reviewed mouse study found marked marrow-cell depletion, delayed HSC
+recovery, and endothelial-niche remodeling after anti-CD45 radioimmunotherapy.
+The studies resolve an apparent contradiction: durable blood-cell engraftment
+and no obvious organ toxicity do not establish marrow-niche safety. No
+TDT-specific clinical record, disease-model endpoint, delivered cost, or
+Indonesia access path exists, so the route is not a TDT cure, busulfan-safety,
+affordability, or access result.
+
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 21 Astatine-211 Anti-CD45 Conditioning Decision
+
+**Question:** Does peer-reviewed Astatine-211 anti-CD45 conditioning close the
+conditioning toxicity and engraftment gap enough to promote a TDT
+affordable-curative route?
+
+**Decision:**
+`promote_astatine_211_cd45_rit_to_nonhuman_primate_targeted_conditioning_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** A short-range alpha emitter attached to humanized
+  anti-CD45 depletes CD45-positive hematopoietic cells to open marrow space for
+  autologous edited HSPCs. PMID `42224345` tested four healthy rhesus macaques,
+  two each at 300 and 400 microcuries per kilogram, with HBG-promoter and CD33
+  editing as a monitoring model. It did not test a TDT genotype or phenotype.
+- **Evidence tier:** Peer-reviewed four-animal large-animal preclinical evidence
+  with historical controls and more than 18 months of engraftment follow-up,
+  supported by peer-reviewed short-term mechanistic mouse safety evidence.
+  Study authors disclosed consulting, ownership, research-support, and
+  clinical-trial-support relationships, and four authors filed a patent
+  application related to humanized-BC8 radioimmunotherapy.
+- **Fact:** The macaque study reports dose-dependent, stable, unbiased
+  multilineage engraftment and up to 70% combined monoallelic and biallelic
+  editing in blood by single-cell analysis. All animals had weight loss and
+  poor appetite; only one higher-dose animal had reported 12-month
+  nonhematopoietic histology.
+- **Conflict:** The macaque authors report no significant treatment-related
+  toxicity, while PMID `41671449` reports delayed marrow recovery and persistent
+  endothelial-niche remodeling in mice. The studies differ in species, dose,
+  comparator, follow-up, and endpoint. They are compatible if routine organ and
+  blood recovery can miss marrow-microenvironment injury.
+- **Hypothesis:** Targeted alpha radioimmunotherapy could preserve durable
+  edited-HSPC engraftment while reducing off-target injury from conventional
+  genotoxic conditioning.
+- **Interpretation:** Promote to a nonhuman-primate targeted conditioning
+  benchmark only. Do not promote clinical superiority, TDT efficacy, cure,
+  safety, affordability, access, or individual suitability.
+- **Safety risk:** Marrow-niche injury, radiation exposure, organ and fertility
+  effects, clonal selection, and secondary malignancy remain unresolved.
+- **Affordability and access:** The animal protocol removes busulfan but adds
+  cyclotron isotope production, radiochemistry, dosimetry, radiation-medicine
+  controls, and the existing autologous collection and editing workflow. No
+  delivered cost, payer path, production yield, or Indonesia capacity is
+  reported.
+- **Open question:** At equivalent durable engraftment, does Astatine-211
+  anti-CD45 improve marrow-niche and nonhematopoietic safety relative to
+  busulfan in a contemporaneous controlled study?
+- **Falsification criterion:** Deprioritize the route as a busulfan-alternative
+  benchmark if a contemporaneous comparison using the same edited autologous
+  HSPC product fails to match durable engraftment or improve a prespecified
+  marrow-niche and organ-safety composite, or if longer follow-up identifies
+  persistent niche failure, organ or fertility injury, clonal dominance,
+  malignancy, or an infeasible delivered-cost path.
+- **Next decisive action:** The translational conditioning owner, together with
+  radiopharmacy and HSPC-manufacturing owners, should run a contemporaneous
+  nonhuman-primate Astatine-211 anti-CD45 versus busulfan comparison using the
+  same HBG-edited autologous HSPC product and cell dose. Prespecify durable
+  multilineage engraftment, marrow endothelial and stromal recovery, organ,
+  fertility and endocrine injury, dosimetry, clonal composition, malignancy
+  surveillance, batch failure, and activity-based delivered cost. No patient
+  action or treatment recommendation follows.
 
 ## August 20 YOLT-204 Third-Record Decision
 
@@ -2189,6 +2268,7 @@ Decision: `hold_registry_watch`
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
 | Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records | Strong curative benchmark; repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, and the reported busulfan-related fatality block affordable-route promotion. |
+| Astatine-211 anti-CD45 radioimmunotherapy conditioning | PMID `42224345`, PMID `41671449`, and `NCT04083183` | Promoted to a nonhuman-primate targeted conditioning benchmark only. Four healthy macaques support durable edited-HSPC engraftment, while mouse data expose marrow-niche injury not resolved by blood recovery or routine organ monitoring. Historical controls, no TDT phenotype, incomplete long-term safety, isotope infrastructure, and no delivered cost block clinical or affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
@@ -2224,6 +2304,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 
 ## Sources
 
+- [Astatine-211 anti-CD45 macaque study, PMID 42224345](https://pubmed.ncbi.nlm.nih.gov/42224345/)
+- [Astatine-211 anti-CD45 macaque study, DOI 10.1182/blood.2026033789](https://doi.org/10.1182/blood.2026033789)
+- [Anti-CD45 radioimmunotherapy marrow-niche study, PMID 41671449](https://pubmed.ncbi.nlm.nih.gov/41671449/)
+- [Anti-CD45 radioimmunotherapy marrow-niche full text, PMCID PMC13083732](https://pmc.ncbi.nlm.nih.gov/articles/PMC13083732/)
+- [Nonmalignant-disease Astatine-211 transplant study, NCT04083183](https://clinicaltrials.gov/study/NCT04083183)
 - [June 22 source JSON](../../../data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json)
 - [June 22 workflow JSON](../../../data/workflows/case-001/2026-06-22-current-curative-evidence-radar-gate.json)
 - [FDA CASGEVY](https://www.fda.gov/vaccines-blood-biologics/casgevy)

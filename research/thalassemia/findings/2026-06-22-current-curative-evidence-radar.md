@@ -235,23 +235,29 @@ Matched-sibling HSCT remains
   verification records. These are infrastructure sources, not clinical outcome
   evidence.
 - **Fact - production requirement:** BRIN identifies Astatine-211 as requiring
-  an alpha beam with a reported 19.36 MeV threshold. IAEA guidance lists the
-  practical bismuth-209(alpha,2n) route at about 28 MeV and a 7.2-hour
-  Astatine-211 half-life.
+  an alpha beam with a reported 19.36 MeV threshold. IAEA Radioisotopes and
+  Radiopharmaceuticals Reports No. 4 instead gives a 20.718 MeV reaction
+  threshold and a 21.0 to 28.6 MeV practical bismuth-209(alpha,2n) window. It
+  limits alpha energy to about 28 MeV to control the radiotoxic polonium-210
+  impurity pathway associated with astatine-210 co-production and gives a
+  7.214-hour Astatine-211 half-life.
 - **Fact - Indonesian public evidence:** BRIN reports that the three hospital
   cyclotrons operating through the end of 2024 produced only fluorine-18. The
   live IAEA country filter returns four Indonesian entries with 9.6 to 18 MeV
   proton energy and blank alpha-energy and alpha-current fields. Recent BAPETEN
   records add fluorine-18 facility development, not a public Astatine-211
   production or license result.
-- **Conflict:** The IAEA directory is under revision and its Indonesian records
-  were last modified from 2018 through 2023. BRIN's inventory ends in 2024.
-  These sources do not prove that no unlisted, upgraded, or planned alpha-capable
-  facility exists.
-- **Hypothesis:** A named local alpha-capable cyclotron plus bismuth-target
-  recovery, antibody radiolabeling, same-day release, and quality-control
-  workflow could make the isotope component reproducible enough for a busulfan
-  comparison.
+- **Conflict:** BRIN's 19.36 MeV threshold differs from the IAEA's 20.718 MeV
+  reaction threshold and 21.0 to 28.6 MeV practical window. Keep the source
+  values separate and use the practical window for a facility capability gate.
+  The IAEA directory is under revision and its Indonesian records were last
+  modified from 2018 through 2023. BRIN's inventory ends in 2024. These sources
+  do not prove that no unlisted, upgraded, or planned alpha-capable facility
+  exists.
+- **Hypothesis:** A named local cyclotron qualified for the 21.0 to 28.6 MeV
+  alpha window plus bismuth-target recovery, antibody radiolabeling, impurity
+  control, same-day release, and quality-control workflow could make the isotope
+  component reproducible enough for a busulfan comparison.
 - **Interpretation:** Hold Astatine-211 anti-CD45 at the nonhuman-primate
   targeted-conditioning benchmark. The public evidence does not support an
   Indonesian affordable or accessible production route.
@@ -261,18 +267,20 @@ Matched-sibling HSCT remains
 - **Affordability and access:** No Indonesian Astatine-211 batch, yield,
   failed-batch denominator, antibody-release result, delivered cost, payer
   route, or busulfan comparison was found.
-- **Open question:** Can a named Indonesian facility verify alpha energy and
-  current, bismuth-target handling, Astatine-211 recovery and antibody labeling,
-  sterile release, radionuclidic purity, batch yield, hours to use, regulatory
-  scope, and activity-based cost?
+- **Open question:** Can a named Indonesian facility verify the 21.0 to 28.6
+  MeV alpha operating window and current, bismuth-target handling, Astatine-211
+  recovery and antibody labeling, sterile release, astatine-210 and polonium-210
+  impurity control, batch yield, hours to use, regulatory scope, and
+  activity-based cost?
 - **Falsification criterion:** End the Indonesian affordable-route hypothesis if
   no facility can verify that chain or if activity-based delivered cost is not
   lower than the conditioning cost and infrastructure burden it is meant to
   replace.
 - **Next decisive action:** A radiopharmacy and health-economics owner should
-  obtain one public-safe facility capability record covering the complete
-  production, release, logistics, failure, regulatory, and cost chain. No
-  patient action or treatment recommendation follows.
+  obtain one public-safe facility capability record covering the qualified alpha
+  operating window, impurity control, production, release, logistics, failure,
+  regulatory, and cost chain. No patient action or treatment recommendation
+  follows.
 
 ## August 21 Astatine-211 Anti-CD45 Conditioning Decision
 
@@ -2326,7 +2334,7 @@ Decision: `hold_registry_watch`
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
 | Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records | Strong curative benchmark; repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, and the reported busulfan-related fatality block affordable-route promotion. |
-| Astatine-211 anti-CD45 radioimmunotherapy conditioning | PMID `42224345`, PMID `41671449`, `NCT04083183`, BRIN's 2025 infrastructure review, the IAEA cyclotron directory, and BAPETEN facility records | Held at a nonhuman-primate targeted conditioning benchmark after an Indonesia production screen. Four healthy macaques support durable edited-HSPC engraftment, while mouse data expose marrow-niche injury not resolved by blood recovery or routine organ monitoring. BRIN reports only fluorine-18 from the three hospital cyclotrons operating through end-2024, and the IAEA's four listed Indonesian entries have blank alpha fields. Recent regulator records add fluorine-18 facilities, not a public Astatine-211 route. Historical controls, no TDT phenotype, incomplete long-term safety, no verified local production chain, and no delivered cost block clinical or affordable-route promotion. |
+| Astatine-211 anti-CD45 radioimmunotherapy conditioning | PMID `42224345`, PMID `41671449`, `NCT04083183`, BRIN's 2025 infrastructure review, the IAEA production report and cyclotron directory, and BAPETEN facility records | Held at a nonhuman-primate targeted conditioning benchmark after an Indonesia production screen. Four healthy macaques support durable edited-HSPC engraftment, while mouse data expose marrow-niche injury not resolved by blood recovery or routine organ monitoring. BRIN reports only fluorine-18 from the three hospital cyclotrons operating through end-2024, and the IAEA's four listed Indonesian entries have blank alpha fields. BRIN's 19.36 MeV threshold conflicts with the IAEA's 20.718 MeV reaction threshold; the IAEA's 21.0 to 28.6 MeV practical window and impurity ceiling define the facility gate. Recent regulator records add fluorine-18 facilities, not a public Astatine-211 route. Historical controls, no TDT phenotype, incomplete long-term safety, no verified local production chain, and no delivered cost block clinical or affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
@@ -2367,6 +2375,10 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Anti-CD45 radioimmunotherapy marrow-niche study, PMID 41671449](https://pubmed.ncbi.nlm.nih.gov/41671449/)
 - [Anti-CD45 radioimmunotherapy marrow-niche full text, PMCID PMC13083732](https://pmc.ncbi.nlm.nih.gov/articles/PMC13083732/)
 - [Nonmalignant-disease Astatine-211 transplant study, NCT04083183](https://clinicaltrials.gov/study/NCT04083183)
+- [BRIN 2025 radionuclide-production infrastructure review](https://penerbit.brin.go.id/others/catalog/download/2093/1262/31241?inline=1)
+- [IAEA Alternative Radionuclide Production with a Cyclotron](https://www-pub.iaea.org/MTCD/Publications/PDF/P1937_web.pdf)
+- [IAEA cyclotron directory](https://nucleus.iaea.org/sites/accelerators/Pages/Cyclotron.aspx)
+- [BAPETEN April 2026 Kardia Farma verification](https://www.bapeten.go.id/berita/verifikasi-izin-operasi-fasilitas-produksi-radioisotop-dan-radiofarmaka-pt-kardia-farma-solusindo-jakarta-110034)
 - [June 22 source JSON](../../../data/literature/pubmed/2026-06-22-current-curative-evidence-radar.json)
 - [June 22 workflow JSON](../../../data/workflows/case-001/2026-06-22-current-curative-evidence-radar-gate.json)
 - [FDA CASGEVY](https://www.fda.gov/vaccines-blood-biologics/casgevy)

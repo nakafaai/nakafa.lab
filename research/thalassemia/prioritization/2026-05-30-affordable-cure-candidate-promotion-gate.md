@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-21
+Last evidence update: 2026-08-22
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -45,7 +45,7 @@ answers:
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
-| Astatine-211 anti-CD45 conditioning | `nonhuman_primate_targeted_conditioning_benchmark_only` | Four healthy rhesus macaques support dose-dependent, stable multilineage engraftment of HBG-promoter and CD33-edited autologous HSPCs for more than 18 months, but the comparison used historical controls. All four animals had weight loss and poor appetite, and only one had reported 12-month nonhematopoietic histology. Independent mouse data show delayed marrow recovery and endothelial-niche remodeling. No TDT phenotype, contemporaneous busulfan comparison, complete long-term safety, delivered cost, or Indonesia route supports clinical or affordable-route promotion. |
+| Astatine-211 anti-CD45 conditioning | `nonhuman_primate_targeted_conditioning_benchmark_only` | Four healthy rhesus macaques support stable multilineage engraftment of edited autologous HSPCs for more than 18 months, but the comparison used historical controls. Mouse data show delayed marrow recovery and endothelial-niche remodeling. BRIN reports only fluorine-18 production from the three hospital cyclotrons operating through end-2024. The live IAEA directory lists four Indonesian proton machines with blank alpha fields, while newer BAPETEN records also name fluorine-18 scope. The sources are incomplete and do not prove national absence, but no public alpha-capable Astatine-211 production, release, cost, payer, TDT phenotype, contemporaneous busulfan comparison, or complete long-term safety result supports clinical or affordable-route promotion. |
 | KIT epitope-edited conditioning | `replicated_preclinical_conditioning_benchmark_only` | A peer-reviewed study independently joins the July preprint in supporting antibody selection of KIT-shielded HSPCs. It adds serial repopulation and genomic-safety experiments, but uses healthy-donor and SCD cells in female immunodeficient mice, not beta-thalassemia donor cells or a TDT disease model. BCL11A off-target deamination, PE3 indels and translocations, absent clinical results, and missing delivered cost block further promotion. |
 | Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
 | Hydroxyurea | `affordable_clinical_comparator` | Useful low-cost HbF comparator; not a cure claim and not case-specific. |
@@ -205,6 +205,55 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 22 Astatine-211 Indonesia Production Decision
+
+**Question:** Does current official radionuclide-production evidence establish
+an Indonesian Astatine-211 route strongly enough to treat anti-CD45
+radioimmunotherapy as a realistically affordable TDT conditioning strategy?
+
+**Decision:**
+`hold_astatine_211_cd45_rit_at_nonhuman_primate_targeted_conditioning_benchmark_only_after_indonesia_production_screen`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** Astatine-211-labeled anti-CD45 is intended to open
+  marrow space for transplanted HSPCs. This update tests isotope production and
+  access, not a TDT genotype, phenotype, or efficacy result.
+- **Evidence tier:** Official BRIN infrastructure review, current IAEA public
+  cyclotron directory, IAEA production guidance, and recent BAPETEN facility
+  verification records.
+- **Fact - requirement:** BRIN reports that Astatine-211 requires an alpha beam
+  with a 19.36 MeV threshold. IAEA guidance lists the practical
+  bismuth-209(alpha,2n) route at about 28 MeV and a 7.2-hour half-life.
+- **Fact - local evidence:** BRIN reports only fluorine-18 production from the
+  three Indonesian hospital cyclotrons operating through end-2024. The live
+  IAEA country filter returns four entries with 9.6 to 18 MeV proton energy and
+  blank alpha-energy and alpha-current fields. Recent BAPETEN records identify
+  additional fluorine-18 facility development, not a public Astatine-211 route.
+- **Conflict:** The IAEA directory is under revision and its Indonesian records
+  were last modified from 2018 through 2023. BRIN's inventory ends in 2024, and
+  verification visits are not final license or routine-production evidence.
+  The screen therefore cannot prove that no unlisted capability exists.
+- **Hypothesis:** A named local alpha-capable cyclotron plus bismuth-target
+  recovery, antibody radiolabeling, same-day release, and quality control could
+  make the isotope component reproducible enough for a busulfan comparison.
+- **Interpretation:** Hold the route at the nonhuman-primate benchmark. Current
+  public evidence does not support Indonesian affordability or access.
+- **Safety and affordability:** Marrow-niche and long-term safety remain open.
+  No Indonesian Astatine-211 batch, yield, failed-batch denominator,
+  antibody-release result, delivered cost, payer path, or busulfan comparison
+  was found.
+- **Open question:** Can one named Indonesian facility verify the complete
+  alpha-beam, target, recovery, radiolabeling, release, logistics, regulatory,
+  failure, and cost chain?
+- **Falsification criterion:** End the Indonesian affordable-route hypothesis if
+  no facility can verify that chain or if activity-based delivered cost is not
+  lower than the conditioning cost and infrastructure burden it is meant to
+  replace.
+- **Next decisive action:** A radiopharmacy and health-economics owner should
+  obtain one public-safe facility capability record before any busulfan cost or
+  safety comparison. No patient action or treatment recommendation follows.
 
 ## August 21 Astatine-211 Anti-CD45 Conditioning Decision
 

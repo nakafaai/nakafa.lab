@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-22
+Last evidence update: 2026-08-23
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -45,6 +45,7 @@ answers:
 | Beti-cel lentiviral beta-globin gene addition | `durable_long_term_transfusion_independence_benchmark_only` | A 63-participant pooled follow-up reports durable transfusion independence at median 5.9 years. Separate process evidence now quantifies repeat mobilization in 13 of 66 parent-study participants, three preinfusion discontinuations, eight treated among 15 screened in Germany, and two repeat collections after out-of-specification release results among ten collected at one United States center. Complete commercial referral-to-infusion, failed-lot, itemized-cost, Indonesia, center-capacity, and payer denominators remain unresolved. |
 | EDIT-301 / reni-cel HBG promoter editing | `corrected_early_clinical_hbg_promoter_editing_benchmark_only` | A formal NEJM correction limits the day-42 claim to neutrophil engraftment and replaces incorrect adverse-event percentages with 5-of-9, 5-of-9, and 6-of-9 participant counts. Nine-person, nonprespecified, short-follow-up evidence, stopped development, busulfan conditioning, and missing delivered cost and access evidence block promotion. |
 | CD34-targeted in vivo HSPC editing | `preclinical_in_vivo_hspc_delivery_benchmark_only` | Anti-CD34 LNP delivery produced persistent BCL11A-enhancer editing and increased HBG relative to beta-like globin RNA after intrafemoral dosing in humanized mice. No TDT donor denominator, therapeutic disease-phenotype endpoint, systemic therapeutic route, broad genomic safety, large-animal result, delivered cost, or Indonesia path supports affordable-route promotion. |
+| Persistent AAV-Cas9 expression | `deprioritize_persistent_aav_cas9_as_affordable_in_vivo_tdt_editing_architecture_after_long_term_mouse_liver_safety_signal` | Ten-month AAV8-SaCas9 mouse-liver evidence retains intended editing but adds anti-editor immunity, inflammation and fibrosis, author-reported DNA-damage-response-gene mutation enrichment, on-target AAV integration, and translocations. Male liver-only evidence, one shared whole-exome normal, no lineage tracing, no malignancy, and no TDT, HSPC, transient-delivery, cost, or access result keep the source at a safety hazard benchmark and block transfer to messenger-RNA LNPs or YOLT-204. |
 | Astatine-211 anti-CD45 conditioning | `nonhuman_primate_targeted_conditioning_benchmark_only` | Four healthy rhesus macaques support stable multilineage engraftment of edited autologous HSPCs for more than 18 months, but the comparison used historical controls. Mouse data show delayed marrow recovery and endothelial-niche remodeling. BRIN reports only fluorine-18 production from the three hospital cyclotrons operating through end-2024. The live IAEA directory lists four Indonesian proton machines with blank alpha fields, while newer BAPETEN records also name fluorine-18 scope. BRIN's 19.36 MeV alpha threshold conflicts with the IAEA's 20.718 MeV reaction threshold; the IAEA's 21.0 to 28.6 MeV practical window and impurity-control ceiling now define the facility gate. The sources are incomplete and do not prove national absence, but no public alpha-capable Astatine-211 production, release, cost, payer, TDT phenotype, contemporaneous busulfan comparison, or complete long-term safety result supports clinical or affordable-route promotion. |
 | KIT epitope-edited conditioning | `replicated_preclinical_conditioning_benchmark_only` | A peer-reviewed study independently joins the July preprint in supporting antibody selection of KIT-shielded HSPCs. It adds serial repopulation and genomic-safety experiments, but uses healthy-donor and SCD cells in female immunodeficient mice, not beta-thalassemia donor cells or a TDT disease model. BCL11A off-target deamination, PE3 indels and translocations, absent clinical results, and missing delivered cost block further promotion. |
 | Apheresis-waste CD34-positive HSPC recovery | `preclinical_hemoglobinopathy_material_recovery_benchmark_only` | A new preprint reports useful CD34-positive cell recovery and mouse engraftment from clinical apheresis waste, but its verified abstract lacks a beta-thalassemia donor denominator, erythroid and globin endpoints, cost, and Indonesia access. Keep it outside the current quote until the disease-material claim is auditable. |
@@ -71,6 +72,17 @@ luspatercept plus thalidomide, and AND017.
 Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
+
+The new persistent AAV8-SaCas9 study changes the in vivo editing experiment,
+not the clinical ranking. Intended editing persisted for 10 months in mouse
+liver, but anti-editor immunity, fibrotic and inflammatory findings,
+author-reported DNA-damage-response-gene mutation enrichment, AAV integration,
+and translocations make persistent nuclease exposure a safety hazard benchmark.
+Because the model was male mouse liver and the mutation analysis used one
+shared normal without lineage tracing, the result does not establish cancer,
+HSPC harm, or risk from transient messenger-RNA LNPs. Affordable in vivo HSPC
+editing must now compare exposure duration, efficacy, clonal and structural
+safety, and total surveillance cost in one matched design.
 
 The Thai multicenter cohort closes part of the Southeast Asian execution and
 payer-path gap. Five centers report an era-stratified outcome across 249 people,
@@ -205,6 +217,53 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 23 Persistent AAV-Cas9 Safety Decision
+
+**Question:** Does newly indexed 10-month AAV8-SaCas9 liver evidence support
+persistent nuclease expression as a viable affordable in vivo TDT-editing
+architecture?
+
+**Decision:**
+`deprioritize_persistent_aav_cas9_as_affordable_in_vivo_tdt_editing_architecture_after_long_term_mouse_liver_safety_signal`.
+CD34-targeted messenger-RNA LNP editing and YOLT-204 retain their prior holds.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact:** Adult male C57BL/6J mice received one retro-orbital dose of an
+  all-in-one AAV8-SaCas9 construct. `Pcsk9-G1` retained 42.1 plus or minus 5.9%
+  liver indels at 10 months.
+- **Fact:** Ten of 39 Cas9-exposed mice exceeded the study's high anti-SaCas9
+  antibody threshold. The high-antibody group had greater inflammatory-cell
+  infiltration and fibrosis and lower normalized editing. No malignancy was
+  observed at the endpoint.
+- **Fact:** The authors report 181 genes with non-silent mutations across
+  edited groups, frequent `Atm` and `Atr` mutations in one target group,
+  on-target AAV integration, and translocations above baseline in the
+  highest-edited animals despite no significant indel increase at the top ten
+  predicted off-target sites.
+- **Conflict:** The paper frames these findings as early clonal selection, but
+  it does not lineage-trace clones. One PBS mouse was the shared germline
+  reference across 21 whole-exome libraries, controls retained called mutation
+  burdens, and the main expression screen used raw rather than adjusted
+  significance because adjusted results were sparse.
+- **Interpretation:** Persistent AAV-Cas9 expression is a long-term mouse-liver
+  safety hazard benchmark, not a viable affordable TDT-editing route. The result
+  does not transfer to transient messenger-RNA LNPs or undisclosed YOLT-204
+  delivery.
+- **Affordability:** No delivered-cost or access evidence exists. Persistent
+  editor exposure can add immune management, long-term genomic and malignancy
+  surveillance, and failed-dose costs that a single-administration label hides.
+- **Falsification criterion:** Do not re-enter persistent AAV-Cas9 into the
+  affordable ranking unless matched TDT-relevant HSPC and large-animal studies
+  show durable disease rescue without higher immune, clonal, insertional,
+  structural, organ, fertility, or malignancy burden than transient delivery,
+  and with lower activity-based delivered cost.
+- **Next decisive action:** Compare persistent and transient exposure using the
+  same editor, guide, intended edit, dose accounting, genotype-diverse TDT HSPCs,
+  long-term repopulation and erythroid endpoints, broad genomic and clonal
+  assays, immune and organ safety, failed-run denominators, and delivered cost.
+  No patient action or treatment recommendation follows.
 
 ## August 22 Astatine-211 Indonesia Production Decision
 

@@ -1,7 +1,7 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-22
+Last evidence update: 2026-08-23
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
@@ -106,6 +106,20 @@ actual common grade 3 or 4 adverse-event counts, and corrects the Discussion's
 target name from GATA1 to BCL11A. The correction preserves an early clinical
 HbF and transfusion-independence signal but strengthens the safety, durability,
 development-status, cost, and access hold.
+
+A newly indexed publisher-accepted manuscript adds a 10-month persistent
+AAV8-SaCas9 mouse-liver safety signal. Adult male mice retained intended editing,
+but 10 of 39 Cas9-exposed animals had high anti-SaCas9 antibody levels associated
+with inflammatory and fibrotic findings and lower editing. The authors also
+report DNA-damage-response-gene mutations, on-target AAV integration, and
+translocations between intended cuts and low-homology genomic regions. No
+malignancy was observed. The study used liver, not HSPCs or a TDT model, and its
+whole-exome and transcriptomic analyses do not prove lineage-traced clonal
+selection or transfer the signal to transient messenger-RNA LNP delivery.
+Persistent AAV-Cas9 expression is therefore deprioritized as an affordable in
+vivo TDT-editing architecture and retained as a long-term mouse-liver safety
+hazard benchmark only. Existing CD34-targeted LNP and YOLT-204 rankings remain
+unchanged.
 
 An August 5 primary study adds a CD34-targeted lipid-nanoparticle delivery
 benchmark for editing human HSPCs in vivo. Intrafemoral delivery in humanized
@@ -215,6 +229,83 @@ affordability, or access result.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 23 Persistent AAV-Cas9 Safety Decision
+
+**Question:** Does newly indexed 10-month AAV8-SaCas9 liver evidence support
+persistent nuclease expression as a viable affordable in vivo TDT-editing
+architecture?
+
+**Decision:**
+`deprioritize_persistent_aav_cas9_as_affordable_in_vivo_tdt_editing_architecture_after_long_term_mouse_liver_safety_signal`.
+CD34-targeted messenger-RNA LNP editing remains
+`preclinical_in_vivo_hspc_delivery_benchmark_only`; YOLT-204 remains a
+pre-results systemic genetic-intervention benchmark because its editor and
+carrier are undisclosed. Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Mechanism and scope:** The study used one all-in-one AAV8 vector to express
+  Staphylococcus aureus Cas9 and guides against `Pcsk9` or `Angptl3` in
+  eight-week-old male C57BL/6J mice. It tested persistent liver editing, not
+  HSPCs, beta-thalassemia cells, a TDT phenotype, or transfusion independence.
+- **Evidence tier:** Publisher-accepted manuscript and official supplement in
+  Protein & Cell, PMID `42629331`, with 10-month mouse follow-up. The manuscript
+  is not yet the final typeset version.
+- **Fact - intended editing:** `Pcsk9-G1` reached 42.1 plus or minus 5.9% liver
+  indels at month 10. The main targeting groups used 10 mice each and the
+  non-targeting group used eight.
+- **Fact - immune and tissue signal:** High anti-SaCas9 antibody levels were
+  reported in 10 of 39 Cas9-exposed mice. The high-antibody group had higher
+  inflammatory-cell infiltration and fibrosis, lower normalized editing, and a
+  positive antibody-to-ALT correlation. Overall liver morphology and body weight
+  remained similar, and no malignant transformation was observed at the
+  endpoint.
+- **Fact - genomic signal:** Whole-exome sequencing covered 21 liver libraries
+  at a reported mean depth of about 155 times. The authors report 181 genes with
+  non-silent mutations across edited groups and frequent `Atm` and `Atr`
+  mutations in the `Angptl3-G4` group. Top-ten predicted off-target-site testing
+  found no significant indel increase, while target-enrichment sequencing in
+  the highest-edited animals detected on-target AAV integration and
+  translocations above baseline between intended cuts and low-homology regions.
+- **Contradiction and limit:** The authors interpret the low-frequency variants
+  as early clonal selection, but no lineage tracing directly establishes clone
+  expansion. One PBS-treated mouse served as the shared germline reference for
+  all whole-exome libraries, control animals retained substantial called
+  mutation burdens, and the main differential-expression screen used raw
+  `P < 0.05` because adjusted significance yielded too few genes. These limits
+  prevent a causal malignancy claim.
+- **Hypothesis:** Transient editor exposure can preserve durable intended HSPC
+  modification while reducing bacterial-nuclease immunity, clonal selection,
+  AAV integration, and structural-variation burden relative to persistent AAV
+  expression.
+- **Interpretation:** Deprioritize persistent AAV-Cas9 expression as an
+  affordable in vivo TDT-editing architecture. Do not transfer the liver signal
+  to transient messenger-RNA LNPs or YOLT-204 without exposure, carrier, tissue,
+  and endpoint matching.
+- **Affordability and access:** A single injection is not an affordability
+  result. Persistent-editor manufacture, immune injury, long-term genomic and
+  malignancy surveillance, failed-dose handling, and retreatment limits can add
+  cost. No source provides TDT delivered cost, Indonesia authorization, local
+  manufacture, payer coverage, or capacity.
+- **Open question:** In a TDT-relevant long-term HSPC model, does transient
+  systemic editor delivery preserve disease-relevant benefit while reducing
+  immune, clonal, insertional, and structural-variation burden relative to the
+  same editor and guide under persistent expression?
+- **Falsification criterion:** Keep persistent AAV-Cas9 out of the affordable
+  route ranking unless an exposure-matched TDT-relevant HSPC and large-animal
+  program shows durable disease rescue without higher editor immunity,
+  inflammation, fibrosis, clonal dominance, DNA-damage-response mutation,
+  integration, translocation, organ injury, or malignancy than transient
+  delivery, and demonstrates a lower activity-based delivered cost. Deprioritize
+  the transient route too if the same long-term hazards persist despite bounded
+  editor exposure.
+- **Next decisive action:** Run one qualified head-to-head study using the same
+  editor, guide, intended edit, and dose accounting under persistent and
+  transient delivery. Use at least three genotype-diverse TDT donors, durable
+  repopulating HSPC and erythroid endpoints, broad genomic and clonal assays,
+  editor and carrier immunity, organ and fertility safety, failed-run
+  denominators, and activity-based delivered cost. No patient action or
+  treatment recommendation follows.
 
 ## August 22 Astatine-211 Indonesia Production Decision
 

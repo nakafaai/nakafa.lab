@@ -1,10 +1,18 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-23
+Last evidence update: 2026-08-25
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
+
+FDA's final August 2026 cellular and gene therapy FAQ promotes risk-based
+platform analytics and PPQ planning to a regulatory development benchmark only.
+The guidance can support less duplicated validation work when product
+similarity, assay performance, commercial-scale validation, and regulator
+agreement are demonstrated. It contains no TDT delivered-cost, failed-lot,
+conditioning, Indonesia, payer, or patient-access result, so no clinical route
+ranking changes.
 
 Matched-sibling HSCT is now the leading affordable-curative route benchmark for
 the narrow pediatric population studied in a new LMIC cohort. It remains
@@ -229,6 +237,53 @@ affordability, or access result.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 25 FDA CGT CMC Development Decision
+
+**Question:** Does FDA's newly finalized cellular and gene therapy FAQ guidance
+make risk-based platform analytics and fewer process performance qualification
+batches a credible cost-reduction route for ex vivo TDT HSPC products?
+
+**Decision:**
+`promote_fda_risk_based_cgt_cmc_flexibilities_to_regulatory_development_benchmark_only`.
+Exa-cel, beti-cel, and other gene-cell therapy routes retain their clinical and
+process-burden holds. Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact:** FDA may consider justified use of CMC knowledge from sufficiently
+  similar products and platform analytical procedures. Product-specific
+  verification may still be required when product differences could affect
+  method performance.
+- **Fact:** FDA does not specify a minimum PPQ batch count. The sponsor must
+  justify the count using product and process knowledge, complexity, controls,
+  and risk. Commercial-process validation still requires commercial-scale
+  batches.
+- **Fact:** FDA may consider selected post-approval PPQ completion, flexible
+  specifications, alternative stability-lot counts, reserve-sample exceptions,
+  and validated rapid analytical methods. These are case-specific options, not
+  automatic waivers.
+- **Hypothesis:** A platform analytical package for sufficiently similar ex vivo
+  edited HSPC products can reduce validation work, sample use, release time,
+  and cost without losing safety-critical assay performance.
+- **Interpretation:** Promote the strategy to a regulatory development
+  benchmark only. The nonbinding United States guidance is not evidence of
+  lower delivered TDT cost, fewer clinical-lot failures, BPOM acceptance,
+  Indonesia manufacture, payer coverage, or patient access.
+- **Open question:** After product-specific verification, comparability work,
+  failed runs, and regulator interactions are counted, does the strategy lower
+  total validation and release cost for a defined TDT HSPC product?
+- **Falsification criterion:** Reject the platform cost hypothesis if a
+  safety-critical method loses qualified accuracy, precision, sensitivity, or
+  specificity, if product-specific work erases the proposed savings, or if cost
+  does not fall without a higher failed-lot or delayed-release rate.
+- **Next decisive action:** A qualified HSPC manufacturing and regulatory owner
+  should compare a platform package with a conventional product-specific
+  package against the same defined products. The comparison must report
+  identity, CD34-positive fraction, viability, intended edit, broad genomic and
+  structural safety, HbF protein, globin-chain balance, sterility, assay
+  performance, attempted and failed runs, PPQ strategy, sample volume, labor,
+  consumables, elapsed time, and cost per released lot. No patient action or
+  sample routing follows.
 
 ## August 23 Persistent AAV-Cas9 Safety Decision
 
@@ -2424,7 +2479,7 @@ Decision: `hold_registry_watch`
 
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
-| Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records | Strong curative benchmark; repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, and the reported busulfan-related fatality block affordable-route promotion. |
+| Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records, and FDA's 2026 CGT CMC guidance | Strong curative benchmark; FDA's risk-based platform analytics and PPQ options may reduce duplicated development work but do not remove product-specific verification, commercial-scale validation, repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, or the reported busulfan-related fatality. No TDT-specific cost or Indonesia acceptance result supports affordable-route promotion. |
 | Astatine-211 anti-CD45 radioimmunotherapy conditioning | PMID `42224345`, PMID `41671449`, `NCT04083183`, BRIN's 2025 infrastructure review, the IAEA production report and cyclotron directory, and BAPETEN facility records | Held at a nonhuman-primate targeted conditioning benchmark after an Indonesia production screen. Four healthy macaques support durable edited-HSPC engraftment, while mouse data expose marrow-niche injury not resolved by blood recovery or routine organ monitoring. BRIN reports only fluorine-18 from the three hospital cyclotrons operating through end-2024, and the IAEA's four listed Indonesian entries have blank alpha fields. BRIN's 19.36 MeV threshold conflicts with the IAEA's 20.718 MeV reaction threshold; the IAEA's 21.0 to 28.6 MeV practical window and impurity ceiling define the facility gate. Recent regulator records add fluorine-18 facilities, not a public Astatine-211 route. Historical controls, no TDT phenotype, incomplete long-term safety, no verified local production chain, and no delivered cost block clinical or affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |
@@ -2461,6 +2516,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 
 ## Sources
 
+- [FDA final cellular and gene therapy FAQ guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products)
+- [FDA final FAQ guidance PDF](https://www.fda.gov/media/183631/download)
+- [Federal Register notice, document 2026-16959](https://www.federalregister.gov/documents/2026/08/20/2026-16959/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products-final-guidance)
+- [FDA final CMC-flexibilities guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/chemistry-manufacturing-and-controls-flexibilities-developing-human-cellular-and-gene-therapy)
+- [FDA final CMC-flexibilities guidance PDF](https://www.fda.gov/media/192321/download)
 - [Astatine-211 anti-CD45 macaque study, PMID 42224345](https://pubmed.ncbi.nlm.nih.gov/42224345/)
 - [Astatine-211 anti-CD45 macaque study, DOI 10.1182/blood.2026033789](https://doi.org/10.1182/blood.2026033789)
 - [Anti-CD45 radioimmunotherapy marrow-niche study, PMID 41671449](https://pubmed.ncbi.nlm.nih.gov/41671449/)

@@ -14,16 +14,14 @@ agreement are demonstrated. It contains no TDT delivered-cost, failed-lot,
 conditioning, Indonesia, payer, or patient-access result, so no clinical route
 ranking changes.
 
-A previously unintegrated Spanish multicenter cohort now promotes fully matched
-unrelated-donor HSCT to a pediatric curative outcome benchmark only. Sixteen
-children received fully matched unrelated grafts within a 58-child
-first-transplant cohort with median 7.4-year follow-up. The abstract reports no
-statistically significant donor-group difference in two-year survival outcomes,
-but grade II to IV acute graft-versus-host disease was higher after fully
-matched unrelated donation. Missing donor-group estimates, confidence
-intervals, complete event counts, donor-search yield, itemized cost, payer
-evidence, and an Indonesia route block donor-equivalence and affordable-route
-promotion.
+Two geographically distinct retrospective cohorts now promote fully matched
+unrelated-donor HSCT to a replicated pediatric curative-outcome and GVHD-burden
+benchmark only. The Spanish study includes 16 fully matched unrelated recipients
+and a matched-family comparison at two years. The Indian MUD-only study adds 25
+children and five-year estimates. Acute GVHD affected about half of each MUD
+cohort under non-equivalent definitions. Missing full-text denominators,
+donor-search yield, itemized cost, payer evidence, and an Indonesia route block
+donor-equivalence and affordable-route promotion.
 
 Matched-sibling HSCT is now the leading affordable-curative route benchmark for
 the narrow pediatric population studied in a new LMIC cohort. It remains
@@ -251,20 +249,20 @@ Current operational label:
 
 ## August 25 Fully Matched Unrelated-Donor HSCT Decision
 
-**Question:** Does a Spanish multicenter pediatric TDT cohort close the
-donor-access and affordability gaps enough to promote fully matched
-unrelated-donor HSCT beyond a curative outcome benchmark?
+**Question:** Does a second 2026 pediatric matched-unrelated-donor cohort resolve
+enough of the Spanish cohort's outcome gap to change the route decision and the
+next cure-program owner action?
 
 **Decision:**
-`promote_fully_matched_unrelated_donor_hsct_to_pediatric_curative_outcome_benchmark_only`.
+`promote_fully_matched_unrelated_donor_hsct_to_replicated_pediatric_curative_outcome_and_gvhd_burden_benchmark_only`.
 Matched-sibling HSCT remains
 `leading_affordable_curative_route_benchmark_only`.
 
-- **Evidence tier:** Primary retrospective multicenter pediatric cohort, PMID
-  `41196250`. The official indexed and publisher-visible abstract was checked;
-  no public full text was retrieved, so no hidden table or arm-level value is
-  inferred.
-- **Fact - cohort and donors:** The report includes 58 children after a first
+- **Evidence tier:** Two geographically distinct retrospective pediatric
+  cohorts: Spanish multicenter PMID `41196250` and Indian single-center PMID
+  `41772795`. Both decisions remain abstract-bounded because no public full text
+  was retrieved.
+- **Fact - Spanish cohort and donors:** The report includes 58 children after a first
   HSCT, with median transplant age 5.6 years and median follow-up 7.4 years.
   Thirty-nine received matched family donor grafts. The unrelated group
   comprised 16 fully matched unrelated donors and three mismatched unrelated
@@ -273,15 +271,21 @@ Matched-sibling HSCT remains
   conditioning and 22 received treosulfan-based conditioning. Forty-nine grafts
   used bone marrow alone or with cord blood, six used cord blood, and three used
   peripheral blood.
-- **Fact - outcome:** The abstract reports whole-cohort two-year overall
+- **Fact - Spanish outcome:** The abstract reports whole-cohort two-year overall
   survival of 98%, thalassemia-free survival of 92.2%, and chronic-GVHD-free
   thalassemia-free survival of 82.7%, without a statistically significant
   difference between matched family and fully matched unrelated groups.
-- **Fact - safety:** Grade II to IV acute GVHD was higher after fully matched
+- **Fact - Spanish safety:** Grade II to IV acute GVHD was higher after fully matched
   unrelated donation, 56.25% versus 25.71%, with `P = 0.0178`. No significant
   group difference was reported for grade III to IV acute GVHD or chronic
   GVHD.
-- **Contradiction and limit:** The abstract exposes only two-year survival
+- **Fact - Indian cohort:** The MUD-only study includes 25 children aged 12 years
+  or younger, with median transplant age 9 years and 68% classified as Nanfang
+  Class III. Estimated five-year overall, thalassemia-free, GVHD-free
+  relapse-free, and GVHD-free thalassemia-free survival were 95.8%, 92%, 75.8%,
+  and 92%. Acute GVHD, chronic GVHD, and cytomegalovirus reactivation were
+  reported in 52%, 16%, and 24%.
+- **Contradiction and limit:** The Spanish abstract exposes only two-year survival
   estimates despite median 7.4-year follow-up. It does not provide donor-group
   estimates, confidence intervals, complete event counts, or the three
   mismatched cord-blood recipients' place in each outcome denominator. The
@@ -289,17 +293,31 @@ Matched-sibling HSCT remains
   matched sibling donor absence. A nonsignificant comparison with 16 fully
   matched unrelated recipients does not establish equivalence or
   noninferiority.
+- **Contradiction and limit:** The Indian abstract does not report median
+  follow-up, confidence intervals, numbers at risk, enrollment dates, complete
+  event counts, conditioning details, or a comparator. Its 60.9% male value
+  cannot map to a whole-person numerator among 25 participants, so that
+  denominator is unresolved and unused. Its ferritin association lacks enough
+  model detail for a causal or decision-useful risk estimate.
+- **Safety boundary:** The Indian acute-GVHD grade is not exposed, so its 52%
+  value must not be pooled with the Spanish grade II to IV value. The two
+  studies support a route-level GVHD burden, not one incidence estimate.
+- **Fact - planned experiment:** `NCT06657391` lists a planned randomized phase
+  2 GVHD-prevention study in 396 TDT recipients after haploidentical or matched-
+  unrelated-donor HSCT. It has no posted results, combines donor types, exposes
+  no donor-stratified analysis plan, and was last verified in October 2024.
 - **Hypothesis:** A governed fully matched unrelated-donor search and transplant
   pathway can increase the fraction of referred children reaching curative
   HSCT without losing prespecified survival or severe-GVHD-free outcome
   performance.
-- **Interpretation:** Promote the route to a pediatric curative outcome
-  benchmark only. The source expands donor-access evidence but does not
-  establish donor equivalence, current long-horizon durability, affordability,
-  Indonesia transferability, or patient suitability.
-- **Affordability and access:** No donor-search success rate, search time,
+- **Interpretation:** Promote the route to a replicated pediatric curative-
+  outcome and GVHD-burden benchmark only. Durable donor hematopoiesis, rather
+  than recipient `HBB` correction, is the intended mechanism. The sources do
+  not establish genotype-specific response, adult outcomes, donor equivalence,
+  affordability, Indonesia transferability, or patient suitability.
+- **Affordability and access:** Neither cohort reports donor-search success, time,
   acquisition cost, transplant cost, payer contribution, family cost, failed
-  search denominator, or Indonesia registry and center route was reported.
+  search denominator, or an Indonesia registry and center route.
 - **Open question:** Across all referred children without a matched family
   donor, what fraction finds a fully matched unrelated donor, reaches first
   transplant, remains transfusion-free without severe GVHD, and does so within
@@ -313,10 +331,14 @@ Matched-sibling HSCT remains
   prespecified survival or severe-GVHD-free noninferiority margin is missed.
   Reject affordability if no funded local path exists or the route loses a
   meaningful cost advantage over autologous gene-cell therapy.
-- **Next decisive action:** Obtain the full donor-group tables, then ask a
-  qualified transplant-network and health-economics owner to run the same
+- **Next decisive action:** A qualified evidence owner should obtain both full
+  papers and the `NCT06657391` protocol or statistical analysis plan to resolve
+  cohort denominators, follow-up risk sets, and donor-stratified trial analysis.
+  A qualified transplant-network and health-economics owner should then run the
   referral-to-transplant comparison in one current Southeast Asian or
-  Indonesian network. No patient action, treatment recommendation, referral,
+  Indonesian network. Prioritize this observed-route validation ahead of an
+  unanchored CGT platform-CMC cost experiment. This is a research priority, not
+  a treatment ranking. No patient action, treatment recommendation, referral,
   travel, purchase, or sample routing follows.
 
 ## August 25 FDA CGT CMC Development Decision
@@ -2567,7 +2589,7 @@ Decision: `hold_registry_watch`
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 115-child Malaysian and 205-child Saudi regional cohorts, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. Malaysia adds a Southeast Asian median 18-year follow-up signal from a cohort with 96 matched-sibling donors, but its mixed eras, absent pharmacokinetic monitoring, missing transplant cost, and reporting conflicts block route or regimen promotion. The Saudi cohort adds long-horizon regional durability, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
-| Fully matched unrelated-donor allogeneic HSCT | Spanish multicenter cohort, PMID `41196250` | Pediatric curative outcome benchmark only. Sixteen children received fully matched unrelated grafts within a 58-child first-transplant cohort, but grade II to IV acute GVHD was higher than after matched family donation. The accessible abstract lacks donor-group survival estimates, confidence intervals, complete event counts, donor-search yield, cost, payer evidence, and an Indonesia route. A nonsignificant comparison does not establish donor equivalence or affordability. |
+| Fully matched unrelated-donor allogeneic HSCT | Spanish multicenter PMID `41196250`, Indian single-center PMID `41772795`, and `NCT06657391` | Replicated pediatric curative-outcome and GVHD-burden benchmark only. The Spanish cohort includes 16 fully matched unrelated recipients and a matched-family comparison at two years. The Indian MUD-only cohort adds 25 children and five-year estimates. Acute GVHD affected about half of each MUD cohort under definitions that cannot be pooled. The planned trial has no results and combines donor types. Missing complete denominators, donor-search yield, cost, payer evidence, and an Indonesia route block donor equivalence and affordability. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |
@@ -2603,6 +2625,11 @@ consequential questions to qualified owners. They are not biomedical evidence.
 - [Federal Register notice, document 2026-16959](https://www.federalregister.gov/documents/2026/08/20/2026-16959/frequently-asked-questions-developing-potential-cellular-and-gene-therapy-products-final-guidance)
 - [FDA final CMC-flexibilities guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/chemistry-manufacturing-and-controls-flexibilities-developing-human-cellular-and-gene-therapy)
 - [FDA final CMC-flexibilities guidance PDF](https://www.fda.gov/media/192321/download)
+- [Spanish multicenter unrelated-donor TDT cohort, PMID 41196250](https://pubmed.ncbi.nlm.nih.gov/41196250/)
+- [Spanish cohort DOI 10.1016/j.jcyt.2025.09.012](https://doi.org/10.1016/j.jcyt.2025.09.012)
+- [Indian pediatric MUD cohort, PMID 41772795](https://pubmed.ncbi.nlm.nih.gov/41772795/)
+- [Indian cohort DOI 10.1080/03630269.2026.2632167](https://doi.org/10.1080/03630269.2026.2632167)
+- [ClinicalTrials.gov GVHD-prevention study NCT06657391](https://clinicaltrials.gov/study/NCT06657391)
 - [Astatine-211 anti-CD45 macaque study, PMID 42224345](https://pubmed.ncbi.nlm.nih.gov/42224345/)
 - [Astatine-211 anti-CD45 macaque study, DOI 10.1182/blood.2026033789](https://doi.org/10.1182/blood.2026033789)
 - [Anti-CD45 radioimmunotherapy marrow-niche study, PMID 41671449](https://pubmed.ncbi.nlm.nih.gov/41671449/)

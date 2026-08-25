@@ -31,6 +31,7 @@ answers:
 | Lane | Current label | Why |
 | --- | --- | --- |
 | Matched-sibling HSCT | `leading_affordable_curative_route_benchmark_only` | A 176-child multicenter LMIC cohort joins high short-term thalassemia-free survival with a USD 8,000-10,000 mean cost range including follow-up. A 115-child Malaysian cohort adds a Southeast Asian median 18-year follow-up signal from 96 matched-sibling donors, with 83.5% full-cohort 15-year overall survival and 71.3% thalassemia-free survival. A five-center Thai cohort adds 249 people, era-stratified outcomes, late-burden reporting, pharmacokinetic-monitoring context, and a historical public payer mechanism. Procedure-based denominators, enrollment ending in 2016, missing itemized cost, and internal table conflicts block route or regimen promotion. A 205-child Saudi cohort adds a separate long-horizon durability signal, but not donor-stratified outcome or cost. Jakarta adds two-case execution, but not routine access or itemized cost. Donor restriction, current-era long-term outcomes, toxicity, lifetime surveillance cost, and Indonesia delivery remain unresolved. |
+| Fully matched unrelated-donor HSCT | `pediatric_curative_outcome_benchmark_only` | A Spanish multicenter cohort reports 58 first pediatric TDT transplants, median 7.4-year follow-up, and whole-cohort two-year overall and thalassemia-free survival of 98% and 92.2%. Sixteen children received fully matched unrelated grafts. Grade II to IV acute GVHD was higher than after matched family donation, and the accessible abstract lacks donor-group outcome estimates, confidence intervals, complete event counts, donor-search yield, itemized cost, payer evidence, and an Indonesia route. The source expands the donor-access evidence but does not establish donor equivalence or affordability. |
 | Malaysia pediatric HSCT | `southeast_asian_long_horizon_outcome_and_burden_benchmark_only` | The single-center cohort reports 115 consecutive children, 128 procedures, 96 matched-sibling donors, median 18-year follow-up, 18 transplant-related deaths, 30 graft failures, 30 grade II to IV acute GVHD events, and 32 VOD events. Table 1 and the Results text reconcile 53 ATG-exposed children and 62 without ATG, but the abstract contains malformed subgroup wording. The cohort spans 1987-2023, mixes donor sources and regimens, lacks conditioning pharmacokinetic monitoring and transplant cost, and retains a 155-versus-115 graft-failure error plus unresolved regression labels. It supports regional outcome and burden comparison, not a current route, causal regimen, safety advantage, affordability, Indonesia access, or suitability. |
 | Thailand pediatric HSCT | `southeast_asian_multicenter_outcome_and_payer_path_benchmark_only` | A five-center cohort reports 249 people, 266 procedures, median 102-month follow-up, 91.3% five-year overall survival, and 81.0% event-free survival. Official NHSO evidence shows a thalassemia stem-cell-transplant benefit path added in 2020 and one reimbursed pediatric case. Seventeen second transplants, procedure-based outcomes, enrollment ending in 2016, donor and era mixing, toxicity, late effects, missing current benefit specifications, and no itemized cost or Indonesia path block broader promotion. |
 | Indonesia pediatric matched-sibling HSCT execution | `indonesia_execution_benchmark_only` | APBMT abstract `A-198` reports two pediatric beta-thalassemia major transplants at one Jakarta center, both with HLA-matched sibling donors, day-28 100% donor chimerism, and VOD despite prophylaxis. A current center page supports a facility signal, while a generic Rp800 million to Rp2 billion hospital range remains non-itemized and non-thalassemia-specific. Two selected cases do not establish routine access, scale, durability, safety, payer coverage, or affordability. |
@@ -73,6 +74,16 @@ luspatercept plus thalidomide, and AND017.
 Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
+
+The Spanish multicenter pediatric cohort closes part of the fully matched
+unrelated-donor outcome gap. Sixteen children received fully matched unrelated
+grafts within a 58-child first-transplant cohort, and the report found no
+statistically significant difference in two-year survival outcomes from the
+matched family group. Grade II to IV acute GVHD was higher, however, and the
+accessible abstract does not expose arm-level estimates, confidence intervals,
+complete event denominators, donor-search yield, or delivered cost. Fully
+matched unrelated-donor HSCT therefore moves to a pediatric curative outcome
+benchmark only. Matched-sibling HSCT retains the leading affordable-route label.
 
 FDA's newly final cellular and gene therapy FAQ changes the manufacturing
 experiment, not the clinical route ranking. Risk-based platform analytics and
@@ -228,6 +239,69 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 25 Fully Matched Unrelated-Donor HSCT Decision
+
+**Question:** Does a Spanish multicenter pediatric TDT cohort close the
+donor-access and affordability gaps enough to promote fully matched
+unrelated-donor HSCT beyond a curative outcome benchmark?
+
+**Decision:**
+`promote_fully_matched_unrelated_donor_hsct_to_pediatric_curative_outcome_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Fact:** The retrospective multicenter study includes 58 children after a
+  first HSCT, with median transplant age 5.6 years and median follow-up 7.4
+  years. Thirty-nine received matched family donor grafts. The unrelated group
+  comprised 16 fully matched unrelated donors and three mismatched unrelated
+  cord-blood donors.
+- **Fact:** Thirty-six children received busulfan-based conditioning and 22
+  received treosulfan-based conditioning. Forty-nine grafts used bone marrow
+  alone or with cord blood, six used cord blood, and three used peripheral
+  blood.
+- **Fact:** The abstract reports whole-cohort two-year overall survival of 98%,
+  thalassemia-free survival of 92.2%, and chronic-GVHD-free
+  thalassemia-free survival of 82.7%, without a statistically significant
+  difference between matched family and fully matched unrelated groups.
+- **Fact:** Grade II to IV acute GVHD was higher after fully matched unrelated
+  donation, 56.25% versus 25.71%, with `P = 0.0178`. No significant group
+  difference was reported for grade III to IV acute GVHD or chronic GVHD.
+- **Contradiction and limit:** The abstract exposes only two-year survival
+  estimates despite median 7.4-year follow-up. It does not provide donor-group
+  estimates, confidence intervals, complete event counts, or the three
+  mismatched cord-blood recipients' place in each outcome denominator. The
+  comparator is called matched family donor, while the conclusion refers to
+  matched sibling donor absence. A nonsignificant comparison with 16 fully
+  matched unrelated recipients does not establish equivalence.
+- **Hypothesis:** A governed fully matched unrelated-donor search and transplant
+  pathway can increase the fraction of referred children reaching curative
+  HSCT without losing prespecified survival or severe-GVHD-free outcome
+  performance.
+- **Interpretation:** Promote the route to a pediatric curative outcome
+  benchmark only. Do not infer donor equivalence, long-horizon durability,
+  affordability, Indonesia transferability, or patient suitability.
+- **Affordability and access:** No donor-search success rate, search time,
+  acquisition cost, transplant cost, payer contribution, family cost, failed
+  search denominator, or Indonesia registry and center route was reported.
+- **Open question:** Across all referred children without a matched family
+  donor, what fraction finds a fully matched unrelated donor, reaches first
+  transplant, remains transfusion-free without severe GVHD, and does so within
+  a payer-feasible total cost?
+- **Falsification criterion:** Keep the route outside the affordable ranking
+  unless a consecutive referral-to-transplant cohort reports search attempts,
+  failures, time, first-transplant denominator, two- and five-year
+  thalassemia-free and severe-GVHD-free survival, toxicity, late effects, and
+  itemized payer plus family cost. Reject the access hypothesis if search does
+  not increase the fraction reaching transplant or if a clinically
+  prespecified survival or severe-GVHD-free noninferiority margin is missed.
+  Reject affordability if no funded local path exists or the route loses a
+  meaningful cost advantage over autologous gene-cell therapy.
+- **Next decisive action:** Obtain the full donor-group tables, then ask a
+  qualified transplant-network and health-economics owner to run the same
+  referral-to-transplant comparison in one current Southeast Asian or
+  Indonesian network. No patient action, treatment recommendation, referral,
+  travel, purchase, or sample routing follows.
 
 ## August 25 FDA CGT CMC Development Decision
 

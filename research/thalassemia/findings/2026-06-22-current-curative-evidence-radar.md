@@ -14,6 +14,17 @@ agreement are demonstrated. It contains no TDT delivered-cost, failed-lot,
 conditioning, Indonesia, payer, or patient-access result, so no clinical route
 ranking changes.
 
+A previously unintegrated Spanish multicenter cohort now promotes fully matched
+unrelated-donor HSCT to a pediatric curative outcome benchmark only. Sixteen
+children received fully matched unrelated grafts within a 58-child
+first-transplant cohort with median 7.4-year follow-up. The abstract reports no
+statistically significant donor-group difference in two-year survival outcomes,
+but grade II to IV acute graft-versus-host disease was higher after fully
+matched unrelated donation. Missing donor-group estimates, confidence
+intervals, complete event counts, donor-search yield, itemized cost, payer
+evidence, and an Indonesia route block donor-equivalence and affordable-route
+promotion.
+
 Matched-sibling HSCT is now the leading affordable-curative route benchmark for
 the narrow pediatric population studied in a new LMIC cohort. It remains
 `benchmark_only`: donor restriction, multi-drug conditioning, short follow-up,
@@ -237,6 +248,76 @@ affordability, or access result.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 25 Fully Matched Unrelated-Donor HSCT Decision
+
+**Question:** Does a Spanish multicenter pediatric TDT cohort close the
+donor-access and affordability gaps enough to promote fully matched
+unrelated-donor HSCT beyond a curative outcome benchmark?
+
+**Decision:**
+`promote_fully_matched_unrelated_donor_hsct_to_pediatric_curative_outcome_benchmark_only`.
+Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Evidence tier:** Primary retrospective multicenter pediatric cohort, PMID
+  `41196250`. The official indexed and publisher-visible abstract was checked;
+  no public full text was retrieved, so no hidden table or arm-level value is
+  inferred.
+- **Fact - cohort and donors:** The report includes 58 children after a first
+  HSCT, with median transplant age 5.6 years and median follow-up 7.4 years.
+  Thirty-nine received matched family donor grafts. The unrelated group
+  comprised 16 fully matched unrelated donors and three mismatched unrelated
+  cord-blood donors.
+- **Fact - process mixture:** Thirty-six children received busulfan-based
+  conditioning and 22 received treosulfan-based conditioning. Forty-nine grafts
+  used bone marrow alone or with cord blood, six used cord blood, and three used
+  peripheral blood.
+- **Fact - outcome:** The abstract reports whole-cohort two-year overall
+  survival of 98%, thalassemia-free survival of 92.2%, and chronic-GVHD-free
+  thalassemia-free survival of 82.7%, without a statistically significant
+  difference between matched family and fully matched unrelated groups.
+- **Fact - safety:** Grade II to IV acute GVHD was higher after fully matched
+  unrelated donation, 56.25% versus 25.71%, with `P = 0.0178`. No significant
+  group difference was reported for grade III to IV acute GVHD or chronic
+  GVHD.
+- **Contradiction and limit:** The abstract exposes only two-year survival
+  estimates despite median 7.4-year follow-up. It does not provide donor-group
+  estimates, confidence intervals, complete event counts, or the three
+  mismatched cord-blood recipients' place in each outcome denominator. The
+  comparator is called matched family donor, while the conclusion refers to
+  matched sibling donor absence. A nonsignificant comparison with 16 fully
+  matched unrelated recipients does not establish equivalence or
+  noninferiority.
+- **Hypothesis:** A governed fully matched unrelated-donor search and transplant
+  pathway can increase the fraction of referred children reaching curative
+  HSCT without losing prespecified survival or severe-GVHD-free outcome
+  performance.
+- **Interpretation:** Promote the route to a pediatric curative outcome
+  benchmark only. The source expands donor-access evidence but does not
+  establish donor equivalence, current long-horizon durability, affordability,
+  Indonesia transferability, or patient suitability.
+- **Affordability and access:** No donor-search success rate, search time,
+  acquisition cost, transplant cost, payer contribution, family cost, failed
+  search denominator, or Indonesia registry and center route was reported.
+- **Open question:** Across all referred children without a matched family
+  donor, what fraction finds a fully matched unrelated donor, reaches first
+  transplant, remains transfusion-free without severe GVHD, and does so within
+  a payer-feasible total cost?
+- **Falsification criterion:** Keep the route outside the affordable ranking
+  unless a consecutive referral-to-transplant cohort reports search attempts,
+  failures, time, first-transplant denominator, two- and five-year
+  thalassemia-free and severe-GVHD-free survival, toxicity, late effects, and
+  itemized payer plus family cost. Reject the access hypothesis if search does
+  not increase the fraction reaching transplant or if a clinically
+  prespecified survival or severe-GVHD-free noninferiority margin is missed.
+  Reject affordability if no funded local path exists or the route loses a
+  meaningful cost advantage over autologous gene-cell therapy.
+- **Next decisive action:** Obtain the full donor-group tables, then ask a
+  qualified transplant-network and health-economics owner to run the same
+  referral-to-transplant comparison in one current Southeast Asian or
+  Indonesian network. No patient action, treatment recommendation, referral,
+  travel, purchase, or sample routing follows.
 
 ## August 25 FDA CGT CMC Development Decision
 
@@ -2486,6 +2567,7 @@ Decision: `hold_registry_watch`
 | HGI-001 lentiviral gene addition | PMID `41693207`, aliased `NCT05745532`/`NCT04592458`, and `NCT07721480` | Early clinical benchmark only; five-child transfusion-independence evidence is now source-linked, but registry-publication conflicts, conditioning, complete long-term safety, manufacturing failures, and delivered cost remain open. |
 | Lentiviral gene addition | FDA ZYNTEGLO page | Approved benchmark, not Indonesia availability or route selection. |
 | Matched-sibling allogeneic HSCT | 2026 multicenter LMIC cohort, 115-child Malaysian and 205-child Saudi regional cohorts, Jakarta two-case APBMT report, long-term HSCT synthesis and primary cohort, pre-HSCT fertility cohort, TTF cohort, TIF, EBMT guidance, and BPOM BUSULFEX record | Leading affordable-curative route benchmark for the narrow pediatric donor and risk scope. Malaysia adds a Southeast Asian median 18-year follow-up signal from a cohort with 96 matched-sibling donors, but its mixed eras, absent pharmacokinetic monitoring, missing transplant cost, and reporting conflicts block route or regimen promotion. The Saudi cohort adds long-horizon regional durability, but not a matched-sibling-specific rate, clean survival horizon, current-era comparison, or cost. Jakarta establishes two-case local execution, but both cases developed VOD and no complete outcome or itemized cost is reported. Historical late effects, conditioning, center capacity, and Indonesia lifetime cost keep the route `benchmark_only`. |
+| Fully matched unrelated-donor allogeneic HSCT | Spanish multicenter cohort, PMID `41196250` | Pediatric curative outcome benchmark only. Sixteen children received fully matched unrelated grafts within a 58-child first-transplant cohort, but grade II to IV acute GVHD was higher than after matched family donation. The accessible abstract lacks donor-group survival estimates, confidence intervals, complete event counts, donor-search yield, cost, payer evidence, and an Indonesia route. A nonsignificant comparison does not establish donor equivalence or affordability. |
 | TTF-conditioned allogeneic HSCT | PMID `42467967` | Matched-family donor conditioning benchmark only. A retrospective 74-child cohort reports 95% five-year overall survival and 88.3% thalassemia-free survival in its combined matched-family group, but no concurrent busulfan comparison, adjusted donor-specific result, complete safety denominator, delivered cost, or Indonesia access. The combined alternative-donor group's 57.3% estimates block donor-agnostic promotion. |
 | Alternative-donor allogeneic HSCT | PMID `41730859` and F-BMT cohort PMID `42489576` | F-BMT is promoted to a conditioning benchmark only. Haploidentical donation can reduce donor restriction, but cohort independence, GVHD, infection, late safety, center capacity, and delivered cost remain open. |
 | Reduced-intensity matched-donor HSCT watch | `NCT07599176` NIH phase 1/2 record | Recruiting conditioning comparator, not eligibility or access. |

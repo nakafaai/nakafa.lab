@@ -300,14 +300,26 @@ Exa-cel retains its process-burden hold. Matched-sibling HSCT remains
   package are version 1 artifacts. The version 3 API abstract repeats the core
   values, but the available evidence does not show that the underlying data or
   result changed on August 26.
+- **Late delivery comparator:** BioRxiv DOI
+  `10.64898/2026.08.26.747413` is a version 1 primary preclinical preprint. Its
+  official abstract compares electroporation of Cas9 RNP with LNP delivery of
+  Cas9 messenger RNA in primary healthy HbAA and SCD HSPCs. Electroporation
+  produced higher editing, while LNP groups retained greater viability and cell
+  yield through in vitro erythroid differentiation. The abstract reports HbF
+  proportional to indel frequency and reduced in vitro sickling, but omits the
+  independent donor denominator, exact guide, target coordinates, long-term
+  repopulation, complete genomic safety, failed-batch count, and cost. The
+  publisher PDF returned HTTP 429 during the 2026-08-27 check.
 - **Hypothesis:** A low-cost variant-aware preflight test can detect target
   sequences that materially reduce `sg1617` editing before individualized HSPC
   manufacture, and a validated alternative guide can recover the intended
   erythroid effect without unacceptable genomic risk or process cost.
 - **Interpretation:** Promote susceptibility testing to a preclinical
   development benchmark only. Do not convert database labels into ancestry,
-  eligibility, access, or clinical-response rules. Keep exa-cel and broader
-  gene-cell route rankings unchanged.
+  eligibility, access, or clinical-response rules. The late LNP record is a
+  stage-two delivery comparator, not separate promotion evidence and not
+  validation of `sg1617`. Keep exa-cel and broader gene-cell route rankings
+  unchanged.
 - **Affordability and access:** A preflight assay can prevent wasted process
   work only if it changes a validated manufacturing decision. Rare prevalence,
   confirmatory testing, rescue-guide qualification, release testing, and
@@ -325,13 +337,15 @@ Exa-cel retains its process-burden hold. Matched-sibling HSCT remains
 - **Next decisive action:** A qualified gene-editing and HSPC laboratory owner
   should compare the same research-grade `sg1617` RNP across reference,
   `chr2-60495268-T/G`, `chr2-60495273-G/A`, and explicitly synthetic combined
-  target contexts. Start with an isogenic target assay, then require erythroid
-  and at least three independent HSPC-background confirmations, a non-targeting
-  control, and a variant-matched rescue guide. Measure editing, BCL11A, HbF,
-  globin balance, maturation, viability, colony output, broad genomic safety,
-  failed runs, labor, consumables, and cost per decision-ready batch. No patient
-  action, eligibility conclusion, referral, purchase, or sample routing
-  follows.
+  target contexts. Start with an isogenic target assay. Only after it confirms
+  the target effect, compare electroporation of `sg1617` RNP with LNP delivery
+  of Cas9 messenger RNA plus the same guide in an erythroid model and at least
+  three independent genotype-diverse TDT HSPC backgrounds. Include a non-
+  targeting control and a variant-matched rescue guide. Measure editing,
+  BCL11A, HbF, globin balance, maturation, viability, colony output, long-term
+  repopulation, broad genomic safety, failed runs, labor, consumables, and cost
+  per decision-ready batch. No patient action, eligibility conclusion,
+  referral, purchase, or sample routing follows.
 
 ## August 25 Fully Matched Unrelated-Donor HSCT Decision
 

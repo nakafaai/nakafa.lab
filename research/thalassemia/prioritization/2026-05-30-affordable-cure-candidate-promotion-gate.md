@@ -294,13 +294,23 @@ narrow scope.
   residual on-target activity. No TDT donor cell, treatment recipient, actual
   edit, BCL11A expression, HbF, chain balance, transfusion independence,
   manufacturing failure, or cost was measured.
+- **Late delivery comparator:** BioRxiv DOI
+  `10.64898/2026.08.26.747413` directly compares electroporation of Cas9 RNP
+  with LNP delivery of Cas9 messenger RNA in primary healthy HbAA and SCD HSPCs.
+  Its abstract reports higher editing after electroporation, greater viability
+  and cell yield after LNP delivery, HbF proportional to indel frequency, and
+  reduced in vitro sickling after LNP editing. It omits the independent donor
+  denominator, exact guide, target coordinates, long-term repopulation,
+  complete genomic safety, failed-batch count, and cost. It is a stage-two
+  process comparator, not `sg1617` validation or a TDT result.
 - **Hypothesis:** A low-cost target-sequence preflight test can identify
   materially impaired `sg1617` contexts before individualized HSPC manufacture,
   while a validated rescue guide can restore the intended erythroid effect
   without unacceptable genomic risk or process cost.
 - **Interpretation:** Promote the experiment only. Do not create an ancestry,
   eligibility, clinical-response, affordability, access, or patient-screening
-  rule from database population labels and model scores.
+  rule from database population labels and model scores. Do not separately
+  promote LNP delivery from the abstract-only SCD and healthy-HSPC comparison.
 - **Falsification criterion:** Reject the predicted failure signal if blinded,
   same-process testing shows no reproducible loss of editing relative to the
   reference target. Reject process affordability if screening and rescue-guide
@@ -309,10 +319,12 @@ narrow scope.
   long-term repopulation risk.
 - **Next decisive action:** Compare one research-grade `sg1617` RNP across
   reference, each catalogued single variant, and an explicitly synthetic
-  combined context. Require isogenic target, erythroid, and at least three
-  independent HSPC-background stages, a non-targeting control, a
-  variant-matched rescue guide, functional globin and safety endpoints,
-  failed-run counts, and
+  combined context. Start with an isogenic target assay. Only after it confirms
+  the target effect, compare electroporation of `sg1617` RNP with LNP delivery
+  of Cas9 messenger RNA plus the same guide in an erythroid model and at least
+  three independent genotype-diverse TDT HSPC backgrounds. Require a non-
+  targeting control, a variant-matched rescue guide, functional globin,
+  long-term repopulation and genomic-safety endpoints, failed-run counts, and
   activity-based cost per decision-ready batch. No patient action, eligibility
   conclusion, treatment recommendation, referral, purchase, or sample routing
   follows.

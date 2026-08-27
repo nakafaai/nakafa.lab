@@ -1,10 +1,19 @@
 # Current Curative Evidence Radar
 
 Date checked: 2026-06-22
-Last evidence update: 2026-08-25
+Last evidence update: 2026-08-27
 Status: general evidence radar, not treatment advice
 
 ## Direct Answer
+
+CRISPR-HAWK version 3 and its public archived outputs promote variant-aware
+`sg1617` susceptibility testing to a preclinical development benchmark only.
+One rare gnomAD target variant is predicted to reduce residual cutting activity
+to zero, but no TDT cell or treatment recipient was tested. The public
+sample-count code also sums separate carrier counts for a combined unphased
+sequence, so that reported four-sample value is not an observed joint-haplotype
+denominator. This changes the development experiment, not the exa-cel or
+affordable-curative route ranking.
 
 FDA's final August 2026 cellular and gene therapy FAQ promotes risk-based
 platform analytics and PPQ planning to a regulatory development benchmark only.
@@ -246,6 +255,83 @@ affordability, or access result.
 Current operational label:
 
 `case001_curative_evidence_radar_ready_general_only`
+
+## August 27 Variant-Aware BCL11A Guide Decision
+
+**Question:** Does the August 26 CRISPR-HAWK revision show a clinically observed
+exa-cel failure subgroup, or does it only justify a variant-aware preclinical
+robustness experiment for the BCL11A enhancer guide?
+
+**Decision:**
+`promote_variant_aware_sg1617_susceptibility_testing_to_preclinical_development_benchmark_only`.
+Exa-cel retains its process-burden hold. Matched-sibling HSCT remains
+`leading_affordable_curative_route_benchmark_only`.
+
+- **Evidence tier:** DOI `10.64898/2025.12.27.696698`, PMID `41497669`, and
+  PMCID `PMC12767513` identify a primary computational preprint. The bioRxiv
+  API lists version 3 dated 2026-08-26. Its public archived outputs and
+  reproduction scripts expose the target-level analysis.
+- **Fact - scale and endpoint:** The study analyzes reference and
+  variant-derived guide sequences across 1000 Genomes, HGDP, and gnomAD. It
+  reports that 82.5% of reference-designed guides across seven therapeutic or
+  benchmark loci contain at least one variant predicted to alter on-target
+  activity. That denominator is guides, not people or clinical failures.
+- **Fact - exact `sg1617` signal:** In the archived gnomAD table, reference
+  `sg1617` at GRCh38 `chr2:60495261-60495284` has CFD `1.0`.
+  `chr2-60495268-T/G`, with dataset population code `afr`, allele frequency
+  `0.00002`, and three computed carriers, has predicted CFD `0.0`.
+  `chr2-60495273-G/A` has predicted CFD `0.3077`, while
+  `chr2-60495283-G/C` has predicted CFD `0.913`.
+- **Fact - reproducibility:** The inspected 3,129,551-byte processed-results
+  archive matched Zenodo MD5 checksum
+  `b4ee3b17468bb7764fb236cd8a4018f0`. Filtering the three BCL11A tables to the
+  exact `sg1617` coordinates reproduced the gnomAD rows. HGDP and 1000 Genomes
+  contained only the reference row at that target.
+- **Contradiction and limit:** The preprint reports a combined
+  `chr2-60495268-T/G` plus `chr2-60495273-G/A` sequence with four samples and
+  CFD zero. Its public gnomAD post-processing function calculates the sample
+  value by adding separate carrier counts. It does not establish that four
+  people carried both variants together.
+- **Prediction boundary:** CRISPR-HAWK repurposes the CFD off-target model to
+  predict residual on-target activity after target mismatch. No TDT donor
+  cell, treatment recipient, on-target edit, BCL11A expression, HbF,
+  globin-chain balance, transfusion-independence outcome, or cost was measured.
+- **Revision boundary:** The retrievable PMC full text and Zenodo analysis
+  package are version 1 artifacts. The version 3 API abstract repeats the core
+  values, but the available evidence does not show that the underlying data or
+  result changed on August 26.
+- **Hypothesis:** A low-cost variant-aware preflight test can detect target
+  sequences that materially reduce `sg1617` editing before individualized HSPC
+  manufacture, and a validated alternative guide can recover the intended
+  erythroid effect without unacceptable genomic risk or process cost.
+- **Interpretation:** Promote susceptibility testing to a preclinical
+  development benchmark only. Do not convert database labels into ancestry,
+  eligibility, access, or clinical-response rules. Keep exa-cel and broader
+  gene-cell route rankings unchanged.
+- **Affordability and access:** A preflight assay can prevent wasted process
+  work only if it changes a validated manufacturing decision. Rare prevalence,
+  confirmatory testing, rescue-guide qualification, release testing, and
+  regulator review may erase any saving. No source reports BPOM acceptance,
+  Indonesia capacity, payer coverage, or reduced failed-lot burden.
+- **Open question:** Does catalogued `chr2-60495268-T/G` cause a prespecified,
+  reproducible loss of same-process `sg1617` editing and erythroid benefit, and
+  can a rescue guide restore them safely at lower total process cost?
+- **Falsification criterion:** Reject the predicted failure signal if blinded,
+  same-process testing shows no reproducible editing loss relative to the
+  reference target. Reject the affordable-process hypothesis if screening and
+  rescue-guide qualification cost more than the failures they prevent, do not
+  change a manufacturing decision, or introduce unacceptable genomic,
+  viability, erythroid, or long-term repopulation risk.
+- **Next decisive action:** A qualified gene-editing and HSPC laboratory owner
+  should compare the same research-grade `sg1617` RNP across reference,
+  `chr2-60495268-T/G`, `chr2-60495273-G/A`, and explicitly synthetic combined
+  target contexts. Start with an isogenic target assay, then require erythroid
+  and at least three independent HSPC-background confirmations, a non-targeting
+  control, and a variant-matched rescue guide. Measure editing, BCL11A, HbF,
+  globin balance, maturation, viability, colony output, broad genomic safety,
+  failed runs, labor, consumables, and cost per decision-ready batch. No patient
+  action, eligibility conclusion, referral, purchase, or sample routing
+  follows.
 
 ## August 25 Fully Matched Unrelated-Donor HSCT Decision
 
@@ -2582,7 +2668,7 @@ Decision: `hold_registry_watch`
 
 | Route | Current signal | Interpretation boundary |
 | --- | --- | --- |
-| Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records, and FDA's 2026 CGT CMC guidance | Strong curative benchmark; FDA's risk-based platform analytics and PPQ options may reduce duplicated development work but do not remove product-specific verification, commercial-scale validation, repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, or the reported busulfan-related fatality. No TDT-specific cost or Indonesia acceptance result supports affordable-route promotion. |
+| Autologous gene-cell therapy | FDA CASGEVY page and manufacturing review, adult and pediatric exa-cel primary results, CTX001 registry records, FDA's 2026 CGT CMC guidance, and CRISPR-HAWK DOI `10.64898/2025.12.27.696698` | Strong curative benchmark. Variant-aware `sg1617` susceptibility testing is promoted to a preclinical development benchmark because one rare gnomAD target variant has predicted CFD zero. No TDT cell or recipient was tested, and the combined-sequence sample count is an arithmetic sum rather than an observed joint haplotype. FDA's risk-based platform analytics and PPQ options may reduce duplicated development work but do not remove product-specific verification, commercial-scale validation, repeat mobilization, multiple-product-lot use, an FDA-described relatively high clinical-lot failure rate with redacted counts, full myeloablation, or the reported busulfan-related fatality. No TDT-specific cost or Indonesia acceptance result supports affordable-route promotion. |
 | Astatine-211 anti-CD45 radioimmunotherapy conditioning | PMID `42224345`, PMID `41671449`, `NCT04083183`, BRIN's 2025 infrastructure review, the IAEA production report and cyclotron directory, and BAPETEN facility records | Held at a nonhuman-primate targeted conditioning benchmark after an Indonesia production screen. Four healthy macaques support durable edited-HSPC engraftment, while mouse data expose marrow-niche injury not resolved by blood recovery or routine organ monitoring. BRIN reports only fluorine-18 from the three hospital cyclotrons operating through end-2024, and the IAEA's four listed Indonesian entries have blank alpha fields. BRIN's 19.36 MeV threshold conflicts with the IAEA's 20.718 MeV reaction threshold; the IAEA's 21.0 to 28.6 MeV practical window and impurity ceiling define the facility gate. Recent regulator records add fluorine-18 facilities, not a public Astatine-211 route. Historical controls, no TDT phenotype, incomplete long-term safety, no verified local production chain, and no delivered cost block clinical or affordable-route promotion. |
 | `CD117` epitope-shielded conditioning | Primary humanized-mouse preprint | Promoted to preclinical conditioning benchmark only; antibody-withdrawal durability, full safety, and cost remain open. |
 | Lentiviral gene addition watch | `NCT07680803` FT007 phase 2b record | Recruiting active-registry benchmark; no posted outcome, safety, durability, manufacturing-failure, or cost evidence. |

@@ -1,7 +1,7 @@
 # Affordable-Cure Candidate Promotion Gate
 
 Date checked: 2026-05-30
-Last evidence update: 2026-08-25
+Last evidence update: 2026-08-27
 Scope: research prioritization, not treatment advice
 
 ## Purpose
@@ -41,6 +41,7 @@ answers:
 | F-BMT haploidentical HSCT | `conditioning_benchmark_only` | A prospective 29-person cohort reports 93.1% two-year thalassemia-free and overall survival with no graft failure. Single-center design, incomplete abstract-level safety attribution, possible overlap with an earlier multicenter cohort, and absent delivered cost block affordable-route promotion. |
 | FT007 lentiviral gene addition | `active_registry_benchmark_only` | The nine-person phase 2b record is now recruiting with an actual start, but design and outcomes did not change and no results are posted. Conditioning, product and clonal safety, durability, manufacturing failures, delivered cost, and Indonesia access remain unresolved. |
 | Approved or late gene-cell therapy | `benchmark_only` | Pediatric exa-cel confirms transfusion-independence potential, but adult TDT process evidence now adds repeat mobilization, multiple-product-lot use, and an FDA-described relatively high clinical-lot failure rate with redacted counts. A corrected 13-child collection report adds 25 procedures, repeat collection in 8 children, and one failed adequate-cell collection after two procedures without identifying the product, released-lot denominator, or cost. Full myeloablation, a reported fatal busulfan-related event, required long-term safety surveillance, incomplete commercial denominators, and missing delivered cost leave conditioning, safety, access, center, and cost gaps open. BRL-101 has no posted outcomes. HGI-001 now has a source-linked five-child pilot, but its small conflicted evidence base, busulfan route, and missing delivered cost keep it at an early clinical benchmark. |
+| Variant-aware BCL11A guide testing | `preclinical_development_benchmark_only` | CRISPR-HAWK predicts CFD zero for one rare catalogued `sg1617` target variant, but no TDT cell or recipient was tested. Its combined-sequence sample count adds separate gnomAD carrier counts rather than observing a joint haplotype. Promote a same-process robustness experiment, not a clinical failure subgroup, ancestry rule, patient screen, or affordable-route claim. |
 | CGT manufacturing validation strategy | `regulatory_development_benchmark_only` | FDA's final August 2026 cellular and gene therapy FAQ and May 2026 CMC-flexibilities guidance allow justified reuse of knowledge from sufficiently similar products, platform analytical procedures, risk-based PPQ batch counts, and selected post-approval completion strategies. Product-specific verification, commercial-scale PPQ, release specifications, CGMP, and case-specific FDA agreement remain. No TDT cost, failed-lot, conditioning, Indonesia acceptance, or payer result supports affordable-route promotion. |
 | Gene-cell therapy HLA class I process risk | `hold_hla_class_i_alloimmunization_at_plausible_gene_therapy_process_risk_signal_only` | A CHOP peer-reviewed cohort associated severe PRA with delayed platelet engraftment and greater transfusion burden, while a separate 24-person TDT conference cohort found no significant association by antibody-positive status. Exposure thresholds, testing strategy, product mix, VOD and splenic handling, and outcome analysis differ. Bleeding remains a route-level burden, but HLA class I is not a validated causal or product-specific predictor. |
 | YOLT-204 systemic genetic intervention | `hold_yolt_204_at_three_record_pre_results_systemic_genetic_intervention_benchmark_only_pending_protocol_identity_and_first_dosed_results` | A third record adds explicit intravenous dose groups, genetic-intervention classification, and intended-modification outcomes in blood and marrow. All three YOLT-204 records remain not yet recruiting with no posted results, different sponsors and protocols, conflicting TDT scope, and no official relation. Planned enrollment must not be summed. Mechanism, safety, efficacy, durability, delivered cost, and Indonesia access remain unresolved. |
@@ -74,6 +75,15 @@ luspatercept plus thalidomide, and AND017.
 Therefore, Nakafa Lab should not promote another weak candidate. It should
 promote only a candidate that names the benchmark gap it can realistically
 improve and the test that could reject it.
+
+CRISPR-HAWK version 3 and its archived outputs now define one such test for the
+BCL11A enhancer guide used in exa-cel. A rare gnomAD target variant has
+predicted CFD zero, but the result is computational and contains no TDT cell or
+clinical outcome. The public gnomAD post-processing code also assigns four
+samples to a combined two-variant sequence by adding the separate carrier
+counts. Variant-aware susceptibility testing therefore moves to a preclinical
+development benchmark only. It does not change the gene-cell or
+affordable-curative route ranking.
 
 The Spanish and Indian pediatric cohorts close part of the fully matched
 unrelated-donor reproducibility and outcome-horizon gaps. The Spanish report
@@ -245,6 +255,67 @@ infectious toxicity denominators. Supplementary Table S3 lists 31 cause
 assignments across 19 deaths under a singular primary-cause heading. The
 categories overlap or the heading is incorrect, so they do not support unique
 cause-specific or time-bounded transplant-related mortality rates.
+
+## August 27 Variant-Aware BCL11A Guide Decision
+
+**Question:** Does the August 26 CRISPR-HAWK revision show a clinically observed
+exa-cel failure subgroup, or does it only justify a variant-aware preclinical
+robustness experiment for `sg1617`?
+
+**Decision:**
+`promote_variant_aware_sg1617_susceptibility_testing_to_preclinical_development_benchmark_only`.
+Keep exa-cel at its strong curative benchmark and process-burden hold. Keep
+matched-sibling HSCT as the leading affordable-curative benchmark for its
+narrow scope.
+
+- **Evidence tier:** Primary computational preprint DOI
+  `10.64898/2025.12.27.696698`, PMID `41497669`, PMCID `PMC12767513`, linked
+  Zenodo processed results, and public reproduction code. BioRxiv lists version
+  3 dated 2026-08-26.
+- **Fact:** The study reports that 82.5% of reference-designed guides across
+  seven therapeutic or benchmark loci contain at least one variant predicted
+  to alter activity. This is a guide denominator, not a person, TDT, or failure
+  denominator.
+- **Fact:** The archived gnomAD table gives reference `sg1617` CFD `1.0` and
+  `chr2-60495268-T/G` CFD `0.0`, with allele frequency `0.00002`, dataset
+  population code `afr`, and three computed carriers. `chr2-60495273-G/A` has
+  CFD `0.3077`, while `chr2-60495283-G/C` has CFD `0.913`.
+- **Reproducibility:** The 3,129,551-byte processed-results archive matched
+  Zenodo MD5 `b4ee3b17468bb7764fb236cd8a4018f0`. Exact-coordinate filtering
+  reproduced the gnomAD rows. HGDP and 1000 Genomes contained only the
+  reference row at the `sg1617` target.
+- **Contradiction and limit:** The combined `chr2-60495268-T/G` plus
+  `chr2-60495273-G/A` sequence is assigned four samples by adding separate
+  carrier counts in the public gnomAD post-processing function. It is not an
+  observed four-person joint haplotype. The retrievable PMC and Zenodo analysis
+  package are version 1 artifacts, so the current version 3 record does not by
+  itself establish a newly changed dataset.
+- **Prediction boundary:** CFD is an off-target predictor repurposed for
+  residual on-target activity. No TDT donor cell, treatment recipient, actual
+  edit, BCL11A expression, HbF, chain balance, transfusion independence,
+  manufacturing failure, or cost was measured.
+- **Hypothesis:** A low-cost target-sequence preflight test can identify
+  materially impaired `sg1617` contexts before individualized HSPC manufacture,
+  while a validated rescue guide can restore the intended erythroid effect
+  without unacceptable genomic risk or process cost.
+- **Interpretation:** Promote the experiment only. Do not create an ancestry,
+  eligibility, clinical-response, affordability, access, or patient-screening
+  rule from database population labels and model scores.
+- **Falsification criterion:** Reject the predicted failure signal if blinded,
+  same-process testing shows no reproducible loss of editing relative to the
+  reference target. Reject process affordability if screening and rescue-guide
+  qualification do not change a manufacturing decision, cost more than the
+  failures they prevent, or add unacceptable genomic, viability, erythroid, or
+  long-term repopulation risk.
+- **Next decisive action:** Compare one research-grade `sg1617` RNP across
+  reference, each catalogued single variant, and an explicitly synthetic
+  combined context. Require isogenic target, erythroid, and at least three
+  independent HSPC-background stages, a non-targeting control, a
+  variant-matched rescue guide, functional globin and safety endpoints,
+  failed-run counts, and
+  activity-based cost per decision-ready batch. No patient action, eligibility
+  conclusion, treatment recommendation, referral, purchase, or sample routing
+  follows.
 
 ## August 25 Fully Matched Unrelated-Donor HSCT Decision
 
